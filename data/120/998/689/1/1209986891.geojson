@@ -1,0 +1,67 @@
+{
+  "id": 1209986891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.69769,8.3373,-71.69769,8.3373",
+    "geom:latitude":8.3373,
+    "geom:longitude":-71.69769,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cucuchica",
+    "gn:country_code":"VE",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644849,
+    "gn:latitude":8.3373,
+    "gn:longitude":-71.69769,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Cucuchica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644849
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ecff9b446590292c21c7f79661e0e401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1209986891,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1209986891,
+    "wof:lastmodified":1536388198,
+    "wof:name":"Cucuchica",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.69769000000002,
+    8.3373,
+    -71.69769000000002,
+    8.3373
+],
+  "geometry": {"coordinates":[-71.69769000000002,8.3373],"type":"Point"}
+}

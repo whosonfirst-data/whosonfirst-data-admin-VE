@@ -1,0 +1,67 @@
+{
+  "id": 1344233537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.06296,9.32527,-67.06296,9.32527",
+    "geom:latitude":9.32527,
+    "geom:longitude":-67.06296,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Sardina",
+    "gn:country_code":"VE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636295,
+    "gn:latitude":9.32527,
+    "gn:longitude":-67.06296,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"La Sardina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421189079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636295
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"25adf2d40b8d35484b90706af427c927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189079,
+            "locality_id":1344233537,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1344233537,
+    "wof:lastmodified":1536623939,
+    "wof:name":"La Sardina",
+    "wof:parent_id":421189079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.06296,
+    9.32527,
+    -67.06296,
+    9.32527
+],
+  "geometry": {"coordinates":[-67.06296,9.32527],"type":"Point"}
+}

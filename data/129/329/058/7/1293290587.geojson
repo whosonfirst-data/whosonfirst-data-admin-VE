@@ -1,0 +1,67 @@
+{
+  "id": 1293290587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.27132,7.99078,-68.27132,7.99078",
+    "geom:latitude":7.99078,
+    "geom:longitude":-68.27132,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Veguitas",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486404,
+    "gn:latitude":7.99078,
+    "gn:longitude":-68.27132,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Las Veguitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486404
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d182891703d8bcede532bebb687209d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1293290587,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293290587,
+    "wof:lastmodified":1537067921,
+    "wof:name":"Las Veguitas",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.27131999999999,
+    7.99078,
+    -68.27131999999999,
+    7.99078
+],
+  "geometry": {"coordinates":[-68.27131999999999,7.99078],"type":"Point"}
+}

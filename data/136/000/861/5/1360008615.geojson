@@ -1,0 +1,67 @@
+{
+  "id": 1360008615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.85,9.7,-66.85,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":-66.85,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cumbito",
+    "gn:country_code":"VE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644751,
+    "gn:latitude":9.7,
+    "gn:longitude":-66.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cumbito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421193519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644751
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6c1809549273f9e3c7888951045e10b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193519,
+            "locality_id":1360008615,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1360008615,
+    "wof:lastmodified":1537053668,
+    "wof:name":"Cumbito",
+    "wof:parent_id":421193519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.85,
+    9.7,
+    -66.85,
+    9.7
+],
+  "geometry": {"coordinates":[-66.84999999999999,9.7],"type":"Point"}
+}

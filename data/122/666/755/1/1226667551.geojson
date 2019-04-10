@@ -1,0 +1,67 @@
+{
+  "id": 1226667551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.18444,7.80278,-65.18444,7.80278",
+    "geom:latitude":7.80278,
+    "geom:longitude":-65.18444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Comepoco",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807710,
+    "gn:latitude":7.80278,
+    "gn:longitude":-65.18444,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Comepoco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807710
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"31db5b23a5e3be4ea4855027dc1b3fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1226667551,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1226667551,
+    "wof:lastmodified":1536827190,
+    "wof:name":"Comepoco",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.18444000000001,
+    7.80278,
+    -65.18444000000001,
+    7.80278
+],
+  "geometry": {"coordinates":[-65.18444000000001,7.80278],"type":"Point"}
+}

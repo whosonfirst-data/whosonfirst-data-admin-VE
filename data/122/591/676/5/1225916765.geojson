@@ -1,0 +1,67 @@
+{
+  "id": 1225916765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.8622,10.29328,-66.8622,10.29328",
+    "geom:latitude":10.29328,
+    "geom:longitude":-66.8622,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Brisas del Tuy",
+    "gn:country_code":"VE",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647943,
+    "gn:latitude":10.29328,
+    "gn:longitude":-66.8622,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Brisas del Tuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647943
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9b238036a8dda32112d71ac7f81bd9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171913,
+            "locality_id":1225916765,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1225916765,
+    "wof:lastmodified":1536911723,
+    "wof:name":"Brisas del Tuy",
+    "wof:parent_id":421171913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8622,
+    10.29328,
+    -66.8622,
+    10.29328
+],
+  "geometry": {"coordinates":[-66.8622,10.29328],"type":"Point"}
+}

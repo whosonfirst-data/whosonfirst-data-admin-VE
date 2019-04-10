@@ -1,0 +1,67 @@
+{
+  "id": 1309907971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.92977,9.47131,-64.92977,9.47131",
+    "geom:latitude":9.47131,
+    "geom:longitude":-64.92977,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Canton",
+    "gn:country_code":"VE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643961,
+    "gn:latitude":9.47131,
+    "gn:longitude":-64.92977,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"El Cant\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643961
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"96360c45d900185853a3118c14b228b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1309907971,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309907971,
+    "wof:lastmodified":1536784300,
+    "wof:name":"El Canton",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.92976999999999,
+    9.47131,
+    -64.92976999999999,
+    9.47131
+],
+  "geometry": {"coordinates":[-64.92976999999999,9.47131],"type":"Point"}
+}

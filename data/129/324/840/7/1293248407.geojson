@@ -1,0 +1,67 @@
+{
+  "id": 1293248407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.08144,10.43611,-71.08144,10.43611",
+    "geom:latitude":10.43611,
+    "geom:longitude":-71.08144,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Cuarente y Cuatro",
+    "gn:country_code":"VE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763661,
+    "gn:latitude":10.43611,
+    "gn:longitude":-71.08144,
+    "gn:modification_date":"1998-07-20",
+    "gn:name":"El Cuarente y Cuatro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763661
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"239c1aa420b6bdad72991a56e2780d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1293248407,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293248407,
+    "wof:lastmodified":1536633371,
+    "wof:name":"El Cuarente y Cuatro",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.08144,
+    10.43611,
+    -71.08144,
+    10.43611
+],
+  "geometry": {"coordinates":[-71.08144,10.43611],"type":"Point"}
+}

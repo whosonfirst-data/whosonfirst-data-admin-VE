@@ -1,0 +1,129 @@
+{
+  "id": 421197703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26053,8.03125,-72.26053,8.03125",
+    "geom:latitude":8.03125,
+    "geom:longitude":-72.26053,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u79d1\u9686"
+    ],
+    "name:dut_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:eng_x_colloquial":[
+        "San Juan De Colon"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan De Colon"
+    ],
+    "name:eng_x_variant":[
+        "San Juan de Col\u00f3n",
+        "Col\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "San Juan de Col\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan de Col\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan de Col\u00f3n"
+    ],
+    "name:por_x_colloquial":[
+        "San Juan De Colon"
+    ],
+    "name:por_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:por_x_variant":[
+        "San Juan De Colon",
+        "San Juan de Col\u00f3n"
+    ],
+    "name:spa_x_colloquial":[
+        "San Juan De Colon"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan de Col\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Col\u00f3n",
+        "San Juan De Colon"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9686"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3628060,
+    "qs:gn_pop":38233,
+    "qs:name":"San Juan de Col\u00f3n",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:photos":62,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":62,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":149560,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468807,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421189269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628060,
+        "gp:id":468807,
+        "qs:id":149560,
+        "wd:id":"Q3072164",
+        "wk:page":"Col\u00f3n, Venezuela"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009922,
+    "wof:geomhash":"1135e37aa3c98392ec0b1e4b3816c625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189269,
+            "locality_id":421197703,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":421197703,
+    "wof:lastmodified":1514502425,
+    "wof:name":"San Juan de Col\u00f3n",
+    "wof:parent_id":421189269,
+    "wof:placetype":"locality",
+    "wof:population":38233,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26053,
+    8.03125,
+    -72.26053,
+    8.03125
+],
+  "geometry": {"coordinates":[-72.26053,8.03125],"type":"Point"}
+}

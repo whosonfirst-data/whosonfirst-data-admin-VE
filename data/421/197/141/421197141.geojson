@@ -1,0 +1,79 @@
+{
+  "id": 421197141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.54174,10.521146,-67.54174,10.521146",
+    "geom:latitude":10.521146,
+    "geom:longitude":-67.54174,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Chuao",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":255,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1316049,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805667,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421186263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805667,
+        "qs:id":1316049,
+        "qs_pg:id":1316049
+    },
+    "wof:country":"VE",
+    "wof:created":1459009904,
+    "wof:geomhash":"fee3d1e6c8f903b271aa2c008a61fcd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186263,
+            "localadmin_id":421197141,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421197141,
+    "wof:lastmodified":1497042820,
+    "wof:name":"Chuao",
+    "wof:parent_id":421186263,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.54174,
+    10.521146,
+    -67.54174,
+    10.521146
+],
+  "geometry": {"coordinates":[-67.54174,10.521146],"type":"Point"}
+}

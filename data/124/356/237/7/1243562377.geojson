@@ -1,0 +1,67 @@
+{
+  "id": 1243562377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.0709,8.07405,-65.0709,8.07405",
+    "geom:latitude":8.07405,
+    "geom:longitude":-65.0709,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bayona",
+    "gn:country_code":"VE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648413,
+    "gn:latitude":8.07405,
+    "gn:longitude":-65.0709,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bayona",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648413
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d9b372161ca780d1d1420e1b9d2e6609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1243562377,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1243562377,
+    "wof:lastmodified":1536637257,
+    "wof:name":"Bayona",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.0709,
+    8.07405,
+    -65.0709,
+    8.07405
+],
+  "geometry": {"coordinates":[-65.07089999999999,8.07405],"type":"Point"}
+}

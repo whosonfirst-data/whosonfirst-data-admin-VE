@@ -1,0 +1,67 @@
+{
+  "id": 1277052391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.45917,8.14694,-67.45917,8.14694",
+    "geom:latitude":8.14694,
+    "geom:longitude":-67.45917,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Curtidor",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766906,
+    "gn:latitude":8.14694,
+    "gn:longitude":-67.45917,
+    "gn:modification_date":"1999-03-04",
+    "gn:name":"Curtidor",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766906
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8029f8b3d57045bcd9e8c004f999b07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694395,
+            "locality_id":1277052391,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1277052391,
+    "wof:lastmodified":1536809478,
+    "wof:name":"Curtidor",
+    "wof:parent_id":1108694395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.45917,
+    8.14694,
+    -67.45917,
+    8.14694
+],
+  "geometry": {"coordinates":[-67.45917,8.14694],"type":"Point"}
+}

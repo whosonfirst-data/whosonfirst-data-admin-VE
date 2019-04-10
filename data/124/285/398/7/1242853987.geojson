@@ -1,0 +1,67 @@
+{
+  "id": 1242853987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.94881,7.79744,-65.94881,7.79744",
+    "geom:latitude":7.79744,
+    "geom:longitude":-65.94881,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Carapa",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646689,
+    "gn:latitude":7.79744,
+    "gn:longitude":-65.94881,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Carapa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646689
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"37c197827b0d778a21146d3ad235d2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1242853987,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242853987,
+    "wof:lastmodified":1536665602,
+    "wof:name":"Carapa",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.94881,
+    7.79744,
+    -65.94881,
+    7.79744
+],
+  "geometry": {"coordinates":[-65.94880999999999,7.79744],"type":"Point"}
+}

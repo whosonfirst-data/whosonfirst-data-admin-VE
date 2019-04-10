@@ -1,0 +1,67 @@
+{
+  "id": 1243440793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2708,9.20011,-65.2708,9.20011",
+    "geom:latitude":9.20011,
+    "geom:longitude":-65.2708,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Bonanza",
+    "gn:country_code":"VE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638787,
+    "gn:latitude":9.20011,
+    "gn:longitude":-65.2708,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Bonanza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638787
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4e578b78bdefddf16d6bb3e4524e9f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1243440793,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1243440793,
+    "wof:lastmodified":1536813062,
+    "wof:name":"La Bonanza",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.2708,
+    9.20011,
+    -65.2708,
+    9.20011
+],
+  "geometry": {"coordinates":[-65.27079999999999,9.20011],"type":"Point"}
+}

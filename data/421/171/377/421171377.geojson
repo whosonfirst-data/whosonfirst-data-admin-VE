@@ -1,0 +1,186 @@
+{
+  "id": 421171377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006513,
+    "geom:area_square_m":79198821.407232,
+    "geom:bbox":"-66.8984116944,10.3601283929,-66.8228072184,10.4917520091",
+    "geom:latitude":10.427352,
+    "geom:longitude":-66.8642,
+    "iso:country":"VE",
+    "lbl:latitude":10.427237,
+    "lbl:longitude":-66.87176,
+    "meso:admin_1":"Miranda",
+    "meso:gadm_admin":"Baruta",
+    "meso:gaul_admin":"Baruta",
+    "meso:hasc_id":"VE.MI.BA",
+    "meso:mps_x":-66.87176,
+    "meso:mps_y":10.427237,
+    "meso:name_local":"Baruta",
+    "meso:source":"AOTM",
+    "mps:latitude":10.427237,
+    "mps:longitude":-66.87176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Municipio Baruta"
+    ],
+    "name:cat_x_preferred":[
+        "Baruta"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u9b6f\u5854\u5e02"
+    ],
+    "name:deu_x_preferred":[
+        "Nuestra Se\u00f1ora del Rosario de Baruta"
+    ],
+    "name:dut_x_preferred":[
+        "Baruta"
+    ],
+    "name:eng_x_preferred":[
+        "Baruta"
+    ],
+    "name:epo_x_preferred":[
+        "Baruta"
+    ],
+    "name:fra_x_preferred":[
+        "Baruta"
+    ],
+    "name:fre_x_preferred":[
+        "Baruta"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10e3\u10e2\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Nuestra Se\u00f1ora del Rosario de Baruta"
+    ],
+    "name:glg_x_preferred":[
+        "Baruta"
+    ],
+    "name:ita_x_preferred":[
+        "Baruta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30bf\u5e02"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10e3\u10e2\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub8e8\ud0c0 \uc2dc"
+    ],
+    "name:nan_x_preferred":[
+        "Baruta"
+    ],
+    "name:nld_x_preferred":[
+        "Baruta"
+    ],
+    "name:pol_x_preferred":[
+        "Baruta"
+    ],
+    "name:por_x_preferred":[
+        "Baruta"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio Baruta"
+    ],
+    "name:swe_x_preferred":[
+        "Baruta"
+    ],
+    "name:vie_x_preferred":[
+        "Baruta"
+    ],
+    "name:war_x_preferred":[
+        "Baruta"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Baruta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u9b6f\u5854\u5e02"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Baruta",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":79,
+    "qs:photos_1k":16,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1607,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263773,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804633,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-09-01",
+    "statoids:area_km":"86",
+    "statoids:as_of_date":"2011-09-01",
+    "statoids:capital":"Nuestra Se\u00f1ora del Rosario",
+    "statoids:country":"VE",
+    "statoids:hasc":"VE.MI",
+    "statoids:name":"Baruta",
+    "statoids:population":"240755",
+    "statoids:statoid":"VE.MI.BA",
+    "statoids:timezone":"-4:30",
+    "statoids:type":"municipality",
+    "wd:wordcount":383,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804633,
+        "hasc:id":"VE.MI.BA",
+        "qs:id":1263773,
+        "wd:id":"Q761148"
+    },
+    "wof:country":"VE",
+    "wof:created":1459008891,
+    "wof:geomhash":"e7087e6274b719f8f6c79ab3c8be4c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171377,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421171377,
+    "wof:lastmodified":1536615928,
+    "wof:name":"Baruta",
+    "wof:parent_id":85680553,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":240755,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:shortcode":"BA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8984116943879,
+    10.36012839287775,
+    -66.82280721838579,
+    10.49175200914026
+],
+  "geometry": {"coordinates":[[[-66.87194749094982,10.49152625452232],[-66.87013031696702,10.49136005563625],[-66.86649596900145,10.4910276578641],[-66.86104444705306,10.49052906120588],[-66.85275015551966,10.49068614749958],[-66.84049170501814,10.49175200914026],[-66.83885159848973,10.48927401651245],[-66.8355713854329,10.48431803125684],[-66.83065106584769,10.47688405337341],[-66.82280721838579,10.46192164903462],[-66.8245618153002,10.46155284663179],[-66.82807100912903,10.46081524182612],[-66.83333479987228,10.45970883461762],[-66.83776599055426,10.45807790528539],[-66.83928856533046,10.45623239138364],[-66.84027104772227,10.45412354496384],[-66.84098325734719,10.4509555997483],[-66.84196884454809,10.4449238512599],[-66.84261123289114,10.43850800767127],[-66.84289925073691,10.43486249847209],[-66.84387606488841,10.43125509961389],[-66.84600643200476,10.42545094441734],[-66.84632275361845,10.41960946040605],[-66.84420835939113,10.41434405229579],[-66.84244741908266,10.40980912588216],[-66.84161622532946,10.40633963892346],[-66.84194750505611,10.4013449339425],[-66.84158205097991,10.39503963921807],[-66.84036727658128,10.39038552384637],[-66.83984361114099,10.38670930827501],[-66.83968722228718,10.3824217334639],[-66.83979148152305,10.37790832325959],[-66.8399999999948,10.37222899525496],[-66.8399999999948,10.36104274898441],[-66.84138714095796,10.36092310476783],[-66.8441614228843,10.36068381633467],[-66.84832284577379,10.36032488368493],[-66.85571435024414,10.36012839287775],[-66.86299735918487,10.36025678575567],[-66.86659674324454,10.36051357151152],[-66.86879551136391,10.36124863075808],[-66.8715155210425,10.36280019761082],[-66.87524352196266,10.36530253386437],[-66.87958428158765,10.368535014106],[-66.88318601782993,10.3710874828616],[-66.88563837454247,10.37324073672595],[-66.88791354396466,10.37725479886829],[-66.89249999999483,10.38999999999982],[-66.89259387690078,10.39249999999982],[-66.89278163071266,10.39749999999982],[-66.89325101524241,10.40999999999982],[-66.89510995535922,10.41474583645441],[-66.89788676702177,10.42210947232295],[-66.8984116943879,10.42705428148422],[-66.89738762260077,10.43129112170886],[-66.89621170471364,10.4343215345019],[-66.89496278574313,10.43824207121869],[-66.8931939927879,10.44360111454839],[-66.89159699639136,10.44837015260771],[-66.89079849819309,10.45309559405951],[-66.88919535065948,10.45918526400265],[-66.88633188578743,10.4649755267711],[-66.88360405178591,10.47161238247119],[-66.88180202589037,10.47827486476863],[-66.88052194657459,10.48239556512024],[-66.87928393498461,10.48537990126209],[-66.8770308682964,10.48774550022762],[-66.87448917962311,10.48963587737497],[-66.87194749094982,10.49152625452232]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226150801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.5855,10.07467,-64.5855,10.07467",
+    "geom:latitude":10.07467,
+    "geom:longitude":-64.5855,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Angostura",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638961,
+    "gn:latitude":10.07467,
+    "gn:longitude":-64.5855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Angostura",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angostura",
+        "La Angostura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638961
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f13cebb180dc003065edd209f8ef1d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1226150801,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226150801,
+    "wof:lastmodified":1537713578,
+    "wof:name":"La Angostura",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.5855,
+    10.07467,
+    -64.5855,
+    10.07467
+],
+  "geometry": {"coordinates":[-64.5855,10.07467],"type":"Point"}
+}

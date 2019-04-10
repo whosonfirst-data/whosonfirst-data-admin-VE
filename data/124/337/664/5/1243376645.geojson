@@ -1,0 +1,65 @@
+{
+  "id": 1243376645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.38975,5.54549,-67.38975,5.54549",
+    "geom:latitude":5.54549,
+    "geom:longitude":-67.38975,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Gavilan",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640630,
+    "gn:latitude":5.54549,
+    "gn:longitude":-67.38975,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Gavil\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640630
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06b3faf5833acf0897bc507ffa7a702b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "locality_id":1243376645,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1243376645,
+    "wof:lastmodified":1536906410,
+    "wof:name":"Gavilan",
+    "wof:parent_id":85680511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.38975,
+    5.54549,
+    -67.38975,
+    5.54549
+],
+  "geometry": {"coordinates":[-67.38975000000001,5.54549],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309811299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.10167,10.06944,-65.10167,10.06944",
+    "geom:latitude":10.06944,
+    "geom:longitude":-65.10167,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Boqueroncito",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486106,
+    "gn:latitude":10.06944,
+    "gn:longitude":-65.10167,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Boqueroncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421172597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486106
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"01a2752dc71b89a50da7db31b869c9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172597,
+            "locality_id":1309811299,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309811299,
+    "wof:lastmodified":1536923764,
+    "wof:name":"Boqueroncito",
+    "wof:parent_id":421172597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.10167,
+    10.06944,
+    -65.10167,
+    10.06944
+],
+  "geometry": {"coordinates":[-65.10167,10.06944],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293685019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33333,8.41667,-70.33333,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-70.33333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Martinero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642649,
+    "gn:latitude":8.41667,
+    "gn:longitude":-70.33333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"El Martinero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Martimero",
+        "El Martinero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642649
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8575d08eeb011fb63b2aa17cb411a951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1293685019,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293685019,
+    "wof:lastmodified":1537713598,
+    "wof:name":"El Martinero",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33333,
+    8.41667,
+    -70.33333,
+    8.41667
+],
+  "geometry": {"coordinates":[-70.33333,8.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326728575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45,8.51667,-70.45,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":-70.45,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Los Rozos",
+    "gn:country_code":"VE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633646,
+    "gn:latitude":8.51667,
+    "gn:longitude":-70.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Rozos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633646
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0d702b14cbbda6b8de8dd19408b6a107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1326728575,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1326728575,
+    "wof:lastmodified":1536701323,
+    "wof:name":"Los Rozos",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45,
+    8.51667,
+    -70.45,
+    8.51667
+],
+  "geometry": {"coordinates":[-70.45,8.51667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242800697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.35,9.95,-66.35,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-66.35,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Las Marias",
+    "gn:country_code":"VE",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635759,
+    "gn:latitude":9.95,
+    "gn:longitude":-66.35,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Mar\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635759
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6405296ecc6906a5fc8748e21c349678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1242800697,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242800697,
+    "wof:lastmodified":1536742098,
+    "wof:name":"Las Marias",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.35,
+    9.95,
+    -66.35,
+    9.95
+],
+  "geometry": {"coordinates":[-66.34999999999999,9.95],"type":"Point"}
+}

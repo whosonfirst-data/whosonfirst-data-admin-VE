@@ -1,0 +1,95 @@
+{
+  "id": 421201433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.38188,10.61815,-66.38188,10.61815",
+    "geom:latitude":10.61815,
+    "geom:longitude":-66.38188,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La S\u00e1bana"
+    ],
+    "name:eng_x_preferred":[
+        "La Sabana"
+    ],
+    "name:por_x_preferred":[
+        "La Sabana"
+    ],
+    "name:spa_x_preferred":[
+        "La Sabana"
+    ],
+    "name:swe_x_preferred":[
+        "La S\u00e1bana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0633\u0627\u0628\u0627\u0646\u0627"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3636372,
+    "qs:gn_pop":0,
+    "qs:name":"La Sabana",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Vargas",
+    "qs:photos":89,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211208,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468243,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636372,
+        "gp:id":468243,
+        "qs:id":211208
+    },
+    "wof:country":"VE",
+    "wof:created":1459010072,
+    "wof:geomhash":"13ca998e9895898602c16a9270159149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":421201433,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":421201433,
+    "wof:lastmodified":1527716440,
+    "wof:name":"La Sabana",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.38188,
+    10.61815,
+    -66.38188,
+    10.61815
+],
+  "geometry": {"coordinates":[-66.38188,10.61815],"type":"Point"}
+}

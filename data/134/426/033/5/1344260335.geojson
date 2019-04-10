@@ -1,0 +1,67 @@
+{
+  "id": 1344260335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8,4.9,-67.8,4.9",
+    "geom:latitude":4.9,
+    "geom:longitude":-67.8,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Monduapo",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632091,
+    "gn:latitude":4.9,
+    "gn:longitude":-67.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Monduapo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632091
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"62fbe0c02691926f0d40621b95ccce27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694105,
+            "locality_id":1344260335,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1344260335,
+    "wof:lastmodified":1537081153,
+    "wof:name":"Monduapo",
+    "wof:parent_id":1108694105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8,
+    4.9,
+    -67.8,
+    4.9
+],
+  "geometry": {"coordinates":[-67.8,4.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243419209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.2,10.43111,-64.2,10.43111",
+    "geom:latitude":10.43111,
+    "geom:longitude":-64.2,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Malagueno",
+    "gn:country_code":"VE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796152,
+    "gn:latitude":10.43111,
+    "gn:longitude":-64.2,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Malague\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796152
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ad03ae0618732ea09a14009e81bfdbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1243419209,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1243419209,
+    "wof:lastmodified":1536843799,
+    "wof:name":"Malagueno",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.2,
+    10.43111,
+    -64.2,
+    10.43111
+],
+  "geometry": {"coordinates":[-64.2,10.43111],"type":"Point"}
+}

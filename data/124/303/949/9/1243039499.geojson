@@ -1,0 +1,67 @@
+{
+  "id": 1243039499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21427,9.9101,-63.21427,9.9101",
+    "geom:latitude":9.9101,
+    "geom:longitude":-63.21427,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sabaneta",
+    "gn:country_code":"VE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628849,
+    "gn:latitude":9.9101,
+    "gn:longitude":-63.21427,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Sabaneta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628849
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2012a1fb1a7acb587c5d2a0e138335b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694357,
+            "locality_id":1243039499,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243039499,
+    "wof:lastmodified":1536895053,
+    "wof:name":"Sabaneta",
+    "wof:parent_id":1108694357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21426999999999,
+    9.9101,
+    -63.21426999999999,
+    9.9101
+],
+  "geometry": {"coordinates":[-63.21426999999999,9.9101],"type":"Point"}
+}

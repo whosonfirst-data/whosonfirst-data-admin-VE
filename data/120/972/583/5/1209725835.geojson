@@ -1,0 +1,72 @@
+{
+  "id": 1209725835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76667,9.26667,-68.76667,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-68.76667,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"La Morita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637047,
+    "gn:latitude":9.26667,
+    "gn:longitude":-68.76667,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"La Morita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morita",
+        "La Morita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637047
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f0d6a66466c88aa7f4a6fb6eab8a1b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694461,
+            "locality_id":1209725835,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1209725835,
+    "wof:lastmodified":1537713566,
+    "wof:name":"La Morita",
+    "wof:parent_id":1108694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76666999999999,
+    9.26667,
+    -68.76666999999999,
+    9.26667
+],
+  "geometry": {"coordinates":[-68.76666999999999,9.26667],"type":"Point"}
+}

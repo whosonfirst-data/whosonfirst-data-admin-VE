@@ -1,0 +1,67 @@
+{
+  "id": 1343553155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31301,7.63322,-66.31301,7.63322",
+    "geom:latitude":7.63322,
+    "geom:longitude":-66.31301,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Capuchino",
+    "gn:country_code":"VE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765556,
+    "gn:latitude":7.63322,
+    "gn:longitude":-66.31301,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Capuchino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765556
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cc03887ac556d1f64e95798865003426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1343553155,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1343553155,
+    "wof:lastmodified":1536609839,
+    "wof:name":"Capuchino",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31300999999999,
+    7.63322,
+    -66.31300999999999,
+    7.63322
+],
+  "geometry": {"coordinates":[-66.31300999999999,7.63322],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209201855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08333,12.11667,-70.08333,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-70.08333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bajarigua",
+    "gn:country_code":"VE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648679,
+    "gn:latitude":12.11667,
+    "gn:longitude":-70.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bajarigua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648679
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bebfaf05be1a6476c05c5ee02301fef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209201855
+        }
+    ],
+    "wof:id":1209201855,
+    "wof:lastmodified":1536294582,
+    "wof:name":"Bajarigua",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08333,
+    12.11667,
+    -70.08333,
+    12.11667
+],
+  "geometry": {"coordinates":[-70.08333,12.11667],"type":"Point"}
+}

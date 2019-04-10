@@ -1,0 +1,67 @@
+{
+  "id": 1243134037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61577,10.30458,-63.61577,10.30458",
+    "geom:latitude":10.30458,
+    "geom:longitude":-63.61577,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mata de Mango",
+    "gn:country_code":"VE",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796216,
+    "gn:latitude":10.30458,
+    "gn:longitude":-63.61577,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Mata de Mango",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796216
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0261aa85e0f6d8a609d69c6211064ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1243134037,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1243134037,
+    "wof:lastmodified":1536759318,
+    "wof:name":"Mata de Mango",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61577,
+    10.30458,
+    -63.61577,
+    10.30458
+],
+  "geometry": {"coordinates":[-63.61577,10.30458],"type":"Point"}
+}

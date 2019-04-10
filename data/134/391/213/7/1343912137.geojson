@@ -1,0 +1,67 @@
+{
+  "id": 1343912137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28333,10.51667,-67.28333,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":-67.28333,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Petaquirito",
+    "gn:country_code":"VE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630302,
+    "gn:latitude":10.51667,
+    "gn:longitude":-67.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Petaquirito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630302
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a5cf0e7369e60d486ab4db1050ab1534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1343912137,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1343912137,
+    "wof:lastmodified":1537086666,
+    "wof:name":"Petaquirito",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28333,
+    10.51667,
+    -67.28333,
+    10.51667
+],
+  "geometry": {"coordinates":[-67.28333000000001,10.51667],"type":"Point"}
+}

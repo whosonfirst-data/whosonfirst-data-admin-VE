@@ -1,0 +1,61 @@
+{
+  "id": 1209594479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61439,10.35049,-69.61439,10.35049",
+    "geom:latitude":10.35049,
+    "geom:longitude":-69.61439,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Morrocoicito",
+    "gn:country_code":"VE",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750698,
+    "gn:latitude":10.35049,
+    "gn:longitude":-69.61439,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Morrocoicito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750698
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"94d8b7119bbe9b478af29635284545d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209594479
+        }
+    ],
+    "wof:id":1209594479,
+    "wof:lastmodified":1536282369,
+    "wof:name":"Morrocoicito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61439,
+    10.35049,
+    -69.61439,
+    10.35049
+],
+  "geometry": {"coordinates":[-69.61439,10.35049],"type":"Point"}
+}

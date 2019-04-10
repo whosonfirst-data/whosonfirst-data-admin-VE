@@ -1,0 +1,65 @@
+{
+  "id": 1276666723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.70984,5.34556,-67.70984,5.34556",
+    "geom:latitude":5.34556,
+    "geom:longitude":-67.70984,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Patos Guayabal",
+    "gn:country_code":"VE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755897,
+    "gn:latitude":5.34556,
+    "gn:longitude":-67.70984,
+    "gn:modification_date":"1996-12-05",
+    "gn:name":"Patos Guayabal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755897
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8061d90beeb32ed14aa986e96139f806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "locality_id":1276666723,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1276666723,
+    "wof:lastmodified":1536827998,
+    "wof:name":"Patos Guayabal",
+    "wof:parent_id":85680511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.70984,
+    5.34556,
+    -67.70984,
+    5.34556
+],
+  "geometry": {"coordinates":[-67.70984,5.34556],"type":"Point"}
+}

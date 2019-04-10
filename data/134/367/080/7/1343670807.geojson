@@ -1,0 +1,65 @@
+{
+  "id": 1343670807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.521,5.79511,-67.521,5.79511",
+    "geom:latitude":5.79511,
+    "geom:longitude":-67.521,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Puente Galipero",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755609,
+    "gn:latitude":5.79511,
+    "gn:longitude":-67.521,
+    "gn:modification_date":"1996-10-23",
+    "gn:name":"Puente Galipero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755609
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bb169c2c239da1a34e1a0ad7ebafc54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "locality_id":1343670807,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1343670807,
+    "wof:lastmodified":1536940714,
+    "wof:name":"Puente Galipero",
+    "wof:parent_id":85680511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.521,
+    5.79511,
+    -67.521,
+    5.79511
+],
+  "geometry": {"coordinates":[-67.521,5.79511],"type":"Point"}
+}

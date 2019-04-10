@@ -1,0 +1,73 @@
+{
+  "id": 1293684859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41667,8.3,-68.41667,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-68.41667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Bonitas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636254,
+    "gn:latitude":8.3,
+    "gn:longitude":-68.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Bonitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Bonita",
+        "Las Bonita",
+        "Las Bonitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636254
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8bef1e313f537f6815d5e165953b30f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1293684859,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293684859,
+    "wof:lastmodified":1537713562,
+    "wof:name":"Las Bonitas",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41667,
+    8.3,
+    -68.41667,
+    8.3
+],
+  "geometry": {"coordinates":[-68.41667,8.3],"type":"Point"}
+}

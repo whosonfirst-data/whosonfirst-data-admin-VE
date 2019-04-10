@@ -1,0 +1,67 @@
+{
+  "id": 1243347123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.15657,10.64613,-69.15657,10.64613",
+    "geom:latitude":10.64613,
+    "geom:longitude":-69.15657,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Tropical",
+    "gn:country_code":"VE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746594,
+    "gn:latitude":10.64613,
+    "gn:longitude":-69.15657,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"La Tropical",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746594
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f37921da43c3a7990984b42fab95414a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1243347123,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243347123,
+    "wof:lastmodified":1536949101,
+    "wof:name":"La Tropical",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.15657,
+    10.64613,
+    -69.15657,
+    10.64613
+],
+  "geometry": {"coordinates":[-69.15657,10.64613],"type":"Point"}
+}

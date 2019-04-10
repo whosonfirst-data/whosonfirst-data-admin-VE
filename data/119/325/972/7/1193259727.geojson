@@ -1,0 +1,67 @@
+{
+  "id": 1193259727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.56205,9.43127,-63.56205,9.43127",
+    "geom:latitude":9.43127,
+    "geom:longitude":-63.56205,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Mulato",
+    "gn:country_code":"VE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642455,
+    "gn:latitude":9.43127,
+    "gn:longitude":-63.56205,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Mulato",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642455
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9510bfc34d9170ce9c86146605cc35d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1193259727,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1193259727,
+    "wof:lastmodified":1536382186,
+    "wof:name":"El Mulato",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.56205,
+    9.43127,
+    -63.56205,
+    9.43127
+],
+  "geometry": {"coordinates":[-63.56205,9.43127],"type":"Point"}
+}

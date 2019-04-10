@@ -1,0 +1,71 @@
+{
+  "id": 1293281437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.9944,8.87199,-61.9944,8.87199",
+    "geom:latitude":8.87199,
+    "geom:longitude":-61.9944,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Coporito Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645249,
+    "gn:latitude":8.87199,
+    "gn:longitude":-61.9944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Coporito Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coporito",
+        "Coporito Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421191753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645249
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f691cb49650edcdab592a4b0b9c0f1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191753,
+            "locality_id":1293281437,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1293281437,
+    "wof:lastmodified":1537713616,
+    "wof:name":"Coporito Abajo",
+    "wof:parent_id":421191753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.9944,
+    8.87199,
+    -61.9944,
+    8.87199
+],
+  "geometry": {"coordinates":[-61.9944,8.87199],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243551547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.01667,5.08333,-63.01667,5.08333",
+    "geom:latitude":5.08333,
+    "geom:longitude":-63.01667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Evenequen",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640885,
+    "gn:latitude":5.08333,
+    "gn:longitude":-63.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Evenequ\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erebenequ\u00e9n",
+        "Evenequ\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640885
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb64ba4b3ea449ab8debb0b42f4ceab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196981,
+            "locality_id":1243551547,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1243551547,
+    "wof:lastmodified":1537713588,
+    "wof:name":"Evenequen",
+    "wof:parent_id":421196981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.01667,
+    5.08333,
+    -63.01667,
+    5.08333
+],
+  "geometry": {"coordinates":[-63.01667,5.08333],"type":"Point"}
+}

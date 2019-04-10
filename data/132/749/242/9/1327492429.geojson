@@ -1,0 +1,67 @@
+{
+  "id": 1327492429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.5123,7.69533,-71.5123,7.69533",
+    "geom:latitude":7.69533,
+    "geom:longitude":-71.5123,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"La Polvorosa",
+    "gn:country_code":"VE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795457,
+    "gn:latitude":7.69533,
+    "gn:longitude":-71.5123,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Polvorosa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795457
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f77713dbe034afd81f3ec749120bd39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694257,
+            "locality_id":1327492429,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1327492429,
+    "wof:lastmodified":1537088760,
+    "wof:name":"La Polvorosa",
+    "wof:parent_id":1108694257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.5123,
+    7.69533,
+    -71.5123,
+    7.69533
+],
+  "geometry": {"coordinates":[-71.5123,7.69533],"type":"Point"}
+}

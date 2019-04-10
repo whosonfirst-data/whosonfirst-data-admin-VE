@@ -1,0 +1,70 @@
+{
+  "id": 1276504611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1749,9.24143,-71.1749,9.24143",
+    "geom:latitude":9.24143,
+    "geom:longitude":-71.1749,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bobures",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648231,
+    "gn:latitude":9.24143,
+    "gn:longitude":-71.1749,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Bobures",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bobures"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648231
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d58057c3a6612f4eeec6a8158802fa9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1276504611,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276504611,
+    "wof:lastmodified":1537713629,
+    "wof:name":"Bobures",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1749,
+    9.24143,
+    -71.1749,
+    9.24143
+],
+  "geometry": {"coordinates":[-71.17489999999999,9.24143],"type":"Point"}
+}

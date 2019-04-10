@@ -1,0 +1,71 @@
+{
+  "id": 1344227453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57101,8.75253,-71.57101,8.75253",
+    "geom:latitude":8.75253,
+    "geom:longitude":-71.57101,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guayabones",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639827,
+    "gn:latitude":8.75253,
+    "gn:longitude":-71.57101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guayabones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayabanes",
+        "Guayabones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639827
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7e28f0edc23351ee7daf82191659a3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1344227453,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1344227453,
+    "wof:lastmodified":1537713584,
+    "wof:name":"Guayabones",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57101,
+    8.75253,
+    -71.57101,
+    8.75253
+],
+  "geometry": {"coordinates":[-71.57101,8.75253],"type":"Point"}
+}

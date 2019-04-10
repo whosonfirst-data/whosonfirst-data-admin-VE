@@ -1,0 +1,67 @@
+{
+  "id": 1226646669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.10082,7.43248,-69.10082,7.43248",
+    "geom:latitude":7.43248,
+    "geom:longitude":-69.10082,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Castillero",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646269,
+    "gn:latitude":7.43248,
+    "gn:longitude":-69.10082,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"Castillero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646269
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c3cf338ee11392a0c310d76ee4d1efa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1226646669,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1226646669,
+    "wof:lastmodified":1536856842,
+    "wof:name":"Castillero",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.10082,
+    7.43248,
+    -69.10082,
+    7.43248
+],
+  "geometry": {"coordinates":[-69.10082,7.43248],"type":"Point"}
+}

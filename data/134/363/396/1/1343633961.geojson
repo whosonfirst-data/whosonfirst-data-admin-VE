@@ -1,0 +1,67 @@
+{
+  "id": 1343633961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.83314,10.14612,-66.83314,10.14612",
+    "geom:latitude":10.14612,
+    "geom:longitude":-66.83314,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pinate",
+    "gn:country_code":"VE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742088,
+    "gn:latitude":10.14612,
+    "gn:longitude":-66.83314,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Pi\u00f1ate",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742088
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c0b8d386f90919d49e61bacb52b36183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694243,
+            "locality_id":1343633961,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1343633961,
+    "wof:lastmodified":1536992548,
+    "wof:name":"Pinate",
+    "wof:parent_id":1108694243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.83314,
+    10.14612,
+    -66.83314,
+    10.14612
+],
+  "geometry": {"coordinates":[-66.83314,10.14612],"type":"Point"}
+}

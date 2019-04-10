@@ -1,0 +1,67 @@
+{
+  "id": 1209395199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8181,11.09041,-68.8181,11.09041",
+    "geom:latitude":11.09041,
+    "geom:longitude":-68.8181,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Origuaza",
+    "gn:country_code":"VE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631302,
+    "gn:latitude":11.09041,
+    "gn:longitude":-68.8181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Origuaza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araguasa",
+        "Origuasa",
+        "Aruguasa",
+        "Origuaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631302
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"060db678cba6812470793bd6ea96de13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209395199
+        }
+    ],
+    "wof:id":1209395199,
+    "wof:lastmodified":1537713534,
+    "wof:name":"Origuaza",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8181,
+    11.09041,
+    -68.8181,
+    11.09041
+],
+  "geometry": {"coordinates":[-68.8181,11.09041],"type":"Point"}
+}

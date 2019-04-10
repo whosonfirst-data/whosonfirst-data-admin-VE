@@ -1,0 +1,67 @@
+{
+  "id": 1243164777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0725,7.36048,-71.0725,7.36048",
+    "geom:latitude":7.36048,
+    "geom:longitude":-71.0725,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gaviota",
+    "gn:country_code":"VE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3487326,
+    "gn:latitude":7.36048,
+    "gn:longitude":-71.0725,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Gaviota",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487326
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"12ae345d36c002e3e6db349a4ee0c020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1243164777,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1243164777,
+    "wof:lastmodified":1536715004,
+    "wof:name":"Gaviota",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0725,
+    7.36048,
+    -71.0725,
+    7.36048
+],
+  "geometry": {"coordinates":[-71.07250000000001,7.36048],"type":"Point"}
+}

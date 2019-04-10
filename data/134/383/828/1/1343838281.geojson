@@ -1,0 +1,67 @@
+{
+  "id": 1343838281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.62771,11.27827,-68.62771,11.27827",
+    "geom:latitude":11.27827,
+    "geom:longitude":-68.62771,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Felicidad",
+    "gn:country_code":"VE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637948,
+    "gn:latitude":11.27827,
+    "gn:longitude":-68.62771,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Felicidad",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421185127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637948
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"da261da761151030374b527f9a1beba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185127,
+            "locality_id":1343838281,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343838281,
+    "wof:lastmodified":1536698899,
+    "wof:name":"La Felicidad",
+    "wof:parent_id":421185127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.62771,
+    11.27827,
+    -68.62771,
+    11.27827
+],
+  "geometry": {"coordinates":[-68.62770999999999,11.27827],"type":"Point"}
+}

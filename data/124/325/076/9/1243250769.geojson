@@ -1,0 +1,67 @@
+{
+  "id": 1243250769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.65455,10.53056,-70.65455,10.53056",
+    "geom:latitude":10.53056,
+    "geom:longitude":-70.65455,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Campo Rojo",
+    "gn:country_code":"VE",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785736,
+    "gn:latitude":10.53056,
+    "gn:longitude":-70.65455,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"Campo Rojo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fccad042f9aad03fa48933842c9746c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694165,
+            "locality_id":1243250769,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1243250769,
+    "wof:lastmodified":1537084455,
+    "wof:name":"Campo Rojo",
+    "wof:parent_id":1108694165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.65455,
+    10.53056,
+    -70.65455,
+    10.53056
+],
+  "geometry": {"coordinates":[-70.65455,10.53056],"type":"Point"}
+}

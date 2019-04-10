@@ -1,0 +1,67 @@
+{
+  "id": 1343538655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.22511,11.90495,-70.22511,11.90495",
+    "geom:latitude":11.90495,
+    "geom:longitude":-70.22511,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Hoyito",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642998,
+    "gn:latitude":11.90495,
+    "gn:longitude":-70.22511,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"El Hoyito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890442023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642998
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c6bfbdbe3a61861b2f787e0b4f2e30cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890442023,
+            "locality_id":1343538655,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343538655,
+    "wof:lastmodified":1536631965,
+    "wof:name":"El Hoyito",
+    "wof:parent_id":890442023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.22511,
+    11.90495,
+    -70.22511,
+    11.90495
+],
+  "geometry": {"coordinates":[-70.22511,11.90495],"type":"Point"}
+}

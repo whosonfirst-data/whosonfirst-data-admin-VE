@@ -1,0 +1,73 @@
+{
+  "id": 890428573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05675,8.03514,-72.05675,8.03514",
+    "geom:latitude":8.03514,
+    "geom:longitude":-72.05675,
+    "gn:country":"VE",
+    "gn:fcode":"ADM2",
+    "gn:pop":9325,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Municipio Jos\u00e9 Mar\u00eda Vargas"
+    ],
+    "name:por_x_preferred":[
+        "Municipio Jos\u00e9 Mar\u00eda Vargas"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio Jos\u00e9 Mar\u00eda Vargas"
+    ],
+    "qs:name":"Municipio Jos\u00e9 Mar\u00eda Vargas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131490,
+        "qs:id":757569
+    },
+    "wof:country":"VE",
+    "wof:created":1469051759,
+    "wof:geomhash":"a88531da7506247913a0fe8046f4bee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890428573,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":890428573,
+    "wof:lastmodified":1505343506,
+    "wof:name":"Municipio Jos\u00e9 Mar\u00eda Vargas",
+    "wof:parent_id":85680481,
+    "wof:placetype":"county",
+    "wof:population":9325,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05675,
+    8.03514,
+    -72.05675,
+    8.03514
+],
+  "geometry": {"coordinates":[-72.05674999999999,8.03514],"type":"Point"}
+}

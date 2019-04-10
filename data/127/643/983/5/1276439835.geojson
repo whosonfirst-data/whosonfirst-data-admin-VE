@@ -1,0 +1,67 @@
+{
+  "id": 1276439835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1,8.15,-69.1,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":-69.1,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Cano Bravo",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646987,
+    "gn:latitude":8.15,
+    "gn:longitude":-69.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ca\u00f1o Bravo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646987
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b452df22d434a611e595b2e0a37f473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1276439835,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276439835,
+    "wof:lastmodified":1536634639,
+    "wof:name":"Cano Bravo",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1,
+    8.15,
+    -69.1,
+    8.15
+],
+  "geometry": {"coordinates":[-69.09999999999999,8.15],"type":"Point"}
+}

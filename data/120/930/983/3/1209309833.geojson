@@ -1,0 +1,66 @@
+{
+  "id": 1209309833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.06371,9.0967,-62.06371,9.0967",
+    "geom:latitude":9.0967,
+    "geom:longitude":-62.06371,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Santa Rosa de Cocuina",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645455,
+    "gn:latitude":9.0967,
+    "gn:longitude":-62.06371,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Rosa de Cocuina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cocuina",
+        "Cochina",
+        "Santa Rosa de Cocuina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645455
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0a3bce8cfd61b14ff54264081a87f5df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209309833
+        }
+    ],
+    "wof:id":1209309833,
+    "wof:lastmodified":1537713617,
+    "wof:name":"Santa Rosa de Cocuina",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.06371,
+    9.0967,
+    -62.06371,
+    9.0967
+],
+  "geometry": {"coordinates":[-62.06371,9.0967],"type":"Point"}
+}

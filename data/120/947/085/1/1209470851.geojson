@@ -1,0 +1,61 @@
+{
+  "id": 1209470851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13333,9.81667,-72.13333,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":-72.13333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Guamo",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640280,
+    "gn:latitude":9.81667,
+    "gn:longitude":-72.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Guamo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640280
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"145204e50b0a111957ef3b88678cd055",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209470851
+        }
+    ],
+    "wof:id":1209470851,
+    "wof:lastmodified":1536286085,
+    "wof:name":"Guamo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13333,
+    9.81667,
+    -72.13333,
+    9.81667
+],
+  "geometry": {"coordinates":[-72.13333,9.81667],"type":"Point"}
+}

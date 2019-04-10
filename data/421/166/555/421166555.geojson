@@ -1,0 +1,76 @@
+{
+  "id": 421166555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.98333,11.06667,-63.98333,11.06667",
+    "geom:latitude":11.06667,
+    "geom:longitude":-63.98333,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3635465,
+    "qs:gn_pop":0,
+    "qs:name":"Las Piedras",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267372,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468255,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421196983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635465,
+        "gp:id":468255,
+        "qs:id":267372
+    },
+    "wof:country":"VE",
+    "wof:created":1459008694,
+    "wof:geomhash":"30099769d218b4b9433379cfd1f07ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196983,
+            "locality_id":421166555,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421166555,
+    "wof:lastmodified":1500034414,
+    "wof:name":"Las Piedras",
+    "wof:parent_id":421196983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.98333,
+    11.06667,
+    -63.98333,
+    11.06667
+],
+  "geometry": {"coordinates":[-63.98333,11.06667],"type":"Point"}
+}

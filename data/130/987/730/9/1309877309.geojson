@@ -1,0 +1,67 @@
+{
+  "id": 1309877309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.68889,10.03556,-63.68889,10.03556",
+    "geom:latitude":10.03556,
+    "geom:longitude":-63.68889,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Azagua",
+    "gn:country_code":"VE",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777592,
+    "gn:latitude":10.03556,
+    "gn:longitude":-63.68889,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Azagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777592
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4a40bbc0c7b5bfb0febc1dfa5381c8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694059,
+            "locality_id":1309877309,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1309877309,
+    "wof:lastmodified":1536827223,
+    "wof:name":"Azagua",
+    "wof:parent_id":1108694059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.68889,
+    10.03556,
+    -63.68889,
+    10.03556
+],
+  "geometry": {"coordinates":[-63.68889,10.03556],"type":"Point"}
+}

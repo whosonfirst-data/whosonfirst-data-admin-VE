@@ -1,0 +1,61 @@
+{
+  "id": 1209126217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.0842,10.03721,-68.0842,10.03721",
+    "geom:latitude":10.03721,
+    "geom:longitude":-68.0842,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Barrerita",
+    "gn:country_code":"VE",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648479,
+    "gn:latitude":10.03721,
+    "gn:longitude":-68.0842,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Barrerita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648479
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"45ca7888a7db57cce92b78e13f8e659e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209126217
+        }
+    ],
+    "wof:id":1209126217,
+    "wof:lastmodified":1536296950,
+    "wof:name":"Barrerita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.0842,
+    10.03721,
+    -68.0842,
+    10.03721
+],
+  "geometry": {"coordinates":[-68.0842,10.03721],"type":"Point"}
+}

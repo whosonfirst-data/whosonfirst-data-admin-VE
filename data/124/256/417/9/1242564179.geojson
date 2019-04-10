@@ -1,0 +1,67 @@
+{
+  "id": 1242564179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.69786,8.76088,-67.69786,8.76088",
+    "geom:latitude":8.76088,
+    "geom:longitude":-67.69786,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tablantico",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626591,
+    "gn:latitude":8.76088,
+    "gn:longitude":-67.69786,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Tablantico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626591
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"df6cfd61750132ea4b0b6a33854fc94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1242564179,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242564179,
+    "wof:lastmodified":1537079867,
+    "wof:name":"Tablantico",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.69785999999999,
+    8.76088,
+    -67.69785999999999,
+    8.76088
+],
+  "geometry": {"coordinates":[-67.69785999999999,8.76088],"type":"Point"}
+}

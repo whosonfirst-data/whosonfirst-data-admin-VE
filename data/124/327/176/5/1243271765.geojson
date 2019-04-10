@@ -1,0 +1,67 @@
+{
+  "id": 1243271765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06667,10.0,-65.06667,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-65.06667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Mediania",
+    "gn:country_code":"VE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637156,
+    "gn:latitude":10.0,
+    "gn:longitude":-65.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Median\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421172597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637156
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cd292f56cca25b47121905555668e0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172597,
+            "locality_id":1243271765,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1243271765,
+    "wof:lastmodified":1537054883,
+    "wof:name":"La Mediania",
+    "wof:parent_id":421172597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06667,
+    10.0,
+    -65.06667,
+    10.0
+],
+  "geometry": {"coordinates":[-65.06667,10.0],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260171299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.15325,9.28975,-68.15325,9.28975",
+    "geom:latitude":9.28975,
+    "geom:longitude":-68.15325,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Los Caballos",
+    "gn:country_code":"VE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634474,
+    "gn:latitude":9.28975,
+    "gn:longitude":-68.15325,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Los Caballos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634474
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"86747f1eca05424703269500ddb42e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1260171299,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1260171299,
+    "wof:lastmodified":1536863322,
+    "wof:name":"Los Caballos",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.15325,
+    9.28975,
+    -68.15325,
+    9.28975
+],
+  "geometry": {"coordinates":[-68.15325,9.28975],"type":"Point"}
+}

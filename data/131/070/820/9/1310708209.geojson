@@ -1,0 +1,70 @@
+{
+  "id": 1310708209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.90118,6.8369,-68.90118,6.8369",
+    "geom:latitude":6.8369,
+    "geom:longitude":-68.90118,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Paso Bonito",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630641,
+    "gn:latitude":6.8369,
+    "gn:longitude":-68.90118,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Paso Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso Bonito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421180899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630641
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae3055c7b2e6c4c37fe6a554aa863054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180899,
+            "locality_id":1310708209,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1310708209,
+    "wof:lastmodified":1537713531,
+    "wof:name":"Paso Bonito",
+    "wof:parent_id":421180899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.90118000000001,
+    6.8369,
+    -68.90118000000001,
+    6.8369
+],
+  "geometry": {"coordinates":[-68.90118000000001,6.8369],"type":"Point"}
+}

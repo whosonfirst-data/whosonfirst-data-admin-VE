@@ -1,0 +1,72 @@
+{
+  "id": 1293560175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.43333,10.05,-69.43333,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":-69.43333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Pandito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642270,
+    "gn:latitude":10.05,
+    "gn:longitude":-69.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pandito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandito",
+        "El Pandito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642270
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f28e6465659f9781a8ffb9c2421d2cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1293560175,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1293560175,
+    "wof:lastmodified":1537713596,
+    "wof:name":"El Pandito",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.43333,
+    10.05,
+    -69.43333,
+    10.05
+],
+  "geometry": {"coordinates":[-69.43333,10.05],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209483631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21944,10.91667,-71.21944,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":-71.21944,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Campo Alegre",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3788438,
+    "gn:latitude":10.91667,
+    "gn:longitude":-71.21944,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Campo Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788438
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"29bb34baf26211f6f83139e7bbd11472",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209483631
+        }
+    ],
+    "wof:id":1209483631,
+    "wof:lastmodified":1536285704,
+    "wof:name":"Campo Alegre",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21944,
+    10.91667,
+    -71.21944,
+    10.91667
+],
+  "geometry": {"coordinates":[-71.21944000000001,10.91667],"type":"Point"}
+}

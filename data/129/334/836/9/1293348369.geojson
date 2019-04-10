@@ -1,0 +1,72 @@
+{
+  "id": 1293348369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01667,10.95,-72.01667,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-72.01667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Los Bolandi",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634501,
+    "gn:latitude":10.95,
+    "gn:longitude":-72.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Bolandi",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Bolandis",
+        "Los Bolandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634501
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"90822777c0e614dc8d3ac6afda1bac8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1293348369,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293348369,
+    "wof:lastmodified":1537713551,
+    "wof:name":"Los Bolandi",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01666999999998,
+    10.95,
+    -72.01666999999998,
+    10.95
+],
+  "geometry": {"coordinates":[-72.01666999999998,10.95],"type":"Point"}
+}

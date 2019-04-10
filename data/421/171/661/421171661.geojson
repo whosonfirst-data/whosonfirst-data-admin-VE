@@ -1,0 +1,79 @@
+{
+  "id": 421171661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.219875,9.592456,-69.219875,9.592456",
+    "geom:latitude":9.592456,
+    "geom:longitude":-69.219875,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Araure",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Portuguesa",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":248,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263856,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805100,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805100,
+        "qs:id":1263856,
+        "qs_pg:id":1263856
+    },
+    "wof:country":"VE",
+    "wof:created":1459008902,
+    "wof:geomhash":"55f28c468978bdad301600170452eed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694093,
+            "localadmin_id":421171661,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":421171661,
+    "wof:lastmodified":1497044797,
+    "wof:name":"Araure",
+    "wof:parent_id":1108694093,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.219875,
+    9.592456,
+    -69.219875,
+    9.592456
+],
+  "geometry": {"coordinates":[-69.219875,9.592456],"type":"Point"}
+}

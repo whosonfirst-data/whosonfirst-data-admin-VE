@@ -1,0 +1,71 @@
+{
+  "id": 1226415149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.69023,10.02566,-66.69023,10.02566",
+    "geom:latitude":10.02566,
+    "geom:longitude":-66.69023,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Quiripatal",
+    "gn:country_code":"VE",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629386,
+    "gn:latitude":10.02566,
+    "gn:longitude":-66.69023,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quiripatal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiripital",
+        "Quiripatal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629386
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dc8fd164f052bcbd85c70cef912c64b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694243,
+            "locality_id":1226415149,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226415149,
+    "wof:lastmodified":1537713524,
+    "wof:name":"Quiripatal",
+    "wof:parent_id":1108694243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.69023,
+    10.02566,
+    -66.69023,
+    10.02566
+],
+  "geometry": {"coordinates":[-66.69023,10.02566],"type":"Point"}
+}

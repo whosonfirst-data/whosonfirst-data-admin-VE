@@ -1,0 +1,67 @@
+{
+  "id": 1226044577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.55185,10.14422,-64.55185,10.14422",
+    "geom:latitude":10.14422,
+    "geom:longitude":-64.55185,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Boqueron",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648067,
+    "gn:latitude":10.14422,
+    "gn:longitude":-64.55185,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Boquer\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421204791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648067
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb25570b64b02fc0f7bb86918bae92e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204791,
+            "locality_id":1226044577,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226044577,
+    "wof:lastmodified":1536727228,
+    "wof:name":"Boqueron",
+    "wof:parent_id":421204791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.55185,
+    10.14422,
+    -64.55185,
+    10.14422
+],
+  "geometry": {"coordinates":[-64.55185,10.14422],"type":"Point"}
+}

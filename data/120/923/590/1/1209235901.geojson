@@ -1,0 +1,61 @@
+{
+  "id": 1209235901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.38254,7.58987,-66.38254,7.58987",
+    "geom:latitude":7.58987,
+    "geom:longitude":-66.38254,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Aguerito",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3747791,
+    "gn:latitude":7.58987,
+    "gn:longitude":-66.38254,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Ag\u00fcerito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3747791
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2cc1f890cb1da8d4d59d199d1fd90710",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209235901
+        }
+    ],
+    "wof:id":1209235901,
+    "wof:lastmodified":1536293483,
+    "wof:name":"Aguerito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.38254,
+    7.589869999999999,
+    -66.38254,
+    7.589869999999999
+],
+  "geometry": {"coordinates":[-66.38254000000001,7.58987],"type":"Point"}
+}

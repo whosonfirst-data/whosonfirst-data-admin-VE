@@ -1,0 +1,79 @@
+{
+  "id": 421202707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.453651,10.177922,-67.453651,10.177922",
+    "geom:latitude":10.177922,
+    "geom:longitude":-67.453651,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Sucre",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":133,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":226348,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805644,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804968,
+        "qs:id":226348,
+        "qs_pg:id":233697
+    },
+    "wof:country":"VE",
+    "wof:created":1459010127,
+    "wof:geomhash":"651b993c19140c6de4ad90ae53853c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694433,
+            "localadmin_id":421202707,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421202707,
+    "wof:lastmodified":1497050179,
+    "wof:name":"Capital Sucre",
+    "wof:parent_id":1108694433,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.453651,
+    10.177922,
+    -67.453651,
+    10.177922
+],
+  "geometry": {"coordinates":[-67.45365099999999,10.177922],"type":"Point"}
+}

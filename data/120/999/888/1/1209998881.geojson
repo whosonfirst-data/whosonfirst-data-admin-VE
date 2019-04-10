@@ -1,0 +1,67 @@
+{
+  "id": 1209998881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.18857,10.04674,-66.18857,10.04674",
+    "geom:latitude":10.04674,
+    "geom:longitude":-66.18857,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"VE",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629780,
+    "gn:latitude":10.04674,
+    "gn:longitude":-66.18857,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629780
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"255189a9abb73208dbec26ebe6004bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1209998881,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1209998881,
+    "wof:lastmodified":1536380883,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.18857,
+    10.04674,
+    -66.18857,
+    10.04674
+],
+  "geometry": {"coordinates":[-66.18857,10.04674],"type":"Point"}
+}

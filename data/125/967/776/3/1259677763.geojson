@@ -1,0 +1,67 @@
+{
+  "id": 1259677763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.94722,8.80389,-61.94722,8.80389",
+    "geom:latitude":8.80389,
+    "geom:longitude":-61.94722,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Vuelta de Los Indios",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763953,
+    "gn:latitude":8.80389,
+    "gn:longitude":-61.94722,
+    "gn:modification_date":"1998-06-29",
+    "gn:name":"Vuelta de Los Indios",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421191753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763953
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eba6cdc7ab773125d37363c997e9ff22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191753,
+            "locality_id":1259677763,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1259677763,
+    "wof:lastmodified":1537072181,
+    "wof:name":"Vuelta de Los Indios",
+    "wof:parent_id":421191753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.94722,
+    8.80389,
+    -61.94722,
+    8.80389
+],
+  "geometry": {"coordinates":[-61.94722,8.80389],"type":"Point"}
+}

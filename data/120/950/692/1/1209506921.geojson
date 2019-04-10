@@ -1,0 +1,61 @@
+{
+  "id": 1209506921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.11667,7.28333,-62.11667,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":-62.11667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"El Copel",
+    "gn:country_code":"VE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643559,
+    "gn:latitude":7.28333,
+    "gn:longitude":-62.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Copel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643559
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"90910c176ab3cfed9ebbdb7369f50cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209506921
+        }
+    ],
+    "wof:id":1209506921,
+    "wof:lastmodified":1536285006,
+    "wof:name":"El Copel",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.11666999999999,
+    7.28333,
+    -62.11666999999999,
+    7.28333
+],
+  "geometry": {"coordinates":[-62.11666999999999,7.28333],"type":"Point"}
+}

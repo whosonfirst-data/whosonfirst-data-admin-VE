@@ -1,0 +1,66 @@
+{
+  "id": 1209315553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,6.48333,-67.35,6.48333",
+    "geom:latitude":6.48333,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Toletazo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641274,
+    "gn:latitude":6.48333,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Toletazo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tobetazo",
+        "El Toletazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641274
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"be7bb62806ef189dbcd856a3a3af5798",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209315553
+        }
+    ],
+    "wof:id":1209315553,
+    "wof:lastmodified":1537713590,
+    "wof:name":"El Toletazo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    6.48333,
+    -67.35,
+    6.48333
+],
+  "geometry": {"coordinates":[-67.34999999999999,6.48333],"type":"Point"}
+}

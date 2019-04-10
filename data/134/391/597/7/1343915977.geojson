@@ -1,0 +1,67 @@
+{
+  "id": 1343915977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.22259,8.75542,-72.22259,8.75542",
+    "geom:latitude":8.75542,
+    "geom:longitude":-72.22259,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Guaramacal",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3789216,
+    "gn:latitude":8.75542,
+    "gn:longitude":-72.22259,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Guaramacal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789216
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2aa1c6ec337f24804b438d1584aaf3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694153,
+            "locality_id":1343915977,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343915977,
+    "wof:lastmodified":1537081166,
+    "wof:name":"Guaramacal",
+    "wof:parent_id":1108694153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.22259,
+    8.75542,
+    -72.22259,
+    8.75542
+],
+  "geometry": {"coordinates":[-72.22259,8.75542],"type":"Point"}
+}

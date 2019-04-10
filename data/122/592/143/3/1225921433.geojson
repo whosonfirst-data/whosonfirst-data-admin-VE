@@ -1,0 +1,61 @@
+{
+  "id": 1225921433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46444,11.27667,-67.46444,11.27667",
+    "geom:latitude":11.27667,
+    "geom:longitude":-67.46444,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"La Aguada",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785489,
+    "gn:latitude":11.27667,
+    "gn:longitude":-67.46444,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"La Aguada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785489
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4c4695a3e85a567ad44b6cd6e2be13f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225921433,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225921433,
+    "wof:lastmodified":1536904792,
+    "wof:name":"La Aguada",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46444,
+    11.27667,
+    -67.46444,
+    11.27667
+],
+  "geometry": {"coordinates":[-67.46444,11.27667],"type":"Point"}
+}

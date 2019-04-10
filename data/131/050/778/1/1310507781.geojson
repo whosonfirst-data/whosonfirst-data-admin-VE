@@ -1,0 +1,72 @@
+{
+  "id": 1310507781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4,7.5,-68.4,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":-68.4,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Soledad",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635609,
+    "gn:latitude":7.5,
+    "gn:longitude":-68.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soledad",
+        "La Soledad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635609
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"652278e41cee5c35b765b6b33cbd226e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1310507781,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1310507781,
+    "wof:lastmodified":1537713558,
+    "wof:name":"La Soledad",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.4,
+    7.5,
+    -68.4,
+    7.5
+],
+  "geometry": {"coordinates":[-68.40000000000001,7.5],"type":"Point"}
+}

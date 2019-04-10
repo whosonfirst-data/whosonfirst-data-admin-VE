@@ -1,0 +1,67 @@
+{
+  "id": 1242941739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.80158,10.21716,-68.80158,10.21716",
+    "geom:latitude":10.21716,
+    "geom:longitude":-68.80158,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Campo Nuevo",
+    "gn:country_code":"VE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647173,
+    "gn:latitude":10.21716,
+    "gn:longitude":-68.80158,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Campo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647173
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6c45f898222a8e9d6614e794812591b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694449,
+            "locality_id":1242941739,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1242941739,
+    "wof:lastmodified":1537034834,
+    "wof:name":"Campo Nuevo",
+    "wof:parent_id":1108694449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.80158,
+    10.21716,
+    -68.80158,
+    10.21716
+],
+  "geometry": {"coordinates":[-68.80158,10.21716],"type":"Point"}
+}

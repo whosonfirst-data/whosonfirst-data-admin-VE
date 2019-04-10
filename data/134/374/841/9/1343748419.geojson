@@ -1,0 +1,67 @@
+{
+  "id": 1343748419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.06132,9.19127,-66.06132,9.19127",
+    "geom:latitude":9.19127,
+    "geom:longitude":-66.06132,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mamonal",
+    "gn:country_code":"VE",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633266,
+    "gn:latitude":9.19127,
+    "gn:longitude":-66.06132,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mamonal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633266
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6fae5b6cd50dab4008173a3f59a44b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1343748419,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343748419,
+    "wof:lastmodified":1536827351,
+    "wof:name":"Mamonal",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.06132,
+    9.19127,
+    -66.06132,
+    9.19127
+],
+  "geometry": {"coordinates":[-66.06131999999999,9.19127],"type":"Point"}
+}

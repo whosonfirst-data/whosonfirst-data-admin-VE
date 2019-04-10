@@ -1,0 +1,67 @@
+{
+  "id": 1226354333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.30742,9.57883,-64.30742,9.57883",
+    "geom:latitude":9.57883,
+    "geom:longitude":-64.30742,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Lorena",
+    "gn:country_code":"VE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637325,
+    "gn:latitude":9.57883,
+    "gn:longitude":-64.30742,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Lorena",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637325
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ffc90baeb962d60abae1fb9367615d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1226354333,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226354333,
+    "wof:lastmodified":1536777594,
+    "wof:name":"La Lorena",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.30742,
+    9.57883,
+    -64.30742,
+    9.57883
+],
+  "geometry": {"coordinates":[-64.30741999999999,9.57883],"type":"Point"}
+}

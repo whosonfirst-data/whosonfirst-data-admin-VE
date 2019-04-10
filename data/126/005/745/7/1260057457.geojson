@@ -1,0 +1,67 @@
+{
+  "id": 1260057457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84892,10.84795,-70.84892,10.84795",
+    "geom:latitude":10.84795,
+    "geom:longitude":-70.84892,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Barro Negro",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648451,
+    "gn:latitude":10.84795,
+    "gn:longitude":-70.84892,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Barro Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648451
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5efa18732398786f9542deeae6ce99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1260057457,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1260057457,
+    "wof:lastmodified":1537024511,
+    "wof:name":"Barro Negro",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84891999999998,
+    10.84795,
+    -70.84891999999998,
+    10.84795
+],
+  "geometry": {"coordinates":[-70.84891999999998,10.84795],"type":"Point"}
+}

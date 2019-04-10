@@ -1,0 +1,67 @@
+{
+  "id": 1343927555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.12376,10.39927,-66.12376,10.39927",
+    "geom:latitude":10.39927,
+    "geom:longitude":-66.12376,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Guaratalupe",
+    "gn:country_code":"VE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803732,
+    "gn:latitude":10.39927,
+    "gn:longitude":-66.12376,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Guaratalupe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803732
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"89ce37d2d7ffe93d9960a19450e91de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171643,
+            "locality_id":1343927555,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1343927555,
+    "wof:lastmodified":1537064715,
+    "wof:name":"Guaratalupe",
+    "wof:parent_id":421171643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.12376,
+    10.39927,
+    -66.12376,
+    10.39927
+],
+  "geometry": {"coordinates":[-66.12376,10.39927],"type":"Point"}
+}

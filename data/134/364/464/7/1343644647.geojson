@@ -1,0 +1,72 @@
+{
+  "id": 1343644647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.04639,8.86917,-71.04639,8.86917",
+    "geom:latitude":8.86917,
+    "geom:longitude":-71.04639,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Pueblita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":2880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636611,
+    "gn:latitude":8.86917,
+    "gn:longitude":-71.04639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Pueblita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblita",
+        "La Pueblita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636611
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b4b0c7a1ac069044250bbe76979acb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694145,
+            "locality_id":1343644647,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343644647,
+    "wof:lastmodified":1537713563,
+    "wof:name":"La Pueblita",
+    "wof:parent_id":1108694145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.04639,
+    8.86917,
+    -71.04639,
+    8.86917
+],
+  "geometry": {"coordinates":[-71.04639,8.86917],"type":"Point"}
+}

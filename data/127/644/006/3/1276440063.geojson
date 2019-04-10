@@ -1,0 +1,72 @@
+{
+  "id": 1276440063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45629,8.51089,-70.45629,8.51089",
+    "geom:latitude":8.51089,
+    "geom:longitude":-70.45629,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Paso Real de Paraguey",
+    "gn:country_code":"VE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630590,
+    "gn:latitude":8.51089,
+    "gn:longitude":-70.45629,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paso Real de Parag\u00fcey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pozones",
+        "Paso Real del Pag\u00fcey",
+        "Paso Real de Parag\u00fcey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630590
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"04fa990b0b9b1390751032bdda4a66b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1276440063,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276440063,
+    "wof:lastmodified":1537713531,
+    "wof:name":"Paso Real de Paraguey",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45629,
+    8.51089,
+    -70.45629,
+    8.51089
+],
+  "geometry": {"coordinates":[-70.45629,8.51089],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226147969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.83096,10.43955,-67.83096,10.43955",
+    "geom:latitude":10.43955,
+    "geom:longitude":-67.83096,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Turiamo",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625838,
+    "gn:latitude":10.43955,
+    "gn:longitude":-67.83096,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Turiamo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421188835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625838
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ee50e50a97cd8382153c9358d0ef9774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188835,
+            "locality_id":1226147969,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1226147969,
+    "wof:lastmodified":1537071391,
+    "wof:name":"Turiamo",
+    "wof:parent_id":421188835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.83096,
+    10.43955,
+    -67.83096,
+    10.43955
+],
+  "geometry": {"coordinates":[-67.83096,10.43955],"type":"Point"}
+}

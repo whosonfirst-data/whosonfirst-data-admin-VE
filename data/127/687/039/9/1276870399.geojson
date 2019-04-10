@@ -1,0 +1,67 @@
+{
+  "id": 1276870399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31879,7.53533,-71.31879,7.53533",
+    "geom:latitude":7.53533,
+    "geom:longitude":-71.31879,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Boca de Monte",
+    "gn:country_code":"VE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3487781,
+    "gn:latitude":7.53533,
+    "gn:longitude":-71.31879,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Boca de Monte",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487781
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"727d480bfcc9139308e5db96cb4f2f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1276870399,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276870399,
+    "wof:lastmodified":1537051677,
+    "wof:name":"Boca de Monte",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31879,
+    7.53533,
+    -71.31879,
+    7.53533
+],
+  "geometry": {"coordinates":[-71.31879000000001,7.53533],"type":"Point"}
+}

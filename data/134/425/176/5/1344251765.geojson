@@ -1,0 +1,67 @@
+{
+  "id": 1344251765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72167,9.83056,-68.72167,9.83056",
+    "geom:latitude":9.83056,
+    "geom:longitude":-68.72167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pozo Azul",
+    "gn:country_code":"VE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799390,
+    "gn:latitude":9.83056,
+    "gn:longitude":-68.72167,
+    "gn:modification_date":"2002-10-29",
+    "gn:name":"Pozo Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799390
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5d379e821567938c52e32061566d4a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1344251765,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1344251765,
+    "wof:lastmodified":1537093594,
+    "wof:name":"Pozo Azul",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72166999999999,
+    9.83056,
+    -68.72166999999999,
+    9.83056
+],
+  "geometry": {"coordinates":[-68.72166999999999,9.83056],"type":"Point"}
+}

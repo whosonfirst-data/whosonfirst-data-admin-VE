@@ -1,0 +1,67 @@
+{
+  "id": 1226001035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8734,10.24518,-68.8734,10.24518",
+    "geom:latitude":10.24518,
+    "geom:longitude":-68.8734,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Guararute",
+    "gn:country_code":"VE",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640094,
+    "gn:latitude":10.24518,
+    "gn:longitude":-68.8734,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Guararute",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640094
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9033470bf66c876d33b66324da712247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694101,
+            "locality_id":1226001035,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1226001035,
+    "wof:lastmodified":1536790173,
+    "wof:name":"Guararute",
+    "wof:parent_id":1108694101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8734,
+    10.24518,
+    -68.8734,
+    10.24518
+],
+  "geometry": {"coordinates":[-68.8734,10.24518],"type":"Point"}
+}

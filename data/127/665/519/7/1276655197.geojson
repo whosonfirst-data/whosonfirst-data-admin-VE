@@ -1,0 +1,67 @@
+{
+  "id": 1276655197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.57842,8.72535,-69.57842,8.72535",
+    "geom:latitude":8.72535,
+    "geom:longitude":-69.57842,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Caldero",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644025,
+    "gn:latitude":8.72535,
+    "gn:longitude":-69.57842,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"El Caldero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644025
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8ea9293e853fd9653b01ec251543cbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694375,
+            "locality_id":1276655197,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276655197,
+    "wof:lastmodified":1536843442,
+    "wof:name":"El Caldero",
+    "wof:parent_id":1108694375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.57842,
+    8.72535,
+    -69.57842,
+    8.72535
+],
+  "geometry": {"coordinates":[-69.57841999999999,8.72535],"type":"Point"}
+}

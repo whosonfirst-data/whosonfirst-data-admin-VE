@@ -1,0 +1,67 @@
+{
+  "id": 1293554243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.34447,10.25214,-64.34447,10.25214",
+    "geom:latitude":10.25214,
+    "geom:longitude":-64.34447,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Los Propositos",
+    "gn:country_code":"VE",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633699,
+    "gn:latitude":10.25214,
+    "gn:longitude":-64.34447,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Los Prop\u00f3sitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633699
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6d0582cb1439d4b2438fc1d9e374fbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1293554243,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293554243,
+    "wof:lastmodified":1536691184,
+    "wof:name":"Los Propositos",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.34447,
+    10.25214,
+    -64.34447,
+    10.25214
+],
+  "geometry": {"coordinates":[-64.34447,10.25214],"type":"Point"}
+}

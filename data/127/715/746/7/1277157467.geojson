@@ -1,0 +1,67 @@
+{
+  "id": 1277157467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.93369,11.28596,-69.93369,11.28596",
+    "geom:latitude":11.28596,
+    "geom:longitude":-69.93369,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784540,
+    "gn:latitude":11.28596,
+    "gn:longitude":-69.93369,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784540
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c82b169628a2ae09736a1bf17d26110f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1277157467,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1277157467,
+    "wof:lastmodified":1536660056,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.93369,
+    11.28596,
+    -69.93369,
+    11.28596
+],
+  "geometry": {"coordinates":[-69.93369,11.28596],"type":"Point"}
+}

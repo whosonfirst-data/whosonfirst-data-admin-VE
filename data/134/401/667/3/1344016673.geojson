@@ -1,0 +1,67 @@
+{
+  "id": 1344016673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67735,9.0896,-70.67735,9.0896",
+    "geom:latitude":9.0896,
+    "geom:longitude":-70.67735,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Duri",
+    "gn:country_code":"VE",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644431,
+    "gn:latitude":9.0896,
+    "gn:longitude":-70.67735,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dur\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421172605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644431
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5d8880b9c6469fcdc9722983f7daea01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172605,
+            "locality_id":1344016673,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1344016673,
+    "wof:lastmodified":1536939702,
+    "wof:name":"Duri",
+    "wof:parent_id":421172605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67735,
+    9.0896,
+    -70.67735,
+    9.0896
+],
+  "geometry": {"coordinates":[-70.67735,9.0896],"type":"Point"}
+}

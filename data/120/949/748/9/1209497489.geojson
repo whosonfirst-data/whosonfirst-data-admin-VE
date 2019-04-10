@@ -1,0 +1,61 @@
+{
+  "id": 1209497489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.86667,10.34167,-66.86667,10.34167",
+    "geom:latitude":10.34167,
+    "geom:longitude":-66.86667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ocumitos",
+    "gn:country_code":"VE",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803978,
+    "gn:latitude":10.34167,
+    "gn:longitude":-66.86667,
+    "gn:modification_date":"2002-11-20",
+    "gn:name":"Ocumitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803978
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1841664b1396d0669197b8c398c6421a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209497489
+        }
+    ],
+    "wof:id":1209497489,
+    "wof:lastmodified":1536285290,
+    "wof:name":"Ocumitos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.86667,
+    10.34167,
+    -66.86667,
+    10.34167
+],
+  "geometry": {"coordinates":[-66.86667,10.34167],"type":"Point"}
+}

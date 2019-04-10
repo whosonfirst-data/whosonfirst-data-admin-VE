@@ -1,0 +1,67 @@
+{
+  "id": 1326637709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.38447,9.66497,-65.38447,9.66497",
+    "geom:latitude":9.66497,
+    "geom:longitude":-65.38447,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Paraderos",
+    "gn:country_code":"VE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633809,
+    "gn:latitude":9.66497,
+    "gn:longitude":-65.38447,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Paraderos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633809
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"69ecf481d7fd10b099daf53691709a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1326637709,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326637709,
+    "wof:lastmodified":1536830857,
+    "wof:name":"Los Paraderos",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.38447,
+    9.66497,
+    -65.38447,
+    9.66497
+],
+  "geometry": {"coordinates":[-65.38446999999999,9.66497],"type":"Point"}
+}

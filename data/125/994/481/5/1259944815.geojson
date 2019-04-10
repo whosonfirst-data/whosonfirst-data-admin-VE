@@ -1,0 +1,67 @@
+{
+  "id": 1259944815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.67361,10.3134,-63.67361,10.3134",
+    "geom:latitude":10.3134,
+    "geom:longitude":-63.67361,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"VE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796716,
+    "gn:latitude":10.3134,
+    "gn:longitude":-63.67361,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Santa B\u00e1rbara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796716
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8211365d5739ad81ace5d01690b65eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1259944815,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1259944815,
+    "wof:lastmodified":1536691101,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.67361,
+    10.3134,
+    -63.67361,
+    10.3134
+],
+  "geometry": {"coordinates":[-63.67361,10.3134],"type":"Point"}
+}

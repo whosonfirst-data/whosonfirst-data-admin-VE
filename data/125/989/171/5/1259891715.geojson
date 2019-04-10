@@ -1,0 +1,67 @@
+{
+  "id": 1259891715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.07912,9.39486,-65.07912,9.39486",
+    "geom:latitude":9.39486,
+    "geom:longitude":-65.07912,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Petronera",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636751,
+    "gn:latitude":9.39486,
+    "gn:longitude":-65.07912,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Petronera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636751
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e8cb7bb85d0a033b78b6e765569f1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1259891715,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259891715,
+    "wof:lastmodified":1536767669,
+    "wof:name":"La Petronera",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.07911999999999,
+    9.39486,
+    -65.07911999999999,
+    9.39486
+],
+  "geometry": {"coordinates":[-65.07911999999999,9.39486],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344068813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.38333,8.58333,-64.38333,8.58333",
+    "geom:latitude":8.58333,
+    "geom:longitude":-64.38333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vallecito",
+    "gn:country_code":"VE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625534,
+    "gn:latitude":8.58333,
+    "gn:longitude":-64.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Vallecito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625534
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6587c2bbb55bd6182d4cc4ce1dafe438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1344068813,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344068813,
+    "wof:lastmodified":1536862082,
+    "wof:name":"Vallecito",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.38333,
+    8.58333,
+    -64.38333,
+    8.58333
+],
+  "geometry": {"coordinates":[-64.38333,8.58333],"type":"Point"}
+}

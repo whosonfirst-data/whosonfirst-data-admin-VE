@@ -1,0 +1,61 @@
+{
+  "id": 1209301681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.7601,10.54667,-70.7601,10.54667",
+    "geom:latitude":10.54667,
+    "geom:longitude":-70.7601,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Cerron",
+    "gn:country_code":"VE",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643726,
+    "gn:latitude":10.54667,
+    "gn:longitude":-70.7601,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Cerr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643726
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b6d97935e74b3c309d3ed27657d4b20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209301681
+        }
+    ],
+    "wof:id":1209301681,
+    "wof:lastmodified":1536291336,
+    "wof:name":"El Cerron",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7601,
+    10.54667,
+    -70.7601,
+    10.54667
+],
+  "geometry": {"coordinates":[-70.76009999999999,10.54667],"type":"Point"}
+}

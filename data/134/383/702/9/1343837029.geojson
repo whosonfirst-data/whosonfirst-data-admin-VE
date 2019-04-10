@@ -1,0 +1,67 @@
+{
+  "id": 1343837029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6578,9.89128,-69.6578,9.89128",
+    "geom:latitude":9.89128,
+    "geom:longitude":-69.6578,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Hato Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748407,
+    "gn:latitude":9.89128,
+    "gn:longitude":-69.6578,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Hato Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421189073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748407
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3c4739ad18c4d97ebfdae1a01e432ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189073,
+            "locality_id":1343837029,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1343837029,
+    "wof:lastmodified":1536700719,
+    "wof:name":"Hato Arriba",
+    "wof:parent_id":421189073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6578,
+    9.89128,
+    -69.6578,
+    9.89128
+],
+  "geometry": {"coordinates":[-69.65779999999999,9.89128],"type":"Point"}
+}

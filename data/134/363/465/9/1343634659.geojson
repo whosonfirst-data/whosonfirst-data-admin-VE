@@ -1,0 +1,67 @@
+{
+  "id": 1343634659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.59812,8.16809,-71.59812,8.16809",
+    "geom:latitude":8.16809,
+    "geom:longitude":-71.59812,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Montana",
+    "gn:country_code":"VE",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637088,
+    "gn:latitude":8.16809,
+    "gn:longitude":-71.59812,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"La Monta\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637088
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7413761d79aeec50dca9c2e25fc62ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "locality_id":1343634659,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343634659,
+    "wof:lastmodified":1536991556,
+    "wof:name":"La Montana",
+    "wof:parent_id":421175381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.59812,
+    8.16809,
+    -71.59812,
+    8.16809
+],
+  "geometry": {"coordinates":[-71.59811999999999,8.16809],"type":"Point"}
+}

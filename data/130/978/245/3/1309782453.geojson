@@ -1,0 +1,67 @@
+{
+  "id": 1309782453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.75689,9.37032,-65.75689,9.37032",
+    "geom:latitude":9.37032,
+    "geom:longitude":-65.75689,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Michotal",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632256,
+    "gn:latitude":9.37032,
+    "gn:longitude":-65.75689,
+    "gn:modification_date":"2002-01-31",
+    "gn:name":"Michotal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632256
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b1296b54ea604a45ae8435503d17f093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694365,
+            "locality_id":1309782453,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1309782453,
+    "wof:lastmodified":1536964616,
+    "wof:name":"Michotal",
+    "wof:parent_id":1108694365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.75689,
+    9.37032,
+    -65.75689,
+    9.37032
+],
+  "geometry": {"coordinates":[-65.75689,9.37032],"type":"Point"}
+}

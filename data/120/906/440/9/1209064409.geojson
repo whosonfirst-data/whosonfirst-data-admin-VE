@@ -1,0 +1,65 @@
+{
+  "id": 1209064409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.90573,11.65638,-71.90573,11.65638",
+    "geom:latitude":11.65638,
+    "geom:longitude":-71.90573,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Jasay",
+    "gn:country_code":"VE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639232,
+    "gn:latitude":11.65638,
+    "gn:longitude":-71.90573,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jasay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jasav",
+        "Jasay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639232
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"312bde1a11964965c882a4e0fd8633a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209064409
+        }
+    ],
+    "wof:id":1209064409,
+    "wof:lastmodified":1537713580,
+    "wof:name":"Jasay",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.90573,
+    11.65638,
+    -71.90573,
+    11.65638
+],
+  "geometry": {"coordinates":[-71.90573000000001,11.65638],"type":"Point"}
+}

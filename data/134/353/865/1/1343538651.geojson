@@ -1,0 +1,67 @@
+{
+  "id": 1343538651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25275,11.20311,-69.25275,11.20311",
+    "geom:latitude":11.20311,
+    "geom:longitude":-69.25275,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Perdomo",
+    "gn:country_code":"VE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630365,
+    "gn:latitude":11.20311,
+    "gn:longitude":-69.25275,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Perdomo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630365
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f710bca293439fbea937570229471703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1343538651,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343538651,
+    "wof:lastmodified":1536631972,
+    "wof:name":"Perdomo",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25275,
+    11.20311,
+    -69.25275,
+    11.20311
+],
+  "geometry": {"coordinates":[-69.25275000000001,11.20311],"type":"Point"}
+}

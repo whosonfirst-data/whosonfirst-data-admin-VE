@@ -1,0 +1,61 @@
+{
+  "id": 1209606983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.01861,6.64885,-67.01861,6.64885",
+    "geom:latitude":6.64885,
+    "geom:longitude":-67.01861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Caripo Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766194,
+    "gn:latitude":6.64885,
+    "gn:longitude":-67.01861,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Caripo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766194
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2a58fd7dcb06c167a7fb0b043347f2d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209606983
+        }
+    ],
+    "wof:id":1209606983,
+    "wof:lastmodified":1536281978,
+    "wof:name":"Caripo Abajo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.01861,
+    6.64885,
+    -67.01861,
+    6.64885
+],
+  "geometry": {"coordinates":[-67.01861,6.64885],"type":"Point"}
+}

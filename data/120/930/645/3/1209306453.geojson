@@ -1,0 +1,61 @@
+{
+  "id": 1209306453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.64101,7.56977,-65.64101,7.56977",
+    "geom:latitude":7.56977,
+    "geom:longitude":-65.64101,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Las Cocuizas",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807690,
+    "gn:latitude":7.56977,
+    "gn:longitude":-65.64101,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Las Cocuizas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807690
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"43b7b406ea34ecddf4223f260775e0f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209306453
+        }
+    ],
+    "wof:id":1209306453,
+    "wof:lastmodified":1536291179,
+    "wof:name":"Las Cocuizas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.64101,
+    7.56977,
+    -65.64101,
+    7.56977
+],
+  "geometry": {"coordinates":[-65.64100999999999,7.56977],"type":"Point"}
+}

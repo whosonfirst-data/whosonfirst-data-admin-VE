@@ -1,0 +1,67 @@
+{
+  "id": 1293300489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.35462,9.98503,-64.35462,9.98503",
+    "geom:latitude":9.98503,
+    "geom:longitude":-64.35462,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Buen Punto",
+    "gn:country_code":"VE",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486075,
+    "gn:latitude":9.98503,
+    "gn:longitude":-64.35462,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"El Buen Punto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486075
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"29f5f5efcdb5444777fd520c64b67d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1293300489,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293300489,
+    "wof:lastmodified":1537054186,
+    "wof:name":"El Buen Punto",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.35462,
+    9.98503,
+    -64.35462,
+    9.98503
+],
+  "geometry": {"coordinates":[-64.35462,9.98503],"type":"Point"}
+}

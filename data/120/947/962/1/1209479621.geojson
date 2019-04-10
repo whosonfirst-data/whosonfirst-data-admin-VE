@@ -1,0 +1,61 @@
+{
+  "id": 1209479621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05801,8.03306,-72.05801,8.03306",
+    "geom:latitude":8.03306,
+    "geom:longitude":-72.05801,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Molino",
+    "gn:country_code":"VE",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738778,
+    "gn:latitude":8.03306,
+    "gn:longitude":-72.05801,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Molino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738778
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae22d00a79f89b5c439c14c55b40d3a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209479621
+        }
+    ],
+    "wof:id":1209479621,
+    "wof:lastmodified":1536285826,
+    "wof:name":"El Molino",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05801,
+    8.03306,
+    -72.05801,
+    8.03306
+],
+  "geometry": {"coordinates":[-72.05801,8.03306],"type":"Point"}
+}

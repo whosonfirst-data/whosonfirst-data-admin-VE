@@ -1,0 +1,73 @@
+{
+  "id": 421195499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-62.094726,7.073636,-62.094726,7.073636",
+    "geom:latitude":7.073636,
+    "geom:longitude":-62.094726,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Roscio",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Bol\u00edvar",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":114595,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804570,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804570,
+        "qs:id":114595
+    },
+    "wof:country":"VE",
+    "wof:created":1459009850,
+    "wof:geomhash":"a8465b7391fe91e5d384ff9228ffab2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195499,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":421195499,
+    "wof:lastmodified":1474491982,
+    "wof:name":"Roscio",
+    "wof:parent_id":85680517,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.094726,
+    7.073636,
+    -62.094726,
+    7.073636
+],
+  "geometry": {"coordinates":[-62.094726,7.073636],"type":"Point"}
+}

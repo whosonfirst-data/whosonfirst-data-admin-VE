@@ -1,0 +1,71 @@
+{
+  "id": 1326609555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96,8.80896,-65.96,8.80896",
+    "geom:latitude":8.80896,
+    "geom:longitude":-65.96,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Palito",
+    "gn:country_code":"VE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642342,
+    "gn:latitude":8.80896,
+    "gn:longitude":-65.96,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Palito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palito",
+        "El Palito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642342
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11ea05f9069a46ebfb79a2ad998ba1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1326609555,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1326609555,
+    "wof:lastmodified":1537713597,
+    "wof:name":"El Palito",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96,
+    8.80896,
+    -65.96,
+    8.80896
+],
+  "geometry": {"coordinates":[-65.95999999999999,8.80896],"type":"Point"}
+}

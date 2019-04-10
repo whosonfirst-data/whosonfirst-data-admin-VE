@@ -1,0 +1,72 @@
+{
+  "id": 1242842749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.36667,8.83333,-72.36667,8.83333",
+    "geom:latitude":8.83333,
+    "geom:longitude":-72.36667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Palmira",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630980,
+    "gn:latitude":8.83333,
+    "gn:longitude":-72.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palmira",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmera",
+        "Palmira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630980
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f45bd50f999e1d22d6b81c82f0fe4334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694219,
+            "locality_id":1242842749,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1242842749,
+    "wof:lastmodified":1537713533,
+    "wof:name":"Palmira",
+    "wof:parent_id":1108694219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.36667,
+    8.83333,
+    -72.36667,
+    8.83333
+],
+  "geometry": {"coordinates":[-72.36667,8.83333],"type":"Point"}
+}

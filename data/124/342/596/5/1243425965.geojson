@@ -1,0 +1,67 @@
+{
+  "id": 1243425965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.17653,10.14724,-63.17653,10.14724",
+    "geom:latitude":10.14724,
+    "geom:longitude":-63.17653,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Valle Solo",
+    "gn:country_code":"VE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778393,
+    "gn:latitude":10.14724,
+    "gn:longitude":-63.17653,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Valle Solo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778393
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4717d9db57ee0829f91fc6f1c974ebea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694119,
+            "locality_id":1243425965,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243425965,
+    "wof:lastmodified":1536834060,
+    "wof:name":"Valle Solo",
+    "wof:parent_id":1108694119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.17653000000001,
+    10.14724,
+    -63.17653000000001,
+    10.14724
+],
+  "geometry": {"coordinates":[-63.17653000000001,10.14724],"type":"Point"}
+}

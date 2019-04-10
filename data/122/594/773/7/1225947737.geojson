@@ -1,0 +1,73 @@
+{
+  "id": 1225947737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.30778,3.39278,-67.30778,3.39278",
+    "geom:latitude":3.39278,
+    "geom:longitude":-67.30778,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Piedra Merey",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674841,
+    "gn:latitude":3.39278,
+    "gn:longitude":-67.30778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Piedra Merey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Merey",
+        "Merey",
+        "Piedra Merey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674841
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1c32dcc3c63675cbb6fa78c2cea3b5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694487,
+            "locality_id":1225947737,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1225947737,
+    "wof:lastmodified":1537713635,
+    "wof:name":"Piedra Merey",
+    "wof:parent_id":1108694487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.30778000000001,
+    3.39278,
+    -67.30778000000001,
+    3.39278
+],
+  "geometry": {"coordinates":[-67.30778000000001,3.39278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327443289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.84775,9.91698,-64.84775,9.91698",
+    "geom:latitude":9.91698,
+    "geom:longitude":-64.84775,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Quebrada Honda",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629508,
+    "gn:latitude":9.91698,
+    "gn:longitude":-64.84775,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Quebrada Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629508
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e78cb0218456cb627ba184f0d320b8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1327443289,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327443289,
+    "wof:lastmodified":1536665032,
+    "wof:name":"Quebrada Honda",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.84775,
+    9.91698,
+    -64.84775,
+    9.91698
+],
+  "geometry": {"coordinates":[-64.84775,9.91698],"type":"Point"}
+}

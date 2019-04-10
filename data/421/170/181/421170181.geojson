@@ -1,0 +1,79 @@
+{
+  "id": 421170181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.593742,10.24462,-67.593742,10.24462",
+    "geom:latitude":10.24462,
+    "geom:longitude":-67.593742,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Girardot",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":199,
+    "qs:photos_1k":40,
+    "qs:photos_9k":13,
+    "qs:photos_9r":11,
+    "qs:photos_all":3020,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":224846,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805647,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421171995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805647,
+        "qs:id":224846,
+        "qs_pg:id":224846
+    },
+    "wof:country":"VE",
+    "wof:created":1459008841,
+    "wof:geomhash":"e3e037f14b338ad8cd16e0bc5f66fa64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171995,
+            "localadmin_id":421170181,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421170181,
+    "wof:lastmodified":1497043369,
+    "wof:name":"Capital Girardot",
+    "wof:parent_id":421171995,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.593742,
+    10.24462,
+    -67.593742,
+    10.24462
+],
+  "geometry": {"coordinates":[-67.59374200000001,10.24462],"type":"Point"}
+}

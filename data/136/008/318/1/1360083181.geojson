@@ -1,0 +1,67 @@
+{
+  "id": 1360083181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38333,7.68333,-71.38333,7.68333",
+    "geom:latitude":7.68333,
+    "geom:longitude":-71.38333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Providencia",
+    "gn:country_code":"VE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629830,
+    "gn:latitude":7.68333,
+    "gn:longitude":-71.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629830
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"69b16fa515c41e5f3c2c50c550f57c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1360083181,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1360083181,
+    "wof:lastmodified":1536948744,
+    "wof:name":"Providencia",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38333,
+    7.68333,
+    -71.38333,
+    7.68333
+],
+  "geometry": {"coordinates":[-71.38333,7.68333],"type":"Point"}
+}

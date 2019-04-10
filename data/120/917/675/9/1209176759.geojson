@@ -1,0 +1,67 @@
+{
+  "id": 1209176759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.8162,9.07651,-69.8162,9.07651",
+    "geom:latitude":9.07651,
+    "geom:longitude":-69.8162,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Mesa de Cavacas",
+    "gn:country_code":"VE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632297,
+    "gn:latitude":9.07651,
+    "gn:longitude":-69.8162,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Mesa de Cavacas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cavacas",
+        "Cavadas",
+        "Caracas",
+        "Mesa de Caracas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632297
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3ccfc92077755dd7088cc973bad21050",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209176759
+        }
+    ],
+    "wof:id":1209176759,
+    "wof:lastmodified":1537713539,
+    "wof:name":"Mesa de Cavacas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.8162,
+    9.07651,
+    -69.8162,
+    9.07651
+],
+  "geometry": {"coordinates":[-69.81619999999999,9.07651],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343232517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.67167,8.62667,-71.67167,8.62667",
+    "geom:latitude":8.62667,
+    "geom:longitude":-71.67167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cano Negro",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798923,
+    "gn:latitude":8.62667,
+    "gn:longitude":-71.67167,
+    "gn:modification_date":"2013-03-31",
+    "gn:name":"Ca\u00f1o Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798923
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1c15bf9fa273c5e7947a570d31be4782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1343232517,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343232517,
+    "wof:lastmodified":1537072300,
+    "wof:name":"Cano Negro",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.67166999999998,
+    8.62667,
+    -71.67166999999998,
+    8.62667
+],
+  "geometry": {"coordinates":[-71.67166999999998,8.62667],"type":"Point"}
+}

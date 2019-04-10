@@ -1,0 +1,93 @@
+{
+  "id": 421172591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.868286,10.508741,-66.868286,10.508741",
+    "geom:latitude":10.508741,
+    "geom:longitude":-66.868286,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chacao"
+    ],
+    "name:fra_x_preferred":[
+        "Chacao"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30ab\u30aa"
+    ],
+    "name:pol_x_preferred":[
+        "Chacao"
+    ],
+    "name:spa_x_preferred":[
+        "Chacao"
+    ],
+    "name:swe_x_preferred":[
+        "Chacao"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Chacao",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":62,
+    "qs:photos_1k":13,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2402,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1314607,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804637,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804637,
+        "qs:id":1314607,
+        "wd:id":"Q1179846"
+    },
+    "wof:country":"VE",
+    "wof:created":1459008947,
+    "wof:geomhash":"66546b11d7ff6d0d13890e527de97f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172591,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":421172591,
+    "wof:lastmodified":1527716305,
+    "wof:name":"Chacao",
+    "wof:parent_id":85680535,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.868286,
+    10.508741,
+    -66.868286,
+    10.508741
+],
+  "geometry": {"coordinates":[-66.868286,10.508741],"type":"Point"}
+}

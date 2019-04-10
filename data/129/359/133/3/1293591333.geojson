@@ -1,0 +1,67 @@
+{
+  "id": 1293591333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61107,8.38264,-64.61107,8.38264",
+    "geom:latitude":8.38264,
+    "geom:longitude":-64.61107,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Banquito",
+    "gn:country_code":"VE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486167,
+    "gn:latitude":8.38264,
+    "gn:longitude":-64.61107,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"El Banquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486167
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e3a8e6ba4d4bef90f676118b42e43e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1293591333,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293591333,
+    "wof:lastmodified":1536636186,
+    "wof:name":"El Banquito",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61107,
+    8.38264,
+    -64.61107,
+    8.38264
+],
+  "geometry": {"coordinates":[-64.61107,8.38264],"type":"Point"}
+}

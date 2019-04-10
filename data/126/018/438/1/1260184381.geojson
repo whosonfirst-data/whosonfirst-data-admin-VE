@@ -1,0 +1,67 @@
+{
+  "id": 1260184381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46667,9.96667,-65.46667,9.96667",
+    "geom:latitude":9.96667,
+    "geom:longitude":-65.46667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Respiro",
+    "gn:country_code":"VE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641753,
+    "gn:latitude":9.96667,
+    "gn:longitude":-65.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Respiro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641753
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b4d1d13433aff3cd6d7dc3ceff6b2bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1260184381,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1260184381,
+    "wof:lastmodified":1536845583,
+    "wof:name":"El Respiro",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46667,
+    9.96667,
+    -65.46667,
+    9.96667
+],
+  "geometry": {"coordinates":[-65.46666999999999,9.96667],"type":"Point"}
+}

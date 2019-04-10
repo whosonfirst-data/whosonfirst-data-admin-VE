@@ -1,0 +1,65 @@
+{
+  "id": 1209520551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.59665,10.44544,-67.59665,10.44544",
+    "geom:latitude":10.44544,
+    "geom:longitude":-67.59665,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Parapara",
+    "gn:country_code":"VE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630736,
+    "gn:latitude":10.44544,
+    "gn:longitude":-67.59665,
+    "gn:modification_date":"2014-07-22",
+    "gn:name":"Parapara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paraparo",
+        "Parapara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e2d7a3d7a7353fbafe3ec236652aabf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209520551
+        }
+    ],
+    "wof:id":1209520551,
+    "wof:lastmodified":1537713531,
+    "wof:name":"Parapara",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.59665,
+    10.44544,
+    -67.59665,
+    10.44544
+],
+  "geometry": {"coordinates":[-67.59665,10.44544],"type":"Point"}
+}

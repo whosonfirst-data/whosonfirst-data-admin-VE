@@ -1,0 +1,68 @@
+{
+  "id": 1343739525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.25637,11.8235,-70.25637,11.8235",
+    "geom:latitude":11.8235,
+    "geom:longitude":-70.25637,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Santa Cruz de los Taques",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7909705,
+    "gn:latitude":11.8235,
+    "gn:longitude":-70.25637,
+    "gn:modification_date":"2012-01-08",
+    "gn:name":"Santa Cruz de los Taques",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890442023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909705
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b4151a8c00c6a1940012ea6a24128b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890442023,
+            "locality_id":1343739525,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343739525,
+    "wof:lastmodified":1536840082,
+    "wof:name":"Santa Cruz de los Taques",
+    "wof:parent_id":890442023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.25636999999999,
+    11.8235,
+    -70.25636999999999,
+    11.8235
+],
+  "geometry": {"coordinates":[-70.25636999999999,11.8235],"type":"Point"}
+}

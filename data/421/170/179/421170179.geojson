@@ -1,0 +1,79 @@
+{
+  "id": 421170179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.782058,5.717795,-62.782058,5.717795",
+    "geom:latitude":5.717795,
+    "geom:longitude":-62.782058,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Gran Sabana",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Bol\u00edvar",
+    "qs:photos":1535,
+    "qs:photos_1k":311,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2013,
+    "qs:photos_sr":13,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":224845,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805588,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805588,
+        "qs:id":224845,
+        "qs_pg:id":224845
+    },
+    "wof:country":"VE",
+    "wof:created":1459008841,
+    "wof:geomhash":"dd7aab168fe49a90b185c9235b850bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "localadmin_id":421170179,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":421170179,
+    "wof:lastmodified":1497043369,
+    "wof:name":"Capital Gran Sabana",
+    "wof:parent_id":421202369,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.782058,
+    5.717795,
+    -62.782058,
+    5.717795
+],
+  "geometry": {"coordinates":[-62.782058,5.717795],"type":"Point"}
+}

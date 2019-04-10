@@ -1,0 +1,67 @@
+{
+  "id": 1327221101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.24278,10.87778,-68.24278,10.87778",
+    "geom:latitude":10.87778,
+    "geom:longitude":-68.24278,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Palo Mocho",
+    "gn:country_code":"VE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784172,
+    "gn:latitude":10.87778,
+    "gn:longitude":-68.24278,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Palo Mocho",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784172
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"41deef37620c506d28d542bf5b1e5c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193381,
+            "locality_id":1327221101,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1327221101,
+    "wof:lastmodified":1536985161,
+    "wof:name":"Palo Mocho",
+    "wof:parent_id":421193381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.24278000000001,
+    10.87778,
+    -68.24278000000001,
+    10.87778
+],
+  "geometry": {"coordinates":[-68.24278000000001,10.87778],"type":"Point"}
+}

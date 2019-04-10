@@ -1,0 +1,67 @@
+{
+  "id": 1276618521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2763,7.75467,-72.2763,7.75467",
+    "geom:latitude":7.75467,
+    "geom:longitude":-72.2763,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Tope",
+    "gn:country_code":"VE",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759370,
+    "gn:latitude":7.75467,
+    "gn:longitude":-72.2763,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"El Tope",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759370
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"40f9328df0640bf4722f60244fcd3084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694261,
+            "locality_id":1276618521,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276618521,
+    "wof:lastmodified":1536893742,
+    "wof:name":"El Tope",
+    "wof:parent_id":1108694261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2763,
+    7.75467,
+    -72.2763,
+    7.75467
+],
+  "geometry": {"coordinates":[-72.27630000000001,7.75467],"type":"Point"}
+}

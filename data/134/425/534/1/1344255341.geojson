@@ -1,0 +1,72 @@
+{
+  "id": 1344255341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15,8.35,-70.15,8.35",
+    "geom:latitude":8.35,
+    "geom:longitude":-70.15,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Sagua",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641572,
+    "gn:latitude":8.35,
+    "gn:longitude":-70.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Sagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagua",
+        "El Sagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641572
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cff1c3fe74dc2655438e92fbbd00c7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1344255341,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1344255341,
+    "wof:lastmodified":1537713592,
+    "wof:name":"El Sagua",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15,
+    8.35,
+    -70.15,
+    8.35
+],
+  "geometry": {"coordinates":[-70.15000000000001,8.35],"type":"Point"}
+}

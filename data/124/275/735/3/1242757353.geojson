@@ -1,0 +1,67 @@
+{
+  "id": 1242757353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.39744,9.59231,-65.39744,9.59231",
+    "geom:latitude":9.59231,
+    "geom:longitude":-65.39744,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Palo Sano",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630914,
+    "gn:latitude":9.59231,
+    "gn:longitude":-65.39744,
+    "gn:modification_date":"2002-01-31",
+    "gn:name":"Palo Sano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630914
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b813f6dbb7d5790e663f1e74f4fd24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1242757353,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242757353,
+    "wof:lastmodified":1536804675,
+    "wof:name":"Palo Sano",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.39744,
+    9.59231,
+    -65.39744,
+    9.59231
+],
+  "geometry": {"coordinates":[-65.39744,9.59231],"type":"Point"}
+}

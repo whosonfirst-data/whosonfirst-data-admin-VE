@@ -1,0 +1,67 @@
+{
+  "id": 1293384673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.11396,9.039,-68.11396,9.039",
+    "geom:latitude":9.039,
+    "geom:longitude":-68.11396,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cujicito",
+    "gn:country_code":"VE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799816,
+    "gn:latitude":9.039,
+    "gn:longitude":-68.11396,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Cujicito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799816
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"81eb3dd562d1e0e743a8e920b9800fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1293384673,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1293384673,
+    "wof:lastmodified":1536936011,
+    "wof:name":"Cujicito",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.11395999999999,
+    9.039,
+    -68.11395999999999,
+    9.039
+],
+  "geometry": {"coordinates":[-68.11395999999999,9.039],"type":"Point"}
+}

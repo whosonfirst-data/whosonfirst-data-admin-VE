@@ -1,0 +1,67 @@
+{
+  "id": 1226217161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.58028,10.58028,-63.58028,10.58028",
+    "geom:latitude":10.58028,
+    "geom:longitude":-63.58028,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Vicio Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749460,
+    "gn:latitude":10.58028,
+    "gn:longitude":-63.58028,
+    "gn:modification_date":"1996-07-17",
+    "gn:name":"El Vicio Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749460
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d5aeb43f7979e5794119b61f5c85cd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1226217161,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1226217161,
+    "wof:lastmodified":1536974434,
+    "wof:name":"El Vicio Abajo",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.58028,
+    10.58028,
+    -63.58028,
+    10.58028
+],
+  "geometry": {"coordinates":[-63.58028,10.58028],"type":"Point"}
+}

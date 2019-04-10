@@ -1,0 +1,67 @@
+{
+  "id": 1327142103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.63778,9.36833,-64.63778,9.36833",
+    "geom:latitude":9.36833,
+    "geom:longitude":-64.63778,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"VE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634337,
+    "gn:latitude":9.36833,
+    "gn:longitude":-64.63778,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"Los Cerritos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634337
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b37019065d8a5c1eaee9c0c1ab164d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694409,
+            "locality_id":1327142103,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327142103,
+    "wof:lastmodified":1537096652,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":1108694409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.63778,
+    9.36833,
+    -64.63778,
+    9.36833
+],
+  "geometry": {"coordinates":[-64.63778000000001,9.36833],"type":"Point"}
+}

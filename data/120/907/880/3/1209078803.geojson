@@ -1,0 +1,61 @@
+{
+  "id": 1209078803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.75,10.08333,-66.75,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":-66.75,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Mona",
+    "gn:country_code":"VE",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637095,
+    "gn:latitude":10.08333,
+    "gn:longitude":-66.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Mona",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637095
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"05ad829ebf973b746c275447456ee0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209078803
+        }
+    ],
+    "wof:id":1209078803,
+    "wof:lastmodified":1536298407,
+    "wof:name":"La Mona",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.75,
+    10.08333,
+    -66.75,
+    10.08333
+],
+  "geometry": {"coordinates":[-66.75,10.08333],"type":"Point"}
+}

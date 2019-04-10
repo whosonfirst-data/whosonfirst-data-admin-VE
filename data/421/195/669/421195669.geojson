@@ -1,0 +1,335 @@
+{
+  "id": 421195669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61667,10.21667,-64.61667,10.21667",
+    "geom:latitude":10.21667,
+    "geom:longitude":-64.61667,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0644\u0627 \u0643\u0631\u0648\u0632"
+    ],
+    "name:arg_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09b2\u09be \u0995\u09cd\u09b0\u09c1\u099c"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u041b\u0430 \u041a\u0440\u0443\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af\u6e2f"
+    ],
+    "name:dan_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Cruz"
+    ],
+    "name:eng_x_variant":[
+        "Puerto la Cruz"
+    ],
+    "name:epo_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:fij_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:fin_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10d0-\u10d9\u10e0\u10e3\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039b\u03b1 \u039a\u03c1\u03bf\u03c5\u03b6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0ab2\u0abe \u0a95\u0acd\u0ab0\u0ac1\u0a9d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05dc\u05d4 \u05e7\u05e8\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0930\u094d\u091f\u094b \u0932\u093e \u0915\u094d\u0930\u0942\u091c\u093c"
+    ],
+    "name:ind_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30e9\u30fb\u30af\u30eb\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0caf\u0cc2\u0cb0\u0ccd\u0c9f\u0ccb \u0cb2 \u0c95\u0ccd\u0cb0\u0cc1\u0c9c\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10d0-\u10d9\u10e0\u10e3\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\ub77c\ud06c\ub8e8\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Puertolakrusa"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto la Krusas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u0932\u093e \u0915\u094d\u0930\u0941\u091d"
+    ],
+    "name:may_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:por_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:por_x_variant":[
+        "Puerto Cruz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u043b\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e \u041b\u0430 \u041a\u0440\u0443\u0437"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddd\u0dbb\u0dca\u0da7\u0ddd \u0dbd\u0dcf \u0d9a\u0dd8\u0dc3\u0dca"
+    ],
+    "name:spa_x_colloquial":[
+        "Puerto Cruz"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:spa_x_variant":[
+        "Puerto de La Cruz",
+        "Puerto la Cruz",
+        "Puerto Cruz"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc7\u0baf\u0bc6\u0bb0\u0bcd\u0b9f\u0bcb \u0bb2\u0bbe \u0b95\u0bbf\u0bb0\u0bc2\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4d\u0c2f\u0c42\u0c30\u0c4d\u0c1f\u0c4b \u0c32\u0c3e \u0c15\u0c4d\u0c30\u0c42\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e31\u0e27\u0e23\u0e4c\u0e42\u0e15\u0e40\u0e14\u0e25\u0e32\u0e04\u0e23\u0e39\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u043b\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u06cc\u0631\u062a\u0648 \u0644\u0627 \u06a9\u0631\u0648\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af\u6e2f"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Venezuela",
+    "ne:ADM0_A3":"VEN",
+    "ne:ADM1NAME":"Anzo\u00e1tegui",
+    "ne:ADMIN1_COD":2,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3629672,
+    "ne:GEONAMESNO":"GeoNames rough area, rough name.",
+    "ne:GN_ASCII":"Puerto La Cruz",
+    "ne:GN_POP":370000,
+    "ne:GTOPO30":64.0,
+    "ne:ISO_A2":"VE",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":10.169959,
+    "ne:LONGITUDE":-64.680016,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Puerto la Cruz",
+    "ne:MAX_AREAKM":106.0,
+    "ne:MAX_AREAMI":41.0,
+    "ne:MAX_BBXMAX":-64.583333,
+    "ne:MAX_BBXMIN":-64.708333,
+    "ne:MAX_BBYMAX":10.258333,
+    "ne:MAX_BBYMIN":10.116609,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":89.0,
+    "ne:MAX_PERMI":55.0,
+    "ne:MAX_POP10":546616,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-64.646976,
+    "ne:MEAN_BBYC":10.183334,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":106.0,
+    "ne:MIN_AREAMI":41.0,
+    "ne:MIN_BBXMAX":-64.583333,
+    "ne:MIN_BBXMIN":-64.708333,
+    "ne:MIN_BBYMAX":10.258333,
+    "ne:MIN_BBYMIN":10.116609,
+    "ne:MIN_PERKM":89.0,
+    "ne:MIN_PERMI":55.0,
+    "ne:NAME":"Puerto la Cruz",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto la Cruz",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":546616,
+    "ne:POP_MIN":454312,
+    "ne:POP_OTHER":496331,
+    "ne:RANK_MAX":11,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Venezuela",
+    "ne:SOV_A3":"VEN",
+    "ne:TIMEZONE":"America/Caracas",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3629672,
+    "qs:gn_pop":370000,
+    "qs:name":"Puerto la Cruz",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":1303,
+    "qs:photos_1k":264,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1303,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"11",
+    "qs:qs_id":489783,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468398,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":10.216667,
+    "wd:longitude":-64.616667,
+    "wd:wordcount":1697,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421204791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629672,
+        "gp:id":468398,
+        "qs:id":489783,
+        "wd:id":"Q379509",
+        "wk:page":"Puerto la Cruz"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009855,
+    "wof:geomhash":"1100fa33518ca5f001e267e59bb058c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204791,
+            "locality_id":421195669,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":421195669,
+    "wof:lastmodified":1527716120,
+    "wof:name":"Puerto la Cruz",
+    "wof:parent_id":421204791,
+    "wof:placetype":"locality",
+    "wof:population":370000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61667,
+    10.21667,
+    -64.61667,
+    10.21667
+],
+  "geometry": {"coordinates":[-64.61667,10.21667],"type":"Point"}
+}

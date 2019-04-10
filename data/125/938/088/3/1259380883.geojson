@@ -1,0 +1,67 @@
+{
+  "id": 1259380883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2986,8.07796,-70.2986,8.07796",
+    "geom:latitude":8.07796,
+    "geom:longitude":-70.2986,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Los Manantiales",
+    "gn:country_code":"VE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3487114,
+    "gn:latitude":8.07796,
+    "gn:longitude":-70.2986,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Los Manantiales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487114
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"75dce77aa26b33658b832f120d881f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1259380883,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1259380883,
+    "wof:lastmodified":1537005319,
+    "wof:name":"Los Manantiales",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.2986,
+    8.07796,
+    -70.2986,
+    8.07796
+],
+  "geometry": {"coordinates":[-70.29859999999999,8.07796],"type":"Point"}
+}

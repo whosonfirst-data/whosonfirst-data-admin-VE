@@ -1,0 +1,67 @@
+{
+  "id": 1309815337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06436,9.98814,-65.06436,9.98814",
+    "geom:latitude":9.98814,
+    "geom:longitude":-65.06436,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Pajarito",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631136,
+    "gn:latitude":9.98814,
+    "gn:longitude":-65.06436,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Pajarito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421172597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631136
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f712f154ac0c53e9f5f3d31e264ac237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172597,
+            "locality_id":1309815337,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309815337,
+    "wof:lastmodified":1536917832,
+    "wof:name":"Pajarito",
+    "wof:parent_id":421172597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06436,
+    9.98814,
+    -65.06436,
+    9.98814
+],
+  "geometry": {"coordinates":[-65.06435999999999,9.98814],"type":"Point"}
+}

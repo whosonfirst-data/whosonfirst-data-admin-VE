@@ -1,0 +1,67 @@
+{
+  "id": 1293939687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.07361,10.41139,-69.07361,10.41139",
+    "geom:latitude":10.41139,
+    "geom:longitude":-69.07361,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Casa Amarilla",
+    "gn:country_code":"VE",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746625,
+    "gn:latitude":10.41139,
+    "gn:longitude":-69.07361,
+    "gn:modification_date":"1996-04-19",
+    "gn:name":"Casa Amarilla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746625
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e125762e53fe21503d55f891077fee9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694163,
+            "locality_id":1293939687,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1293939687,
+    "wof:lastmodified":1536630921,
+    "wof:name":"Casa Amarilla",
+    "wof:parent_id":1108694163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.07361,
+    10.41139,
+    -69.07361,
+    10.41139
+],
+  "geometry": {"coordinates":[-69.07361,10.41139],"type":"Point"}
+}

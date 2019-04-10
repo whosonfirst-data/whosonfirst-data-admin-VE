@@ -1,0 +1,63 @@
+{
+  "id": 1343617553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97104,9.47763,-71.97104,9.47763",
+    "geom:latitude":9.47763,
+    "geom:longitude":-71.97104,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Los Manaties",
+    "gn:country_code":"VE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633983,
+    "gn:latitude":9.47763,
+    "gn:longitude":-71.97104,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Los Manat\u00edes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633983
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d1f7b00aa9f1c1c6e6dd790ae21dac44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1343617553,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343617553,
+    "wof:lastmodified":1537016324,
+    "wof:name":"Los Manaties",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97104,
+    9.47763,
+    -71.97104,
+    9.47763
+],
+  "geometry": {"coordinates":[-71.97104,9.47763],"type":"Point"}
+}

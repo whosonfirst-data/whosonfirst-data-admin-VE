@@ -1,0 +1,67 @@
+{
+  "id": 1293563699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.41476,10.33426,-63.41476,10.33426",
+    "geom:latitude":10.33426,
+    "geom:longitude":-63.41476,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"La Guiria",
+    "gn:country_code":"VE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796020,
+    "gn:latitude":10.33426,
+    "gn:longitude":-63.41476,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Guiria",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796020
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"157ea865e99b02ee88dd61c721908889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694075,
+            "locality_id":1293563699,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293563699,
+    "wof:lastmodified":1536677290,
+    "wof:name":"La Guiria",
+    "wof:parent_id":1108694075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.41476,
+    10.33426,
+    -63.41476,
+    10.33426
+],
+  "geometry": {"coordinates":[-63.41476,10.33426],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276347369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.46394,8.54565,-64.46394,8.54565",
+    "geom:latitude":8.54565,
+    "geom:longitude":-64.46394,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Victorio",
+    "gn:country_code":"VE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484083,
+    "gn:latitude":8.54565,
+    "gn:longitude":-64.46394,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Victorio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484083
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"db9587249258a78fb1b3feeed9c6eb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1276347369,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276347369,
+    "wof:lastmodified":1536759816,
+    "wof:name":"Victorio",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.46394000000001,
+    8.54565,
+    -64.46394000000001,
+    8.54565
+],
+  "geometry": {"coordinates":[-64.46394000000001,8.54565],"type":"Point"}
+}

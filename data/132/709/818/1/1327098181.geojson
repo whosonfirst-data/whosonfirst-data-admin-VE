@@ -1,0 +1,73 @@
+{
+  "id": 1327098181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.03333,8.85,-62.03333,8.85",
+    "geom:latitude":8.85,
+    "geom:longitude":-62.03333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Barrancos de Guaritico",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634509,
+    "gn:latitude":8.85,
+    "gn:longitude":-62.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Barrancos de Guaritico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barrancos de Guaritico",
+        "Los Barrancos",
+        "Los Barrancos de Guaritico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634509
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fcbe5ca3cb5455b1c5b03f48f5f13ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694431,
+            "locality_id":1327098181,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1327098181,
+    "wof:lastmodified":1537713551,
+    "wof:name":"Los Barrancos de Guaritico",
+    "wof:parent_id":1108694431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.03333000000001,
+    8.85,
+    -62.03333000000001,
+    8.85
+],
+  "geometry": {"coordinates":[-62.03333000000001,8.85],"type":"Point"}
+}

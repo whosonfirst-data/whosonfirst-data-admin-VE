@@ -1,0 +1,67 @@
+{
+  "id": 1243547161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.96305,8.2231,-69.96305,8.2231",
+    "geom:latitude":8.2231,
+    "geom:longitude":-69.96305,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"VE",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627268,
+    "gn:latitude":8.2231,
+    "gn:longitude":-69.96305,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627268
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6628c26b22cc223a1aac0538a4ef666d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1243547161,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1243547161,
+    "wof:lastmodified":1536660479,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.96305,
+    8.2231,
+    -69.96305,
+    8.2231
+],
+  "geometry": {"coordinates":[-69.96305,8.2231],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276870219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.51667,7.73333,-70.51667,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":-70.51667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Capitan",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643952,
+    "gn:latitude":7.73333,
+    "gn:longitude":-70.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Capit\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capit\u00e1n",
+        "El Capit\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643952
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"64765e0bd1631a2f1b3628cc0a1c2e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1276870219,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276870219,
+    "wof:lastmodified":1537713608,
+    "wof:name":"El Capitan",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.51666999999998,
+    7.73333,
+    -70.51666999999998,
+    7.73333
+],
+  "geometry": {"coordinates":[-70.51666999999998,7.73333],"type":"Point"}
+}

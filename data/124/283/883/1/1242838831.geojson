@@ -1,0 +1,71 @@
+{
+  "id": 1242838831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.30121,8.36393,-72.30121,8.36393",
+    "geom:latitude":8.36393,
+    "geom:longitude":-72.30121,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Orope",
+    "gn:country_code":"VE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631259,
+    "gn:latitude":8.36393,
+    "gn:longitude":-72.30121,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Orope",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1o Orope",
+        "Orope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631259
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b12613c1e05c7308722b3a68cd61ded1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694197,
+            "locality_id":1242838831,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1242838831,
+    "wof:lastmodified":1537713534,
+    "wof:name":"Orope",
+    "wof:parent_id":1108694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.30121,
+    8.36393,
+    -72.30121,
+    8.36393
+],
+  "geometry": {"coordinates":[-72.30121,8.36393],"type":"Point"}
+}

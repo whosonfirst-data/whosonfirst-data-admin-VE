@@ -1,0 +1,67 @@
+{
+  "id": 1260373565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.72348,8.35167,-71.72348,8.35167",
+    "geom:latitude":8.35167,
+    "geom:longitude":-71.72348,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"El Penoncito",
+    "gn:country_code":"VE",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797393,
+    "gn:latitude":8.35167,
+    "gn:longitude":-71.72348,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Pe\u00f1oncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797393
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7a7896db75943555ab64bea023acc64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1260373565,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1260373565,
+    "wof:lastmodified":1537085040,
+    "wof:name":"El Penoncito",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.72348000000002,
+    8.35167,
+    -71.72348000000002,
+    8.35167
+],
+  "geometry": {"coordinates":[-71.72348000000002,8.35167],"type":"Point"}
+}

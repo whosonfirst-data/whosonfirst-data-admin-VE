@@ -1,0 +1,67 @@
+{
+  "id": 1343260113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83333,7.9,-68.83333,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":-68.83333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Providencia",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636637,
+    "gn:latitude":7.9,
+    "gn:longitude":-68.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636637
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a9395272ca82d07ab171721351a73a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1343260113,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343260113,
+    "wof:lastmodified":1537033939,
+    "wof:name":"La Providencia",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83333,
+    7.9,
+    -68.83333,
+    7.9
+],
+  "geometry": {"coordinates":[-68.83333,7.9],"type":"Point"}
+}

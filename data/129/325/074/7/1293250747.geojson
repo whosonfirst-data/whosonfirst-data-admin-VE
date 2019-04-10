@@ -1,0 +1,67 @@
+{
+  "id": 1293250747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45539,10.10469,-68.45539,10.10469",
+    "geom:latitude":10.10469,
+    "geom:longitude":-68.45539,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Quiriquire",
+    "gn:country_code":"VE",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629383,
+    "gn:latitude":10.10469,
+    "gn:longitude":-68.45539,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Quiriquire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629383
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"541ae9f14558dcc5f9ec1d47f4c01c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1293250747,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1293250747,
+    "wof:lastmodified":1536629704,
+    "wof:name":"Quiriquire",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45539000000001,
+    10.10469,
+    -68.45539000000001,
+    10.10469
+],
+  "geometry": {"coordinates":[-68.45539000000001,10.10469],"type":"Point"}
+}

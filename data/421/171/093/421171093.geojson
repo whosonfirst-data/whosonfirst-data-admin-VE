@@ -1,0 +1,75 @@
+{
+  "id": 421171093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.495534,8.128536,-71.495534,8.128536",
+    "geom:latitude":8.128536,
+    "geom:longitude":-71.495534,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Molino",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":197,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1206522,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805236,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805236,
+        "qs:id":1206522
+    },
+    "wof:country":"VE",
+    "wof:created":1459008881,
+    "wof:geomhash":"46f0eee30e76eaece340aa3314442ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "localadmin_id":421171093,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421171093,
+    "wof:lastmodified":1500034069,
+    "wof:name":"El Molino",
+    "wof:parent_id":421175381,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.495534,
+    8.128536,
+    -71.495534,
+    8.128536
+],
+  "geometry": {"coordinates":[-71.49553400000001,8.128536],"type":"Point"}
+}

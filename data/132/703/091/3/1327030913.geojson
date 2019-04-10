@@ -1,0 +1,67 @@
+{
+  "id": 1327030913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.82802,7.0197,-69.82802,7.0197",
+    "geom:latitude":7.0197,
+    "geom:longitude":-69.82802,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Tabano",
+    "gn:country_code":"VE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641426,
+    "gn:latitude":7.0197,
+    "gn:longitude":-69.82802,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"El T\u00e1bano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421180899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641426
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ceda84c0ddae69fdab9fc2457320e73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180899,
+            "locality_id":1327030913,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1327030913,
+    "wof:lastmodified":1536762889,
+    "wof:name":"El Tabano",
+    "wof:parent_id":421180899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.82802,
+    7.0197,
+    -69.82802,
+    7.0197
+],
+  "geometry": {"coordinates":[-69.82802,7.0197],"type":"Point"}
+}

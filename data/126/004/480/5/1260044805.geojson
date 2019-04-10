@@ -1,0 +1,67 @@
+{
+  "id": 1260044805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.56129,10.60636,-62.56129,10.60636",
+    "geom:latitude":10.60636,
+    "geom:longitude":-62.56129,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Concepcion",
+    "gn:country_code":"VE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797161,
+    "gn:latitude":10.60636,
+    "gn:longitude":-62.56129,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797161
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"00d85ae32368bd6d238a4db7ccc1200b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694275,
+            "locality_id":1260044805,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1260044805,
+    "wof:lastmodified":1537042125,
+    "wof:name":"Concepcion",
+    "wof:parent_id":1108694275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.56129,
+    10.60636,
+    -62.56129,
+    10.60636
+],
+  "geometry": {"coordinates":[-62.56129,10.60636],"type":"Point"}
+}

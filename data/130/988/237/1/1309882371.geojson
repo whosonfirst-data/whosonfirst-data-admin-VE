@@ -1,0 +1,67 @@
+{
+  "id": 1309882371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87772,8.81602,-64.87772,8.81602",
+    "geom:latitude":8.81602,
+    "geom:longitude":-64.87772,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Sierra",
+    "gn:country_code":"VE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635878,
+    "gn:latitude":8.81602,
+    "gn:longitude":-64.87772,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Sierra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635878
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fa7bd5a048ef81cfe0759488ba4a313f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1309882371,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1309882371,
+    "wof:lastmodified":1536819950,
+    "wof:name":"La Sierra",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87772,
+    8.81602,
+    -64.87772,
+    8.81602
+],
+  "geometry": {"coordinates":[-64.87772,8.81602],"type":"Point"}
+}

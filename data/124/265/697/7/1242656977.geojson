@@ -1,0 +1,67 @@
+{
+  "id": 1242656977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.91667,9.23333,-66.91667,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":-66.91667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Puntas de las Garzas",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629583,
+    "gn:latitude":9.23333,
+    "gn:longitude":-66.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Puntas de las Garzas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421189079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629583
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7155e24fb9e7d31bbc8016b72c6133a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189079,
+            "locality_id":1242656977,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242656977,
+    "wof:lastmodified":1536949814,
+    "wof:name":"Puntas de las Garzas",
+    "wof:parent_id":421189079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.91667,
+    9.23333,
+    -66.91667,
+    9.23333
+],
+  "geometry": {"coordinates":[-66.91667,9.23333],"type":"Point"}
+}

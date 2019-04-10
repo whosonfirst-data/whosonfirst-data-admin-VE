@@ -1,0 +1,67 @@
+{
+  "id": 1242837651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.92445,10.74057,-63.92445,10.74057",
+    "geom:latitude":10.74057,
+    "geom:longitude":-63.92445,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Guinima",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639736,
+    "gn:latitude":10.74057,
+    "gn:longitude":-63.92445,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"G\u00fcinima",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421177413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"455b87fad55f1898c4365f579eafc89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421177413,
+            "locality_id":1242837651,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1242837651,
+    "wof:lastmodified":1536689314,
+    "wof:name":"Guinima",
+    "wof:parent_id":421177413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.92445,
+    10.74057,
+    -63.92445,
+    10.74057
+],
+  "geometry": {"coordinates":[-63.92445,10.74057],"type":"Point"}
+}

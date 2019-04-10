@@ -1,0 +1,61 @@
+{
+  "id": 1209383859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64145,9.25823,-70.64145,9.25823",
+    "geom:latitude":9.25823,
+    "geom:longitude":-70.64145,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Cucharito",
+    "gn:country_code":"VE",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482566,
+    "gn:latitude":9.25823,
+    "gn:longitude":-70.64145,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"El Cucharito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482566
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3c25201da58a9f6757fc33ece84a2109",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209383859
+        }
+    ],
+    "wof:id":1209383859,
+    "wof:lastmodified":1536288692,
+    "wof:name":"El Cucharito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64145,
+    9.25823,
+    -70.64145,
+    9.25823
+],
+  "geometry": {"coordinates":[-70.64145000000001,9.25823],"type":"Point"}
+}

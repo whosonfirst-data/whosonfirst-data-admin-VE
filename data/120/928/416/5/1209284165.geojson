@@ -1,0 +1,61 @@
+{
+  "id": 1209284165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.87807,10.44182,-66.87807,10.44182",
+    "geom:latitude":10.44182,
+    "geom:longitude":-66.87807,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"El Penon",
+    "gn:country_code":"VE",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804044,
+    "gn:latitude":10.44182,
+    "gn:longitude":-66.87807,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"El Pe\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804044
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d232d496e703ecdb24e000fe57e20e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209284165
+        }
+    ],
+    "wof:id":1209284165,
+    "wof:lastmodified":1536291917,
+    "wof:name":"El Penon",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.87807,
+    10.44182,
+    -66.87807,
+    10.44182
+],
+  "geometry": {"coordinates":[-66.87806999999999,10.44182],"type":"Point"}
+}

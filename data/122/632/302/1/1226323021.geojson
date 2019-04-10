@@ -1,0 +1,72 @@
+{
+  "id": 1226323021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.34555,11.05153,-68.34555,11.05153",
+    "geom:latitude":11.05153,
+    "geom:longitude":-68.34555,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boca del Tocuyo",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648186,
+    "gn:latitude":11.05153,
+    "gn:longitude":-68.34555,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boca del Tocuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca de Tocuyo",
+        "Boca Tocuyo",
+        "Boca del Tocuyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648186
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"487d8ba735d8d97db8404c8c47864cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193381,
+            "locality_id":1226323021,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226323021,
+    "wof:lastmodified":1537713628,
+    "wof:name":"Boca del Tocuyo",
+    "wof:parent_id":421193381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.34555,
+    11.05153,
+    -68.34555,
+    11.05153
+],
+  "geometry": {"coordinates":[-68.34555,11.05153],"type":"Point"}
+}

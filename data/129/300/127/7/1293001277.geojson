@@ -1,0 +1,67 @@
+{
+  "id": 1293001277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1225,7.61389,-69.1225,7.61389",
+    "geom:latitude":7.61389,
+    "geom:longitude":-69.1225,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Costa de Caicara",
+    "gn:country_code":"VE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645017,
+    "gn:latitude":7.61389,
+    "gn:longitude":-69.1225,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"Costa de Caicara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e1e280aa6bb55c873f9d7c73ac4cca1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1293001277,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293001277,
+    "wof:lastmodified":1536990138,
+    "wof:name":"Costa de Caicara",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1225,
+    7.61389,
+    -69.1225,
+    7.61389
+],
+  "geometry": {"coordinates":[-69.1225,7.61389],"type":"Point"}
+}

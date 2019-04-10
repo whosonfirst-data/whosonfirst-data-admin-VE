@@ -1,0 +1,67 @@
+{
+  "id": 1293007025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.465,7.21333,-69.465,7.21333",
+    "geom:latitude":7.21333,
+    "geom:longitude":-69.465,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Alcancia",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638983,
+    "gn:latitude":7.21333,
+    "gn:longitude":-69.465,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"La Alcanc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638983
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a11484a7f371b7f1a7a8174b85f902c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1293007025,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293007025,
+    "wof:lastmodified":1536981918,
+    "wof:name":"La Alcancia",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.465,
+    7.21333,
+    -69.465,
+    7.21333
+],
+  "geometry": {"coordinates":[-69.465,7.21333],"type":"Point"}
+}

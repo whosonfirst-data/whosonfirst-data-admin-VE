@@ -1,0 +1,67 @@
+{
+  "id": 1327030581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.61389,7.57,-67.61389,7.57",
+    "geom:latitude":7.57,
+    "geom:longitude":-67.61389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cotayo",
+    "gn:country_code":"VE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804784,
+    "gn:latitude":7.57,
+    "gn:longitude":-67.61389,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Cotayo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804784
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c67ba9c0b98f6553bfff11c3f6b200e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1327030581,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1327030581,
+    "wof:lastmodified":1536763374,
+    "wof:name":"Cotayo",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.61389,
+    7.57,
+    -67.61389,
+    7.57
+],
+  "geometry": {"coordinates":[-67.61389,7.57],"type":"Point"}
+}

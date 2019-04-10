@@ -1,0 +1,67 @@
+{
+  "id": 1243350713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.50906,10.77823,-70.50906,10.77823",
+    "geom:latitude":10.77823,
+    "geom:longitude":-70.50906,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"El Tuque",
+    "gn:country_code":"VE",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784751,
+    "gn:latitude":10.77823,
+    "gn:longitude":-70.50906,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"El Tuque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784751
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c6549ecfc8ac5aa9fd39c0557a814c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1243350713,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1243350713,
+    "wof:lastmodified":1536944120,
+    "wof:name":"El Tuque",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.50905999999998,
+    10.77823,
+    -70.50905999999998,
+    10.77823
+],
+  "geometry": {"coordinates":[-70.50905999999998,10.77823],"type":"Point"}
+}

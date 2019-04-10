@@ -1,0 +1,71 @@
+{
+  "id": 1242941995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6982,9.32003,-70.6982,9.32003",
+    "geom:latitude":9.32003,
+    "geom:longitude":-70.6982,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Boqueron",
+    "gn:country_code":"VE",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644135,
+    "gn:latitude":9.32003,
+    "gn:longitude":-70.6982,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Boquer\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boquer\u00f3n",
+        "El Boquer\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421182049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644135
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b17a6ffd321bb5941a82b95a9d98b080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182049,
+            "locality_id":1242941995,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1242941995,
+    "wof:lastmodified":1537713609,
+    "wof:name":"El Boqueron",
+    "wof:parent_id":421182049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6982,
+    9.32003,
+    -70.6982,
+    9.32003
+],
+  "geometry": {"coordinates":[-70.6982,9.32003],"type":"Point"}
+}

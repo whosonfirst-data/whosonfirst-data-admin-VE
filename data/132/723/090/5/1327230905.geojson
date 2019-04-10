@@ -1,0 +1,67 @@
+{
+  "id": 1327230905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.87281,9.95522,-66.87281,9.95522",
+    "geom:latitude":9.95522,
+    "geom:longitude":-66.87281,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Los Cajones",
+    "gn:country_code":"VE",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634451,
+    "gn:latitude":9.95522,
+    "gn:longitude":-66.87281,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Los Cajones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634451
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"70120cea1e2bc39a118e226c13cd0410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694387,
+            "locality_id":1327230905,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1327230905,
+    "wof:lastmodified":1536971364,
+    "wof:name":"Los Cajones",
+    "wof:parent_id":1108694387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.87281,
+    9.95522,
+    -66.87281,
+    9.95522
+],
+  "geometry": {"coordinates":[-66.87281,9.95522],"type":"Point"}
+}

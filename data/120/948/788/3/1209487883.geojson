@@ -1,0 +1,61 @@
+{
+  "id": 1209487883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.59694,10.02083,-66.59694,10.02083",
+    "geom:latitude":10.02083,
+    "geom:longitude":-66.59694,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Cambural",
+    "gn:country_code":"VE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742438,
+    "gn:latitude":10.02083,
+    "gn:longitude":-66.59694,
+    "gn:modification_date":"1995-08-21",
+    "gn:name":"Cambural",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742438
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aa542b57eebc210e1189e46a899e75e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209487883
+        }
+    ],
+    "wof:id":1209487883,
+    "wof:lastmodified":1536285579,
+    "wof:name":"Cambural",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.59694,
+    10.02083,
+    -66.59694,
+    10.02083
+],
+  "geometry": {"coordinates":[-66.59694,10.02083],"type":"Point"}
+}

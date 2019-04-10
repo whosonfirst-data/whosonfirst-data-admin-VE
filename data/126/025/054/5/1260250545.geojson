@@ -1,0 +1,72 @@
+{
+  "id": 1260250545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8,10.76667,-71.8,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":-71.8,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Canadon",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643991,
+    "gn:latitude":10.76667,
+    "gn:longitude":-71.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ca\u00f1ad\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Ca\u00f1adones",
+        "El Ca\u00f1ad\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643991
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c11f2b1eac5f6ca1d15eb65b5f6e2914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1260250545,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1260250545,
+    "wof:lastmodified":1537713608,
+    "wof:name":"El Canadon",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8,
+    10.76667,
+    -71.8,
+    10.76667
+],
+  "geometry": {"coordinates":[-71.8,10.76667],"type":"Point"}
+}

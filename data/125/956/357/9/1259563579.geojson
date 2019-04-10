@@ -1,0 +1,67 @@
+{
+  "id": 1259563579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.04796,12.05906,-70.04796,12.05906",
+    "geom:latitude":12.05906,
+    "geom:longitude":-70.04796,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"La Loma",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3786357,
+    "gn:latitude":12.05906,
+    "gn:longitude":-70.04796,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786357
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d01e82f84d311fe57d4a024acf6eea2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1259563579,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259563579,
+    "wof:lastmodified":1536743304,
+    "wof:name":"La Loma",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.04796,
+    12.05906,
+    -70.04796,
+    12.05906
+],
+  "geometry": {"coordinates":[-70.04796,12.05906],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360051085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11667,9.06667,-70.11667,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":-70.11667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Vueltecitas",
+    "gn:country_code":"VE",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625280,
+    "gn:latitude":9.06667,
+    "gn:longitude":-70.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Vueltecitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625280
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"436002a243dc3aa8cf3378d9aaf95934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694393,
+            "locality_id":1360051085,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1360051085,
+    "wof:lastmodified":1536994041,
+    "wof:name":"Vueltecitas",
+    "wof:parent_id":1108694393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11667,
+    9.06667,
+    -70.11667,
+    9.06667
+],
+  "geometry": {"coordinates":[-70.11667,9.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310622357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.46667,7.46667,-62.46667,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":-62.46667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Puchilito",
+    "gn:country_code":"VE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629816,
+    "gn:latitude":7.46667,
+    "gn:longitude":-62.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Puchilito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421197623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629816
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e2ba7ba7f68781734a452d228589fa6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421197623,
+            "locality_id":1310622357,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1310622357,
+    "wof:lastmodified":1536748238,
+    "wof:name":"Puchilito",
+    "wof:parent_id":421197623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.46666999999999,
+    7.46667,
+    -62.46666999999999,
+    7.46667
+],
+  "geometry": {"coordinates":[-62.46666999999999,7.46667],"type":"Point"}
+}

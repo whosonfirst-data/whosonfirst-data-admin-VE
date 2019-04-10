@@ -1,0 +1,67 @@
+{
+  "id": 1343841583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41909,9.97681,-70.41909,9.97681",
+    "geom:latitude":9.97681,
+    "geom:longitude":-70.41909,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"La Cordera",
+    "gn:country_code":"VE",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767454,
+    "gn:latitude":9.97681,
+    "gn:longitude":-70.41909,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"La Cordera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767454
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"962637a37de144ccfe61aea4874689a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1343841583,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1343841583,
+    "wof:lastmodified":1536694069,
+    "wof:name":"La Cordera",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41909,
+    9.97681,
+    -70.41909,
+    9.97681
+],
+  "geometry": {"coordinates":[-70.41909,9.97681],"type":"Point"}
+}

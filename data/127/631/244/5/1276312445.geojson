@@ -1,0 +1,67 @@
+{
+  "id": 1276312445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54111,9.89,-66.54111,9.89",
+    "geom:latitude":9.89,
+    "geom:longitude":-66.54111,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Lagunita",
+    "gn:country_code":"VE",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637446,
+    "gn:latitude":9.89,
+    "gn:longitude":-66.54111,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Lagunita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637446
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f925eb5558dbb59bbc9b22a9195dfc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1276312445,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276312445,
+    "wof:lastmodified":1536806497,
+    "wof:name":"La Lagunita",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54111,
+    9.89,
+    -66.54111,
+    9.89
+],
+  "geometry": {"coordinates":[-66.54111,9.89],"type":"Point"}
+}

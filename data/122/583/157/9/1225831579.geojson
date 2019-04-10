@@ -1,0 +1,67 @@
+{
+  "id": 1225831579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36802,8.75338,-65.36802,8.75338",
+    "geom:latitude":8.75338,
+    "geom:longitude":-65.36802,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mariposal",
+    "gn:country_code":"VE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3773302,
+    "gn:latitude":8.75338,
+    "gn:longitude":-65.36802,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Mariposal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773302
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4d52f0167c2dbafcd764aa577fd7775f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1225831579,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1225831579,
+    "wof:lastmodified":1537032688,
+    "wof:name":"Mariposal",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36802,
+    8.75338,
+    -65.36802,
+    8.75338
+],
+  "geometry": {"coordinates":[-65.36802,8.75338],"type":"Point"}
+}

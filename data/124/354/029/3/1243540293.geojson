@@ -1,0 +1,67 @@
+{
+  "id": 1243540293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.2852,10.47863,-68.2852,10.47863",
+    "geom:latitude":10.47863,
+    "geom:longitude":-68.2852,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Rio Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629116,
+    "gn:latitude":10.47863,
+    "gn:longitude":-68.2852,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"R\u00edo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421195495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629116
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"57c90091b04e1edaae03777a034b55a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195495,
+            "locality_id":1243540293,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1243540293,
+    "wof:lastmodified":1536670288,
+    "wof:name":"Rio Abajo",
+    "wof:parent_id":421195495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.2852,
+    10.47863,
+    -68.2852,
+    10.47863
+],
+  "geometry": {"coordinates":[-68.2852,10.47863],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293784737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.85,6.3,-67.85,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":-67.85,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Macolla de Guasdualito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633429,
+    "gn:latitude":6.3,
+    "gn:longitude":-67.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macolla de Guasdualito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macolla de Guasanava",
+        "Macolla de Guasduava",
+        "Macolla de Guasdualito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        421201569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633429
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5432489977454935044820fcf4be9ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421201569,
+            "locality_id":1293784737,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1293784737,
+    "wof:lastmodified":1537713544,
+    "wof:name":"Macolla de Guasdualito",
+    "wof:parent_id":421201569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.85,
+    6.3,
+    -67.85,
+    6.3
+],
+  "geometry": {"coordinates":[-67.84999999999999,6.3],"type":"Point"}
+}

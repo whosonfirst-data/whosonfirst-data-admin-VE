@@ -1,0 +1,67 @@
+{
+  "id": 1226421535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.56227,9.62218,-69.56227,9.62218",
+    "geom:latitude":9.62218,
+    "geom:longitude":-69.56227,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Miracuy",
+    "gn:country_code":"VE",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767894,
+    "gn:latitude":9.62218,
+    "gn:longitude":-69.56227,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Miracuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421183169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767894
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fb9e6ae9964be04e61a4d9fc9f3e363b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183169,
+            "locality_id":1226421535,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1226421535,
+    "wof:lastmodified":1536680382,
+    "wof:name":"Miracuy",
+    "wof:parent_id":421183169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.56227,
+    9.62218,
+    -69.56227,
+    9.62218
+],
+  "geometry": {"coordinates":[-69.56227,9.62218],"type":"Point"}
+}

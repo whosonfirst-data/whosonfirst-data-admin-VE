@@ -1,0 +1,67 @@
+{
+  "id": 1292905513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.13854,9.56817,-65.13854,9.56817",
+    "geom:latitude":9.56817,
+    "geom:longitude":-65.13854,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Canillar",
+    "gn:country_code":"VE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647030,
+    "gn:latitude":9.56817,
+    "gn:longitude":-65.13854,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Canillar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647030
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"500d50e7ab2c02a283216b8cba00edcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1292905513,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1292905513,
+    "wof:lastmodified":1536630318,
+    "wof:name":"Canillar",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.13854,
+    9.56817,
+    -65.13854,
+    9.56817
+],
+  "geometry": {"coordinates":[-65.13854000000001,9.56817],"type":"Point"}
+}

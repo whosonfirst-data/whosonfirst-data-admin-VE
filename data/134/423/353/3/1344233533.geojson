@@ -1,0 +1,67 @@
+{
+  "id": 1344233533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.67278,8.79444,-66.67278,8.79444",
+    "geom:latitude":8.79444,
+    "geom:longitude":-66.67278,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Platanal",
+    "gn:country_code":"VE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641989,
+    "gn:latitude":8.79444,
+    "gn:longitude":-66.67278,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"El Platanal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641989
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cbaf5bc7c36098ec587d57f57b3f18ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1344233533,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1344233533,
+    "wof:lastmodified":1536623946,
+    "wof:name":"El Platanal",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.67278,
+    8.79444,
+    -66.67278,
+    8.79444
+],
+  "geometry": {"coordinates":[-66.67278,8.79444],"type":"Point"}
+}

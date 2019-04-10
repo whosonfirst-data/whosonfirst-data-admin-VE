@@ -1,0 +1,61 @@
+{
+  "id": 1209316639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.9155,9.93535,-64.9155,9.93535",
+    "geom:latitude":9.93535,
+    "geom:longitude":-64.9155,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La China",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638476,
+    "gn:latitude":9.93535,
+    "gn:longitude":-64.9155,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La China",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638476
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"23d66396dcb3bc9ac9c44fe0e47dffc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209316639
+        }
+    ],
+    "wof:id":1209316639,
+    "wof:lastmodified":1536290841,
+    "wof:name":"La China",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.9155,
+    9.93535,
+    -64.9155,
+    9.93535
+],
+  "geometry": {"coordinates":[-64.91549999999999,9.93535],"type":"Point"}
+}

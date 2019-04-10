@@ -1,0 +1,67 @@
+{
+  "id": 1343525073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.43932,10.07941,-63.43932,10.07941",
+    "geom:latitude":10.07941,
+    "geom:longitude":-63.43932,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hormiguero",
+    "gn:country_code":"VE",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777935,
+    "gn:latitude":10.07941,
+    "gn:longitude":-63.43932,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Hormiguero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777935
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eeb7f1440f030e8d297a86012c5b414c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1343525073,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1343525073,
+    "wof:lastmodified":1536653042,
+    "wof:name":"Hormiguero",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.43932,
+    10.07941,
+    -63.43932,
+    10.07941
+],
+  "geometry": {"coordinates":[-63.43932,10.07941],"type":"Point"}
+}

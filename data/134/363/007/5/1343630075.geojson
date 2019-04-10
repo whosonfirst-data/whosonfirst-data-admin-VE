@@ -1,0 +1,67 @@
+{
+  "id": 1343630075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38787,9.99137,-68.38787,9.99137",
+    "geom:latitude":9.99137,
+    "geom:longitude":-68.38787,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Campo Alegre",
+    "gn:country_code":"VE",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647246,
+    "gn:latitude":9.99137,
+    "gn:longitude":-68.38787,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Campo Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647246
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8026a73b11f8082a2648295e038e65d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1343630075,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1343630075,
+    "wof:lastmodified":1536998226,
+    "wof:name":"Campo Alegre",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38786999999999,
+    9.99137,
+    -68.38786999999999,
+    9.99137
+],
+  "geometry": {"coordinates":[-68.38786999999999,9.99137],"type":"Point"}
+}

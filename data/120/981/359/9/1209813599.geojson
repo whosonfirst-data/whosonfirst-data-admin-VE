@@ -1,0 +1,71 @@
+{
+  "id": 1209813599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18303,7.77334,-71.18303,7.77334",
+    "geom:latitude":7.77334,
+    "geom:longitude":-71.18303,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Queveda",
+    "gn:country_code":"VE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636560,
+    "gn:latitude":7.77334,
+    "gn:longitude":-71.18303,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Queveda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Queseda",
+        "La Queveda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636560
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"031cb4b2d1b4b26fe579ff16d4a9e12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1209813599,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1209813599,
+    "wof:lastmodified":1537713563,
+    "wof:name":"La Queveda",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18303,
+    7.77334,
+    -71.18303,
+    7.77334
+],
+  "geometry": {"coordinates":[-71.18303,7.77334],"type":"Point"}
+}

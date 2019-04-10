@@ -1,0 +1,67 @@
+{
+  "id": 1242677059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.04779,10.02505,-67.04779,10.02505",
+    "geom:latitude":10.02505,
+    "geom:longitude":-67.04779,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Roncador",
+    "gn:country_code":"VE",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806761,
+    "gn:latitude":10.02505,
+    "gn:longitude":-67.04779,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Roncador",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806761
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2ebefe8fed73a195b980aa5194547ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694387,
+            "locality_id":1242677059,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1242677059,
+    "wof:lastmodified":1536921176,
+    "wof:name":"Roncador",
+    "wof:parent_id":1108694387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.04779,
+    10.02505,
+    -67.04779,
+    10.02505
+],
+  "geometry": {"coordinates":[-67.04779000000001,10.02505],"type":"Point"}
+}

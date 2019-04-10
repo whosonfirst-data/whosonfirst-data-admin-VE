@@ -1,0 +1,106 @@
+{
+  "id": 421196375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.16667,5.3,-61.16667,5.3",
+    "geom:latitude":5.3,
+    "geom:longitude":-61.16667,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u0644 \u0623\u0648\u0633\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "El Oso"
+    ],
+    "name:ceb_x_preferred":[
+        "El Oso"
+    ],
+    "name:eus_x_preferred":[
+        "El Oso"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0627\u0633\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Oso"
+    ],
+    "name:hun_x_preferred":[
+        "El Oso"
+    ],
+    "name:ina_x_preferred":[
+        "El Oso"
+    ],
+    "name:ita_x_preferred":[
+        "El Oso"
+    ],
+    "name:spa_x_preferred":[
+        "El Oso"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3642386,
+    "qs:gn_pop":0,
+    "qs:name":"El Oso",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Bol\u00edvar",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":517174,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395486,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642386,
+        "gp:id":395486,
+        "qs:id":517174
+    },
+    "wof:country":"VE",
+    "wof:created":1459009879,
+    "wof:geomhash":"36667d86763c5428f4c39de0a9257a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":421196375,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":421196375,
+    "wof:lastmodified":1500034328,
+    "wof:name":"El Oso",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.16667,
+    5.3,
+    -61.16667,
+    5.3
+],
+  "geometry": {"coordinates":[-61.16667,5.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343655199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.835,9.96111,-67.835,9.96111",
+    "geom:latitude":9.96111,
+    "geom:longitude":-67.835,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Santa Ines",
+    "gn:country_code":"VE",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481469,
+    "gn:latitude":9.96111,
+    "gn:longitude":-67.835,
+    "gn:modification_date":"1999-03-12",
+    "gn:name":"Santa In\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481469
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ab92dcc68583ff4104ec78033d9eacd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1343655199,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1343655199,
+    "wof:lastmodified":1536962500,
+    "wof:name":"Santa Ines",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.835,
+    9.96111,
+    -67.835,
+    9.96111
+],
+  "geometry": {"coordinates":[-67.83499999999999,9.96111],"type":"Point"}
+}

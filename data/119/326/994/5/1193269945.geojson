@@ -1,0 +1,67 @@
+{
+  "id": 1193269945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56,7.32611,-61.56,7.32611",
+    "geom:latitude":7.32611,
+    "geom:longitude":-61.56,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Jabon",
+    "gn:country_code":"VE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3808203,
+    "gn:latitude":7.32611,
+    "gn:longitude":-61.56,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"El Jab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421198671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3808203
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6a0d3befe266e9aeb0558f86ca8a80ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198671,
+            "locality_id":1193269945,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1193269945,
+    "wof:lastmodified":1536371785,
+    "wof:name":"El Jabon",
+    "wof:parent_id":421198671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56,
+    7.32611,
+    -61.56,
+    7.32611
+],
+  "geometry": {"coordinates":[-61.56,7.32611],"type":"Point"}
+}

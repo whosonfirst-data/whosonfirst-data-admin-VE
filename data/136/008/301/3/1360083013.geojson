@@ -1,0 +1,67 @@
+{
+  "id": 1360083013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42813,8.11407,-70.42813,8.11407",
+    "geom:latitude":8.11407,
+    "geom:longitude":-70.42813,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Baticola",
+    "gn:country_code":"VE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638853,
+    "gn:latitude":8.11407,
+    "gn:longitude":-70.42813,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"La Baticola",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638853
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"819b14415f9b0dbf2d9a78c1b9c72208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1360083013,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1360083013,
+    "wof:lastmodified":1536948986,
+    "wof:name":"La Baticola",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42813000000002,
+    8.11407,
+    -70.42813000000002,
+    8.11407
+],
+  "geometry": {"coordinates":[-70.42813000000002,8.11407],"type":"Point"}
+}

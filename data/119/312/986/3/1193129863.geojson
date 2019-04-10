@@ -1,0 +1,67 @@
+{
+  "id": 1193129863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.83948,8.52989,-69.83948,8.52989",
+    "geom:latitude":8.52989,
+    "geom:longitude":-69.83948,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Casitas",
+    "gn:country_code":"VE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636164,
+    "gn:latitude":8.52989,
+    "gn:longitude":-69.83948,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Las Casitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636164
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ea59361dab163f39d90dcb38dc543fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694375,
+            "locality_id":1193129863,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1193129863,
+    "wof:lastmodified":1536376953,
+    "wof:name":"Las Casitas",
+    "wof:parent_id":1108694375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.83948000000001,
+    8.52989,
+    -69.83948000000001,
+    8.52989
+],
+  "geometry": {"coordinates":[-69.83948000000001,8.52989],"type":"Point"}
+}

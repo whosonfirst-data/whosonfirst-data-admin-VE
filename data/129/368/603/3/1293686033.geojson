@@ -1,0 +1,67 @@
+{
+  "id": 1293686033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.67762,10.02483,-67.67762,10.02483",
+    "geom:latitude":10.02483,
+    "geom:longitude":-67.67762,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Faldeo",
+    "gn:country_code":"VE",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806380,
+    "gn:latitude":10.02483,
+    "gn:longitude":-67.67762,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"El Faldeo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806380
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ccbe2f4defca7a38b88245d7442376b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1293686033,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1293686033,
+    "wof:lastmodified":1536997377,
+    "wof:name":"El Faldeo",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.67761999999999,
+    10.02483,
+    -67.67761999999999,
+    10.02483
+],
+  "geometry": {"coordinates":[-67.67761999999999,10.02483],"type":"Point"}
+}

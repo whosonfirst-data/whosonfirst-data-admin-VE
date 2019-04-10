@@ -1,0 +1,61 @@
+{
+  "id": 1209416077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.25,7.93333,-68.25,7.93333",
+    "geom:latitude":7.93333,
+    "geom:longitude":-68.25,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Manglar",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642715,
+    "gn:latitude":7.93333,
+    "gn:longitude":-68.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Manglar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642715
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"37e73e51a28cb8be3adf59fe68c4bdb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209416077
+        }
+    ],
+    "wof:id":1209416077,
+    "wof:lastmodified":1536287684,
+    "wof:name":"El Manglar",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.25,
+    7.9333300000000015,
+    -68.25,
+    7.9333300000000015
+],
+  "geometry": {"coordinates":[-68.25,7.93333],"type":"Point"}
+}

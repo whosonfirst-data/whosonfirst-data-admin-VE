@@ -1,0 +1,65 @@
+{
+  "id": 1209184577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.95248,9.25934,-70.95248,9.25934",
+    "geom:latitude":9.25934,
+    "geom:longitude":-70.95248,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1410.0",
+    "gn:asciiname":"Arapuey",
+    "gn:country_code":"VE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3798818,
+    "gn:latitude":9.25934,
+    "gn:longitude":-70.95248,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Arapuey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arapuey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798818
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d8400ebcebf4c7031bfd65f5dbb46c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209184577
+        }
+    ],
+    "wof:id":1209184577,
+    "wof:lastmodified":1537713649,
+    "wof:name":"Arapuey",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.95248000000002,
+    9.25934,
+    -70.95248000000002,
+    9.25934
+],
+  "geometry": {"coordinates":[-70.95248000000002,9.25934],"type":"Point"}
+}

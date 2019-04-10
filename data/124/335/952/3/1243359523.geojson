@@ -1,0 +1,67 @@
+{
+  "id": 1243359523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.26109,9.89587,-68.26109,9.89587",
+    "geom:latitude":9.89587,
+    "geom:longitude":-68.26109,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cano de Indio",
+    "gn:country_code":"VE",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646972,
+    "gn:latitude":9.89587,
+    "gn:longitude":-68.26109,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Ca\u00f1o de Indio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646972
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d9455cbf30b742fa0ae8c10fe26ae5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "locality_id":1243359523,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1243359523,
+    "wof:lastmodified":1536931665,
+    "wof:name":"Cano de Indio",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.26109,
+    9.89587,
+    -68.26109,
+    9.89587
+],
+  "geometry": {"coordinates":[-68.26109,9.89587],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209196689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46167,10.05139,-66.46167,10.05139",
+    "geom:latitude":10.05139,
+    "geom:longitude":-66.46167,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Santa Cruz de Agua Blanca",
+    "gn:country_code":"VE",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627424,
+    "gn:latitude":10.05139,
+    "gn:longitude":-66.46167,
+    "gn:modification_date":"1995-08-23",
+    "gn:name":"Santa Cruz de Agua Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627424
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8404833d9a4a51b1eece44f0828d4bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209196689
+        }
+    ],
+    "wof:id":1209196689,
+    "wof:lastmodified":1536294747,
+    "wof:name":"Santa Cruz de Agua Blanca",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46167,
+    10.05139,
+    -66.46167,
+    10.05139
+],
+  "geometry": {"coordinates":[-66.46167,10.05139],"type":"Point"}
+}

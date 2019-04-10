@@ -1,0 +1,67 @@
+{
+  "id": 1193143555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.59278,7.11887,-69.59278,7.11887",
+    "geom:latitude":7.11887,
+    "geom:longitude":-69.59278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Puerta de Fuentero",
+    "gn:country_code":"VE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805538,
+    "gn:latitude":7.11887,
+    "gn:longitude":-69.59278,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Puerta de Fuentero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421180899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805538
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6c8805b46c9a69e84b03ed258b225acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180899,
+            "locality_id":1193143555,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1193143555,
+    "wof:lastmodified":1536364235,
+    "wof:name":"La Puerta de Fuentero",
+    "wof:parent_id":421180899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.59278,
+    7.11887,
+    -69.59278,
+    7.11887
+],
+  "geometry": {"coordinates":[-69.59278,7.11887],"type":"Point"}
+}

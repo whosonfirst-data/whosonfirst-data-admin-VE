@@ -1,0 +1,67 @@
+{
+  "id": 1260067549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67578,10.69822,-70.67578,10.69822",
+    "geom:latitude":10.69822,
+    "geom:longitude":-70.67578,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Vera Mocha",
+    "gn:country_code":"VE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784813,
+    "gn:latitude":10.69822,
+    "gn:longitude":-70.67578,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Vera Mocha",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784813
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d09953b15ac2492afce470911b25e77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694165,
+            "locality_id":1260067549,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1260067549,
+    "wof:lastmodified":1537010321,
+    "wof:name":"Vera Mocha",
+    "wof:parent_id":1108694165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67578,
+    10.69822,
+    -70.67578,
+    10.69822
+],
+  "geometry": {"coordinates":[-70.67578,10.69822],"type":"Point"}
+}

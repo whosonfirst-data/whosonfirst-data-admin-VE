@@ -1,0 +1,67 @@
+{
+  "id": 1310598259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.85167,7.64056,-63.85167,7.64056",
+    "geom:latitude":7.64056,
+    "geom:longitude":-63.85167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Punto de Vista",
+    "gn:country_code":"VE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809131,
+    "gn:latitude":7.64056,
+    "gn:longitude":-63.85167,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Punto de Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809131
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"72042c9fc2675a1f60369fda9b0d80b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1310598259,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1310598259,
+    "wof:lastmodified":1536783663,
+    "wof:name":"Punto de Vista",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.85167,
+    7.64056,
+    -63.85167,
+    7.64056
+],
+  "geometry": {"coordinates":[-63.85167,7.64056],"type":"Point"}
+}

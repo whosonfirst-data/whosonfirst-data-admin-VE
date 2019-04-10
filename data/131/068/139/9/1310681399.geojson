@@ -1,0 +1,67 @@
+{
+  "id": 1310681399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23333,11.33333,-70.23333,11.33333",
+    "geom:latitude":11.33333,
+    "geom:longitude":-70.23333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ocorote",
+    "gn:country_code":"VE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631419,
+    "gn:latitude":11.33333,
+    "gn:longitude":-70.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ocorote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631419
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11132fb8be5072eca7802121bdf13eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694471,
+            "locality_id":1310681399,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310681399,
+    "wof:lastmodified":1536663204,
+    "wof:name":"Ocorote",
+    "wof:parent_id":1108694471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23333000000001,
+    11.33333,
+    -70.23333000000001,
+    11.33333
+],
+  "geometry": {"coordinates":[-70.23333000000001,11.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293466273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.09472,9.9175,-66.09472,9.9175",
+    "geom:latitude":9.9175,
+    "geom:longitude":-66.09472,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sabana Grande de Orituco",
+    "gn:country_code":"VE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746536,
+    "gn:latitude":9.9175,
+    "gn:longitude":-66.09472,
+    "gn:modification_date":"1996-03-28",
+    "gn:name":"Sabana Grande de Orituco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746536
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"332e6b3b835ecd7eab72134b6f62c185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1293466273,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293466273,
+    "wof:lastmodified":1536816964,
+    "wof:name":"Sabana Grande de Orituco",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.09472,
+    9.9175,
+    -66.09472,
+    9.9175
+],
+  "geometry": {"coordinates":[-66.09472,9.9175],"type":"Point"}
+}

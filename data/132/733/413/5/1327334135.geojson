@@ -1,0 +1,67 @@
+{
+  "id": 1327334135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76667,7.38333,-68.76667,7.38333",
+    "geom:latitude":7.38333,
+    "geom:longitude":-68.76667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Venado",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641133,
+    "gn:latitude":7.38333,
+    "gn:longitude":-68.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Venado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641133
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1149ff479f92ad8231e9ac956d6f8e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1327334135,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1327334135,
+    "wof:lastmodified":1536821826,
+    "wof:name":"El Venado",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76666999999999,
+    7.38333,
+    -68.76666999999999,
+    7.38333
+],
+  "geometry": {"coordinates":[-68.76666999999999,7.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344054967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.48333,8.11667,-68.48333,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":-68.48333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Lanchitas",
+    "gn:country_code":"VE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635817,
+    "gn:latitude":8.11667,
+    "gn:longitude":-68.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Lanchitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635817
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"09bfb5aa83419af832fec7780b7e5f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1344054967,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1344054967,
+    "wof:lastmodified":1536882912,
+    "wof:name":"Las Lanchitas",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.48333000000001,
+    8.11667,
+    -68.48333000000001,
+    8.11667
+],
+  "geometry": {"coordinates":[-68.48333000000001,8.11667],"type":"Point"}
+}

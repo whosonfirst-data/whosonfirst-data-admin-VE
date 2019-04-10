@@ -1,0 +1,74 @@
+{
+  "id": 1343462051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.90639,1.4745,-66.90639,1.4745",
+    "geom:latitude":1.4745,
+    "geom:longitude":-66.90639,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Santa Rosa de Amanadona",
+    "gn:country_code":"VE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627086,
+    "gn:latitude":1.4745,
+    "gn:longitude":-66.90639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Rosa de Amanadona",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Carmen",
+        "Santa Rosa de Amonadona",
+        "Santa Rosa",
+        "Santa Rosa Amanadona",
+        "Santa Rosa de Amanadona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627086
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb00ad7192c06608d09311d9f4b08b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1343462051,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1343462051,
+    "wof:lastmodified":1537713515,
+    "wof:name":"Santa Rosa de Amanadona",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.90639,
+    1.4745,
+    -66.90639,
+    1.4745
+],
+  "geometry": {"coordinates":[-66.90639,1.4745],"type":"Point"}
+}

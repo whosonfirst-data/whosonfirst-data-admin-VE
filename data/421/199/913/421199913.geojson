@@ -1,0 +1,79 @@
+{
+  "id": 421199913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.474594,10.229112,-67.474594,10.229112",
+    "geom:latitude":10.229112,
+    "geom:longitude":-67.474594,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Santiago Mari\u00f1o",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":214,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":510730,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805770,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421186263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805770,
+        "qs:id":510730,
+        "qs_pg:id":510730
+    },
+    "wof:country":"VE",
+    "wof:created":1459010005,
+    "wof:geomhash":"c61f0253c86c65e014df7c89d3440273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186263,
+            "localadmin_id":421199913,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421199913,
+    "wof:lastmodified":1497043608,
+    "wof:name":"Capital Santiago Mari\u00f1o",
+    "wof:parent_id":421186263,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.474594,
+    10.229112,
+    -67.474594,
+    10.229112
+],
+  "geometry": {"coordinates":[-67.474594,10.229112],"type":"Point"}
+}

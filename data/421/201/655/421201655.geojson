@@ -1,0 +1,79 @@
+{
+  "id": 421201655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.873931,8.93527,-71.873931,8.93527",
+    "geom:latitude":8.93527,
+    "geom:longitude":-71.873931,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Barbara",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":213575,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805120,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805120,
+        "qs:id":213575,
+        "qs_pg:id":213575
+    },
+    "wof:country":"VE",
+    "wof:created":1459010080,
+    "wof:geomhash":"358b4296d096856e26ba5586f12a03c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "localadmin_id":421201655,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":421201655,
+    "wof:lastmodified":1497044474,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":421186435,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.873931,
+    8.93527,
+    -71.873931,
+    8.93527
+],
+  "geometry": {"coordinates":[-71.873931,8.93527],"type":"Point"}
+}

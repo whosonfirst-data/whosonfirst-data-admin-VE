@@ -1,0 +1,72 @@
+{
+  "id": 1242656989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26005,9.29159,-66.26005,9.29159",
+    "geom:latitude":9.29159,
+    "geom:longitude":-66.26005,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Camasas",
+    "gn:country_code":"VE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636209,
+    "gn:latitude":9.29159,
+    "gn:longitude":-66.26005,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Camasas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camazas",
+        "Las Camazas",
+        "Las Camasas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636209
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"994f2e18ddf1406c86bd913adf442fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694159,
+            "locality_id":1242656989,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242656989,
+    "wof:lastmodified":1537713561,
+    "wof:name":"Las Camasas",
+    "wof:parent_id":1108694159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26005,
+    9.29159,
+    -66.26005,
+    9.29159
+],
+  "geometry": {"coordinates":[-66.26005000000001,9.29159],"type":"Point"}
+}

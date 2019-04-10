@@ -1,0 +1,67 @@
+{
+  "id": 1259887699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.28966,8.36842,-63.28966,8.36842",
+    "geom:latitude":8.36842,
+    "geom:longitude":-63.28966,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cucasana",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485611,
+    "gn:latitude":8.36842,
+    "gn:longitude":-63.28966,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Cucasana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485611
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0bb346f5b5f6bb85acdec8123109b2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1259887699,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259887699,
+    "wof:lastmodified":1536773635,
+    "wof:name":"Cucasana",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.28966,
+    8.36842,
+    -63.28966,
+    8.36842
+],
+  "geometry": {"coordinates":[-63.28966,8.36842],"type":"Point"}
+}

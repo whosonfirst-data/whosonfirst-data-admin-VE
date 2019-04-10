@@ -1,0 +1,67 @@
+{
+  "id": 1293084727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.49523,10.16466,-70.49523,10.16466",
+    "geom:latitude":10.16466,
+    "geom:longitude":-70.49523,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sabana de Onoto",
+    "gn:country_code":"VE",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3768377,
+    "gn:latitude":10.16466,
+    "gn:longitude":-70.49523,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Sabana de Onoto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3768377
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd5f63958e127e0346209e9cd5b9af42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1293084727,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1293084727,
+    "wof:lastmodified":1536869633,
+    "wof:name":"Sabana de Onoto",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.49523,
+    10.16466,
+    -70.49523,
+    10.16466
+],
+  "geometry": {"coordinates":[-70.49523000000001,10.16466],"type":"Point"}
+}

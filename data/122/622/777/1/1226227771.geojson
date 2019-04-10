@@ -1,0 +1,67 @@
+{
+  "id": 1226227771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.83523,9.87617,-67.83523,9.87617",
+    "geom:latitude":9.87617,
+    "geom:longitude":-67.83523,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Monte Solo",
+    "gn:country_code":"VE",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481534,
+    "gn:latitude":9.87617,
+    "gn:longitude":-67.83523,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Monte Solo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481534
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4ab96f36531f76cd2abc450ea3759912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1226227771,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1226227771,
+    "wof:lastmodified":1536959552,
+    "wof:name":"Monte Solo",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.83523000000001,
+    9.87617,
+    -67.83523000000001,
+    9.87617
+],
+  "geometry": {"coordinates":[-67.83523000000001,9.87617],"type":"Point"}
+}

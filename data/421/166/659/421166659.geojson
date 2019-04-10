@@ -1,0 +1,100 @@
+{
+  "id": 421166659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.56842,10.157688,-68.56842,10.157688",
+    "geom:latitude":10.157688,
+    "geom:longitude":-68.56842,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u0440\u0433\u0443\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5c3c\u723e\u74dc"
+    ],
+    "name:dut_x_preferred":[
+        "Nirgua"
+    ],
+    "name:eng_x_preferred":[
+        "Nirgua"
+    ],
+    "name:fre_x_preferred":[
+        "Nirgua"
+    ],
+    "name:ita_x_preferred":[
+        "Nirgua"
+    ],
+    "name:por_x_preferred":[
+        "Nirgua"
+    ],
+    "name:spa_x_preferred":[
+        "Nirgua"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nirgua",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Yaracuy",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":268908,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468423,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468423,
+        "qs:id":268908,
+        "wd:id":"Q1409152"
+    },
+    "wof:country":"VE",
+    "wof:created":1459008698,
+    "wof:geomhash":"2bad347886b4d0eb499058662b4a73ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":421166659,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":421166659,
+    "wof:lastmodified":1514502389,
+    "wof:name":"Nirgua",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.56842,
+    10.157688,
+    -68.56842,
+    10.157688
+],
+  "geometry": {"coordinates":[-68.56842,10.157688],"type":"Point"}
+}

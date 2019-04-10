@@ -1,0 +1,67 @@
+{
+  "id": 1326699847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.09865,10.18942,-67.09865,10.18942",
+    "geom:latitude":10.18942,
+    "geom:longitude":-67.09865,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Corocito",
+    "gn:country_code":"VE",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645176,
+    "gn:latitude":10.18942,
+    "gn:longitude":-67.09865,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Corocito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645176
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ed33f2846df2e5c85c603c8823017579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1326699847,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1326699847,
+    "wof:lastmodified":1536742271,
+    "wof:name":"Corocito",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.09865,
+    10.18942,
+    -67.09865,
+    10.18942
+],
+  "geometry": {"coordinates":[-67.09865000000001,10.18942],"type":"Point"}
+}

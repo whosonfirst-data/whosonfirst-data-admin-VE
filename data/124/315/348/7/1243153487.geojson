@@ -1,0 +1,67 @@
+{
+  "id": 1243153487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.73682,9.34669,-63.73682,9.34669",
+    "geom:latitude":9.34669,
+    "geom:longitude":-63.73682,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Cayapero",
+    "gn:country_code":"VE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777763,
+    "gn:latitude":9.34669,
+    "gn:longitude":-63.73682,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Cayapero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777763
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3c42cc02b333cce5118ee0c874a12acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1243153487,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243153487,
+    "wof:lastmodified":1536731290,
+    "wof:name":"Cayapero",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.73682,
+    9.34669,
+    -63.73682,
+    9.34669
+],
+  "geometry": {"coordinates":[-63.73682,9.34669],"type":"Point"}
+}

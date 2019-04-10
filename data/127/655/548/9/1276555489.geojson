@@ -1,0 +1,67 @@
+{
+  "id": 1276555489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56123,9.1598,-64.56123,9.1598",
+    "geom:latitude":9.1598,
+    "geom:longitude":-64.56123,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cadel",
+    "gn:country_code":"VE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486012,
+    "gn:latitude":9.1598,
+    "gn:longitude":-64.56123,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Cadel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486012
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0632a09571d0b19dc5165f28f6c92928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694409,
+            "locality_id":1276555489,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276555489,
+    "wof:lastmodified":1536977755,
+    "wof:name":"Cadel",
+    "wof:parent_id":1108694409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56123000000001,
+    9.1598,
+    -64.56123000000001,
+    9.1598
+],
+  "geometry": {"coordinates":[-64.56123000000001,9.1598],"type":"Point"}
+}

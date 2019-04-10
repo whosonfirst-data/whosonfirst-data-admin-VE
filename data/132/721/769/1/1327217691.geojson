@@ -1,0 +1,63 @@
+{
+  "id": 1327217691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.799,8.75334,-60.799,8.75334",
+    "geom:latitude":8.75334,
+    "geom:longitude":-60.799,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mataruca",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763171,
+    "gn:latitude":8.75334,
+    "gn:longitude":-60.799,
+    "gn:modification_date":"1997-11-13",
+    "gn:name":"Mataruca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763171
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"02d4d3791dc9048dea57279df6225cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1327217691,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327217691,
+    "wof:lastmodified":1536990070,
+    "wof:name":"Mataruca",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.799,
+    8.75334,
+    -60.799,
+    8.75334
+],
+  "geometry": {"coordinates":[-60.799,8.75334],"type":"Point"}
+}

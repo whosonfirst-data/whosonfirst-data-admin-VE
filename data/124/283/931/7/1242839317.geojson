@@ -1,0 +1,67 @@
+{
+  "id": 1242839317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.4829,10.3453,-63.4829,10.3453",
+    "geom:latitude":10.3453,
+    "geom:longitude":-63.4829,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Chispero",
+    "gn:country_code":"VE",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795870,
+    "gn:latitude":10.3453,
+    "gn:longitude":-63.4829,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Chispero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795870
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c1df56e8ae333a3a2f5cc14129177b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1242839317,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1242839317,
+    "wof:lastmodified":1536686823,
+    "wof:name":"Chispero",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.4829,
+    10.3453,
+    -63.4829,
+    10.3453
+],
+  "geometry": {"coordinates":[-63.4829,10.3453],"type":"Point"}
+}

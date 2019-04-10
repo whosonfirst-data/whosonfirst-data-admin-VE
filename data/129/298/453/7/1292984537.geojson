@@ -1,0 +1,71 @@
+{
+  "id": 1292984537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.60894,10.36696,-69.60894,10.36696",
+    "geom:latitude":10.36696,
+    "geom:longitude":-69.60894,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Vainillota",
+    "gn:country_code":"VE",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750694,
+    "gn:latitude":10.36696,
+    "gn:longitude":-69.60894,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Vainillota",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Vainillita",
+        "La Vainillota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750694
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"709ee75e13fc9b14d1e0fe66278d8ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1292984537,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1292984537,
+    "wof:lastmodified":1537713636,
+    "wof:name":"La Vainillota",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.60894,
+    10.36696,
+    -69.60894,
+    10.36696
+],
+  "geometry": {"coordinates":[-69.60894,10.36696],"type":"Point"}
+}

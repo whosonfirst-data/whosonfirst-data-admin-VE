@@ -1,0 +1,67 @@
+{
+  "id": 1260138767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67892,9.31986,-70.67892,9.31986",
+    "geom:latitude":9.31986,
+    "geom:longitude":-70.67892,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"La Quinta",
+    "gn:country_code":"VE",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482089,
+    "gn:latitude":9.31986,
+    "gn:longitude":-70.67892,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"La Quinta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421182049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482089
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c4c4f05c2cf09268ca9a468296bd363c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182049,
+            "locality_id":1260138767,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1260138767,
+    "wof:lastmodified":1536909651,
+    "wof:name":"La Quinta",
+    "wof:parent_id":421182049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67891999999998,
+    9.31986,
+    -70.67891999999998,
+    9.31986
+],
+  "geometry": {"coordinates":[-70.67891999999998,9.31986],"type":"Point"}
+}

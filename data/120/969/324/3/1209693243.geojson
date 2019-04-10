@@ -1,0 +1,61 @@
+{
+  "id": 1209693243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.24976,11.31863,-69.24976,11.31863",
+    "geom:latitude":11.31863,
+    "geom:longitude":-69.24976,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zazarita",
+    "gn:country_code":"VE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784866,
+    "gn:latitude":11.31863,
+    "gn:longitude":-69.24976,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Zazarita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784866
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"694691ae85f198ba05de7516778f2c8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209693243
+        }
+    ],
+    "wof:id":1209693243,
+    "wof:lastmodified":1536279166,
+    "wof:name":"Zazarita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.24976,
+    11.31863,
+    -69.24976,
+    11.31863
+],
+  "geometry": {"coordinates":[-69.24975999999999,11.31863],"type":"Point"}
+}

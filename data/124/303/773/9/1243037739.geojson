@@ -1,0 +1,67 @@
+{
+  "id": 1243037739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.525,10.50278,-66.525,10.50278",
+    "geom:latitude":10.50278,
+    "geom:longitude":-66.525,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Silma",
+    "gn:country_code":"VE",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804241,
+    "gn:latitude":10.50278,
+    "gn:longitude":-66.525,
+    "gn:modification_date":"2002-11-20",
+    "gn:name":"Silma",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804241
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d3549a18df9594169bb9b326c9f45d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202063,
+            "locality_id":1243037739,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1243037739,
+    "wof:lastmodified":1536897723,
+    "wof:name":"Silma",
+    "wof:parent_id":421202063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.525,
+    10.50278,
+    -66.525,
+    10.50278
+],
+  "geometry": {"coordinates":[-66.52500000000001,10.50278],"type":"Point"}
+}

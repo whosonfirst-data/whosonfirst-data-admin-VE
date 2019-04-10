@@ -1,0 +1,108 @@
+{
+  "id": 85764977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":55179945.10881,
+    "geom:bbox":"-66.906731,10.541334,-66.906731,10.541334",
+    "geom:latitude":10.541334,
+    "geom:longitude":-66.906731,
+    "gn:latitude":10.52278,
+    "gn:longitude":-66.925,
+    "iso:country":"VE",
+    "lbl:latitude":10.541334,
+    "lbl:longitude":-66.906731,
+    "mps:latitude":10.54726,
+    "mps:longitude":-66.894663,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "La Pastora"
+    ],
+    "name:unk_x_variant":[
+        "La Pastora"
+    ],
+    "qs:gn_adm0_cc":"VE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3646738,
+    "qs:gn_nam_loc":"Caracas",
+    "qs:gn_namadm1":"25",
+    "qs:gn_name":"La Pastora",
+    "qs:local_max":10818,
+    "qs:local_sum":24344,
+    "qs:localhoods":4,
+    "qs:name":"La Pastora",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Libertador",
+    "qs:name_lau":"San Bernardino",
+    "qs:name_local":"Caracas",
+    "qs:photo_max":181,
+    "qs:photo_sum":1503,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":85,
+    "qs:woe_adm0":23424982,
+    "qs:woe_adm1":2347686,
+    "qs:woe_adm2":26804635,
+    "qs:woe_lau":26804956,
+    "qs:woe_local":395269,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        1108694107,
+        85680535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481140,
+        "gp:id":388407,
+        "qs:id":1082767
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"218c389da1002ab4611eb04fda7ccb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694107,
+            "locality_id":-1,
+            "neighbourhood_id":85764977,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":85764977,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858984,
+    "wof:name":"La Pastora",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.906731,
+    10.541334,
+    -66.906731,
+    10.541334
+],
+  "geometry": {"coordinates":[-66.90673099999999,10.541334],"type":"Point"}
+}

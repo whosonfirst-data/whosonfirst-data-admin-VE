@@ -1,0 +1,67 @@
+{
+  "id": 1309710479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.50314,8.43242,-68.50314,8.43242",
+    "geom:latitude":8.43242,
+    "geom:longitude":-68.50314,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Paso Guanare Viejo",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630616,
+    "gn:latitude":8.43242,
+    "gn:longitude":-68.50314,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Paso Guanare Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630616
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0a66167d6c51343a646e78c92b25c5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1309710479,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1309710479,
+    "wof:lastmodified":1537065675,
+    "wof:name":"Paso Guanare Viejo",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.50314,
+    8.43242,
+    -68.50314,
+    8.43242
+],
+  "geometry": {"coordinates":[-68.50314,8.43242],"type":"Point"}
+}

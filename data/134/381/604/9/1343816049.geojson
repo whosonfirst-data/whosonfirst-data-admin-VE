@@ -1,0 +1,72 @@
+{
+  "id": 1343816049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.36448,10.12515,-72.36448,10.12515",
+    "geom:latitude":10.12515,
+    "geom:longitude":-72.36448,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Villa Vieja",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625318,
+    "gn:latitude":10.12515,
+    "gn:longitude":-72.36448,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Villa Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Villa Vieja",
+        "La Villa Viejo",
+        "Villa Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625318
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d0547619f66753f16e86eb42d8f10d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694379,
+            "locality_id":1343816049,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343816049,
+    "wof:lastmodified":1537713506,
+    "wof:name":"Villa Vieja",
+    "wof:parent_id":1108694379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.36448,
+    10.12515,
+    -72.36448,
+    10.12515
+],
+  "geometry": {"coordinates":[-72.36448,10.12515],"type":"Point"}
+}

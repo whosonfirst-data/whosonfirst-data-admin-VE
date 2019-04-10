@@ -1,0 +1,71 @@
+{
+  "id": 1360096921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3727,10.09133,-65.3727,10.09133",
+    "geom:latitude":10.09133,
+    "geom:longitude":-65.3727,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chavez",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645833,
+    "gn:latitude":10.09133,
+    "gn:longitude":-65.3727,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u00e1vez",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaves",
+        "Ch\u00e1vez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421171645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645833
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0ca09f787fea1c965f18b044c2842540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171645,
+            "locality_id":1360096921,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360096921,
+    "wof:lastmodified":1537713619,
+    "wof:name":"Chavez",
+    "wof:parent_id":421171645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3727,
+    10.09133,
+    -65.3727,
+    10.09133
+],
+  "geometry": {"coordinates":[-65.37269999999999,10.09133],"type":"Point"}
+}

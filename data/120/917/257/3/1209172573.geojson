@@ -1,0 +1,61 @@
+{
+  "id": 1209172573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74555,9.58455,-70.74555,9.58455",
+    "geom:latitude":9.58455,
+    "geom:longitude":-70.74555,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"La Picadora",
+    "gn:country_code":"VE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636729,
+    "gn:latitude":9.58455,
+    "gn:longitude":-70.74555,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"La Picadora",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636729
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e3e55f6b50575382ebc0737ea0afa438",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209172573
+        }
+    ],
+    "wof:id":1209172573,
+    "wof:lastmodified":1536295530,
+    "wof:name":"La Picadora",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74555,
+    9.58455,
+    -70.74555,
+    9.58455
+],
+  "geometry": {"coordinates":[-70.74554999999999,9.58455],"type":"Point"}
+}

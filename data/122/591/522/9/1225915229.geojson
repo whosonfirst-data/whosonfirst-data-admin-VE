@@ -1,0 +1,67 @@
+{
+  "id": 1225915229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.71743,10.57074,-69.71743,10.57074",
+    "geom:latitude":10.57074,
+    "geom:longitude":-69.71743,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Maturin",
+    "gn:country_code":"VE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750261,
+    "gn:latitude":10.57074,
+    "gn:longitude":-69.71743,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Matur\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750261
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eb551f17e88e12a06e30e8aa333eb5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1225915229,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1225915229,
+    "wof:lastmodified":1536914038,
+    "wof:name":"Maturin",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.71743000000001,
+    10.57074,
+    -69.71743000000001,
+    10.57074
+],
+  "geometry": {"coordinates":[-69.71743000000001,10.57074],"type":"Point"}
+}

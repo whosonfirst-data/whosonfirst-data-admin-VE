@@ -1,0 +1,67 @@
+{
+  "id": 1310268515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.89889,9.20944,-63.89889,9.20944",
+    "geom:latitude":9.20944,
+    "geom:longitude":-63.89889,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Mata del Medio",
+    "gn:country_code":"VE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3751531,
+    "gn:latitude":9.20944,
+    "gn:longitude":-63.89889,
+    "gn:modification_date":"1996-07-29",
+    "gn:name":"La Mata del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751531
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"26ed886bf15086bf47865eed0481bc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1310268515,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1310268515,
+    "wof:lastmodified":1536761627,
+    "wof:name":"La Mata del Medio",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.89889,
+    9.20944,
+    -63.89889,
+    9.20944
+],
+  "geometry": {"coordinates":[-63.89889,9.20944],"type":"Point"}
+}

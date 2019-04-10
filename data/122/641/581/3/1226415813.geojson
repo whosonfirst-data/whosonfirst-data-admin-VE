@@ -1,0 +1,67 @@
+{
+  "id": 1226415813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.02589,8.46001,-71.02589,8.46001",
+    "geom:latitude":8.46001,
+    "geom:longitude":-71.02589,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nuestra Senora",
+    "gn:country_code":"VE",
+    "gn:dem":2685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753686,
+    "gn:latitude":8.46001,
+    "gn:longitude":-71.02589,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Nuestra Se\u00f1ora",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753686
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"512d5dd797c97c4c1e11cb4fdcb7839c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":1226415813,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1226415813,
+    "wof:lastmodified":1536688821,
+    "wof:name":"Nuestra Senora",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.02589,
+    8.46001,
+    -71.02589,
+    8.46001
+],
+  "geometry": {"coordinates":[-71.02589,8.46001],"type":"Point"}
+}

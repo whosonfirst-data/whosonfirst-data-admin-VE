@@ -1,0 +1,76 @@
+{
+  "id": 421192199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87385,8.76912,-70.87385,8.76912",
+    "geom:latitude":8.76912,
+    "geom:longitude":-70.87385,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3627746,
+    "qs:gn_pop":0,
+    "qs:name":"San Rafael",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":85,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":85,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165408,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":393972,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627746,
+        "gp:id":393972,
+        "qs:id":1165408
+    },
+    "wof:country":"VE",
+    "wof:created":1459009728,
+    "wof:geomhash":"dc159724fe3082bf33ce05a54e7e61d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":421192199,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421192199,
+    "wof:lastmodified":1500034075,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87385,
+    8.76912,
+    -70.87385,
+    8.76912
+],
+  "geometry": {"coordinates":[-70.87385,8.76912],"type":"Point"}
+}

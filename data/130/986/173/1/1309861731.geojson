@@ -1,0 +1,67 @@
+{
+  "id": 1309861731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.36927,10.33896,-71.36927,10.33896",
+    "geom:latitude":10.33896,
+    "geom:longitude":-71.36927,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Agua Clara",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649694,
+    "gn:latitude":10.33896,
+    "gn:longitude":-71.36927,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Agua Clara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649694
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"65124c808eb23451b848c907b86fd381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1309861731,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1309861731,
+    "wof:lastmodified":1536849541,
+    "wof:name":"Agua Clara",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.36927,
+    10.33896,
+    -71.36927,
+    10.33896
+],
+  "geometry": {"coordinates":[-71.36927,10.33896],"type":"Point"}
+}

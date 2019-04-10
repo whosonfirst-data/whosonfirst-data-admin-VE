@@ -1,0 +1,71 @@
+{
+  "id": 1293196521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.69074,9.3467,-68.69074,9.3467",
+    "geom:latitude":9.3467,
+    "geom:longitude":-68.69074,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cantarrana",
+    "gn:country_code":"VE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646879,
+    "gn:latitude":9.3467,
+    "gn:longitude":-68.69074,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cantarrana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canta Rana",
+        "Cantarrana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646879
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"415bc1bf238dfe80e04e25ec7641985e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694369,
+            "locality_id":1293196521,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1293196521,
+    "wof:lastmodified":1537713623,
+    "wof:name":"Cantarrana",
+    "wof:parent_id":1108694369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.69074,
+    9.3467,
+    -68.69074,
+    9.3467
+],
+  "geometry": {"coordinates":[-68.69074000000001,9.3467],"type":"Point"}
+}

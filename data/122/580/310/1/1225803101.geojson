@@ -1,0 +1,71 @@
+{
+  "id": 1225803101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41431,10.47567,-71.41431,10.47567",
+    "geom:latitude":10.47567,
+    "geom:longitude":-71.41431,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Montepio",
+    "gn:country_code":"VE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632019,
+    "gn:latitude":10.47567,
+    "gn:longitude":-71.41431,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Montepio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte P\u00edo",
+        "Montepio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632019
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b95f3b11a35cc3abb214c69839543d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694415,
+            "locality_id":1225803101,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1225803101,
+    "wof:lastmodified":1537713537,
+    "wof:name":"Montepio",
+    "wof:parent_id":1108694415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41431,
+    10.47567,
+    -71.41431,
+    10.47567
+],
+  "geometry": {"coordinates":[-71.41431,10.47567],"type":"Point"}
+}

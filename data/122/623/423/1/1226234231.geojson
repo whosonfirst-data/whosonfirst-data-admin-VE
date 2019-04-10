@@ -1,0 +1,67 @@
+{
+  "id": 1226234231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.28333,5.03333,-62.28333,5.03333",
+    "geom:latitude":5.03333,
+    "geom:longitude":-62.28333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ipotureima",
+    "gn:country_code":"VE",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639356,
+    "gn:latitude":5.03333,
+    "gn:longitude":-62.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ipotureima",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639356
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c7c550f0ef8db2e119e854c5dfd142a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1226234231,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1226234231,
+    "wof:lastmodified":1536950499,
+    "wof:name":"Ipotureima",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.28333000000001,
+    5.03333,
+    -62.28333000000001,
+    5.03333
+],
+  "geometry": {"coordinates":[-62.28333000000001,5.03333],"type":"Point"}
+}

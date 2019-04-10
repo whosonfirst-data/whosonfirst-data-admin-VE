@@ -1,0 +1,67 @@
+{
+  "id": 1327314089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.51667,10.68333,-68.51667,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":-68.51667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Salsipuedes",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628724,
+    "gn:latitude":10.68333,
+    "gn:longitude":-68.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Salsipuedes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628724
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"10250b76d14e7f1e05efab18975be4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694329,
+            "locality_id":1327314089,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1327314089,
+    "wof:lastmodified":1536850626,
+    "wof:name":"Salsipuedes",
+    "wof:parent_id":1108694329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.51666999999999,
+    10.68333,
+    -68.51666999999999,
+    10.68333
+],
+  "geometry": {"coordinates":[-68.51666999999999,10.68333],"type":"Point"}
+}

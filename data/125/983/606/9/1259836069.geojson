@@ -1,0 +1,67 @@
+{
+  "id": 1259836069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.66799,9.11336,-70.66799,9.11336",
+    "geom:latitude":9.11336,
+    "geom:longitude":-70.66799,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Llano del Jarillo",
+    "gn:country_code":"VE",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634714,
+    "gn:latitude":9.11336,
+    "gn:longitude":-70.66799,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Llano del Jarillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421172605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634714
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"af91cdd942f5144bd0ae473c23c9c7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172605,
+            "locality_id":1259836069,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1259836069,
+    "wof:lastmodified":1536846522,
+    "wof:name":"Llano del Jarillo",
+    "wof:parent_id":421172605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.66799,
+    9.11336,
+    -70.66799,
+    9.11336
+],
+  "geometry": {"coordinates":[-70.66799,9.11336],"type":"Point"}
+}

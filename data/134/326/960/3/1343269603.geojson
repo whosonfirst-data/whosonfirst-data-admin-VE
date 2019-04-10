@@ -1,0 +1,67 @@
+{
+  "id": 1343269603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.35832,9.86046,-64.35832,9.86046",
+    "geom:latitude":9.86046,
+    "geom:longitude":-64.35832,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Nicolas",
+    "gn:country_code":"VE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627910,
+    "gn:latitude":9.86046,
+    "gn:longitude":-64.35832,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"San Nicol\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627910
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5eb71cd8aa00e57646f52c6d5720f9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1343269603,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343269603,
+    "wof:lastmodified":1537020739,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.35831999999999,
+    9.86046,
+    -64.35831999999999,
+    9.86046
+],
+  "geometry": {"coordinates":[-64.35831999999999,9.86046],"type":"Point"}
+}

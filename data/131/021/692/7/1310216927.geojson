@@ -1,0 +1,67 @@
+{
+  "id": 1310216927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81667,9.98333,-64.81667,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-64.81667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Palosanal",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630916,
+    "gn:latitude":9.98333,
+    "gn:longitude":-64.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Palosanal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630916
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a7dc4854d0d57a8e39dd68229f31d751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1310216927,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310216927,
+    "wof:lastmodified":1536834704,
+    "wof:name":"Palosanal",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81667,
+    9.98333,
+    -64.81667,
+    9.98333
+],
+  "geometry": {"coordinates":[-64.81667,9.98333],"type":"Point"}
+}

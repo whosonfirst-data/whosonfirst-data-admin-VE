@@ -1,0 +1,61 @@
+{
+  "id": 1209621595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82027,7.35781,-71.82027,7.35781",
+    "geom:latitude":7.35781,
+    "geom:longitude":-71.82027,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pinar del Rio",
+    "gn:country_code":"VE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805473,
+    "gn:latitude":7.35781,
+    "gn:longitude":-71.82027,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Pinar del R\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805473
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3ddeb674942376126df8c53672668137",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209621595
+        }
+    ],
+    "wof:id":1209621595,
+    "wof:lastmodified":1536281499,
+    "wof:name":"Pinar del Rio",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82027,
+    7.3578100000000015,
+    -71.82027,
+    7.3578100000000015
+],
+  "geometry": {"coordinates":[-71.82026999999999,7.35781],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226232141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.98333,9.38333,-67.98333,9.38333",
+    "geom:latitude":9.38333,
+    "geom:longitude":-67.98333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lo Increible",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634689,
+    "gn:latitude":9.38333,
+    "gn:longitude":-67.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lo Incre\u00edble",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Increible",
+        "La Inereibe",
+        "Lo Incre\u00edble"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634689
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"868c1467ed9d5872f4d9cc77b19e8a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1226232141,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1226232141,
+    "wof:lastmodified":1537713552,
+    "wof:name":"Lo Increible",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.98333000000001,
+    9.38333,
+    -67.98333000000001,
+    9.38333
+],
+  "geometry": {"coordinates":[-67.98333000000001,9.38333],"type":"Point"}
+}

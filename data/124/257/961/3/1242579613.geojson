@@ -1,0 +1,67 @@
+{
+  "id": 1242579613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.34754,9.89079,-65.34754,9.89079",
+    "geom:latitude":9.89079,
+    "geom:longitude":-65.34754,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Conucos",
+    "gn:country_code":"VE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634249,
+    "gn:latitude":9.89079,
+    "gn:longitude":-65.34754,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Conucos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634249
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c8f641d122fb5216256606488f4b30f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1242579613,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1242579613,
+    "wof:lastmodified":1537058195,
+    "wof:name":"Los Conucos",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.34754000000001,
+    9.89079,
+    -65.34754000000001,
+    9.89079
+],
+  "geometry": {"coordinates":[-65.34754000000001,9.89079],"type":"Point"}
+}

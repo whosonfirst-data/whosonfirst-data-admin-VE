@@ -1,0 +1,67 @@
+{
+  "id": 1260050963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21643,10.52243,-69.21643,10.52243",
+    "geom:latitude":10.52243,
+    "geom:longitude":-69.21643,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Limonal",
+    "gn:country_code":"VE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746605,
+    "gn:latitude":10.52243,
+    "gn:longitude":-69.21643,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"El Limonal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746605
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5c700224f8d67ac2e3c844618b595ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1260050963,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1260050963,
+    "wof:lastmodified":1537033541,
+    "wof:name":"El Limonal",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21643,
+    10.52243,
+    -69.21643,
+    10.52243
+],
+  "geometry": {"coordinates":[-69.21643,10.52243],"type":"Point"}
+}

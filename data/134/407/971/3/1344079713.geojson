@@ -1,0 +1,67 @@
+{
+  "id": 1344079713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.60351,9.40285,-66.60351,9.40285",
+    "geom:latitude":9.40285,
+    "geom:longitude":-66.60351,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cardoncito",
+    "gn:country_code":"VE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646595,
+    "gn:latitude":9.40285,
+    "gn:longitude":-66.60351,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Cardoncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646595
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"51570d1ddd2584cf64d16e3af89a4e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694361,
+            "locality_id":1344079713,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1344079713,
+    "wof:lastmodified":1536846770,
+    "wof:name":"Cardoncito",
+    "wof:parent_id":1108694361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.60351,
+    9.40285,
+    -66.60351,
+    9.40285
+],
+  "geometry": {"coordinates":[-66.60351,9.40285],"type":"Point"}
+}

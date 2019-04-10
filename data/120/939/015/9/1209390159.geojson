@@ -1,0 +1,64 @@
+{
+  "id": 1209390159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.50623,9.20838,-69.50623,9.20838",
+    "geom:latitude":9.20838,
+    "geom:longitude":-69.50623,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tierra Buena",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798676,
+    "gn:latitude":9.20838,
+    "gn:longitude":-69.50623,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tierra Buena",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tierra Buena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798676
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7999eea2c1c8dfffc7ca576a29b61281",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209390159
+        }
+    ],
+    "wof:id":1209390159,
+    "wof:lastmodified":1537713648,
+    "wof:name":"Tierra Buena",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.50623,
+    9.20838,
+    -69.50623,
+    9.20838
+],
+  "geometry": {"coordinates":[-69.50623,9.20838],"type":"Point"}
+}

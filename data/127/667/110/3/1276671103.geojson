@@ -1,0 +1,67 @@
+{
+  "id": 1276671103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.65883,4.92402,-67.65883,4.92402",
+    "geom:latitude":4.92402,
+    "geom:longitude":-67.65883,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nina",
+    "gn:country_code":"VE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756130,
+    "gn:latitude":4.92402,
+    "gn:longitude":-67.65883,
+    "gn:modification_date":"1996-12-05",
+    "gn:name":"Ni\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756130
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"42abd3691d96981ec2e9052b2f92e780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694105,
+            "locality_id":1276671103,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1276671103,
+    "wof:lastmodified":1536822162,
+    "wof:name":"Nina",
+    "wof:parent_id":1108694105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.65883000000001,
+    4.92402,
+    -67.65883000000001,
+    4.92402
+],
+  "geometry": {"coordinates":[-67.65883000000001,4.92402],"type":"Point"}
+}

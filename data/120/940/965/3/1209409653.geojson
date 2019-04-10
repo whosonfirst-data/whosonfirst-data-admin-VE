@@ -1,0 +1,66 @@
+{
+  "id": 1209409653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.21667,4.58333,-61.21667,4.58333",
+    "geom:latitude":4.58333,
+    "geom:longitude":-61.21667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Carucumeru",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646394,
+    "gn:latitude":4.58333,
+    "gn:longitude":-61.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carucumer\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caruc\u00fa-mar\u00fa",
+        "Carucumer\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646394
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f0e5e53e83af827b6bc3aeb2241f2c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209409653
+        }
+    ],
+    "wof:id":1209409653,
+    "wof:lastmodified":1537713621,
+    "wof:name":"Carucumeru",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.21666999999999,
+    4.58333,
+    -61.21666999999999,
+    4.58333
+],
+  "geometry": {"coordinates":[-61.21666999999999,4.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243437927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.53545,9.82712,-69.53545,9.82712",
+    "geom:latitude":9.82712,
+    "geom:longitude":-69.53545,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Piedra de Ojo",
+    "gn:country_code":"VE",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748502,
+    "gn:latitude":9.82712,
+    "gn:longitude":-69.53545,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Piedra de Ojo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421189073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748502
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b06665fe461d3e8ca4e7909ccde84ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189073,
+            "locality_id":1243437927,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243437927,
+    "wof:lastmodified":1536816984,
+    "wof:name":"Piedra de Ojo",
+    "wof:parent_id":421189073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.53545,
+    9.82712,
+    -69.53545,
+    9.82712
+],
+  "geometry": {"coordinates":[-69.53545,9.82712],"type":"Point"}
+}

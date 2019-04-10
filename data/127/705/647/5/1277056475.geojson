@@ -1,0 +1,71 @@
+{
+  "id": 1277056475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.97158,11.31897,-68.97158,11.31897",
+    "geom:latitude":11.31897,
+    "geom:longitude":-68.97158,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Curari",
+    "gn:country_code":"VE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644672,
+    "gn:latitude":11.31897,
+    "gn:longitude":-68.97158,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Curar\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Curar\u00ed",
+        "Curar\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644672
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b906f0398676cfcdb77f7684b585e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1277056475,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1277056475,
+    "wof:lastmodified":1537713613,
+    "wof:name":"Curari",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.97158,
+    11.31897,
+    -68.97158,
+    11.31897
+],
+  "geometry": {"coordinates":[-68.97158,11.31897],"type":"Point"}
+}

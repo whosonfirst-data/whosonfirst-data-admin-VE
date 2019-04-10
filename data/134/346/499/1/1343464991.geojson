@@ -1,0 +1,71 @@
+{
+  "id": 1343464991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.81384,7.78974,-69.81384,7.78974",
+    "geom:latitude":7.78974,
+    "geom:longitude":-69.81384,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Quintero",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629398,
+    "gn:latitude":7.78974,
+    "gn:longitude":-69.81384,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quintero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inspectoria Quintero",
+        "Quintero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629398
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1005091e63bf48ef276b4019421c7a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1343464991,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343464991,
+    "wof:lastmodified":1537713525,
+    "wof:name":"Quintero",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.81384,
+    7.78974,
+    -69.81384,
+    7.78974
+],
+  "geometry": {"coordinates":[-69.81384,7.78974],"type":"Point"}
+}

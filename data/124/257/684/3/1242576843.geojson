@@ -1,0 +1,67 @@
+{
+  "id": 1242576843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.64556,9.47667,-66.64556,9.47667",
+    "geom:latitude":9.47667,
+    "geom:longitude":-66.64556,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chaparrito",
+    "gn:country_code":"VE",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645869,
+    "gn:latitude":9.47667,
+    "gn:longitude":-66.64556,
+    "gn:modification_date":"1996-06-24",
+    "gn:name":"Chaparrito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645869
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d6cfed31d978a9afb37574bcabff7033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694361,
+            "locality_id":1242576843,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1242576843,
+    "wof:lastmodified":1537061973,
+    "wof:name":"Chaparrito",
+    "wof:parent_id":1108694361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.64556,
+    9.47667,
+    -66.64556,
+    9.47667
+],
+  "geometry": {"coordinates":[-66.64556,9.47667],"type":"Point"}
+}

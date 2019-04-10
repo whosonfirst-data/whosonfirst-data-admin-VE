@@ -1,0 +1,61 @@
+{
+  "id": 1209523107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.73664,8.91739,-64.73664,8.91739",
+    "geom:latitude":8.91739,
+    "geom:longitude":-64.73664,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Hoyal",
+    "gn:country_code":"VE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3485315,
+    "gn:latitude":8.91739,
+    "gn:longitude":-64.73664,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"El Hoyal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485315
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bd3845d96bbba5348cac608f60b1fd96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209523107
+        }
+    ],
+    "wof:id":1209523107,
+    "wof:lastmodified":1536284517,
+    "wof:name":"El Hoyal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.73664000000001,
+    8.91739,
+    -64.73664000000001,
+    8.91739
+],
+  "geometry": {"coordinates":[-64.73664000000001,8.91739],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226415801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.58803,8.45615,-71.58803,8.45615",
+    "geom:latitude":8.45615,
+    "geom:longitude":-71.58803,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Buenaventura",
+    "gn:country_code":"VE",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628515,
+    "gn:latitude":8.45615,
+    "gn:longitude":-71.58803,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"San Buenaventura",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628515
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5e040cd1d8cf4ffc8c18658d240d80d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1226415801,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1226415801,
+    "wof:lastmodified":1536688838,
+    "wof:name":"San Buenaventura",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.58803,
+    8.45615,
+    -71.58803,
+    8.45615
+],
+  "geometry": {"coordinates":[-71.58803,8.45615],"type":"Point"}
+}

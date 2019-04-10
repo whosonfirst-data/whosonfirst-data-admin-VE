@@ -1,0 +1,114 @@
+{
+  "id": 421192203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18333,7.83333,-72.18333,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":-72.18333,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u79d1\u5fb7\u7f85"
+    ],
+    "name:deu_x_preferred":[
+        "Cordero"
+    ],
+    "name:dut_x_preferred":[
+        "Cordero"
+    ],
+    "name:eng_x_preferred":[
+        "Cordero"
+    ],
+    "name:fra_x_preferred":[
+        "Cordero"
+    ],
+    "name:fre_x_preferred":[
+        "Cordero"
+    ],
+    "name:glg_x_preferred":[
+        "Cordero"
+    ],
+    "name:ita_x_preferred":[
+        "Cordero"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30eb\u30c7\u30ed"
+    ],
+    "name:por_x_preferred":[
+        "Cordero"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u0435\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Cordero"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3645229,
+    "qs:gn_pop":0,
+    "qs:name":"Cordero",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":106,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165410,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395437,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":348,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421196939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645229,
+        "gp:id":395437,
+        "qs:id":1165410,
+        "wd:id":"Q2916708"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009729,
+    "wof:geomhash":"67c1d223b6dc9c27f0a669cbd6cbc383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196939,
+            "locality_id":421192203,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":421192203,
+    "wof:lastmodified":1553816380,
+    "wof:name":"Cordero",
+    "wof:parent_id":421196939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18333,
+    7.83333,
+    -72.18333,
+    7.83333
+],
+  "geometry": {"coordinates":[-72.18333,7.83333],"type":"Point"}
+}

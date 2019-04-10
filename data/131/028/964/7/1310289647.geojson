@@ -1,0 +1,67 @@
+{
+  "id": 1310289647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.59268,9.68887,-68.59268,9.68887",
+    "geom:latitude":9.68887,
+    "geom:longitude":-68.59268,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Puente Azul",
+    "gn:country_code":"VE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629739,
+    "gn:latitude":9.68887,
+    "gn:longitude":-68.59268,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Puente Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629739
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"df4ec7c7324a679683c1e8e3ba0afec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1310289647,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1310289647,
+    "wof:lastmodified":1536731152,
+    "wof:name":"Puente Azul",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.59268,
+    9.68887,
+    -68.59268,
+    9.68887
+],
+  "geometry": {"coordinates":[-68.59268,9.68887],"type":"Point"}
+}

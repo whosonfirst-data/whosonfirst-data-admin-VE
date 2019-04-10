@@ -1,0 +1,70 @@
+{
+  "id": 1242753263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14319,9.06029,-69.14319,9.06029",
+    "geom:latitude":9.06029,
+    "geom:longitude":-69.14319,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ojo de Agua",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798362,
+    "gn:latitude":9.06029,
+    "gn:longitude":-69.14319,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ojo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ojo de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798362
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8e61b522c9452db6586b470bd15d8813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694177,
+            "locality_id":1242753263,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1242753263,
+    "wof:lastmodified":1537713645,
+    "wof:name":"Ojo de Agua",
+    "wof:parent_id":1108694177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14319,
+    9.06029,
+    -69.14319,
+    9.06029
+],
+  "geometry": {"coordinates":[-69.14319,9.06029],"type":"Point"}
+}

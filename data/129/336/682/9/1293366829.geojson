@@ -1,0 +1,73 @@
+{
+  "id": 1293366829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.01667,8.98333,-65.01667,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":-65.01667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Loma del Toro",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634679,
+    "gn:latitude":8.98333,
+    "gn:longitude":-65.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Loma del Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Toro",
+        "Loma de Los Toros",
+        "Loma del Toro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634679
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dd0575039cb8450dfc729e05636db86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1293366829,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293366829,
+    "wof:lastmodified":1537713552,
+    "wof:name":"Loma del Toro",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.01666999999999,
+    8.98333,
+    -65.01666999999999,
+    8.98333
+],
+  "geometry": {"coordinates":[-65.01666999999999,8.98333],"type":"Point"}
+}

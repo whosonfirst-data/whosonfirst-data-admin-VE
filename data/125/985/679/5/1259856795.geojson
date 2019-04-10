@@ -1,0 +1,67 @@
+{
+  "id": 1259856795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.30402,10.94289,-68.30402,10.94289",
+    "geom:latitude":10.94289,
+    "geom:longitude":-68.30402,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Pasadero",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642208,
+    "gn:latitude":10.94289,
+    "gn:longitude":-68.30402,
+    "gn:modification_date":"2002-03-27",
+    "gn:name":"El Pasadero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642208
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"111238169593497d97bb472453a5dbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193381,
+            "locality_id":1259856795,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259856795,
+    "wof:lastmodified":1536816867,
+    "wof:name":"El Pasadero",
+    "wof:parent_id":421193381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.30402,
+    10.94289,
+    -68.30402,
+    10.94289
+],
+  "geometry": {"coordinates":[-68.30401999999999,10.94289],"type":"Point"}
+}

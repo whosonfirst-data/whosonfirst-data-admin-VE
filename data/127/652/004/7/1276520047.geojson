@@ -1,0 +1,67 @@
+{
+  "id": 1276520047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.57678,10.34158,-66.57678,10.34158",
+    "geom:latitude":10.34158,
+    "geom:longitude":-66.57678,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Oficina San Antonio",
+    "gn:country_code":"VE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631383,
+    "gn:latitude":10.34158,
+    "gn:longitude":-66.57678,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Oficina San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631383
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"602eaa9a570404c12b1509a0582ae3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694341,
+            "locality_id":1276520047,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1276520047,
+    "wof:lastmodified":1537024783,
+    "wof:name":"Oficina San Antonio",
+    "wof:parent_id":1108694341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.57678,
+    10.34158,
+    -66.57678,
+    10.34158
+],
+  "geometry": {"coordinates":[-66.57678,10.34158],"type":"Point"}
+}

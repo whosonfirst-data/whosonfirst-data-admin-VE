@@ -1,0 +1,67 @@
+{
+  "id": 1193148841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56324,10.04475,-64.56324,10.04475",
+    "geom:latitude":10.04475,
+    "geom:longitude":-64.56324,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Matuta",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637170,
+    "gn:latitude":10.04475,
+    "gn:longitude":-64.56324,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Matuta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637170
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"067208d93c1750ea32ca60762fa67388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1193148841,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1193148841,
+    "wof:lastmodified":1536380467,
+    "wof:name":"La Matuta",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56324000000001,
+    10.04475,
+    -64.56324000000001,
+    10.04475
+],
+  "geometry": {"coordinates":[-64.56324000000001,10.04475],"type":"Point"}
+}

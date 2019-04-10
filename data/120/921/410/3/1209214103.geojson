@@ -1,0 +1,61 @@
+{
+  "id": 1209214103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.44039,10.14273,-67.44039,10.14273",
+    "geom:latitude":10.14273,
+    "geom:longitude":-67.44039,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cagua La Vieja",
+    "gn:country_code":"VE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806189,
+    "gn:latitude":10.14273,
+    "gn:longitude":-67.44039,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"Cagua La Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806189
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"45e9237fba8d5df685b548aacd245d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209214103
+        }
+    ],
+    "wof:id":1209214103,
+    "wof:lastmodified":1536294191,
+    "wof:name":"Cagua La Vieja",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.44039000000001,
+    10.14273,
+    -67.44039000000001,
+    10.14273
+],
+  "geometry": {"coordinates":[-67.44039000000001,10.14273],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193113703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.68357,8.94997,-65.68357,8.94997",
+    "geom:latitude":8.94997,
+    "geom:longitude":-65.68357,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Maniral",
+    "gn:country_code":"VE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633148,
+    "gn:latitude":8.94997,
+    "gn:longitude":-65.68357,
+    "gn:modification_date":"2002-01-31",
+    "gn:name":"Maniral",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633148
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"03c0be97622b70c6f35186bd2105e67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694175,
+            "locality_id":1193113703,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1193113703,
+    "wof:lastmodified":1536370495,
+    "wof:name":"Maniral",
+    "wof:parent_id":1108694175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.68356999999999,
+    8.94997,
+    -65.68356999999999,
+    8.94997
+],
+  "geometry": {"coordinates":[-65.68356999999999,8.94997],"type":"Point"}
+}

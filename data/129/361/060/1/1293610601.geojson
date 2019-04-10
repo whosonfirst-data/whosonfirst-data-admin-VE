@@ -1,0 +1,72 @@
+{
+  "id": 1293610601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05,6.8,-61.05,6.8",
+    "geom:latitude":6.8,
+    "geom:longitude":-61.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sejal",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626884,
+    "gn:latitude":6.8,
+    "gn:longitude":-61.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sejal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sajal",
+        "Sejal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421198671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626884
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a054da36016e4c794e2d3498a4c501ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198671,
+            "locality_id":1293610601,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293610601,
+    "wof:lastmodified":1537713514,
+    "wof:name":"Sejal",
+    "wof:parent_id":421198671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05,
+    6.8,
+    -61.05,
+    6.8
+],
+  "geometry": {"coordinates":[-61.05,6.8],"type":"Point"}
+}

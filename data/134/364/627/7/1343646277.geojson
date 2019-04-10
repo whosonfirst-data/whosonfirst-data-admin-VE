@@ -1,0 +1,72 @@
+{
+  "id": 1343646277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.56667,9.75,-68.56667,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":-68.56667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Quebradon",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629474,
+    "gn:latitude":9.75,
+    "gn:longitude":-68.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quebrad\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quebra\u00f3n",
+        "Quebrad\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629474
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9e68051da199e4bd3603f6cfa4f9e7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1343646277,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1343646277,
+    "wof:lastmodified":1537713525,
+    "wof:name":"Quebradon",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.56667,
+    9.75,
+    -68.56667,
+    9.75
+],
+  "geometry": {"coordinates":[-68.56667,9.75],"type":"Point"}
+}

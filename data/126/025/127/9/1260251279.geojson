@@ -1,0 +1,67 @@
+{
+  "id": 1260251279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85879,9.27127,-70.85879,9.27127",
+    "geom:latitude":9.27127,
+    "geom:longitude":-70.85879,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Albarico",
+    "gn:country_code":"VE",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644374,
+    "gn:latitude":9.27127,
+    "gn:longitude":-70.85879,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Albarico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644374
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5ec09d1050ee66e9285189ee10f4f0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694309,
+            "locality_id":1260251279,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1260251279,
+    "wof:lastmodified":1536755655,
+    "wof:name":"El Albarico",
+    "wof:parent_id":1108694309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85879,
+    9.27127,
+    -70.85879,
+    9.27127
+],
+  "geometry": {"coordinates":[-70.85879,9.27127],"type":"Point"}
+}

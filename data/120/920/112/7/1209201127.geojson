@@ -1,0 +1,61 @@
+{
+  "id": 1209201127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.1341,8.26156,-67.1341,8.26156",
+    "geom:latitude":8.26156,
+    "geom:longitude":-67.1341,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Coral Viejo",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645239,
+    "gn:latitude":8.26156,
+    "gn:longitude":-67.1341,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Coral Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645239
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"34da128742a8f4b61a5f2c1dcbf9429d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209201127
+        }
+    ],
+    "wof:id":1209201127,
+    "wof:lastmodified":1536294607,
+    "wof:name":"Coral Viejo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.1341,
+    8.261560000000001,
+    -67.1341,
+    8.261560000000001
+],
+  "geometry": {"coordinates":[-67.1341,8.26156],"type":"Point"}
+}

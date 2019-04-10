@@ -1,0 +1,67 @@
+{
+  "id": 1276841665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.91583,9.91833,-63.91583,9.91833",
+    "geom:latitude":9.91833,
+    "geom:longitude":-63.91583,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Bajo Areo",
+    "gn:country_code":"VE",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749916,
+    "gn:latitude":9.91833,
+    "gn:longitude":-63.91583,
+    "gn:modification_date":"1996-07-03",
+    "gn:name":"Bajo Areo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749916
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d3b0ecb462d1cf1733e48412d6ab79d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1276841665,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276841665,
+    "wof:lastmodified":1537089169,
+    "wof:name":"Bajo Areo",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.91583000000001,
+    9.91833,
+    -63.91583000000001,
+    9.91833
+],
+  "geometry": {"coordinates":[-63.91583000000001,9.91833],"type":"Point"}
+}

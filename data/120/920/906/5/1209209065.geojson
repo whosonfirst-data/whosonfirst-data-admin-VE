@@ -1,0 +1,61 @@
+{
+  "id": 1209209065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.7671,8.74282,-60.7671,8.74282",
+    "geom:latitude":8.74282,
+    "geom:longitude":-60.7671,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Guarivaca",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763167,
+    "gn:latitude":8.74282,
+    "gn:longitude":-60.7671,
+    "gn:modification_date":"1997-11-13",
+    "gn:name":"Guarivaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763167
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"38d02008111005c6a0a3bfe368ae5e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209209065
+        }
+    ],
+    "wof:id":1209209065,
+    "wof:lastmodified":1536294352,
+    "wof:name":"Guarivaca",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.7671,
+    8.74282,
+    -60.7671,
+    8.74282
+],
+  "geometry": {"coordinates":[-60.7671,8.74282],"type":"Point"}
+}

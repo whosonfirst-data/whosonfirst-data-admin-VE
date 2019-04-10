@@ -1,0 +1,67 @@
+{
+  "id": 1276524311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.21222,8.97167,-64.21222,8.97167",
+    "geom:latitude":8.97167,
+    "geom:longitude":-64.21222,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Los Jagueyes",
+    "gn:country_code":"VE",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3773039,
+    "gn:latitude":8.97167,
+    "gn:longitude":-64.21222,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Los Jagueyes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773039
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e57a10e0b21ef0498aa945f498843516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1276524311,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276524311,
+    "wof:lastmodified":1537019317,
+    "wof:name":"Los Jagueyes",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.21222,
+    8.97167,
+    -64.21222,
+    8.97167
+],
+  "geometry": {"coordinates":[-64.21222,8.97167],"type":"Point"}
+}

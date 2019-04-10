@@ -1,0 +1,67 @@
+{
+  "id": 1276403903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.89871,7.73541,-71.89871,7.73541",
+    "geom:latitude":7.73541,
+    "geom:longitude":-71.89871,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Los Bordos",
+    "gn:country_code":"VE",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794980,
+    "gn:latitude":7.73541,
+    "gn:longitude":-71.89871,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Los Bordos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794980
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f8930d1d382b906eb3afe5f407d3d661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183171,
+            "locality_id":1276403903,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276403903,
+    "wof:lastmodified":1536684131,
+    "wof:name":"Los Bordos",
+    "wof:parent_id":421183171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.89871,
+    7.73541,
+    -71.89871,
+    7.73541
+],
+  "geometry": {"coordinates":[-71.89870999999999,7.73541],"type":"Point"}
+}

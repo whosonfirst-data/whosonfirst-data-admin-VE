@@ -1,0 +1,61 @@
+{
+  "id": 1209673481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96667,8.86667,-71.96667,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":-71.96667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Siberia",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626849,
+    "gn:latitude":8.86667,
+    "gn:longitude":-71.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Siberia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626849
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b9649c5805d9b29b57a50106b49499f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209673481
+        }
+    ],
+    "wof:id":1209673481,
+    "wof:lastmodified":1536279837,
+    "wof:name":"Siberia",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96667,
+    8.86667,
+    -71.96667,
+    8.86667
+],
+  "geometry": {"coordinates":[-71.96666999999999,8.86667],"type":"Point"}
+}

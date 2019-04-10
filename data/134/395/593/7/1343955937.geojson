@@ -1,0 +1,67 @@
+{
+  "id": 1343955937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.32566,8.09554,-70.32566,8.09554",
+    "geom:latitude":8.09554,
+    "geom:longitude":-70.32566,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Palmitas",
+    "gn:country_code":"VE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486844,
+    "gn:latitude":8.09554,
+    "gn:longitude":-70.32566,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Las Palmitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486844
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0165d61abeda880e740130a48569a742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1343955937,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343955937,
+    "wof:lastmodified":1537025451,
+    "wof:name":"Las Palmitas",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.32566,
+    8.09554,
+    -70.32566,
+    8.09554
+],
+  "geometry": {"coordinates":[-70.32566,8.09554],"type":"Point"}
+}

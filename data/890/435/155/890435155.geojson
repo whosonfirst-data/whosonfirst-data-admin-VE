@@ -1,0 +1,105 @@
+{
+  "id": 890435155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.35841,9.30571,-64.35841,9.30571",
+    "geom:latitude":9.30571,
+    "geom:longitude":-64.35841,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":33040,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u574e\u9676\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Cantaura"
+    ],
+    "name:eng_x_preferred":[
+        "Cantaura"
+    ],
+    "name:fre_x_preferred":[
+        "Cantaura"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d8\u05d0\u05d5\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Cantaura"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30bf\u30a6\u30e9"
+    ],
+    "name:pol_x_preferred":[
+        "Cantaura"
+    ],
+    "name:por_x_preferred":[
+        "Cantaura"
+    ],
+    "name:spa_x_preferred":[
+        "Cantaura"
+    ],
+    "name:unk_x_variant":[
+        "Cantura"
+    ],
+    "qs:name":"Cantaura",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":261.0,
+    "wd:latitude":"9.300526",
+    "wd:longitude":"-64.356365",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646869,
+        "gp:id":468405,
+        "qs:id":149648,
+        "wd:id":"Q2919593",
+        "wk:page":"Cantaura"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052056,
+    "wof:geomhash":"3003f97e3a2691562e457b01eb85c952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":890435155,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":890435155,
+    "wof:lastmodified":1527793049,
+    "wof:name":"Cantaura",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:population":33040,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.35841,
+    9.30571,
+    -64.35841,
+    9.30571
+],
+  "geometry": {"coordinates":[-64.35841000000001,9.30571],"type":"Point"}
+}

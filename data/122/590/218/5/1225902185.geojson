@@ -1,0 +1,67 @@
+{
+  "id": 1225902185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95488,10.99244,-71.95488,10.99244",
+    "geom:latitude":10.99244,
+    "geom:longitude":-71.95488,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Sargento",
+    "gn:country_code":"VE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641504,
+    "gn:latitude":10.99244,
+    "gn:longitude":-71.95488,
+    "gn:modification_date":"2000-08-01",
+    "gn:name":"El Sargento",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641504
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ad85fdad0f4fd156ef495c597076e9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1225902185,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1225902185,
+    "wof:lastmodified":1536933247,
+    "wof:name":"El Sargento",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95488,
+    10.99244,
+    -71.95488,
+    10.99244
+],
+  "geometry": {"coordinates":[-71.95488,10.99244],"type":"Point"}
+}

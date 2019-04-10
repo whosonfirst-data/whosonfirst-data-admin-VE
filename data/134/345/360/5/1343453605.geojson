@@ -1,0 +1,72 @@
+{
+  "id": 1343453605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41667,8.08333,-68.41667,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-68.41667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Evilla",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637959,
+    "gn:latitude":8.08333,
+    "gn:longitude":-68.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Evilla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Evilia",
+        "La Evilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637959
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5182d54b9108ee5944e1eb275f99ec3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1343453605,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343453605,
+    "wof:lastmodified":1537713570,
+    "wof:name":"La Evilla",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41667,
+    8.08333,
+    -68.41667,
+    8.08333
+],
+  "geometry": {"coordinates":[-68.41667,8.08333],"type":"Point"}
+}

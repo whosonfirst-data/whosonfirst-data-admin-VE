@@ -1,0 +1,72 @@
+{
+  "id": 1293372305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.82743,10.50688,-66.82743,10.50688",
+    "geom:latitude":10.50688,
+    "geom:longitude":-66.82743,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Los Chorros",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634302,
+    "gn:latitude":10.50688,
+    "gn:longitude":-66.82743,
+    "gn:modification_date":"2012-01-15",
+    "gn:name":"Los Chorros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorros",
+        "Los Chorros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634302
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2b5855dc2a34c80b06a98541abb42858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171381,
+            "locality_id":1293372305,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1293372305,
+    "wof:lastmodified":1537713549,
+    "wof:name":"Los Chorros",
+    "wof:parent_id":421171381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.82743,
+    10.50688,
+    -66.82743,
+    10.50688
+],
+  "geometry": {"coordinates":[-66.82743000000001,10.50688],"type":"Point"}
+}

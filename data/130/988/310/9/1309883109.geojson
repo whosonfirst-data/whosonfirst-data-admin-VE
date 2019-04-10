@@ -1,0 +1,67 @@
+{
+  "id": 1309883109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90167,10.96333,-70.90167,10.96333",
+    "geom:latitude":10.96333,
+    "geom:longitude":-70.90167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"La Sibucara",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784626,
+    "gn:latitude":10.96333,
+    "gn:longitude":-70.90167,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"La Sibucara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784626
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1ad12ae62810930a7a8c369a41a0cfbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1309883109,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309883109,
+    "wof:lastmodified":1536818886,
+    "wof:name":"La Sibucara",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90167,
+    10.96333,
+    -70.90167,
+    10.96333
+],
+  "geometry": {"coordinates":[-70.90167,10.96333],"type":"Point"}
+}

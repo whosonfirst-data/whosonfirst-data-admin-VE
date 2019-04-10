@@ -1,0 +1,67 @@
+{
+  "id": 1360106283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.00856,7.49784,-65.00856,7.49784",
+    "geom:latitude":7.49784,
+    "geom:longitude":-65.00856,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"San Pedro de Tauca",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627767,
+    "gn:latitude":7.49784,
+    "gn:longitude":-65.00856,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Pedro de Tauca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421175383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627767
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aab4af97a68ffc7b1b78b1d24fed9940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175383,
+            "locality_id":1360106283,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1360106283,
+    "wof:lastmodified":1536915567,
+    "wof:name":"San Pedro de Tauca",
+    "wof:parent_id":421175383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.00856,
+    7.49784,
+    -65.00856,
+    7.49784
+],
+  "geometry": {"coordinates":[-65.00856,7.49784],"type":"Point"}
+}

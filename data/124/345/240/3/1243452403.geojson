@@ -1,0 +1,73 @@
+{
+  "id": 1243452403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.30798,8.09535,-69.30798,8.09535",
+    "geom:latitude":8.09535,
+    "geom:longitude":-69.30798,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61101.0",
+    "gn:asciiname":"Ciudad De Nutrias",
+    "gn:country_code":"VE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3645529,
+    "gn:latitude":8.09535,
+    "gn:longitude":-69.30798,
+    "gn:modification_date":"2012-01-31",
+    "gn:name":"Ciudad De Nutrias",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nutrias",
+        "Ciudad De Nutrias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645529
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"781ad9030db9dd5ba5b71e86f8c64d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1243452403,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1243452403,
+    "wof:lastmodified":1537713618,
+    "wof:name":"Ciudad De Nutrias",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.30798,
+    8.09535,
+    -69.30798,
+    8.09535
+],
+  "geometry": {"coordinates":[-69.30798,8.09535],"type":"Point"}
+}

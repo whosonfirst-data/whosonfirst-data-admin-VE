@@ -1,0 +1,67 @@
+{
+  "id": 1360062643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.325,10.75306,-68.325,10.75306",
+    "geom:latitude":10.75306,
+    "geom:longitude":-68.325,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Corales",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634242,
+    "gn:latitude":10.75306,
+    "gn:longitude":-68.325,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Los Corales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890417393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634242
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"16f3a65d617909fec0ad5f5c740d5b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890417393,
+            "locality_id":1360062643,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1360062643,
+    "wof:lastmodified":1536977561,
+    "wof:name":"Los Corales",
+    "wof:parent_id":890417393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.325,
+    10.75306,
+    -68.325,
+    10.75306
+],
+  "geometry": {"coordinates":[-68.325,10.75306],"type":"Point"}
+}

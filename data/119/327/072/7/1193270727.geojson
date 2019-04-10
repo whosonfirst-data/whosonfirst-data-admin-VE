@@ -1,0 +1,72 @@
+{
+  "id": 1193270727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15,7.63333,-70.15,7.63333",
+    "geom:latitude":7.63333,
+    "geom:longitude":-70.15,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Boca Caparo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648226,
+    "gn:latitude":7.63333,
+    "gn:longitude":-70.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boca Caparo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca de Caparo",
+        "Boca Caparo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648226
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f0fb2738bfabe8be208a20c0d19861c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1193270727,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1193270727,
+    "wof:lastmodified":1537713629,
+    "wof:name":"Boca Caparo",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15,
+    7.63333,
+    -70.15,
+    7.63333
+],
+  "geometry": {"coordinates":[-70.15000000000001,7.63333],"type":"Point"}
+}

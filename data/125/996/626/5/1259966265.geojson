@@ -1,0 +1,67 @@
+{
+  "id": 1259966265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28052,9.5204,-67.28052,9.5204",
+    "geom:latitude":9.5204,
+    "geom:longitude":-67.28052,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Negro",
+    "gn:country_code":"VE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642429,
+    "gn:latitude":9.5204,
+    "gn:longitude":-67.28052,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"El Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642429
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3168cb84885b946ddd8edfe7ab2d791d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1259966265,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259966265,
+    "wof:lastmodified":1536660045,
+    "wof:name":"El Negro",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28052,
+    9.5204,
+    -67.28052,
+    9.5204
+],
+  "geometry": {"coordinates":[-67.28052,9.5204],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209322357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.94569,9.88302,-64.94569,9.88302",
+    "geom:latitude":9.88302,
+    "geom:longitude":-64.94569,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Piragua",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630121,
+    "gn:latitude":9.88302,
+    "gn:longitude":-64.94569,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Piragua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630121
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a4fd4c1f04885a1111bc3e1731abccd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209322357
+        }
+    ],
+    "wof:id":1209322357,
+    "wof:lastmodified":1536290648,
+    "wof:name":"Piragua",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.94569,
+    9.88302,
+    -64.94569,
+    9.88302
+],
+  "geometry": {"coordinates":[-64.94569,9.88302],"type":"Point"}
+}

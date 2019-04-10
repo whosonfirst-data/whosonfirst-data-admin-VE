@@ -1,0 +1,79 @@
+{
+  "id": 421180987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.591835,10.206591,-67.591835,10.206591",
+    "geom:latitude":10.206591,
+    "geom:longitude":-67.591835,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Libertador",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":510713,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805677,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421171995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805677,
+        "qs:id":510713,
+        "qs_pg:id":510713
+    },
+    "wof:country":"VE",
+    "wof:created":1459009278,
+    "wof:geomhash":"5e61ca4b012ab87e4e5bb1b8517a0fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171995,
+            "localadmin_id":421180987,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421180987,
+    "wof:lastmodified":1497043628,
+    "wof:name":"Capital Libertador",
+    "wof:parent_id":421171995,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.591835,
+    10.206591,
+    -67.591835,
+    10.206591
+],
+  "geometry": {"coordinates":[-67.591835,10.206591],"type":"Point"}
+}

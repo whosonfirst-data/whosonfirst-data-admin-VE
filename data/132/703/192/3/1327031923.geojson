@@ -1,0 +1,67 @@
+{
+  "id": 1327031923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.98889,8.15889,-63.98889,8.15889",
+    "geom:latitude":8.15889,
+    "geom:longitude":-63.98889,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Juan Esteban",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639114,
+    "gn:latitude":8.15889,
+    "gn:longitude":-63.98889,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Juan Esteban",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639114
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"67a41c27f678b2aab5f383098866ba30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1327031923,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327031923,
+    "wof:lastmodified":1536761355,
+    "wof:name":"Juan Esteban",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.98889000000001,
+    8.15889,
+    -63.98889000000001,
+    8.15889
+],
+  "geometry": {"coordinates":[-63.98889000000001,8.15889],"type":"Point"}
+}

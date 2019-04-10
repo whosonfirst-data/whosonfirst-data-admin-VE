@@ -1,0 +1,67 @@
+{
+  "id": 1344264691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.97903,9.85225,-64.97903,9.85225",
+    "geom:latitude":9.85225,
+    "geom:longitude":-64.97903,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sangrillo",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484337,
+    "gn:latitude":9.85225,
+    "gn:longitude":-64.97903,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sangrillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421172597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484337
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"55b2777ae970304e7cd1e4fe783aa4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172597,
+            "locality_id":1344264691,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344264691,
+    "wof:lastmodified":1537074892,
+    "wof:name":"Sangrillo",
+    "wof:parent_id":421172597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.97903000000001,
+    9.85225,
+    -64.97903000000001,
+    9.85225
+],
+  "geometry": {"coordinates":[-64.97903000000001,9.85225],"type":"Point"}
+}

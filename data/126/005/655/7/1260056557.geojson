@@ -1,0 +1,67 @@
+{
+  "id": 1260056557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.94542,8.84825,-65.94542,8.84825",
+    "geom:latitude":8.84825,
+    "geom:longitude":-65.94542,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"El Cojo",
+    "gn:country_code":"VE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3772497,
+    "gn:latitude":8.84825,
+    "gn:longitude":-65.94542,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"El Cojo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772497
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"95efa15a8fdc572b56fb99626526f3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1260056557,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1260056557,
+    "wof:lastmodified":1537025748,
+    "wof:name":"El Cojo",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.94542,
+    8.84825,
+    -65.94542,
+    8.84825
+],
+  "geometry": {"coordinates":[-65.94542,8.84825],"type":"Point"}
+}

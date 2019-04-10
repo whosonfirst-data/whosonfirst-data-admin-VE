@@ -1,0 +1,67 @@
+{
+  "id": 1209774155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.4189,9.75594,-70.4189,9.75594",
+    "geom:latitude":9.75594,
+    "geom:longitude":-70.4189,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Batatillo",
+    "gn:country_code":"VE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482780,
+    "gn:latitude":9.75594,
+    "gn:longitude":-70.4189,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"El Batatillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482780
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"08a229bd053d9973e50c92b3e77082d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694143,
+            "locality_id":1209774155,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1209774155,
+    "wof:lastmodified":1536380687,
+    "wof:name":"El Batatillo",
+    "wof:parent_id":1108694143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.4189,
+    9.75594,
+    -70.4189,
+    9.75594
+],
+  "geometry": {"coordinates":[-70.41889999999999,9.75594],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292958861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86876,10.63593,-71.86876,10.63593",
+    "geom:latitude":10.63593,
+    "geom:longitude":-71.86876,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Chinito",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643678,
+    "gn:latitude":10.63593,
+    "gn:longitude":-71.86876,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Chinito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643678
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7a548a6ccebee3d67b5be9c8dad8a30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1292958861,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1292958861,
+    "wof:lastmodified":1537050108,
+    "wof:name":"El Chinito",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86876,
+    10.63593,
+    -71.86876,
+    10.63593
+],
+  "geometry": {"coordinates":[-71.86875999999999,10.63593],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344257913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.80444,7.37222,-67.80444,7.37222",
+    "geom:latitude":7.37222,
+    "geom:longitude":-67.80444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Camoruquito",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3804620,
+    "gn:latitude":7.37222,
+    "gn:longitude":-67.80444,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Camoruquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804620
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0447de1f318292e5304d8709e7bfd617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1344257913,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1344257913,
+    "wof:lastmodified":1537084691,
+    "wof:name":"Camoruquito",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.80444,
+    7.37222,
+    -67.80444,
+    7.37222
+],
+  "geometry": {"coordinates":[-67.80444,7.37222],"type":"Point"}
+}

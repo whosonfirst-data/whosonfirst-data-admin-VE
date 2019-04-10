@@ -1,0 +1,67 @@
+{
+  "id": 1327157139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.59788,10.0224,-67.59788,10.0224",
+    "geom:latitude":10.0224,
+    "geom:longitude":-67.59788,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cogollal",
+    "gn:country_code":"VE",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645412,
+    "gn:latitude":10.0224,
+    "gn:longitude":-67.59788,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Cogollal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645412
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"56049bbc89ebda22dddc4e8dcc3ec18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1327157139,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1327157139,
+    "wof:lastmodified":1537075200,
+    "wof:name":"Cogollal",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.59788,
+    10.0224,
+    -67.59788,
+    10.0224
+],
+  "geometry": {"coordinates":[-67.59788,10.0224],"type":"Point"}
+}

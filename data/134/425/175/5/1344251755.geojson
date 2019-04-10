@@ -1,0 +1,67 @@
+{
+  "id": 1344251755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.34667,9.85722,-68.34667,9.85722",
+    "geom:latitude":9.85722,
+    "geom:longitude":-68.34667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Monos",
+    "gn:country_code":"VE",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3800035,
+    "gn:latitude":9.85722,
+    "gn:longitude":-68.34667,
+    "gn:modification_date":"2002-10-29",
+    "gn:name":"Los Monos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3800035
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a355633f0ead228497974b7211d26453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "locality_id":1344251755,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1344251755,
+    "wof:lastmodified":1537093606,
+    "wof:name":"Los Monos",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.34666999999999,
+    9.85722,
+    -68.34666999999999,
+    9.85722
+],
+  "geometry": {"coordinates":[-68.34666999999999,9.85722],"type":"Point"}
+}

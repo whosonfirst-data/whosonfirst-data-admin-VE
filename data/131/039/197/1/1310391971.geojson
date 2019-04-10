@@ -1,0 +1,67 @@
+{
+  "id": 1310391971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23279,9.74346,-66.23279,9.74346",
+    "geom:latitude":9.74346,
+    "geom:longitude":-66.23279,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Cruz del Guataparo",
+    "gn:country_code":"VE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638266,
+    "gn:latitude":9.74346,
+    "gn:longitude":-66.23279,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Cruz del Guataparo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638266
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e1ee8b1782fcab2169f9039fc712ff48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1310391971,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310391971,
+    "wof:lastmodified":1537077658,
+    "wof:name":"La Cruz del Guataparo",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23279000000001,
+    9.74346,
+    -66.23279000000001,
+    9.74346
+],
+  "geometry": {"coordinates":[-66.23279000000001,9.74346],"type":"Point"}
+}

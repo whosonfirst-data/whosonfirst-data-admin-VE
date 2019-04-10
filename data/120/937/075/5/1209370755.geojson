@@ -1,0 +1,61 @@
+{
+  "id": 1209370755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.68389,9.11417,-72.68389,9.11417",
+    "geom:latitude":9.11417,
+    "geom:longitude":-72.68389,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Puerto Catatumbo",
+    "gn:country_code":"VE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740624,
+    "gn:latitude":9.11417,
+    "gn:longitude":-72.68389,
+    "gn:modification_date":"1995-06-14",
+    "gn:name":"Puerto Catatumbo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740624
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"113d8a8eedf8199e21a14ae9ff0986d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209370755
+        }
+    ],
+    "wof:id":1209370755,
+    "wof:lastmodified":1536289115,
+    "wof:name":"Puerto Catatumbo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.68389,
+    9.11417,
+    -72.68389,
+    9.11417
+],
+  "geometry": {"coordinates":[-72.68389000000001,9.11417],"type":"Point"}
+}

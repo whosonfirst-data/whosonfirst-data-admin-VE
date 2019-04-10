@@ -1,0 +1,67 @@
+{
+  "id": 1260079541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.88056,9.95,-66.88056,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-66.88056,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Faltriquera",
+    "gn:country_code":"VE",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806381,
+    "gn:latitude":9.95,
+    "gn:longitude":-66.88056,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"La Faltriquera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806381
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b420ed1ba9681af90bcc70cb601296f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694387,
+            "locality_id":1260079541,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1260079541,
+    "wof:lastmodified":1536992874,
+    "wof:name":"La Faltriquera",
+    "wof:parent_id":1108694387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.88056,
+    9.95,
+    -66.88056,
+    9.95
+],
+  "geometry": {"coordinates":[-66.88056,9.95],"type":"Point"}
+}

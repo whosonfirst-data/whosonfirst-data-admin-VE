@@ -1,0 +1,67 @@
+{
+  "id": 1343816047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65,8.86667,-71.65,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":-71.65,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Puerto Chama",
+    "gn:country_code":"VE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629699,
+    "gn:latitude":8.86667,
+    "gn:longitude":-71.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Puerto Chama",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629699
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"60f7825f6445bcd149c9a75594f89f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694195,
+            "locality_id":1343816047,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343816047,
+    "wof:lastmodified":1536731171,
+    "wof:name":"Puerto Chama",
+    "wof:parent_id":1108694195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65,
+    8.86667,
+    -71.65,
+    8.86667
+],
+  "geometry": {"coordinates":[-71.65000000000001,8.86667],"type":"Point"}
+}

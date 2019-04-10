@@ -1,0 +1,67 @@
+{
+  "id": 1327111087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.70173,8.563,-66.70173,8.563",
+    "geom:latitude":8.563,
+    "geom:longitude":-66.70173,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Curas",
+    "gn:country_code":"VE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634211,
+    "gn:latitude":8.563,
+    "gn:longitude":-66.70173,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Los Curas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634211
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6d6955ff048bd00653ac62251cd144d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1327111087,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1327111087,
+    "wof:lastmodified":1536646532,
+    "wof:name":"Los Curas",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.70173,
+    8.563,
+    -66.70173,
+    8.563
+],
+  "geometry": {"coordinates":[-66.70173,8.563],"type":"Point"}
+}

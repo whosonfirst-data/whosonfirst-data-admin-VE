@@ -1,0 +1,66 @@
+{
+  "id": 1209616235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53333,7.86667,-68.53333,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":-68.53333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Jobal",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642939,
+    "gn:latitude":7.86667,
+    "gn:longitude":-68.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Jobal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Joval",
+        "El Jobal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642939
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"460565303e74c226b375f87d0d4827c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209616235
+        }
+    ],
+    "wof:id":1209616235,
+    "wof:lastmodified":1537713600,
+    "wof:name":"El Jobal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53333,
+    7.86667,
+    -68.53333,
+    7.86667
+],
+  "geometry": {"coordinates":[-68.53333000000001,7.86667],"type":"Point"}
+}

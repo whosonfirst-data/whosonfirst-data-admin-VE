@@ -1,0 +1,72 @@
+{
+  "id": 1276950547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.11667,10.36667,-66.11667,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-66.11667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Trinidad",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635096,
+    "gn:latitude":10.36667,
+    "gn:longitude":-66.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda La Trinidad",
+        "La Trinidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421188591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635096
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ebe7fafc74d1fa484395040a915457e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188591,
+            "locality_id":1276950547,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1276950547,
+    "wof:lastmodified":1537713555,
+    "wof:name":"La Trinidad",
+    "wof:parent_id":421188591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.11667,
+    10.36667,
+    -66.11667,
+    10.36667
+],
+  "geometry": {"coordinates":[-66.11667,10.36667],"type":"Point"}
+}

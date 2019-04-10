@@ -1,0 +1,67 @@
+{
+  "id": 1344229559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.01696,10.07902,-67.01696,10.07902",
+    "geom:latitude":10.07902,
+    "geom:longitude":-67.01696,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Las Dolores",
+    "gn:country_code":"VE",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636016,
+    "gn:latitude":10.07902,
+    "gn:longitude":-67.01696,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Las Dolores",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636016
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ef4d122b5f55533d3d024074c5c87918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1344229559,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1344229559,
+    "wof:lastmodified":1536630018,
+    "wof:name":"Las Dolores",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.01696,
+    10.07902,
+    -67.01696,
+    10.07902
+],
+  "geometry": {"coordinates":[-67.01696,10.07902],"type":"Point"}
+}

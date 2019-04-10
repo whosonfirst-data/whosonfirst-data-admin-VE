@@ -1,0 +1,72 @@
+{
+  "id": 1310161647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.54815,10.79358,-71.54815,10.79358",
+    "geom:latitude":10.79358,
+    "geom:longitude":-71.54815,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sabaneta de Palma",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628818,
+    "gn:latitude":10.79358,
+    "gn:longitude":-71.54815,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabaneta de Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabaneta de Palmas",
+        "Sabaneta",
+        "Sabaneta de Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628818
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bb66f504c08fbbabf108a2d8e44d5491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694193,
+            "locality_id":1310161647,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1310161647,
+    "wof:lastmodified":1537713522,
+    "wof:name":"Sabaneta de Palma",
+    "wof:parent_id":1108694193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.54815,
+    10.79358,
+    -71.54815,
+    10.79358
+],
+  "geometry": {"coordinates":[-71.54815000000001,10.79358],"type":"Point"}
+}

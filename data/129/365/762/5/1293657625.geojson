@@ -1,0 +1,67 @@
+{
+  "id": 1293657625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.66917,8.85778,-71.66917,8.85778",
+    "geom:latitude":8.85778,
+    "geom:longitude":-71.66917,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Punto Chama",
+    "gn:country_code":"VE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629578,
+    "gn:latitude":8.85778,
+    "gn:longitude":-71.66917,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Punto Chama",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629578
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b7f8b006b70f7d6249059a81da77512c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1293657625,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293657625,
+    "wof:lastmodified":1537037453,
+    "wof:name":"Punto Chama",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.66917,
+    8.85778,
+    -71.66917,
+    8.85778
+],
+  "geometry": {"coordinates":[-71.66916999999999,8.85778],"type":"Point"}
+}

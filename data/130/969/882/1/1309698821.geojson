@@ -1,0 +1,67 @@
+{
+  "id": 1309698821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87455,8.93219,-65.87455,8.93219",
+    "geom:latitude":8.93219,
+    "geom:longitude":-65.87455,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Banco Telesforo",
+    "gn:country_code":"VE",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648610,
+    "gn:latitude":8.93219,
+    "gn:longitude":-65.87455,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Banco Tel\u00e9sforo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648610
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"13fcfc4b16a165e9da559af989053b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694175,
+            "locality_id":1309698821,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1309698821,
+    "wof:lastmodified":1537082232,
+    "wof:name":"Banco Telesforo",
+    "wof:parent_id":1108694175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87455,
+    8.93219,
+    -65.87455,
+    8.93219
+],
+  "geometry": {"coordinates":[-65.87455,8.93219],"type":"Point"}
+}

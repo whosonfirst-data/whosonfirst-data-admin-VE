@@ -1,0 +1,85 @@
+{
+  "id": 1259460159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.52421,11.19601,-69.52421,11.19601",
+    "geom:latitude":11.19601,
+    "geom:longitude":-69.52421,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pueblo Nuevo de La Sierra",
+    "gn:country_code":"VE",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629765,
+    "gn:latitude":11.19601,
+    "gn:longitude":-69.52421,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pueblo Nuevo de La Sierra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pueblo Nuevo de La Sierra"
+    ],
+    "name:eng_x_variant":[
+        "La Sierra"
+    ],
+    "name:por_x_preferred":[
+        "Pueblo Nuevo de La Sierra"
+    ],
+    "name:por_x_variant":[
+        "La Sierra"
+    ],
+    "name:spa_x_preferred":[
+        "Pueblo Nuevo de La Sierra"
+    ],
+    "name:spa_x_variant":[
+        "La Sierra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421169951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629765
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8bb255978a23dc3cbe3813885ec44bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169951,
+            "locality_id":1259460159,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259460159,
+    "wof:lastmodified":1537560437,
+    "wof:name":"Pueblo Nuevo de La Sierra",
+    "wof:parent_id":421169951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.52421,
+    11.19601,
+    -69.52421,
+    11.19601
+],
+  "geometry": {"coordinates":[-69.52421,11.19601],"type":"Point"}
+}

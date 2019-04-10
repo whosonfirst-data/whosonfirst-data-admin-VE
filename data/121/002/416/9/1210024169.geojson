@@ -1,0 +1,67 @@
+{
+  "id": 1210024169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61667,9.16667,-64.61667,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":-64.61667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Rancho Grande",
+    "gn:country_code":"VE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629286,
+    "gn:latitude":9.16667,
+    "gn:longitude":-64.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Rancho Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629286
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"834dae50b85341502ab081a185ed626b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694409,
+            "locality_id":1210024169,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1210024169,
+    "wof:lastmodified":1536391496,
+    "wof:name":"Rancho Grande",
+    "wof:parent_id":1108694409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61667,
+    9.16667,
+    -64.61667,
+    9.16667
+],
+  "geometry": {"coordinates":[-64.61667,9.16667],"type":"Point"}
+}

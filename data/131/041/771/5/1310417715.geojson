@@ -1,0 +1,67 @@
+{
+  "id": 1310417715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81655,9.42356,-64.81655,9.42356",
+    "geom:latitude":9.42356,
+    "geom:longitude":-64.81655,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ventorrillo",
+    "gn:country_code":"VE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625425,
+    "gn:latitude":9.42356,
+    "gn:longitude":-64.81655,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"Ventorrillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625425
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8f4c4ac660b56032d4536fda52295e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1310417715,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310417715,
+    "wof:lastmodified":1537041869,
+    "wof:name":"Ventorrillo",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81655,
+    9.42356,
+    -64.81655,
+    9.42356
+],
+  "geometry": {"coordinates":[-64.81655000000001,9.42356],"type":"Point"}
+}

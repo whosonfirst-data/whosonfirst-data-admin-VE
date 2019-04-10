@@ -1,0 +1,67 @@
+{
+  "id": 1360269037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20752,10.35631,-69.20752,10.35631",
+    "geom:latitude":10.35631,
+    "geom:longitude":-69.20752,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Guamal",
+    "gn:country_code":"VE",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746692,
+    "gn:latitude":10.35631,
+    "gn:longitude":-69.20752,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"El Guamal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746692
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"877c56a93a7ff65869a1c064a760983d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694163,
+            "locality_id":1360269037,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1360269037,
+    "wof:lastmodified":1536680300,
+    "wof:name":"El Guamal",
+    "wof:parent_id":1108694163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20752,
+    10.35631,
+    -69.20752,
+    10.35631
+],
+  "geometry": {"coordinates":[-69.20752,10.35631],"type":"Point"}
+}

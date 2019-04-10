@@ -1,0 +1,65 @@
+{
+  "id": 1209386055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.34966,10.18981,-69.34966,10.18981",
+    "geom:latitude":10.18981,
+    "geom:longitude":-69.34966,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Uribana",
+    "gn:country_code":"VE",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631315,
+    "gn:latitude":10.18981,
+    "gn:longitude":-69.34966,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uribana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oribana",
+        "Uribana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631315
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"77654023883f9e99d2b921c23e1a4b65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209386055
+        }
+    ],
+    "wof:id":1209386055,
+    "wof:lastmodified":1537713535,
+    "wof:name":"Uribana",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.34966,
+    10.18981,
+    -69.34966,
+    10.18981
+],
+  "geometry": {"coordinates":[-69.34966,10.18981],"type":"Point"}
+}

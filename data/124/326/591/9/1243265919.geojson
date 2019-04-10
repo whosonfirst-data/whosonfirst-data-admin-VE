@@ -1,0 +1,67 @@
+{
+  "id": 1243265919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.99471,9.79809,-63.99471,9.79809",
+    "geom:latitude":9.79809,
+    "geom:longitude":-63.99471,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Tuntun",
+    "gn:country_code":"VE",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641183,
+    "gn:latitude":9.79809,
+    "gn:longitude":-63.99471,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Tunt\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641183
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ec17f20a65e2fd52ffe1b53c2b79b5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1243265919,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1243265919,
+    "wof:lastmodified":1537062978,
+    "wof:name":"El Tuntun",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.99471,
+    9.79809,
+    -63.99471,
+    9.79809
+],
+  "geometry": {"coordinates":[-63.99471,9.79809],"type":"Point"}
+}

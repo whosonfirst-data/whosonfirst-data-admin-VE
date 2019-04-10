@@ -1,0 +1,67 @@
+{
+  "id": 1293805275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.52742,7.56445,-65.52742,7.56445",
+    "geom:latitude":7.56445,
+    "geom:longitude":-65.52742,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Inaria",
+    "gn:country_code":"VE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3808177,
+    "gn:latitude":7.56445,
+    "gn:longitude":-65.52742,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Inaria",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3808177
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7cb74a088f7b0bb902c291937081be38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1293805275,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293805275,
+    "wof:lastmodified":1536825147,
+    "wof:name":"Inaria",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.52741999999999,
+    7.56445,
+    -65.52741999999999,
+    7.56445
+],
+  "geometry": {"coordinates":[-65.52741999999999,7.56445],"type":"Point"}
+}

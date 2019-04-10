@@ -1,0 +1,67 @@
+{
+  "id": 1210014565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63503,8.30366,-69.63503,8.30366",
+    "geom:latitude":8.30366,
+    "geom:longitude":-69.63503,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Boca de Rojas",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648172,
+    "gn:latitude":8.30366,
+    "gn:longitude":-69.63503,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Boca de Rojas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648172
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b751c1e68f6872460e5282fae3b42f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1210014565,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1210014565,
+    "wof:lastmodified":1536395680,
+    "wof:name":"Boca de Rojas",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63503,
+    8.30366,
+    -69.63503,
+    8.30366
+],
+  "geometry": {"coordinates":[-69.63503,8.30366],"type":"Point"}
+}

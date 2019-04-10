@@ -1,0 +1,67 @@
+{
+  "id": 1343845363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.8435,10.97495,-69.8435,10.97495",
+    "geom:latitude":10.97495,
+    "geom:longitude":-69.8435,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bocaina",
+    "gn:country_code":"VE",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648158,
+    "gn:latitude":10.97495,
+    "gn:longitude":-69.8435,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"Bocaina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648158
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6ce66df8de4cb25ccde792efe0af8df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694435,
+            "locality_id":1343845363,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343845363,
+    "wof:lastmodified":1536688486,
+    "wof:name":"Bocaina",
+    "wof:parent_id":1108694435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.8435,
+    10.97495,
+    -69.8435,
+    10.97495
+],
+  "geometry": {"coordinates":[-69.84350000000001,10.97495],"type":"Point"}
+}

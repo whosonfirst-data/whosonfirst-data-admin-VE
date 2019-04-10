@@ -1,0 +1,67 @@
+{
+  "id": 1242776011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.28389,8.42389,-68.28389,8.42389",
+    "geom:latitude":8.42389,
+    "geom:longitude":-68.28389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vueltas de San Joaquin",
+    "gn:country_code":"VE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486370,
+    "gn:latitude":8.42389,
+    "gn:longitude":-68.28389,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Vueltas de San Joaquin",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486370
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b63590bd946cc639081d9151fc011065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1242776011,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1242776011,
+    "wof:lastmodified":1536778422,
+    "wof:name":"Vueltas de San Joaquin",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.28389,
+    8.42389,
+    -68.28389,
+    8.42389
+],
+  "geometry": {"coordinates":[-68.28389,8.42389],"type":"Point"}
+}

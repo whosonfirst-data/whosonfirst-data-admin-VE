@@ -1,0 +1,67 @@
+{
+  "id": 1344068801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.00412,9.7457,-64.00412,9.7457",
+    "geom:latitude":9.7457,
+    "geom:longitude":-64.00412,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Guarico",
+    "gn:country_code":"VE",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755113,
+    "gn:latitude":9.7457,
+    "gn:longitude":-64.00412,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Guarico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755113
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cbba69efa38dad04ac89831a32001dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1344068801,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344068801,
+    "wof:lastmodified":1536862098,
+    "wof:name":"El Guarico",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.00412,
+    9.7457,
+    -64.00412,
+    9.7457
+],
+  "geometry": {"coordinates":[-64.00412,9.7457],"type":"Point"}
+}

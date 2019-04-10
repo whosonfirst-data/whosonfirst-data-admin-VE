@@ -1,0 +1,67 @@
+{
+  "id": 1276300403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.62876,10.53271,-71.62876,10.53271",
+    "geom:latitude":10.53271,
+    "geom:longitude":-71.62876,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bajo Chiquito",
+    "gn:country_code":"VE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648674,
+    "gn:latitude":10.53271,
+    "gn:longitude":-71.62876,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bajo Chiquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648674
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"90451aa07224a09e8c6f6bcbdb9c463b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694391,
+            "locality_id":1276300403,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276300403,
+    "wof:lastmodified":1536822104,
+    "wof:name":"Bajo Chiquito",
+    "wof:parent_id":1108694391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.62876,
+    10.53271,
+    -71.62876,
+    10.53271
+],
+  "geometry": {"coordinates":[-71.62876,10.53271],"type":"Point"}
+}

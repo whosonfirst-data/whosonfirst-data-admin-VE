@@ -1,0 +1,67 @@
+{
+  "id": 1243331921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23333,10.8,-72.23333,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":-72.23333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Cienaga",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638449,
+    "gn:latitude":10.8,
+    "gn:longitude":-72.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Ci\u00e9naga",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638449
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2f136e240927580a6943430da5be4a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1243331921,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243331921,
+    "wof:lastmodified":1536970465,
+    "wof:name":"La Cienaga",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23333000000002,
+    10.8,
+    -72.23333000000002,
+    10.8
+],
+  "geometry": {"coordinates":[-72.23333000000002,10.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225965685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.81667,5.4,-61.81667,5.4",
+    "geom:latitude":5.4,
+    "geom:longitude":-61.81667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ruman",
+    "gn:country_code":"VE",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628942,
+    "gn:latitude":5.4,
+    "gn:longitude":-61.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Rum\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628942
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c294adb496d529851e15d15774fba589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1225965685,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1225965685,
+    "wof:lastmodified":1536839545,
+    "wof:name":"Ruman",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.81667,
+    5.4,
+    -61.81667,
+    5.4
+],
+  "geometry": {"coordinates":[-61.81667,5.4],"type":"Point"}
+}

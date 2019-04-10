@@ -1,0 +1,67 @@
+{
+  "id": 1309698825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.08056,8.51,-67.08056,8.51",
+    "geom:latitude":8.51,
+    "geom:longitude":-67.08056,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Los Dragos",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3772725,
+    "gn:latitude":8.51,
+    "gn:longitude":-67.08056,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Los Dragos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772725
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a43e73388a035abadd3050223d3906bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1309698825,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1309698825,
+    "wof:lastmodified":1537082226,
+    "wof:name":"Los Dragos",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.08055999999999,
+    8.51,
+    -67.08055999999999,
+    8.51
+],
+  "geometry": {"coordinates":[-67.08055999999999,8.51],"type":"Point"}
+}

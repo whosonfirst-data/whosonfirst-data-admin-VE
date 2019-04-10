@@ -1,0 +1,67 @@
+{
+  "id": 1310708211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.08034,7.60045,-67.08034,7.60045",
+    "geom:latitude":7.60045,
+    "geom:longitude":-67.08034,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Eduardo",
+    "gn:country_code":"VE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765525,
+    "gn:latitude":7.60045,
+    "gn:longitude":-67.08034,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"San Eduardo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765525
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"77c37ef32d3556c6cc86a8369c6d1836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1310708211,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1310708211,
+    "wof:lastmodified":1536622377,
+    "wof:name":"San Eduardo",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.08034,
+    7.60045,
+    -67.08034,
+    7.60045
+],
+  "geometry": {"coordinates":[-67.08034000000001,7.60045],"type":"Point"}
+}

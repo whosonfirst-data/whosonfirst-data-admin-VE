@@ -1,0 +1,67 @@
+{
+  "id": 1260254125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.19317,10.0362,-63.19317,10.0362",
+    "geom:latitude":10.0362,
+    "geom:longitude":-63.19317,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Diecinueve",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638139,
+    "gn:latitude":10.0362,
+    "gn:longitude":-63.19317,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Diecinueve",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638139
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"769ecf1d7b0888eece3d2c573ead90e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694357,
+            "locality_id":1260254125,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1260254125,
+    "wof:lastmodified":1536751620,
+    "wof:name":"La Diecinueve",
+    "wof:parent_id":1108694357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.19317,
+    10.0362,
+    -63.19317,
+    10.0362
+],
+  "geometry": {"coordinates":[-63.19317,10.0362],"type":"Point"}
+}

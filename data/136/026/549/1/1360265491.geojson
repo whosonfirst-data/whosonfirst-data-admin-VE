@@ -1,0 +1,67 @@
+{
+  "id": 1360265491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.83118,11.97474,-69.83118,11.97474",
+    "geom:latitude":11.97474,
+    "geom:longitude":-69.83118,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pedregalito",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630463,
+    "gn:latitude":11.97474,
+    "gn:longitude":-69.83118,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Pedregalito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630463
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2cf12f17f55592112df63f1fb63b5b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1360265491,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1360265491,
+    "wof:lastmodified":1536685439,
+    "wof:name":"Pedregalito",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.83118,
+    11.97474,
+    -69.83118,
+    11.97474
+],
+  "geometry": {"coordinates":[-69.83118,11.97474],"type":"Point"}
+}

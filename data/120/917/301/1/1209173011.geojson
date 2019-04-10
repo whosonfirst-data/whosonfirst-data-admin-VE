@@ -1,0 +1,66 @@
+{
+  "id": 1209173011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25698,8.11486,-72.25698,8.11486",
+    "geom:latitude":8.11486,
+    "geom:longitude":-72.25698,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"San Felix",
+    "gn:country_code":"VE",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628411,
+    "gn:latitude":8.11486,
+    "gn:longitude":-72.25698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San F\u00e9lix",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tachira",
+        "El T\u00e1chira",
+        "San F\u00e9lix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628411
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1150730dca00c1a9925aeee6304c8cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209173011
+        }
+    ],
+    "wof:id":1209173011,
+    "wof:lastmodified":1537713520,
+    "wof:name":"San Felix",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25698,
+    8.11486,
+    -72.25698,
+    8.11486
+],
+  "geometry": {"coordinates":[-72.25698,8.11486],"type":"Point"}
+}

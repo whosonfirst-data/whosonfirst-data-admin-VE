@@ -1,0 +1,67 @@
+{
+  "id": 1276770809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.95631,8.11048,-64.95631,8.11048",
+    "geom:latitude":8.11048,
+    "geom:longitude":-64.95631,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Francia",
+    "gn:country_code":"VE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485469,
+    "gn:latitude":8.11048,
+    "gn:longitude":-64.95631,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"La Francia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485469
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2e43c2c8b63351528a1f4e335128c608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1276770809,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276770809,
+    "wof:lastmodified":1536689758,
+    "wof:name":"La Francia",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.95631,
+    8.11048,
+    -64.95631,
+    8.11048
+],
+  "geometry": {"coordinates":[-64.95631,8.11048],"type":"Point"}
+}

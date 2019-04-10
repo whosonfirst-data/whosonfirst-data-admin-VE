@@ -1,0 +1,67 @@
+{
+  "id": 1327089163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.92158,10.45893,-66.92158,10.45893",
+    "geom:latitude":10.45893,
+    "geom:longitude":-66.92158,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Los Jardines",
+    "gn:country_code":"VE",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634057,
+    "gn:latitude":10.45893,
+    "gn:longitude":-66.92158,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Los Jardines",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680535,
+        1108694107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634057
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2e992820403c53875c91e14db56cd753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694107,
+            "locality_id":1327089163,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":1327089163,
+    "wof:lastmodified":1536678697,
+    "wof:name":"Los Jardines",
+    "wof:parent_id":1108694107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.92158,
+    10.45893,
+    -66.92158,
+    10.45893
+],
+  "geometry": {"coordinates":[-66.92158000000001,10.45893],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 102558607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.984722,10.574443,-62.984722,10.574443",
+    "geom:latitude":10.574443,
+    "geom:longitude":-62.984722,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gale\u00e3o"
+    ],
+    "name:fra_x_preferred":[
+        "Gale\u00e3o"
+    ],
+    "name:ita_x_preferred":[
+        "Gale\u00e3o"
+    ],
+    "name:por_x_preferred":[
+        "Gale\u00e3o"
+    ],
+    "name:swe_x_preferred":[
+        "Gale\u00e3o"
+    ],
+    "oa:elevation_ft":"33",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804689,
+        "localadmin_id":26805037,
+        "planet_id":1,
+        "state_id":2347695
+    },
+    "wof:belongsto":[
+        85632317,
+        85680561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522836,
+        "icao:code":"SVRA",
+        "oa:id":"6318",
+        "wd:id":"Q20450838"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"54914c30b3341494eb4494f13067af26",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558607,
+            "country_id":85632317,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":102558607,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Rio de Agua Airport",
+    "wof:parent_id":85680561,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.984722,
+    10.574443,
+    -62.984722,
+    10.574443
+],
+  "geometry": {"coordinates":[-62.984722,10.574443],"type":"Point"}
+}

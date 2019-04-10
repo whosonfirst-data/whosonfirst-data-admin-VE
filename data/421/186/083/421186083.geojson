@@ -1,0 +1,100 @@
+{
+  "id": 421186083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.948898,10.263099,-67.948898,10.263099",
+    "geom:latitude":10.263099,
+    "geom:longitude":-67.948898,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u8fed\u6208"
+    ],
+    "name:dut_x_preferred":[
+        "San Diego"
+    ],
+    "name:eng_x_preferred":[
+        "San Diego"
+    ],
+    "name:fre_x_preferred":[
+        "San Diego"
+    ],
+    "name:ger_x_preferred":[
+        "San Diego"
+    ],
+    "name:ita_x_preferred":[
+        "San Diego"
+    ],
+    "name:spa_x_preferred":[
+        "San Diego"
+    ],
+    "name:vie_x_preferred":[
+        "San Diego"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Diego",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Carabobo",
+    "qs:photos":152,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":152,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1059211,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468334,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421180477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468334,
+        "qs:id":1059211,
+        "wd:id":"Q1018781"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009464,
+    "wof:geomhash":"e76a4e66b9c6e1c3ad31605e7e9771f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180477,
+            "locality_id":421186083,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":421186083,
+    "wof:lastmodified":1514502422,
+    "wof:name":"San Diego",
+    "wof:parent_id":421180477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.948898,
+    10.263099,
+    -67.948898,
+    10.263099
+],
+  "geometry": {"coordinates":[-67.948898,10.263099],"type":"Point"}
+}

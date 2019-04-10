@@ -1,0 +1,67 @@
+{
+  "id": 1242937583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98333,7.86333,-71.98333,7.86333",
+    "geom:latitude":7.86333,
+    "geom:longitude":-71.98333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mesa de Leon",
+    "gn:country_code":"VE",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795295,
+    "gn:latitude":7.86333,
+    "gn:longitude":-71.98333,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"Mesa de Le\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795295
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b443bacbb64116dafc25285b4f86c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694445,
+            "locality_id":1242937583,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1242937583,
+    "wof:lastmodified":1537040616,
+    "wof:name":"Mesa de Leon",
+    "wof:parent_id":1108694445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98333000000002,
+    7.86333,
+    -71.98333000000002,
+    7.86333
+],
+  "geometry": {"coordinates":[-71.98333000000002,7.86333],"type":"Point"}
+}

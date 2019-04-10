@@ -1,0 +1,67 @@
+{
+  "id": 1276856977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.09867,9.99504,-68.09867,9.99504",
+    "geom:latitude":9.99504,
+    "geom:longitude":-68.09867,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Perro Seco",
+    "gn:country_code":"VE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630323,
+    "gn:latitude":9.99504,
+    "gn:longitude":-68.09867,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Perro Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630323
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"949666bdec238eff8622a95db1d6b959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694251,
+            "locality_id":1276856977,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1276856977,
+    "wof:lastmodified":1537068799,
+    "wof:name":"Perro Seco",
+    "wof:parent_id":1108694251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.09867,
+    9.99504,
+    -68.09867,
+    9.99504
+],
+  "geometry": {"coordinates":[-68.09867,9.99504],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209025391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.9,9.68333,-68.9,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":-68.9,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Las Animas",
+    "gn:country_code":"VE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636310,
+    "gn:latitude":9.68333,
+    "gn:longitude":-68.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las \u00c1nimas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636310
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5154fb237aef71c45ca6230c6dd9da75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209025391
+        }
+    ],
+    "wof:id":1209025391,
+    "wof:lastmodified":1536300015,
+    "wof:name":"Las Animas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.9,
+    9.68333,
+    -68.9,
+    9.68333
+],
+  "geometry": {"coordinates":[-68.90000000000001,9.68333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225810911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.53638,9.52034,-69.53638,9.52034",
+    "geom:latitude":9.52034,
+    "geom:longitude":-69.53638,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Guache de Garabote",
+    "gn:country_code":"VE",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798151,
+    "gn:latitude":9.52034,
+    "gn:longitude":-69.53638,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guache de Garabote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guache de Garabote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798151
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3511ee493e972c68ea2c3563bc6db483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694321,
+            "locality_id":1225810911,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1225810911,
+    "wof:lastmodified":1537713643,
+    "wof:name":"Guache de Garabote",
+    "wof:parent_id":1108694321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.53638000000001,
+    9.52034,
+    -69.53638000000001,
+    9.52034
+],
+  "geometry": {"coordinates":[-69.53638000000001,9.52034],"type":"Point"}
+}

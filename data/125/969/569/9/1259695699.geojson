@@ -1,0 +1,67 @@
+{
+  "id": 1259695699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.64158,8.34161,-64.64158,8.34161",
+    "geom:latitude":8.34161,
+    "geom:longitude":-64.64158,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Boca",
+    "gn:country_code":"VE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638813,
+    "gn:latitude":8.34161,
+    "gn:longitude":-64.64158,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Boca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638813
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ab7f8743bf2179fb81385dfa99f3a037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1259695699,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259695699,
+    "wof:lastmodified":1537047382,
+    "wof:name":"La Boca",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.64158,
+    8.34161,
+    -64.64158,
+    8.34161
+],
+  "geometry": {"coordinates":[-64.64158,8.34161],"type":"Point"}
+}

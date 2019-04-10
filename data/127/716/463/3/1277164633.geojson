@@ -1,0 +1,67 @@
+{
+  "id": 1277164633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.56321,10.75789,-70.56321,10.75789",
+    "geom:latitude":10.75789,
+    "geom:longitude":-70.56321,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Raimundo",
+    "gn:country_code":"VE",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629311,
+    "gn:latitude":10.75789,
+    "gn:longitude":-70.56321,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Raimundo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629311
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"627b82bf3e505b2742d5f346d7d94857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694165,
+            "locality_id":1277164633,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1277164633,
+    "wof:lastmodified":1536649389,
+    "wof:name":"Raimundo",
+    "wof:parent_id":1108694165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.56321,
+    10.75789,
+    -70.56321,
+    10.75789
+],
+  "geometry": {"coordinates":[-70.56321,10.75789],"type":"Point"}
+}

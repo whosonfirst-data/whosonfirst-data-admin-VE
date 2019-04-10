@@ -1,0 +1,67 @@
+{
+  "id": 1242657883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74451,11.00978,-70.74451,11.00978",
+    "geom:latitude":11.00978,
+    "geom:longitude":-70.74451,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Agua Chiquita",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785459,
+    "gn:latitude":11.00978,
+    "gn:longitude":-70.74451,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Agua Chiquita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785459
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c4c83d638f63d902a66f0baa10c97939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1242657883,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1242657883,
+    "wof:lastmodified":1536948553,
+    "wof:name":"Agua Chiquita",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74450999999998,
+    11.00978,
+    -70.74450999999998,
+    11.00978
+],
+  "geometry": {"coordinates":[-70.74450999999998,11.00978],"type":"Point"}
+}

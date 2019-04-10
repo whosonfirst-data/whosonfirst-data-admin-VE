@@ -1,0 +1,89 @@
+{
+  "id": 421168327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18832,8.4426,-71.18832,8.4426",
+    "geom:latitude":8.4426,
+    "geom:longitude":-71.18832,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Morro"
+    ],
+    "name:deu_x_preferred":[
+        "El Morro"
+    ],
+    "name:fra_x_preferred":[
+        "El Morro"
+    ],
+    "name:spa_x_preferred":[
+        "El Morro"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3642506,
+    "qs:gn_pop":0,
+    "qs:name":"El Morro",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165411,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395483,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":164,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642506,
+        "gp:id":395483,
+        "qs:id":1165411
+    },
+    "wof:country":"VE",
+    "wof:created":1459008761,
+    "wof:geomhash":"b27d7c3edc8f0582a65004a77a4ff944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":421168327,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421168327,
+    "wof:lastmodified":1527716099,
+    "wof:name":"El Morro",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18832,
+    8.4426,
+    -71.18832,
+    8.4426
+],
+  "geometry": {"coordinates":[-71.18832,8.4426],"type":"Point"}
+}

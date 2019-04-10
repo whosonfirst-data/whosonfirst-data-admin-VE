@@ -1,0 +1,67 @@
+{
+  "id": 1276969247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4,9.9,-68.4,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":-68.4,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taracha",
+    "gn:country_code":"VE",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626418,
+    "gn:latitude":9.9,
+    "gn:longitude":-68.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Taracha",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626418
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7f35cdb226f434ebfe83ec9865fa5a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "locality_id":1276969247,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1276969247,
+    "wof:lastmodified":1536922193,
+    "wof:name":"Taracha",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.4,
+    9.9,
+    -68.4,
+    9.9
+],
+  "geometry": {"coordinates":[-68.40000000000001,9.9],"type":"Point"}
+}

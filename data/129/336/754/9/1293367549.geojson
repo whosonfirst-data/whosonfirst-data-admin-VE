@@ -1,0 +1,72 @@
+{
+  "id": 1293367549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.27776,10.81953,-69.27776,10.81953",
+    "geom:latitude":10.81953,
+    "geom:longitude":-69.27776,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1123",
+    "gn:asciiname":"Santa Cruz de Bucaral",
+    "gn:country_code":"VE",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3627423,
+    "gn:latitude":10.81953,
+    "gn:longitude":-69.27776,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Santa Cruz de Bucaral",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Cruz",
+        "Santa Cruz de Bucaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627423
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"99e3dcdc8e837c2040d5452bbfb1825a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694463,
+            "locality_id":1293367549,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293367549,
+    "wof:lastmodified":1537713516,
+    "wof:name":"Santa Cruz de Bucaral",
+    "wof:parent_id":1108694463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.27776,
+    10.81953,
+    -69.27776,
+    10.81953
+],
+  "geometry": {"coordinates":[-69.27776,10.81953],"type":"Point"}
+}

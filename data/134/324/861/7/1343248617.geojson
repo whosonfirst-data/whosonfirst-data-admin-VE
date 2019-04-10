@@ -1,0 +1,67 @@
+{
+  "id": 1343248617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.18127,8.95133,-66.18127,8.95133",
+    "geom:latitude":8.95133,
+    "geom:longitude":-66.18127,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Dormida",
+    "gn:country_code":"VE",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3772706,
+    "gn:latitude":8.95133,
+    "gn:longitude":-66.18127,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Dormida",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772706
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"547b5bb9a2d00cb35b145ad24ac44955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1343248617,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343248617,
+    "wof:lastmodified":1537049975,
+    "wof:name":"La Dormida",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.18127,
+    8.95133,
+    -66.18127,
+    8.95133
+],
+  "geometry": {"coordinates":[-66.18127,8.95133],"type":"Point"}
+}

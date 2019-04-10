@@ -1,0 +1,63 @@
+{
+  "id": 1260243579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.15306,10.642,-62.15306,10.642",
+    "geom:latitude":10.642,
+    "geom:longitude":-62.15306,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Mapire",
+    "gn:country_code":"VE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745158,
+    "gn:latitude":10.642,
+    "gn:longitude":-62.15306,
+    "gn:modification_date":"1995-10-13",
+    "gn:name":"Mapire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745158
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e650cd814874fc87a2fadd3f9f52872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1260243579,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260243579,
+    "wof:lastmodified":1536766489,
+    "wof:name":"Mapire",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.15306,
+    10.642,
+    -62.15306,
+    10.642
+],
+  "geometry": {"coordinates":[-62.15306,10.642],"type":"Point"}
+}

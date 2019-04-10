@@ -1,0 +1,67 @@
+{
+  "id": 1193123759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86353,9.19257,-65.86353,9.19257",
+    "geom:latitude":9.19257,
+    "geom:longitude":-65.86353,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Florida",
+    "gn:country_code":"VE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3772782,
+    "gn:latitude":9.19257,
+    "gn:longitude":-65.86353,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"La Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772782
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f3ed74082436c5a336e2657c33af1dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694365,
+            "locality_id":1193123759,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1193123759,
+    "wof:lastmodified":1536383167,
+    "wof:name":"La Florida",
+    "wof:parent_id":1108694365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86353000000001,
+    9.19257,
+    -65.86353000000001,
+    9.19257
+],
+  "geometry": {"coordinates":[-65.86353000000001,9.19257],"type":"Point"}
+}

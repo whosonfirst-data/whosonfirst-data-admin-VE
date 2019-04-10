@@ -1,0 +1,67 @@
+{
+  "id": 1293001631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06258,7.51899,-70.06258,7.51899",
+    "geom:latitude":7.51899,
+    "geom:longitude":-70.06258,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mata Cubarritos",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805130,
+    "gn:latitude":7.51899,
+    "gn:longitude":-70.06258,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Mata Cubarritos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805130
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e8eec88ad4458b0983efe07a9bb9eb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1293001631,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293001631,
+    "wof:lastmodified":1536989614,
+    "wof:name":"Mata Cubarritos",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06258000000001,
+    7.51899,
+    -70.06258000000001,
+    7.51899
+],
+  "geometry": {"coordinates":[-70.06258000000001,7.51899],"type":"Point"}
+}

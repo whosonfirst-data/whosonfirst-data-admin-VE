@@ -1,0 +1,67 @@
+{
+  "id": 1326988133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.89976,9.89153,-70.89976,9.89153",
+    "geom:latitude":9.89153,
+    "geom:longitude":-70.89976,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Barquis",
+    "gn:country_code":"VE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648523,
+    "gn:latitude":9.89153,
+    "gn:longitude":-70.89976,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Barqu\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648523
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8668f772e99caaf21a3d3afece334af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694109,
+            "locality_id":1326988133,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326988133,
+    "wof:lastmodified":1536823593,
+    "wof:name":"Barquis",
+    "wof:parent_id":1108694109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.89976,
+    9.89153,
+    -70.89976,
+    9.89153
+],
+  "geometry": {"coordinates":[-70.89976,9.89153],"type":"Point"}
+}

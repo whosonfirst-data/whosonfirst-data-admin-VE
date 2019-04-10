@@ -1,0 +1,71 @@
+{
+  "id": 1293560173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25502,10.1452,-69.25502,10.1452",
+    "geom:latitude":10.1452,
+    "geom:longitude":-69.25502,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pedreman",
+    "gn:country_code":"VE",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630491,
+    "gn:latitude":10.1452,
+    "gn:longitude":-69.25502,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pedrem\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pederman",
+        "Pedrem\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630491
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b2bb14559996c892f5442fd0276dbd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1293560173,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1293560173,
+    "wof:lastmodified":1537713530,
+    "wof:name":"Pedreman",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25502,
+    10.1452,
+    -69.25502,
+    10.1452
+],
+  "geometry": {"coordinates":[-69.25502,10.1452],"type":"Point"}
+}

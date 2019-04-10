@@ -1,0 +1,67 @@
+{
+  "id": 1276235841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.91667,9.66667,-64.91667,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":-64.91667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Mango",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642707,
+    "gn:latitude":9.66667,
+    "gn:longitude":-64.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Mango",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642707
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ddac090a830d9b4f3d4dea7c4db1b44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1276235841,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276235841,
+    "wof:lastmodified":1536909547,
+    "wof:name":"El Mango",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.91667,
+    9.66667,
+    -64.91667,
+    9.66667
+],
+  "geometry": {"coordinates":[-64.91667,9.66667],"type":"Point"}
+}

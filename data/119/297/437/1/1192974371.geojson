@@ -1,0 +1,67 @@
+{
+  "id": 1192974371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10489,10.92012,-72.10489,10.92012",
+    "geom:latitude":10.92012,
+    "geom:longitude":-72.10489,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"La Cazadora",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3788580,
+    "gn:latitude":10.92012,
+    "gn:longitude":-72.10489,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"La Cazadora",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788580
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"025beb9dda73a63f8123b357e9cda0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1192974371,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1192974371,
+    "wof:lastmodified":1536374898,
+    "wof:name":"La Cazadora",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10489,
+    10.92012,
+    -72.10489,
+    10.92012
+],
+  "geometry": {"coordinates":[-72.10489,10.92012],"type":"Point"}
+}

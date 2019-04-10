@@ -1,0 +1,67 @@
+{
+  "id": 1326614711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.32448,9.89158,-68.32448,9.89158",
+    "geom:latitude":9.89158,
+    "geom:longitude":-68.32448,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Los Apamates",
+    "gn:country_code":"VE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634564,
+    "gn:latitude":9.89158,
+    "gn:longitude":-68.32448,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Los Apamates",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634564
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4e650b4b6a34a2f961ad991710347797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "locality_id":1326614711,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1326614711,
+    "wof:lastmodified":1536863812,
+    "wof:name":"Los Apamates",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.32448000000001,
+    9.89158,
+    -68.32448000000001,
+    9.89158
+],
+  "geometry": {"coordinates":[-68.32448000000001,9.89158],"type":"Point"}
+}

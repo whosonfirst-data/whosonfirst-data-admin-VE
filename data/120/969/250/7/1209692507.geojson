@@ -1,0 +1,65 @@
+{
+  "id": 1209692507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.36546,8.83722,-66.36546,8.83722",
+    "geom:latitude":8.83722,
+    "geom:longitude":-66.36546,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Casitas",
+    "gn:country_code":"VE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646288,
+    "gn:latitude":8.83722,
+    "gn:longitude":-66.36546,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Casitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casita",
+        "Casitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646288
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"09df9f48f2675bdb63fabaa95d57dc01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209692507
+        }
+    ],
+    "wof:id":1209692507,
+    "wof:lastmodified":1537713620,
+    "wof:name":"Casitas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.36546,
+    8.83722,
+    -66.36546,
+    8.83722
+],
+  "geometry": {"coordinates":[-66.36546,8.83722],"type":"Point"}
+}

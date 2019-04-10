@@ -1,0 +1,67 @@
+{
+  "id": 1276618523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7092,7.8944,-71.7092,7.8944",
+    "geom:latitude":7.8944,
+    "geom:longitude":-71.7092,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Doradas",
+    "gn:country_code":"VE",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3739094,
+    "gn:latitude":7.8944,
+    "gn:longitude":-71.7092,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Doradas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739094
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"824041c03d95453f7fcb432298e2fc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183171,
+            "locality_id":1276618523,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276618523,
+    "wof:lastmodified":1536893738,
+    "wof:name":"Doradas",
+    "wof:parent_id":421183171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7092,
+    7.8944,
+    -71.7092,
+    7.8944
+],
+  "geometry": {"coordinates":[-71.7092,7.8944],"type":"Point"}
+}

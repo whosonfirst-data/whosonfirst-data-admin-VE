@@ -1,0 +1,67 @@
+{
+  "id": 1293511207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.17641,7.59088,-66.17641,7.59088",
+    "geom:latitude":7.59088,
+    "geom:longitude":-66.17641,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pan de Azucar",
+    "gn:country_code":"VE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3747895,
+    "gn:latitude":7.59088,
+    "gn:longitude":-66.17641,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Pan de Az\u00facar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3747895
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a65b1ded4bef765b13358daee73bd6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1293511207,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293511207,
+    "wof:lastmodified":1536752867,
+    "wof:name":"Pan de Azucar",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.17641,
+    7.59088,
+    -66.17641,
+    7.59088
+],
+  "geometry": {"coordinates":[-66.17641,7.59088],"type":"Point"}
+}

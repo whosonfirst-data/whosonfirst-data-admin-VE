@@ -1,0 +1,67 @@
+{
+  "id": 1226115667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.777,8.15517,-71.777,8.15517",
+    "geom:latitude":8.15517,
+    "geom:longitude":-71.777,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mesa Grande",
+    "gn:country_code":"VE",
+    "gn:dem":1966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3799284,
+    "gn:latitude":8.15517,
+    "gn:longitude":-71.777,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Mesa Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421196155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799284
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b8099b705d48e01a1f248ca0f4aa3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196155,
+            "locality_id":1226115667,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1226115667,
+    "wof:lastmodified":1536622237,
+    "wof:name":"Mesa Grande",
+    "wof:parent_id":421196155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.777,
+    8.15517,
+    -71.777,
+    8.15517
+],
+  "geometry": {"coordinates":[-71.777,8.15517],"type":"Point"}
+}

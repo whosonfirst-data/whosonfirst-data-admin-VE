@@ -1,0 +1,67 @@
+{
+  "id": 1226311915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.57365,9.35539,-70.57365,9.35539",
+    "geom:latitude":9.35539,
+    "geom:longitude":-70.57365,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Cubita",
+    "gn:country_code":"VE",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3482567,
+    "gn:latitude":9.35539,
+    "gn:longitude":-70.57365,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Cubita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482567
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"70ab4784e579da51a260890711a5dc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694401,
+            "locality_id":1226311915,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1226311915,
+    "wof:lastmodified":1536837378,
+    "wof:name":"Cubita",
+    "wof:parent_id":1108694401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.57365,
+    9.35539,
+    -70.57365,
+    9.35539
+],
+  "geometry": {"coordinates":[-70.57365,9.35539],"type":"Point"}
+}

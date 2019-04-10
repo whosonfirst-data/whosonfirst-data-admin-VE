@@ -1,0 +1,71 @@
+{
+  "id": 1343725737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.48891,8.76779,-62.48891,8.76779",
+    "geom:latitude":8.76779,
+    "geom:longitude":-62.48891,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Barrancos",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634511,
+    "gn:latitude":8.76779,
+    "gn:longitude":-62.48891,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Barrancos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Barrancos de Fajardo",
+        "Los Barrancos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634511
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"82c3aa2d86e3677e82fee6576c407af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694431,
+            "locality_id":1343725737,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1343725737,
+    "wof:lastmodified":1537713551,
+    "wof:name":"Los Barrancos",
+    "wof:parent_id":1108694431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.48891,
+    8.76779,
+    -62.48891,
+    8.76779
+],
+  "geometry": {"coordinates":[-62.48891,8.76779],"type":"Point"}
+}

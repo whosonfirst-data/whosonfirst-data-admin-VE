@@ -1,0 +1,67 @@
+{
+  "id": 1309714217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3578,10.12166,-65.3578,10.12166",
+    "geom:latitude":10.12166,
+    "geom:longitude":-65.3578,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Marilago",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632907,
+    "gn:latitude":10.12166,
+    "gn:longitude":-65.3578,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Marilago",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421171645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632907
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"447d858ade9c21c7e498f43a5a930eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171645,
+            "locality_id":1309714217,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309714217,
+    "wof:lastmodified":1537060490,
+    "wof:name":"Marilago",
+    "wof:parent_id":421171645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3578,
+    10.12166,
+    -65.3578,
+    10.12166
+],
+  "geometry": {"coordinates":[-65.3578,10.12166],"type":"Point"}
+}

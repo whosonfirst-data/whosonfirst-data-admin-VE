@@ -1,0 +1,67 @@
+{
+  "id": 1260378163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.77769,10.96393,-70.77769,10.96393",
+    "geom:latitude":10.96393,
+    "geom:longitude":-70.77769,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Canepe",
+    "gn:country_code":"VE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785744,
+    "gn:latitude":10.96393,
+    "gn:longitude":-70.77769,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Canepe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785744
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4b956d2ee2d1177a0d627abf2acded16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1260378163,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1260378163,
+    "wof:lastmodified":1537079005,
+    "wof:name":"Canepe",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.77769,
+    10.96393,
+    -70.77769,
+    10.96393
+],
+  "geometry": {"coordinates":[-70.77769000000001,10.96393],"type":"Point"}
+}

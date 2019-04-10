@@ -1,0 +1,66 @@
+{
+  "id": 1209115097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.18333,2.5,-65.18333,2.5",
+    "geom:latitude":2.5,
+    "geom:longitude":-65.18333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Boca Mavaca",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648154,
+    "gn:latitude":2.5,
+    "gn:longitude":-65.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boca Mavaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca Umavaca",
+        "Boca Mavaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648154
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a79ec9879314c25f430f7071fc48214a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209115097
+        }
+    ],
+    "wof:id":1209115097,
+    "wof:lastmodified":1537713627,
+    "wof:name":"Boca Mavaca",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.18333,
+    2.5,
+    -65.18333,
+    2.5
+],
+  "geometry": {"coordinates":[-65.18333,2.5],"type":"Point"}
+}

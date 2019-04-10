@@ -1,0 +1,72 @@
+{
+  "id": 1226419795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2,10.78333,-70.2,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":-70.2,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Caujarao",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646161,
+    "gn:latitude":10.78333,
+    "gn:longitude":-70.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caujarao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caujaro",
+        "Caujarao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646161
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"48269c8fdc7cb6b0b425f20ee85843fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1226419795,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226419795,
+    "wof:lastmodified":1537713620,
+    "wof:name":"Caujarao",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.2,
+    10.78333,
+    -70.2,
+    10.78333
+],
+  "geometry": {"coordinates":[-70.2,10.78333],"type":"Point"}
+}

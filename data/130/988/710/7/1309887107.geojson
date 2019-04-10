@@ -1,0 +1,70 @@
+{
+  "id": 1309887107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07231,9.68911,-63.07231,9.68911",
+    "geom:latitude":9.68911,
+    "geom:longitude":-63.07231,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rincon de Monagas",
+    "gn:country_code":"VE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632099,
+    "gn:latitude":9.68911,
+    "gn:longitude":-63.07231,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rinc\u00f3n de Monagas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n de Monagas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632099
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a8daa98a2ea7fe7efa1454b5ccaa38e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1309887107,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1309887107,
+    "wof:lastmodified":1537713537,
+    "wof:name":"Rincon de Monagas",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07231,
+    9.68911,
+    -63.07231,
+    9.68911
+],
+  "geometry": {"coordinates":[-63.07231,9.68911],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1210004003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.94655,11.08525,-70.94655,11.08525",
+    "geom:latitude":11.08525,
+    "geom:longitude":-70.94655,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Arroyo Hondo",
+    "gn:country_code":"VE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648845,
+    "gn:latitude":11.08525,
+    "gn:longitude":-70.94655,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arroyo Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arroyo Honda",
+        "Arroyo Hondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648845
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"400420493b4131507a6b33e17ef75717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1210004003,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1210004003,
+    "wof:lastmodified":1537713631,
+    "wof:name":"Arroyo Hondo",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.94655,
+    11.08525,
+    -70.94655,
+    11.08525
+],
+  "geometry": {"coordinates":[-70.94655,11.08525],"type":"Point"}
+}

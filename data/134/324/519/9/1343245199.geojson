@@ -1,0 +1,67 @@
+{
+  "id": 1343245199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.47149,8.59089,-71.47149,8.59089",
+    "geom:latitude":8.59089,
+    "geom:longitude":-71.47149,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Salado",
+    "gn:country_code":"VE",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753584,
+    "gn:latitude":8.59089,
+    "gn:longitude":-71.47149,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Salado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753584
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"90bfc01caf29ae281ea6f44addab5b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":1343245199,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343245199,
+    "wof:lastmodified":1537054640,
+    "wof:name":"El Salado",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.47149,
+    8.59089,
+    -71.47149,
+    8.59089
+],
+  "geometry": {"coordinates":[-71.47149,8.59089],"type":"Point"}
+}

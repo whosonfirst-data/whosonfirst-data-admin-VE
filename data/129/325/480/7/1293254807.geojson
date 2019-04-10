@@ -1,0 +1,67 @@
+{
+  "id": 1293254807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63004,8.76207,-69.63004,8.76207",
+    "geom:latitude":8.76207,
+    "geom:longitude":-69.63004,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"VE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628677,
+    "gn:latitude":8.76207,
+    "gn:longitude":-69.63004,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628677
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fc8c9bdf7c39b0753efa307b8750f55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694339,
+            "locality_id":1293254807,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1293254807,
+    "wof:lastmodified":1536623554,
+    "wof:name":"San Andres",
+    "wof:parent_id":1108694339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63004000000001,
+    8.76207,
+    -69.63004000000001,
+    8.76207
+],
+  "geometry": {"coordinates":[-69.63004000000001,8.76207],"type":"Point"}
+}

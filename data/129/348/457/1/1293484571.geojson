@@ -1,0 +1,72 @@
+{
+  "id": 1293484571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.08333,5.23333,-63.08333,5.23333",
+    "geom:latitude":5.23333,
+    "geom:longitude":-63.08333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Munada",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631669,
+    "gn:latitude":5.23333,
+    "gn:longitude":-63.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Munad\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munadac",
+        "Munad\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631669
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5761bce7f710cef879c08502fb053c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196981,
+            "locality_id":1293484571,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293484571,
+    "wof:lastmodified":1537713536,
+    "wof:name":"Munada",
+    "wof:parent_id":421196981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.08333,
+    5.23333,
+    -63.08333,
+    5.23333
+],
+  "geometry": {"coordinates":[-63.08333,5.23333],"type":"Point"}
+}

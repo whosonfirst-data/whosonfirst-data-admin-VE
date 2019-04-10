@@ -1,0 +1,67 @@
+{
+  "id": 1344260343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76229,4.73448,-67.76229,4.73448",
+    "geom:latitude":4.73448,
+    "geom:longitude":-67.76229,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Una",
+    "gn:country_code":"VE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756154,
+    "gn:latitude":4.73448,
+    "gn:longitude":-67.76229,
+    "gn:modification_date":"1996-12-05",
+    "gn:name":"U\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756154
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2836a59fe45092eef1d7c7fa86f9b193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694105,
+            "locality_id":1344260343,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1344260343,
+    "wof:lastmodified":1537081141,
+    "wof:name":"Una",
+    "wof:parent_id":1108694105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76229000000001,
+    4.73448,
+    -67.76229000000001,
+    4.73448
+],
+  "geometry": {"coordinates":[-67.76229000000001,4.73448],"type":"Point"}
+}

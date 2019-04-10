@@ -1,0 +1,67 @@
+{
+  "id": 1293864173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5115,10.59663,-70.5115,10.59663",
+    "geom:latitude":10.59663,
+    "geom:longitude":-70.5115,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Mamnonales",
+    "gn:country_code":"VE",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633996,
+    "gn:latitude":10.59663,
+    "gn:longitude":-70.5115,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Mamnonales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633996
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b517031bc911a5838d569d568f92c219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1293864173,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293864173,
+    "wof:lastmodified":1536741021,
+    "wof:name":"Los Mamnonales",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5115,
+    10.59663,
+    -70.5115,
+    10.59663
+],
+  "geometry": {"coordinates":[-70.5115,10.59663],"type":"Point"}
+}

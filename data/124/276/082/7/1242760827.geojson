@@ -1,0 +1,76 @@
+{
+  "id": 1242760827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92887,8.68701,-70.92887,8.68701",
+    "geom:latitude":8.68701,
+    "geom:longitude":-70.92887,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gavidia",
+    "gn:country_code":"VE",
+    "gn:dem":3245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640632,
+    "gn:latitude":8.68701,
+    "gn:longitude":-70.92887,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Gavidia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gavidia"
+    ],
+    "name:por_x_preferred":[
+        "Gavidia"
+    ],
+    "name:spa_x_preferred":[
+        "Gavidia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640632
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"58db5a87eaad966c9697f739243474ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":1242760827,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1242760827,
+    "wof:lastmodified":1537560456,
+    "wof:name":"Gavidia",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92886999999997,
+    8.68701,
+    -70.92886999999997,
+    8.68701
+],
+  "geometry": {"coordinates":[-70.92886999999997,8.68701],"type":"Point"}
+}

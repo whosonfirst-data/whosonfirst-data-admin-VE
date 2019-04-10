@@ -1,0 +1,67 @@
+{
+  "id": 1210014735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.5,7.48333,-71.5,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":-71.5,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Guaca",
+    "gn:country_code":"VE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640488,
+    "gn:latitude":7.48333,
+    "gn:longitude":-71.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Guaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640488
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"48991ecc1a2cdde08442409fdf95bb49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1210014735,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1210014735,
+    "wof:lastmodified":1536395606,
+    "wof:name":"Guaca",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.5,
+    7.48333,
+    -71.5,
+    7.48333
+],
+  "geometry": {"coordinates":[-71.5,7.48333],"type":"Point"}
+}

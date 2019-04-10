@@ -1,0 +1,65 @@
+{
+  "id": 1209470843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76425,9.18311,-71.76425,9.18311",
+    "geom:latitude":9.18311,
+    "geom:longitude":-71.76425,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Solita",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635581,
+    "gn:latitude":9.18311,
+    "gn:longitude":-71.76425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Solita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solita",
+        "La Solita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635581
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e547455b368c68ea02d2a9d8482c46ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209470843
+        }
+    ],
+    "wof:id":1209470843,
+    "wof:lastmodified":1537713558,
+    "wof:name":"La Solita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76425,
+    9.18311,
+    -71.76425,
+    9.18311
+],
+  "geometry": {"coordinates":[-71.76425,9.18311],"type":"Point"}
+}

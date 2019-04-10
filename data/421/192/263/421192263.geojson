@@ -1,0 +1,77 @@
+{
+  "id": 421192263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.91018,10.46747,-66.91018,10.46747",
+    "geom:latitude":10.46747,
+    "geom:longitude":-66.91018,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3641159,
+    "qs:gn_pop":0,
+    "qs:name":"El Valle",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165503,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468212,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680535,
+        1108694107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641159,
+        "gp:id":468212,
+        "qs:id":1165503
+    },
+    "wof:country":"VE",
+    "wof:created":1459009730,
+    "wof:geomhash":"c07a6abf89515e2fb679c895dca9bd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694107,
+            "locality_id":421192263,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":421192263,
+    "wof:lastmodified":1527716115,
+    "wof:name":"El Valle",
+    "wof:parent_id":1108694107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.91018,
+    10.46747,
+    -66.91018,
+    10.46747
+],
+  "geometry": {"coordinates":[-66.91018,10.46747],"type":"Point"}
+}

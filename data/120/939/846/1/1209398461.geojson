@@ -1,0 +1,61 @@
+{
+  "id": 1209398461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.15278,10.25,-69.15278,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-69.15278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Los Araguatos",
+    "gn:country_code":"VE",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767185,
+    "gn:latitude":10.25,
+    "gn:longitude":-69.15278,
+    "gn:modification_date":"2002-01-24",
+    "gn:name":"Los Araguatos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767185
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ef53bf1020ccc0046c427db4043082bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209398461
+        }
+    ],
+    "wof:id":1209398461,
+    "wof:lastmodified":1536288224,
+    "wof:name":"Los Araguatos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.15278,
+    10.25,
+    -69.15278,
+    10.25
+],
+  "geometry": {"coordinates":[-69.15278000000001,10.25],"type":"Point"}
+}

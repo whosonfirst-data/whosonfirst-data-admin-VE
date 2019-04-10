@@ -1,0 +1,67 @@
+{
+  "id": 1193135437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.60833,7.33222,-70.60833,7.33222",
+    "geom:latitude":7.33222,
+    "geom:longitude":-70.60833,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Guafa",
+    "gn:country_code":"VE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3756669,
+    "gn:latitude":7.33222,
+    "gn:longitude":-70.60833,
+    "gn:modification_date":"1996-12-18",
+    "gn:name":"La Guafa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756669
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"de36ea85e3e2297e308c8da249e4a01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1193135437,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1193135437,
+    "wof:lastmodified":1536371253,
+    "wof:name":"La Guafa",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.60833000000002,
+    7.33222,
+    -70.60833000000002,
+    7.33222
+],
+  "geometry": {"coordinates":[-70.60833000000002,7.33222],"type":"Point"}
+}

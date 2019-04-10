@@ -1,0 +1,75 @@
+{
+  "id": 421195515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25892,11.49897,-69.25892,11.49897",
+    "geom:latitude":11.49897,
+    "geom:longitude":-69.25892,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tocopero",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Falcon",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":114986,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805484,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805484,
+        "qs:id":114986
+    },
+    "wof:country":"VE",
+    "wof:created":1459009850,
+    "wof:geomhash":"04f67020854f80074f89f4a9ab328c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193517,
+            "localadmin_id":421195515,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":421195515,
+    "wof:lastmodified":1500033972,
+    "wof:name":"Tocopero",
+    "wof:parent_id":421193517,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25892,
+    11.49897,
+    -69.25892,
+    11.49897
+],
+  "geometry": {"coordinates":[-69.25892,11.49897],"type":"Point"}
+}

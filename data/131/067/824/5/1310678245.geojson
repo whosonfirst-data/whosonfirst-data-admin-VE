@@ -1,0 +1,71 @@
+{
+  "id": 1310678245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03191,12.02505,-70.03191,12.02505",
+    "geom:latitude":12.02505,
+    "geom:longitude":-70.03191,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chivuche",
+    "gn:country_code":"VE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645658,
+    "gn:latitude":12.02505,
+    "gn:longitude":-70.03191,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chivuche",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiyuche",
+        "Chivuche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645658
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"893e7d35c7f3f081a08e8cd372cab945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1310678245,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310678245,
+    "wof:lastmodified":1537713618,
+    "wof:name":"Chivuche",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03191,
+    12.02505,
+    -70.03191,
+    12.02505
+],
+  "geometry": {"coordinates":[-70.03191,12.02505],"type":"Point"}
+}

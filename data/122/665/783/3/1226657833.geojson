@@ -1,0 +1,67 @@
+{
+  "id": 1226657833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56111,9.93333,-64.56111,9.93333",
+    "geom:latitude":9.93333,
+    "geom:longitude":-64.56111,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Alto Caribe",
+    "gn:country_code":"VE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486290,
+    "gn:latitude":9.93333,
+    "gn:longitude":-64.56111,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Alto Caribe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486290
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5b7eb9af7e1c7cc3696c54ecb295c93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1226657833,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226657833,
+    "wof:lastmodified":1536840940,
+    "wof:name":"Alto Caribe",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56111,
+    9.93333,
+    -64.56111,
+    9.93333
+],
+  "geometry": {"coordinates":[-64.56111,9.93333],"type":"Point"}
+}

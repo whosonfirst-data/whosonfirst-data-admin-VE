@@ -1,0 +1,67 @@
+{
+  "id": 1360138969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18333,10.55,-67.18333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-67.18333,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Oricao",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631312,
+    "gn:latitude":10.55,
+    "gn:longitude":-67.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Oricao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631312
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d4c6e0f6cb76468c4b701cc7fa80169a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1360138969,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1360138969,
+    "wof:lastmodified":1536866792,
+    "wof:name":"Oricao",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18333,
+    10.55,
+    -67.18333,
+    10.55
+],
+  "geometry": {"coordinates":[-67.18333,10.55],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310290679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.72609,9.97091,-67.72609,9.97091",
+    "geom:latitude":9.97091,
+    "geom:longitude":-67.72609,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Placer",
+    "gn:country_code":"VE",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481684,
+    "gn:latitude":9.97091,
+    "gn:longitude":-67.72609,
+    "gn:modification_date":"1999-03-12",
+    "gn:name":"El Placer",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481684
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bda3d983f1a3404268c6d0b92451a10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1310290679,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1310290679,
+    "wof:lastmodified":1536729728,
+    "wof:name":"El Placer",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.72609,
+    9.97091,
+    -67.72609,
+    9.97091
+],
+  "geometry": {"coordinates":[-67.72609,9.97091],"type":"Point"}
+}

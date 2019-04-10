@@ -1,0 +1,67 @@
+{
+  "id": 1327496729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.33194,10.96072,-64.33194,10.96072",
+    "geom:latitude":10.96072,
+    "geom:longitude":-64.33194,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Curichicual",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644640,
+    "gn:latitude":10.96072,
+    "gn:longitude":-64.33194,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Curichicual",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        890440759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644640
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5c8923980abe3b90deb89692381bf2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890440759,
+            "locality_id":1327496729,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1327496729,
+    "wof:lastmodified":1537082600,
+    "wof:name":"Curichicual",
+    "wof:parent_id":890440759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.33194,
+    10.96072,
+    -64.33194,
+    10.96072
+],
+  "geometry": {"coordinates":[-64.33194,10.96072],"type":"Point"}
+}

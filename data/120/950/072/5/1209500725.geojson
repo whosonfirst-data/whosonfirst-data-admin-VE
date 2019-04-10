@@ -1,0 +1,61 @@
+{
+  "id": 1209500725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.30185,10.13976,-68.30185,10.13976",
+    "geom:latitude":10.13976,
+    "geom:longitude":-68.30185,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"El Coco",
+    "gn:country_code":"VE",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643606,
+    "gn:latitude":10.13976,
+    "gn:longitude":-68.30185,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Coco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643606
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"67fed3608820b28cc6f8aca1c4501cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209500725
+        }
+    ],
+    "wof:id":1209500725,
+    "wof:lastmodified":1536285192,
+    "wof:name":"El Coco",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.30185,
+    10.13976,
+    -68.30185,
+    10.13976
+],
+  "geometry": {"coordinates":[-68.30185,10.13976],"type":"Point"}
+}

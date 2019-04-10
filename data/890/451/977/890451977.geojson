@@ -1,0 +1,66 @@
+{
+  "id": 890451977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.251037,10.697809,-63.251037,10.697809",
+    "geom:latitude":10.697809,
+    "geom:longitude":-63.251037,
+    "gn:country":"VE",
+    "gp:adm0":23424982,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Bermudez",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Sucre",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":458,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804687,
+        "qs:id":219084,
+        "wd:id":"Q422036",
+        "wk:page":"Bermudez"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052800,
+    "wof:geomhash":"8dc7cee03d9948c73f3e0478234c5efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "county_id":890451977
+        }
+    ],
+    "wof:id":890451977,
+    "wof:lastmodified":1527792937,
+    "wof:name":"Bermudez",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.251037,
+    10.697809,
+    -63.251037,
+    10.697809
+],
+  "geometry": {"coordinates":[-63.251037,10.697809],"type":"Point"}
+}

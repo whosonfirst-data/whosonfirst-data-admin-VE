@@ -1,0 +1,67 @@
+{
+  "id": 1343723865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.27329,10.54187,-63.27329,10.54187",
+    "geom:latitude":10.54187,
+    "geom:longitude":-63.27329,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"La Pena de Pata",
+    "gn:country_code":"VE",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796425,
+    "gn:latitude":10.54187,
+    "gn:longitude":-63.27329,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"La Pe\u00f1a de Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796425
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"305aba607ac448780e74be6461a0172f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694077,
+            "locality_id":1343723865,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1343723865,
+    "wof:lastmodified":1536862409,
+    "wof:name":"La Pena de Pata",
+    "wof:parent_id":1108694077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.27329,
+    10.54187,
+    -63.27329,
+    10.54187
+],
+  "geometry": {"coordinates":[-63.27329,10.54187],"type":"Point"}
+}

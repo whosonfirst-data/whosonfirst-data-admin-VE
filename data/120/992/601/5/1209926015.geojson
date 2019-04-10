@@ -1,0 +1,67 @@
+{
+  "id": 1209926015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.14786,9.83875,-65.14786,9.83875",
+    "geom:latitude":9.83875,
+    "geom:longitude":-65.14786,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Puente Unare",
+    "gn:country_code":"VE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484567,
+    "gn:latitude":9.83875,
+    "gn:longitude":-65.14786,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Puente Unare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484567
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e8cae8da344bc9b4eacc4e73dd5f854c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1209926015,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1209926015,
+    "wof:lastmodified":1536394875,
+    "wof:name":"Puente Unare",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.14786,
+    9.83875,
+    -65.14786,
+    9.83875
+],
+  "geometry": {"coordinates":[-65.14785999999999,9.83875],"type":"Point"}
+}

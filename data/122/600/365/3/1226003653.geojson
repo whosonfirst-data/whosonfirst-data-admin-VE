@@ -1,0 +1,67 @@
+{
+  "id": 1226003653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57344,7.73002,-71.57344,7.73002",
+    "geom:latitude":7.73002,
+    "geom:longitude":-71.57344,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Los Voladores",
+    "gn:country_code":"VE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795690,
+    "gn:latitude":7.73002,
+    "gn:longitude":-71.57344,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Los Voladores",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795690
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0e9c8b9a097d784bd6fcb43c8b4a11e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694257,
+            "locality_id":1226003653,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1226003653,
+    "wof:lastmodified":1536786480,
+    "wof:name":"Los Voladores",
+    "wof:parent_id":1108694257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57344,
+    7.73002,
+    -71.57344,
+    7.73002
+],
+  "geometry": {"coordinates":[-71.57344000000001,7.73002],"type":"Point"}
+}

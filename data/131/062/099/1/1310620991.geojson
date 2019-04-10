@@ -1,0 +1,67 @@
+{
+  "id": 1310620991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.625,9.91693,-67.625,9.91693",
+    "geom:latitude":9.91693,
+    "geom:longitude":-67.625,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"El Jabillo",
+    "gn:country_code":"VE",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642964,
+    "gn:latitude":9.91693,
+    "gn:longitude":-67.625,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"El Jabillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642964
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"84781ba733c3ecb215b149888abf3951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1310620991,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1310620991,
+    "wof:lastmodified":1536750271,
+    "wof:name":"El Jabillo",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.625,
+    9.91693,
+    -67.625,
+    9.91693
+],
+  "geometry": {"coordinates":[-67.625,9.91693],"type":"Point"}
+}

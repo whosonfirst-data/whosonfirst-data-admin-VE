@@ -1,0 +1,71 @@
+{
+  "id": 1310007945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.24725,9.72792,-64.24725,9.72792",
+    "geom:latitude":9.72792,
+    "geom:longitude":-64.24725,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Piripire",
+    "gn:country_code":"VE",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630112,
+    "gn:latitude":9.72792,
+    "gn:longitude":-64.24725,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Piripire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirepire",
+        "Piripire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630112
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b2c38845f575ddbb5b7013570f14877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1310007945,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310007945,
+    "wof:lastmodified":1537713528,
+    "wof:name":"Piripire",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.24725,
+    9.72792,
+    -64.24725,
+    9.72792
+],
+  "geometry": {"coordinates":[-64.24724999999999,9.72792],"type":"Point"}
+}

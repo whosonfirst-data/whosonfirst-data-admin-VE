@@ -1,0 +1,70 @@
+{
+  "id": 1360051863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.84144,11.01579,-63.84144,11.01579",
+    "geom:latitude":11.01579,
+    "geom:longitude":-63.84144,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Los Chacos",
+    "gn:country_code":"VE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8202334,
+    "gn:latitude":11.01579,
+    "gn:longitude":-63.84144,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Los Chacos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Chacos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421172599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202334
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"084a02db9d396bfe6a636bec65da853c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172599,
+            "locality_id":1360051863,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1360051863,
+    "wof:lastmodified":1537713651,
+    "wof:name":"Los Chacos",
+    "wof:parent_id":421172599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.84144000000001,
+    11.01579,
+    -63.84144000000001,
+    11.01579
+],
+  "geometry": {"coordinates":[-63.84144000000001,11.01579],"type":"Point"}
+}

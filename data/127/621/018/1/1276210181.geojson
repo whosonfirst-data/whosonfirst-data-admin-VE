@@ -1,0 +1,67 @@
+{
+  "id": 1276210181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88556,10.25904,-69.88556,10.25904",
+    "geom:latitude":10.25904,
+    "geom:longitude":-69.88556,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Punta Brava",
+    "gn:country_code":"VE",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749073,
+    "gn:latitude":10.25904,
+    "gn:longitude":-69.88556,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Punta Brava",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749073
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d62c2621559f12a0d52e7af6b367ab85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1276210181,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1276210181,
+    "wof:lastmodified":1536944607,
+    "wof:name":"Punta Brava",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88556,
+    10.25904,
+    -69.88556,
+    10.25904
+],
+  "geometry": {"coordinates":[-69.88556,10.25904],"type":"Point"}
+}

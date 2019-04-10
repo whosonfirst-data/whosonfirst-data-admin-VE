@@ -1,0 +1,67 @@
+{
+  "id": 1344150399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.18637,10.17322,-68.18637,10.17322",
+    "geom:latitude":10.17322,
+    "geom:longitude":-68.18637,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Casupito",
+    "gn:country_code":"VE",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646235,
+    "gn:latitude":10.17322,
+    "gn:longitude":-68.18637,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Casupito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421172279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646235
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"57a9b99972eb99ce307f1feb678aec71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172279,
+            "locality_id":1344150399,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1344150399,
+    "wof:lastmodified":1536745539,
+    "wof:name":"Casupito",
+    "wof:parent_id":421172279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.18637,
+    10.17322,
+    -68.18637,
+    10.17322
+],
+  "geometry": {"coordinates":[-68.18637,10.17322],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209492539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.60186,11.44366,-69.60186,11.44366",
+    "geom:latitude":11.44366,
+    "geom:longitude":-69.60186,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sabana Larga",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628879,
+    "gn:latitude":11.44366,
+    "gn:longitude":-69.60186,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sabana Larga",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628879
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"79eff8406c570313b53c3079a3a03939",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209492539
+        }
+    ],
+    "wof:id":1209492539,
+    "wof:lastmodified":1536285439,
+    "wof:name":"Sabana Larga",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.60186,
+    11.44366,
+    -69.60186,
+    11.44366
+],
+  "geometry": {"coordinates":[-69.60186,11.44366],"type":"Point"}
+}

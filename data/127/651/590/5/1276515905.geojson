@@ -1,0 +1,67 @@
+{
+  "id": 1276515905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.89275,10.24082,-68.89275,10.24082",
+    "geom:latitude":10.24082,
+    "geom:longitude":-68.89275,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Palo Grande",
+    "gn:country_code":"VE",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630949,
+    "gn:latitude":10.24082,
+    "gn:longitude":-68.89275,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Palo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630949
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"284d36c9014e2df1525df402d5c3dcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694129,
+            "locality_id":1276515905,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1276515905,
+    "wof:lastmodified":1537030199,
+    "wof:name":"Palo Grande",
+    "wof:parent_id":1108694129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.89275,
+    10.24082,
+    -68.89275,
+    10.24082
+],
+  "geometry": {"coordinates":[-68.89275000000001,10.24082],"type":"Point"}
+}

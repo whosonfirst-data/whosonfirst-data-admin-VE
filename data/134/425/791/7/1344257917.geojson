@@ -1,0 +1,67 @@
+{
+  "id": 1344257917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17944,7.29056,-71.17944,7.29056",
+    "geom:latitude":7.29056,
+    "geom:longitude":-71.17944,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sabana El Crisol",
+    "gn:country_code":"VE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805636,
+    "gn:latitude":7.29056,
+    "gn:longitude":-71.17944,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Sabana El Crisol",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805636
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4cb045c022a335dca668969c8c5c3a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1344257917,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1344257917,
+    "wof:lastmodified":1537084683,
+    "wof:name":"Sabana El Crisol",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17944,
+    7.29056,
+    -71.17944,
+    7.29056
+],
+  "geometry": {"coordinates":[-71.17944,7.29056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259667419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21124,10.25195,-69.21124,10.25195",
+    "geom:latitude":10.25195,
+    "geom:longitude":-69.21124,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Carrizal",
+    "gn:country_code":"VE",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646452,
+    "gn:latitude":10.25195,
+    "gn:longitude":-69.21124,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Carrizal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrizal",
+        "El Carrizal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646452
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"86ce57192b07217a80e911412613c0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694163,
+            "locality_id":1259667419,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1259667419,
+    "wof:lastmodified":1537713621,
+    "wof:name":"El Carrizal",
+    "wof:parent_id":1108694163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21124,
+    10.25195,
+    -69.21124,
+    10.25195
+],
+  "geometry": {"coordinates":[-69.21124,10.25195],"type":"Point"}
+}

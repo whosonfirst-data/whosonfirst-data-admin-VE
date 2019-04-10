@@ -1,0 +1,67 @@
+{
+  "id": 1243529075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.54463,10.6063,-63.54463,10.6063",
+    "geom:latitude":10.6063,
+    "geom:longitude":-63.54463,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Silencio",
+    "gn:country_code":"VE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749561,
+    "gn:latitude":10.6063,
+    "gn:longitude":-63.54463,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"El Silencio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749561
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eab357927d013b08c26d23b1142d1e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1243529075,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1243529075,
+    "wof:lastmodified":1536686518,
+    "wof:name":"El Silencio",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.54463000000001,
+    10.6063,
+    -63.54463000000001,
+    10.6063
+],
+  "geometry": {"coordinates":[-63.54463000000001,10.6063],"type":"Point"}
+}

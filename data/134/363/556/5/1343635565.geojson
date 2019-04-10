@@ -1,0 +1,67 @@
+{
+  "id": 1343635565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.11571,8.01042,-72.11571,8.01042",
+    "geom:latitude":8.01042,
+    "geom:longitude":-72.11571,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Venegara",
+    "gn:country_code":"VE",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738779,
+    "gn:latitude":8.01042,
+    "gn:longitude":-72.11571,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Venegara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738779
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"32bdb21f94267498d4d571a92fbf4b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202065,
+            "locality_id":1343635565,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1343635565,
+    "wof:lastmodified":1536990215,
+    "wof:name":"Venegara",
+    "wof:parent_id":421202065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.11570999999998,
+    8.01042,
+    -72.11570999999998,
+    8.01042
+],
+  "geometry": {"coordinates":[-72.11570999999998,8.01042],"type":"Point"}
+}

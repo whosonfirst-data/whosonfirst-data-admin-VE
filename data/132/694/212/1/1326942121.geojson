@@ -1,0 +1,67 @@
+{
+  "id": 1326942121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.57,9.97278,-64.57,9.97278",
+    "geom:latitude":9.97278,
+    "geom:longitude":-64.57,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Desparramadero",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3485543,
+    "gn:latitude":9.97278,
+    "gn:longitude":-64.57,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Desparramadero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485543
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2291a1726c95d0918b48bf477988978c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1326942121,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326942121,
+    "wof:lastmodified":1536890125,
+    "wof:name":"Desparramadero",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.57,
+    9.97278,
+    -64.57,
+    9.97278
+],
+  "geometry": {"coordinates":[-64.56999999999999,9.97278],"type":"Point"}
+}

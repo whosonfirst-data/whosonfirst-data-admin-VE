@@ -1,0 +1,67 @@
+{
+  "id": 1243005077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.53861,10.26444,-67.53861,10.26444",
+    "geom:latitude":10.26444,
+    "geom:longitude":-67.53861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Tucupido",
+    "gn:country_code":"VE",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753015,
+    "gn:latitude":10.26444,
+    "gn:longitude":-67.53861,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"Tucupido",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421186263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753015
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f34e5b327d6cb9f34eaa54c6f391e9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186263,
+            "locality_id":1243005077,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1243005077,
+    "wof:lastmodified":1536945382,
+    "wof:name":"Tucupido",
+    "wof:parent_id":421186263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.53860999999999,
+    10.26444,
+    -67.53860999999999,
+    10.26444
+],
+  "geometry": {"coordinates":[-67.53860999999999,10.26444],"type":"Point"}
+}

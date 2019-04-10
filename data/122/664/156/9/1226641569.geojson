@@ -1,0 +1,61 @@
+{
+  "id": 1226641569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.77408,8.7034,-60.77408,8.7034",
+    "geom:latitude":8.7034,
+    "geom:longitude":-60.77408,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muasimoina",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763175,
+    "gn:latitude":8.7034,
+    "gn:longitude":-60.77408,
+    "gn:modification_date":"1997-11-13",
+    "gn:name":"Muasimoina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763175
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"726a84a33487c476290dbe8fe0ff0043",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226641569,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226641569,
+    "wof:lastmodified":1536864127,
+    "wof:name":"Muasimoina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.77408000000001,
+    8.7034,
+    -60.77408000000001,
+    8.7034
+],
+  "geometry": {"coordinates":[-60.77408000000001,8.7034],"type":"Point"}
+}

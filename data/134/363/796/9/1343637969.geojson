@@ -1,0 +1,67 @@
+{
+  "id": 1343637969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.04195,9.12841,-66.04195,9.12841",
+    "geom:latitude":9.12841,
+    "geom:longitude":-66.04195,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jacome Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639286,
+    "gn:latitude":9.12841,
+    "gn:longitude":-66.04195,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"J\u00e1come Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639286
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"387461ae2cd0733f6ae1517a8a269d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1343637969,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343637969,
+    "wof:lastmodified":1536986742,
+    "wof:name":"Jacome Arriba",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.04195,
+    9.12841,
+    -66.04195,
+    9.12841
+],
+  "geometry": {"coordinates":[-66.04195,9.12841],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226708489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.35503,9.58608,-70.35503,9.58608",
+    "geom:latitude":9.58608,
+    "geom:longitude":-70.35503,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Miton",
+    "gn:country_code":"VE",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632162,
+    "gn:latitude":9.58608,
+    "gn:longitude":-70.35503,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mit\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632162
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dad22e3089ca8e87f570957022af3987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694143,
+            "locality_id":1226708489,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1226708489,
+    "wof:lastmodified":1536769923,
+    "wof:name":"Miton",
+    "wof:parent_id":1108694143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.35503,
+    9.58608,
+    -70.35503,
+    9.58608
+],
+  "geometry": {"coordinates":[-70.35503,9.58608],"type":"Point"}
+}

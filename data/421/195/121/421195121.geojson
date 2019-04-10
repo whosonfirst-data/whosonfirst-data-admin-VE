@@ -1,0 +1,80 @@
+{
+  "id": 421195121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.44745,8.91426,-70.44745,8.91426",
+    "geom:latitude":8.91426,
+    "geom:longitude":-70.44745,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA3",
+    "qs:gn_id":3647435,
+    "qs:gn_pop":0,
+    "qs:name":"Calderas",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Barinas",
+    "qs:photos":285,
+    "qs:photos_1k":58,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":367,
+    "qs:photos_sr":5,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1195048,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805629,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421194991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647435,
+        "gp:id":26805629,
+        "qs:id":1195048,
+        "qs_pg:id":1195048
+    },
+    "wof:country":"VE",
+    "wof:created":1459009833,
+    "wof:geomhash":"0005ac67de7c55012543139db6480f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194991,
+            "localadmin_id":421195121,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":421195121,
+    "wof:lastmodified":1497042383,
+    "wof:name":"Calderas",
+    "wof:parent_id":421194991,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.44745,
+    8.91426,
+    -70.44745,
+    8.91426
+],
+  "geometry": {"coordinates":[-70.44745,8.91426],"type":"Point"}
+}

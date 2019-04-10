@@ -1,0 +1,88 @@
+{
+  "id": 1193253005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.92873,10.26514,-62.92873,10.26514",
+    "geom:latitude":10.26514,
+    "geom:longitude":-62.92873,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Guariquen",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640001,
+    "gn:latitude":10.26514,
+    "gn:longitude":-62.92873,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Guariqu\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Guariqu\u00e9n"
+    ],
+    "name:eng_x_variant":[
+        "Guariquen"
+    ],
+    "name:por_x_preferred":[
+        "Guariqu\u00e9n"
+    ],
+    "name:por_x_variant":[
+        "Guariquen"
+    ],
+    "name:spa_x_preferred":[
+        "Guariqu\u00e9n"
+    ],
+    "name:spa_x_variant":[
+        "Guariquen"
+    ],
+    "name:und_x_variant":[
+        "Guariqu\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640001
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4432fb6e46eeacbcfb55bcb4849cb132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694111,
+            "locality_id":1193253005,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1193253005,
+    "wof:lastmodified":1537713585,
+    "wof:name":"Guariquen",
+    "wof:parent_id":1108694111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.92873,
+    10.26514,
+    -62.92873,
+    10.26514
+],
+  "geometry": {"coordinates":[-62.92873,10.26514],"type":"Point"}
+}

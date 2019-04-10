@@ -1,0 +1,67 @@
+{
+  "id": 1276769303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.43667,7.35,-68.43667,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":-68.43667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yagua",
+    "gn:country_code":"VE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805930,
+    "gn:latitude":7.35,
+    "gn:longitude":-68.43667,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Yagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805930
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2c7a5532e7c3993735b9a73f1e364a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1276769303,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276769303,
+    "wof:lastmodified":1536691808,
+    "wof:name":"Yagua",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.43666999999999,
+    7.35,
+    -68.43666999999999,
+    7.35
+],
+  "geometry": {"coordinates":[-68.43666999999999,7.35],"type":"Point"}
+}

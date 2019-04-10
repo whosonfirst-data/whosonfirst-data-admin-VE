@@ -1,0 +1,61 @@
+{
+  "id": 1209385379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.50722,8.54167,-71.50722,8.54167",
+    "geom:latitude":8.54167,
+    "geom:longitude":-71.50722,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"San Juanito",
+    "gn:country_code":"VE",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797552,
+    "gn:latitude":8.54167,
+    "gn:longitude":-71.50722,
+    "gn:modification_date":"2002-10-11",
+    "gn:name":"San Juanito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797552
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"de5ad45e72dbfeabe7114d9aaa08ca8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209385379
+        }
+    ],
+    "wof:id":1209385379,
+    "wof:lastmodified":1536288643,
+    "wof:name":"San Juanito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.50721999999998,
+    8.54167,
+    -71.50721999999998,
+    8.54167
+],
+  "geometry": {"coordinates":[-71.50721999999998,8.54167],"type":"Point"}
+}

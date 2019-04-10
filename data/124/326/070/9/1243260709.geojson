@@ -1,0 +1,67 @@
+{
+  "id": 1243260709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.68739,7.86154,-63.68739,7.86154",
+    "geom:latitude":7.86154,
+    "geom:longitude":-63.68739,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"VE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809479,
+    "gn:latitude":7.86154,
+    "gn:longitude":-63.68739,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809479
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"529b3cedbfa79a69302469a2a62bff0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1243260709,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1243260709,
+    "wof:lastmodified":1537070277,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.68739,
+    7.86154,
+    -63.68739,
+    7.86154
+],
+  "geometry": {"coordinates":[-63.68739,7.86154],"type":"Point"}
+}

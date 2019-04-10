@@ -1,0 +1,73 @@
+{
+  "id": 1310082895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.13028,11.38222,-69.13028,11.38222",
+    "geom:latitude":11.38222,
+    "geom:longitude":-69.13028,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Comunidad",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638397,
+    "gn:latitude":11.38222,
+    "gn:longitude":-69.13028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Comunidad",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad",
+        "Comodidad",
+        "La Comunidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638397
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7fe9e5ba721fc62141f0e75ca06520a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1310082895,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310082895,
+    "wof:lastmodified":1537713574,
+    "wof:name":"La Comunidad",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.13028,
+    11.38222,
+    -69.13028,
+    11.38222
+],
+  "geometry": {"coordinates":[-69.13028,11.38222],"type":"Point"}
+}

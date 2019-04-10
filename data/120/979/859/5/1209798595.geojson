@@ -1,0 +1,71 @@
+{
+  "id": 1209798595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.67294,8.1096,-71.67294,8.1096",
+    "geom:latitude":8.1096,
+    "geom:longitude":-71.67294,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Piedra Grande",
+    "gn:country_code":"VE",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630168,
+    "gn:latitude":8.1096,
+    "gn:longitude":-71.67294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Piedra Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piedre Grande",
+        "Piedra Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421196155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630168
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"04cb63310c8cd3ae828bd35059ec685a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196155,
+            "locality_id":1209798595,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1209798595,
+    "wof:lastmodified":1537713529,
+    "wof:name":"Piedra Grande",
+    "wof:parent_id":421196155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.67294,
+    8.1096,
+    -71.67294,
+    8.1096
+],
+  "geometry": {"coordinates":[-71.67294,8.1096],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309733347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.94231,8.14951,-62.94231,8.14951",
+    "geom:latitude":8.14951,
+    "geom:longitude":-62.94231,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"La Encrucijada",
+    "gn:country_code":"VE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638111,
+    "gn:latitude":8.14951,
+    "gn:longitude":-62.94231,
+    "gn:modification_date":"1997-10-07",
+    "gn:name":"La Encrucijada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421190237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638111
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"de1104495792271c26bbaeab7b74bf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190237,
+            "locality_id":1309733347,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1309733347,
+    "wof:lastmodified":1537034116,
+    "wof:name":"La Encrucijada",
+    "wof:parent_id":421190237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.94231,
+    8.14951,
+    -62.94231,
+    8.14951
+],
+  "geometry": {"coordinates":[-62.94231,8.14951],"type":"Point"}
+}

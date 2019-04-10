@@ -1,0 +1,67 @@
+{
+  "id": 1226114911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.73159,10.36093,-66.73159,10.36093",
+    "geom:latitude":10.36093,
+    "geom:longitude":-66.73159,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"London",
+    "gn:country_code":"VE",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803838,
+    "gn:latitude":10.36093,
+    "gn:longitude":-66.73159,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"London",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803838
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1a2c2d4993486a525d525803dfe81245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694341,
+            "locality_id":1226114911,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226114911,
+    "wof:lastmodified":1536623385,
+    "wof:name":"London",
+    "wof:parent_id":1108694341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.73159,
+    10.36093,
+    -66.73159,
+    10.36093
+],
+  "geometry": {"coordinates":[-66.73159,10.36093],"type":"Point"}
+}

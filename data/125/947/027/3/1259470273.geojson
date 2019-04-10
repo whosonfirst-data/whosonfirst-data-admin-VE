@@ -1,0 +1,67 @@
+{
+  "id": 1259470273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98234,10.61167,-70.98234,10.61167",
+    "geom:latitude":10.61167,
+    "geom:longitude":-70.98234,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Lamedero",
+    "gn:country_code":"VE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642871,
+    "gn:latitude":10.61167,
+    "gn:longitude":-70.98234,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Lamedero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642871
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c4e84a82c8558d659558b64a967f274b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1259470273,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259470273,
+    "wof:lastmodified":1536876917,
+    "wof:name":"El Lamedero",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98234000000002,
+    10.61167,
+    -70.98234000000002,
+    10.61167
+],
+  "geometry": {"coordinates":[-70.98234000000002,10.61167],"type":"Point"}
+}

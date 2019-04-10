@@ -1,0 +1,67 @@
+{
+  "id": 1309974429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.07458,9.98602,-72.07458,9.98602",
+    "geom:latitude":9.98602,
+    "geom:longitude":-72.07458,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pozo del Medio",
+    "gn:country_code":"VE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3790143,
+    "gn:latitude":9.98602,
+    "gn:longitude":-72.07458,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Pozo del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3790143
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ceaa521cb2375920a148cb7ac50d1698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694379,
+            "locality_id":1309974429,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1309974429,
+    "wof:lastmodified":1536688242,
+    "wof:name":"Pozo del Medio",
+    "wof:parent_id":1108694379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.07458000000003,
+    9.98602,
+    -72.07458000000003,
+    9.98602
+],
+  "geometry": {"coordinates":[-72.07458000000003,9.98602],"type":"Point"}
+}

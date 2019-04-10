@@ -1,0 +1,73 @@
+{
+  "id": 1209879841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.41667,9.68333,-63.41667,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":-63.41667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Mapurito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642660,
+    "gn:latitude":9.68333,
+    "gn:longitude":-63.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Mapurito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapurite",
+        "El Mapurite",
+        "El Mapurito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642660
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1235c44116eb74980171e195ca1c96d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1209879841,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1209879841,
+    "wof:lastmodified":1537713599,
+    "wof:name":"El Mapurito",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.41667,
+    9.68333,
+    -63.41667,
+    9.68333
+],
+  "geometry": {"coordinates":[-63.41667,9.68333],"type":"Point"}
+}

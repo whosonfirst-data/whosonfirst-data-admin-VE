@@ -1,0 +1,67 @@
+{
+  "id": 1193096087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8003,8.44735,-71.8003,8.44735",
+    "geom:latitude":8.44735,
+    "geom:longitude":-71.8003,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bojadal",
+    "gn:country_code":"VE",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794976,
+    "gn:latitude":8.44735,
+    "gn:longitude":-71.8003,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"Bojadal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794976
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b03c46278a540cd928176389576daf6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183211,
+            "locality_id":1193096087,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1193096087,
+    "wof:lastmodified":1536365908,
+    "wof:name":"Bojadal",
+    "wof:parent_id":421183211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8003,
+    8.44735,
+    -71.8003,
+    8.44735
+],
+  "geometry": {"coordinates":[-71.80029999999999,8.44735],"type":"Point"}
+}

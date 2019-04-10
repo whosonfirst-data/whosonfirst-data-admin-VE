@@ -1,0 +1,67 @@
+{
+  "id": 1293464315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.37477,10.63798,-63.37477,10.63798",
+    "geom:latitude":10.63798,
+    "geom:longitude":-63.37477,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cerro Cruz Blanca",
+    "gn:country_code":"VE",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795918,
+    "gn:latitude":10.63798,
+    "gn:longitude":-63.37477,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Cerro Cruz Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795918
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"66fba2978b2033f51ee20f2d3d2cbb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694077,
+            "locality_id":1293464315,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293464315,
+    "wof:lastmodified":1536819724,
+    "wof:name":"Cerro Cruz Blanca",
+    "wof:parent_id":1108694077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.37477,
+    10.63798,
+    -63.37477,
+    10.63798
+],
+  "geometry": {"coordinates":[-63.37477,10.63798],"type":"Point"}
+}

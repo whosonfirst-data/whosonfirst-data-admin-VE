@@ -1,0 +1,67 @@
+{
+  "id": 1360049183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.31212,9.7873,-63.31212,9.7873",
+    "geom:latitude":9.7873,
+    "geom:longitude":-63.31212,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Canafistola",
+    "gn:country_code":"VE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755698,
+    "gn:latitude":9.7873,
+    "gn:longitude":-63.31212,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Ca\u00f1af\u00edstola",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755698
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9de538543c49b5e2f645f53ae09175bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1360049183,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1360049183,
+    "wof:lastmodified":1536996847,
+    "wof:name":"Canafistola",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.31211999999999,
+    9.7873,
+    -63.31211999999999,
+    9.7873
+],
+  "geometry": {"coordinates":[-63.31211999999999,9.7873],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226122825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87814,11.02957,-70.87814,11.02957",
+    "geom:latitude":11.02957,
+    "geom:longitude":-70.87814,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Derramadero",
+    "gn:country_code":"VE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643403,
+    "gn:latitude":11.02957,
+    "gn:longitude":-70.87814,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Derramadero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Derramadero",
+        "Desparramadero",
+        "El Derramadero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643403
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e15bf66a0cd7c6321bb99d2cd2258319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1226122825,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226122825,
+    "wof:lastmodified":1537713604,
+    "wof:name":"El Derramadero",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87814,
+    11.02957,
+    -70.87814,
+    11.02957
+],
+  "geometry": {"coordinates":[-70.87814,11.02957],"type":"Point"}
+}

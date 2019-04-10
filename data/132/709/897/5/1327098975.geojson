@@ -1,0 +1,67 @@
+{
+  "id": 1327098975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.837,7.8047,-71.837,7.8047",
+    "geom:latitude":7.8047,
+    "geom:longitude":-71.837,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Las Talas",
+    "gn:country_code":"VE",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795612,
+    "gn:latitude":7.8047,
+    "gn:longitude":-71.837,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Las Talas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795612
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1cda2db13b742da6e4a8c11798486f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183171,
+            "locality_id":1327098975,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1327098975,
+    "wof:lastmodified":1536664549,
+    "wof:name":"Las Talas",
+    "wof:parent_id":421183171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.837,
+    7.8047,
+    -71.837,
+    7.8047
+],
+  "geometry": {"coordinates":[-71.837,7.8047],"type":"Point"}
+}

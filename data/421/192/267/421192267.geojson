@@ -1,0 +1,94 @@
+{
+  "id": 421192267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.98333,10.38333,-65.98333,10.38333",
+    "geom:latitude":10.38333,
+    "geom:longitude":-65.98333,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Paparo"
+    ],
+    "name:eng_x_preferred":[
+        "Paparo"
+    ],
+    "name:fra_x_preferred":[
+        "Paparo"
+    ],
+    "name:fre_x_preferred":[
+        "Paparo"
+    ],
+    "name:ita_x_preferred":[
+        "Paparo"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3630839,
+    "qs:gn_pop":0,
+    "qs:name":"Paparo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":87,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":87,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165505,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468299,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421204299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630839,
+        "gp:id":468299,
+        "qs:id":1165505,
+        "wd:id":"Q3362765",
+        "wk:page":"Paparo"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009731,
+    "wof:geomhash":"b4128118858489477f30d58ef360e183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204299,
+            "locality_id":421192267,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421192267,
+    "wof:lastmodified":1527716110,
+    "wof:name":"Paparo",
+    "wof:parent_id":421204299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.98333,
+    10.38333,
+    -65.98333,
+    10.38333
+],
+  "geometry": {"coordinates":[-65.98333,10.38333],"type":"Point"}
+}

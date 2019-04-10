@@ -1,0 +1,67 @@
+{
+  "id": 1327243407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.76667,8.45,-62.76667,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-62.76667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627951,
+    "gn:latitude":8.45,
+    "gn:longitude":-62.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627951
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"10ac9a43cf743ba7988927a1ba5d5313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1327243407,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327243407,
+    "wof:lastmodified":1536953703,
+    "wof:name":"San Miguel",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.76667,
+    8.45,
+    -62.76667,
+    8.45
+],
+  "geometry": {"coordinates":[-62.76667,8.45],"type":"Point"}
+}

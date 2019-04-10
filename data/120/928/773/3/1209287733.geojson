@@ -1,0 +1,65 @@
+{
+  "id": 1209287733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6948,8.86052,-70.6948,8.86052",
+    "geom:latitude":8.86052,
+    "geom:longitude":-70.6948,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1408",
+    "gn:asciiname":"Santo Domingo",
+    "gn:country_code":"VE",
+    "gn:dem":2151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3627021,
+    "gn:latitude":8.86052,
+    "gn:longitude":-70.6948,
+    "gn:modification_date":"2012-01-11",
+    "gn:name":"Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santo Domingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627021
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7a9ba814822ee3a8535db28aa5d03948",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209287733
+        }
+    ],
+    "wof:id":1209287733,
+    "wof:lastmodified":1537713514,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6948,
+    8.86052,
+    -70.6948,
+    8.86052
+],
+  "geometry": {"coordinates":[-70.6948,8.86052],"type":"Point"}
+}

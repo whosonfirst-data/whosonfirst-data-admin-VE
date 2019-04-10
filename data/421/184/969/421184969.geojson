@@ -1,0 +1,79 @@
+{
+  "id": 421184969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.4225535,10.131285,-65.4225535,10.131285",
+    "geom:latitude":10.131285,
+    "geom:longitude":-65.422554,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Boca de Uchire",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1015296,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805754,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421171645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805754,
+        "qs:id":1015296,
+        "qs_pg:id":1015296
+    },
+    "wof:country":"VE",
+    "wof:created":1459009428,
+    "wof:geomhash":"2ba8a00a72b22e2748121ae3bfa49963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171645,
+            "localadmin_id":421184969,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":421184969,
+    "wof:lastmodified":1497048302,
+    "wof:name":"Boca de Uchire",
+    "wof:parent_id":421171645,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.4225535,
+    10.131285,
+    -65.4225535,
+    10.131285
+],
+  "geometry": {"coordinates":[-65.42255350000001,10.131285],"type":"Point"}
+}

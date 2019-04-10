@@ -1,0 +1,67 @@
+{
+  "id": 1293569485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.91777,11.00867,-70.91777,11.00867",
+    "geom:latitude":11.00867,
+    "geom:longitude":-70.91777,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Caritivan",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646516,
+    "gn:latitude":11.00867,
+    "gn:longitude":-70.91777,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Caritiv\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646516
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f2ec413155c5f8301c1057df87348668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1293569485,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293569485,
+    "wof:lastmodified":1536668933,
+    "wof:name":"Caritivan",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.91776999999998,
+    11.00867,
+    -70.91776999999998,
+    11.00867
+],
+  "geometry": {"coordinates":[-70.91776999999998,11.00867],"type":"Point"}
+}

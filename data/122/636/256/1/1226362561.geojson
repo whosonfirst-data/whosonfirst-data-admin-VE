@@ -1,0 +1,67 @@
+{
+  "id": 1226362561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.71306,10.28639,-67.71306,10.28639",
+    "geom:latitude":10.28639,
+    "geom:longitude":-67.71306,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"La Haciendita",
+    "gn:country_code":"VE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753030,
+    "gn:latitude":10.28639,
+    "gn:longitude":-67.71306,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"La Haciendita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753030
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"756dd85a8e479c70e3a017681cf9f496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694171,
+            "locality_id":1226362561,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1226362561,
+    "wof:lastmodified":1536765742,
+    "wof:name":"La Haciendita",
+    "wof:parent_id":1108694171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.71306,
+    10.28639,
+    -67.71306,
+    10.28639
+],
+  "geometry": {"coordinates":[-67.71306,10.28639],"type":"Point"}
+}

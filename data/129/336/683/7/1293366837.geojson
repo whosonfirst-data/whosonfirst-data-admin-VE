@@ -1,0 +1,67 @@
+{
+  "id": 1293366837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.97295,9.36557,-65.97295,9.36557",
+    "geom:latitude":9.36557,
+    "geom:longitude":-65.97295,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bajos de Jabillar",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3771917,
+    "gn:latitude":9.36557,
+    "gn:longitude":-65.97295,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Bajos de Jabillar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771917
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"304174f78db4a9f090ca126184e76bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1293366837,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293366837,
+    "wof:lastmodified":1536960947,
+    "wof:name":"Bajos de Jabillar",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.97295,
+    9.36557,
+    -65.97295,
+    9.36557
+],
+  "geometry": {"coordinates":[-65.97295,9.36557],"type":"Point"}
+}

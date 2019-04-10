@@ -1,0 +1,71 @@
+{
+  "id": 1260155003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.34757,7.66949,-72.34757,7.66949",
+    "geom:latitude":7.66949,
+    "geom:longitude":-72.34757,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Chicaro",
+    "gn:country_code":"VE",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643693,
+    "gn:latitude":7.66949,
+    "gn:longitude":-72.34757,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ch\u00edcaro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicaro",
+        "El Ch\u00edcaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421203511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643693
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"014b8b1740b615dc701eeda4ea59f602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203511,
+            "locality_id":1260155003,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1260155003,
+    "wof:lastmodified":1537713607,
+    "wof:name":"El Chicaro",
+    "wof:parent_id":421203511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.34756999999998,
+    7.66949,
+    -72.34756999999998,
+    7.66949
+],
+  "geometry": {"coordinates":[-72.34756999999998,7.66949],"type":"Point"}
+}

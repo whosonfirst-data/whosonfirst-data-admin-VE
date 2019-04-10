@@ -1,0 +1,67 @@
+{
+  "id": 1343540305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.13306,10.35444,-69.13306,10.35444",
+    "geom:latitude":10.35444,
+    "geom:longitude":-69.13306,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Zarza",
+    "gn:country_code":"VE",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746701,
+    "gn:latitude":10.35444,
+    "gn:longitude":-69.13306,
+    "gn:modification_date":"1996-04-19",
+    "gn:name":"La Zarza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746701
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"85c3803cf32341daab38ac1bd60227dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694163,
+            "locality_id":1343540305,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1343540305,
+    "wof:lastmodified":1536629358,
+    "wof:name":"La Zarza",
+    "wof:parent_id":1108694163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.13306,
+    10.35444,
+    -69.13306,
+    10.35444
+],
+  "geometry": {"coordinates":[-69.13306,10.35444],"type":"Point"}
+}

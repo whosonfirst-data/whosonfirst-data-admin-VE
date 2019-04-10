@@ -1,0 +1,71 @@
+{
+  "id": 1260092057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.02613,8.44529,-63.02613,8.44529",
+    "geom:latitude":8.44529,
+    "geom:longitude":-63.02613,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Nuevo Mamo",
+    "gn:country_code":"VE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633280,
+    "gn:latitude":8.44529,
+    "gn:longitude":-63.02613,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nuevo Mamo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamo",
+        "Nuevo Mamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633280
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5a62902f8efd27061e6cac554212215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1260092057,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1260092057,
+    "wof:lastmodified":1537713543,
+    "wof:name":"Nuevo Mamo",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.02613,
+    8.44529,
+    -63.02613,
+    8.44529
+],
+  "geometry": {"coordinates":[-63.02613,8.44529],"type":"Point"}
+}

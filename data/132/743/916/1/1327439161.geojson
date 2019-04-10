@@ -1,0 +1,67 @@
+{
+  "id": 1327439161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.48222,9.83809,-64.48222,9.83809",
+    "geom:latitude":9.83809,
+    "geom:longitude":-64.48222,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Yesos",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633570,
+    "gn:latitude":9.83809,
+    "gn:longitude":-64.48222,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Los Yesos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633570
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6ef190909f26c1d70a1c2d23de4cc32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1327439161,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327439161,
+    "wof:lastmodified":1536670950,
+    "wof:name":"Los Yesos",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.48222,
+    9.83809,
+    -64.48222,
+    9.83809
+],
+  "geometry": {"coordinates":[-64.48222,9.83809],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193004695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.45282,8.788,-65.45282,8.788",
+    "geom:latitude":8.788,
+    "geom:longitude":-65.45282,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Morichito",
+    "gn:country_code":"VE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631912,
+    "gn:latitude":8.788,
+    "gn:longitude":-65.45282,
+    "gn:modification_date":"1996-04-04",
+    "gn:name":"Morichito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631912
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d26d545b0f4e466a6c38119c5ca11169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1193004695,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1193004695,
+    "wof:lastmodified":1536366856,
+    "wof:name":"Morichito",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.45281999999999,
+    8.788,
+    -65.45281999999999,
+    8.788
+],
+  "geometry": {"coordinates":[-65.45281999999999,8.788],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243447115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.86489,8.30618,-67.86489,8.30618",
+    "geom:latitude":8.30618,
+    "geom:longitude":-67.86489,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vereno",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486396,
+    "gn:latitude":8.30618,
+    "gn:longitude":-67.86489,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Vere\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486396
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"62b2f1c01a6b4b1f8a9a1a500e21c7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1243447115,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1243447115,
+    "wof:lastmodified":1536804444,
+    "wof:name":"Vereno",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.86489,
+    8.30618,
+    -67.86489,
+    8.30618
+],
+  "geometry": {"coordinates":[-67.86489,8.30618],"type":"Point"}
+}

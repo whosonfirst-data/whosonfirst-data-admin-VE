@@ -1,0 +1,70 @@
+{
+  "id": 1310270413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45342,9.10854,-69.45342,9.10854",
+    "geom:latitude":9.10854,
+    "geom:longitude":-69.45342,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Las Cachamitas",
+    "gn:country_code":"VE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797911,
+    "gn:latitude":9.10854,
+    "gn:longitude":-69.45342,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Cachamitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cachamitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797911
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4394762a02e95dd87e1e6ac7373aff52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694321,
+            "locality_id":1310270413,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1310270413,
+    "wof:lastmodified":1537713641,
+    "wof:name":"Las Cachamitas",
+    "wof:parent_id":1108694321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45342,
+    9.10854,
+    -69.45342,
+    9.10854
+],
+  "geometry": {"coordinates":[-69.45341999999999,9.10854],"type":"Point"}
+}

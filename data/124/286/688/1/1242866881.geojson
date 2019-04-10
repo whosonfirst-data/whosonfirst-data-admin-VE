@@ -1,0 +1,67 @@
+{
+  "id": 1242866881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36667,8.73333,-70.36667,8.73333",
+    "geom:latitude":8.73333,
+    "geom:longitude":-70.36667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Los Caneyes",
+    "gn:country_code":"VE",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634429,
+    "gn:latitude":8.73333,
+    "gn:longitude":-70.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Caneyes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421194991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634429
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"07de8c17dd56672e8be7cbb1c9720a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194991,
+            "locality_id":1242866881,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1242866881,
+    "wof:lastmodified":1536646549,
+    "wof:name":"Los Caneyes",
+    "wof:parent_id":421194991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36667,
+    8.73333,
+    -70.36667,
+    8.73333
+],
+  "geometry": {"coordinates":[-70.36667,8.73333],"type":"Point"}
+}

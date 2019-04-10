@@ -1,0 +1,67 @@
+{
+  "id": 1225856661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.65711,8.37077,-64.65711,8.37077",
+    "geom:latitude":8.37077,
+    "geom:longitude":-64.65711,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guaicupa",
+    "gn:country_code":"VE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485414,
+    "gn:latitude":8.37077,
+    "gn:longitude":-64.65711,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Guaicupa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485414
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"02b4051a9ac6ab661269f2de30d224b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1225856661,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1225856661,
+    "wof:lastmodified":1536997123,
+    "wof:name":"Guaicupa",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.65711,
+    8.37077,
+    -64.65711,
+    8.37077
+],
+  "geometry": {"coordinates":[-64.65711,8.37077],"type":"Point"}
+}

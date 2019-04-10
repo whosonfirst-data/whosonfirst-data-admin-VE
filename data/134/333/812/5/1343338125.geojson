@@ -1,0 +1,67 @@
+{
+  "id": 1343338125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3611,9.04793,-65.3611,9.04793",
+    "geom:latitude":9.04793,
+    "geom:longitude":-65.3611,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Merecute",
+    "gn:country_code":"VE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632338,
+    "gn:latitude":9.04793,
+    "gn:longitude":-65.3611,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Merecute",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632338
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b4c13666eff3fb7d058095ce9357b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1343338125,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343338125,
+    "wof:lastmodified":1536923600,
+    "wof:name":"Merecute",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3611,
+    9.04793,
+    -65.3611,
+    9.04793
+],
+  "geometry": {"coordinates":[-65.36109999999999,9.04793],"type":"Point"}
+}

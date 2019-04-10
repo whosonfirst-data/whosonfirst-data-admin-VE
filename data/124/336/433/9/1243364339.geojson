@@ -1,0 +1,67 @@
+{
+  "id": 1243364339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.38333,7.26667,-67.38333,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":-67.38333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Carretero",
+    "gn:country_code":"VE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646467,
+    "gn:latitude":7.26667,
+    "gn:longitude":-67.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Carretero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646467
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11027578fffdafffbd9d16c14be5adeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1243364339,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1243364339,
+    "wof:lastmodified":1536924680,
+    "wof:name":"Carretero",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.38333,
+    7.26667,
+    -67.38333,
+    7.26667
+],
+  "geometry": {"coordinates":[-67.38333,7.26667],"type":"Point"}
+}

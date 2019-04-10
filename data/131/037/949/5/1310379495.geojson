@@ -1,0 +1,67 @@
+{
+  "id": 1310379495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38323,7.79746,-72.38323,7.79746",
+    "geom:latitude":7.79746,
+    "geom:longitude":-72.38323,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Apartaderos",
+    "gn:country_code":"VE",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759333,
+    "gn:latitude":7.79746,
+    "gn:longitude":-72.38323,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Apartaderos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759333
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1777e184444a3df6eb335fdf64e74aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694121,
+            "locality_id":1310379495,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1310379495,
+    "wof:lastmodified":1537095585,
+    "wof:name":"Apartaderos",
+    "wof:parent_id":1108694121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38323000000003,
+    7.79746,
+    -72.38323000000003,
+    7.79746
+],
+  "geometry": {"coordinates":[-72.38323000000003,7.79746],"type":"Point"}
+}

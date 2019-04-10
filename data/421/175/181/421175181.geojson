@@ -1,0 +1,102 @@
+{
+  "id": 421175181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.51556,10.70639,-71.51556,10.70639",
+    "geom:latitude":10.70639,
+    "geom:longitude":-71.51556,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Los Puertos de Altagracia"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u666e\u57c3\u6258\u65af\u5fb7\u963f\u723e\u5854\u683c\u62c9\u897f\u4e9e"
+    ],
+    "name:eng_x_preferred":[
+        "Los Puertos de Altagracia"
+    ],
+    "name:pol_x_preferred":[
+        "Altagracia"
+    ],
+    "name:por_x_preferred":[
+        "Los Puertos de Altagracia"
+    ],
+    "name:sco_x_preferred":[
+        "Los Puertos de Altagracia"
+    ],
+    "name:spa_x_preferred":[
+        "Los Puertos de Altagracia"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u666e\u57c3\u6258\u65af\u5fb7\u963f\u723e\u5854\u683c\u62c9\u897f\u4e9e"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3643473,
+    "qs:gn_pop":0,
+    "qs:name":"Los Puertos de Altagracia",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":82,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":82,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":355842,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26806899,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643473,
+        "gp:id":26806899,
+        "qs:id":355842,
+        "wd:id":"Q10319806"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009058,
+    "wof:geomhash":"6d08bb709d258953e63a5d7c4f203a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694193,
+            "locality_id":421175181,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":421175181,
+    "wof:lastmodified":1527716340,
+    "wof:name":"Los Puertos de Altagracia",
+    "wof:parent_id":1108694193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.51556,
+    10.70639,
+    -71.51556,
+    10.70639
+],
+  "geometry": {"coordinates":[-71.51555999999999,10.70639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242880507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41914,7.4081,-70.41914,7.4081",
+    "geom:latitude":7.4081,
+    "geom:longitude":-70.41914,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Bogante",
+    "gn:country_code":"VE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644139,
+    "gn:latitude":7.4081,
+    "gn:longitude":-70.41914,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Bogante",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644139
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a1118b4d3e89cca6d2759c0453a09e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1242880507,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1242880507,
+    "wof:lastmodified":1536625445,
+    "wof:name":"El Bogante",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41914,
+    7.4081,
+    -70.41914,
+    7.4081
+],
+  "geometry": {"coordinates":[-70.41914,7.4081],"type":"Point"}
+}

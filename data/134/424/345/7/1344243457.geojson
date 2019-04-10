@@ -1,0 +1,67 @@
+{
+  "id": 1344243457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.47437,9.4481,-65.47437,9.4481",
+    "geom:latitude":9.4481,
+    "geom:longitude":-65.47437,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Carrizalito",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646429,
+    "gn:latitude":9.4481,
+    "gn:longitude":-65.47437,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Carrizalito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646429
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e136e4f93c5faa160f362b0be31a654f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1344243457,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1344243457,
+    "wof:lastmodified":1536608826,
+    "wof:name":"Carrizalito",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.47437,
+    9.4481,
+    -65.47437,
+    9.4481
+],
+  "geometry": {"coordinates":[-65.47436999999999,9.4481],"type":"Point"}
+}

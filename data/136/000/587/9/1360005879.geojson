@@ -1,0 +1,67 @@
+{
+  "id": 1360005879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.27192,10.23428,-68.27192,10.23428",
+    "geom:latitude":10.23428,
+    "geom:longitude":-68.27192,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aguirre",
+    "gn:country_code":"VE",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649535,
+    "gn:latitude":10.23428,
+    "gn:longitude":-68.27192,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Aguirre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649535
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0412cf9d51757c04e29942a5f61ad35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694307,
+            "locality_id":1360005879,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1360005879,
+    "wof:lastmodified":1537057429,
+    "wof:name":"Aguirre",
+    "wof:parent_id":1108694307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.27192,
+    10.23428,
+    -68.27192,
+    10.23428
+],
+  "geometry": {"coordinates":[-68.27191999999999,10.23428],"type":"Point"}
+}

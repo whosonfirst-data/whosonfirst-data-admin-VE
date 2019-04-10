@@ -1,0 +1,67 @@
+{
+  "id": 1344127961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.70273,10.25167,-69.70273,10.25167",
+    "geom:latitude":10.25167,
+    "geom:longitude":-69.70273,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pozo Salado",
+    "gn:country_code":"VE",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629854,
+    "gn:latitude":10.25167,
+    "gn:longitude":-69.70273,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Pozo Salado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629854
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"094a79400e46b9ab28c1b932ae44af8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1344127961,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1344127961,
+    "wof:lastmodified":1536778788,
+    "wof:name":"Pozo Salado",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.70273,
+    10.25167,
+    -69.70273,
+    10.25167
+],
+  "geometry": {"coordinates":[-69.70273,10.25167],"type":"Point"}
+}

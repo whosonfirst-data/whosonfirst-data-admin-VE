@@ -1,0 +1,67 @@
+{
+  "id": 1242837653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95,11.05,-63.95,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-63.95,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Maco",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642769,
+    "gn:latitude":11.05,
+    "gn:longitude":-63.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Maco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421196983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642769
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d47edf824c84154a749777b6f38de12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196983,
+            "locality_id":1242837653,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1242837653,
+    "wof:lastmodified":1536689310,
+    "wof:name":"El Maco",
+    "wof:parent_id":421196983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95,
+    11.05,
+    -63.95,
+    11.05
+],
+  "geometry": {"coordinates":[-63.95,11.05],"type":"Point"}
+}

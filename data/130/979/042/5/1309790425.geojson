@@ -1,0 +1,67 @@
+{
+  "id": 1309790425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.09318,9.04303,-68.09318,9.04303",
+    "geom:latitude":9.04303,
+    "geom:longitude":-68.09318,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cano de Agua",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646980,
+    "gn:latitude":9.04303,
+    "gn:longitude":-68.09318,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Ca\u00f1o de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646980
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4cac3c22f0f0cafc1c2287ef5d6435f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1309790425,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1309790425,
+    "wof:lastmodified":1536953360,
+    "wof:name":"Cano de Agua",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.09318,
+    9.04303,
+    -68.09318,
+    9.04303
+],
+  "geometry": {"coordinates":[-68.09318,9.04303],"type":"Point"}
+}

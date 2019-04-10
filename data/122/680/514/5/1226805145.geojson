@@ -1,0 +1,67 @@
+{
+  "id": 1226805145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.79116,10.91001,-71.79116,10.91001",
+    "geom:latitude":10.91001,
+    "geom:longitude":-71.79116,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"El Ciruelo Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3788693,
+    "gn:latitude":10.91001,
+    "gn:longitude":-71.79116,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"El Ciruelo Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788693
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dc2d598f1ddff1d2b84de32585d843c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1226805145,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226805145,
+    "wof:lastmodified":1536628435,
+    "wof:name":"El Ciruelo Arriba",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.79115999999998,
+    10.91001,
+    -71.79115999999998,
+    10.91001
+],
+  "geometry": {"coordinates":[-71.79115999999998,10.91001],"type":"Point"}
+}

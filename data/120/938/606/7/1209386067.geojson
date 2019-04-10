@@ -1,0 +1,61 @@
+{
+  "id": 1209386067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21353,9.98863,-69.21353,9.98863",
+    "geom:latitude":9.98863,
+    "geom:longitude":-69.21353,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Naranjillo",
+    "gn:country_code":"VE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749882,
+    "gn:latitude":9.98863,
+    "gn:longitude":-69.21353,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"El Naranjillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749882
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c224eb204046bfcb395a16eb320f406a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209386067
+        }
+    ],
+    "wof:id":1209386067,
+    "wof:lastmodified":1536288621,
+    "wof:name":"El Naranjillo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21353,
+    9.98863,
+    -69.21353,
+    9.98863
+],
+  "geometry": {"coordinates":[-69.21353000000001,9.98863],"type":"Point"}
+}

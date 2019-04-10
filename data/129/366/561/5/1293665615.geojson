@@ -1,0 +1,67 @@
+{
+  "id": 1293665615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.74394,9.72916,-67.74394,9.72916",
+    "geom:latitude":9.72916,
+    "geom:longitude":-67.74394,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bucaro",
+    "gn:country_code":"VE",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3772032,
+    "gn:latitude":9.72916,
+    "gn:longitude":-67.74394,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Bucaro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772032
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5886fb0d7f4660b5d0162d7b5a952177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1293665615,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293665615,
+    "wof:lastmodified":1537026371,
+    "wof:name":"Bucaro",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.74394000000001,
+    9.72916,
+    -67.74394000000001,
+    9.72916
+],
+  "geometry": {"coordinates":[-67.74394000000001,9.72916],"type":"Point"}
+}

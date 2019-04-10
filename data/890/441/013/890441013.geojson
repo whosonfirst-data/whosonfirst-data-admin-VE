@@ -1,0 +1,72 @@
+{
+  "id": 890441013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.24166,10.02588,-69.24166,10.02588",
+    "geom:latitude":10.02588,
+    "geom:longitude":-69.24166,
+    "gn:country":"VE",
+    "gn:fcode":"PPL",
+    "gn:pop":34636,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rastrojo"
+    ],
+    "qs:name":"Los Rastrojos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":978,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633677,
+        "gp:id":468270,
+        "qs:id":149610,
+        "wd:id":"Q9070633",
+        "wk:page":"Los Rastrojos"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052305,
+    "wof:geomhash":"e36e5cd3320c7a71c7dea25698ad8d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694327,
+            "locality_id":890441013,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":890441013,
+    "wof:lastmodified":1527727227,
+    "wof:name":"Los Rastrojos",
+    "wof:parent_id":1108694327,
+    "wof:placetype":"locality",
+    "wof:population":34636,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.24166,
+    10.02588,
+    -69.24166,
+    10.02588
+],
+  "geometry": {"coordinates":[-69.24166,10.02588],"type":"Point"}
+}

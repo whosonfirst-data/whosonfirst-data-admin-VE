@@ -1,0 +1,71 @@
+{
+  "id": 1326788485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3139,10.39737,-71.3139,10.39737",
+    "geom:latitude":10.39737,
+    "geom:longitude":-71.3139,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Cieneguita",
+    "gn:country_code":"VE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638435,
+    "gn:latitude":10.39737,
+    "gn:longitude":-71.3139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cieneguita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cieneguita",
+        "Cieneguita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638435
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f95a7c832196eeca091874863ca0bbfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1326788485,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326788485,
+    "wof:lastmodified":1537713574,
+    "wof:name":"Cieneguita",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3139,
+    10.39737,
+    -71.3139,
+    10.39737
+],
+  "geometry": {"coordinates":[-71.3139,10.39737],"type":"Point"}
+}

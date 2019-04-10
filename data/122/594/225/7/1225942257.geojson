@@ -1,0 +1,67 @@
+{
+  "id": 1225942257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11667,7.96667,-70.11667,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":-70.11667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Rafael de Canagua",
+    "gn:country_code":"VE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627686,
+    "gn:latitude":7.96667,
+    "gn:longitude":-70.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Rafael de Canagu\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627686
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2f350d896954d74e637cd34a4b865c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1225942257,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1225942257,
+    "wof:lastmodified":1536873451,
+    "wof:name":"San Rafael de Canagua",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11667,
+    7.96667,
+    -70.11667,
+    7.96667
+],
+  "geometry": {"coordinates":[-70.11667,7.96667],"type":"Point"}
+}

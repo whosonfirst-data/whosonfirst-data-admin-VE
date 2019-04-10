@@ -1,0 +1,67 @@
+{
+  "id": 1276626313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.31987,9.22733,-63.31987,9.22733",
+    "geom:latitude":9.22733,
+    "geom:longitude":-63.31987,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Baul",
+    "gn:country_code":"VE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3751266,
+    "gn:latitude":9.22733,
+    "gn:longitude":-63.31987,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Ba\u00fal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751266
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f8aaf5f655d085a03f157667be88c8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1276626313,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276626313,
+    "wof:lastmodified":1536882945,
+    "wof:name":"El Baul",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.31987,
+    9.22733,
+    -63.31987,
+    9.22733
+],
+  "geometry": {"coordinates":[-63.31987,9.22733],"type":"Point"}
+}

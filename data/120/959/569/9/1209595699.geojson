@@ -1,0 +1,61 @@
+{
+  "id": 1209595699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9696,11.32129,-69.9696,11.32129",
+    "geom:latitude":11.32129,
+    "geom:longitude":-69.9696,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Las Puentes",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766100,
+    "gn:latitude":11.32129,
+    "gn:longitude":-69.9696,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Las Puentes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766100
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0d3980fad171699e06b36701b7a687b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209595699
+        }
+    ],
+    "wof:id":1209595699,
+    "wof:lastmodified":1536282331,
+    "wof:name":"Las Puentes",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9696,
+    11.32129,
+    -69.9696,
+    11.32129
+],
+  "geometry": {"coordinates":[-69.9696,11.32129],"type":"Point"}
+}

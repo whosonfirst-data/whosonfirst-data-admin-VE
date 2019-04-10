@@ -1,0 +1,61 @@
+{
+  "id": 1209337441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.48539,10.0828,-67.48539,10.0828",
+    "geom:latitude":10.0828,
+    "geom:longitude":-67.48539,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Ermita",
+    "gn:country_code":"VE",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806279,
+    "gn:latitude":10.0828,
+    "gn:longitude":-67.48539,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"La Ermita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806279
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6b3c66ca302a845c80767e8cfe013221",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209337441
+        }
+    ],
+    "wof:id":1209337441,
+    "wof:lastmodified":1536290173,
+    "wof:name":"La Ermita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.48539,
+    10.0828,
+    -67.48539,
+    10.0828
+],
+  "geometry": {"coordinates":[-67.48539,10.0828],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259641483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14588,9.2079,-71.14588,9.2079",
+    "geom:latitude":9.2079,
+    "geom:longitude":-71.14588,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Encarnacion",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638116,
+    "gn:latitude":9.2079,
+    "gn:longitude":-71.14588,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"La Encarnaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638116
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"71bbcc4ecfb9b0476f0f2c6325c4af49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1259641483,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1259641483,
+    "wof:lastmodified":1536629561,
+    "wof:name":"La Encarnacion",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14588,
+    9.2079,
+    -71.14588,
+    9.2079
+],
+  "geometry": {"coordinates":[-71.14588000000001,9.2079],"type":"Point"}
+}

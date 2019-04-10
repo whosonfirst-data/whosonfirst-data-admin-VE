@@ -1,0 +1,61 @@
+{
+  "id": 1343814099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57638,10.78358,-71.57638,10.78358",
+    "geom:latitude":10.78358,
+    "geom:longitude":-71.57638,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Punta de Palmas",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629605,
+    "gn:latitude":10.78358,
+    "gn:longitude":-71.57638,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Punta de Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629605
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"30a2a651c253a6c959c7c52a95075eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343814099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343814099,
+    "wof:lastmodified":1536733858,
+    "wof:name":"Punta de Palmas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57638,
+    10.78358,
+    -71.57638,
+    10.78358
+],
+  "geometry": {"coordinates":[-71.57638,10.78358],"type":"Point"}
+}

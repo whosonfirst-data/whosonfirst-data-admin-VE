@@ -1,0 +1,76 @@
+{
+  "id": 421201427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.81753,11.02712,-63.81753,11.02712",
+    "geom:latitude":11.02712,
+    "geom:longitude":-63.81753,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3649668,
+    "qs:gn_pop":0,
+    "qs:name":"Agua de Vaca",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211206,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468127,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421172599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649668,
+        "gp:id":468127,
+        "qs:id":211206
+    },
+    "wof:country":"VE",
+    "wof:created":1459010072,
+    "wof:geomhash":"a14dcc13853fe1525bfc59400196dd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172599,
+            "locality_id":421201427,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421201427,
+    "wof:lastmodified":1500034414,
+    "wof:name":"Agua de Vaca",
+    "wof:parent_id":421172599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.81753,
+    11.02712,
+    -63.81753,
+    11.02712
+],
+  "geometry": {"coordinates":[-63.81753,11.02712],"type":"Point"}
+}

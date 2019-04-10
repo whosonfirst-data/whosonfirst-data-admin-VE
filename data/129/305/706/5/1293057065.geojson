@@ -1,0 +1,67 @@
+{
+  "id": 1293057065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28287,10.40737,-71.28287,10.40737",
+    "geom:latitude":10.40737,
+    "geom:longitude":-71.28287,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Palmita Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763701,
+    "gn:latitude":10.40737,
+    "gn:longitude":-71.28287,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"La Palmita Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763701
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"13460af5cb4b4ca55757025576effd7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1293057065,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293057065,
+    "wof:lastmodified":1536911184,
+    "wof:name":"La Palmita Arriba",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28286999999997,
+    10.40737,
+    -71.28286999999997,
+    10.40737
+],
+  "geometry": {"coordinates":[-71.28286999999997,10.40737],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242736969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26756,7.85725,-72.26756,7.85725",
+    "geom:latitude":7.85725,
+    "geom:longitude":-72.26756,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Llanito",
+    "gn:country_code":"VE",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759229,
+    "gn:latitude":7.85725,
+    "gn:longitude":-72.26756,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"El Llanito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759229
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"16bd638d3e0bfbc131e0001d4cdd8652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694213,
+            "locality_id":1242736969,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1242736969,
+    "wof:lastmodified":1536833323,
+    "wof:name":"El Llanito",
+    "wof:parent_id":1108694213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26756,
+    7.85725,
+    -72.26756,
+    7.85725
+],
+  "geometry": {"coordinates":[-72.26756,7.85725],"type":"Point"}
+}

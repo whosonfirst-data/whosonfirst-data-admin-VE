@@ -1,0 +1,67 @@
+{
+  "id": 1209774687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27199,7.81121,-72.27199,7.81121",
+    "geom:latitude":7.81121,
+    "geom:longitude":-72.27199,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Pie de Cuesta",
+    "gn:country_code":"VE",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759257,
+    "gn:latitude":7.81121,
+    "gn:longitude":-72.27199,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Pie de Cuesta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759257
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"102c12184ce67ba51aaa9b37adaef2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694213,
+            "locality_id":1209774687,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1209774687,
+    "wof:lastmodified":1536380149,
+    "wof:name":"Pie de Cuesta",
+    "wof:parent_id":1108694213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27199,
+    7.81121,
+    -72.27199,
+    7.81121
+],
+  "geometry": {"coordinates":[-72.27199,7.81121],"type":"Point"}
+}

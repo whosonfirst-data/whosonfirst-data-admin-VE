@@ -1,0 +1,61 @@
+{
+  "id": 1260035871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44467,10.37099,-71.44467,10.37099",
+    "geom:latitude":10.37099,
+    "geom:longitude":-71.44467,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Salina",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636327,
+    "gn:latitude":10.37099,
+    "gn:longitude":-71.44467,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"La Salina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636327
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6d4947fa6382aa861b61a5903832dff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260035871,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260035871,
+    "wof:lastmodified":1537054381,
+    "wof:name":"La Salina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44467,
+    10.37099,
+    -71.44467,
+    10.37099
+],
+  "geometry": {"coordinates":[-71.44467,10.37099],"type":"Point"}
+}

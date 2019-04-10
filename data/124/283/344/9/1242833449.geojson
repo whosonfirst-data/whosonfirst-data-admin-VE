@@ -1,0 +1,67 @@
+{
+  "id": 1242833449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98825,8.15201,-71.98825,8.15201",
+    "geom:latitude":8.15201,
+    "geom:longitude":-71.98825,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Rincon",
+    "gn:country_code":"VE",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641724,
+    "gn:latitude":8.15201,
+    "gn:longitude":-71.98825,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"El Rinc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641724
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"21f26438a5004db9be64f606f9a16e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202067,
+            "locality_id":1242833449,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1242833449,
+    "wof:lastmodified":1536695518,
+    "wof:name":"El Rincon",
+    "wof:parent_id":421202067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98825,
+    8.15201,
+    -71.98825,
+    8.15201
+],
+  "geometry": {"coordinates":[-71.98824999999999,8.15201],"type":"Point"}
+}

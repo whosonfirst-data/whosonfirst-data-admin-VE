@@ -1,0 +1,72 @@
+{
+  "id": 1226063459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.33139,8.42056,-61.33139,8.42056",
+    "geom:latitude":8.42056,
+    "geom:longitude":-61.33139,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Manoa",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633133,
+    "gn:latitude":8.42056,
+    "gn:longitude":-61.33139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manoa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imataca",
+        "Manoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633133
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"087f3c940e3cfe71748335013b5e6aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1226063459,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1226063459,
+    "wof:lastmodified":1537713543,
+    "wof:name":"Manoa",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.33139,
+    8.42056,
+    -61.33139,
+    8.42056
+],
+  "geometry": {"coordinates":[-61.33139,8.42056],"type":"Point"}
+}

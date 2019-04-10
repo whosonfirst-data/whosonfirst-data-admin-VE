@@ -1,0 +1,67 @@
+{
+  "id": 1260092067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.4948,9.28631,-64.4948,9.28631",
+    "geom:latitude":9.28631,
+    "geom:longitude":-64.4948,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Roblar",
+    "gn:country_code":"VE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641686,
+    "gn:latitude":9.28631,
+    "gn:longitude":-64.4948,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"El Roblar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421175071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641686
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c5bb99246cdde71daa7a393a6b53ee27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175071,
+            "locality_id":1260092067,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1260092067,
+    "wof:lastmodified":1536975126,
+    "wof:name":"El Roblar",
+    "wof:parent_id":421175071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4948,
+    9.28631,
+    -64.4948,
+    9.28631
+],
+  "geometry": {"coordinates":[-64.4948,9.28631],"type":"Point"}
+}

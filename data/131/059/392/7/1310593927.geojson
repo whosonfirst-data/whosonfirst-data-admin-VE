@@ -1,0 +1,67 @@
+{
+  "id": 1310593927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.81324,7.90637,-68.81324,7.90637",
+    "geom:latitude":7.90637,
+    "geom:longitude":-68.81324,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Mulas",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486929,
+    "gn:latitude":7.90637,
+    "gn:longitude":-68.81324,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Las Mulas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486929
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4989e3da538220c82e306233308ec5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1310593927,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1310593927,
+    "wof:lastmodified":1536789831,
+    "wof:name":"Las Mulas",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.81324000000001,
+    7.90637,
+    -68.81324000000001,
+    7.90637
+],
+  "geometry": {"coordinates":[-68.81324000000001,7.90637],"type":"Point"}
+}

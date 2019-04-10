@@ -1,0 +1,61 @@
+{
+  "id": 1209025389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.89863,9.55234,-68.89863,9.55234",
+    "geom:latitude":9.55234,
+    "geom:longitude":-68.89863,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Casa de Tejas",
+    "gn:country_code":"VE",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646329,
+    "gn:latitude":9.55234,
+    "gn:longitude":-68.89863,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Casa de Tejas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646329
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"30116cb55dd6440dc4aca1a7f03c6bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209025389
+        }
+    ],
+    "wof:id":1209025389,
+    "wof:lastmodified":1536300015,
+    "wof:name":"Casa de Tejas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.89863000000001,
+    9.55234,
+    -68.89863000000001,
+    9.55234
+],
+  "geometry": {"coordinates":[-68.89863000000001,9.55234],"type":"Point"}
+}

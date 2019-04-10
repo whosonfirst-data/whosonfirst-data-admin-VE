@@ -1,0 +1,61 @@
+{
+  "id": 1209512393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33722,7.32278,-63.33722,7.32278",
+    "geom:latitude":7.32278,
+    "geom:longitude":-63.33722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"VE",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809445,
+    "gn:latitude":7.32278,
+    "gn:longitude":-63.33722,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809445
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"915f64570c77b05d1ccbf0f4be0a4c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209512393
+        }
+    ],
+    "wof:id":1209512393,
+    "wof:lastmodified":1536284841,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33722,
+    7.322780000000002,
+    -63.33722,
+    7.322780000000002
+],
+  "geometry": {"coordinates":[-63.33722,7.32278],"type":"Point"}
+}

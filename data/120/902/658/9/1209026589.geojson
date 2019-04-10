@@ -1,0 +1,61 @@
+{
+  "id": 1209026589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8,10.0,-67.8,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-67.8,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Cecilia",
+    "gn:country_code":"VE",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646108,
+    "gn:latitude":10.0,
+    "gn:longitude":-67.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cecilia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646108
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"077d01e945d93a65308188b3651ca3a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209026589
+        }
+    ],
+    "wof:id":1209026589,
+    "wof:lastmodified":1536299978,
+    "wof:name":"Cecilia",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8,
+    10.0,
+    -67.8,
+    10.0
+],
+  "geometry": {"coordinates":[-67.8,10.0],"type":"Point"}
+}

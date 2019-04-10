@@ -1,0 +1,61 @@
+{
+  "id": 1209289811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26216,8.85257,-69.26216,8.85257",
+    "geom:latitude":8.85257,
+    "geom:longitude":-69.26216,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Santa Paula",
+    "gn:country_code":"VE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627217,
+    "gn:latitude":8.85257,
+    "gn:longitude":-69.26216,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Santa Paula",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627217
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a578880bdae8447f15cd0fe8cfc447c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209289811
+        }
+    ],
+    "wof:id":1209289811,
+    "wof:lastmodified":1536291734,
+    "wof:name":"Santa Paula",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26216,
+    8.85257,
+    -69.26216,
+    8.85257
+],
+  "geometry": {"coordinates":[-69.26215999999999,8.85257],"type":"Point"}
+}

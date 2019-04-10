@@ -1,0 +1,72 @@
+{
+  "id": 1343268185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05,7.75,-69.05,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":-69.05,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Boca de Guairitico",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648205,
+    "gn:latitude":7.75,
+    "gn:longitude":-69.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boca de Guairitico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca Guaritico",
+        "Boca de Guairitico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648205
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"306872eefa4cfe02fb6f609c0bd5a3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1343268185,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343268185,
+    "wof:lastmodified":1537713628,
+    "wof:name":"Boca de Guairitico",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05,
+    7.75,
+    -69.05,
+    7.75
+],
+  "geometry": {"coordinates":[-69.05,7.75],"type":"Point"}
+}

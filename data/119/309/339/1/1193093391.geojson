@@ -1,0 +1,72 @@
+{
+  "id": 1193093391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.69028,10.60111,-68.69028,10.60111",
+    "geom:latitude":10.60111,
+    "geom:longitude":-68.69028,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Kilometro Treinta y Cinco",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639037,
+    "gn:latitude":10.60111,
+    "gn:longitude":-68.69028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kil\u00f3metro Treinta y Cinco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 35",
+        "Kil\u00f3metro Treinta y Cinco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639037
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3443c743324147b4aea228233a6426dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694273,
+            "locality_id":1193093391,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1193093391,
+    "wof:lastmodified":1537713579,
+    "wof:name":"Kilometro Treinta y Cinco",
+    "wof:parent_id":1108694273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.69028,
+    10.60111,
+    -68.69028,
+    10.60111
+],
+  "geometry": {"coordinates":[-68.69028,10.60111],"type":"Point"}
+}

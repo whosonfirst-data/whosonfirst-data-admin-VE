@@ -1,0 +1,67 @@
+{
+  "id": 1226119801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08102,10.9365,-70.08102,10.9365",
+    "geom:latitude":10.9365,
+    "geom:longitude":-70.08102,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yabalito",
+    "gn:country_code":"VE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784839,
+    "gn:latitude":10.9365,
+    "gn:longitude":-70.08102,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Yabalito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784839
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6f64a1f1c5a143c393e4f1128add40a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1226119801,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226119801,
+    "wof:lastmodified":1536615987,
+    "wof:name":"Yabalito",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08102,
+    10.9365,
+    -70.08102,
+    10.9365
+],
+  "geometry": {"coordinates":[-70.08102,10.9365],"type":"Point"}
+}

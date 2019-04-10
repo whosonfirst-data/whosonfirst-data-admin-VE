@@ -1,0 +1,71 @@
+{
+  "id": 1309709369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.18485,7.33369,-65.18485,7.33369",
+    "geom:latitude":7.33369,
+    "geom:longitude":-65.18485,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Guayapo",
+    "gn:country_code":"VE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639805,
+    "gn:latitude":7.33369,
+    "gn:longitude":-65.18485,
+    "gn:modification_date":"2015-10-28",
+    "gn:name":"Guayapo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayape",
+        "Guayapo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421175383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639805
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c1d4e25288ceb9f7763c979a36e16d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175383,
+            "locality_id":1309709369,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1309709369,
+    "wof:lastmodified":1537713583,
+    "wof:name":"Guayapo",
+    "wof:parent_id":421175383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.18485,
+    7.33369,
+    -65.18485,
+    7.33369
+],
+  "geometry": {"coordinates":[-65.18485,7.33369],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327316109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.87336,10.34364,-66.87336,10.34364",
+    "geom:latitude":10.34364,
+    "geom:longitude":-66.87336,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Macarizagua",
+    "gn:country_code":"VE",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633462,
+    "gn:latitude":10.34364,
+    "gn:longitude":-66.87336,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macarizagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masasarigua",
+        "Macasarigua",
+        "Macarizagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633462
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3106ba93c511903de5a5009ad5794228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1327316109,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1327316109,
+    "wof:lastmodified":1537713545,
+    "wof:name":"Macarizagua",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.87335999999999,
+    10.34364,
+    -66.87335999999999,
+    10.34364
+],
+  "geometry": {"coordinates":[-66.87335999999999,10.34364],"type":"Point"}
+}

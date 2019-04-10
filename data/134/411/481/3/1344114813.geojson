@@ -1,0 +1,71 @@
+{
+  "id": 1344114813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95895,9.53888,-71.95895,9.53888",
+    "geom:latitude":9.53888,
+    "geom:longitude":-71.95895,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Lagunetas",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637630,
+    "gn:latitude":9.53888,
+    "gn:longitude":-71.95895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lagunetas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagunitas",
+        "Lagunetas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637630
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c7830f83aa055c8ce1cea33eedeb157d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1344114813,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1344114813,
+    "wof:lastmodified":1537713568,
+    "wof:name":"Lagunetas",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95895,
+    9.53888,
+    -71.95895,
+    9.53888
+],
+  "geometry": {"coordinates":[-71.95895,9.53888],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277079289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18333,10.11667,-67.18333,10.11667",
+    "geom:latitude":10.11667,
+    "geom:longitude":-67.18333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"El Colorozo",
+    "gn:country_code":"VE",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643581,
+    "gn:latitude":10.11667,
+    "gn:longitude":-67.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Colorozo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643581
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3f2a11dd7a2278fbdcaccaa76e62a320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694419,
+            "locality_id":1277079289,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1277079289,
+    "wof:lastmodified":1536773177,
+    "wof:name":"El Colorozo",
+    "wof:parent_id":1108694419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18333,
+    10.11667,
+    -67.18333,
+    10.11667
+],
+  "geometry": {"coordinates":[-67.18333,10.11667],"type":"Point"}
+}

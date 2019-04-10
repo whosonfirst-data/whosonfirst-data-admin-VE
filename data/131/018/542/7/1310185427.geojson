@@ -1,0 +1,67 @@
+{
+  "id": 1310185427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.75727,11.11162,-69.75727,11.11162",
+    "geom:latitude":11.11162,
+    "geom:longitude":-69.75727,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Francisquito",
+    "gn:country_code":"VE",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3786127,
+    "gn:latitude":11.11162,
+    "gn:longitude":-69.75727,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"Francisquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421169951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786127
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"55c8326f2df14e0617ca37def67fa0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169951,
+            "locality_id":1310185427,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310185427,
+    "wof:lastmodified":1536880570,
+    "wof:name":"Francisquito",
+    "wof:parent_id":421169951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.75726999999999,
+    11.11162,
+    -69.75726999999999,
+    11.11162
+],
+  "geometry": {"coordinates":[-69.75726999999999,11.11162],"type":"Point"}
+}

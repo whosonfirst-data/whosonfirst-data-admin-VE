@@ -1,0 +1,67 @@
+{
+  "id": 1276988529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.98468,9.22259,-63.98468,9.22259",
+    "geom:latitude":9.22259,
+    "geom:longitude":-63.98468,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Domino",
+    "gn:country_code":"VE",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3751505,
+    "gn:latitude":9.22259,
+    "gn:longitude":-63.98468,
+    "gn:modification_date":"1996-07-29",
+    "gn:name":"El Domin\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751505
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"28a09db7f65ebc16430007b5ed5d38bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1276988529,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276988529,
+    "wof:lastmodified":1536895213,
+    "wof:name":"El Domino",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.98468,
+    9.22259,
+    -63.98468,
+    9.22259
+],
+  "geometry": {"coordinates":[-63.98468,9.22259],"type":"Point"}
+}

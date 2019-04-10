@@ -1,0 +1,67 @@
+{
+  "id": 1276879361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.00583,6.99833,-70.00583,6.99833",
+    "geom:latitude":6.99833,
+    "geom:longitude":-70.00583,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Leche de Miel",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634795,
+    "gn:latitude":6.99833,
+    "gn:longitude":-70.00583,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Leche de Miel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421180899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634795
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"064da92d807f8887314c16a60789f1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180899,
+            "locality_id":1276879361,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276879361,
+    "wof:lastmodified":1537040077,
+    "wof:name":"Leche de Miel",
+    "wof:parent_id":421180899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.00583,
+    6.99833,
+    -70.00583,
+    6.99833
+],
+  "geometry": {"coordinates":[-70.00583,6.99833],"type":"Point"}
+}

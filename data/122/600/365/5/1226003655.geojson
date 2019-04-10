@@ -1,0 +1,67 @@
+{
+  "id": 1226003655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10302,8.49652,-72.10302,8.49652",
+    "geom:latitude":8.49652,
+    "geom:longitude":-72.10302,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Esfuerzo",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757664,
+    "gn:latitude":8.49652,
+    "gn:longitude":-72.10302,
+    "gn:modification_date":"1996-12-19",
+    "gn:name":"El Esfuerzo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757664
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e566baa82050edcb6c6f7a34b1539e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694335,
+            "locality_id":1226003655,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1226003655,
+    "wof:lastmodified":1536786476,
+    "wof:name":"El Esfuerzo",
+    "wof:parent_id":1108694335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10302,
+    8.49652,
+    -72.10302,
+    8.49652
+],
+  "geometry": {"coordinates":[-72.10302,8.49652],"type":"Point"}
+}

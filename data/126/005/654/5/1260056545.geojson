@@ -1,0 +1,71 @@
+{
+  "id": 1260056545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58571,8.33865,-67.58571,8.33865",
+    "geom:latitude":8.33865,
+    "geom:longitude":-67.58571,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Puerta Fleitera",
+    "gn:country_code":"VE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629722,
+    "gn:latitude":8.33865,
+    "gn:longitude":-67.58571,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Puerta Fleitera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerta Fleitera",
+        "La Puerta Fleitera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629722
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a07e4ac715fc984c9c153b0799df1cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694141,
+            "locality_id":1260056545,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1260056545,
+    "wof:lastmodified":1537713527,
+    "wof:name":"La Puerta Fleitera",
+    "wof:parent_id":1108694141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58570999999999,
+    8.33865,
+    -67.58570999999999,
+    8.33865
+],
+  "geometry": {"coordinates":[-67.58570999999999,8.33865],"type":"Point"}
+}

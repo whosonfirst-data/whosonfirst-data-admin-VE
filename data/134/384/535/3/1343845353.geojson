@@ -1,0 +1,67 @@
+{
+  "id": 1343845353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.90346,10.8522,-69.90346,10.8522",
+    "geom:latitude":10.8522,
+    "geom:longitude":-69.90346,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Puerta",
+    "gn:country_code":"VE",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750996,
+    "gn:latitude":10.8522,
+    "gn:longitude":-69.90346,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"La Puerta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750996
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c650650300324fc52186faab243f8280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1343845353,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343845353,
+    "wof:lastmodified":1536688500,
+    "wof:name":"La Puerta",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.90346,
+    10.8522,
+    -69.90346,
+    10.8522
+],
+  "geometry": {"coordinates":[-69.90346,10.8522],"type":"Point"}
+}

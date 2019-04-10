@@ -1,0 +1,67 @@
+{
+  "id": 1243321905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.85992,10.29219,-68.85992,10.29219",
+    "geom:latitude":10.29219,
+    "geom:longitude":-68.85992,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Quigua",
+    "gn:country_code":"VE",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629415,
+    "gn:latitude":10.29219,
+    "gn:longitude":-68.85992,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Quigua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629415
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a281dbf645dd6e84cfdca180a846b244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694449,
+            "locality_id":1243321905,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1243321905,
+    "wof:lastmodified":1536984462,
+    "wof:name":"Quigua",
+    "wof:parent_id":1108694449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.85991999999999,
+    10.29219,
+    -68.85991999999999,
+    10.29219
+],
+  "geometry": {"coordinates":[-68.85991999999999,10.29219],"type":"Point"}
+}

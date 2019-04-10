@@ -1,0 +1,67 @@
+{
+  "id": 1344138239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.11,9.84,-63.11,9.84",
+    "geom:latitude":9.84,
+    "geom:longitude":-63.11,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Canito",
+    "gn:country_code":"VE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777670,
+    "gn:latitude":9.84,
+    "gn:longitude":-63.11,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Ca\u00f1ito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777670
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"01f43f7e90ebc4a26a3c74c12955e25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1344138239,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1344138239,
+    "wof:lastmodified":1536763717,
+    "wof:name":"Canito",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.11,
+    9.84,
+    -63.11,
+    9.84
+],
+  "geometry": {"coordinates":[-63.11,9.84],"type":"Point"}
+}

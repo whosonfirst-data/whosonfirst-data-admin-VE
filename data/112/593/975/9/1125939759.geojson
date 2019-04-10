@@ -1,0 +1,78 @@
+{
+  "id": 1125939759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13333,8.41667,-71.13333,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-71.13333,
+    "gn:gn_country":"VE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":215259,
+    "gn:population":215259,
+    "iso:country":"VE",
+    "lbl:latitude":8.41667,
+    "lbl:longitude":-71.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"VE",
+    "qs_pg:gn_country":"VE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3631741,
+    "qs_pg:gn_pop":215259,
+    "qs_pg:name":"Mucumpiz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1045785,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631741,
+        "qs_pg:id":1045785
+    },
+    "wof:country":"VE",
+    "wof:created":1497297077,
+    "wof:geomhash":"917d107e381a8c76221374a558acb7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":1125939759,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1125939759,
+    "wof:lastmodified":1509402016,
+    "wof:name":"Mucumpiz",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:population":215259,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13333,
+    8.41667,
+    -71.13333,
+    8.41667
+],
+  "geometry": {"coordinates":[-71.13333,8.41667],"type":"Point"}
+}

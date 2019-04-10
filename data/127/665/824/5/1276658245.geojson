@@ -1,0 +1,67 @@
+{
+  "id": 1276658245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07333,6.98278,-71.07333,6.98278",
+    "geom:latitude":6.98278,
+    "geom:longitude":-71.07333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Pelona",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759584,
+    "gn:latitude":6.98278,
+    "gn:longitude":-71.07333,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"La Pelona",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759584
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ffa79fc563f6df146560bac4a95ba164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1276658245,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276658245,
+    "wof:lastmodified":1536839341,
+    "wof:name":"La Pelona",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07333,
+    6.98278,
+    -71.07333,
+    6.98278
+],
+  "geometry": {"coordinates":[-71.07333,6.98278],"type":"Point"}
+}

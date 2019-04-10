@@ -1,0 +1,67 @@
+{
+  "id": 1293885647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16917,9.61,-65.16917,9.61",
+    "geom:latitude":9.61,
+    "geom:longitude":-65.16917,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Lomas",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635799,
+    "gn:latitude":9.61,
+    "gn:longitude":-65.16917,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Las Lomas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635799
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4ec5075dcda28f390252027d1f02f277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1293885647,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293885647,
+    "wof:lastmodified":1536710554,
+    "wof:name":"Las Lomas",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16917,
+    9.61,
+    -65.16917,
+    9.61
+],
+  "geometry": {"coordinates":[-65.16916999999999,9.61],"type":"Point"}
+}

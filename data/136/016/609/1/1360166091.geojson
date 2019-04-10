@@ -1,0 +1,71 @@
+{
+  "id": 1360166091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.44447,9.68575,-63.44447,9.68575",
+    "geom:latitude":9.68575,
+    "geom:longitude":-63.44447,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Furrial",
+    "gn:country_code":"VE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643226,
+    "gn:latitude":9.68575,
+    "gn:longitude":-63.44447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Furrial",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Furriai",
+        "El Furrial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643226
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"34738f799d6b5dddd53a824d2e076637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1360166091,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1360166091,
+    "wof:lastmodified":1537713603,
+    "wof:name":"El Furrial",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.44447,
+    9.68575,
+    -63.44447,
+    9.68575
+],
+  "geometry": {"coordinates":[-63.44447,9.68575],"type":"Point"}
+}

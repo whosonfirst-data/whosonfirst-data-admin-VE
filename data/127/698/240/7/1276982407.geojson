@@ -1,0 +1,67 @@
+{
+  "id": 1276982407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1545,9.59386,-65.1545,9.59386",
+    "geom:latitude":9.59386,
+    "geom:longitude":-65.1545,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Remolina",
+    "gn:country_code":"VE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484488,
+    "gn:latitude":9.59386,
+    "gn:longitude":-65.1545,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Remolina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484488
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a57796d5e9842471399f7b0a5fd31cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1276982407,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276982407,
+    "wof:lastmodified":1536903943,
+    "wof:name":"Remolina",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1545,
+    9.59386,
+    -65.1545,
+    9.59386
+],
+  "geometry": {"coordinates":[-65.1545,9.59386],"type":"Point"}
+}

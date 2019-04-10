@@ -1,0 +1,105 @@
+{
+  "id": 421181743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73198,10.95945,-71.73198,10.95945",
+    "geom:latitude":10.95945,
+    "geom:longitude":-71.73198,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u83f2\u723e\u5fb7\u723e\u83ab\u6f22"
+    ],
+    "name:dut_x_preferred":[
+        "San Rafael de El Moj\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael de El Moj\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "San Rafael del Moj\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "San Rafael del Moj\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael del Moj\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael de El Moj\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "El Moj\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u83f2\u723e\u5fb7\u723e\u83ab\u6f22"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3627713,
+    "qs:gn_pop":0,
+    "qs:name":"San Rafael",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501476,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395282,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627713,
+        "gp:id":395282,
+        "qs:id":501476,
+        "wd:id":"Q30588",
+        "wk:page":"San Rafael del Moj\u00e1n"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009305,
+    "wof:geomhash":"f9977c9413c6b34afae4f9f0ee6a262f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":421181743,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":421181743,
+    "wof:lastmodified":1514502426,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73198,
+    10.95945,
+    -71.73198,
+    10.95945
+],
+  "geometry": {"coordinates":[-71.73197999999999,10.95945],"type":"Point"}
+}

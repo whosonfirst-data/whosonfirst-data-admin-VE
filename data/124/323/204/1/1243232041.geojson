@@ -1,0 +1,72 @@
+{
+  "id": 1243232041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23333,10.95,-72.23333,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-72.23333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Manuelote",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633102,
+    "gn:latitude":10.95,
+    "gn:longitude":-72.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manuelote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manuel Lote",
+        "Manuelote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633102
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"65f60aed443e0035d5a39e36b828d9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1243232041,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243232041,
+    "wof:lastmodified":1537713542,
+    "wof:name":"Manuelote",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23333000000002,
+    10.95,
+    -72.23333000000002,
+    10.95
+],
+  "geometry": {"coordinates":[-72.23333000000002,10.95],"type":"Point"}
+}

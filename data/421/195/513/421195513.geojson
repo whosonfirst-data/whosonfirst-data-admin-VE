@@ -1,0 +1,75 @@
+{
+  "id": 421195513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.645595,11.437796,-69.645595,11.437796",
+    "geom:latitude":11.437796,
+    "geom:longitude":-69.645595,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"La Vela de Coro",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Falcon",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":114983,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805478,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805478,
+        "qs:id":114983
+    },
+    "wof:country":"VE",
+    "wof:created":1459009850,
+    "wof:geomhash":"0f1ed177eada18b8391b0c6f0ef7fefe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "localadmin_id":421195513,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":421195513,
+    "wof:lastmodified":1500033973,
+    "wof:name":"La Vela de Coro",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.645595,
+    11.437796,
+    -69.645595,
+    11.437796
+],
+  "geometry": {"coordinates":[-69.645595,11.437796],"type":"Point"}
+}

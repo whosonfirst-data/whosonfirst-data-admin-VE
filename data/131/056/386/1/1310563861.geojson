@@ -1,0 +1,70 @@
+{
+  "id": 1310563861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.77785,9.13636,-69.77785,9.13636",
+    "geom:latitude":9.13636,
+    "geom:longitude":-69.77785,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Culebrita",
+    "gn:country_code":"VE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798071,
+    "gn:latitude":9.13636,
+    "gn:longitude":-69.77785,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Culebrita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Culebrita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421189087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798071
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"13db398eb2f1309545b6fae25054e7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189087,
+            "locality_id":1310563861,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1310563861,
+    "wof:lastmodified":1537713642,
+    "wof:name":"La Culebrita",
+    "wof:parent_id":421189087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.77785,
+    9.13636,
+    -69.77785,
+    9.13636
+],
+  "geometry": {"coordinates":[-69.77785,9.13636],"type":"Point"}
+}

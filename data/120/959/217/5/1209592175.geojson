@@ -1,0 +1,61 @@
+{
+  "id": 1209592175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.88089,9.31821,-65.88089,9.31821",
+    "geom:latitude":9.31821,
+    "geom:longitude":-65.88089,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Tadal",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641420,
+    "gn:latitude":9.31821,
+    "gn:longitude":-65.88089,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"El Tadal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641420
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bd01506a5c09ed669eb9f9fa1079e2d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209592175
+        }
+    ],
+    "wof:id":1209592175,
+    "wof:lastmodified":1536282444,
+    "wof:name":"El Tadal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.88089000000001,
+    9.31821,
+    -65.88089000000001,
+    9.31821
+],
+  "geometry": {"coordinates":[-65.88089000000001,9.31821],"type":"Point"}
+}

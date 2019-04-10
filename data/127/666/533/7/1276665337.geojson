@@ -1,0 +1,67 @@
+{
+  "id": 1276665337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.15,8.5,-65.15,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":-65.15,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Jabillal",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639317,
+    "gn:latitude":8.5,
+    "gn:longitude":-65.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jabillal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639317
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0ff033ee2428f986696d40e176b31f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1276665337,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276665337,
+    "wof:lastmodified":1536829860,
+    "wof:name":"Jabillal",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.15,
+    8.5,
+    -65.15,
+    8.5
+],
+  "geometry": {"coordinates":[-65.15000000000001,8.5],"type":"Point"}
+}

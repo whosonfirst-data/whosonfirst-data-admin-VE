@@ -1,0 +1,72 @@
+{
+  "id": 1360072465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.66667,11.21667,-69.66667,11.21667",
+    "geom:latitude":11.21667,
+    "geom:longitude":-69.66667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Alambiques",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634611,
+    "gn:latitude":11.21667,
+    "gn:longitude":-69.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Alambiques",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Alambiques",
+        "Los Alambiques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634611
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9981ee0a8e3f4c5ef760c82910e737ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1360072465,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1360072465,
+    "wof:lastmodified":1537713551,
+    "wof:name":"Los Alambiques",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66667,
+    11.21667,
+    -69.66667,
+    11.21667
+],
+  "geometry": {"coordinates":[-69.66667,11.21667],"type":"Point"}
+}

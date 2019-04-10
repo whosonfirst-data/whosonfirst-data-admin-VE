@@ -1,0 +1,61 @@
+{
+  "id": 1209284889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64514,8.07781,-71.64514,8.07781",
+    "geom:latitude":8.07781,
+    "geom:longitude":-71.64514,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"El Lindero",
+    "gn:country_code":"VE",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3799226,
+    "gn:latitude":8.07781,
+    "gn:longitude":-71.64514,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Lindero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799226
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"68b0b9104e5a862893e51be04ec77548",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209284889
+        }
+    ],
+    "wof:id":1209284889,
+    "wof:lastmodified":1536291894,
+    "wof:name":"El Lindero",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64514,
+    8.077810000000001,
+    -71.64514,
+    8.077810000000001
+],
+  "geometry": {"coordinates":[-71.64514,8.07781],"type":"Point"}
+}

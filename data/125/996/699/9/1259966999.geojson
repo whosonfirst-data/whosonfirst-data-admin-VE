@@ -1,0 +1,67 @@
+{
+  "id": 1259966999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.67678,11.32535,-69.67678,11.32535",
+    "geom:latitude":11.32535,
+    "geom:longitude":-69.67678,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yacure",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784841,
+    "gn:latitude":11.32535,
+    "gn:longitude":-69.67678,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Yacure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784841
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aff332bd94359c564973ba3d8d070ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1259966999,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259966999,
+    "wof:lastmodified":1536659018,
+    "wof:name":"Yacure",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.67678000000001,
+    11.32535,
+    -69.67678000000001,
+    11.32535
+],
+  "geometry": {"coordinates":[-69.67678000000001,11.32535],"type":"Point"}
+}

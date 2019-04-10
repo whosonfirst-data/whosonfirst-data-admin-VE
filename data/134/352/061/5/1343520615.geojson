@@ -1,0 +1,71 @@
+{
+  "id": 1343520615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.37562,7.95422,-72.37562,7.95422",
+    "geom:latitude":7.95422,
+    "geom:longitude":-72.37562,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"La Rinconada",
+    "gn:country_code":"VE",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636445,
+    "gn:latitude":7.95422,
+    "gn:longitude":-72.37562,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Rinconada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinconada",
+        "La Rinconada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636445
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f6bdf2bddb6edfb4267ea0a0d439f2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694347,
+            "locality_id":1343520615,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1343520615,
+    "wof:lastmodified":1537713563,
+    "wof:name":"La Rinconada",
+    "wof:parent_id":1108694347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.37562,
+    7.95422,
+    -72.37562,
+    7.95422
+],
+  "geometry": {"coordinates":[-72.37562,7.95422],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327413183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.80337,9.85116,-67.80337,9.85116",
+    "geom:latitude":9.85116,
+    "geom:longitude":-67.80337,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Terron Colorado",
+    "gn:country_code":"VE",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626313,
+    "gn:latitude":9.85116,
+    "gn:longitude":-67.80337,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Terr\u00f3n Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626313
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"23a054ac8492842df931278ae33f9939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1327413183,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1327413183,
+    "wof:lastmodified":1536708866,
+    "wof:name":"Terron Colorado",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.80337,
+    9.85116,
+    -67.80337,
+    9.85116
+],
+  "geometry": {"coordinates":[-67.80337,9.85116],"type":"Point"}
+}

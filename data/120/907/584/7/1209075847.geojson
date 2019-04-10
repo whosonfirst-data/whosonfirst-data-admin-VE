@@ -1,0 +1,61 @@
+{
+  "id": 1209075847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.38333,10.46667,-66.38333,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-66.38333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Salmeron",
+    "gn:country_code":"VE",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641551,
+    "gn:latitude":10.46667,
+    "gn:longitude":-66.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Salmer\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641551
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"30f4bd28b68a601804b0df71c3d55346",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209075847
+        }
+    ],
+    "wof:id":1209075847,
+    "wof:lastmodified":1536298497,
+    "wof:name":"El Salmeron",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.38333,
+    10.46667,
+    -66.38333,
+    10.46667
+],
+  "geometry": {"coordinates":[-66.38333,10.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343934321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.59001,8.59083,-67.59001,8.59083",
+    "geom:latitude":8.59083,
+    "geom:longitude":-67.59001,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cara Seca",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646639,
+    "gn:latitude":8.59083,
+    "gn:longitude":-67.59001,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Cara Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646639
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5ab159507c399dcbf6f3d3ea11c2b178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1343934321,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343934321,
+    "wof:lastmodified":1537055390,
+    "wof:name":"Cara Seca",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.59000999999999,
+    8.59083,
+    -67.59000999999999,
+    8.59083
+],
+  "geometry": {"coordinates":[-67.59000999999999,8.59083],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421190853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.85,11.18333,-68.85,11.18333",
+    "geom:latitude":11.18333,
+    "geom:longitude":-68.85,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Buena Vista",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Falcon",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":56482,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805462,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805462,
+        "qs:id":56482
+    },
+    "wof:country":"VE",
+    "wof:created":1459009671,
+    "wof:geomhash":"099badcbd2bef4939a7e9e96ff249c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694215,
+            "localadmin_id":421190853,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":421190853,
+    "wof:lastmodified":1500033973,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":1108694215,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.85,
+    11.18333,
+    -68.85,
+    11.18333
+],
+  "geometry": {"coordinates":[-68.84999999999999,11.18333],"type":"Point"}
+}

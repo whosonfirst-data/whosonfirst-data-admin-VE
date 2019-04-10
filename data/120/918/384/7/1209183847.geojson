@@ -1,0 +1,61 @@
+{
+  "id": 1209183847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.74765,10.4291,-66.74765,10.4291",
+    "geom:latitude":10.4291,
+    "geom:longitude":-66.74765,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"El Rosario",
+    "gn:country_code":"VE",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804149,
+    "gn:latitude":10.4291,
+    "gn:longitude":-66.74765,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"El Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804149
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"94db8214b113dbf415a249cfc46251b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209183847
+        }
+    ],
+    "wof:id":1209183847,
+    "wof:lastmodified":1536295167,
+    "wof:name":"El Rosario",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.74765,
+    10.4291,
+    -66.74765,
+    10.4291
+],
+  "geometry": {"coordinates":[-66.74764999999999,10.4291],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293636941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.82028,10.59958,-66.82028,10.59958",
+    "geom:latitude":10.59958,
+    "geom:longitude":-66.82028,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"La California",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638715,
+    "gn:latitude":10.59958,
+    "gn:longitude":-66.82028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La California",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oficina la California",
+        "La California"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638715
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a9d157edeb8ddd5bbf98e80c31313cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1293636941,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1293636941,
+    "wof:lastmodified":1537713576,
+    "wof:name":"La California",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.82028000000001,
+    10.59958,
+    -66.82028000000001,
+    10.59958
+],
+  "geometry": {"coordinates":[-66.82028000000001,10.59958],"type":"Point"}
+}

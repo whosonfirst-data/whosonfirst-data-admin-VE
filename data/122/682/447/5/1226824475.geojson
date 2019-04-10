@@ -1,0 +1,72 @@
+{
+  "id": 1226824475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9839,9.35944,-69.9839,9.35944",
+    "geom:latitude":9.35944,
+    "geom:longitude":-69.9839,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1813.0",
+    "gn:asciiname":"Biscucuy",
+    "gn:country_code":"VE",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3648274,
+    "gn:latitude":9.35944,
+    "gn:longitude":-69.9839,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Biscucuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bisoucuy",
+        "Biscucuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648274
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7bb1c2fc475f06e58e54eb526dace0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694441,
+            "locality_id":1226824475,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1226824475,
+    "wof:lastmodified":1537713629,
+    "wof:name":"Biscucuy",
+    "wof:parent_id":1108694441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9839,
+    9.35944,
+    -69.9839,
+    9.35944
+],
+  "geometry": {"coordinates":[-69.98390000000001,9.35944],"type":"Point"}
+}

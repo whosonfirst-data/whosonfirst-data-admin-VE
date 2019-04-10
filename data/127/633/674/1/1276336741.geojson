@@ -1,0 +1,67 @@
+{
+  "id": 1276336741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.71668,8.33182,-63.71668,8.33182",
+    "geom:latitude":8.33182,
+    "geom:longitude":-63.71668,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rufino",
+    "gn:country_code":"VE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484424,
+    "gn:latitude":8.33182,
+    "gn:longitude":-63.71668,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Rufino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484424
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8458eed134c9032fd1ce25499623a042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1276336741,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276336741,
+    "wof:lastmodified":1536774607,
+    "wof:name":"Rufino",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.71668,
+    8.33182,
+    -63.71668,
+    8.33182
+],
+  "geometry": {"coordinates":[-63.71668,8.33182],"type":"Point"}
+}

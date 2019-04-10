@@ -1,0 +1,67 @@
+{
+  "id": 1293069383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73333,10.78333,-71.73333,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":-71.73333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Andres",
+    "gn:country_code":"VE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649250,
+    "gn:latitude":10.78333,
+    "gn:longitude":-71.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649250
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f11243a0a29ffa58c7d0cd5793416bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1293069383,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293069383,
+    "wof:lastmodified":1536892688,
+    "wof:name":"Andres",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73333000000002,
+    10.78333,
+    -71.73333000000002,
+    10.78333
+],
+  "geometry": {"coordinates":[-71.73333000000002,10.78333],"type":"Point"}
+}

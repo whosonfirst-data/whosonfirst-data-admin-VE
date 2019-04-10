@@ -1,0 +1,61 @@
+{
+  "id": 1277108579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.81222,10.81056,-66.81222,10.81056",
+    "geom:latitude":10.81056,
+    "geom:longitude":-66.81222,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Canada",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806178,
+    "gn:latitude":10.81056,
+    "gn:longitude":-66.81222,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"La Ca\u00f1ada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806178
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7fa6b0e719ca979e9343a40eb8957e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277108579,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277108579,
+    "wof:lastmodified":1536730781,
+    "wof:name":"La Canada",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.81222,
+    10.81056,
+    -66.81222,
+    10.81056
+],
+  "geometry": {"coordinates":[-66.81222,10.81056],"type":"Point"}
+}

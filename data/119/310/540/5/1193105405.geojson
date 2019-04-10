@@ -1,0 +1,71 @@
+{
+  "id": 1193105405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.39042,10.49076,-71.39042,10.49076",
+    "geom:latitude":10.49076,
+    "geom:longitude":-71.39042,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tolosa",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626140,
+    "gn:latitude":10.49076,
+    "gn:longitude":-71.39042,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tolosa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toloso",
+        "Tolosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626140
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"220d134f51533bafd8a0396914d5ff43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694415,
+            "locality_id":1193105405,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1193105405,
+    "wof:lastmodified":1537713511,
+    "wof:name":"Tolosa",
+    "wof:parent_id":1108694415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.39041999999998,
+    10.49076,
+    -71.39041999999998,
+    10.49076
+],
+  "geometry": {"coordinates":[-71.39041999999998,10.49076],"type":"Point"}
+}

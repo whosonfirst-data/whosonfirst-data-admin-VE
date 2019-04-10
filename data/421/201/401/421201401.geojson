@@ -1,0 +1,129 @@
+{
+  "id": 421201401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.8161,10.42994,-66.8161,10.42994",
+    "geom:latitude":10.42994,
+    "geom:longitude":-66.8161,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u963f\u8482\u7d04\u5e02"
+    ],
+    "name:dut_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:eng_x_preferred":[
+        "El Hatillo Municipality"
+    ],
+    "name:fre_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10e2\u10d8\u10da\u10d8\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30a2\u30c6\u30a3\u30b8\u30e7\u5e02"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10e2\u10d8\u10da\u10d8\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc544\ud2f0\uc694 \uc2dc"
+    ],
+    "name:nan_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:pol_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:por_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:spa_x_colloquial":[
+        "Pueblo el Hatillo"
+    ],
+    "name:spa_x_preferred":[
+        "Pueblo el Hatillo"
+    ],
+    "name:spa_x_variant":[
+        "Municipio El Hatillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u8482\u7d04\u5e02"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3643031,
+    "qs:gn_pop":57591,
+    "qs:name":"El Hatillo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":1299,
+    "qs:photos_1k":263,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1299,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":211188,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":384555,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421194073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643031,
+        "gp:id":384555,
+        "qs:id":211188,
+        "wd:id":"Q975765",
+        "wk:page":"El Hatillo Municipality, Venezuela"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010071,
+    "wof:geomhash":"dc7f402503cd2a2e892cae82bf5b8bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194073,
+            "locality_id":421201401,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421201401,
+    "wof:lastmodified":1553816387,
+    "wof:name":"El Hatillo",
+    "wof:parent_id":421194073,
+    "wof:placetype":"locality",
+    "wof:population":57591,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8161,
+    10.42994,
+    -66.8161,
+    10.42994
+],
+  "geometry": {"coordinates":[-66.81610000000001,10.42994],"type":"Point"}
+}

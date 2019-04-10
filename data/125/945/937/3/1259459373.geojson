@@ -1,0 +1,67 @@
+{
+  "id": 1259459373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28306,8.82833,-67.28306,8.82833",
+    "geom:latitude":8.82833,
+    "geom:longitude":-67.28306,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mocapra",
+    "gn:country_code":"VE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632159,
+    "gn:latitude":8.82833,
+    "gn:longitude":-67.28306,
+    "gn:modification_date":"1999-03-04",
+    "gn:name":"Mocapra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632159
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9aa3a8d550a779a96282fdda253d5552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1259459373,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259459373,
+    "wof:lastmodified":1536893198,
+    "wof:name":"Mocapra",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28305999999999,
+    8.82833,
+    -67.28305999999999,
+    8.82833
+],
+  "geometry": {"coordinates":[-67.28305999999999,8.82833],"type":"Point"}
+}

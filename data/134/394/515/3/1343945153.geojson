@@ -1,0 +1,67 @@
+{
+  "id": 1343945153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17131,11.85069,-70.17131,11.85069",
+    "geom:latitude":11.85069,
+    "geom:longitude":-70.17131,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cubiano",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644874,
+    "gn:latitude":11.85069,
+    "gn:longitude":-70.17131,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Cubiano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890442023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644874
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"94a3836b3f4f1dffb9983c16db44fd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890442023,
+            "locality_id":1343945153,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343945153,
+    "wof:lastmodified":1537040446,
+    "wof:name":"Cubiano",
+    "wof:parent_id":890442023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17130999999999,
+    11.85069,
+    -70.17130999999999,
+    11.85069
+],
+  "geometry": {"coordinates":[-70.17130999999999,11.85069],"type":"Point"}
+}

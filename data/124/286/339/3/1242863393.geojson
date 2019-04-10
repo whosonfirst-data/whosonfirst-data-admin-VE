@@ -1,0 +1,71 @@
+{
+  "id": 1242863393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94277,9.36349,-60.94277,9.36349",
+    "geom:latitude":9.36349,
+    "geom:longitude":-60.94277,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Boca Araguabisi",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763128,
+    "gn:latitude":9.36349,
+    "gn:longitude":-60.94277,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boca Araguabisi",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araguabisi",
+        "Boca Araguabisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763128
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f95559aab48f6d085eb941a7d96466a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1242863393,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1242863393,
+    "wof:lastmodified":1537713638,
+    "wof:name":"Boca Araguabisi",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94277,
+    9.36349,
+    -60.94277,
+    9.36349
+],
+  "geometry": {"coordinates":[-60.94277,9.36349],"type":"Point"}
+}

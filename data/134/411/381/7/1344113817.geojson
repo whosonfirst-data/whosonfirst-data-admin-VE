@@ -1,0 +1,67 @@
+{
+  "id": 1344113817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.04444,10.52889,-67.04444,10.52889",
+    "geom:latitude":10.52889,
+    "geom:longitude":-67.04444,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"El Banqueo",
+    "gn:country_code":"VE",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481406,
+    "gn:latitude":10.52889,
+    "gn:longitude":-67.04444,
+    "gn:modification_date":"2003-08-04",
+    "gn:name":"El Banqueo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680535,
+        1108694091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481406
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e30532bcfafccf89f085a8b426e0df57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694091,
+            "locality_id":1344113817,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":1344113817,
+    "wof:lastmodified":1536798869,
+    "wof:name":"El Banqueo",
+    "wof:parent_id":1108694091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.04444000000001,
+    10.52889,
+    -67.04444000000001,
+    10.52889
+],
+  "geometry": {"coordinates":[-67.04444000000001,10.52889],"type":"Point"}
+}

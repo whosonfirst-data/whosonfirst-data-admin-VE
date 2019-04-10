@@ -1,0 +1,67 @@
+{
+  "id": 1260179979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33333,8.36667,-70.33333,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-70.33333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Abras",
+    "gn:country_code":"VE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636357,
+    "gn:latitude":8.36667,
+    "gn:longitude":-70.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Abras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636357
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dc960af500be39bad73f83557060f4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1260179979,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1260179979,
+    "wof:lastmodified":1536851686,
+    "wof:name":"Las Abras",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33333,
+    8.36667,
+    -70.33333,
+    8.36667
+],
+  "geometry": {"coordinates":[-70.33333,8.36667],"type":"Point"}
+}

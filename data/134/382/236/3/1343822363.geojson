@@ -1,0 +1,67 @@
+{
+  "id": 1343822363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71152,7.97997,-71.71152,7.97997",
+    "geom:latitude":7.97997,
+    "geom:longitude":-71.71152,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pernia",
+    "gn:country_code":"VE",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795431,
+    "gn:latitude":7.97997,
+    "gn:longitude":-71.71152,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Pernia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795431
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e349b3f89ecd6b8f09142f42c983a2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183171,
+            "locality_id":1343822363,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1343822363,
+    "wof:lastmodified":1536722108,
+    "wof:name":"Pernia",
+    "wof:parent_id":421183171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71152,
+    7.97997,
+    -71.71152,
+    7.97997
+],
+  "geometry": {"coordinates":[-71.71151999999999,7.97997],"type":"Point"}
+}

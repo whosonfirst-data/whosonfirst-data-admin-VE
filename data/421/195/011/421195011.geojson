@@ -1,0 +1,79 @@
+{
+  "id": 421195011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.485408,10.03757,-67.485408,10.03757",
+    "geom:latitude":10.03757,
+    "geom:longitude":-67.485408,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Zamora",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115113,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805638,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805638,
+        "qs:id":115113,
+        "qs_pg:id":115113
+    },
+    "wof:country":"VE",
+    "wof:created":1459009828,
+    "wof:geomhash":"7335d55f66de11afcee6345be710fad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "localadmin_id":421195011,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421195011,
+    "wof:lastmodified":1497042362,
+    "wof:name":"Capital Zamora",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.485408,
+    10.03757,
+    -67.485408,
+    10.03757
+],
+  "geometry": {"coordinates":[-67.48540800000001,10.03757],"type":"Point"}
+}

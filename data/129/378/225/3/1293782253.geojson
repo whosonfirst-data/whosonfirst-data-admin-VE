@@ -1,0 +1,72 @@
+{
+  "id": 1293782253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58333,7.98333,-69.58333,7.98333",
+    "geom:latitude":7.98333,
+    "geom:longitude":-69.58333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Totumo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626055,
+    "gn:latitude":7.98333,
+    "gn:longitude":-69.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Totumo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Totumo",
+        "Totumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626055
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5a4b6f62bdaaf203f036e5b2026c80d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1293782253,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293782253,
+    "wof:lastmodified":1537713510,
+    "wof:name":"Totumo",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58333,
+    7.98333,
+    -69.58333,
+    7.98333
+],
+  "geometry": {"coordinates":[-69.58333,7.98333],"type":"Point"}
+}

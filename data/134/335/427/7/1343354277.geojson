@@ -1,0 +1,67 @@
+{
+  "id": 1343354277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.53886,8.00307,-69.53886,8.00307",
+    "geom:latitude":8.00307,
+    "geom:longitude":-69.53886,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Rompia",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486667,
+    "gn:latitude":8.00307,
+    "gn:longitude":-69.53886,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"La Rompia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486667
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4a8aba04f78d0636073dd17282922bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1343354277,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343354277,
+    "wof:lastmodified":1536899500,
+    "wof:name":"La Rompia",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.53886,
+    8.00307,
+    -69.53886,
+    8.00307
+],
+  "geometry": {"coordinates":[-69.53886,8.00307],"type":"Point"}
+}

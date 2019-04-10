@@ -1,0 +1,67 @@
+{
+  "id": 1326703507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.32578,8.93171,-71.32578,8.93171",
+    "geom:latitude":8.93171,
+    "geom:longitude":-71.32578,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"La Esmeralda",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799108,
+    "gn:latitude":8.93171,
+    "gn:longitude":-71.32578,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Esmeralda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799108
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d3ae0854aff038d37a2312f37e18c15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1326703507,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326703507,
+    "wof:lastmodified":1536737207,
+    "wof:name":"La Esmeralda",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.32578000000002,
+    8.93171,
+    -71.32578000000002,
+    8.93171
+],
+  "geometry": {"coordinates":[-71.32578000000002,8.93171],"type":"Point"}
+}

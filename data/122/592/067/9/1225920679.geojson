@@ -1,0 +1,67 @@
+{
+  "id": 1225920679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58214,8.51273,-67.58214,8.51273",
+    "geom:latitude":8.51273,
+    "geom:longitude":-67.58214,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Corozo Pando",
+    "gn:country_code":"VE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645089,
+    "gn:latitude":8.51273,
+    "gn:longitude":-67.58214,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Corozo Pando",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645089
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11a674b203c625a3f628d1079a2a1281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1225920679,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1225920679,
+    "wof:lastmodified":1536905917,
+    "wof:name":"Corozo Pando",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58214,
+    8.51273,
+    -67.58214,
+    8.51273
+],
+  "geometry": {"coordinates":[-67.58214,8.51273],"type":"Point"}
+}

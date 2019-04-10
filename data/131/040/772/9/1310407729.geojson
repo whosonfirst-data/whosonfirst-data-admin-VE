@@ -1,0 +1,67 @@
+{
+  "id": 1310407729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.20025,10.0235,-64.20025,10.0235",
+    "geom:latitude":10.0235,
+    "geom:longitude":-64.20025,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Ceniza",
+    "gn:country_code":"VE",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638519,
+    "gn:latitude":10.0235,
+    "gn:longitude":-64.20025,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Ceniza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638519
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2227b9035e4d825b5ea1af36bdf9996f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1310407729,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310407729,
+    "wof:lastmodified":1537055646,
+    "wof:name":"La Ceniza",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.20025,
+    10.0235,
+    -64.20025,
+    10.0235
+],
+  "geometry": {"coordinates":[-64.20025,10.0235],"type":"Point"}
+}

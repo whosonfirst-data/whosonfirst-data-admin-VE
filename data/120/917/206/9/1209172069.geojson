@@ -1,0 +1,61 @@
+{
+  "id": 1209172069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28333,10.25,-71.28333,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-71.28333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Repelon",
+    "gn:country_code":"VE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641758,
+    "gn:latitude":10.25,
+    "gn:longitude":-71.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Repel\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641758
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"141aa643d28705770a6e4162b20e8d9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209172069
+        }
+    ],
+    "wof:id":1209172069,
+    "wof:lastmodified":1536295546,
+    "wof:name":"El Repelon",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28333,
+    10.25,
+    -71.28333,
+    10.25
+],
+  "geometry": {"coordinates":[-71.28333000000001,10.25],"type":"Point"}
+}

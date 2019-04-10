@@ -1,0 +1,67 @@
+{
+  "id": 1293681049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.105,4.94056,-61.105,4.94056",
+    "geom:latitude":4.94056,
+    "geom:longitude":-61.105,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santa Cruz de Mapauri",
+    "gn:country_code":"VE",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809441,
+    "gn:latitude":4.94056,
+    "gn:longitude":-61.105,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Santa Cruz de Mapauri",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809441
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dc116f58e5b7a46ef1196b2d74087d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1293681049,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293681049,
+    "wof:lastmodified":1537004591,
+    "wof:name":"Santa Cruz de Mapauri",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.105,
+    4.94056,
+    -61.105,
+    4.94056
+],
+  "geometry": {"coordinates":[-61.105,4.94056],"type":"Point"}
+}

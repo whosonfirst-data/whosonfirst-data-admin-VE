@@ -1,0 +1,67 @@
+{
+  "id": 1310680595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.97719,9.03438,-65.97719,9.03438",
+    "geom:latitude":9.03438,
+    "geom:longitude":-65.97719,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Morgao",
+    "gn:country_code":"VE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631958,
+    "gn:latitude":9.03438,
+    "gn:longitude":-65.97719,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Morgao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631958
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e99a48c471439320a6416cbb201f39ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1310680595,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310680595,
+    "wof:lastmodified":1536664386,
+    "wof:name":"Morgao",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.97719000000001,
+    9.03438,
+    -65.97719000000001,
+    9.03438
+],
+  "geometry": {"coordinates":[-65.97719000000001,9.03438],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327137691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.6093,2.32391,-64.6093,2.32391",
+    "geom:latitude":2.32391,
+    "geom:longitude":-64.6093,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cashoraviteri",
+    "gn:country_code":"VE",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457311,
+    "gn:latitude":2.32391,
+    "gn:longitude":-64.6093,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Cashoraviteri",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cashoraviteri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        890420047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457311
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c9f1fcf9ed7408e8e5512b00352829d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890420047,
+            "locality_id":1327137691,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1327137691,
+    "wof:lastmodified":1537713652,
+    "wof:name":"Cashoraviteri",
+    "wof:parent_id":890420047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.6093,
+    2.32391,
+    -64.6093,
+    2.32391
+],
+  "geometry": {"coordinates":[-64.6093,2.32391],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309704959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.91528,8.17972,-67.91528,8.17972",
+    "geom:latitude":8.17972,
+    "geom:longitude":-67.91528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"La Cherna",
+    "gn:country_code":"VE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766703,
+    "gn:latitude":8.17972,
+    "gn:longitude":-67.91528,
+    "gn:modification_date":"1999-06-17",
+    "gn:name":"La Cherna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766703
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"88b07550a0d039527a53007c17c13a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1309704959,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1309704959,
+    "wof:lastmodified":1537073477,
+    "wof:name":"La Cherna",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.91528000000001,
+    8.17972,
+    -67.91528000000001,
+    8.17972
+],
+  "geometry": {"coordinates":[-67.91528000000001,8.17972],"type":"Point"}
+}

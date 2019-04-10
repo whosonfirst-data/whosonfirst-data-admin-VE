@@ -1,0 +1,61 @@
+{
+  "id": 1209391379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02303,9.58125,-67.02303,9.58125",
+    "geom:latitude":9.58125,
+    "geom:longitude":-67.02303,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Aceiticos",
+    "gn:country_code":"VE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634633,
+    "gn:latitude":9.58125,
+    "gn:longitude":-67.02303,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Los Aceiticos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634633
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87765cfe0002f8e91d39bd27aedc960f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209391379
+        }
+    ],
+    "wof:id":1209391379,
+    "wof:lastmodified":1536288450,
+    "wof:name":"Los Aceiticos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02303,
+    9.58125,
+    -67.02303,
+    9.58125
+],
+  "geometry": {"coordinates":[-67.02303000000001,9.58125],"type":"Point"}
+}

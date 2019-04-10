@@ -1,0 +1,65 @@
+{
+  "id": 102558567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.625322,9.702263,-63.625322,9.702263",
+    "geom:latitude":9.702263,
+    "geom:longitude":-63.625322,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"804",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804657,
+        "localadmin_id":26805147,
+        "planet_id":1,
+        "state_id":2347692
+    },
+    "wof:belongsto":[
+        85632317,
+        85680547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522846,
+        "icao:code":"SVOF",
+        "oa:id":"6306",
+        "wd:id":"Q20454532"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e42aa61c31e18743dda785e2467a219",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558567,
+            "country_id":85632317,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":102558567,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Santa Barbara de Monagas Airport",
+    "wof:parent_id":85680547,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.625322,
+    9.702263,
+    -63.625322,
+    9.702263
+],
+  "geometry": {"coordinates":[-63.625322,9.702263],"type":"Point"}
+}

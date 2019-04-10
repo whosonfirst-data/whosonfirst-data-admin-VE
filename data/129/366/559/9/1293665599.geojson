@@ -1,0 +1,67 @@
+{
+  "id": 1293665599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.67061,7.90118,-66.67061,7.90118",
+    "geom:latitude":7.90118,
+    "geom:longitude":-66.67061,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Medano Pelon",
+    "gn:country_code":"VE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3773362,
+    "gn:latitude":7.90118,
+    "gn:longitude":-66.67061,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"M\u00e9dano Pel\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773362
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8926016570e1791758d00b30fd5aa834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694395,
+            "locality_id":1293665599,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293665599,
+    "wof:lastmodified":1537026391,
+    "wof:name":"Medano Pelon",
+    "wof:parent_id":1108694395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.67061,
+    7.90118,
+    -66.67061,
+    7.90118
+],
+  "geometry": {"coordinates":[-66.67061,7.90118],"type":"Point"}
+}

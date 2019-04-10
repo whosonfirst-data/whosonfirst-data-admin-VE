@@ -1,0 +1,70 @@
+{
+  "id": 1309968593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.32414,9.31059,-69.32414,9.31059",
+    "geom:latitude":9.31059,
+    "geom:longitude":-69.32414,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Jabillon",
+    "gn:country_code":"VE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798196,
+    "gn:latitude":9.31059,
+    "gn:longitude":-69.32414,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jabill\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jabill\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798196
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f59a97d6152eaf594910f36880a3329b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694321,
+            "locality_id":1309968593,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1309968593,
+    "wof:lastmodified":1537713643,
+    "wof:name":"Jabillon",
+    "wof:parent_id":1108694321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.32414,
+    9.31059,
+    -69.32414,
+    9.31059
+],
+  "geometry": {"coordinates":[-69.32414,9.31059],"type":"Point"}
+}

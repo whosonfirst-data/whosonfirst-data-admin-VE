@@ -1,0 +1,61 @@
+{
+  "id": 1209684009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65493,10.68641,-71.65493,10.68641",
+    "geom:latitude":10.68641,
+    "geom:longitude":-71.65493,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"San Jose de Oliva",
+    "gn:country_code":"VE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628132,
+    "gn:latitude":10.68641,
+    "gn:longitude":-71.65493,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Jos\u00e9 de Oliva",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628132
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c99c96437623034d3ffed3e08705fad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209684009
+        }
+    ],
+    "wof:id":1209684009,
+    "wof:lastmodified":1536279476,
+    "wof:name":"San Jose de Oliva",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65493000000002,
+    10.68641,
+    -71.65493000000002,
+    10.68641
+],
+  "geometry": {"coordinates":[-71.65493000000002,10.68641],"type":"Point"}
+}

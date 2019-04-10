@@ -1,0 +1,61 @@
+{
+  "id": 1209587233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.51326,9.97447,-63.51326,9.97447",
+    "geom:latitude":9.97447,
+    "geom:longitude":-63.51326,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Bajo de Aragua",
+    "gn:country_code":"VE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644219,
+    "gn:latitude":9.97447,
+    "gn:longitude":-63.51326,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Bajo de Aragua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644219
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3d6ac2b6bfc8aaaf2c85cc78b5a25177",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209587233
+        }
+    ],
+    "wof:id":1209587233,
+    "wof:lastmodified":1536282595,
+    "wof:name":"El Bajo de Aragua",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.51326,
+    9.97447,
+    -63.51326,
+    9.97447
+],
+  "geometry": {"coordinates":[-63.51326,9.97447],"type":"Point"}
+}

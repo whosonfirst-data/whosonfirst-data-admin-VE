@@ -1,0 +1,67 @@
+{
+  "id": 1360253747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.92824,10.01332,-68.92824,10.01332",
+    "geom:latitude":10.01332,
+    "geom:longitude":-68.92824,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"El Chorro",
+    "gn:country_code":"VE",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643652,
+    "gn:latitude":10.01332,
+    "gn:longitude":-68.92824,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Chorro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643652
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"76aa6207febc08c6e62af90dabc38e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1360253747,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1360253747,
+    "wof:lastmodified":1536702722,
+    "wof:name":"El Chorro",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.92824,
+    10.01332,
+    -68.92824,
+    10.01332
+],
+  "geometry": {"coordinates":[-68.92824,10.01332],"type":"Point"}
+}

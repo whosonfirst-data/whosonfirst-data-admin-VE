@@ -1,0 +1,67 @@
+{
+  "id": 1276531139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57596,8.63155,-71.57596,8.63155",
+    "geom:latitude":8.63155,
+    "geom:longitude":-71.57596,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mesa Alta",
+    "gn:country_code":"VE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632302,
+    "gn:latitude":8.63155,
+    "gn:longitude":-71.57596,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Mesa Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632302
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"69267bbd41b2c98881bfbc85336f3d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1276531139,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1276531139,
+    "wof:lastmodified":1537010318,
+    "wof:name":"Mesa Alta",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57596,
+    8.63155,
+    -71.57596,
+    8.63155
+],
+  "geometry": {"coordinates":[-71.57595999999999,8.63155],"type":"Point"}
+}

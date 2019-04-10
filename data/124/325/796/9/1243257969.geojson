@@ -1,0 +1,72 @@
+{
+  "id": 1243257969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.0505,8.78754,-62.0505,8.78754",
+    "geom:latitude":8.78754,
+    "geom:longitude":-62.0505,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Macareo de Santo Nino",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633463,
+    "gn:latitude":8.78754,
+    "gn:longitude":-62.0505,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macareo de Santo Ni\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macareo",
+        "Macareo Santo Ni\u00f1o",
+        "Macareo de Santo Ni\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421191753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633463
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80d284d42a1d52041f5ff379237780a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191753,
+            "locality_id":1243257969,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1243257969,
+    "wof:lastmodified":1537713545,
+    "wof:name":"Macareo de Santo Nino",
+    "wof:parent_id":421191753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.0505,
+    8.78754,
+    -62.0505,
+    8.78754
+],
+  "geometry": {"coordinates":[-62.0505,8.78754],"type":"Point"}
+}

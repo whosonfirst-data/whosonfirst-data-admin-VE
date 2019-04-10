@@ -1,0 +1,67 @@
+{
+  "id": 1360167823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61967,8.98758,-70.61967,8.98758",
+    "geom:latitude":8.98758,
+    "geom:longitude":-70.61967,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Agua de Las Flores",
+    "gn:country_code":"VE",
+    "gn:dem":2926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649672,
+    "gn:latitude":8.98758,
+    "gn:longitude":-70.61967,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Agua de Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649672
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"820728951954d98f900a1387fa2159dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694355,
+            "locality_id":1360167823,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1360167823,
+    "wof:lastmodified":1536825386,
+    "wof:name":"Agua de Las Flores",
+    "wof:parent_id":1108694355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61967,
+    8.98758,
+    -70.61967,
+    8.98758
+],
+  "geometry": {"coordinates":[-70.61967,8.98758],"type":"Point"}
+}

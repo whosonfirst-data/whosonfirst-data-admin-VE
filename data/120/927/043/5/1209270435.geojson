@@ -1,0 +1,61 @@
+{
+  "id": 1209270435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.63351,10.52077,-71.63351,10.52077",
+    "geom:latitude":10.52077,
+    "geom:longitude":-71.63351,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Bajo",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644222,
+    "gn:latitude":10.52077,
+    "gn:longitude":-71.63351,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"El Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644222
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4ac7056ca8b950e4e289e95e7015e624",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209270435
+        }
+    ],
+    "wof:id":1209270435,
+    "wof:lastmodified":1536292377,
+    "wof:name":"El Bajo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.63351,
+    10.52077,
+    -71.63351,
+    10.52077
+],
+  "geometry": {"coordinates":[-71.63351,10.52077],"type":"Point"}
+}

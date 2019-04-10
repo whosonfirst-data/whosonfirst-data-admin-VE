@@ -1,0 +1,71 @@
+{
+  "id": 1326816903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46887,9.19016,-65.46887,9.19016",
+    "geom:latitude":9.19016,
+    "geom:longitude":-65.46887,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Pitahayas",
+    "gn:country_code":"VE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635423,
+    "gn:latitude":9.19016,
+    "gn:longitude":-65.46887,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Pitahayas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pitahayas",
+        "Las Pitahayas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635423
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"301a3be83c458bc560629425aa46427c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1326816903,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1326816903,
+    "wof:lastmodified":1537713556,
+    "wof:name":"Las Pitahayas",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46887,
+    9.19016,
+    -65.46887,
+    9.19016
+],
+  "geometry": {"coordinates":[-65.46887,9.19016],"type":"Point"}
+}

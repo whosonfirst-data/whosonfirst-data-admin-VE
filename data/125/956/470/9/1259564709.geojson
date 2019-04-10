@@ -1,0 +1,67 @@
+{
+  "id": 1259564709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.1787,8.84988,-63.1787,8.84988",
+    "geom:latitude":8.84988,
+    "geom:longitude":-63.1787,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Quebrada del Medio",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629524,
+    "gn:latitude":8.84988,
+    "gn:longitude":-63.1787,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Quebrada del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629524
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"042a66b578b41dfc01e7cdde9fb52127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1259564709,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1259564709,
+    "wof:lastmodified":1536741729,
+    "wof:name":"Quebrada del Medio",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.1787,
+    8.84988,
+    -63.1787,
+    8.84988
+],
+  "geometry": {"coordinates":[-63.1787,8.84988],"type":"Point"}
+}

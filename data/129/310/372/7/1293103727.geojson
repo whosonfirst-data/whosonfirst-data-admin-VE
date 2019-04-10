@@ -1,0 +1,67 @@
+{
+  "id": 1293103727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35813,10.22535,-67.35813,10.22535",
+    "geom:latitude":10.22535,
+    "geom:longitude":-67.35813,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Corral de Piedra",
+    "gn:country_code":"VE",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806362,
+    "gn:latitude":10.22535,
+    "gn:longitude":-67.35813,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"Corral de Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421184557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806362
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d7df6df9449bcb2337ee2d853913635e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184557,
+            "locality_id":1293103727,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1293103727,
+    "wof:lastmodified":1536842251,
+    "wof:name":"Corral de Piedra",
+    "wof:parent_id":421184557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35813,
+    10.22535,
+    -67.35813,
+    10.22535
+],
+  "geometry": {"coordinates":[-67.35813,10.22535],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276879355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46422,7.66122,-66.46422,7.66122",
+    "geom:latitude":7.66122,
+    "geom:longitude":-66.46422,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Perro",
+    "gn:country_code":"VE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3747779,
+    "gn:latitude":7.66122,
+    "gn:longitude":-66.46422,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Perro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3747779
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cff94d80ce902b6cd86053219a79cb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1276879355,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276879355,
+    "wof:lastmodified":1537040083,
+    "wof:name":"El Perro",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46422,
+    7.66122,
+    -66.46422,
+    7.66122
+],
+  "geometry": {"coordinates":[-66.46422,7.66122],"type":"Point"}
+}

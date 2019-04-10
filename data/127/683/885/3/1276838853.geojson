@@ -1,0 +1,67 @@
+{
+  "id": 1276838853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.80385,9.25935,-70.80385,9.25935",
+    "geom:latitude":9.25935,
+    "geom:longitude":-70.80385,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Las Pavas",
+    "gn:country_code":"VE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635502,
+    "gn:latitude":9.25935,
+    "gn:longitude":-70.80385,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Las Pavas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421182049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635502
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ca9f520749a35feeb719c679197b4c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182049,
+            "locality_id":1276838853,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1276838853,
+    "wof:lastmodified":1537092887,
+    "wof:name":"Las Pavas",
+    "wof:parent_id":421182049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.80385,
+    9.25935,
+    -70.80385,
+    9.25935
+],
+  "geometry": {"coordinates":[-70.80385,9.25935],"type":"Point"}
+}

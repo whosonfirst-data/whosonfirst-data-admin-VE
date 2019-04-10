@@ -1,0 +1,61 @@
+{
+  "id": 1209379733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.57841,10.61098,-62.57841,10.61098",
+    "geom:latitude":10.61098,
+    "geom:longitude":-62.57841,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ver y Callar",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796890,
+    "gn:latitude":10.61098,
+    "gn:longitude":-62.57841,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Ver y Callar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796890
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a203e11a192e47dd15154edac7085af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209379733
+        }
+    ],
+    "wof:id":1209379733,
+    "wof:lastmodified":1536288825,
+    "wof:name":"Ver y Callar",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.57841,
+    10.61098,
+    -62.57841,
+    10.61098
+],
+  "geometry": {"coordinates":[-62.57841,10.61098],"type":"Point"}
+}

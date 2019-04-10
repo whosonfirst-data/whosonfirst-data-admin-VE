@@ -1,0 +1,65 @@
+{
+  "id": 1209483627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.91364,8.99475,-71.91364,8.99475",
+    "geom:latitude":8.99475,
+    "geom:longitude":-71.91364,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627554,
+    "gn:latitude":8.99475,
+    "gn:longitude":-71.91364,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Santa B\u00e1rbara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa B\u00e1rbara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627554,
+        "wk:page":"Santa_B%C3%A1rbara_del_Zulia"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"16fcd3dd539407197a4660102a0b37b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209483627
+        }
+    ],
+    "wof:id":1209483627,
+    "wof:lastmodified":1537713516,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.91364,
+    8.99475,
+    -71.91364,
+    8.99475
+],
+  "geometry": {"coordinates":[-71.91364,8.99475],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 421173877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.7858,10.263,-67.7858,10.263",
+    "geom:latitude":10.263,
+    "geom:longitude":-67.7858,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10d0\u10d9\u10d8\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio San Joaqu\u00edn"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u83ef\u91d1"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3628267,
+    "qs:gn_pop":41630,
+    "qs:name":"San Joaqu\u00edn",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Carabobo",
+    "qs:photos":177,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":177,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":301401,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468339,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421188833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628267,
+        "gp:id":468339,
+        "qs:id":301401,
+        "wd:id":"Q1631420",
+        "wk:page":"San Joaqu\u00edn, Carabobo"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009009,
+    "wof:geomhash":"1300b25bccc39c6e75f2cb77ca948b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188833,
+            "locality_id":421173877,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":421173877,
+    "wof:lastmodified":1527716259,
+    "wof:name":"San Joaqu\u00edn",
+    "wof:parent_id":421188833,
+    "wof:placetype":"locality",
+    "wof:population":41630,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.7858,
+    10.263,
+    -67.7858,
+    10.263
+],
+  "geometry": {"coordinates":[-67.78579999999999,10.263],"type":"Point"}
+}

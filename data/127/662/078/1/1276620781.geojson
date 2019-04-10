@@ -1,0 +1,72 @@
+{
+  "id": 1276620781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.15,10.51667,-67.15,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":-67.15,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"El Guire",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643046,
+    "gn:latitude":10.51667,
+    "gn:longitude":-67.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El G\u00fcire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcire",
+        "El G\u00fcire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643046
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"be2d391052ee76d71ee3726e7f999a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1276620781,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1276620781,
+    "wof:lastmodified":1537713601,
+    "wof:name":"El Guire",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.15,
+    10.51667,
+    -67.15,
+    10.51667
+],
+  "geometry": {"coordinates":[-67.15000000000001,10.51667],"type":"Point"}
+}

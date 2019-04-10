@@ -1,0 +1,67 @@
+{
+  "id": 1225924301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.80056,11.17778,-69.80056,11.17778",
+    "geom:latitude":11.17778,
+    "geom:longitude":-69.80056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"El Cobre",
+    "gn:country_code":"VE",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3785909,
+    "gn:latitude":11.17778,
+    "gn:longitude":-69.80056,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"El Cobre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785909
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e41a4dfcdd4b1614b0df891a2a67dd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1225924301,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1225924301,
+    "wof:lastmodified":1536900499,
+    "wof:name":"El Cobre",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.80056,
+    11.17778,
+    -69.80056,
+    11.17778
+],
+  "geometry": {"coordinates":[-69.80056,11.17778],"type":"Point"}
+}

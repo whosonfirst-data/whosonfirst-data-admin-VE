@@ -1,0 +1,67 @@
+{
+  "id": 1327338489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.76667,9.93333,-66.76667,9.93333",
+    "geom:latitude":9.93333,
+    "geom:longitude":-66.76667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"La Planada",
+    "gn:country_code":"VE",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636687,
+    "gn:latitude":9.93333,
+    "gn:longitude":-66.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Planada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421193519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636687
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0ddd00e370fc870f1baebb81fcb34e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193519,
+            "locality_id":1327338489,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1327338489,
+    "wof:lastmodified":1536815611,
+    "wof:name":"La Planada",
+    "wof:parent_id":421193519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.76666999999999,
+    9.93333,
+    -66.76666999999999,
+    9.93333
+],
+  "geometry": {"coordinates":[-66.76666999999999,9.93333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193270729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.35,8.45,-70.35,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-70.35,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mata de Garzon",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632757,
+    "gn:latitude":8.45,
+    "gn:longitude":-70.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mata de Garz\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matas de Garzon",
+        "Mata de Garz\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632757
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6912aead6f72b708917efc3b2d826cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1193270729,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1193270729,
+    "wof:lastmodified":1537713540,
+    "wof:name":"Mata de Garzon",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.35,
+    8.45,
+    -70.35,
+    8.45
+],
+  "geometry": {"coordinates":[-70.34999999999999,8.45],"type":"Point"}
+}

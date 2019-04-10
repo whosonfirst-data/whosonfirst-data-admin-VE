@@ -1,0 +1,67 @@
+{
+  "id": 1260384703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.01415,10.28847,-68.01415,10.28847",
+    "geom:latitude":10.28847,
+    "geom:longitude":-68.01415,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Barbula",
+    "gn:country_code":"VE",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648563,
+    "gn:latitude":10.28847,
+    "gn:longitude":-68.01415,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"B\u00e1rbula",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421182143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648563
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c19a2f312a4bf9442a62aaf4c4f5ce95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182143,
+            "locality_id":1260384703,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1260384703,
+    "wof:lastmodified":1537070341,
+    "wof:name":"Barbula",
+    "wof:parent_id":421182143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.01415,
+    10.28847,
+    -68.01415,
+    10.28847
+],
+  "geometry": {"coordinates":[-68.01415,10.28847],"type":"Point"}
+}

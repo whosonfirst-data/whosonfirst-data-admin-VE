@@ -1,0 +1,61 @@
+{
+  "id": 1209599017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.90283,9.58718,-69.90283,9.58718",
+    "geom:latitude":9.58718,
+    "geom:longitude":-69.90283,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"La Plantilla",
+    "gn:country_code":"VE",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3768200,
+    "gn:latitude":9.58718,
+    "gn:longitude":-69.90283,
+    "gn:modification_date":"2002-01-24",
+    "gn:name":"La Plantilla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3768200
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cae8ddd0dba445c5b7f408c124b1c045",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209599017
+        }
+    ],
+    "wof:id":1209599017,
+    "wof:lastmodified":1536282229,
+    "wof:name":"La Plantilla",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.90283000000001,
+    9.58718,
+    -69.90283000000001,
+    9.58718
+],
+  "geometry": {"coordinates":[-69.90283000000001,9.58718],"type":"Point"}
+}

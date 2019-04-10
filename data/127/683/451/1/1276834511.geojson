@@ -1,0 +1,61 @@
+{
+  "id": 1276834511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.8,10.55,-64.8,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-64.8,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"La Cacalona",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638740,
+    "gn:latitude":10.55,
+    "gn:longitude":-64.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Cacalona",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638740
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2c72a1a7398ff9c46e15a9b80eef5fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276834511,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276834511,
+    "wof:lastmodified":1536601290,
+    "wof:name":"La Cacalona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.8,
+    10.55,
+    -64.8,
+    10.55
+],
+  "geometry": {"coordinates":[-64.8,10.55],"type":"Point"}
+}

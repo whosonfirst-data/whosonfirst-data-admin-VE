@@ -1,0 +1,67 @@
+{
+  "id": 1310292269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45417,10.79139,-69.45417,10.79139",
+    "geom:latitude":10.79139,
+    "geom:longitude":-69.45417,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Docore",
+    "gn:country_code":"VE",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755439,
+    "gn:latitude":10.79139,
+    "gn:longitude":-69.45417,
+    "gn:modification_date":"1996-10-09",
+    "gn:name":"Docore",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755439
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dde02d9be0ab0cec9ca90f96f665a4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1310292269,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310292269,
+    "wof:lastmodified":1536727419,
+    "wof:name":"Docore",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45416999999999,
+    10.79139,
+    -69.45416999999999,
+    10.79139
+],
+  "geometry": {"coordinates":[-69.45416999999999,10.79139],"type":"Point"}
+}

@@ -1,0 +1,280 @@
+{
+  "id": 890442121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.00734,9.21554,-66.00734,9.21554",
+    "geom:latitude":9.21554,
+    "geom:longitude":-66.00734,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":89080,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u064a \u062f\u064a \u0644\u0627 \u0628\u0627\u0633\u0643\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09b2\u09cd\u09b2\u09c7 \u09a6\u09c7 \u09b2\u09be \u09aa\u09be\u09b8\u09cd\u0995\u09c1\u09af\u09bc\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u65af\u5938\u8c37\u93ae"
+    ],
+    "name:dan_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:dut_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:eng_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:fin_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:fre_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10da\u10d4-\u10d3\u10d4-\u10da\u10d0-\u10de\u10d0\u10e1\u10d9\u10e3\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03ac\u03bb\u03bb\u03b5 \u03bd\u03c4\u03b5 \u03bb\u03b1 \u03a0\u03ac\u03c3\u03ba\u03bf\u03c5\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0ab2\u0ac7 \u0aa6\u0ac7 \u0ab2\u0abe \u0aaa\u0abe\u0ab8\u0acd\u0a95\u0ac1\u0a86"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0932\u0940 \u0926\u0947 \u0932\u093e \u092a\u093e\u0938\u094d\u0915\u0941\u0906"
+    ],
+    "name:ind_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:ita_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a8\u30fb\u30c7\u30fb\u30e9\u30fb\u30d1\u30b9\u30af\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0ccd\u0caf\u0cbe\u0cb2\u0cc6 \u0ca1\u0cc6 \u0cb2\u0cbe \u0caa\u0cb8\u0ccd\u0cb8\u0cc1\u0cb5\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc608 \ub378 \ub77c \ud30c\uc2a4\ucfe0\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Valje de la Paskua"
+    ],
+    "name:lit_x_preferred":[
+        "Vale de la Paska"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0932\u0947 \u0926\u0947 \u0932\u093e \u092a\u093e\u0938\u094d\u0915\u0941\u0906"
+    ],
+    "name:may_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:nob_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:pol_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:por_x_preferred":[
+        "Valle De La Pascua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0435-\u0434\u0435-\u041b\u0430-\u041f\u0430\u0441\u043a\u0443\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd0\u0dbd\u0dda \u0da9\u0dd2 \u0dbd\u0dcf \u0db4\u0dc3\u0dca\u0d9a\u0dd4\u0d86"
+    ],
+    "name:spa_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:swe_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bb2\u0bcd\u0bb2\u0bc7  \u0b9f\u0bc7  \u0bb2\u0bbe  \u0baa\u0bb8\u0bcd\u0b95\u0bc1\u0bb5\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c32\u0c4d\u0c32\u0c47 \u0c21\u0c3f \u0c32\u0c3e \u0c2a\u0c38\u0c4d\u0c15\u0c41 \u0c06"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e40\u0e22\u0e40\u0e14\u0e25\u0e32\u0e1b\u0e31\u0e2a\u0e01\u0e31\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0435-\u0434\u0435-\u041b\u0430-\u041f\u0430\u0441\u043a\u0443\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Valle de Pascua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0644\u06cc \u062f\u06d2 \u0644\u0627 \u067e\u0627\u0633\u06a9\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "name:vol_x_preferred":[
+        "Valle de la Pascua"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Venezuela",
+    "ne:ADM0_A3":"VEN",
+    "ne:ADM1NAME":"Gu\u00e1rico",
+    "ne:ADMIN1_COD":12,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3625515,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Valle de La Pascua",
+    "ne:GN_POP":89080,
+    "ne:GTOPO30":154.0,
+    "ne:ISO_A2":"VE",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":9.209992,
+    "ne:LONGITUDE":-66.019986,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Valle de la Pascua",
+    "ne:MAX_AREAKM":19.0,
+    "ne:MAX_AREAMI":7.0,
+    "ne:MAX_BBXMAX":-65.983333,
+    "ne:MAX_BBXMIN":-66.033333,
+    "ne:MAX_BBYMAX":9.233333,
+    "ne:MAX_BBYMIN":9.191667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":20.0,
+    "ne:MAX_PERMI":13.0,
+    "ne:MAX_POP10":83467,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-66.004891,
+    "ne:MEAN_BBYC":9.213587,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":19.0,
+    "ne:MIN_AREAMI":7.0,
+    "ne:MIN_BBXMAX":-65.983333,
+    "ne:MIN_BBXMIN":-66.033333,
+    "ne:MIN_BBYMAX":9.233333,
+    "ne:MIN_BBYMIN":9.191667,
+    "ne:MIN_PERKM":20.0,
+    "ne:MIN_PERMI":13.0,
+    "ne:NAME":"Valle de la Pascua",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Valle de la Pascua",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":89080,
+    "ne:POP_MIN":83467,
+    "ne:POP_OTHER":83467,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Venezuela",
+    "ne:SOV_A3":"VEN",
+    "ne:TIMEZONE":"America/Caracas",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Valle de La Pascua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":743,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625515,
+        "gp:id":395284,
+        "qs:id":274457,
+        "wd:id":"Q1308292",
+        "wk:page":"Valle de la Pascua"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052350,
+    "wof:geomhash":"f9095e44a4fcce3a05f63dd28edae364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":890442121,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":890442121,
+    "wof:lastmodified":1534379804,
+    "wof:name":"Valle de La Pascua",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:population":89080,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[
+        421186755
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.00734,
+    9.21554,
+    -66.00734,
+    9.21554
+],
+  "geometry": {"coordinates":[-66.00734,9.21554],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326812597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.01537,10.1776,-67.01537,10.1776",
+    "geom:latitude":10.1776,
+    "geom:longitude":-67.01537,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tacata Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3804258,
+    "gn:latitude":10.1776,
+    "gn:longitude":-67.01537,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Tacata Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804258
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"82ae90ef581a307a6d1925fc47efd0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1326812597,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1326812597,
+    "wof:lastmodified":1537074021,
+    "wof:name":"Tacata Arriba",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.01536999999999,
+    10.1776,
+    -67.01536999999999,
+    10.1776
+],
+  "geometry": {"coordinates":[-67.01536999999999,10.1776],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343567559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.41332,7.80213,-67.41332,7.80213",
+    "geom:latitude":7.80213,
+    "geom:longitude":-67.41332,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tapa de Caramacate",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805808,
+    "gn:latitude":7.80213,
+    "gn:longitude":-67.41332,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Tapa de Caramacate",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805808
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"79936c4a6ee216f5b73011e35b3ce5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1343567559,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343567559,
+    "wof:lastmodified":1537085984,
+    "wof:name":"Tapa de Caramacate",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.41332,
+    7.80213,
+    -67.41332,
+    7.80213
+],
+  "geometry": {"coordinates":[-67.41332,7.80213],"type":"Point"}
+}

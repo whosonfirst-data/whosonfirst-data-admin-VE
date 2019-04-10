@@ -1,0 +1,67 @@
+{
+  "id": 1310389035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.905,9.91,-69.905,9.91",
+    "geom:latitude":9.91,
+    "geom:longitude":-69.905,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Salvajes",
+    "gn:country_code":"VE",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748431,
+    "gn:latitude":9.91,
+    "gn:longitude":-69.905,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Los Salvajes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421200611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748431
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4530165dcdd95bd88ee9bc0b791f0256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200611,
+            "locality_id":1310389035,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1310389035,
+    "wof:lastmodified":1537081815,
+    "wof:name":"Los Salvajes",
+    "wof:parent_id":421200611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.905,
+    9.91,
+    -69.905,
+    9.91
+],
+  "geometry": {"coordinates":[-69.905,9.91],"type":"Point"}
+}

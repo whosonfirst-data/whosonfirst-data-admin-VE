@@ -1,0 +1,67 @@
+{
+  "id": 1344014609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43349,9.33812,-70.43349,9.33812",
+    "geom:latitude":9.33812,
+    "geom:longitude":-70.43349,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Millita",
+    "gn:country_code":"VE",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3482334,
+    "gn:latitude":9.33812,
+    "gn:longitude":-70.43349,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Millita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421188829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482334
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8210a82d9ab8ec58f3ff75e9fea55cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188829,
+            "locality_id":1344014609,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1344014609,
+    "wof:lastmodified":1536942537,
+    "wof:name":"Millita",
+    "wof:parent_id":421188829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43349,
+    9.33812,
+    -70.43349,
+    9.33812
+],
+  "geometry": {"coordinates":[-70.43349000000001,9.33812],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344115829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18559,7.87825,-72.18559,7.87825",
+    "geom:latitude":7.87825,
+    "geom:longitude":-72.18559,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Tamauco",
+    "gn:country_code":"VE",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759173,
+    "gn:latitude":7.87825,
+    "gn:longitude":-72.18559,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"T\u00e1mauco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759173
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a37181a1dd8a1847bc53a315f9edf8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694071,
+            "locality_id":1344115829,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1344115829,
+    "wof:lastmodified":1536796102,
+    "wof:name":"Tamauco",
+    "wof:parent_id":1108694071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18559,
+    7.87825,
+    -72.18559,
+    7.87825
+],
+  "geometry": {"coordinates":[-72.18559,7.87825],"type":"Point"}
+}

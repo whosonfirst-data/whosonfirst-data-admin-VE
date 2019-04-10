@@ -1,0 +1,67 @@
+{
+  "id": 1242931717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.91339,10.48644,-68.91339,10.48644",
+    "geom:latitude":10.48644,
+    "geom:longitude":-68.91339,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"El Nueve y Medio",
+    "gn:country_code":"VE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642411,
+    "gn:latitude":10.48644,
+    "gn:longitude":-68.91339,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Nueve y Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642411
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"73cacce123e715dd51fb7059aa27121c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694125,
+            "locality_id":1242931717,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1242931717,
+    "wof:lastmodified":1537048736,
+    "wof:name":"El Nueve y Medio",
+    "wof:parent_id":1108694125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.91339,
+    10.48644,
+    -68.91339,
+    10.48644
+],
+  "geometry": {"coordinates":[-68.91339000000001,10.48644],"type":"Point"}
+}

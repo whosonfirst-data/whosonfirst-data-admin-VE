@@ -1,0 +1,67 @@
+{
+  "id": 1276885321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.33333,10.08333,-64.33333,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":-64.33333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Fila",
+    "gn:country_code":"VE",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637938,
+    "gn:latitude":10.08333,
+    "gn:longitude":-64.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Fila",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637938
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4efe69294c3b77b24b833945a11ce544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1276885321,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276885321,
+    "wof:lastmodified":1537032414,
+    "wof:name":"La Fila",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.33333,
+    10.08333,
+    -64.33333,
+    10.08333
+],
+  "geometry": {"coordinates":[-64.33333,10.08333],"type":"Point"}
+}

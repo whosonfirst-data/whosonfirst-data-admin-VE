@@ -1,0 +1,67 @@
+{
+  "id": 1343466401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.80694,9.52549,-64.80694,9.52549",
+    "geom:latitude":9.52549,
+    "geom:longitude":-64.80694,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Negra",
+    "gn:country_code":"VE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637007,
+    "gn:latitude":9.52549,
+    "gn:longitude":-64.80694,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"La Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637007
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"59c6b322aca1f744882e8a7075317a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1343466401,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343466401,
+    "wof:lastmodified":1536737447,
+    "wof:name":"La Negra",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.80694,
+    9.52549,
+    -64.80694,
+    9.52549
+],
+  "geometry": {"coordinates":[-64.80694,9.52549],"type":"Point"}
+}

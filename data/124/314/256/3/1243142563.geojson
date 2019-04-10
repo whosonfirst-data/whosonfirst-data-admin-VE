@@ -1,0 +1,67 @@
+{
+  "id": 1243142563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2625,8.53722,-71.2625,8.53722",
+    "geom:latitude":8.53722,
+    "geom:longitude":-71.2625,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Agua Dulce",
+    "gn:country_code":"VE",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753634,
+    "gn:latitude":8.53722,
+    "gn:longitude":-71.2625,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"Agua Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753634
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"680949f76bf1fd25cb158a3af37be0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171999,
+            "locality_id":1243142563,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1243142563,
+    "wof:lastmodified":1536746582,
+    "wof:name":"Agua Dulce",
+    "wof:parent_id":421171999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2625,
+    8.53722,
+    -71.2625,
+    8.53722
+],
+  "geometry": {"coordinates":[-71.2625,8.53722],"type":"Point"}
+}

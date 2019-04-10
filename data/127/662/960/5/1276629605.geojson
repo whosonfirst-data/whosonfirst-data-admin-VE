@@ -1,0 +1,67 @@
+{
+  "id": 1276629605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.9978,10.63278,-63.9978,10.63278",
+    "geom:latitude":10.63278,
+    "geom:longitude":-63.9978,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Obispo",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749485,
+    "gn:latitude":10.63278,
+    "gn:longitude":-63.9978,
+    "gn:modification_date":"1996-07-17",
+    "gn:name":"El Obispo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        421172601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749485
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"324e390a4ff8af082622ec5e38968715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172601,
+            "locality_id":1276629605,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276629605,
+    "wof:lastmodified":1536878320,
+    "wof:name":"El Obispo",
+    "wof:parent_id":421172601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.9978,
+    10.63278,
+    -63.9978,
+    10.63278
+],
+  "geometry": {"coordinates":[-63.9978,10.63278],"type":"Point"}
+}

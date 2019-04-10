@@ -1,0 +1,67 @@
+{
+  "id": 1326713383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.72483,8.1529,-71.72483,8.1529",
+    "geom:latitude":8.1529,
+    "geom:longitude":-71.72483,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Las Vegas",
+    "gn:country_code":"VE",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635261,
+    "gn:latitude":8.1529,
+    "gn:longitude":-71.72483,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Las Vegas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421196155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635261
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f63cd03b8a33ec89aa3b15a021080d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196155,
+            "locality_id":1326713383,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1326713383,
+    "wof:lastmodified":1536723302,
+    "wof:name":"Las Vegas",
+    "wof:parent_id":421196155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.72483000000003,
+    8.1529,
+    -71.72483000000003,
+    8.1529
+],
+  "geometry": {"coordinates":[-71.72483000000003,8.1529],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209673479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92148,11.60403,-71.92148,11.60403",
+    "geom:latitude":11.60403,
+    "geom:longitude":-71.92148,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Casusain",
+    "gn:country_code":"VE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646224,
+    "gn:latitude":11.60403,
+    "gn:longitude":-71.92148,
+    "gn:modification_date":"1998-11-18",
+    "gn:name":"Casusain",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646224
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d1226a90a6ecb9fc577a5296d486276f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209673479
+        }
+    ],
+    "wof:id":1209673479,
+    "wof:lastmodified":1536279837,
+    "wof:name":"Casusain",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92148,
+    11.60403,
+    -71.92148,
+    11.60403
+],
+  "geometry": {"coordinates":[-71.92148,11.60403],"type":"Point"}
+}

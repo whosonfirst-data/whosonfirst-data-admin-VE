@@ -1,0 +1,65 @@
+{
+  "id": 1209074549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71556,10.76714,-71.71556,10.76714",
+    "geom:latitude":10.76714,
+    "geom:longitude":-71.71556,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Felix",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643261,
+    "gn:latitude":10.76714,
+    "gn:longitude":-71.71556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El F\u00e9lix",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Feliz",
+        "El F\u00e9lix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643261
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"034ec85abba7cd4ef261b8905cc4aec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209074549
+        }
+    ],
+    "wof:id":1209074549,
+    "wof:lastmodified":1537713603,
+    "wof:name":"El Felix",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71556,
+    10.76714,
+    -71.71556,
+    10.76714
+],
+  "geometry": {"coordinates":[-71.71556,10.76714],"type":"Point"}
+}

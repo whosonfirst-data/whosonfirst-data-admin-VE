@@ -1,0 +1,72 @@
+{
+  "id": 1226149431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.65,7.46667,-67.65,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":-67.65,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Las Pinitas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635432,
+    "gn:latitude":7.46667,
+    "gn:longitude":-67.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Pi\u00f1itas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pa\u00f1itos",
+        "Las Pi\u00f1itas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635432
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"48dc59077b5d0d59b1de98a737dc0b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1226149431,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1226149431,
+    "wof:lastmodified":1537713557,
+    "wof:name":"Las Pinitas",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.65,
+    7.46667,
+    -67.65,
+    7.46667
+],
+  "geometry": {"coordinates":[-67.65000000000001,7.46667],"type":"Point"}
+}

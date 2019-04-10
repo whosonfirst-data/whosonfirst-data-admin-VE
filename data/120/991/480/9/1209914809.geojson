@@ -1,0 +1,67 @@
+{
+  "id": 1209914809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.41235,7.36499,-67.41235,7.36499",
+    "geom:latitude":7.36499,
+    "geom:longitude":-67.41235,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cunaviche",
+    "gn:country_code":"VE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644721,
+    "gn:latitude":7.36499,
+    "gn:longitude":-67.41235,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Cunaviche",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644721
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"95738bea5973a6e629537ef3f226f6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1209914809,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1209914809,
+    "wof:lastmodified":1536374888,
+    "wof:name":"Cunaviche",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.41235,
+    7.36499,
+    -67.41235,
+    7.36499
+],
+  "geometry": {"coordinates":[-67.41235,7.36499],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293448867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39861,8.00167,-72.39861,8.00167",
+    "geom:latitude":8.00167,
+    "geom:longitude":-72.39861,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Zamurito",
+    "gn:country_code":"VE",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757361,
+    "gn:latitude":8.00167,
+    "gn:longitude":-72.39861,
+    "gn:modification_date":"1996-12-18",
+    "gn:name":"Zamurito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757361
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d35a5432e623cf5a345b958e1a457d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694347,
+            "locality_id":1293448867,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293448867,
+    "wof:lastmodified":1536841854,
+    "wof:name":"Zamurito",
+    "wof:parent_id":1108694347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39860999999998,
+    8.00167,
+    -72.39860999999998,
+    8.00167
+],
+  "geometry": {"coordinates":[-72.39860999999998,8.00167],"type":"Point"}
+}

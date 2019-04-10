@@ -1,0 +1,67 @@
+{
+  "id": 1259595109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.56487,8.18883,-63.56487,8.18883",
+    "geom:latitude":8.18883,
+    "geom:longitude":-63.56487,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Villa Urica",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484066,
+    "gn:latitude":8.18883,
+    "gn:longitude":-63.56487,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Villa Urica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484066
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"267c403518c181ac8027e00701939945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1259595109,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259595109,
+    "wof:lastmodified":1536698252,
+    "wof:name":"Villa Urica",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.56486999999999,
+    8.18883,
+    -63.56486999999999,
+    8.18883
+],
+  "geometry": {"coordinates":[-63.56486999999999,8.18883],"type":"Point"}
+}

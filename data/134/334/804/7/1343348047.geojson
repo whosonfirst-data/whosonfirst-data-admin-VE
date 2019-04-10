@@ -1,0 +1,67 @@
+{
+  "id": 1343348047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.47635,7.92339,-67.47635,7.92339",
+    "geom:latitude":7.92339,
+    "geom:longitude":-67.47635,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Coco de Mono",
+    "gn:country_code":"VE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765364,
+    "gn:latitude":7.92339,
+    "gn:longitude":-67.47635,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Coco de Mono",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765364
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"39890211236504afbd72bb4f092a2079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694141,
+            "locality_id":1343348047,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343348047,
+    "wof:lastmodified":1536908831,
+    "wof:name":"Coco de Mono",
+    "wof:parent_id":1108694141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.47635,
+    7.92339,
+    -67.47635,
+    7.92339
+],
+  "geometry": {"coordinates":[-67.47635,7.92339],"type":"Point"}
+}

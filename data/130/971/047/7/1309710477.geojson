@@ -1,0 +1,67 @@
+{
+  "id": 1309710477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03333,8.15,-70.03333,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":-70.03333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mata de Gabino",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632758,
+    "gn:latitude":8.15,
+    "gn:longitude":-70.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mata de Gabino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632758
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ccdd4c49156e9502cfea59d1367ede63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1309710477,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1309710477,
+    "wof:lastmodified":1537065678,
+    "wof:name":"Mata de Gabino",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03333,
+    8.15,
+    -70.03333,
+    8.15
+],
+  "geometry": {"coordinates":[-70.03333000000001,8.15],"type":"Point"}
+}

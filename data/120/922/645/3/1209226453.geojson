@@ -1,0 +1,61 @@
+{
+  "id": 1209226453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.52216,10.11636,-64.52216,10.11636",
+    "geom:latitude":10.11636,
+    "geom:longitude":-64.52216,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Tigre",
+    "gn:country_code":"VE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641340,
+    "gn:latitude":10.11636,
+    "gn:longitude":-64.52216,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641340
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a4b9debdd2b654b9930a6ed124ebb757",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209226453
+        }
+    ],
+    "wof:id":1209226453,
+    "wof:lastmodified":1536293784,
+    "wof:name":"El Tigre",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.52216,
+    10.11636,
+    -64.52216,
+    10.11636
+],
+  "geometry": {"coordinates":[-64.52216,10.11636],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293741785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.89172,10.63317,-71.89172,10.63317",
+    "geom:latitude":10.63317,
+    "geom:longitude":-71.89172,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Las Praderas",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3790153,
+    "gn:latitude":10.63317,
+    "gn:longitude":-71.89172,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Las Praderas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3790153
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0d3b8f3370eadd6e7737cc3247867de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1293741785,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293741785,
+    "wof:lastmodified":1536918313,
+    "wof:name":"Las Praderas",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.89171999999998,
+    10.63317,
+    -71.89171999999998,
+    10.63317
+],
+  "geometry": {"coordinates":[-71.89171999999998,10.63317],"type":"Point"}
+}

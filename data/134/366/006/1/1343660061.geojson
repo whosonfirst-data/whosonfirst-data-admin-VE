@@ -1,0 +1,73 @@
+{
+  "id": 1343660061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.93516,8.75326,-69.93516,8.75326",
+    "geom:latitude":8.75326,
+    "geom:longitude":-69.93516,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60101.0",
+    "gn:asciiname":"Sabaneta",
+    "gn:country_code":"VE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3628853,
+    "gn:latitude":8.75326,
+    "gn:longitude":-69.93516,
+    "gn:modification_date":"2012-01-31",
+    "gn:name":"Sabaneta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabaneta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628853,
+        "wk:page":"Sabaneta%2C_Barinas"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3e40e16abdca1bc3b671c849a98d9a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694103,
+            "locality_id":1343660061,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343660061,
+    "wof:lastmodified":1537713522,
+    "wof:name":"Sabaneta",
+    "wof:parent_id":1108694103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.93516,
+    8.75326,
+    -69.93516,
+    8.75326
+],
+  "geometry": {"coordinates":[-69.93516,8.75326],"type":"Point"}
+}

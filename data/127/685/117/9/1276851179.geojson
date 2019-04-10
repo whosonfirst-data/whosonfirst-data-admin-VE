@@ -1,0 +1,67 @@
+{
+  "id": 1276851179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.86106,10.67996,-70.86106,10.67996",
+    "geom:latitude":10.67996,
+    "geom:longitude":-70.86106,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Varguitas",
+    "gn:country_code":"VE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625483,
+    "gn:latitude":10.67996,
+    "gn:longitude":-70.86106,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Varguitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625483
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a314cd3dbda68c41e65cdb7031a974fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1276851179,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276851179,
+    "wof:lastmodified":1537076486,
+    "wof:name":"Varguitas",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.86106,
+    10.67996,
+    -70.86106,
+    10.67996
+],
+  "geometry": {"coordinates":[-70.86105999999999,10.67996],"type":"Point"}
+}

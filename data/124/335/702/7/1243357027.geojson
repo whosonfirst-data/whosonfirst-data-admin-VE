@@ -1,0 +1,67 @@
+{
+  "id": 1243357027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.30611,10.1837,-68.30611,10.1837",
+    "geom:latitude":10.1837,
+    "geom:longitude":-68.30611,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Potrerito",
+    "gn:country_code":"VE",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629909,
+    "gn:latitude":10.1837,
+    "gn:longitude":-68.30611,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Potrerito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629909
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a4a55a69229f6fe95e07e1f99b8b6269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694307,
+            "locality_id":1243357027,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1243357027,
+    "wof:lastmodified":1536935260,
+    "wof:name":"Potrerito",
+    "wof:parent_id":1108694307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.30611,
+    10.1837,
+    -68.30611,
+    10.1837
+],
+  "geometry": {"coordinates":[-68.30611,10.1837],"type":"Point"}
+}

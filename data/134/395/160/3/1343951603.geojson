@@ -1,0 +1,67 @@
+{
+  "id": 1343951603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.95709,10.46649,-67.95709,10.46649",
+    "geom:latitude":10.46649,
+    "geom:longitude":-67.95709,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ganango",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640682,
+    "gn:latitude":10.46649,
+    "gn:longitude":-67.95709,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Ga\u00f1ango",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640682
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c58b8f7d038ab6bf79d2bb647137c467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "locality_id":1343951603,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1343951603,
+    "wof:lastmodified":1537031471,
+    "wof:name":"Ganango",
+    "wof:parent_id":421198089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.95709000000001,
+    10.46649,
+    -67.95709000000001,
+    10.46649
+],
+  "geometry": {"coordinates":[-67.95709000000001,10.46649],"type":"Point"}
+}

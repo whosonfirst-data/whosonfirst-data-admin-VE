@@ -1,0 +1,67 @@
+{
+  "id": 1309719727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.50772,8.04928,-64.50772,8.04928",
+    "geom:latitude":8.04928,
+    "geom:longitude":-64.50772,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mahomito",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485142,
+    "gn:latitude":8.04928,
+    "gn:longitude":-64.50772,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Mahomito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485142
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"72036dc9dd08390d557524f3b162954c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1309719727,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309719727,
+    "wof:lastmodified":1537052861,
+    "wof:name":"Mahomito",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.50771999999999,
+    8.04928,
+    -64.50771999999999,
+    8.04928
+],
+  "geometry": {"coordinates":[-64.50771999999999,8.04928],"type":"Point"}
+}

@@ -1,0 +1,299 @@
+{
+  "id": 890442127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.74247,10.33991,-68.74247,10.33991",
+    "geom:latitude":10.33991,
+    "geom:longitude":-68.74247,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA",
+    "gn:pop":76766,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u064a\u0644\u064a\u0628\u064a\u060c \u0641\u0646\u0632\u0648\u064a\u0644\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "San Felipe"
+    ],
+    "name:baq_x_preferred":[
+        "San Felipe"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ab\u09bf\u09b2\u09bf\u09aa"
+    ],
+    "name:cat_x_preferred":[
+        "San Felipe"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u8cbb\u5229\u4f69"
+    ],
+    "name:dan_x_preferred":[
+        "San Felipe"
+    ],
+    "name:dut_x_preferred":[
+        "San Felipe"
+    ],
+    "name:eng_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fin_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fre_x_preferred":[
+        "San Felipe"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e4\u10d4\u10da\u10d8\u10de\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "San Felipe"
+    ],
+    "name:glg_x_preferred":[
+        "San Felipe"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03b5\u03bb\u03af\u03c0\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8 \u0aab\u0ac7\u0ab2\u0abf\u0aaa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092b\u0947\u0932\u093f\u092a\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "San Felipe"
+    ],
+    "name:ita_x_preferred":[
+        "San Felipe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30a7\u30ea\u30da"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cab\u0cc6\u0cb2\u0cbf\u0caa\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e4\u10d4\u10da\u10d8\u10de\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud3a0\ub9ac\ud398"
+    ],
+    "name:lav_x_preferred":[
+        "Sanfelipe"
+    ],
+    "name:lit_x_preferred":[
+        "San Felip\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u092b\u0947\u0932\u0940\u092a"
+    ],
+    "name:may_x_preferred":[
+        "San Felipe"
+    ],
+    "name:nan_x_preferred":[
+        "San Felipe"
+    ],
+    "name:nob_x_preferred":[
+        "San Felipe"
+    ],
+    "name:pol_x_preferred":[
+        "San Felipe"
+    ],
+    "name:por_x_preferred":[
+        "San Felipe"
+    ],
+    "name:rum_x_preferred":[
+        "San Felipe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0435\u043b\u0438\u043f\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0dc6\u0dd2\u0dbd\u0dd2\u0db4\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "San Felipe"
+    ],
+    "name:swe_x_preferred":[
+        "San Felipe"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc6"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c2b\u0c46\u0c32\u0c3f\u0c2a\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e1f\u0e34\u0e25\u0e34\u0e40\u0e1b\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "San Felipe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0435\u043b\u0456\u043f\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u06cc\u0644\u06cc\u067e\u06d2\u060c \u062c\u0627\u0631\u0627\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "San Felipe"
+    ],
+    "name:war_x_preferred":[
+        "San Felipe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8cbb\u5229\u4f69"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Venezuela",
+    "ne:ADM0_A3":"VEN",
+    "ne:ADM1NAME":"Yaracuy",
+    "ne:ADMIN1_COD":22,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3628423,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Felipe",
+    "ne:GN_POP":76766,
+    "ne:GTOPO30":207.0,
+    "ne:ISO_A2":"VE",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":10.335996,
+    "ne:LONGITUDE":-68.745996,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"San Felipe",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Felipe",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":5,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":76766,
+    "ne:POP_MIN":76766,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":9,
+    "ne:SOV0NAME":"Venezuela",
+    "ne:SOV_A3":"VEN",
+    "ne:TIMEZONE":"America/Caracas",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"San Felipe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        890450031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628423,
+        "gp:id":468434,
+        "qs:id":274461,
+        "qs_pg:id":422684,
+        "wd:id":"Q965754"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052351,
+    "wof:geomhash":"9054355773bfbf9ba5e2639c2e7a6f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890450031,
+            "locality_id":890442127,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":890442127,
+    "wof:lastmodified":1553816399,
+    "wof:name":"San Felipe",
+    "wof:parent_id":890450031,
+    "wof:placetype":"locality",
+    "wof:population":76766,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.74247,
+    10.33991,
+    -68.74247,
+    10.33991
+],
+  "geometry": {"coordinates":[-68.74247,10.33991],"type":"Point"}
+}

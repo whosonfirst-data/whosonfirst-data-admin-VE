@@ -1,0 +1,67 @@
+{
+  "id": 1309997891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.54056,7.83333,-63.54056,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":-63.54056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Ceibita",
+    "gn:country_code":"VE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807558,
+    "gn:latitude":7.83333,
+    "gn:longitude":-63.54056,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"La Ceibita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807558
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6eda8d7d32d9977c6a88821ab59175e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1309997891,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1309997891,
+    "wof:lastmodified":1536654280,
+    "wof:name":"La Ceibita",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.54056,
+    7.83333,
+    -63.54056,
+    7.83333
+],
+  "geometry": {"coordinates":[-63.54056,7.83333],"type":"Point"}
+}

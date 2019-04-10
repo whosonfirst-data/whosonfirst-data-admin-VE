@@ -1,0 +1,67 @@
+{
+  "id": 1310325083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6867,9.98813,-67.6867,9.98813",
+    "geom:latitude":9.98813,
+    "geom:longitude":-67.6867,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Belen",
+    "gn:country_code":"VE",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648360,
+    "gn:latitude":9.98813,
+    "gn:longitude":-67.6867,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648360
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"23ad57a59925b70176b265b4af7ae068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1310325083,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1310325083,
+    "wof:lastmodified":1536679722,
+    "wof:name":"Belen",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6867,
+    9.98813,
+    -67.6867,
+    9.98813
+],
+  "geometry": {"coordinates":[-67.6867,9.98813],"type":"Point"}
+}

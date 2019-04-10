@@ -1,0 +1,67 @@
+{
+  "id": 1326494657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.19881,8.01059,-72.19881,8.01059",
+    "geom:latitude":8.01059,
+    "geom:longitude":-72.19881,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Los Vegones",
+    "gn:country_code":"VE",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738773,
+    "gn:latitude":8.01059,
+    "gn:longitude":-72.19881,
+    "gn:modification_date":"1996-12-18",
+    "gn:name":"Los Vegones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421189269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738773
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"56d97bc152781e61ea587f48ca589326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189269,
+            "locality_id":1326494657,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1326494657,
+    "wof:lastmodified":1537036696,
+    "wof:name":"Los Vegones",
+    "wof:parent_id":421189269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.19881,
+    8.01059,
+    -72.19881,
+    8.01059
+],
+  "geometry": {"coordinates":[-72.19880999999999,8.01059],"type":"Point"}
+}

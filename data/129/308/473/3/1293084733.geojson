@@ -1,0 +1,71 @@
+{
+  "id": 1293084733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.43101,10.0174,-69.43101,10.0174",
+    "geom:latitude":10.0174,
+    "geom:longitude":-69.43101,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Tostado",
+    "gn:country_code":"VE",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641227,
+    "gn:latitude":10.0174,
+    "gn:longitude":-69.43101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tostado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tostado",
+        "El Tostado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641227
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5e94faa28e3522f27a5a102af92a729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1293084733,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1293084733,
+    "wof:lastmodified":1537713590,
+    "wof:name":"El Tostado",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.43101,
+    10.0174,
+    -69.43101,
+    10.0174
+],
+  "geometry": {"coordinates":[-69.43101,10.0174],"type":"Point"}
+}

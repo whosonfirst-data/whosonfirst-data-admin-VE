@@ -1,0 +1,67 @@
+{
+  "id": 1343960009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.13333,8.36667,-63.13333,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-63.13333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Mayitas de Corrientoso",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635729,
+    "gn:latitude":8.36667,
+    "gn:longitude":-63.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Mayitas de Corrientoso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635729
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3ab4459582049d725860935cf53b9783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1343960009,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343960009,
+    "wof:lastmodified":1537019773,
+    "wof:name":"Las Mayitas de Corrientoso",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.13333000000001,
+    8.36667,
+    -63.13333000000001,
+    8.36667
+],
+  "geometry": {"coordinates":[-63.13333000000001,8.36667],"type":"Point"}
+}

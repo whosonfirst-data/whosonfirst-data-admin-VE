@@ -1,0 +1,67 @@
+{
+  "id": 1327320185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.05405,9.80516,-66.05405,9.80516",
+    "geom:latitude":9.80516,
+    "geom:longitude":-66.05405,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Castillera",
+    "gn:country_code":"VE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3772320,
+    "gn:latitude":9.80516,
+    "gn:longitude":-66.05405,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Castillera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772320
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"89ab2e9800157fa34b5278ff264ccb2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1327320185,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1327320185,
+    "wof:lastmodified":1536841892,
+    "wof:name":"La Castillera",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.05405,
+    9.80516,
+    -66.05405,
+    9.80516
+],
+  "geometry": {"coordinates":[-66.05405,9.80516],"type":"Point"}
+}

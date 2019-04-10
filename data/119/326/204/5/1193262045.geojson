@@ -1,0 +1,67 @@
+{
+  "id": 1193262045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61993,10.07849,-69.61993,10.07849",
+    "geom:latitude":10.07849,
+    "geom:longitude":-69.61993,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Maracay",
+    "gn:country_code":"VE",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749627,
+    "gn:latitude":10.07849,
+    "gn:longitude":-69.61993,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Maracay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421189073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749627
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ded20650409f884854ad16719cd950df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189073,
+            "locality_id":1193262045,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1193262045,
+    "wof:lastmodified":1536379814,
+    "wof:name":"Maracay",
+    "wof:parent_id":421189073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61993000000001,
+    10.07849,
+    -69.61993000000001,
+    10.07849
+],
+  "geometry": {"coordinates":[-69.61993000000001,10.07849],"type":"Point"}
+}

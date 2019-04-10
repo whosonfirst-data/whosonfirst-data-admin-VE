@@ -1,0 +1,61 @@
+{
+  "id": 1209580507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.9486,10.13429,-63.9486,10.13429",
+    "geom:latitude":10.13429,
+    "geom:longitude":-63.9486,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yaque",
+    "gn:country_code":"VE",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796911,
+    "gn:latitude":10.13429,
+    "gn:longitude":-63.9486,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Yaque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796911
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bff848f5380a76f8ace3bbc8698f2d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209580507
+        }
+    ],
+    "wof:id":1209580507,
+    "wof:lastmodified":1536282804,
+    "wof:name":"Yaque",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.9486,
+    10.13429,
+    -63.9486,
+    10.13429
+],
+  "geometry": {"coordinates":[-63.9486,10.13429],"type":"Point"}
+}

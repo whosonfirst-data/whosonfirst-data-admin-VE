@@ -1,0 +1,67 @@
+{
+  "id": 1243041181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71,8.36862,-71.71,8.36862",
+    "geom:latitude":8.36862,
+    "geom:longitude":-71.71,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bolero",
+    "gn:country_code":"VE",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798870,
+    "gn:latitude":8.36862,
+    "gn:longitude":-71.71,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Bolero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798870
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5597e82246959b50739e14c434a5700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1243041181,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1243041181,
+    "wof:lastmodified":1536892534,
+    "wof:name":"Bolero",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71,
+    8.36862,
+    -71.71,
+    8.36862
+],
+  "geometry": {"coordinates":[-71.70999999999999,8.36862],"type":"Point"}
+}

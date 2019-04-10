@@ -1,0 +1,67 @@
+{
+  "id": 1260244363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18806,9.58889,-69.18806,9.58889",
+    "geom:latitude":9.58889,
+    "geom:longitude":-69.18806,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Alcabala",
+    "gn:country_code":"VE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766536,
+    "gn:latitude":9.58889,
+    "gn:longitude":-69.18806,
+    "gn:modification_date":"1999-03-03",
+    "gn:name":"Alcabala",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766536
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c1991103b5417164915a94bf5ef03519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694093,
+            "locality_id":1260244363,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1260244363,
+    "wof:lastmodified":1536765384,
+    "wof:name":"Alcabala",
+    "wof:parent_id":1108694093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18806,
+    9.58889,
+    -69.18806,
+    9.58889
+],
+  "geometry": {"coordinates":[-69.18805999999999,9.58889],"type":"Point"}
+}

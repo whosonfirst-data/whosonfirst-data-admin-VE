@@ -1,0 +1,67 @@
+{
+  "id": 1292979891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.10365,9.90849,-70.10365,9.90849",
+    "geom:latitude":9.90849,
+    "geom:longitude":-70.10365,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Caro",
+    "gn:country_code":"VE",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767272,
+    "gn:latitude":9.90849,
+    "gn:longitude":-70.10365,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Caro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767272
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"60f7861141b95c51ecb77c127860245b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1292979891,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1292979891,
+    "wof:lastmodified":1537020881,
+    "wof:name":"Caro",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.10365,
+    9.90849,
+    -70.10365,
+    9.90849
+],
+  "geometry": {"coordinates":[-70.10365,9.90849],"type":"Point"}
+}

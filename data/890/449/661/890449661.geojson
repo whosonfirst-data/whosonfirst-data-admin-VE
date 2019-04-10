@@ -1,0 +1,63 @@
+{
+  "id": 890449661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.703491,11.851223,-66.703491,11.851223",
+    "geom:latitude":11.851223,
+    "geom:longitude":-66.703491,
+    "gn:country":"VE",
+    "gp:adm0":23424982,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Dependencias Federales",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Dependencias Federales",
+    "qs:photos":3665,
+    "qs:photos_1k":743,
+    "qs:photos_9k":19,
+    "qs:photos_9r":13,
+    "qs:photos_all":4345,
+    "qs:photos_sr":21,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804548,
+        "qs:id":1086740
+    },
+    "wof:country":"VE",
+    "wof:created":1469052702,
+    "wof:geomhash":"e6ceb0a3f1208ff240ecd6b2df886b7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "county_id":890449661
+        }
+    ],
+    "wof:id":890449661,
+    "wof:lastmodified":1474491985,
+    "wof:name":"Dependencias Federales",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.703491,
+    11.851223,
+    -66.703491,
+    11.851223
+],
+  "geometry": {"coordinates":[-66.703491,11.851223],"type":"Point"}
+}

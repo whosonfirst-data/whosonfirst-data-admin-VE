@@ -1,0 +1,67 @@
+{
+  "id": 1242689749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.85983,9.38081,-64.85983,9.38081",
+    "geom:latitude":9.38081,
+    "geom:longitude":-64.85983,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Banco de Burro",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486056,
+    "gn:latitude":9.38081,
+    "gn:longitude":-64.85983,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Banco de Burro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486056
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4b0bf401dec8174fb1a2f9a5492216a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1242689749,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1242689749,
+    "wof:lastmodified":1536902310,
+    "wof:name":"Banco de Burro",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.85983,
+    9.38081,
+    -64.85983,
+    9.38081
+],
+  "geometry": {"coordinates":[-64.85983,9.38081],"type":"Point"}
+}

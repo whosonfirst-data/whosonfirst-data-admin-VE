@@ -1,0 +1,67 @@
+{
+  "id": 1243412117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45372,10.14713,-72.45372,10.14713",
+    "geom:latitude":10.14713,
+    "geom:longitude":-72.45372,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Macoa",
+    "gn:country_code":"VE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633436,
+    "gn:latitude":10.14713,
+    "gn:longitude":-72.45372,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Macoa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633436
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e5dd6559ac8e861916ef0c092aa28ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1243412117,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243412117,
+    "wof:lastmodified":1536853968,
+    "wof:name":"Macoa",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45371999999998,
+    10.14713,
+    -72.45371999999998,
+    10.14713
+],
+  "geometry": {"coordinates":[-72.45371999999998,10.14713],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243024729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64746,9.24001,-70.64746,9.24001",
+    "geom:latitude":9.24001,
+    "geom:longitude":-70.64746,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Calembe",
+    "gn:country_code":"VE",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482713,
+    "gn:latitude":9.24001,
+    "gn:longitude":-70.64746,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"El Calembe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482713
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9a9595451ff4971831c439beb7115fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694477,
+            "locality_id":1243024729,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1243024729,
+    "wof:lastmodified":1536917109,
+    "wof:name":"El Calembe",
+    "wof:parent_id":1108694477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64746,
+    9.24001,
+    -70.64746,
+    9.24001
+],
+  "geometry": {"coordinates":[-70.64746,9.24001],"type":"Point"}
+}

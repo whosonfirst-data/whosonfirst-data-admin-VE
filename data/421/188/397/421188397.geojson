@@ -1,0 +1,93 @@
+{
+  "id": 421188397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46667,9.85,-68.46667,9.85",
+    "geom:latitude":9.85,
+    "geom:longitude":-68.46667,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Tinaco"
+    ],
+    "name:nld_x_preferred":[
+        "Tinaco"
+    ],
+    "name:por_x_preferred":[
+        "Tinaco"
+    ],
+    "name:spa_x_preferred":[
+        "Tinaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7d0d\u79d1"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3626205,
+    "qs:gn_pop":0,
+    "qs:name":"Tinaco",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Cojedes",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1095809,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468501,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626205,
+        "gp:id":468501,
+        "qs:id":1095809,
+        "wd:id":"Q3529140"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009554,
+    "wof:geomhash":"a6d1e02f87a757027210ab717045aa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694265,
+            "locality_id":421188397,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":421188397,
+    "wof:lastmodified":1527716275,
+    "wof:name":"Tinaco",
+    "wof:parent_id":1108694265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46667,
+    9.85,
+    -68.46667,
+    9.85
+],
+  "geometry": {"coordinates":[-68.46666999999999,9.85],"type":"Point"}
+}

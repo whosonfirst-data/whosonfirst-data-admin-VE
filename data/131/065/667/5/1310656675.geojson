@@ -1,0 +1,67 @@
+{
+  "id": 1310656675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88327,10.55012,-71.88327,10.55012",
+    "geom:latitude":10.55012,
+    "geom:longitude":-71.88327,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pueblo Aparte",
+    "gn:country_code":"VE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629806,
+    "gn:latitude":10.55012,
+    "gn:longitude":-71.88327,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Pueblo Aparte",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629806
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"932ba252983c62692671061223434251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1310656675,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1310656675,
+    "wof:lastmodified":1536699214,
+    "wof:name":"Pueblo Aparte",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88327,
+    10.55012,
+    -71.88327,
+    10.55012
+],
+  "geometry": {"coordinates":[-71.88327,10.55012],"type":"Point"}
+}

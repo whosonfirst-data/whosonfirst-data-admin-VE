@@ -1,0 +1,67 @@
+{
+  "id": 1327391917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09227,10.39464,-71.09227,10.39464",
+    "geom:latitude":10.39464,
+    "geom:longitude":-71.09227,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Picapica",
+    "gn:country_code":"VE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636726,
+    "gn:latitude":10.39464,
+    "gn:longitude":-71.09227,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Picapica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636726
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d53cfc779d233c926bde56b5971106c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1327391917,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1327391917,
+    "wof:lastmodified":1536739221,
+    "wof:name":"La Picapica",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09227,
+    10.39464,
+    -71.09227,
+    10.39464
+],
+  "geometry": {"coordinates":[-71.09227,10.39464],"type":"Point"}
+}

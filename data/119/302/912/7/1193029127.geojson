@@ -1,0 +1,72 @@
+{
+  "id": 1193029127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.2,2.63333,-66.2,2.63333",
+    "geom:latitude":2.63333,
+    "geom:longitude":-66.2,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Curamoni",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644677,
+    "gn:latitude":2.63333,
+    "gn:longitude":-66.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Curamoni",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guramoni",
+        "Curamoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644677
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a69cadc5826b8d4156c2a58cfb739056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1193029127,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1193029127,
+    "wof:lastmodified":1537713613,
+    "wof:name":"Curamoni",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.2,
+    2.63333,
+    -66.2,
+    2.63333
+],
+  "geometry": {"coordinates":[-66.2,2.63333],"type":"Point"}
+}

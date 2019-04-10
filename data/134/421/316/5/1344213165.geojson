@@ -1,0 +1,67 @@
+{
+  "id": 1344213165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92369,9.0627,-71.92369,9.0627",
+    "geom:latitude":9.0627,
+    "geom:longitude":-71.92369,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Culebra",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638216,
+    "gn:latitude":9.0627,
+    "gn:longitude":-71.92369,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"La Culebra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638216
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"60257f3ae7e503632fac79efc657e2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1344213165,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1344213165,
+    "wof:lastmodified":1536655421,
+    "wof:name":"La Culebra",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92369000000002,
+    9.0627,
+    -71.92369000000002,
+    9.0627
+],
+  "geometry": {"coordinates":[-71.92369000000002,9.0627],"type":"Point"}
+}

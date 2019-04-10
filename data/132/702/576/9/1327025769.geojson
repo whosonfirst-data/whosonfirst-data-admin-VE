@@ -1,0 +1,67 @@
+{
+  "id": 1327025769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.87861,10.32722,-67.87861,10.32722",
+    "geom:latitude":10.32722,
+    "geom:longitude":-67.87861,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Vigirima",
+    "gn:country_code":"VE",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753042,
+    "gn:latitude":10.32722,
+    "gn:longitude":-67.87861,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Vigirima",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753042
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"452318ca877fddeb60a1181f3794c99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694201,
+            "locality_id":1327025769,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1327025769,
+    "wof:lastmodified":1536770564,
+    "wof:name":"Vigirima",
+    "wof:parent_id":1108694201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.87861,
+    10.32722,
+    -67.87861,
+    10.32722
+],
+  "geometry": {"coordinates":[-67.87860999999999,10.32722],"type":"Point"}
+}

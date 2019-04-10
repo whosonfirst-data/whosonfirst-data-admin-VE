@@ -1,0 +1,67 @@
+{
+  "id": 1310106457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64286,7.04865,-71.64286,7.04865",
+    "geom:latitude":7.04865,
+    "geom:longitude":-71.64286,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Isla Burrigui",
+    "gn:country_code":"VE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804998,
+    "gn:latitude":7.04865,
+    "gn:longitude":-71.64286,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Isla Burrigui",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804998
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5acb52bc59989ec9309d167db0f7bcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701511,
+            "locality_id":1310106457,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1310106457,
+    "wof:lastmodified":1536994289,
+    "wof:name":"Isla Burrigui",
+    "wof:parent_id":1108701511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64286,
+    7.04865,
+    -71.64286,
+    7.04865
+],
+  "geometry": {"coordinates":[-71.64286,7.04865],"type":"Point"}
+}

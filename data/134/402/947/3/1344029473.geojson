@@ -1,0 +1,67 @@
+{
+  "id": 1344029473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.10984,10.14218,-63.10984,10.14218",
+    "geom:latitude":10.14218,
+    "geom:longitude":-63.10984,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Brisas del Playon",
+    "gn:country_code":"VE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761168,
+    "gn:latitude":10.14218,
+    "gn:longitude":-63.10984,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Brisas del Play\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761168
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b9981b88f9b5c5fbae5417b3410a35a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694119,
+            "locality_id":1344029473,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1344029473,
+    "wof:lastmodified":1536921091,
+    "wof:name":"Brisas del Playon",
+    "wof:parent_id":1108694119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.10984000000001,
+    10.14218,
+    -63.10984000000001,
+    10.14218
+],
+  "geometry": {"coordinates":[-63.10984000000001,10.14218],"type":"Point"}
+}

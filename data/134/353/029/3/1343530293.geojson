@@ -1,0 +1,67 @@
+{
+  "id": 1343530293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29336,9.68147,-70.29336,9.68147",
+    "geom:latitude":9.68147,
+    "geom:longitude":-70.29336,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Altico",
+    "gn:country_code":"VE",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482836,
+    "gn:latitude":9.68147,
+    "gn:longitude":-70.29336,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"El Altico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482836
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f616c5b248c2909ff3261dac211a9e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694147,
+            "locality_id":1343530293,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1343530293,
+    "wof:lastmodified":1536645009,
+    "wof:name":"El Altico",
+    "wof:parent_id":1108694147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29335999999999,
+    9.68147,
+    -70.29335999999999,
+    9.68147
+],
+  "geometry": {"coordinates":[-70.29335999999999,9.68147],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292985541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.9,9.6,-68.9,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":-68.9,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"La Granja",
+    "gn:country_code":"VE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637746,
+    "gn:latitude":9.6,
+    "gn:longitude":-68.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Granja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637746
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"406e71a8781bab22000f2ae9019583f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694089,
+            "locality_id":1292985541,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1292985541,
+    "wof:lastmodified":1537012946,
+    "wof:name":"La Granja",
+    "wof:parent_id":1108694089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.9,
+    9.6,
+    -68.9,
+    9.6
+],
+  "geometry": {"coordinates":[-68.90000000000001,9.6],"type":"Point"}
+}

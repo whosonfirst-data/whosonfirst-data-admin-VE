@@ -1,0 +1,61 @@
+{
+  "id": 1209684021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31667,8.58333,-72.31667,8.58333",
+    "geom:latitude":8.58333,
+    "geom:longitude":-72.31667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Las Cabullas",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636222,
+    "gn:latitude":8.58333,
+    "gn:longitude":-72.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Cabullas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636222
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b677ea131a31a794f03d1243eac5b239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209684021
+        }
+    ],
+    "wof:id":1209684021,
+    "wof:lastmodified":1536279475,
+    "wof:name":"Las Cabullas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31667,
+    8.58333,
+    -72.31667,
+    8.58333
+],
+  "geometry": {"coordinates":[-72.31667,8.58333],"type":"Point"}
+}

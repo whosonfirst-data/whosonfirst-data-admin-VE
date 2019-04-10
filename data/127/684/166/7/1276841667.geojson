@@ -1,0 +1,67 @@
+{
+  "id": 1276841667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.60076,9.45748,-63.60076,9.45748",
+    "geom:latitude":9.45748,
+    "geom:longitude":-63.60076,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Pina",
+    "gn:country_code":"VE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750120,
+    "gn:latitude":9.45748,
+    "gn:longitude":-63.60076,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"La Pi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750120
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5767fc5444f7c6b61bf51e74eb85f238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1276841667,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276841667,
+    "wof:lastmodified":1537089167,
+    "wof:name":"La Pina",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.60076,
+    9.45748,
+    -63.60076,
+    9.45748
+],
+  "geometry": {"coordinates":[-63.60076,9.45748],"type":"Point"}
+}

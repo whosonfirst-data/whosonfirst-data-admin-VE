@@ -1,0 +1,70 @@
+{
+  "id": 1344220283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.94316,11.0223,-63.94316,11.0223",
+    "geom:latitude":11.0223,
+    "geom:longitude":-63.94316,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Los Fermines",
+    "gn:country_code":"VE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202338,
+    "gn:latitude":11.0223,
+    "gn:longitude":-63.94316,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Los Fermines",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Fermines"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421166695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202338
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"56ac859b6974fef04cdeddc34e9b9669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166695,
+            "locality_id":1344220283,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1344220283,
+    "wof:lastmodified":1537713651,
+    "wof:name":"Los Fermines",
+    "wof:parent_id":421166695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.94316,
+    11.0223,
+    -63.94316,
+    11.0223
+],
+  "geometry": {"coordinates":[-63.94316,11.0223],"type":"Point"}
+}

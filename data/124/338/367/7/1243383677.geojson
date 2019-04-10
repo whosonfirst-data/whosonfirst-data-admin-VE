@@ -1,0 +1,67 @@
+{
+  "id": 1243383677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.83429,9.83484,-67.83429,9.83484",
+    "geom:latitude":9.83484,
+    "geom:longitude":-67.83429,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Hermanitas",
+    "gn:country_code":"VE",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481600,
+    "gn:latitude":9.83484,
+    "gn:longitude":-67.83429,
+    "gn:modification_date":"2011-09-10",
+    "gn:name":"Las Hermanitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481600
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"180de6c7a41088e6d1e39481426dc71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1243383677,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1243383677,
+    "wof:lastmodified":1536895967,
+    "wof:name":"Las Hermanitas",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.83429,
+    9.83484,
+    -67.83429,
+    9.83484
+],
+  "geometry": {"coordinates":[-67.83429,9.83484],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259377215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.60167,8.69917,-61.60167,8.69917",
+    "geom:latitude":8.69917,
+    "geom:longitude":-61.60167,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"San Antonio de Araguao",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628562,
+    "gn:latitude":8.69917,
+    "gn:longitude":-61.60167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio de Araguao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio de Aragua",
+        "San Antonio de Araguao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628562
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e78ca10e482d1e80f84fe5abde88a162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1259377215,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1259377215,
+    "wof:lastmodified":1537713521,
+    "wof:name":"San Antonio de Araguao",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.60167,
+    8.69917,
+    -61.60167,
+    8.69917
+],
+  "geometry": {"coordinates":[-61.60167,8.69917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310305895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29733,7.27853,-70.29733,7.27853",
+    "geom:latitude":7.27853,
+    "geom:longitude":-70.29733,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Trompillal",
+    "gn:country_code":"VE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625997,
+    "gn:latitude":7.27853,
+    "gn:longitude":-70.29733,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"Trompillal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625997
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1842a2561281a9a7552e4cbd0782d230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1310305895,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1310305895,
+    "wof:lastmodified":1536707629,
+    "wof:name":"Trompillal",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29733,
+    7.27853,
+    -70.29733,
+    7.27853
+],
+  "geometry": {"coordinates":[-70.29733,7.27853],"type":"Point"}
+}

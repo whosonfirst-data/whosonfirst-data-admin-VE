@@ -1,0 +1,67 @@
+{
+  "id": 1343318273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18558,10.06222,-69.18558,10.06222",
+    "geom:latitude":10.06222,
+    "geom:longitude":-69.18558,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mamoncito",
+    "gn:country_code":"VE",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794431,
+    "gn:latitude":10.06222,
+    "gn:longitude":-69.18558,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Mamoncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421185263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794431
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"53aad98d930454a7c3a97a2f89f1de46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185263,
+            "locality_id":1343318273,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1343318273,
+    "wof:lastmodified":1536951793,
+    "wof:name":"Mamoncito",
+    "wof:parent_id":421185263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18558,
+    10.06222,
+    -69.18558,
+    10.06222
+],
+  "geometry": {"coordinates":[-69.18558,10.06222],"type":"Point"}
+}

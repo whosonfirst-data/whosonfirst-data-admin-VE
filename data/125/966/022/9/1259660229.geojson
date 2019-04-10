@@ -1,0 +1,67 @@
+{
+  "id": 1259660229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.71389,9.29278,-65.71389,9.29278",
+    "geom:latitude":9.29278,
+    "geom:longitude":-65.71389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"El Palotal",
+    "gn:country_code":"VE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3773648,
+    "gn:latitude":9.29278,
+    "gn:longitude":-65.71389,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"El Palotal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773648
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f29ddbfea6d13467001208b081a2c013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694365,
+            "locality_id":1259660229,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259660229,
+    "wof:lastmodified":1536600948,
+    "wof:name":"El Palotal",
+    "wof:parent_id":1108694365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.71389,
+    9.29278,
+    -65.71389,
+    9.29278
+],
+  "geometry": {"coordinates":[-65.71389000000001,9.29278],"type":"Point"}
+}

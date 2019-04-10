@@ -1,0 +1,102 @@
+{
+  "id": 890416571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96549,11.08172,-63.96549,11.08172",
+    "geom:latitude":11.08172,
+    "geom:longitude":-63.96549,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":28256,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u80e1\u5b89\u683c\u5217\u6208"
+    ],
+    "name:dut_x_preferred":[
+        "Juan Griego"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Griego"
+    ],
+    "name:fre_x_preferred":[
+        "Juan Griego"
+    ],
+    "name:por_x_preferred":[
+        "Juan Griego"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u0413\u0440\u0438\u0435\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Griego"
+    ],
+    "name:swe_x_preferred":[
+        "Juan Griego"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u0413\u0440\u0456\u0454\u0433\u043e"
+    ],
+    "name:wel_x_preferred":[
+        "Juan Griego"
+    ],
+    "qs:name":"Juan Griego",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":10.0,
+    "wd:latitude":"11.083333333",
+    "wd:longitude":"-63.966666666",
+    "wd:wordcount":298,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421196983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639107,
+        "gp:id":468474,
+        "qs:id":584398,
+        "wd:id":"Q3131511",
+        "wk:page":"Juan Griego"
+    },
+    "wof:country":"VE",
+    "wof:created":1469051141,
+    "wof:geomhash":"f06a523ab6e6e96ed2285a1b559af79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196983,
+            "locality_id":890416571,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":890416571,
+    "wof:lastmodified":1527792806,
+    "wof:name":"Juan Griego",
+    "wof:parent_id":421196983,
+    "wof:placetype":"locality",
+    "wof:population":28256,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96549,
+    11.08172,
+    -63.96549,
+    11.08172
+],
+  "geometry": {"coordinates":[-63.96549,11.08172],"type":"Point"}
+}

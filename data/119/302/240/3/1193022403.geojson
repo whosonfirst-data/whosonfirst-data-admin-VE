@@ -1,0 +1,71 @@
+{
+  "id": 1193022403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.38013,6.26287,-67.38013,6.26287",
+    "geom:latitude":6.26287,
+    "geom:longitude":-67.38013,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cariben",
+    "gn:country_code":"VE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646561,
+    "gn:latitude":6.26287,
+    "gn:longitude":-67.38013,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carib\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caribena",
+        "Carib\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646561
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"897eafca2881058487cc5c7ee5a20639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1193022403,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1193022403,
+    "wof:lastmodified":1537713622,
+    "wof:name":"Cariben",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.38013000000001,
+    6.26287,
+    -67.38013000000001,
+    6.26287
+],
+  "geometry": {"coordinates":[-67.38013000000001,6.26287],"type":"Point"}
+}

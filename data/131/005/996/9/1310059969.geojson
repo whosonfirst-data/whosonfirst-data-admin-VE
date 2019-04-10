@@ -1,0 +1,67 @@
+{
+  "id": 1310059969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.30687,10.45731,-67.30687,10.45731",
+    "geom:latitude":10.45731,
+    "geom:longitude":-67.30687,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Limoncito",
+    "gn:country_code":"VE",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634736,
+    "gn:latitude":10.45731,
+    "gn:longitude":-67.30687,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Limoncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2ed5f6faf557db9b2c070f6f6bd0132a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1310059969,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1310059969,
+    "wof:lastmodified":1537059678,
+    "wof:name":"Limoncito",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.30686999999999,
+    10.45731,
+    -67.30686999999999,
+    10.45731
+],
+  "geometry": {"coordinates":[-67.30686999999999,10.45731],"type":"Point"}
+}

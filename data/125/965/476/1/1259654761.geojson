@@ -1,0 +1,67 @@
+{
+  "id": 1259654761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.87293,9.78015,-69.87293,9.78015",
+    "geom:latitude":9.78015,
+    "geom:longitude":-69.87293,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Hatillo",
+    "gn:country_code":"VE",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748562,
+    "gn:latitude":9.78015,
+    "gn:longitude":-69.87293,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"El Hatillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421200611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748562
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c52f2839b2c43c9668908b92b75f502d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200611,
+            "locality_id":1259654761,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1259654761,
+    "wof:lastmodified":1536609425,
+    "wof:name":"El Hatillo",
+    "wof:parent_id":421200611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.87293000000001,
+    9.78015,
+    -69.87293000000001,
+    9.78015
+],
+  "geometry": {"coordinates":[-69.87293000000001,9.78015],"type":"Point"}
+}

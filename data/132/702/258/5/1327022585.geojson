@@ -1,0 +1,71 @@
+{
+  "id": 1327022585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36493,7.71202,-70.36493,7.71202",
+    "geom:latitude":7.71202,
+    "geom:longitude":-70.36493,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Calcetas",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636218,
+    "gn:latitude":7.71202,
+    "gn:longitude":-70.36493,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Calcetas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calcetas",
+        "Las Calcetas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636218
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"655b0fe8d7e3cad1b3d7fa3dc0e8ca2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1327022585,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1327022585,
+    "wof:lastmodified":1537713561,
+    "wof:name":"Las Calcetas",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36493,
+    7.71202,
+    -70.36493,
+    7.71202
+],
+  "geometry": {"coordinates":[-70.36493,7.71202],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242675777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53333,8.3,-70.53333,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-70.53333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mijagua",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632247,
+    "gn:latitude":8.3,
+    "gn:longitude":-70.53333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mijagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mijaguey",
+        "Mijagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632247
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f865ec63b70c242d1187aac0aa4b68d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1242675777,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1242675777,
+    "wof:lastmodified":1537713538,
+    "wof:name":"Mijagua",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53333,
+    8.3,
+    -70.53333,
+    8.3
+],
+  "geometry": {"coordinates":[-70.53333000000001,8.3],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209680195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.93333,7.66667,-71.93333,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":-71.93333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Los Medios",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633932,
+    "gn:latitude":7.66667,
+    "gn:longitude":-71.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Medios",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Medias",
+        "Los Medios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633932
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1b347e704696b4f7f2bf85f25dafa2fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209680195
+        }
+    ],
+    "wof:id":1209680195,
+    "wof:lastmodified":1537713547,
+    "wof:name":"Los Medios",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.93333,
+    7.66667,
+    -71.93333,
+    7.66667
+],
+  "geometry": {"coordinates":[-71.93333,7.66667],"type":"Point"}
+}

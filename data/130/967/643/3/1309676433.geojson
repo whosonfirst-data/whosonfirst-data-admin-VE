@@ -1,0 +1,67 @@
+{
+  "id": 1309676433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83349,8.35433,-71.83349,8.35433",
+    "geom:latitude":8.35433,
+    "geom:longitude":-71.83349,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"El Alto",
+    "gn:country_code":"VE",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3794904,
+    "gn:latitude":8.35433,
+    "gn:longitude":-71.83349,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794904
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"75a609ed8b29b8e3826c966435dc0582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694429,
+            "locality_id":1309676433,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1309676433,
+    "wof:lastmodified":1536618637,
+    "wof:name":"El Alto",
+    "wof:parent_id":1108694429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83349,
+    8.35433,
+    -71.83349,
+    8.35433
+],
+  "geometry": {"coordinates":[-71.83349,8.35433],"type":"Point"}
+}

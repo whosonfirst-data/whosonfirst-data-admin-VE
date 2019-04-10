@@ -1,0 +1,67 @@
+{
+  "id": 1326598211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96118,10.58286,-71.96118,10.58286",
+    "geom:latitude":10.58286,
+    "geom:longitude":-71.96118,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"El Chaflan",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3788625,
+    "gn:latitude":10.58286,
+    "gn:longitude":-71.96118,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"El Chaflan",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788625
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"546fa211adc7a1cbead67eb8062103f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1326598211,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326598211,
+    "wof:lastmodified":1536888572,
+    "wof:name":"El Chaflan",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96118,
+    10.58286,
+    -71.96118,
+    10.58286
+],
+  "geometry": {"coordinates":[-71.96118,10.58286],"type":"Point"}
+}

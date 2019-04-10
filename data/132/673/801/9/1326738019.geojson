@@ -1,0 +1,71 @@
+{
+  "id": 1326738019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.55724,8.94147,-63.55724,8.94147",
+    "geom:latitude":8.94147,
+    "geom:longitude":-63.55724,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Quita Frio",
+    "gn:country_code":"VE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639715,
+    "gn:latitude":8.94147,
+    "gn:longitude":-63.55724,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quita Fr\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guita Fr\u00edo",
+        "Quita Fr\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639715
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1857e43f3b8a2affd2af634664d021fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1326738019,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326738019,
+    "wof:lastmodified":1537713583,
+    "wof:name":"Quita Frio",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.55724,
+    8.94147,
+    -63.55724,
+    8.94147
+],
+  "geometry": {"coordinates":[-63.55724,8.94147],"type":"Point"}
+}

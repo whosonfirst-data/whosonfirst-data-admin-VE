@@ -1,0 +1,67 @@
+{
+  "id": 1260266037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.94167,8.74174,-70.94167,8.74174",
+    "geom:latitude":8.74174,
+    "geom:longitude":-70.94167,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Vergel",
+    "gn:country_code":"VE",
+    "gn:dem":2807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641110,
+    "gn:latitude":8.74174,
+    "gn:longitude":-70.94167,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Vergel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641110
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11f7f0a59d254e12acd26bbbcd16cf5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":1260266037,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1260266037,
+    "wof:lastmodified":1536735434,
+    "wof:name":"El Vergel",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.94167,
+    8.74174,
+    -70.94167,
+    8.74174
+],
+  "geometry": {"coordinates":[-70.94167,8.74174],"type":"Point"}
+}

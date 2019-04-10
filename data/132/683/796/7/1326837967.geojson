@@ -1,0 +1,67 @@
+{
+  "id": 1326837967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.21667,9.26667,-64.21667,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-64.21667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mato Salto",
+    "gn:country_code":"VE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632556,
+    "gn:latitude":9.26667,
+    "gn:longitude":-64.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mato Salto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632556
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c02474dba10179a3b10e47d695eabf8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1326837967,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326837967,
+    "wof:lastmodified":1537038759,
+    "wof:name":"Mato Salto",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.21667,
+    9.26667,
+    -64.21667,
+    9.26667
+],
+  "geometry": {"coordinates":[-64.21666999999999,9.26667],"type":"Point"}
+}

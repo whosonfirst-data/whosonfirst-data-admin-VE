@@ -1,0 +1,67 @@
+{
+  "id": 1343769797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.97095,8.75676,-62.97095,8.75676",
+    "geom:latitude":8.75676,
+    "geom:longitude":-62.97095,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jabillar",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3485300,
+    "gn:latitude":8.75676,
+    "gn:longitude":-62.97095,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Jabillar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485300
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d370f65ad632fe25a5ec3535806d1856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1343769797,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1343769797,
+    "wof:lastmodified":1536797558,
+    "wof:name":"Jabillar",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.97095,
+    8.75676,
+    -62.97095,
+    8.75676
+],
+  "geometry": {"coordinates":[-62.97095,8.75676],"type":"Point"}
+}

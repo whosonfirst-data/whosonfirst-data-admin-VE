@@ -1,0 +1,71 @@
+{
+  "id": 1310192421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4122,11.17047,-68.4122,11.17047",
+    "geom:latitude":11.17047,
+    "geom:longitude":-68.4122,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Juan de los Cayos",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628055,
+    "gn:latitude":11.17047,
+    "gn:longitude":-68.4122,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan de los Cayos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "San Juan de los Cayos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421185127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628055
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f206ed1d1a58b7412f68ae16d632a631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185127,
+            "locality_id":1310192421,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310192421,
+    "wof:lastmodified":1537713518,
+    "wof:name":"San Juan de los Cayos",
+    "wof:parent_id":421185127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.4122,
+    11.17047,
+    -68.4122,
+    11.17047
+],
+  "geometry": {"coordinates":[-68.4122,11.17047],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343619597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14588,9.26314,-71.14588,9.26314",
+    "geom:latitude":9.26314,
+    "geom:longitude":-71.14588,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Puerto Las Marias",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629668,
+    "gn:latitude":9.26314,
+    "gn:longitude":-71.14588,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Puerto Las Mar\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629668
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4ca65163cb3c862348d0d6d6264eaaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1343619597,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343619597,
+    "wof:lastmodified":1537013397,
+    "wof:name":"Puerto Las Marias",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14588,
+    9.26314,
+    -71.14588,
+    9.26314
+],
+  "geometry": {"coordinates":[-71.14588000000001,9.26314],"type":"Point"}
+}

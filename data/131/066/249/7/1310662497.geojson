@@ -1,0 +1,63 @@
+{
+  "id": 1310662497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.90557,10.68528,-61.90557,10.68528",
+    "geom:latitude":10.68528,
+    "geom:longitude":-61.90557,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Cariaquito",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646572,
+    "gn:latitude":10.68528,
+    "gn:longitude":-61.90557,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cariaquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646572
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"09caf43678f73062d2ec5862941fcf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1310662497,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310662497,
+    "wof:lastmodified":1536690673,
+    "wof:name":"Cariaquito",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.90557,
+    10.68528,
+    -61.90557,
+    10.68528
+],
+  "geometry": {"coordinates":[-61.90557,10.68528],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242939457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96488,10.99398,-63.96488,10.99398",
+    "geom:latitude":10.99398,
+    "geom:longitude":-63.96488,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"La Vega",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8310241,
+    "gn:latitude":10.99398,
+    "gn:longitude":-63.96488,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"La Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Vega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421166695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310241
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"029ac24d02ff357099d99c5e2000d594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166695,
+            "locality_id":1242939457,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1242939457,
+    "wof:lastmodified":1537713652,
+    "wof:name":"La Vega",
+    "wof:parent_id":421166695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96488000000001,
+    10.99398,
+    -63.96488000000001,
+    10.99398
+],
+  "geometry": {"coordinates":[-63.96488000000001,10.99398],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276119989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.04202,8.72347,-63.04202,8.72347",
+    "geom:latitude":8.72347,
+    "geom:longitude":-63.04202,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Aceital",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750852,
+    "gn:latitude":8.72347,
+    "gn:longitude":-63.04202,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Aceital",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750852
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1803111e4769200785bbec8b2a803ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1276119989,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276119989,
+    "wof:lastmodified":1537061717,
+    "wof:name":"El Aceital",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.04202,
+    8.72347,
+    -63.04202,
+    8.72347
+],
+  "geometry": {"coordinates":[-63.04202,8.72347],"type":"Point"}
+}

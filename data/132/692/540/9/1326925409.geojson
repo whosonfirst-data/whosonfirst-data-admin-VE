@@ -1,0 +1,73 @@
+{
+  "id": 1326925409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,9.68333,-68.35,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"El Pesquero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642061,
+    "gn:latitude":9.68333,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pesquero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pescero",
+        "Pesquero",
+        "El Pesquero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642061
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"25acb8101412b3466b2c667dafd54b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694451,
+            "locality_id":1326925409,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1326925409,
+    "wof:lastmodified":1537713595,
+    "wof:name":"El Pesquero",
+    "wof:parent_id":1108694451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    9.68333,
+    -68.35,
+    9.68333
+],
+  "geometry": {"coordinates":[-68.34999999999999,9.68333],"type":"Point"}
+}

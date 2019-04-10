@@ -1,0 +1,67 @@
+{
+  "id": 1260358449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.44831,9.60544,-70.44831,9.60544",
+    "geom:latitude":9.60544,
+    "geom:longitude":-70.44831,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Minas de Monay",
+    "gn:country_code":"VE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482333,
+    "gn:latitude":9.60544,
+    "gn:longitude":-70.44831,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Minas de Monay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482333
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"24c6ff3e0d81f109a3b0373643c42fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694333,
+            "locality_id":1260358449,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1260358449,
+    "wof:lastmodified":1536608877,
+    "wof:name":"Minas de Monay",
+    "wof:parent_id":1108694333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.44830999999998,
+    9.60544,
+    -70.44830999999998,
+    9.60544
+],
+  "geometry": {"coordinates":[-70.44830999999998,9.60544],"type":"Point"}
+}

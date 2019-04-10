@@ -1,0 +1,112 @@
+{
+  "id": 421201451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21475,9.56009,-69.21475,9.56009",
+    "geom:latitude":9.56009,
+    "geom:longitude":-69.21475,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Araure"
+    ],
+    "name:eng_x_preferred":[
+        "Araure"
+    ],
+    "name:fra_x_preferred":[
+        "Araure"
+    ],
+    "name:ita_x_preferred":[
+        "Araure"
+    ],
+    "name:pol_x_preferred":[
+        "Araure"
+    ],
+    "name:por_x_preferred":[
+        "Araure"
+    ],
+    "name:spa_x_preferred":[
+        "Araure"
+    ],
+    "name:swe_x_preferred":[
+        "Araure"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u52de\u96f7"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3649017,
+    "qs:gn_pop":73054,
+    "qs:name":"Araure",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Portuguesa",
+    "qs:photos":222,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":222,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1342550,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468136,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":198.0,
+    "wd:latitude":9.566667,
+    "wd:longitude":-69.216667,
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649017,
+        "gp:id":468136,
+        "qs:id":1342550,
+        "wd:id":"Q626670",
+        "wk:page":"Araure"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010073,
+    "wof:geomhash":"60714cc92e353a046ade64e134e6d0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694093,
+            "locality_id":421201451,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":421201451,
+    "wof:lastmodified":1527716440,
+    "wof:name":"Araure",
+    "wof:parent_id":1108694093,
+    "wof:placetype":"locality",
+    "wof:population":73054,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21475,
+    9.56009,
+    -69.21475,
+    9.56009
+],
+  "geometry": {"coordinates":[-69.21475,9.56009],"type":"Point"}
+}

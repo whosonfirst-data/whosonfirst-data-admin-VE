@@ -1,0 +1,67 @@
+{
+  "id": 1343573085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96833,9.73641,-63.96833,9.73641",
+    "geom:latitude":9.73641,
+    "geom:longitude":-63.96833,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Merey",
+    "gn:country_code":"VE",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642598,
+    "gn:latitude":9.73641,
+    "gn:longitude":-63.96833,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Merey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642598
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"655dea51a764c6d8aa38e1a7c46962e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1343573085,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343573085,
+    "wof:lastmodified":1537078087,
+    "wof:name":"El Merey",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96833,
+    9.73641,
+    -63.96833,
+    9.73641
+],
+  "geometry": {"coordinates":[-63.96833,9.73641],"type":"Point"}
+}

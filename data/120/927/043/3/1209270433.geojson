@@ -1,0 +1,66 @@
+{
+  "id": 1209270433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.66667,9.03333,-71.66667,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":-71.66667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Garcitas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640664,
+    "gn:latitude":9.03333,
+    "gn:longitude":-71.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garcitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Concha",
+        "Garcitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640664
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"777f9df93e8b2d83c9582ff8efa4764a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209270433
+        }
+    ],
+    "wof:id":1209270433,
+    "wof:lastmodified":1537713587,
+    "wof:name":"Garcitas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.66667,
+    9.03333,
+    -71.66667,
+    9.03333
+],
+  "geometry": {"coordinates":[-71.66667,9.03333],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 421177601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24194,8.43028,-71.24194,8.43028",
+    "geom:latitude":8.43028,
+    "geom:longitude":-71.24194,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Ceica"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e9quia"
+    ],
+    "name:deu_x_preferred":[
+        "Acequia"
+    ],
+    "name:eus_x_preferred":[
+        "Areka"
+    ],
+    "name:ita_x_preferred":[
+        "Roggia"
+    ],
+    "name:lmo_x_preferred":[
+        "Ronsgia"
+    ],
+    "name:por_x_preferred":[
+        "Ac\u00e9quia"
+    ],
+    "name:que_x_preferred":[
+        "Rarqa"
+    ],
+    "name:spa_x_preferred":[
+        "Acequia"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3649816,
+    "qs:gn_pop":0,
+    "qs:name":"Acequias",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":105,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":105,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1342557,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468123,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1210,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649816,
+        "gp:id":468123,
+        "qs:id":1342557,
+        "wd:id":"Q1385463"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009152,
+    "wof:geomhash":"ea9ca24d6c782bd9237d5ec8f8388328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171999,
+            "locality_id":421177601,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421177601,
+    "wof:lastmodified":1527716485,
+    "wof:name":"Acequias",
+    "wof:parent_id":421171999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24194,
+    8.43028,
+    -71.24194,
+    8.43028
+],
+  "geometry": {"coordinates":[-71.24194,8.43028],"type":"Point"}
+}

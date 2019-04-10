@@ -1,0 +1,67 @@
+{
+  "id": 1243535901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.01333,9.55444,-63.01333,9.55444",
+    "geom:latitude":9.55444,
+    "geom:longitude":-63.01333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Apamatico",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777571,
+    "gn:latitude":9.55444,
+    "gn:longitude":-63.01333,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Apamatico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777571
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11dbb9f459ea8f50307ac0a3c3fd73d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1243535901,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243535901,
+    "wof:lastmodified":1536676643,
+    "wof:name":"Apamatico",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.01333,
+    9.55444,
+    -63.01333,
+    9.55444
+],
+  "geometry": {"coordinates":[-63.01333,9.55444],"type":"Point"}
+}

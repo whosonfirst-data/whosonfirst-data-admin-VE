@@ -1,0 +1,71 @@
+{
+  "id": 1226028377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37543,10.58575,-69.37543,10.58575",
+    "geom:latitude":10.58575,
+    "geom:longitude":-69.37543,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Turiquia",
+    "gn:country_code":"VE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635072,
+    "gn:latitude":10.58575,
+    "gn:longitude":-69.37543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Turiqu\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turiqu\u00eda",
+        "La Turiqu\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635072
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d79bc8ee8dbcadca59986949d00e23ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1226028377,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1226028377,
+    "wof:lastmodified":1537713555,
+    "wof:name":"La Turiquia",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37543000000001,
+    10.58575,
+    -69.37543000000001,
+    10.58575
+],
+  "geometry": {"coordinates":[-69.37543000000001,10.58575],"type":"Point"}
+}

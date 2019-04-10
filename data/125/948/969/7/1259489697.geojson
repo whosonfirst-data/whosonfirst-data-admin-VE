@@ -1,0 +1,71 @@
+{
+  "id": 1259489697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.36314,7.01344,-68.36314,7.01344",
+    "geom:latitude":7.01344,
+    "geom:longitude":-68.36314,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Topochal",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626116,
+    "gn:latitude":7.01344,
+    "gn:longitude":-68.36314,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Topochal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Topochal",
+        "Topochal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626116
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"86fd16597e6ff1d01b8e7d0b834b5fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1259489697,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1259489697,
+    "wof:lastmodified":1537713511,
+    "wof:name":"Topochal",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.36314,
+    7.01344,
+    -68.36314,
+    7.01344
+],
+  "geometry": {"coordinates":[-68.36314,7.01344],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276955753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.79225,11.35991,-69.79225,11.35991",
+    "geom:latitude":11.35991,
+    "geom:longitude":-69.79225,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"La Estacadita",
+    "gn:country_code":"VE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3786102,
+    "gn:latitude":11.35991,
+    "gn:longitude":-69.79225,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"La Estacadita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786102
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ac5c1999dd55023b2cf98200a4b097da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1276955753,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276955753,
+    "wof:lastmodified":1536940368,
+    "wof:name":"La Estacadita",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.79225,
+    11.35991,
+    -69.79225,
+    11.35991
+],
+  "geometry": {"coordinates":[-69.79225,11.35991],"type":"Point"}
+}

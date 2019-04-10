@@ -1,0 +1,61 @@
+{
+  "id": 1209195799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.44185,9.24079,-63.44185,9.24079",
+    "geom:latitude":9.24079,
+    "geom:longitude":-63.44185,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"La Vigia",
+    "gn:country_code":"VE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778410,
+    "gn:latitude":9.24079,
+    "gn:longitude":-63.44185,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Vig\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778410
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0c9a344b6ecba56a9d093ef9ca2c0b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209195799
+        }
+    ],
+    "wof:id":1209195799,
+    "wof:lastmodified":1536294776,
+    "wof:name":"La Vigia",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.44185,
+    9.24079,
+    -63.44185,
+    9.24079
+],
+  "geometry": {"coordinates":[-63.44185,9.24079],"type":"Point"}
+}

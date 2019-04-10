@@ -1,0 +1,67 @@
+{
+  "id": 1326902957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.53455,10.44316,-66.53455,10.44316",
+    "geom:latitude":10.44316,
+    "geom:longitude":-66.53455,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Los Pozos",
+    "gn:country_code":"VE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3804094,
+    "gn:latitude":10.44316,
+    "gn:longitude":-66.53455,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Los Pozos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804094
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"40d9656ec1d60e07a903acca8b2ee3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202063,
+            "locality_id":1326902957,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1326902957,
+    "wof:lastmodified":1536947402,
+    "wof:name":"Los Pozos",
+    "wof:parent_id":421202063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.53455,
+    10.44316,
+    -66.53455,
+    10.44316
+],
+  "geometry": {"coordinates":[-66.53455,10.44316],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360265489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53869,11.09639,-70.53869,11.09639",
+    "geom:latitude":11.09639,
+    "geom:longitude":-70.53869,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Quietud",
+    "gn:country_code":"VE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636558,
+    "gn:latitude":11.09639,
+    "gn:longitude":-70.53869,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Quietud",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Quietad",
+        "La Quietud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636558
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5bcb3d65751e12dc7760a769fe1dde12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1360265489,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1360265489,
+    "wof:lastmodified":1537713563,
+    "wof:name":"La Quietud",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53869,
+    11.09639,
+    -70.53869,
+    11.09639
+],
+  "geometry": {"coordinates":[-70.53869,11.09639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293861109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71727,11.05455,-70.71727,11.05455",
+    "geom:latitude":11.05455,
+    "geom:longitude":-70.71727,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Carraos",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634358,
+    "gn:latitude":11.05455,
+    "gn:longitude":-70.71727,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Los Carraos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634358
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3ff3d9f49bffcdeffda4553eb3e5018d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694165,
+            "locality_id":1293861109,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293861109,
+    "wof:lastmodified":1536745325,
+    "wof:name":"Los Carraos",
+    "wof:parent_id":1108694165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71727,
+    11.05455,
+    -70.71727,
+    11.05455
+],
+  "geometry": {"coordinates":[-70.71727,11.05455],"type":"Point"}
+}

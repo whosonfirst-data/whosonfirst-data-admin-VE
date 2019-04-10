@@ -1,0 +1,67 @@
+{
+  "id": 1293842909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95988,7.72801,-71.95988,7.72801",
+    "geom:latitude":7.72801,
+    "geom:longitude":-71.95988,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Los Canos",
+    "gn:country_code":"VE",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795009,
+    "gn:latitude":7.72801,
+    "gn:longitude":-71.95988,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Los Ca\u00f1os",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795009
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dcc6fc61dcff3baf2f1a8a9d14f4dc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183171,
+            "locality_id":1293842909,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293842909,
+    "wof:lastmodified":1536772550,
+    "wof:name":"Los Canos",
+    "wof:parent_id":421183171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95988,
+    7.72801,
+    -71.95988,
+    7.72801
+],
+  "geometry": {"coordinates":[-71.95988,7.72801],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309783205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25484,11.47401,-69.25484,11.47401",
+    "geom:latitude":11.47401,
+    "geom:longitude":-69.25484,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Peru",
+    "gn:country_code":"VE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642072,
+    "gn:latitude":11.47401,
+    "gn:longitude":-69.25484,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"El Peru",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642072
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6048d961ed1909d499e969d8865545b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193517,
+            "locality_id":1309783205,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309783205,
+    "wof:lastmodified":1536963548,
+    "wof:name":"El Peru",
+    "wof:parent_id":421193517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25484,
+    11.47401,
+    -69.25484,
+    11.47401
+],
+  "geometry": {"coordinates":[-69.25484,11.47401],"type":"Point"}
+}

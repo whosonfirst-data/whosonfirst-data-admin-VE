@@ -1,0 +1,67 @@
+{
+  "id": 1310274659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.71944,10.40833,-66.71944,10.40833",
+    "geom:latitude":10.40833,
+    "geom:longitude":-66.71944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chaguaramos",
+    "gn:country_code":"VE",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803543,
+    "gn:latitude":10.40833,
+    "gn:longitude":-66.71944,
+    "gn:modification_date":"2002-11-20",
+    "gn:name":"Chaguaramos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803543
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"168e6c1b8092946d94fde5f101c648e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171381,
+            "locality_id":1310274659,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1310274659,
+    "wof:lastmodified":1536752444,
+    "wof:name":"Chaguaramos",
+    "wof:parent_id":421171381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.71944,
+    10.40833,
+    -66.71944,
+    10.40833
+],
+  "geometry": {"coordinates":[-66.71944000000001,10.40833],"type":"Point"}
+}

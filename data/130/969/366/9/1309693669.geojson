@@ -1,0 +1,67 @@
+{
+  "id": 1309693669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.86389,9.08056,-63.86389,9.08056",
+    "geom:latitude":9.08056,
+    "geom:longitude":-63.86389,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Las Colmenas",
+    "gn:country_code":"VE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777818,
+    "gn:latitude":9.08056,
+    "gn:longitude":-63.86389,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Las Colmenas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777818
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7c8575439c5c35f9c7f3c88616e9882f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1309693669,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309693669,
+    "wof:lastmodified":1537089614,
+    "wof:name":"Las Colmenas",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.86389000000001,
+    9.08056,
+    -63.86389000000001,
+    9.08056
+],
+  "geometry": {"coordinates":[-63.86389000000001,9.08056],"type":"Point"}
+}

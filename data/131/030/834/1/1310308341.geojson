@@ -1,0 +1,67 @@
+{
+  "id": 1310308341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.68833,4.735,-67.68833,4.735",
+    "geom:latitude":4.735,
+    "geom:longitude":-67.68833,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Laja Negra",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3806017,
+    "gn:latitude":4.735,
+    "gn:longitude":-67.68833,
+    "gn:modification_date":"2002-12-18",
+    "gn:name":"Laja Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"98ab5ef0f8cefc291044f2d9a25b26a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694105,
+            "locality_id":1310308341,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1310308341,
+    "wof:lastmodified":1536704071,
+    "wof:name":"Laja Negra",
+    "wof:parent_id":1108694105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.68833000000001,
+    4.735,
+    -67.68833000000001,
+    4.735
+],
+  "geometry": {"coordinates":[-67.68833000000001,4.735],"type":"Point"}
+}

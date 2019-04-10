@@ -1,0 +1,67 @@
+{
+  "id": 1310285297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17467,10.87777,-71.17467,10.87777",
+    "geom:latitude":10.87777,
+    "geom:longitude":-71.17467,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Arroyo",
+    "gn:country_code":"VE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644250,
+    "gn:latitude":10.87777,
+    "gn:longitude":-71.17467,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Arroyo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644250
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6e44522657401c9b024826be3340be2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1310285297,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310285297,
+    "wof:lastmodified":1536737088,
+    "wof:name":"El Arroyo",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17466999999998,
+    10.87777,
+    -71.17466999999998,
+    10.87777
+],
+  "geometry": {"coordinates":[-71.17466999999998,10.87777],"type":"Point"}
+}

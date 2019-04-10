@@ -1,0 +1,67 @@
+{
+  "id": 1293509959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.05111,10.19361,-68.05111,10.19361",
+    "geom:latitude":10.19361,
+    "geom:longitude":-68.05111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Urbanizacion Guataparo",
+    "gn:country_code":"VE",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766934,
+    "gn:latitude":10.19361,
+    "gn:longitude":-68.05111,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Urbanizaci\u00f3n Guataparo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766934
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"649bcc46b315aa0f23853add813695af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1293509959,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1293509959,
+    "wof:lastmodified":1536754729,
+    "wof:name":"Urbanizacion Guataparo",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.05111,
+    10.19361,
+    -68.05111,
+    10.19361
+],
+  "geometry": {"coordinates":[-68.05110999999999,10.19361],"type":"Point"}
+}

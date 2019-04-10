@@ -1,0 +1,72 @@
+{
+  "id": 1344055157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.78333,8.25,-67.78333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":-67.78333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Paso Real",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642192,
+    "gn:latitude":8.25,
+    "gn:longitude":-67.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Paso Real",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Real",
+        "El Paso Real"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642192
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c241d5dc4f8b0c97732cb338fcfb12b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1344055157,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1344055157,
+    "wof:lastmodified":1537713596,
+    "wof:name":"El Paso Real",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.78333,
+    8.25,
+    -67.78333,
+    8.25
+],
+  "geometry": {"coordinates":[-67.78333000000001,8.25],"type":"Point"}
+}

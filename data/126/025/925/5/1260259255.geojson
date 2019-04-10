@@ -1,0 +1,67 @@
+{
+  "id": 1260259255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.75876,7.96271,-65.75876,7.96271",
+    "geom:latitude":7.96271,
+    "geom:longitude":-65.75876,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Astrologia",
+    "gn:country_code":"VE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3771888,
+    "gn:latitude":7.96271,
+    "gn:longitude":-65.75876,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Astrolog\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771888
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c771a42ee46e7091db9debe0214f4c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1260259255,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1260259255,
+    "wof:lastmodified":1536744390,
+    "wof:name":"Astrologia",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.75876,
+    7.96271,
+    -65.75876,
+    7.96271
+],
+  "geometry": {"coordinates":[-65.75876,7.96271],"type":"Point"}
+}

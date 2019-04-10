@@ -1,0 +1,283 @@
+{
+  "id": 890442131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.62361,5.66389,-67.62361,5.66389",
+    "geom:latitude":5.66389,
+    "geom:longitude":-67.62361,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA",
+    "gn:pop":52526,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":5.6,
+    "name:arg_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:baq_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u4e9e\u5eab\u55ac\u6e2f"
+    ],
+    "name:dan_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0391\u03b3\u03b9\u03b1\u03ba\u03bf\u03cd\u03c4\u03c3\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:fin_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d0\u10d8\u10d0\u10d9\u10e3\u10e9\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0391\u03b3\u03b9\u03b1\u03ba\u03bf\u03cd\u03c4\u03c3\u03bf"
+    ],
+    "name:hrv_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:ido_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30a2\u30e4\u30af\u30fc\u30c1\u30e7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d0\u10d8\u10d0\u10d9\u10e3\u10e9\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\uc544\uc57c\ucfe0\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Ajaku\u010das"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:nor_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:oci_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u0626\u0631\u062a\u0648 \u0622\u06cc\u0627\u06a9\u0648\u0686\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:que_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:rum_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0410\u044f\u043a\u0443\u0447\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e27\u0e22\u0e23\u0e4c\u0e42\u0e15\u0e44\u0e2d\u0e2d\u0e32\u0e01\u0e39\u0e42\u0e0a"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u06cc\u0631\u062a\u0648 \u0627\u062c\u0627\u06a9\u0648\u0686\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:vol_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4e9e\u5eab\u55ac\u6e2f"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Venezuela",
+    "ne:ADM0_A3":"VEN",
+    "ne:ADM1NAME":"Amazonas",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":3629710,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Puerto Ayacucho",
+    "ne:GN_POP":52526,
+    "ne:GTOPO30":69.0,
+    "ne:ISO_A2":"VE",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":5.663904,
+    "ne:LONGITUDE":-67.623609,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Puerto Ayacucho",
+    "ne:MAX_AREAKM":33.0,
+    "ne:MAX_AREAMI":13.0,
+    "ne:MAX_BBXMAX":-67.575,
+    "ne:MAX_BBXMIN":-67.633333,
+    "ne:MAX_BBYMAX":5.683333,
+    "ne:MAX_BBYMIN":5.608333,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":37.0,
+    "ne:MAX_PERMI":23.0,
+    "ne:MAX_POP10":50719,
+    "ne:MAX_POP20":50719,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":50719,
+    "ne:MEAN_BBXC":-67.602885,
+    "ne:MEAN_BBYC":5.652885,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":33.0,
+    "ne:MIN_AREAMI":13.0,
+    "ne:MIN_BBXMAX":-67.575,
+    "ne:MIN_BBXMIN":-67.633333,
+    "ne:MIN_BBYMAX":5.683333,
+    "ne:MIN_BBYMIN":5.608333,
+    "ne:MIN_PERKM":37.0,
+    "ne:MIN_PERMI":23.0,
+    "ne:NAME":"Puerto Ayacucho",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto Ayacucho",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":52526,
+    "ne:POP_MIN":50719,
+    "ne:POP_OTHER":50719,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Venezuela",
+    "ne:SOV_A3":"VEN",
+    "ne:TIMEZONE":"America/Caracas",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Puerto Ayacucho",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:latitude":"5.663055555",
+    "wd:longitude":"-67.626388888",
+    "wd:wordcount":489,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629710,
+        "gp:id":468426,
+        "qs:id":274465,
+        "wd:id":"Q372920",
+        "wk:page":"Puerto Ayacucho"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052351,
+    "wof:geomhash":"680788b9f0e17484af8604cf7257b9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "locality_id":890442131,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":890442131,
+    "wof:lastmodified":1534379805,
+    "wof:name":"Puerto Ayacucho",
+    "wof:parent_id":85680511,
+    "wof:placetype":"locality",
+    "wof:population":52526,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[
+        421198391
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.62361,
+    5.66389,
+    -67.62361,
+    5.66389
+],
+  "geometry": {"coordinates":[-67.62361,5.66389],"type":"Point"}
+}

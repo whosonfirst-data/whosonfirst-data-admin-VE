@@ -1,0 +1,67 @@
+{
+  "id": 1243522835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.96495,9.22846,-70.96495,9.22846",
+    "geom:latitude":9.22846,
+    "geom:longitude":-70.96495,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Quince",
+    "gn:country_code":"VE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641821,
+    "gn:latitude":9.22846,
+    "gn:longitude":-70.96495,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Quince",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641821
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b1049df11efae7464c3bae86f752728f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1243522835,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243522835,
+    "wof:lastmodified":1536695726,
+    "wof:name":"El Quince",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.96495,
+    9.22846,
+    -70.96495,
+    9.22846
+],
+  "geometry": {"coordinates":[-70.96495,9.22846],"type":"Point"}
+}

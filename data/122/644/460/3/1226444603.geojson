@@ -1,0 +1,71 @@
+{
+  "id": 1226444603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05853,9.73919,-65.05853,9.73919",
+    "geom:latitude":9.73919,
+    "geom:longitude":-65.05853,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Guacharacas",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635914,
+    "gn:latitude":9.73919,
+    "gn:longitude":-65.05853,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Guacharacas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guachabacas",
+        "Las Guacharacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635914
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9ab69eac6d99ae69ac2037bdca475b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1226444603,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226444603,
+    "wof:lastmodified":1537713560,
+    "wof:name":"Las Guacharacas",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05853,
+    9.73919,
+    -65.05853,
+    9.73919
+],
+  "geometry": {"coordinates":[-65.05853,9.73919],"type":"Point"}
+}

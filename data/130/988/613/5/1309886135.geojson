@@ -1,0 +1,71 @@
+{
+  "id": 1309886135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3377,11.32103,-69.3377,11.32103",
+    "geom:latitude":11.32103,
+    "geom:longitude":-69.3377,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Quemados",
+    "gn:country_code":"VE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629463,
+    "gn:latitude":11.32103,
+    "gn:longitude":-69.3377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Quemados",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quemado",
+        "Los Quemados"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629463
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cd701634faa5862262e4091a015f2b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1309886135,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309886135,
+    "wof:lastmodified":1537713525,
+    "wof:name":"Los Quemados",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3377,
+    11.32103,
+    -69.3377,
+    11.32103
+],
+  "geometry": {"coordinates":[-69.3377,11.32103],"type":"Point"}
+}

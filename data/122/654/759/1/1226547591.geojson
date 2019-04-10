@@ -1,0 +1,67 @@
+{
+  "id": 1226547591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61151,8.51921,-63.61151,8.51921",
+    "geom:latitude":8.51921,
+    "geom:longitude":-63.61151,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Merecures",
+    "gn:country_code":"VE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485017,
+    "gn:latitude":8.51921,
+    "gn:longitude":-63.61151,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Los Merecures",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"85f4eb5cc792e6d5e38484b10cf160c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1226547591,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226547591,
+    "wof:lastmodified":1536994508,
+    "wof:name":"Los Merecures",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61151,
+    8.51921,
+    -63.61151,
+    8.51921
+],
+  "geometry": {"coordinates":[-63.61151,8.51921],"type":"Point"}
+}

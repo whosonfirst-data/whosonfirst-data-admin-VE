@@ -1,0 +1,76 @@
+{
+  "id": 421184041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13609,8.58291,-71.13609,8.58291",
+    "geom:latitude":8.58291,
+    "geom:longitude":-71.13609,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3753612,
+    "qs:gn_pop":0,
+    "qs:name":"San Jacinto",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988334,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468338,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753612,
+        "gp:id":468338,
+        "qs:id":988334
+    },
+    "wof:country":"VE",
+    "wof:created":1459009398,
+    "wof:geomhash":"aa5cfebaeaa88c754d580da0205ad1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":421184041,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421184041,
+    "wof:lastmodified":1500034073,
+    "wof:name":"San Jacinto",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13609,
+    8.58291,
+    -71.13609,
+    8.58291
+],
+  "geometry": {"coordinates":[-71.13609,8.58291],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326716813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.92773,9.28637,-66.92773,9.28637",
+    "geom:latitude":9.28637,
+    "geom:longitude":-66.92773,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Bejuco",
+    "gn:country_code":"VE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644153,
+    "gn:latitude":9.28637,
+    "gn:longitude":-66.92773,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Bejuco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bejuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421189079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644153
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f79a1cd365bc2857e9f8984ccc5d489a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189079,
+            "locality_id":1326716813,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1326716813,
+    "wof:lastmodified":1537713610,
+    "wof:name":"El Bejuco",
+    "wof:parent_id":421189079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.92773000000001,
+    9.28637,
+    -66.92773000000001,
+    9.28637
+],
+  "geometry": {"coordinates":[-66.92773000000001,9.28637],"type":"Point"}
+}

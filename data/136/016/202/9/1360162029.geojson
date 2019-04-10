@@ -1,0 +1,67 @@
+{
+  "id": 1360162029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.87489,11.99389,-69.87489,11.99389",
+    "geom:latitude":11.99389,
+    "geom:longitude":-69.87489,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sabarigua",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784425,
+    "gn:latitude":11.99389,
+    "gn:longitude":-69.87489,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Sabarigua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784425
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eda7c8144d3894a5d7bdb527d6199954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1360162029,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1360162029,
+    "wof:lastmodified":1536833714,
+    "wof:name":"Sabarigua",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.87489000000001,
+    11.99389,
+    -69.87489000000001,
+    11.99389
+],
+  "geometry": {"coordinates":[-69.87489000000001,11.99389],"type":"Point"}
+}

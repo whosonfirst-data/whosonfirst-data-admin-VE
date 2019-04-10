@@ -1,0 +1,67 @@
+{
+  "id": 1343950837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66667,8.33333,-68.66667,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":-68.66667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Laguna Escondida",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637662,
+    "gn:latitude":8.33333,
+    "gn:longitude":-68.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Laguna Escondida",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637662
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"37fd8af2e61ea9837cd5a09cfa7d0528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1343950837,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343950837,
+    "wof:lastmodified":1537032529,
+    "wof:name":"Laguna Escondida",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66667,
+    8.33333,
+    -68.66667,
+    8.33333
+],
+  "geometry": {"coordinates":[-68.66667,8.33333],"type":"Point"}
+}

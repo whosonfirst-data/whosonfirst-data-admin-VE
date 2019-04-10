@@ -1,0 +1,67 @@
+{
+  "id": 1292905507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.89245,9.91429,-64.89245,9.91429",
+    "geom:latitude":9.91429,
+    "geom:longitude":-64.89245,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Guariquero",
+    "gn:country_code":"VE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639999,
+    "gn:latitude":9.91429,
+    "gn:longitude":-64.89245,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Guariquero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639999
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3edba22d1a7efac5246ab8df3e660f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1292905507,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1292905507,
+    "wof:lastmodified":1536630329,
+    "wof:name":"Guariquero",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.89245,
+    9.91429,
+    -64.89245,
+    9.91429
+],
+  "geometry": {"coordinates":[-64.89245,9.91429],"type":"Point"}
+}

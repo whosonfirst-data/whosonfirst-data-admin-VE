@@ -1,0 +1,61 @@
+{
+  "id": 1209211885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.69836,7.80205,-65.69836,7.80205",
+    "geom:latitude":7.80205,
+    "geom:longitude":-65.69836,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Corobal",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807736,
+    "gn:latitude":7.80205,
+    "gn:longitude":-65.69836,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Corobal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"866c3e3fef7addfd6c5e8e2572de61e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209211885
+        }
+    ],
+    "wof:id":1209211885,
+    "wof:lastmodified":1536294263,
+    "wof:name":"Corobal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.69836,
+    7.80205,
+    -65.69836,
+    7.80205
+],
+  "geometry": {"coordinates":[-65.69835999999999,7.80205],"type":"Point"}
+}

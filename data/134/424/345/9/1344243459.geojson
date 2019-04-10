@@ -1,0 +1,67 @@
+{
+  "id": 1344243459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.05921,9.04216,-66.05921,9.04216",
+    "geom:latitude":9.04216,
+    "geom:longitude":-66.05921,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Melaito",
+    "gn:country_code":"VE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632421,
+    "gn:latitude":9.04216,
+    "gn:longitude":-66.05921,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mela\u00edto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632421
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f6930bb6609a0a587708fbf6127b3353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1344243459,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1344243459,
+    "wof:lastmodified":1536608822,
+    "wof:name":"Melaito",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.05921,
+    9.04216,
+    -66.05921,
+    9.04216
+],
+  "geometry": {"coordinates":[-66.05920999999999,9.04216],"type":"Point"}
+}

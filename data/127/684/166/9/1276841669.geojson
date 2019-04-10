@@ -1,0 +1,67 @@
+{
+  "id": 1276841669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.19834,9.71768,-63.19834,9.71768",
+    "geom:latitude":9.71768,
+    "geom:longitude":-63.19834,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Guaros",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755691,
+    "gn:latitude":9.71768,
+    "gn:longitude":-63.19834,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Los Guaros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755691
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"af34c522fc31d33a2133e8db601c1d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1276841669,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276841669,
+    "wof:lastmodified":1537089163,
+    "wof:name":"Los Guaros",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.19834,
+    9.71768,
+    -63.19834,
+    9.71768
+],
+  "geometry": {"coordinates":[-63.19834,9.71768],"type":"Point"}
+}

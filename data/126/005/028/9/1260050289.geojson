@@ -1,0 +1,67 @@
+{
+  "id": 1260050289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.62238,8.6262,-71.62238,8.6262",
+    "geom:latitude":8.6262,
+    "geom:longitude":-71.62238,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Blanca",
+    "gn:country_code":"VE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638821,
+    "gn:latitude":8.6262,
+    "gn:longitude":-71.62238,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"La Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638821
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6d57dae9f9d36296dbafecd780f848f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1260050289,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1260050289,
+    "wof:lastmodified":1537034479,
+    "wof:name":"La Blanca",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.62238,
+    8.6262,
+    -71.62238,
+    8.6262
+],
+  "geometry": {"coordinates":[-71.62238000000001,8.6262],"type":"Point"}
+}

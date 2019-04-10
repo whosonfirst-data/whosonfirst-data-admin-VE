@@ -1,0 +1,67 @@
+{
+  "id": 1259741743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68438,9.20822,-70.68438,9.20822",
+    "geom:latitude":9.20822,
+    "geom:longitude":-70.68438,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Cumbe",
+    "gn:country_code":"VE",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482552,
+    "gn:latitude":9.20822,
+    "gn:longitude":-70.68438,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"El Cumbe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482552
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d47e4b1cce1723f21e4ba0bf29b96d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694477,
+            "locality_id":1259741743,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1259741743,
+    "wof:lastmodified":1536982646,
+    "wof:name":"El Cumbe",
+    "wof:parent_id":1108694477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68438,
+    9.20822,
+    -70.68438,
+    9.20822
+],
+  "geometry": {"coordinates":[-70.68438,9.20822],"type":"Point"}
+}

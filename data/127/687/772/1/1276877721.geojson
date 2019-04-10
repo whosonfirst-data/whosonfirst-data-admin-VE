@@ -1,0 +1,67 @@
+{
+  "id": 1276877721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.60556,10.41,-67.60556,10.41",
+    "geom:latitude":10.41,
+    "geom:longitude":-67.60556,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Fajardo",
+    "gn:country_code":"VE",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3744452,
+    "gn:latitude":10.41,
+    "gn:longitude":-67.60556,
+    "gn:modification_date":"1995-08-21",
+    "gn:name":"Fajardo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421171995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3744452
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11f98584883b10cbbf151fbb5887391e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171995,
+            "locality_id":1276877721,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1276877721,
+    "wof:lastmodified":1537042210,
+    "wof:name":"Fajardo",
+    "wof:parent_id":421171995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.60556,
+    10.41,
+    -67.60556,
+    10.41
+],
+  "geometry": {"coordinates":[-67.60556,10.41],"type":"Point"}
+}

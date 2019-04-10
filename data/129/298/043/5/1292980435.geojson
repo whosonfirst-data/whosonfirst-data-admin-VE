@@ -1,0 +1,67 @@
+{
+  "id": 1292980435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.33306,8.45639,-67.33306,8.45639",
+    "geom:latitude":8.45639,
+    "geom:longitude":-67.33306,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Moriche",
+    "gn:country_code":"VE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642515,
+    "gn:latitude":8.45639,
+    "gn:longitude":-67.33306,
+    "gn:modification_date":"1999-03-04",
+    "gn:name":"El Moriche",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642515
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8bd64584c6a4cf67501a238a5b9fe35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1292980435,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1292980435,
+    "wof:lastmodified":1537020126,
+    "wof:name":"El Moriche",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.33306,
+    8.45639,
+    -67.33306,
+    8.45639
+],
+  "geometry": {"coordinates":[-67.33306,8.45639],"type":"Point"}
+}

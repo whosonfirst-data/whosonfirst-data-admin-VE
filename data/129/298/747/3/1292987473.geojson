@@ -1,0 +1,72 @@
+{
+  "id": 1292987473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.01667,9.81667,-66.01667,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":-66.01667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Arenita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648955,
+    "gn:latitude":9.81667,
+    "gn:longitude":-66.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arenita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arenitas",
+        "Arenita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648955
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cbd959e1845ce9d45c941ed44d22960d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1292987473,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1292987473,
+    "wof:lastmodified":1537713631,
+    "wof:name":"Arenita",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.01666999999999,
+    9.81667,
+    -66.01666999999999,
+    9.81667
+],
+  "geometry": {"coordinates":[-66.01666999999999,9.81667],"type":"Point"}
+}

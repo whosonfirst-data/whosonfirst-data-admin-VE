@@ -1,0 +1,67 @@
+{
+  "id": 1209207403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.13333,8.03333,-70.13333,8.03333",
+    "geom:latitude":8.03333,
+    "geom:longitude":-70.13333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Cerrito Molinero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646043,
+    "gn:latitude":8.03333,
+    "gn:longitude":-70.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cerrito Molinero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerrito Moriner",
+        "Cerrito Morinero",
+        "Cerrito Molinero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646043
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"55af619b842ad447fa5c15fd5f7b7afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209207403
+        }
+    ],
+    "wof:id":1209207403,
+    "wof:lastmodified":1537713619,
+    "wof:name":"Cerrito Molinero",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.13333,
+    8.03333,
+    -70.13333,
+    8.03333
+],
+  "geometry": {"coordinates":[-70.13333,8.03333],"type":"Point"}
+}

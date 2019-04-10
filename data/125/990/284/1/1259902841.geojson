@@ -1,0 +1,67 @@
+{
+  "id": 1259902841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.17363,10.27334,-67.17363,10.27334",
+    "geom:latitude":10.27334,
+    "geom:longitude":-67.17363,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Pena del Tigre",
+    "gn:country_code":"VE",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806656,
+    "gn:latitude":10.27334,
+    "gn:longitude":-67.17363,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Pe\u00f1a del Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806656
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f14c2e1884af1bceba307686dfdd3193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694419,
+            "locality_id":1259902841,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1259902841,
+    "wof:lastmodified":1536751166,
+    "wof:name":"La Pena del Tigre",
+    "wof:parent_id":1108694419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.17363,
+    10.27334,
+    -67.17363,
+    10.27334
+],
+  "geometry": {"coordinates":[-67.17363,10.27334],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276958149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3081,9.19166,-65.3081,9.19166",
+    "geom:latitude":9.19166,
+    "geom:longitude":-65.3081,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cartanal",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646417,
+    "gn:latitude":9.19166,
+    "gn:longitude":-65.3081,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Cartanal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646417
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f10e6f23cbeafb6d3892b3af0287c0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1276958149,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276958149,
+    "wof:lastmodified":1536937223,
+    "wof:name":"Cartanal",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3081,
+    9.19166,
+    -65.3081,
+    9.19166
+],
+  "geometry": {"coordinates":[-65.3081,9.19166],"type":"Point"}
+}

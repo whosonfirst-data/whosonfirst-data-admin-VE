@@ -1,0 +1,67 @@
+{
+  "id": 1276657837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72398,7.29204,-70.72398,7.29204",
+    "geom:latitude":7.29204,
+    "geom:longitude":-70.72398,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Garcitas",
+    "gn:country_code":"VE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3804896,
+    "gn:latitude":7.29204,
+    "gn:longitude":-70.72398,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Garcitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804896
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9fdcdb72c5b8699c1af898349e35cb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1276657837,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276657837,
+    "wof:lastmodified":1536839872,
+    "wof:name":"Garcitas",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72398000000003,
+    7.29204,
+    -70.72398000000003,
+    7.29204
+],
+  "geometry": {"coordinates":[-70.72398000000003,7.29204],"type":"Point"}
+}

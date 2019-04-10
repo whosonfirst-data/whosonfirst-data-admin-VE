@@ -1,0 +1,77 @@
+{
+  "id": 421187365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.66667,11.95,-66.66667,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-66.66667,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Los Roques"
+    ],
+    "name:spa_x_preferred":[
+        "Los Roques"
+    ],
+    "name:unk_x_variant":[
+        "Los Roques"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3641622,
+    "qs:gn_pop":0,
+    "qs:name":"El Roque",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Dependencias Federales",
+    "qs:photos":485,
+    "qs:photos_1k":98,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":485,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082766,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":385600,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641622,
+        "gp:id":385600,
+        "qs:id":1082766
+    },
+    "wof:country":"VE",
+    "wof:created":1459009510,
+    "wof:geomhash":"6747ea385683df4a10d5ab66e6eca5fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":421187365
+        }
+    ],
+    "wof:id":421187365,
+    "wof:lastmodified":1501268332,
+    "wof:name":"El Roque",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.66667,
+    11.95,
+    -66.66667,
+    11.95
+],
+  "geometry": {"coordinates":[-66.66667,11.95],"type":"Point"}
+}

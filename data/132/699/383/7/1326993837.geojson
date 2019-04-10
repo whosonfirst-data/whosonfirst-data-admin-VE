@@ -1,0 +1,67 @@
+{
+  "id": 1326993837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.13028,10.16806,-63.13028,10.16806",
+    "geom:latitude":10.16806,
+    "geom:longitude":-63.13028,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Lo Lejos",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634688,
+    "gn:latitude":10.16806,
+    "gn:longitude":-63.13028,
+    "gn:modification_date":"1997-09-18",
+    "gn:name":"Lo Lejos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634688
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ca4599c0e7d2c53085e5d8eaf5a6880f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694119,
+            "locality_id":1326993837,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1326993837,
+    "wof:lastmodified":1536815467,
+    "wof:name":"Lo Lejos",
+    "wof:parent_id":1108694119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.13028000000001,
+    10.16806,
+    -63.13028000000001,
+    10.16806
+],
+  "geometry": {"coordinates":[-63.13028000000001,10.16806],"type":"Point"}
+}

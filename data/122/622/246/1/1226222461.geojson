@@ -1,0 +1,61 @@
+{
+  "id": 1226222461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.85,12.06667,-69.85,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-69.85,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Azubure",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648729,
+    "gn:latitude":12.06667,
+    "gn:longitude":-69.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Azubure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648729
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d0dc108c34c6bf91e50e2f6bd62765a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226222461,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226222461,
+    "wof:lastmodified":1536966981,
+    "wof:name":"Azubure",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.85,
+    12.06667,
+    -69.85,
+    12.06667
+],
+  "geometry": {"coordinates":[-69.84999999999999,12.06667],"type":"Point"}
+}

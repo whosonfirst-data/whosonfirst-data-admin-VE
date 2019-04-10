@@ -1,0 +1,67 @@
+{
+  "id": 1243185513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.92644,2.35958,-64.92644,2.35958",
+    "geom:latitude":2.35958,
+    "geom:longitude":-64.92644,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sasanabeteri",
+    "gn:country_code":"VE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457317,
+    "gn:latitude":2.35958,
+    "gn:longitude":-64.92644,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Sasanabeteri",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        890420047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457317
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"33925d96d7446cb43c585ef1ac98e495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890420047,
+            "locality_id":1243185513,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1243185513,
+    "wof:lastmodified":1536684627,
+    "wof:name":"Sasanabeteri",
+    "wof:parent_id":890420047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.92644,
+    2.35958,
+    -64.92644,
+    2.35958
+],
+  "geometry": {"coordinates":[-64.92644,2.35958],"type":"Point"}
+}

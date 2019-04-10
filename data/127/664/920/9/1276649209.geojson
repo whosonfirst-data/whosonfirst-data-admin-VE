@@ -1,0 +1,67 @@
+{
+  "id": 1276649209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.10715,7.90711,-70.10715,7.90711",
+    "geom:latitude":7.90711,
+    "geom:longitude":-70.10715,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Orticero",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486887,
+    "gn:latitude":7.90711,
+    "gn:longitude":-70.10715,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Orticero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486887
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b687b2d09e43eec2350a40d535864fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1276649209,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276649209,
+    "wof:lastmodified":1536851460,
+    "wof:name":"Orticero",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.10715,
+    7.90711,
+    -70.10715,
+    7.90711
+],
+  "geometry": {"coordinates":[-70.10715,7.90711],"type":"Point"}
+}

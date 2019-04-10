@@ -1,0 +1,67 @@
+{
+  "id": 1293299095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.48545,6.24392,-67.48545,6.24392",
+    "geom:latitude":6.24392,
+    "geom:longitude":-67.48545,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Piedra del Murcielago",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805464,
+    "gn:latitude":6.24392,
+    "gn:longitude":-67.48545,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Piedra del Murcielago",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805464
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4f96d340561f528102c64ff371a33163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1293299095,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293299095,
+    "wof:lastmodified":1537056113,
+    "wof:name":"Piedra del Murcielago",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.48545,
+    6.24392,
+    -67.48545,
+    6.24392
+],
+  "geometry": {"coordinates":[-67.48545,6.24392],"type":"Point"}
+}

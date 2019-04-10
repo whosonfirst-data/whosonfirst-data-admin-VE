@@ -1,0 +1,67 @@
+{
+  "id": 1226547583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.83246,8.44001,-63.83246,8.44001",
+    "geom:latitude":8.44001,
+    "geom:longitude":-63.83246,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Paramo",
+    "gn:country_code":"VE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642218,
+    "gn:latitude":8.44001,
+    "gn:longitude":-63.83246,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"El P\u00e1ramo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642218
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5a4de8ad196235a2a4dcb1e02c72ba9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1226547583,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226547583,
+    "wof:lastmodified":1536994519,
+    "wof:name":"El Paramo",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.83246,
+    8.44001,
+    -63.83246,
+    8.44001
+],
+  "geometry": {"coordinates":[-63.83246,8.44001],"type":"Point"}
+}

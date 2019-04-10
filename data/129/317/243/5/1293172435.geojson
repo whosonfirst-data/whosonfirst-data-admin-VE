@@ -1,0 +1,67 @@
+{
+  "id": 1293172435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.83286,9.3503,-63.83286,9.3503",
+    "geom:latitude":9.3503,
+    "geom:longitude":-63.83286,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Majomo",
+    "gn:country_code":"VE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750025,
+    "gn:latitude":9.3503,
+    "gn:longitude":-63.83286,
+    "gn:modification_date":"1996-07-03",
+    "gn:name":"El Majomo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750025
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"797b9e4fb8bc41bf8789ee31c0b57c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1293172435,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1293172435,
+    "wof:lastmodified":1536744135,
+    "wof:name":"El Majomo",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.83286,
+    9.3503,
+    -63.83286,
+    9.3503
+],
+  "geometry": {"coordinates":[-63.83286,9.3503],"type":"Point"}
+}

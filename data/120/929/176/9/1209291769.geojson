@@ -1,0 +1,61 @@
+{
+  "id": 1209291769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3587,10.75976,-69.3587,10.75976",
+    "geom:latitude":10.75976,
+    "geom:longitude":-69.3587,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Llanadita",
+    "gn:country_code":"VE",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755464,
+    "gn:latitude":10.75976,
+    "gn:longitude":-69.3587,
+    "gn:modification_date":"1996-10-09",
+    "gn:name":"La Llanadita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755464
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cc5d2dd4b93d9472a7d3f70fc38f9d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209291769
+        }
+    ],
+    "wof:id":1209291769,
+    "wof:lastmodified":1536291669,
+    "wof:name":"La Llanadita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3587,
+    10.75976,
+    -69.3587,
+    10.75976
+],
+  "geometry": {"coordinates":[-69.3587,10.75976],"type":"Point"}
+}

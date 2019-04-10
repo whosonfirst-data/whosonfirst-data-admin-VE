@@ -1,0 +1,67 @@
+{
+  "id": 1225801687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.9151,9.54214,-70.9151,9.54214",
+    "geom:latitude":9.54214,
+    "geom:longitude":-70.9151,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Madre Vieja",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482380,
+    "gn:latitude":9.54214,
+    "gn:longitude":-70.9151,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Madre Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482380
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"94c7d42015595d7fe7215a76346a5080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694235,
+            "locality_id":1225801687,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1225801687,
+    "wof:lastmodified":1537074319,
+    "wof:name":"Madre Vieja",
+    "wof:parent_id":1108694235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.9151,
+    9.54214,
+    -70.9151,
+    9.54214
+],
+  "geometry": {"coordinates":[-70.9151,9.54214],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276959003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.85451,11.22229,-69.85451,11.22229",
+    "geom:latitude":11.22229,
+    "geom:longitude":-69.85451,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Maipana",
+    "gn:country_code":"VE",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3786396,
+    "gn:latitude":11.22229,
+    "gn:longitude":-69.85451,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"Maipana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786396
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b83caf3c9ce8a720dc3eee95ced4743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1276959003,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276959003,
+    "wof:lastmodified":1536936089,
+    "wof:name":"Maipana",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.85451,
+    11.22229,
+    -69.85451,
+    11.22229
+],
+  "geometry": {"coordinates":[-69.85451,11.22229],"type":"Point"}
+}

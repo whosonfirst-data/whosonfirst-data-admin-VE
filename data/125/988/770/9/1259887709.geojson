@@ -1,0 +1,67 @@
+{
+  "id": 1259887709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.29557,9.97548,-65.29557,9.97548",
+    "geom:latitude":9.97548,
+    "geom:longitude":-65.29557,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Ramanero",
+    "gn:country_code":"VE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629303,
+    "gn:latitude":9.97548,
+    "gn:longitude":-65.29557,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ramanero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629303
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4b6c689782840fe9995f85bf28be7fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1259887709,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259887709,
+    "wof:lastmodified":1536773621,
+    "wof:name":"Ramanero",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.29557,
+    9.97548,
+    -65.29557,
+    9.97548
+],
+  "geometry": {"coordinates":[-65.29557,9.97548],"type":"Point"}
+}

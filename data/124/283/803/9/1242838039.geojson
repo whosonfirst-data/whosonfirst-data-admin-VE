@@ -1,0 +1,72 @@
+{
+  "id": 1242838039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.26667,10.11667,-63.26667,10.11667",
+    "geom:latitude":10.11667,
+    "geom:longitude":-63.26667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Majagua",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642760,
+    "gn:latitude":10.11667,
+    "gn:longitude":-63.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Majagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Majagua",
+        "El Majagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642760
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5d76e6620be9c2453936743745b7a78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186265,
+            "locality_id":1242838039,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1242838039,
+    "wof:lastmodified":1537713599,
+    "wof:name":"El Majagua",
+    "wof:parent_id":421186265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.26667,
+    10.11667,
+    -63.26667,
+    10.11667
+],
+  "geometry": {"coordinates":[-63.26667,10.11667],"type":"Point"}
+}

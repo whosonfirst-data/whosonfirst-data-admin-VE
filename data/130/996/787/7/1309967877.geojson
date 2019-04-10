@@ -1,0 +1,71 @@
+{
+  "id": 1309967877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.73661,10.49781,-63.73661,10.49781",
+    "geom:latitude":10.49781,
+    "geom:longitude":-63.73661,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Guacarapo",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640459,
+    "gn:latitude":10.49781,
+    "gn:longitude":-63.73661,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guacarapo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guacaparo",
+        "Guacarapo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640459
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"01dca02a1842458042da340b4588d2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1309967877,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1309967877,
+    "wof:lastmodified":1537713587,
+    "wof:name":"Guacarapo",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.73661,
+    10.49781,
+    -63.73661,
+    10.49781
+],
+  "geometry": {"coordinates":[-63.73661,10.49781],"type":"Point"}
+}

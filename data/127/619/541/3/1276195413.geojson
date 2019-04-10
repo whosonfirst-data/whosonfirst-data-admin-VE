@@ -1,0 +1,67 @@
+{
+  "id": 1276195413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.85481,10.25901,-66.85481,10.25901",
+    "geom:latitude":10.25901,
+    "geom:longitude":-66.85481,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Alvarenga",
+    "gn:country_code":"VE",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742020,
+    "gn:latitude":10.25901,
+    "gn:longitude":-66.85481,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Alvarenga",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742020
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"59b81a1ab06d0d1508043c7cccf98319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171913,
+            "locality_id":1276195413,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1276195413,
+    "wof:lastmodified":1536963705,
+    "wof:name":"Alvarenga",
+    "wof:parent_id":421171913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.85481,
+    10.25901,
+    -66.85481,
+    10.25901
+],
+  "geometry": {"coordinates":[-66.85481,10.25901],"type":"Point"}
+}

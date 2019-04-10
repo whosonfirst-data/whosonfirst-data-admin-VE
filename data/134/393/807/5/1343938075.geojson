@@ -1,0 +1,71 @@
+{
+  "id": 1343938075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46365,11.1872,-68.46365,11.1872",
+    "geom:latitude":11.1872,
+    "geom:longitude":-68.46365,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Boquerones",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634500,
+    "gn:latitude":11.1872,
+    "gn:longitude":-68.46365,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Boquerones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Boguerones",
+        "Los Boquerones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421185127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634500
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8515a68199c0cea7aadfe53c167e995f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185127,
+            "locality_id":1343938075,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343938075,
+    "wof:lastmodified":1537713550,
+    "wof:name":"Los Boquerones",
+    "wof:parent_id":421185127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46365,
+    11.1872,
+    -68.46365,
+    11.1872
+],
+  "geometry": {"coordinates":[-68.46365,11.1872],"type":"Point"}
+}

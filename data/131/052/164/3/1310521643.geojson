@@ -1,0 +1,89 @@
+{
+  "id": 1310521643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.08787,10.30583,-68.08787,10.30583",
+    "geom:latitude":10.30583,
+    "geom:longitude":-68.08787,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Las Trincheras",
+    "gn:country_code":"VE",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635296,
+    "gn:latitude":10.30583,
+    "gn:longitude":-68.08787,
+    "gn:modification_date":"2012-10-16",
+    "gn:name":"Las Trincheras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Las Trincheras"
+    ],
+    "name:eng_x_variant":[
+        "Trincheras"
+    ],
+    "name:por_x_preferred":[
+        "Las Trincheras"
+    ],
+    "name:por_x_variant":[
+        "Trincheras"
+    ],
+    "name:spa_x_colloquial":[
+        "Aguas Termales"
+    ],
+    "name:spa_x_preferred":[
+        "Las Trincheras"
+    ],
+    "name:spa_x_variant":[
+        "Trincheras",
+        "Aguas Termales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421182143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635296
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aab47ec9ff42d3546e3ea608c6fd31e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182143,
+            "locality_id":1310521643,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1310521643,
+    "wof:lastmodified":1537713556,
+    "wof:name":"Las Trincheras",
+    "wof:parent_id":421182143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.08787,
+    10.30583,
+    -68.08787,
+    10.30583
+],
+  "geometry": {"coordinates":[-68.08787,10.30583],"type":"Point"}
+}

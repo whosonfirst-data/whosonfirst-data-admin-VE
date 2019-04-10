@@ -1,0 +1,67 @@
+{
+  "id": 1276438825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.26012,7.91881,-62.26012,7.91881",
+    "geom:latitude":7.91881,
+    "geom:longitude":-62.26012,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Villa Flor",
+    "gn:country_code":"VE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625337,
+    "gn:latitude":7.91881,
+    "gn:longitude":-62.26012,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Villa Flor",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421197623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625337
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5032d29c8896eb81d252a9b6a312350d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421197623,
+            "locality_id":1276438825,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1276438825,
+    "wof:lastmodified":1536636079,
+    "wof:name":"Villa Flor",
+    "wof:parent_id":421197623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.26011999999999,
+    7.91881,
+    -62.26011999999999,
+    7.91881
+],
+  "geometry": {"coordinates":[-62.26011999999999,7.91881],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260384701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.11667,10.41667,-68.11667,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-68.11667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Las Animas",
+    "gn:country_code":"VE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636308,
+    "gn:latitude":10.41667,
+    "gn:longitude":-68.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las \u00c1nimas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636308
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c74b8891610cd6a126aba24bd2e89c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "locality_id":1260384701,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1260384701,
+    "wof:lastmodified":1537070344,
+    "wof:name":"Las Animas",
+    "wof:parent_id":421198089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.11667,
+    10.41667,
+    -68.11667,
+    10.41667
+],
+  "geometry": {"coordinates":[-68.11667,10.41667],"type":"Point"}
+}

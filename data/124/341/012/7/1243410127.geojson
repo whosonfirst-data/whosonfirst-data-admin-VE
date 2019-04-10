@@ -1,0 +1,67 @@
+{
+  "id": 1243410127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85546,10.4541,-71.85546,10.4541",
+    "geom:latitude":10.4541,
+    "geom:longitude":-71.85546,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"El Sesteo",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3790897,
+    "gn:latitude":10.4541,
+    "gn:longitude":-71.85546,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"El Sesteo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3790897
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f6c31de0256cc602802a01fcc898fe8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1243410127,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243410127,
+    "wof:lastmodified":1536856700,
+    "wof:name":"El Sesteo",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85546,
+    10.4541,
+    -71.85546,
+    10.4541
+],
+  "geometry": {"coordinates":[-71.85545999999999,10.4541],"type":"Point"}
+}

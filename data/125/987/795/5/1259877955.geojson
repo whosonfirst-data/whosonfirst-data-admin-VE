@@ -1,0 +1,67 @@
+{
+  "id": 1259877955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.10917,8.59972,-70.10917,8.59972",
+    "geom:latitude":8.59972,
+    "geom:longitude":-70.10917,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Borburata",
+    "gn:country_code":"VE",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648039,
+    "gn:latitude":8.59972,
+    "gn:longitude":-70.10917,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Borburata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648039
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"09795f21fbde8945c09a7445e6928c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1259877955,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1259877955,
+    "wof:lastmodified":1536787637,
+    "wof:name":"Borburata",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.10916999999999,
+    8.59972,
+    -70.10916999999999,
+    8.59972
+],
+  "geometry": {"coordinates":[-70.10916999999999,8.59972],"type":"Point"}
+}

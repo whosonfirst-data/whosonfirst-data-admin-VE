@@ -1,0 +1,72 @@
+{
+  "id": 1226626523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.35,11.36667,-69.35,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-69.35,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Turaguapo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625852,
+    "gn:latitude":11.36667,
+    "gn:longitude":-69.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Turaguapo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turuguapo",
+        "Turaguapo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625852
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"120eeb8f6d98cd94feac073ec443fc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1226626523,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226626523,
+    "wof:lastmodified":1537713509,
+    "wof:name":"Turaguapo",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.35,
+    11.36667,
+    -69.35,
+    11.36667
+],
+  "geometry": {"coordinates":[-69.34999999999999,11.36667],"type":"Point"}
+}

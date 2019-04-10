@@ -1,0 +1,61 @@
+{
+  "id": 1209495489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01544,10.9562,-71.01544,10.9562",
+    "geom:latitude":10.9562,
+    "geom:longitude":-71.01544,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Boraure Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785626,
+    "gn:latitude":10.9562,
+    "gn:longitude":-71.01544,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Boraure Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785626
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a0ad3ef06bcd609a473c7441da1a28f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209495489
+        }
+    ],
+    "wof:id":1209495489,
+    "wof:lastmodified":1536285350,
+    "wof:name":"Boraure Abajo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01544,
+    10.9562,
+    -71.01544,
+    10.9562
+],
+  "geometry": {"coordinates":[-71.01544,10.9562],"type":"Point"}
+}

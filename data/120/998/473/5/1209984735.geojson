@@ -1,0 +1,67 @@
+{
+  "id": 1209984735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49528,9.12083,-72.49528,9.12083",
+    "geom:latitude":9.12083,
+    "geom:longitude":-72.49528,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Pilar",
+    "gn:country_code":"VE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3752763,
+    "gn:latitude":9.12083,
+    "gn:longitude":-72.49528,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"El Pilar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3752763
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3894561f6ee5e53593586fade3e750ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694219,
+            "locality_id":1209984735,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1209984735,
+    "wof:lastmodified":1536389124,
+    "wof:name":"El Pilar",
+    "wof:parent_id":1108694219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49528000000002,
+    9.12083,
+    -72.49528000000002,
+    9.12083
+],
+  "geometry": {"coordinates":[-72.49528000000002,9.12083],"type":"Point"}
+}

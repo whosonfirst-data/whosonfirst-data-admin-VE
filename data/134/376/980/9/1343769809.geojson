@@ -1,0 +1,67 @@
+{
+  "id": 1343769809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.60343,9.94638,-65.60343,9.94638",
+    "geom:latitude":9.94638,
+    "geom:longitude":-65.60343,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Currucay",
+    "gn:country_code":"VE",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644623,
+    "gn:latitude":9.94638,
+    "gn:longitude":-65.60343,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Currucay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644623
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9487fa672739ca3f71da0cc1c6b64698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1343769809,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343769809,
+    "wof:lastmodified":1536797541,
+    "wof:name":"Currucay",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.60343,
+    9.94638,
+    -65.60343,
+    9.94638
+],
+  "geometry": {"coordinates":[-65.60343,9.94638],"type":"Point"}
+}

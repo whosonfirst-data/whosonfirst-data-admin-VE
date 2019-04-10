@@ -1,0 +1,67 @@
+{
+  "id": 1209895699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.78804,9.02933,-65.78804,9.02933",
+    "geom:latitude":9.02933,
+    "geom:longitude":-65.78804,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mata Verde",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632576,
+    "gn:latitude":9.02933,
+    "gn:longitude":-65.78804,
+    "gn:modification_date":"2002-01-31",
+    "gn:name":"Mata Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632576
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"246198650226f85b8dd6e80cf1d261b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694175,
+            "locality_id":1209895699,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1209895699,
+    "wof:lastmodified":1536388723,
+    "wof:name":"Mata Verde",
+    "wof:parent_id":1108694175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.78804000000001,
+    9.02933,
+    -65.78804000000001,
+    9.02933
+],
+  "geometry": {"coordinates":[-65.78804000000001,9.02933],"type":"Point"}
+}

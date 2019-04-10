@@ -1,0 +1,71 @@
+{
+  "id": 1242868105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94474,9.16989,-60.94474,9.16989",
+    "geom:latitude":9.16989,
+    "geom:longitude":-60.94474,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Siawani",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763795,
+    "gn:latitude":9.16989,
+    "gn:longitude":-60.94474,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Siawani",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaguani",
+        "Siawani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763795
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae9c0648c5013811fe7c5a2895740014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1242868105,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1242868105,
+    "wof:lastmodified":1537713639,
+    "wof:name":"Siawani",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94474,
+    9.16989,
+    -60.94474,
+    9.16989
+],
+  "geometry": {"coordinates":[-60.94474,9.16989],"type":"Point"}
+}

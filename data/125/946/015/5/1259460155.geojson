@@ -1,0 +1,67 @@
+{
+  "id": 1259460155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.12632,10.92525,-71.12632,10.92525",
+    "geom:latitude":10.92525,
+    "geom:longitude":-71.12632,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chirino",
+    "gn:country_code":"VE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3785872,
+    "gn:latitude":10.92525,
+    "gn:longitude":-71.12632,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Chirino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785872
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"626f5ea3bc188f5b903ca5d81cfc5b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1259460155,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259460155,
+    "wof:lastmodified":1536892039,
+    "wof:name":"Chirino",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.12631999999998,
+    10.92525,
+    -71.12631999999998,
+    10.92525
+],
+  "geometry": {"coordinates":[-71.12631999999998,10.92525],"type":"Point"}
+}

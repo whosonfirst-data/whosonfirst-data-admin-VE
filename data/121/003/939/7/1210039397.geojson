@@ -1,0 +1,61 @@
+{
+  "id": 1210039397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.70833,10.805,-66.70833,10.805",
+    "geom:latitude":10.805,
+    "geom:longitude":-66.70833,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Coquero",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806350,
+    "gn:latitude":10.805,
+    "gn:longitude":-66.70833,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"El Coquero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806350
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5c890f1d74bb5f06ccf6a29ef5ad9882",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210039397,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210039397,
+    "wof:lastmodified":1536385001,
+    "wof:name":"El Coquero",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.70833,
+    10.805,
+    -66.70833,
+    10.805
+],
+  "geometry": {"coordinates":[-66.70833,10.805],"type":"Point"}
+}

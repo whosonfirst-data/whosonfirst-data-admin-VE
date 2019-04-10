@@ -1,0 +1,67 @@
+{
+  "id": 1343980919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.44778,10.27167,-67.44778,10.27167",
+    "geom:latitude":10.27167,
+    "geom:longitude":-67.44778,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Espinal",
+    "gn:country_code":"VE",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806283,
+    "gn:latitude":10.27167,
+    "gn:longitude":-67.44778,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"El Espinal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421186263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806283
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e273fc83bd7c3f31bf8d830453e41bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186263,
+            "locality_id":1343980919,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1343980919,
+    "wof:lastmodified":1536989657,
+    "wof:name":"El Espinal",
+    "wof:parent_id":421186263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.44778000000001,
+    10.27167,
+    -67.44778000000001,
+    10.27167
+],
+  "geometry": {"coordinates":[-67.44778000000001,10.27167],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209172567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01416,9.66667,-71.01416,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":-71.01416,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"La Raya",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482083,
+    "gn:latitude":9.66667,
+    "gn:longitude":-71.01416,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"La Raya",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482083
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dbe730cafd6b4e9d083a9ff78d022b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209172567
+        }
+    ],
+    "wof:id":1209172567,
+    "wof:lastmodified":1536295531,
+    "wof:name":"La Raya",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01416,
+    9.66667,
+    -71.01416,
+    9.66667
+],
+  "geometry": {"coordinates":[-71.01416,9.66667],"type":"Point"}
+}

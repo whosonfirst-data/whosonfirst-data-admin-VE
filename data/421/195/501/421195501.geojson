@@ -1,0 +1,164 @@
+{
+  "id": 421195501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001538,
+    "geom:area_square_m":18717133.413092,
+    "geom:bbox":"-67.5744794074,10.19,-67.4930433562,10.2273483113",
+    "geom:latitude":10.207577,
+    "geom:longitude":-67.529805,
+    "iso:country":"VE",
+    "lbl:latitude":10.204436,
+    "lbl:longitude":-67.519009,
+    "meso:admin_1":"Aragua",
+    "meso:gadm_admin":"Francisco Linares",
+    "meso:gaul_admin":"Santiago Marino",
+    "meso:hasc_id":"VE.AR.FA",
+    "meso:mps_x":-67.519009,
+    "meso:mps_y":10.204436,
+    "meso:name_local":"Francisco Linares Alcantara",
+    "meso:source":"AOTM",
+    "mps:latitude":10.204436,
+    "mps:longitude":-67.519009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Municipio Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u6717\u897f\u65af\u79d1\u7d0d\u96f7\u65af\u963f\u723e\u574e\u5854\u62c9\u5e02"
+    ],
+    "name:dut_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:eng_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:eng_x_variant":[
+        "Santiago Marino",
+        "Francisco Linares",
+        "Francisco Linares Alc\u00e1ntara Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:fre_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8\u10e1\u10d9\u10dd-\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1-\u10d0\u10da\u10d9\u10d0\u10dc\u10e2\u10d0\u10e0\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:nan_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:por_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:ron_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0441\u0438\u0441\u043a\u043e \u041b\u0438\u043d\u0430\u0440\u0435\u0441 \u0410\u043b\u044c\u043a\u0430\u043d\u0442\u0430\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara Municipality"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0441\u0456\u0441\u043a\u043e \u041b\u0456\u043d\u0430\u0440\u0435\u0441 \u0410\u043b\u044c\u043a\u0430\u043d\u0442\u0430\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:yor_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Francisco Linares Alcantara",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":114619,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804693,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-09-01",
+    "statoids:area_km":"24",
+    "statoids:as_of_date":"2011-09-01",
+    "statoids:capital":"Santa Rita",
+    "statoids:country":"VE",
+    "statoids:hasc":"VE.AR",
+    "statoids:name":"Francisco Linares Alc\u00e1ntara",
+    "statoids:population":"123122",
+    "statoids:statoid":"VE.AR.FA",
+    "statoids:timezone":"-4:30",
+    "statoids:type":"municipality",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804693,
+        "hasc:id":"VE.AR.FA",
+        "qs:id":114619,
+        "wd:id":"Q2843795"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009850,
+    "wof:geomhash":"3ea702ffafe90e0ec8f52e9c725502c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195501,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421195501,
+    "wof:lastmodified":1536616120,
+    "wof:name":"Francisco Linares Alcantara",
+    "wof:parent_id":85680525,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":123122,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:shortcode":"FA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.57447940737974,
+    10.18999999999983,
+    -67.4930433561538,
+    10.22734831130692
+],
+  "geometry": {"coordinates":[[[-67.55455591124294,10.22734831130692],[-67.55367174862599,10.22693569064786],[-67.55190342339208,10.22611044932976],[-67.54925093554118,10.2248725873526],[-67.54513915642455,10.22287338619741],[-67.54068378893075,10.2211359184843],[-67.5357560332254,10.21967298994095],[-67.53191028669912,10.21838857455052],[-67.52938852413195,10.21775648715336],[-67.52562998544738,10.21791544206151],[-67.52104761576135,10.21876133225921],[-67.51759499000519,10.21880176231216],[-67.51439840144944,10.2176035246245],[-67.50884648176466,10.21564500372104],[-67.50297849240974,10.21348795973009],[-67.49959615107427,10.21020859289412],[-67.49748058065776,10.20488892587956],[-67.49304335615381,10.19097832192049],[-67.49522728165175,10.19085603168041],[-67.49959513264764,10.19061145120024],[-67.50614690914148,10.19024458047999],[-67.52602952027962,10.18999999999983],[-67.52690886904799,10.19153318656964],[-67.52866756658472,10.19459955970927],[-67.53130561288981,10.19919911941873],[-67.53467780670897,10.20323488909019],[-67.5393411191759,10.20596642368293],[-67.54641304810377,10.20667694174736],[-67.55269375151254,10.20563748212257],[-67.5570531819688,10.20506885084544],[-67.56289896258568,10.2034289555213],[-67.57447940737974,10.20473970369211],[-67.56913459323121,10.21175600804672],[-67.5637897790827,10.21877231240132],[-67.55739124044665,10.22539907997232],[-67.55455591124294,10.22734831130692]]],"type":"Polygon"}
+}

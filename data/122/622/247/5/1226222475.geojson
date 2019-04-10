@@ -1,0 +1,72 @@
+{
+  "id": 1226222475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09942,11.94929,-70.09942,11.94929",
+    "geom:latitude":11.94929,
+    "geom:longitude":-70.09942,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Isiro",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642973,
+    "gn:latitude":11.94929,
+    "gn:longitude":-70.09942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Isiro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sirio",
+        "El Isidro",
+        "El Isiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642973
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f7a17a73b3095ba595eaf017f0d5ebf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1226222475,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226222475,
+    "wof:lastmodified":1537713601,
+    "wof:name":"El Isiro",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09942,
+    11.94929,
+    -70.09942,
+    11.94929
+],
+  "geometry": {"coordinates":[-70.09941999999999,11.94929],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310078149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46556,10.06028,-66.46556,10.06028",
+    "geom:latitude":10.06028,
+    "geom:longitude":-66.46556,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Agua Blanca",
+    "gn:country_code":"VE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742314,
+    "gn:latitude":10.06028,
+    "gn:longitude":-66.46556,
+    "gn:modification_date":"1995-08-23",
+    "gn:name":"Agua Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742314
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"54c5b5df10294311623f0b3c0b3159ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1310078149,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1310078149,
+    "wof:lastmodified":1537034559,
+    "wof:name":"Agua Blanca",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46556,
+    10.06028,
+    -66.46556,
+    10.06028
+],
+  "geometry": {"coordinates":[-66.46556,10.06028],"type":"Point"}
+}

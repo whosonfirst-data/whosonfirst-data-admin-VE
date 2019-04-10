@@ -1,0 +1,77 @@
+{
+  "id": 421183677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.22556,7.75139,-72.22556,7.75139",
+    "geom:latitude":7.75139,
+    "geom:longitude":-72.22556,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3759377,
+    "qs:gn_pop":0,
+    "qs:name":"El Carmen",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:photos":76,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":76,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982703,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":383939,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        421171375,
+        85680481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759377,
+        "gp:id":383939,
+        "qs:id":982703
+    },
+    "wof:country":"VE",
+    "wof:created":1459009378,
+    "wof:geomhash":"f5b89f6ab4e22c1308e008b9cd4f66b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171375,
+            "locality_id":-1,
+            "neighbourhood_id":421183677,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":421183677,
+    "wof:lastmodified":1531858505,
+    "wof:name":"El Carmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.22556,
+    7.75139,
+    -72.22556,
+    7.75139
+],
+  "geometry": {"coordinates":[-72.22556,7.75139],"type":"Point"}
+}

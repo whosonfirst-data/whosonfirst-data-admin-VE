@@ -1,0 +1,71 @@
+{
+  "id": 1309774381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83678,11.64188,-71.83678,11.64188",
+    "geom:latitude":11.64188,
+    "geom:longitude":-71.83678,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Cojoro",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645381,
+    "gn:latitude":11.64188,
+    "gn:longitude":-71.83678,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cojoro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quijoro",
+        "Cojoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645381
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"050bff4d1a811b1a1f45ec3e1085f424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1309774381,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1309774381,
+    "wof:lastmodified":1537713617,
+    "wof:name":"Cojoro",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83678,
+    11.64188,
+    -71.83678,
+    11.64188
+],
+  "geometry": {"coordinates":[-71.83678,11.64188],"type":"Point"}
+}

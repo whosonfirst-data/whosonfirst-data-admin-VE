@@ -1,0 +1,82 @@
+{
+  "id": 1293776723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67454,8.37965,-70.67454,8.37965",
+    "geom:latitude":8.37965,
+    "geom:longitude":-70.67454,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Acequia",
+    "gn:country_code":"VE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639018,
+    "gn:latitude":8.37965,
+    "gn:longitude":-70.67454,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"La Acequia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Acequia"
+    ],
+    "name:fra_x_preferred":[
+        "La Acequia"
+    ],
+    "name:ita_x_preferred":[
+        "La Acequia"
+    ],
+    "name:por_x_preferred":[
+        "La Acequia"
+    ],
+    "name:spa_x_preferred":[
+        "La Acequia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421171647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639018
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9deb198eaf5b18b1a885026f37ac5445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171647,
+            "locality_id":1293776723,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293776723,
+    "wof:lastmodified":1537560452,
+    "wof:name":"La Acequia",
+    "wof:parent_id":421171647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67454000000002,
+    8.37965,
+    -70.67454000000002,
+    8.37965
+],
+  "geometry": {"coordinates":[-70.67454000000002,8.37965],"type":"Point"}
+}

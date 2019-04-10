@@ -1,0 +1,67 @@
+{
+  "id": 1226805141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86519,10.89799,-71.86519,10.89799",
+    "geom:latitude":10.89799,
+    "geom:longitude":-71.86519,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3790781,
+    "gn:latitude":10.89799,
+    "gn:longitude":-71.86519,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3790781
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"706119b3cfcf4a9c8b10a09e5ac793e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1226805141,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226805141,
+    "wof:lastmodified":1536628440,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86519,
+    10.89799,
+    -71.86519,
+    10.89799
+],
+  "geometry": {"coordinates":[-71.86519,10.89799],"type":"Point"}
+}

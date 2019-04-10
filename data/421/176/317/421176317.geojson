@@ -1,0 +1,307 @@
+{
+  "id": 421176317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.24544,8.88752,-64.24544,8.88752",
+    "geom:latitude":8.88752,
+    "geom:longitude":-64.24544,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u0644 \u062a\u064a\u063a\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u099f\u09be\u0987\u0997\u09cd\u09b0\u09bf"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u8482\u683c\u96f7"
+    ],
+    "name:dan_x_preferred":[
+        "El Tigre"
+    ],
+    "name:dut_x_preferred":[
+        "El Tigre"
+    ],
+    "name:eng_x_preferred":[
+        "El Tigre"
+    ],
+    "name:epo_x_preferred":[
+        "El Tigre"
+    ],
+    "name:fin_x_preferred":[
+        "El Tigre"
+    ],
+    "name:fre_x_preferred":[
+        "El Tigre"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10e2\u10d8\u10d2\u10e0\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "El Tigre"
+    ],
+    "name:glg_x_preferred":[
+        "El Tigre"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u03a4\u03b9\u03b3\u03ba\u03c1\u03ad"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2 \u0a9f\u0ac0\u0a97\u0acd\u0ab0\u0ac7"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u091f\u093f\u0917\u094d\u0930\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "El Tigre"
+    ],
+    "name:ita_x_preferred":[
+        "El Tigre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30c6\u30a3\u30b0\u30ec"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb2\u0ccd \u0c9f\u0cc8\u0c97\u0ccd\u0cb0\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e2\u10d8\u10d2\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ud2f0\uadf8\ub808"
+    ],
+    "name:lav_x_preferred":[
+        "Eltigre"
+    ],
+    "name:lit_x_preferred":[
+        "El Tigr\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932 \u0924\u0940\u0917\u094d\u0930\u0947"
+    ],
+    "name:may_x_preferred":[
+        "El Tigre"
+    ],
+    "name:nah_x_preferred":[
+        "El Tigre"
+    ],
+    "name:nob_x_preferred":[
+        "El Tigre"
+    ],
+    "name:pol_x_preferred":[
+        "El Tigre"
+    ],
+    "name:por_x_preferred":[
+        "El Tigre"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0438\u0433\u0440\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbd\u0dca \u0da7\u0dd2\u0d9c\u0dca\u0dbb\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "El Tigre"
+    ],
+    "name:swe_x_preferred":[
+        "El Tigre"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bcd  \u0b9f\u0bbf\u0b95\u0bcd\u0bb0\u0bc6"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c32\u0c4d \u0c1f\u0c48\u0c17\u0c4d\u0c30\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e25\u0e15\u0e35\u0e40\u0e01\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "El Tigre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0422\u0456\u0433\u0440\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644 \u062a\u06cc\u062c\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "El Tigre"
+    ],
+    "name:vol_x_preferred":[
+        "El Tigre"
+    ],
+    "name:wel_x_preferred":[
+        "El Tigre"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u8482\u683c\u96f7"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Venezuela",
+    "ne:ADM0_A3":"VEN",
+    "ne:ADM1NAME":"Anzo\u00e1tegui",
+    "ne:ADMIN1_COD":2,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3641351,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"El Tigre",
+    "ne:GN_POP":150999,
+    "ne:GTOPO30":276.0,
+    "ne:ISO_A2":"VE",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":8.890348,
+    "ne:LONGITUDE":-64.260016,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Tigre",
+    "ne:MAX_AREAKM":89.0,
+    "ne:MAX_AREAMI":34.0,
+    "ne:MAX_BBXMAX":-64.133333,
+    "ne:MAX_BBXMIN":-64.3,
+    "ne:MAX_BBYMAX":8.925,
+    "ne:MAX_BBYMIN":8.85,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":68.0,
+    "ne:MAX_PERMI":42.0,
+    "ne:MAX_POP10":197440,
+    "ne:MAX_POP20":197440,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-64.222817,
+    "ne:MEAN_BBYC":8.895278,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":89.0,
+    "ne:MIN_AREAMI":34.0,
+    "ne:MIN_BBXMAX":-64.133333,
+    "ne:MIN_BBXMIN":-64.3,
+    "ne:MIN_BBYMAX":8.925,
+    "ne:MIN_BBYMIN":8.85,
+    "ne:MIN_PERKM":68.0,
+    "ne:MIN_PERMI":42.0,
+    "ne:NAME":"El Tigre",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Tigre",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":197440,
+    "ne:POP_MIN":150999,
+    "ne:POP_OTHER":197607,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Venezuela",
+    "ne:SOV_A3":"VEN",
+    "ne:TIMEZONE":"America/Caracas",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3641351,
+    "qs:gn_pop":150999,
+    "qs:name":"El Tigre",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":381,
+    "qs:photos_1k":77,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":381,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1045798,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395276,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":265.0,
+    "wd:latitude":8.885833,
+    "wd:longitude":-64.261111,
+    "wd:wordcount":803,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421189069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641351,
+        "gp:id":395276,
+        "qs:id":1045798,
+        "wd:id":"Q1020297",
+        "wk:page":"El Tigre"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009104,
+    "wof:geomhash":"1fc922d97bb857ce3d9abdc1bbbd88f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189069,
+            "locality_id":421176317,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":421176317,
+    "wof:lastmodified":1527726479,
+    "wof:name":"El Tigre",
+    "wof:parent_id":421189069,
+    "wof:placetype":"locality",
+    "wof:population":150999,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.24544,
+    8.88752,
+    -64.24544,
+    8.88752
+],
+  "geometry": {"coordinates":[-64.24544,8.88752],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209285503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09423,9.85099,-70.09423,9.85099",
+    "geom:latitude":9.85099,
+    "geom:longitude":-70.09423,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cueva",
+    "gn:country_code":"VE",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767492,
+    "gn:latitude":9.85099,
+    "gn:longitude":-70.09423,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Cueva",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767492
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"445f244e63f6975d966624e9d713c1df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209285503
+        }
+    ],
+    "wof:id":1209285503,
+    "wof:lastmodified":1536291875,
+    "wof:name":"Cueva",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09423000000001,
+    9.85099,
+    -70.09423000000001,
+    9.85099
+],
+  "geometry": {"coordinates":[-70.09423000000001,9.85099],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1192983017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26178,8.26526,-72.26178,8.26526",
+    "geom:latitude":8.26526,
+    "geom:longitude":-72.26178,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kilometro Noventa y Nueve",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757126,
+    "gn:latitude":8.26526,
+    "gn:longitude":-72.26178,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kil\u00f3metro Noventa y Nueve",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 99",
+        "Kil\u00f3metro Noventa y Nueve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757126
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f97c7c46f04ebf823528a82e4ba595f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694197,
+            "locality_id":1192983017,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1192983017,
+    "wof:lastmodified":1537713637,
+    "wof:name":"Kilometro Noventa y Nueve",
+    "wof:parent_id":1108694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26178,
+    8.26526,
+    -72.26178,
+    8.26526
+],
+  "geometry": {"coordinates":[-72.26178,8.26526],"type":"Point"}
+}

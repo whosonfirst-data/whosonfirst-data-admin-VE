@@ -1,0 +1,72 @@
+{
+  "id": 1310082103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.31667,9.68333,-67.31667,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":-67.31667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Patillas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635507,
+    "gn:latitude":9.68333,
+    "gn:longitude":-67.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Patillas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patilla",
+        "Las Patillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635507
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"068aa6ee26d07793cdbf02e9521e7a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694381,
+            "locality_id":1310082103,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310082103,
+    "wof:lastmodified":1537713557,
+    "wof:name":"Las Patillas",
+    "wof:parent_id":1108694381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.31667,
+    9.68333,
+    -67.31667,
+    9.68333
+],
+  "geometry": {"coordinates":[-67.31667,9.68333],"type":"Point"}
+}

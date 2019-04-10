@@ -1,0 +1,72 @@
+{
+  "id": 1260001027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.53333,7.03333,-62.53333,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":-62.53333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"La Calceta",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638729,
+    "gn:latitude":7.03333,
+    "gn:longitude":-62.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Calceta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calceta",
+        "La Calceta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421197623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638729
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"911d7d3d6de0954cff586d78aabf2015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421197623,
+            "locality_id":1260001027,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1260001027,
+    "wof:lastmodified":1537713576,
+    "wof:name":"La Calceta",
+    "wof:parent_id":421197623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.53333000000001,
+    7.03333,
+    -62.53333000000001,
+    7.03333
+],
+  "geometry": {"coordinates":[-62.53333000000001,7.03333],"type":"Point"}
+}

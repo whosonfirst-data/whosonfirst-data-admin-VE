@@ -1,0 +1,79 @@
+{
+  "id": 421173883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.96333,10.21306,-67.96333,10.21306",
+    "geom:latitude":10.21306,
+    "geom:longitude":-67.96333,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Los Harales"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3634105,
+    "qs:gn_pop":0,
+    "qs:name":"Los Jarales",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Carabobo",
+    "qs:photos":133,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":133,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":301553,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":469022,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421180477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634105,
+        "gp:id":469022,
+        "qs:id":301553
+    },
+    "wof:country":"VE",
+    "wof:created":1459009009,
+    "wof:geomhash":"e53ae42f13bead5549becb67ff3b045c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180477,
+            "locality_id":421173883,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":421173883,
+    "wof:lastmodified":1501268327,
+    "wof:name":"Los Jarales",
+    "wof:parent_id":421180477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.96333,
+    10.21306,
+    -67.96333,
+    10.21306
+],
+  "geometry": {"coordinates":[-67.96333,10.21306],"type":"Point"}
+}

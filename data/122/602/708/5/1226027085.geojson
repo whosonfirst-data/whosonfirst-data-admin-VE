@@ -1,0 +1,67 @@
+{
+  "id": 1226027085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.92509,10.23285,-66.92509,10.23285",
+    "geom:latitude":10.23285,
+    "geom:longitude":-66.92509,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Cabrera",
+    "gn:country_code":"VE",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742017,
+    "gn:latitude":10.23285,
+    "gn:longitude":-66.92509,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"La Cabrera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5a5b350f8bd02779b28e2f2e1a034c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1226027085,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226027085,
+    "wof:lastmodified":1536752034,
+    "wof:name":"La Cabrera",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.92509,
+    10.23285,
+    -66.92509,
+    10.23285
+],
+  "geometry": {"coordinates":[-66.92509,10.23285],"type":"Point"}
+}

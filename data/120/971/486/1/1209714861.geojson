@@ -1,0 +1,67 @@
+{
+  "id": 1209714861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.535,10.21028,-67.535,10.21028",
+    "geom:latitude":10.21028,
+    "geom:longitude":-67.535,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Coropo",
+    "gn:country_code":"VE",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753106,
+    "gn:latitude":10.21028,
+    "gn:longitude":-67.535,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Coropo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421195501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753106
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"378e2a4de5ed2e492e75bff42da3c4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195501,
+            "locality_id":1209714861,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1209714861,
+    "wof:lastmodified":1536389036,
+    "wof:name":"Coropo",
+    "wof:parent_id":421195501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.535,
+    10.21028,
+    -67.535,
+    10.21028
+],
+  "geometry": {"coordinates":[-67.535,10.21028],"type":"Point"}
+}

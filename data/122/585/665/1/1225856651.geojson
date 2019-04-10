@@ -1,0 +1,67 @@
+{
+  "id": 1225856651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.19231,9.57157,-65.19231,9.57157",
+    "geom:latitude":9.57157,
+    "geom:longitude":-65.19231,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guamachito",
+    "gn:country_code":"VE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485409,
+    "gn:latitude":9.57157,
+    "gn:longitude":-65.19231,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Guamachito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485409
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8f5c8c4f52e014657f14294d6243dddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1225856651,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1225856651,
+    "wof:lastmodified":1536997136,
+    "wof:name":"Guamachito",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.19230999999999,
+    9.57157,
+    -65.19230999999999,
+    9.57157
+],
+  "geometry": {"coordinates":[-65.19230999999999,9.57157],"type":"Point"}
+}

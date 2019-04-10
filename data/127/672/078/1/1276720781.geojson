@@ -1,0 +1,73 @@
+{
+  "id": 1276720781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33333,7.83333,-72.33333,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":-72.33333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Salom",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628728,
+    "gn:latitude":7.83333,
+    "gn:longitude":-72.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Salom",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aldea General Sal\u00f3m",
+        "General Salom",
+        "Salom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628728
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7257c62df7035b52a7ec201ae1b9167a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694261,
+            "locality_id":1276720781,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276720781,
+    "wof:lastmodified":1537713521,
+    "wof:name":"Salom",
+    "wof:parent_id":1108694261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33333,
+    7.83333,
+    -72.33333,
+    7.83333
+],
+  "geometry": {"coordinates":[-72.33333,7.83333],"type":"Point"}
+}

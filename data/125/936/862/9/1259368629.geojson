@@ -1,0 +1,67 @@
+{
+  "id": 1259368629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.26315,10.46481,-68.26315,10.46481",
+    "geom:latitude":10.46481,
+    "geom:longitude":-68.26315,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sanguijuela",
+    "gn:country_code":"VE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628334,
+    "gn:latitude":10.46481,
+    "gn:longitude":-68.26315,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Sanguijuela",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421195495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628334
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7698b0c39c78dab3707102c9f0282704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195495,
+            "locality_id":1259368629,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1259368629,
+    "wof:lastmodified":1537022670,
+    "wof:name":"Sanguijuela",
+    "wof:parent_id":421195495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.26315,
+    10.46481,
+    -68.26315,
+    10.46481
+],
+  "geometry": {"coordinates":[-68.26315,10.46481],"type":"Point"}
+}

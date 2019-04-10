@@ -1,0 +1,67 @@
+{
+  "id": 1226732113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.55833,10.45,-66.55833,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":-66.55833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Candelaria",
+    "gn:country_code":"VE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803480,
+    "gn:latitude":10.45,
+    "gn:longitude":-66.55833,
+    "gn:modification_date":"2002-11-20",
+    "gn:name":"La Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803480
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"31f7b0502e3dc32e07e2afb0da6cc1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202063,
+            "locality_id":1226732113,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226732113,
+    "wof:lastmodified":1536735307,
+    "wof:name":"La Candelaria",
+    "wof:parent_id":421202063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.55833,
+    10.45,
+    -66.55833,
+    10.45
+],
+  "geometry": {"coordinates":[-66.55833,10.45],"type":"Point"}
+}

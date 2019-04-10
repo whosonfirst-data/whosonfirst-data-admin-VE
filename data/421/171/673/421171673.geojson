@@ -1,0 +1,79 @@
+{
+  "id": 421171673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.116699,10.486883,-68.116699,10.486883",
+    "geom:latitude":10.486883,
+    "geom:longitude":-68.116699,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Urbana Juan Jose Flores",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Carabobo",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":77,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263899,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805540,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805540,
+        "qs:id":1263899,
+        "qs_pg:id":1263899
+    },
+    "wof:country":"VE",
+    "wof:created":1459008902,
+    "wof:geomhash":"cf554e3163befc4b5450d1f27a379f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "localadmin_id":421171673,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":421171673,
+    "wof:lastmodified":1497044799,
+    "wof:name":"Urbana Juan Jose Flores",
+    "wof:parent_id":421198089,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.116699,
+    10.486883,
+    -68.116699,
+    10.486883
+],
+  "geometry": {"coordinates":[-68.116699,10.486883],"type":"Point"}
+}

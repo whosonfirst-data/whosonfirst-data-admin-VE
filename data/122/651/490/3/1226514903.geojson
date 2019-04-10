@@ -1,0 +1,67 @@
+{
+  "id": 1226514903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10028,10.21476,-66.10028,10.21476",
+    "geom:latitude":10.21476,
+    "geom:longitude":-66.10028,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Cachipe",
+    "gn:country_code":"VE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742498,
+    "gn:latitude":10.21476,
+    "gn:longitude":-66.10028,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Cachipe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742498
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"73719267f720ee3debb62a4f636b27c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1226514903,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226514903,
+    "wof:lastmodified":1537040884,
+    "wof:name":"Cachipe",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10028,
+    10.21476,
+    -66.10028,
+    10.21476
+],
+  "geometry": {"coordinates":[-66.10028,10.21476],"type":"Point"}
+}

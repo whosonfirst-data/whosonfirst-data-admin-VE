@@ -1,0 +1,72 @@
+{
+  "id": 1309765145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45,7.55,-72.45,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":-72.45,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"La Lejia",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637401,
+    "gn:latitude":7.55,
+    "gn:longitude":-72.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Lej\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Llegia",
+        "La Lej\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637401
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c491f0acb0e5ab5adf236e2d211769c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694363,
+            "locality_id":1309765145,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1309765145,
+    "wof:lastmodified":1537713568,
+    "wof:name":"La Lejia",
+    "wof:parent_id":1108694363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45,
+    7.55,
+    -72.45,
+    7.55
+],
+  "geometry": {"coordinates":[-72.45,7.55],"type":"Point"}
+}

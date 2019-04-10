@@ -1,0 +1,61 @@
+{
+  "id": 1209517471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.02458,9.90967,-65.02458,9.90967",
+    "geom:latitude":9.90967,
+    "geom:longitude":-65.02458,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Sapo",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641510,
+    "gn:latitude":9.90967,
+    "gn:longitude":-65.02458,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Sapo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641510
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4eb687de3cf208067e933edbdb8f6e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209517471
+        }
+    ],
+    "wof:id":1209517471,
+    "wof:lastmodified":1536284686,
+    "wof:name":"El Sapo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.02458,
+    9.90967,
+    -65.02458,
+    9.90967
+],
+  "geometry": {"coordinates":[-65.02458,9.90967],"type":"Point"}
+}

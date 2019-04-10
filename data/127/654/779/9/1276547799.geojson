@@ -1,0 +1,71 @@
+{
+  "id": 1276547799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.94227,6.76004,-68.94227,6.76004",
+    "geom:latitude":6.76004,
+    "geom:longitude":-68.94227,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Riecito",
+    "gn:country_code":"VE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629162,
+    "gn:latitude":6.76004,
+    "gn:longitude":-68.94227,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Riecito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1o Riecito",
+        "Riecito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421180899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629162
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"73551662a2eb3869084a7fb1f57c8cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180899,
+            "locality_id":1276547799,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276547799,
+    "wof:lastmodified":1537713523,
+    "wof:name":"Riecito",
+    "wof:parent_id":421180899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.94227,
+    6.76004,
+    -68.94227,
+    6.76004
+],
+  "geometry": {"coordinates":[-68.94226999999999,6.76004],"type":"Point"}
+}

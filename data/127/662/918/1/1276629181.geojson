@@ -1,0 +1,67 @@
+{
+  "id": 1276629181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.87875,7.48666,-71.87875,7.48666",
+    "geom:latitude":7.48666,
+    "geom:longitude":-71.87875,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Cano de Nula",
+    "gn:country_code":"VE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795002,
+    "gn:latitude":7.48666,
+    "gn:longitude":-71.87875,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"Ca\u00f1o de Nula",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795002
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"91ae22f7f8a8ee49e3cde7ea19136019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694191,
+            "locality_id":1276629181,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276629181,
+    "wof:lastmodified":1536878912,
+    "wof:name":"Cano de Nula",
+    "wof:parent_id":1108694191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.87875,
+    7.48666,
+    -71.87875,
+    7.48666
+],
+  "geometry": {"coordinates":[-71.87875,7.48666],"type":"Point"}
+}

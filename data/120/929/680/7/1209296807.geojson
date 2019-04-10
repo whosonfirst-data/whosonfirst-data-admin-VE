@@ -1,0 +1,61 @@
+{
+  "id": 1209296807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.07556,10.08472,-66.07556,10.08472",
+    "geom:latitude":10.08472,
+    "geom:longitude":-66.07556,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Guayas",
+    "gn:country_code":"VE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639798,
+    "gn:latitude":10.08472,
+    "gn:longitude":-66.07556,
+    "gn:modification_date":"1995-08-23",
+    "gn:name":"Guayas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639798
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b689b7e80268d35512f4b0e5cda38bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209296807
+        }
+    ],
+    "wof:id":1209296807,
+    "wof:lastmodified":1536291497,
+    "wof:name":"Guayas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.07556,
+    10.08472,
+    -66.07556,
+    10.08472
+],
+  "geometry": {"coordinates":[-66.07556,10.08472],"type":"Point"}
+}

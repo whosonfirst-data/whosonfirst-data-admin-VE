@@ -1,0 +1,61 @@
+{
+  "id": 1209674445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10567,7.58619,-72.10567,7.58619",
+    "geom:latitude":7.58619,
+    "geom:longitude":-72.10567,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"La Laguna",
+    "gn:country_code":"VE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758800,
+    "gn:latitude":7.58619,
+    "gn:longitude":-72.10567,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Laguna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758800
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ff69d2903ef9f14719dca6a1abccabbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209674445
+        }
+    ],
+    "wof:id":1209674445,
+    "wof:lastmodified":1536279805,
+    "wof:name":"La Laguna",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10566999999998,
+    7.586189999999998,
+    -72.10566999999998,
+    7.586189999999998
+],
+  "geometry": {"coordinates":[-72.10566999999998,7.58619],"type":"Point"}
+}

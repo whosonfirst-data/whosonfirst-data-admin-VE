@@ -1,0 +1,67 @@
+{
+  "id": 1293591329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.25722,9.10972,-64.25722,9.10972",
+    "geom:latitude":9.10972,
+    "geom:longitude":-64.25722,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Polocas",
+    "gn:country_code":"VE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635407,
+    "gn:latitude":9.10972,
+    "gn:longitude":-64.25722,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"Las Polocas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635407
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"04c926d427866fa8175f25e1947384c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1293591329,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293591329,
+    "wof:lastmodified":1536636192,
+    "wof:name":"Las Polocas",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.25721999999999,
+    9.10972,
+    -64.25721999999999,
+    9.10972
+],
+  "geometry": {"coordinates":[-64.25721999999999,9.10972],"type":"Point"}
+}

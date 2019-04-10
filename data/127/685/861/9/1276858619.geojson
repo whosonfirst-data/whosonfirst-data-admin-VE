@@ -1,0 +1,67 @@
+{
+  "id": 1276858619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.54333,10.83167,-69.54333,10.83167",
+    "geom:latitude":10.83167,
+    "geom:longitude":-69.54333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Osa",
+    "gn:country_code":"VE",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3751017,
+    "gn:latitude":10.83167,
+    "gn:longitude":-69.54333,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"La Osa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1049114e1cc37fa56071d8ef2e34ca41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1276858619,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276858619,
+    "wof:lastmodified":1537066664,
+    "wof:name":"La Osa",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.54333000000001,
+    10.83167,
+    -69.54333000000001,
+    10.83167
+],
+  "geometry": {"coordinates":[-69.54333000000001,10.83167],"type":"Point"}
+}

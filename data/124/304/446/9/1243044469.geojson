@@ -1,0 +1,67 @@
+{
+  "id": 1243044469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.91124,9.29928,-65.91124,9.29928",
+    "geom:latitude":9.29928,
+    "geom:longitude":-65.91124,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Macura",
+    "gn:country_code":"VE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3773193,
+    "gn:latitude":9.29928,
+    "gn:longitude":-65.91124,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Macura",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773193
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f81d6a052fd1eb17e68994a82c7d8b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1243044469,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1243044469,
+    "wof:lastmodified":1536887654,
+    "wof:name":"Macura",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.91124,
+    9.29928,
+    -65.91124,
+    9.29928
+],
+  "geometry": {"coordinates":[-65.91124000000001,9.29928],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327016415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87274,8.95692,-65.87274,8.95692",
+    "geom:latitude":8.95692,
+    "geom:longitude":-65.87274,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mohomal",
+    "gn:country_code":"VE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3773443,
+    "gn:latitude":8.95692,
+    "gn:longitude":-65.87274,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Mohomal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773443
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"94d1876eb57fed4e0ef59b81a6abc161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694175,
+            "locality_id":1327016415,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1327016415,
+    "wof:lastmodified":1536784063,
+    "wof:name":"Mohomal",
+    "wof:parent_id":1108694175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87274000000001,
+    8.95692,
+    -65.87274000000001,
+    8.95692
+],
+  "geometry": {"coordinates":[-65.87274000000001,8.95692],"type":"Point"}
+}

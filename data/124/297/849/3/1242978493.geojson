@@ -1,0 +1,74 @@
+{
+  "id": 1242978493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.71972,8.8325,-63.71972,8.8325",
+    "geom:latitude":8.8325,
+    "geom:longitude":-63.71972,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Fundacion",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637819,
+    "gn:latitude":8.8325,
+    "gn:longitude":-63.71972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Fundaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Fundasi\u00f3n",
+        "La Fundaci\u00f3n Tigre",
+        "La Fundacion del Tigre",
+        "La Fundaci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637819
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4ce913f9e5cc52b5c0a1a12df96bf2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1242978493,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1242978493,
+    "wof:lastmodified":1537713570,
+    "wof:name":"La Fundacion",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.71972,
+    8.8325,
+    -63.71972,
+    8.8325
+],
+  "geometry": {"coordinates":[-63.71972,8.8325],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209291767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.00772,12.01019,-70.00772,12.01019",
+    "geom:latitude":12.01019,
+    "geom:longitude":-70.00772,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Antuni",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785524,
+    "gn:latitude":12.01019,
+    "gn:longitude":-70.00772,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Antuni",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785524
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"158e9411d99264e710eb4a1a02c27e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209291767
+        }
+    ],
+    "wof:id":1209291767,
+    "wof:lastmodified":1536291669,
+    "wof:name":"Antuni",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.00771999999999,
+    12.01019,
+    -70.00771999999999,
+    12.01019
+],
+  "geometry": {"coordinates":[-70.00771999999999,12.01019],"type":"Point"}
+}

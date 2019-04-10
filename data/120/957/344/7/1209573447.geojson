@@ -1,0 +1,61 @@
+{
+  "id": 1209573447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80178,9.86772,-72.80178,9.86772",
+    "geom:latitude":9.86772,
+    "geom:longitude":-72.80178,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Chaparro",
+    "gn:country_code":"VE",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741536,
+    "gn:latitude":9.86772,
+    "gn:longitude":-72.80178,
+    "gn:modification_date":"1995-08-09",
+    "gn:name":"Chaparro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741536
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"58ef35fb87f21fb839f5f2d5a1dcdffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209573447
+        }
+    ],
+    "wof:id":1209573447,
+    "wof:lastmodified":1536283012,
+    "wof:name":"Chaparro",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80178000000002,
+    9.86772,
+    -72.80178000000002,
+    9.86772
+],
+  "geometry": {"coordinates":[-72.80178000000002,9.86772],"type":"Point"}
+}

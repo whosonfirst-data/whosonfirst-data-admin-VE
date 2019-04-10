@@ -1,0 +1,107 @@
+{
+  "id": 421185949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.886131,10.9819145,-63.886131,10.9819145",
+    "geom:latitude":10.981915,
+    "geom:longitude":-63.886131,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u5df4\u8036\u5fb7\u723e\u57c3\u65af\u76ae\u91cc\u5716\u6851\u6258"
+    ],
+    "name:dut_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:eng_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:fra_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:fre_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:ger_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:por_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0412\u0430\u043b\u044c\u0435-\u0434\u0435\u043b\u044c-\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5df4\u8036\u5fb7\u723e\u57c3\u65af\u76ae\u91cc\u5716\u6851\u6258"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Valle del Esp\u00edritu Santo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":146,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1055479,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468213,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":283,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421170035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468213,
+        "qs:id":1055479,
+        "wd:id":"Q3050296"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009459,
+    "wof:geomhash":"e32c17d921efe5dcc7c88a5364d55aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421170035,
+            "locality_id":421185949,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421185949,
+    "wof:lastmodified":1527726506,
+    "wof:name":"El Valle del Esp\u00edritu Santo",
+    "wof:parent_id":421170035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.886131,
+    10.9819145,
+    -63.886131,
+    10.9819145
+],
+  "geometry": {"coordinates":[-63.886131,10.9819145],"type":"Point"}
+}

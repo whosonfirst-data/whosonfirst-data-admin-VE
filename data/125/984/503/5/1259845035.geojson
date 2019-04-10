@@ -1,0 +1,67 @@
+{
+  "id": 1259845035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93333,9.15,-68.93333,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":-68.93333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Uno",
+    "gn:country_code":"VE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629993,
+    "gn:latitude":9.15,
+    "gn:longitude":-68.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Poblado Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629993
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d67d835154db5953f0636c2da944ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694417,
+            "locality_id":1259845035,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1259845035,
+    "wof:lastmodified":1536833618,
+    "wof:name":"Poblado Uno",
+    "wof:parent_id":1108694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93333,
+    9.15,
+    -68.93333,
+    9.15
+],
+  "geometry": {"coordinates":[-68.93333,9.15],"type":"Point"}
+}

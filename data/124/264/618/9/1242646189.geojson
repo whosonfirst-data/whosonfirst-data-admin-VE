@@ -1,0 +1,71 @@
+{
+  "id": 1242646189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.35696,9.61892,-70.35696,9.61892",
+    "geom:latitude":9.61892,
+    "geom:longitude":-70.35696,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Chejende",
+    "gn:country_code":"VE",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3645827,
+    "gn:latitude":9.61892,
+    "gn:longitude":-70.35696,
+    "gn:modification_date":"2012-01-11",
+    "gn:name":"Chejend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chejend\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645827
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"24d57ba9875780b579565d642d6d7080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694143,
+            "locality_id":1242646189,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1242646189,
+    "wof:lastmodified":1537713619,
+    "wof:name":"Chejende",
+    "wof:parent_id":1108694143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.35696,
+    9.61892,
+    -70.35696,
+    9.61892
+],
+  "geometry": {"coordinates":[-70.35696,9.61892],"type":"Point"}
+}

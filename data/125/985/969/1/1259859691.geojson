@@ -1,0 +1,67 @@
+{
+  "id": 1259859691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42078,10.83577,-70.42078,10.83577",
+    "geom:latitude":10.83577,
+    "geom:longitude":-70.42078,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tupure",
+    "gn:country_code":"VE",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625866,
+    "gn:latitude":10.83577,
+    "gn:longitude":-70.42078,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tupure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625866
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"acc8438ce7cc16c09c8e99a397b0fe36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1259859691,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259859691,
+    "wof:lastmodified":1536812882,
+    "wof:name":"Tupure",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42078000000002,
+    10.83577,
+    -70.42078000000002,
+    10.83577
+],
+  "geometry": {"coordinates":[-70.42078000000002,10.83577],"type":"Point"}
+}

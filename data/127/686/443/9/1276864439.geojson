@@ -1,0 +1,72 @@
+{
+  "id": 1276864439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.58333,8.41667,-68.58333,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-68.58333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Flor Amarilla",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637930,
+    "gn:latitude":8.41667,
+    "gn:longitude":-68.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Flor Amarilla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flor Amarilla",
+        "La Flor Amarilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637930
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80b39b448842bd879b449245286e03f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1276864439,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276864439,
+    "wof:lastmodified":1537713570,
+    "wof:name":"La Flor Amarilla",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.58333,
+    8.41667,
+    -68.58333,
+    8.41667
+],
+  "geometry": {"coordinates":[-68.58333,8.41667],"type":"Point"}
+}

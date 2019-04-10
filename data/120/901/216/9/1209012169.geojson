@@ -1,0 +1,66 @@
+{
+  "id": 1209012169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.13333,8.2,-63.13333,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":-63.13333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Morichal Hondo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631944,
+    "gn:latitude":8.2,
+    "gn:longitude":-63.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Morichal Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morichal Honda",
+        "Morichal Hondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631944
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4499a55cf4b62af8004e0389f7acf09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209012169
+        }
+    ],
+    "wof:id":1209012169,
+    "wof:lastmodified":1537713537,
+    "wof:name":"Morichal Hondo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.13333000000001,
+    8.2,
+    -63.13333000000001,
+    8.2
+],
+  "geometry": {"coordinates":[-63.13333000000001,8.2],"type":"Point"}
+}

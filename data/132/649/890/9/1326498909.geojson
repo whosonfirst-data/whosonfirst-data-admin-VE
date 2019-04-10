@@ -1,0 +1,67 @@
+{
+  "id": 1326498909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72638,10.29327,-68.72638,10.29327",
+    "geom:latitude":10.29327,
+    "geom:longitude":-68.72638,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"La Cumaca",
+    "gn:country_code":"VE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794313,
+    "gn:latitude":10.29327,
+    "gn:longitude":-68.72638,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"La Cumaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        890450031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794313
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fb7442ef5629b1e263073b235a9601c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890450031,
+            "locality_id":1326498909,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1326498909,
+    "wof:lastmodified":1537030829,
+    "wof:name":"La Cumaca",
+    "wof:parent_id":890450031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72638,
+    10.29327,
+    -68.72638,
+    10.29327
+],
+  "geometry": {"coordinates":[-68.72638000000001,10.29327],"type":"Point"}
+}

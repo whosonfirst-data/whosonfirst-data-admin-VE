@@ -1,0 +1,85 @@
+{
+  "id": 1310267419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05223,9.30878,-70.05223,9.30878",
+    "geom:latitude":9.30878,
+    "geom:longitude":-70.05223,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"VE",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627736,
+    "gn:latitude":9.30878,
+    "gn:longitude":-70.05223,
+    "gn:modification_date":"2012-10-18",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Rafael de Palo Alzado"
+    ],
+    "name:eng_x_variant":[
+        "San Rafael"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael de Palo Alzado"
+    ],
+    "name:por_x_variant":[
+        "San Rafael"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael de Palo Alzado"
+    ],
+    "name:spa_x_variant":[
+        "San Rafael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e39e08b4217a64def5a460ad8a11ec15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694441,
+            "locality_id":1310267419,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1310267419,
+    "wof:lastmodified":1537575801,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1108694441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05223000000001,
+    9.30878,
+    -70.05223000000001,
+    9.30878
+],
+  "geometry": {"coordinates":[-70.05223000000001,9.30878],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292924787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.58581,9.81637,-68.58581,9.81637",
+    "geom:latitude":9.81637,
+    "geom:longitude":-68.58581,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Las Turcas",
+    "gn:country_code":"VE",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635277,
+    "gn:latitude":9.81637,
+    "gn:longitude":-68.58581,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Las Turcas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635277
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"52cfa18d33570110e5b1bbb2e1d532aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1292924787,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1292924787,
+    "wof:lastmodified":1536600982,
+    "wof:name":"Las Turcas",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.58581,
+    9.81637,
+    -68.58581,
+    9.81637
+],
+  "geometry": {"coordinates":[-68.58581,9.81637],"type":"Point"}
+}

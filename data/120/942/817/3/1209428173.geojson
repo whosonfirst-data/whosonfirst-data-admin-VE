@@ -1,0 +1,61 @@
+{
+  "id": 1209428173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.01485,3.88633,-67.01485,3.88633",
+    "geom:latitude":3.88633,
+    "geom:longitude":-67.01485,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Isla Puerco Espin",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763850,
+    "gn:latitude":3.88633,
+    "gn:longitude":-67.01485,
+    "gn:modification_date":"2001-01-02",
+    "gn:name":"Isla Puerco Esp\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763850
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3eb372782c3cea0070577d81f8b6eace",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209428173
+        }
+    ],
+    "wof:id":1209428173,
+    "wof:lastmodified":1536287316,
+    "wof:name":"Isla Puerco Espin",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.01485,
+    3.886330000000001,
+    -67.01485,
+    3.886330000000001
+],
+  "geometry": {"coordinates":[-67.01485,3.88633],"type":"Point"}
+}

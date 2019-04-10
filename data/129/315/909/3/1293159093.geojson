@@ -1,0 +1,67 @@
+{
+  "id": 1293159093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88869,10.44524,-68.88869,10.44524",
+    "geom:latitude":10.44524,
+    "geom:longitude":-68.88869,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Titiara",
+    "gn:country_code":"VE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794679,
+    "gn:latitude":10.44524,
+    "gn:longitude":-68.88869,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Titiara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794679
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"72e5920ffec25f3592f093dc0dfe698e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694125,
+            "locality_id":1293159093,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1293159093,
+    "wof:lastmodified":1536764022,
+    "wof:name":"Titiara",
+    "wof:parent_id":1108694125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88869,
+    10.44524,
+    -68.88869,
+    10.44524
+],
+  "geometry": {"coordinates":[-68.88869,10.44524],"type":"Point"}
+}

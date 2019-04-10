@@ -1,0 +1,67 @@
+{
+  "id": 1360186661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.47028,9.40429,-64.47028,9.40429",
+    "geom:latitude":9.40429,
+    "geom:longitude":-64.47028,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Curva de Billo",
+    "gn:country_code":"VE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3754691,
+    "gn:latitude":9.40429,
+    "gn:longitude":-64.47028,
+    "gn:modification_date":"1996-08-26",
+    "gn:name":"Curva de Billo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421175071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3754691
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae5fa3c289908e757e1387c707bcea4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175071,
+            "locality_id":1360186661,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360186661,
+    "wof:lastmodified":1536799189,
+    "wof:name":"Curva de Billo",
+    "wof:parent_id":421175071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.47028,
+    9.40429,
+    -64.47028,
+    9.40429
+],
+  "geometry": {"coordinates":[-64.47028,9.40429],"type":"Point"}
+}

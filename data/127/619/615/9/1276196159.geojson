@@ -1,0 +1,67 @@
+{
+  "id": 1276196159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13364,8.15732,-71.13364,8.15732",
+    "geom:latitude":8.15732,
+    "geom:longitude":-71.13364,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Canadon",
+    "gn:country_code":"VE",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643992,
+    "gn:latitude":8.15732,
+    "gn:longitude":-71.13364,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Ca\u00f1ad\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643992
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"62c3bc1e8d96702dd3ea62afe1675ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694095,
+            "locality_id":1276196159,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1276196159,
+    "wof:lastmodified":1536962722,
+    "wof:name":"El Canadon",
+    "wof:parent_id":1108694095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13364,
+    8.15732,
+    -71.13364,
+    8.15732
+],
+  "geometry": {"coordinates":[-71.13364,8.15732],"type":"Point"}
+}

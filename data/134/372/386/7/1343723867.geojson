@@ -1,0 +1,61 @@
+{
+  "id": 1343723867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.2,10.53333,-64.2,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":-64.2,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Los Taques",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633630,
+    "gn:latitude":10.53333,
+    "gn:longitude":-64.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Taques",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633630
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"377d1d89629ec2f76d9e18ff1de89d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343723867,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343723867,
+    "wof:lastmodified":1536862405,
+    "wof:name":"Los Taques",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.2,
+    10.53333,
+    -64.2,
+    10.53333
+],
+  "geometry": {"coordinates":[-64.2,10.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276659327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.98695,9.60497,-64.98695,9.60497",
+    "geom:latitude":9.60497,
+    "geom:longitude":-64.98695,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Paraulata",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630719,
+    "gn:latitude":9.60497,
+    "gn:longitude":-64.98695,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Paraulata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630719
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2242eecdfdd317893b9b47b157f2e69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1276659327,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276659327,
+    "wof:lastmodified":1536837906,
+    "wof:name":"Paraulata",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.98695,
+    9.60497,
+    -64.98695,
+    9.60497
+],
+  "geometry": {"coordinates":[-64.98694999999999,9.60497],"type":"Point"}
+}

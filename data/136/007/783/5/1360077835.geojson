@@ -1,0 +1,67 @@
+{
+  "id": 1360077835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63333,8.56667,-70.63333,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":-70.63333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Veladero",
+    "gn:country_code":"VE",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625459,
+    "gn:latitude":8.56667,
+    "gn:longitude":-70.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Veladero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625459
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d816988c446d9be75277849c859ecaa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1360077835,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1360077835,
+    "wof:lastmodified":1536956239,
+    "wof:name":"Veladero",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63333,
+    8.56667,
+    -70.63333,
+    8.56667
+],
+  "geometry": {"coordinates":[-70.63333,8.56667],"type":"Point"}
+}

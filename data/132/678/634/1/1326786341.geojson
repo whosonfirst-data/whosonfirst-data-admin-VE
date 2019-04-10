@@ -1,0 +1,71 @@
+{
+  "id": 1326786341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05865,9.17576,-71.05865,9.17576",
+    "geom:latitude":9.17576,
+    "geom:longitude":-71.05865,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Capiu Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646791,
+    "gn:latitude":9.17576,
+    "gn:longitude":-71.05865,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Capi\u00fa Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capi\u00fa Abalo",
+        "Capi\u00fa Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646791
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"53ccde184ebe7e993ba10f5337f7d278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1326786341,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326786341,
+    "wof:lastmodified":1537713623,
+    "wof:name":"Capiu Abajo",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05865,
+    9.17576,
+    -71.05865,
+    9.17576
+],
+  "geometry": {"coordinates":[-71.05865,9.17576],"type":"Point"}
+}

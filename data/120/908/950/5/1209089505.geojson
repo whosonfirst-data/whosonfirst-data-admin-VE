@@ -1,0 +1,61 @@
+{
+  "id": 1209089505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4604,8.46407,-71.4604,8.46407",
+    "geom:latitude":8.46407,
+    "geom:longitude":-71.4604,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Playon",
+    "gn:country_code":"VE",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641979,
+    "gn:latitude":8.46407,
+    "gn:longitude":-71.4604,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Play\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641979
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"66de19f90fda344ca5b4eb587f33e2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209089505
+        }
+    ],
+    "wof:id":1209089505,
+    "wof:lastmodified":1536298079,
+    "wof:name":"El Playon",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4604,
+    8.46407,
+    -71.4604,
+    8.46407
+],
+  "geometry": {"coordinates":[-71.46040000000001,8.46407],"type":"Point"}
+}

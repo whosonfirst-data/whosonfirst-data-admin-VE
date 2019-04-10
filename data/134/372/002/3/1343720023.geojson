@@ -1,0 +1,71 @@
+{
+  "id": 1343720023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06218,10.91597,-72.06218,10.91597",
+    "geom:latitude":10.91597,
+    "geom:longitude":-72.06218,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Matacan",
+    "gn:country_code":"VE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642646,
+    "gn:latitude":10.91597,
+    "gn:longitude":-72.06218,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Matac\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matac\u00e1n",
+        "El Matac\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642646
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a40391c1bf5b27be0a4097d68adf2439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1343720023,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343720023,
+    "wof:lastmodified":1537713598,
+    "wof:name":"El Matacan",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06218,
+    10.91597,
+    -72.06218,
+    10.91597
+],
+  "geometry": {"coordinates":[-72.06218,10.91597],"type":"Point"}
+}

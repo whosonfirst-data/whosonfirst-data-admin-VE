@@ -1,0 +1,67 @@
+{
+  "id": 1310702839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.2571,6.9558,-68.2571,6.9558",
+    "geom:latitude":6.9558,
+    "geom:longitude":-68.2571,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Naure",
+    "gn:country_code":"VE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642436,
+    "gn:latitude":6.9558,
+    "gn:longitude":-68.2571,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"El \u00d1aure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642436
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"abc204519a7d589c5bcde4668c3fd19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1310702839,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1310702839,
+    "wof:lastmodified":1536630585,
+    "wof:name":"El Naure",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.2571,
+    6.9558,
+    -68.2571,
+    6.9558
+],
+  "geometry": {"coordinates":[-68.25709999999999,6.9558],"type":"Point"}
+}

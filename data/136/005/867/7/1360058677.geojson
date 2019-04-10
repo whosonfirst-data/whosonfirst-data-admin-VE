@@ -1,0 +1,67 @@
+{
+  "id": 1360058677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.58019,8.69111,-71.58019,8.69111",
+    "geom:latitude":8.69111,
+    "geom:longitude":-71.58019,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cano Blanco",
+    "gn:country_code":"VE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646991,
+    "gn:latitude":8.69111,
+    "gn:longitude":-71.58019,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Ca\u00f1o Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646991
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7499a0c0ebf7bf28980abae1bbf3ce66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1360058677,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1360058677,
+    "wof:lastmodified":1536983141,
+    "wof:name":"Cano Blanco",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.58019,
+    8.69111,
+    -71.58019,
+    8.69111
+],
+  "geometry": {"coordinates":[-71.58019,8.69111],"type":"Point"}
+}

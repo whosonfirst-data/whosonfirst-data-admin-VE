@@ -1,0 +1,67 @@
+{
+  "id": 1344131445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.58062,10.4426,-63.58062,10.4426",
+    "geom:latitude":10.4426,
+    "geom:longitude":-63.58062,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Sabana de Brito",
+    "gn:country_code":"VE",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628929,
+    "gn:latitude":10.4426,
+    "gn:longitude":-63.58062,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Sabana de Brito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628929
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8888ed441677c6bae0dae0f383dd548f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1344131445,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1344131445,
+    "wof:lastmodified":1536773885,
+    "wof:name":"Sabana de Brito",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.58062,
+    10.4426,
+    -63.58062,
+    10.4426
+],
+  "geometry": {"coordinates":[-63.58062,10.4426],"type":"Point"}
+}

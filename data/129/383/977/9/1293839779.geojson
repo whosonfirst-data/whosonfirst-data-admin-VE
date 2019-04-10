@@ -1,0 +1,67 @@
+{
+  "id": 1293839779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8275,8.95306,-71.8275,8.95306",
+    "geom:latitude":8.95306,
+    "geom:longitude":-71.8275,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Guaimaral",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765800,
+    "gn:latitude":8.95306,
+    "gn:longitude":-71.8275,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Guaimaral",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765800
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"053e172787ed58f73170d2426519d480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1293839779,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293839779,
+    "wof:lastmodified":1536777039,
+    "wof:name":"Guaimaral",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8275,
+    8.95306,
+    -71.8275,
+    8.95306
+],
+  "geometry": {"coordinates":[-71.8275,8.95306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343247773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6703,10.29629,-67.6703,10.29629",
+    "geom:latitude":10.29629,
+    "geom:longitude":-67.6703,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"La Guaricha",
+    "gn:country_code":"VE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753027,
+    "gn:latitude":10.29629,
+    "gn:longitude":-67.6703,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"La Guaricha",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753027
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ffde49ce2bb7ce3bf440231daeefb1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694171,
+            "locality_id":1343247773,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1343247773,
+    "wof:lastmodified":1537051128,
+    "wof:name":"La Guaricha",
+    "wof:parent_id":1108694171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6703,
+    10.29629,
+    -67.6703,
+    10.29629
+],
+  "geometry": {"coordinates":[-67.6703,10.29629],"type":"Point"}
+}

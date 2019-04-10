@@ -1,0 +1,72 @@
+{
+  "id": 1293573889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.26667,8.91667,-68.26667,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-68.26667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"El Reinoso",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641770,
+    "gn:latitude":8.91667,
+    "gn:longitude":-68.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Reinoso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Reino",
+        "El Reinoso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641770
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"05a199282a7eed4e1424464fa9b1226a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694199,
+            "locality_id":1293573889,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1293573889,
+    "wof:lastmodified":1537713593,
+    "wof:name":"El Reinoso",
+    "wof:parent_id":1108694199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.26666999999999,
+    8.91667,
+    -68.26666999999999,
+    8.91667
+],
+  "geometry": {"coordinates":[-68.26666999999999,8.91667],"type":"Point"}
+}

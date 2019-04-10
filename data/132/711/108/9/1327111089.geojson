@@ -1,0 +1,67 @@
+{
+  "id": 1327111089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.13949,7.90546,-66.13949,7.90546",
+    "geom:latitude":7.90546,
+    "geom:longitude":-66.13949,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Los Arrendajos",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3771877,
+    "gn:latitude":7.90546,
+    "gn:longitude":-66.13949,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Los Arrendajos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771877
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f59e2760db486eec76474b3b870e055b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1327111089,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1327111089,
+    "wof:lastmodified":1536646529,
+    "wof:name":"Los Arrendajos",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.13949000000001,
+    7.90546,
+    -66.13949000000001,
+    7.90546
+],
+  "geometry": {"coordinates":[-66.13949000000001,7.90546],"type":"Point"}
+}

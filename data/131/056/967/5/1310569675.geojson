@@ -1,0 +1,67 @@
+{
+  "id": 1310569675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05495,9.91191,-72.05495,9.91191",
+    "geom:latitude":9.91191,
+    "geom:longitude":-72.05495,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Macana",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633519,
+    "gn:latitude":9.91191,
+    "gn:longitude":-72.05495,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macano",
+        "Macanas",
+        "Macanos",
+        "Macana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633519
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"95acee0c0d3af9ef1a6646e28b24ab1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310569675,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310569675,
+    "wof:lastmodified":1537713545,
+    "wof:name":"Macana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05495,
+    9.91191,
+    -72.05495,
+    9.91191
+],
+  "geometry": {"coordinates":[-72.05495000000001,9.91191],"type":"Point"}
+}

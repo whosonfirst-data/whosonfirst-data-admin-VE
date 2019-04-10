@@ -1,0 +1,67 @@
+{
+  "id": 1327004517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.28551,10.36647,-64.28551,10.36647",
+    "geom:latitude":10.36647,
+    "geom:longitude":-64.28551,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Matacual",
+    "gn:country_code":"VE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796222,
+    "gn:latitude":10.36647,
+    "gn:longitude":-64.28551,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Matacual",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796222
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"60f288ea4c75062b2bb84ef82d2c182b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1327004517,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1327004517,
+    "wof:lastmodified":1536800845,
+    "wof:name":"Matacual",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.28551,
+    10.36647,
+    -64.28551,
+    10.36647
+],
+  "geometry": {"coordinates":[-64.28551,10.36647],"type":"Point"}
+}

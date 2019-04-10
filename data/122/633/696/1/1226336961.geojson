@@ -1,0 +1,67 @@
+{
+  "id": 1226336961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.55,6.25,-61.55,6.25",
+    "geom:latitude":6.25,
+    "geom:longitude":-61.55,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Corocoro",
+    "gn:country_code":"VE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645158,
+    "gn:latitude":6.25,
+    "gn:longitude":-61.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Corocoro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421198671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645158
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5028b3bfe8b11d89bb63df21d0cae35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198671,
+            "locality_id":1226336961,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1226336961,
+    "wof:lastmodified":1536802153,
+    "wof:name":"Corocoro",
+    "wof:parent_id":421198671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.55,
+    6.25,
+    -61.55,
+    6.25
+],
+  "geometry": {"coordinates":[-61.55,6.25],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276328461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65167,8.5725,-61.65167,8.5725",
+    "geom:latitude":8.5725,
+    "geom:longitude":-61.65167,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Sacupana",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628796,
+    "gn:latitude":8.5725,
+    "gn:longitude":-61.65167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sacupana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sacupana del Cerro",
+        "Sacupana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421183445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628796
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6f16935eb7a8d35e965c35df32c836cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183445,
+            "locality_id":1276328461,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1276328461,
+    "wof:lastmodified":1537713522,
+    "wof:name":"Sacupana",
+    "wof:parent_id":421183445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65167,
+    8.5725,
+    -61.65167,
+    8.5725
+],
+  "geometry": {"coordinates":[-61.65167,8.5725],"type":"Point"}
+}

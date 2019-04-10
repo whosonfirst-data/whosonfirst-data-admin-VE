@@ -1,0 +1,61 @@
+{
+  "id": 1209376817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.37167,10.56778,-63.37167,10.56778",
+    "geom:latitude":10.56778,
+    "geom:longitude":-63.37167,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cacahual",
+    "gn:country_code":"VE",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797073,
+    "gn:latitude":10.56778,
+    "gn:longitude":-63.37167,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Cacahual",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797073
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb3eb1df8cc3958c6657a3e474938cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209376817
+        }
+    ],
+    "wof:id":1209376817,
+    "wof:lastmodified":1536288921,
+    "wof:name":"Cacahual",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.37167,
+    10.56778,
+    -63.37167,
+    10.56778
+],
+  "geometry": {"coordinates":[-63.37167,10.56778],"type":"Point"}
+}

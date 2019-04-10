@@ -1,0 +1,67 @@
+{
+  "id": 1327308109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.53729,7.56698,-71.53729,7.56698",
+    "geom:latitude":7.56698,
+    "geom:longitude":-71.53729,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Los Pensamientos",
+    "gn:country_code":"VE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795428,
+    "gn:latitude":7.56698,
+    "gn:longitude":-71.53729,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Los Pensamientos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795428
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"59c5e7824d13298b65794138fd071c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694257,
+            "locality_id":1327308109,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1327308109,
+    "wof:lastmodified":1536859057,
+    "wof:name":"Los Pensamientos",
+    "wof:parent_id":1108694257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.53729,
+    7.56698,
+    -71.53729,
+    7.56698
+],
+  "geometry": {"coordinates":[-71.53729,7.56698],"type":"Point"}
+}

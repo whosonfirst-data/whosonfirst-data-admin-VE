@@ -1,0 +1,67 @@
+{
+  "id": 1344115821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38746,7.96261,-72.38746,7.96261",
+    "geom:latitude":7.96261,
+    "geom:longitude":-72.38746,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Las Guineas",
+    "gn:country_code":"VE",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759026,
+    "gn:latitude":7.96261,
+    "gn:longitude":-72.38746,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Las Guineas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759026
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0a61fd176b5a2e655056bf68b93d1359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694347,
+            "locality_id":1344115821,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1344115821,
+    "wof:lastmodified":1536796112,
+    "wof:name":"Las Guineas",
+    "wof:parent_id":1108694347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38746,
+    7.96261,
+    -72.38746,
+    7.96261
+],
+  "geometry": {"coordinates":[-72.38746,7.96261],"type":"Point"}
+}

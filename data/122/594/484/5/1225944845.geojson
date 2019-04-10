@@ -1,0 +1,67 @@
+{
+  "id": 1225944845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.73227,7.25489,-70.73227,7.25489",
+    "geom:latitude":7.25489,
+    "geom:longitude":-70.73227,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Manga",
+    "gn:country_code":"VE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3805092,
+    "gn:latitude":7.25489,
+    "gn:longitude":-70.73227,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Manga",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805092
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5a1f546a9bdd949084d9f5c53057d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1225944845,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1225944845,
+    "wof:lastmodified":1536869537,
+    "wof:name":"La Manga",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.73227,
+    7.25489,
+    -70.73227,
+    7.25489
+],
+  "geometry": {"coordinates":[-70.73227,7.25489],"type":"Point"}
+}

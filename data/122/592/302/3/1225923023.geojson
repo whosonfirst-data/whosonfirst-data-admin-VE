@@ -1,0 +1,67 @@
+{
+  "id": 1225923023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.18255,10.48079,-70.18255,10.48079",
+    "geom:latitude":10.48079,
+    "geom:longitude":-70.18255,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Carrizal",
+    "gn:country_code":"VE",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646450,
+    "gn:latitude":10.48079,
+    "gn:longitude":-70.18255,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Carrizal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646450
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7da1be3be6f768605284d825b36ecd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1225923023,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1225923023,
+    "wof:lastmodified":1536902414,
+    "wof:name":"Carrizal",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.18255,
+    10.48079,
+    -70.18255,
+    10.48079
+],
+  "geometry": {"coordinates":[-70.18255000000001,10.48079],"type":"Point"}
+}

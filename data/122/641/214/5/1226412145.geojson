@@ -1,0 +1,71 @@
+{
+  "id": 1226412145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.74648,10.44419,-66.74648,10.44419",
+    "geom:latitude":10.44419,
+    "geom:longitude":-66.74648,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Peraza",
+    "gn:country_code":"VE",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636767,
+    "gn:latitude":10.44419,
+    "gn:longitude":-66.74648,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Peraza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peraza",
+        "La Peraza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636767
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d6d0e5fd5fa4d06154b51d8d770910c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171381,
+            "locality_id":1226412145,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226412145,
+    "wof:lastmodified":1537713564,
+    "wof:name":"La Peraza",
+    "wof:parent_id":421171381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.74648,
+    10.44419,
+    -66.74648,
+    10.44419
+],
+  "geometry": {"coordinates":[-66.74648000000001,10.44419],"type":"Point"}
+}

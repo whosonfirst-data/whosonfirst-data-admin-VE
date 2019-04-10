@@ -1,0 +1,67 @@
+{
+  "id": 1276751009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2553,11.05251,-70.2553,11.05251",
+    "geom:latitude":11.05251,
+    "geom:longitude":-70.2553,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cabeza de Toro",
+    "gn:country_code":"VE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740791,
+    "gn:latitude":11.05251,
+    "gn:longitude":-70.2553,
+    "gn:modification_date":"1995-07-03",
+    "gn:name":"Cabeza de Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740791
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"56fc30c3fc038299172d2c768c1a67c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694471,
+            "locality_id":1276751009,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276751009,
+    "wof:lastmodified":1536716604,
+    "wof:name":"Cabeza de Toro",
+    "wof:parent_id":1108694471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.2553,
+    11.05251,
+    -70.2553,
+    11.05251
+],
+  "geometry": {"coordinates":[-70.25530000000001,11.05251],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327335563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.3706,9.31765,-64.3706,9.31765",
+    "geom:latitude":9.31765,
+    "geom:longitude":-64.3706,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Pericoco",
+    "gn:country_code":"VE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3751360,
+    "gn:latitude":9.31765,
+    "gn:longitude":-64.3706,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"El Pericoco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751360
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a65bddcf154a3233ac9bbb7775507cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1327335563,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327335563,
+    "wof:lastmodified":1536819753,
+    "wof:name":"El Pericoco",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.3706,
+    9.31765,
+    -64.3706,
+    9.31765
+],
+  "geometry": {"coordinates":[-64.3706,9.31765],"type":"Point"}
+}

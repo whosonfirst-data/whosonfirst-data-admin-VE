@@ -1,0 +1,67 @@
+{
+  "id": 1225847081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81327,9.97038,-64.81327,9.97038",
+    "geom:latitude":9.97038,
+    "geom:longitude":-64.81327,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bajo de la Cruz",
+    "gn:country_code":"VE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486194,
+    "gn:latitude":9.97038,
+    "gn:longitude":-64.81327,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bajo de la Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486194
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8ef78770824533ee347c94e4115ba9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1225847081,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1225847081,
+    "wof:lastmodified":1537011029,
+    "wof:name":"Bajo de la Cruz",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81326999999999,
+    9.97038,
+    -64.81326999999999,
+    9.97038
+],
+  "geometry": {"coordinates":[-64.81326999999999,9.97038],"type":"Point"}
+}

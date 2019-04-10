@@ -1,0 +1,67 @@
+{
+  "id": 1293359367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68675,9.11486,-70.68675,9.11486",
+    "geom:latitude":9.11486,
+    "geom:longitude":-70.68675,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"La Cortado",
+    "gn:country_code":"VE",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638324,
+    "gn:latitude":9.11486,
+    "gn:longitude":-70.68675,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Cortado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638324
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3c3de51726d6d9b743105ad065f6321a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694477,
+            "locality_id":1293359367,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1293359367,
+    "wof:lastmodified":1536971484,
+    "wof:name":"La Cortado",
+    "wof:parent_id":1108694477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68675,
+    9.11486,
+    -70.68675,
+    9.11486
+],
+  "geometry": {"coordinates":[-70.68675,9.11486],"type":"Point"}
+}

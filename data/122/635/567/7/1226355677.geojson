@@ -1,0 +1,74 @@
+{
+  "id": 1226355677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.06089,1.92027,-67.06089,1.92027",
+    "geom:latitude":1.92027,
+    "geom:longitude":-67.06089,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"San Carlos de Rio Negro",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3628488,
+    "gn:latitude":1.92027,
+    "gn:longitude":-67.06089,
+    "gn:modification_date":"2017-08-18",
+    "gn:name":"San Carlos de R\u00edo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Carlos",
+        "San Carlos de R\u00edo Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628488,
+        "wk:page":"San_Carlos_de_R%C3%ADo_Negro"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"18bc7f49796b99d01affee9466dba6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1226355677,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1226355677,
+    "wof:lastmodified":1537713520,
+    "wof:name":"San Carlos de Rio Negro",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.06089,
+    1.92027,
+    -67.06089,
+    1.92027
+],
+  "geometry": {"coordinates":[-67.06089,1.92027],"type":"Point"}
+}

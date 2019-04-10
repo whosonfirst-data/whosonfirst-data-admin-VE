@@ -1,0 +1,66 @@
+{
+  "id": 1209319547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18333,10.28333,-67.18333,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":-67.18333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"La Empalizada",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638119,
+    "gn:latitude":10.28333,
+    "gn:longitude":-67.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Empalizada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Empalizada",
+        "La Empalizada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638119
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"52f3758bfc968feca6f4cd4f891fff1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209319547
+        }
+    ],
+    "wof:id":1209319547,
+    "wof:lastmodified":1537713571,
+    "wof:name":"La Empalizada",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18333,
+    10.28333,
+    -67.18333,
+    10.28333
+],
+  "geometry": {"coordinates":[-67.18333,10.28333],"type":"Point"}
+}

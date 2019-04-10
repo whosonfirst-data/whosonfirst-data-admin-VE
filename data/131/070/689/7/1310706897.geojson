@@ -1,0 +1,67 @@
+{
+  "id": 1310706897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.39602,10.07807,-67.39602,10.07807",
+    "geom:latitude":10.07807,
+    "geom:longitude":-67.39602,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"La Majada",
+    "gn:country_code":"VE",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637272,
+    "gn:latitude":10.07807,
+    "gn:longitude":-67.39602,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Majada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637272
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"58a880b7da6fac99516ed1f2bdcf013e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1310706897,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1310706897,
+    "wof:lastmodified":1536624330,
+    "wof:name":"La Majada",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.39602,
+    10.07807,
+    -67.39602,
+    10.07807
+],
+  "geometry": {"coordinates":[-67.39601999999999,10.07807],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309710309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75,8.33333,-68.75,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":-68.75,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Hato La Cruz",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639622,
+    "gn:latitude":8.33333,
+    "gn:longitude":-68.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hato La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cruz",
+        "Hato de la Cruz",
+        "Hato La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639622
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3d587833b33650a6da9ed3871b95d541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694203,
+            "locality_id":1309710309,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1309710309,
+    "wof:lastmodified":1537713582,
+    "wof:name":"Hato La Cruz",
+    "wof:parent_id":1108694203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75,
+    8.33333,
+    -68.75,
+    8.33333
+],
+  "geometry": {"coordinates":[-68.75,8.33333],"type":"Point"}
+}

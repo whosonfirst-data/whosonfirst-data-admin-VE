@@ -1,0 +1,67 @@
+{
+  "id": 1293057061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09489,9.92228,-71.09489,9.92228",
+    "geom:latitude":9.92228,
+    "geom:longitude":-71.09489,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Curva",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638174,
+    "gn:latitude":9.92228,
+    "gn:longitude":-71.09489,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"La Curva",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638174
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1939710aa87f64b92fbb1321b012634e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694479,
+            "locality_id":1293057061,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293057061,
+    "wof:lastmodified":1536911188,
+    "wof:name":"La Curva",
+    "wof:parent_id":1108694479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09489,
+    9.92228,
+    -71.09489,
+    9.92228
+],
+  "geometry": {"coordinates":[-71.09489000000001,9.92228],"type":"Point"}
+}

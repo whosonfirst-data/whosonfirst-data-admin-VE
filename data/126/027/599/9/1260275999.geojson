@@ -1,0 +1,67 @@
+{
+  "id": 1260275999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.60075,8.37068,-70.60075,8.37068",
+    "geom:latitude":8.37068,
+    "geom:longitude":-70.60075,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Banco Alto",
+    "gn:country_code":"VE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648631,
+    "gn:latitude":8.37068,
+    "gn:longitude":-70.60075,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Banco Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648631
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd3a43cf28d10a7170fc248742b33618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1260275999,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1260275999,
+    "wof:lastmodified":1536722343,
+    "wof:name":"Banco Alto",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.60075,
+    8.37068,
+    -70.60075,
+    8.37068
+],
+  "geometry": {"coordinates":[-70.60075000000001,8.37068],"type":"Point"}
+}

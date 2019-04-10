@@ -1,0 +1,67 @@
+{
+  "id": 1327146293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95528,9.70278,-63.95528,9.70278",
+    "geom:latitude":9.70278,
+    "geom:longitude":-63.95528,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Capacho",
+    "gn:country_code":"VE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749800,
+    "gn:latitude":9.70278,
+    "gn:longitude":-63.95528,
+    "gn:modification_date":"1996-07-03",
+    "gn:name":"Capacho",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749800
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b4a2a1165d657b0fc4242e702d3bfbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1327146293,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327146293,
+    "wof:lastmodified":1537090672,
+    "wof:name":"Capacho",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95528,
+    9.70278,
+    -63.95528,
+    9.70278
+],
+  "geometry": {"coordinates":[-63.95528,9.70278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327220355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.25419,9.30579,-66.25419,9.30579",
+    "geom:latitude":9.30579,
+    "geom:longitude":-66.25419,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Dos Quebradas",
+    "gn:country_code":"VE",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636000,
+    "gn:latitude":9.30579,
+    "gn:longitude":-66.25419,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Las Dos Quebradas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636000
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"898a3b09f57f0e6b2bb28afe07276c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694159,
+            "locality_id":1327220355,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1327220355,
+    "wof:lastmodified":1536986258,
+    "wof:name":"Las Dos Quebradas",
+    "wof:parent_id":1108694159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.25419000000001,
+    9.30579,
+    -66.25419000000001,
+    9.30579
+],
+  "geometry": {"coordinates":[-66.25419000000001,9.30579],"type":"Point"}
+}

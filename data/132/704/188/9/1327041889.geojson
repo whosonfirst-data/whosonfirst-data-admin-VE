@@ -1,0 +1,67 @@
+{
+  "id": 1327041889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.26174,8.34072,-64.26174,8.34072",
+    "geom:latitude":8.34072,
+    "geom:longitude":-64.26174,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Cuajos",
+    "gn:country_code":"VE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634221,
+    "gn:latitude":8.34072,
+    "gn:longitude":-64.26174,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Los Cuajos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634221
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"83f0ceb2dbdd5ae0d2c13ae0b76a0d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1327041889,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327041889,
+    "wof:lastmodified":1536746438,
+    "wof:name":"Los Cuajos",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.26174,
+    8.34072,
+    -64.26174,
+    8.34072
+],
+  "geometry": {"coordinates":[-64.26174,8.34072],"type":"Point"}
+}

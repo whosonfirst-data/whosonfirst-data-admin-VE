@@ -1,0 +1,67 @@
+{
+  "id": 1293939357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.48333,10.53333,-71.48333,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":-71.48333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Pocito",
+    "gn:country_code":"VE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641966,
+    "gn:latitude":10.53333,
+    "gn:longitude":-71.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Pocito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641966
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"00bd207b31a3c113fb749f1b3857e00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694415,
+            "locality_id":1293939357,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293939357,
+    "wof:lastmodified":1536631438,
+    "wof:name":"El Pocito",
+    "wof:parent_id":1108694415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.48333000000002,
+    10.53333,
+    -71.48333000000002,
+    10.53333
+],
+  "geometry": {"coordinates":[-71.48333000000002,10.53333],"type":"Point"}
+}

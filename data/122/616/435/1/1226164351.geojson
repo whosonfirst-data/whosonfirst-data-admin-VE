@@ -1,0 +1,67 @@
+{
+  "id": 1226164351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16667,7.23333,-65.16667,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":-65.16667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Suapure",
+    "gn:country_code":"VE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626685,
+    "gn:latitude":7.23333,
+    "gn:longitude":-65.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Suapure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421175383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626685
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bf77102657ea1b78735b23193135a0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175383,
+            "locality_id":1226164351,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1226164351,
+    "wof:lastmodified":1537048876,
+    "wof:name":"Suapure",
+    "wof:parent_id":421175383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16667,
+    7.23333,
+    -65.16667,
+    7.23333
+],
+  "geometry": {"coordinates":[-65.16667,7.23333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209184581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.60409,8.08897,-71.60409,8.08897",
+    "geom:latitude":8.08897,
+    "geom:longitude":-71.60409,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Munsal",
+    "gn:country_code":"VE",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642450,
+    "gn:latitude":8.08897,
+    "gn:longitude":-71.60409,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"El Munsal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642450
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3721d58bd28143a9f2c753d47f13c1ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209184581
+        }
+    ],
+    "wof:id":1209184581,
+    "wof:lastmodified":1536295144,
+    "wof:name":"El Munsal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.60409,
+    8.08897,
+    -71.60409,
+    8.08897
+],
+  "geometry": {"coordinates":[-71.60409,8.08897],"type":"Point"}
+}

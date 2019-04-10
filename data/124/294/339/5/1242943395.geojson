@@ -1,0 +1,71 @@
+{
+  "id": 1242943395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76943,8.93505,-70.76943,8.93505",
+    "geom:latitude":8.93505,
+    "geom:longitude":-70.76943,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chachopo",
+    "gn:country_code":"VE",
+    "gn:dem":2625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645970,
+    "gn:latitude":8.93505,
+    "gn:longitude":-70.76943,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chachopo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chachopa",
+        "Chachopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645970
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80fc32ac3cb57fbb48c48772d1532b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694297,
+            "locality_id":1242943395,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1242943395,
+    "wof:lastmodified":1537713619,
+    "wof:name":"Chachopo",
+    "wof:parent_id":1108694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76943,
+    8.93505,
+    -70.76943,
+    8.93505
+],
+  "geometry": {"coordinates":[-70.76943,8.93505],"type":"Point"}
+}

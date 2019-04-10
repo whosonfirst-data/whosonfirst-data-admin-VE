@@ -1,0 +1,67 @@
+{
+  "id": 1344040613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31577,8.44162,-71.31577,8.44162",
+    "geom:latitude":8.44162,
+    "geom:longitude":-71.31577,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Joque",
+    "gn:country_code":"VE",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753729,
+    "gn:latitude":8.44162,
+    "gn:longitude":-71.31577,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Joque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753729
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"64d9694b490e864479ed1a4cfeb7ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171999,
+            "locality_id":1344040613,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1344040613,
+    "wof:lastmodified":1536904466,
+    "wof:name":"El Joque",
+    "wof:parent_id":421171999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31577,
+    8.44162,
+    -71.31577,
+    8.44162
+],
+  "geometry": {"coordinates":[-71.31577,8.44162],"type":"Point"}
+}

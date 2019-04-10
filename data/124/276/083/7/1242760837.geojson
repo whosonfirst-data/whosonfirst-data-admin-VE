@@ -1,0 +1,67 @@
+{
+  "id": 1242760837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67717,8.92377,-70.67717,8.92377",
+    "geom:latitude":8.92377,
+    "geom:longitude":-70.67717,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"La Capellania",
+    "gn:country_code":"VE",
+    "gn:dem":2460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798965,
+    "gn:latitude":8.92377,
+    "gn:longitude":-70.67717,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Capellania",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798965
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d211492efdd72c3469034d4e851a5fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694355,
+            "locality_id":1242760837,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1242760837,
+    "wof:lastmodified":1536799842,
+    "wof:name":"La Capellania",
+    "wof:parent_id":1108694355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67716999999998,
+    8.92377,
+    -70.67716999999998,
+    8.92377
+],
+  "geometry": {"coordinates":[-70.67716999999998,8.92377],"type":"Point"}
+}

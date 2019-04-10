@@ -1,0 +1,66 @@
+{
+  "id": 1209513541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83333,7.5,-71.83333,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":-71.83333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Monero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642533,
+    "gn:latitude":7.5,
+    "gn:longitude":-71.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Monero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monero",
+        "El Monero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642533
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a926c28ec484a4274b4b037a6cc3bc92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209513541
+        }
+    ],
+    "wof:id":1209513541,
+    "wof:lastmodified":1537713598,
+    "wof:name":"El Monero",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83333,
+    7.5,
+    -71.83333,
+    7.5
+],
+  "geometry": {"coordinates":[-71.83333,7.5],"type":"Point"}
+}

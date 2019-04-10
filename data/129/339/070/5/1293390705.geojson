@@ -1,0 +1,72 @@
+{
+  "id": 1293390705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.06667,7.56667,-68.06667,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":-68.06667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Guasimito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639939,
+    "gn:latitude":7.56667,
+    "gn:longitude":-68.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guasimito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guasmito",
+        "Guasimito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639939
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"29af38e884a8fbec3167de6dfaf666d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1293390705,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293390705,
+    "wof:lastmodified":1537713584,
+    "wof:name":"Guasimito",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.06667,
+    7.56667,
+    -68.06667,
+    7.56667
+],
+  "geometry": {"coordinates":[-68.06667,7.56667],"type":"Point"}
+}

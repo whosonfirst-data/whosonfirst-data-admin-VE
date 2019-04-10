@@ -1,0 +1,69 @@
+{
+  "id": 1209912141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23216,8.66435,-70.23216,8.66435",
+    "geom:latitude":8.66435,
+    "geom:longitude":-70.23216,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0608",
+    "gn:admin3_code":"60804.0",
+    "gn:asciiname":"Los Guasimitos",
+    "gn:country_code":"VE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3487261,
+    "gn:latitude":8.66435,
+    "gn:longitude":-70.23216,
+    "gn:modification_date":"2012-01-31",
+    "gn:name":"Los Guasimitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487261
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7100252da7e70aaef875870bffa4170d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1209912141,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1209912141,
+    "wof:lastmodified":1536377625,
+    "wof:name":"Los Guasimitos",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23216,
+    8.66435,
+    -70.23216,
+    8.66435
+],
+  "geometry": {"coordinates":[-70.23215999999999,8.66435],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209215401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.2,7.76667,-68.2,7.76667",
+    "geom:latitude":7.76667,
+    "geom:longitude":-68.2,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cano Seco",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646910,
+    "gn:latitude":7.76667,
+    "gn:longitude":-68.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ca\u00f1o Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646910
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2ed6118061ff5d45c51edf8d45b6073e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209215401
+        }
+    ],
+    "wof:id":1209215401,
+    "wof:lastmodified":1536294149,
+    "wof:name":"Cano Seco",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.2,
+    7.766669999999999,
+    -68.2,
+    7.766669999999999
+],
+  "geometry": {"coordinates":[-68.2,7.76667],"type":"Point"}
+}

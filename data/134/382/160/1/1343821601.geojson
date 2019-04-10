@@ -1,0 +1,67 @@
+{
+  "id": 1343821601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.60366,10.11333,-63.60366,10.11333",
+    "geom:latitude":10.11333,
+    "geom:longitude":-63.60366,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Las Misiones",
+    "gn:country_code":"VE",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778068,
+    "gn:latitude":10.11333,
+    "gn:longitude":-63.60366,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Las Misiones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778068
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b0c72ffd895153768bf60aaaf8a1a617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186265,
+            "locality_id":1343821601,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1343821601,
+    "wof:lastmodified":1536723219,
+    "wof:name":"Las Misiones",
+    "wof:parent_id":421186265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.60366,
+    10.11333,
+    -63.60366,
+    10.11333
+],
+  "geometry": {"coordinates":[-63.60366,10.11333],"type":"Point"}
+}

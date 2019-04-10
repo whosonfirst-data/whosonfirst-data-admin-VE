@@ -1,0 +1,67 @@
+{
+  "id": 1309714219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61101,9.27286,-64.61101,9.27286",
+    "geom:latitude":9.27286,
+    "geom:longitude":-64.61101,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chiguapo",
+    "gn:country_code":"VE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645793,
+    "gn:latitude":9.27286,
+    "gn:longitude":-64.61101,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chiguapo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645793
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"767b31f686824e28cc23ec94a39a74aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694409,
+            "locality_id":1309714219,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309714219,
+    "wof:lastmodified":1537060487,
+    "wof:name":"Chiguapo",
+    "wof:parent_id":1108694409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61101,
+    9.27286,
+    -64.61101,
+    9.27286
+],
+  "geometry": {"coordinates":[-64.61100999999999,9.27286],"type":"Point"}
+}

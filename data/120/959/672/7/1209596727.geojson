@@ -1,0 +1,66 @@
+{
+  "id": 1209596727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.88333,8.8,-62.88333,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":-62.88333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cerro Jobo Moreno",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646013,
+    "gn:latitude":8.8,
+    "gn:longitude":-62.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cerro Jobo Moreno",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerro Hobo Moreno",
+        "Cerro Jobo Moreno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646013
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9955c5180c44ee7b5f86a02bab95fac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209596727
+        }
+    ],
+    "wof:id":1209596727,
+    "wof:lastmodified":1537713619,
+    "wof:name":"Cerro Jobo Moreno",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.88333000000001,
+    8.8,
+    -62.88333000000001,
+    8.8
+],
+  "geometry": {"coordinates":[-62.88333000000001,8.8],"type":"Point"}
+}

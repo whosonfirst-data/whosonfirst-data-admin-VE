@@ -1,0 +1,61 @@
+{
+  "id": 1209370757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17948,10.38337,-71.17948,10.38337",
+    "geom:latitude":10.38337,
+    "geom:longitude":-71.17948,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Palito Blanco",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631079,
+    "gn:latitude":10.38337,
+    "gn:longitude":-71.17948,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Palito Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631079
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b9ab0a16c3ad8008b2c13a9fe2f2ef95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209370757
+        }
+    ],
+    "wof:id":1209370757,
+    "wof:lastmodified":1536289115,
+    "wof:name":"Palito Blanco",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17948,
+    10.38337,
+    -71.17948,
+    10.38337
+],
+  "geometry": {"coordinates":[-71.17948,10.38337],"type":"Point"}
+}

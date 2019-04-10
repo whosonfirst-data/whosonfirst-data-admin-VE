@@ -1,0 +1,67 @@
+{
+  "id": 1309699577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67448,11.08273,-70.67448,11.08273",
+    "geom:latitude":11.08273,
+    "geom:longitude":-70.67448,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Caracol",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643945,
+    "gn:latitude":11.08273,
+    "gn:longitude":-70.67448,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Caracol",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643945
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"96a908a28c3b6c551356bff5e99d006d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694165,
+            "locality_id":1309699577,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309699577,
+    "wof:lastmodified":1537081161,
+    "wof:name":"El Caracol",
+    "wof:parent_id":1108694165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67448,
+    11.08273,
+    -70.67448,
+    11.08273
+],
+  "geometry": {"coordinates":[-70.67448,11.08273],"type":"Point"}
+}

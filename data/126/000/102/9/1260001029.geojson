@@ -1,0 +1,67 @@
+{
+  "id": 1260001029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.93333,6.93333,-62.93333,6.93333",
+    "geom:latitude":6.93333,
+    "geom:longitude":-62.93333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nieves",
+    "gn:country_code":"VE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631512,
+    "gn:latitude":6.93333,
+    "gn:longitude":-62.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nieves",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631512
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2f202fd6075c30740756c6e65a97a85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196981,
+            "locality_id":1260001029,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1260001029,
+    "wof:lastmodified":1536607084,
+    "wof:name":"Nieves",
+    "wof:parent_id":421196981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.93333000000001,
+    6.93333,
+    -62.93333000000001,
+    6.93333
+],
+  "geometry": {"coordinates":[-62.93333000000001,6.93333],"type":"Point"}
+}

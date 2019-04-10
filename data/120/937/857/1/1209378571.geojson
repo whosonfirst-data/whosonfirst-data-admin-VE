@@ -1,0 +1,65 @@
+{
+  "id": 1209378571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.46873,8.80288,-62.46873,8.80288",
+    "geom:latitude":8.80288,
+    "geom:longitude":-62.46873,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Paso Nuevo",
+    "gn:country_code":"VE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630606,
+    "gn:latitude":8.80288,
+    "gn:longitude":-62.46873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paso Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Paso Nuevo",
+        "Paso Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630606
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3d03d9f9fbc48c7ef37119dfcc119e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209378571
+        }
+    ],
+    "wof:id":1209378571,
+    "wof:lastmodified":1537713531,
+    "wof:name":"Paso Nuevo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.46873000000001,
+    8.80288,
+    -62.46873000000001,
+    8.80288
+],
+  "geometry": {"coordinates":[-62.46873000000001,8.80288],"type":"Point"}
+}

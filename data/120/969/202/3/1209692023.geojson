@@ -1,0 +1,61 @@
+{
+  "id": 1209692023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.03908,10.92495,-64.03908,10.92495",
+    "geom:latitude":10.92495,
+    "geom:longitude":-64.03908,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Las Vasquez",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480879,
+    "gn:latitude":10.92495,
+    "gn:longitude":-64.03908,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Las V\u00e1squez",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480879
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b5d64774d0b505eefb51239c5b268b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209692023
+        }
+    ],
+    "wof:id":1209692023,
+    "wof:lastmodified":1536279206,
+    "wof:name":"Las Vasquez",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.03908,
+    10.92495,
+    -64.03908,
+    10.92495
+],
+  "geometry": {"coordinates":[-64.03908,10.92495],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259960061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25833,11.07389,-69.25833,11.07389",
+    "geom:latitude":11.07389,
+    "geom:longitude":-69.25833,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"El Caballo",
+    "gn:country_code":"VE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3785682,
+    "gn:latitude":11.07389,
+    "gn:longitude":-69.25833,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"El Caballo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421169951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785682
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"75bc53128e1d0b832e8b0f5a8086feb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169951,
+            "locality_id":1259960061,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259960061,
+    "wof:lastmodified":1536668922,
+    "wof:name":"El Caballo",
+    "wof:parent_id":421169951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25833,
+    11.07389,
+    -69.25833,
+    11.07389
+],
+  "geometry": {"coordinates":[-69.25833,11.07389],"type":"Point"}
+}

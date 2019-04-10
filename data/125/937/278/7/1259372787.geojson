@@ -1,0 +1,73 @@
+{
+  "id": 1259372787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93333,9.55,-68.93333,9.55",
+    "geom:latitude":9.55,
+    "geom:longitude":-68.93333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"La Vega de Aguasal",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634979,
+    "gn:latitude":9.55,
+    "gn:longitude":-68.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Vega de Aguasal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Vega del Agua Sal",
+        "La Vega",
+        "La Vega de Aguasal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421202057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634979
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a2e9b2d110bdb3dec36523639a629043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202057,
+            "locality_id":1259372787,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1259372787,
+    "wof:lastmodified":1537713554,
+    "wof:name":"La Vega de Aguasal",
+    "wof:parent_id":421202057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93333,
+    9.55,
+    -68.93333,
+    9.55
+],
+  "geometry": {"coordinates":[-68.93333,9.55],"type":"Point"}
+}

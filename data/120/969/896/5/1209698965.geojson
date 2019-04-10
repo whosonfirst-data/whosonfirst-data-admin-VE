@@ -1,0 +1,67 @@
+{
+  "id": 1209698965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24381,8.55849,-71.24381,8.55849",
+    "geom:latitude":8.55849,
+    "geom:longitude":-71.24381,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Manzano Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753633,
+    "gn:latitude":8.55849,
+    "gn:longitude":-71.24381,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Manzano Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753633
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9f45d6c5f93f7121fac231e53a6207e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171999,
+            "locality_id":1209698965,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1209698965,
+    "wof:lastmodified":1536395855,
+    "wof:name":"Manzano Abajo",
+    "wof:parent_id":421171999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24381,
+    8.55849,
+    -71.24381,
+    8.55849
+],
+  "geometry": {"coordinates":[-71.24381,8.55849],"type":"Point"}
+}

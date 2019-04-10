@@ -1,0 +1,67 @@
+{
+  "id": 1343916971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25206,8.31488,-72.25206,8.31488",
+    "geom:latitude":8.31488,
+    "geom:longitude":-72.25206,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Retiro",
+    "gn:country_code":"VE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738753,
+    "gn:latitude":8.31488,
+    "gn:longitude":-72.25206,
+    "gn:modification_date":"1996-12-18",
+    "gn:name":"El Retiro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738753
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a696bca94baa603808ceb1469d7b1342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694197,
+            "locality_id":1343916971,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1343916971,
+    "wof:lastmodified":1537079729,
+    "wof:name":"El Retiro",
+    "wof:parent_id":1108694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25206,
+    8.31488,
+    -72.25206,
+    8.31488
+],
+  "geometry": {"coordinates":[-72.25206,8.31488],"type":"Point"}
+}

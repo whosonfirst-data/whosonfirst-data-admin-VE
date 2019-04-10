@@ -1,0 +1,72 @@
+{
+  "id": 1310584813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61692,10.59665,-69.61692,10.59665",
+    "geom:latitude":10.59665,
+    "geom:longitude":-69.61692,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cauderales",
+    "gn:country_code":"VE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644913,
+    "gn:latitude":10.59665,
+    "gn:longitude":-69.61692,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cauderales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canderales",
+        "Cuaderales",
+        "Cauderales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644913
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eeebd247147718ff654bd00f8fb85052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1310584813,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1310584813,
+    "wof:lastmodified":1537713615,
+    "wof:name":"Cauderales",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61692,
+    10.59665,
+    -69.61692,
+    10.59665
+],
+  "geometry": {"coordinates":[-69.61691999999999,10.59665],"type":"Point"}
+}

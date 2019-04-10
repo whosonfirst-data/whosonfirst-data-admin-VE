@@ -1,0 +1,67 @@
+{
+  "id": 1193144829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61199,10.11517,-64.61199,10.11517",
+    "geom:latitude":10.11517,
+    "geom:longitude":-64.61199,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Eneal",
+    "gn:country_code":"VE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643307,
+    "gn:latitude":10.11517,
+    "gn:longitude":-64.61199,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Eneal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643307
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6734db98848c895323a768fdb13f4aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1193144829,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1193144829,
+    "wof:lastmodified":1536384424,
+    "wof:name":"El Eneal",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61199,
+    10.11517,
+    -64.61199,
+    10.11517
+],
+  "geometry": {"coordinates":[-64.61199000000001,10.11517],"type":"Point"}
+}

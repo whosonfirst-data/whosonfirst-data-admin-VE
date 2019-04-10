@@ -1,0 +1,100 @@
+{
+  "id": 1126090525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21667,7.76194,-72.21667,7.76194",
+    "geom:latitude":7.76194,
+    "geom:longitude":-72.21667,
+    "gn:gn_country":"VE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":7.76194,
+    "gn:longitude":-72.21667,
+    "iso:country":"VE",
+    "lbl:latitude":7.76194,
+    "lbl:longitude":-72.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Las Flores"
+    ],
+    "name:unk_x_variant":[
+        "Las Flores"
+    ],
+    "qs_pg:aaroncc":"VE",
+    "qs_pg:gn_country":"VE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3759376,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Las Flores",
+    "qs_pg:name_adm0":"Venezuela",
+    "qs_pg:name_adm1":"Tachira",
+    "qs_pg:photos":2061,
+    "qs_pg:photos_1k":418,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2061,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082769,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424982,
+    "qs_pg:woe_id":389478,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424982,
+    "woe:name_adm0":"Venezuela",
+    "woe:name_adm1":"Tachira",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85680481,
+        102191577,
+        85632317,
+        421171375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759376,
+        "gp:id":389478,
+        "qs:id":1082769,
+        "qs_pg:id":1082769
+    },
+    "wof:country":"VE",
+    "wof:created":1497313649,
+    "wof:geomhash":"98ead1041049e4a1357201e73bc11152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171375,
+            "locality_id":-1,
+            "neighbourhood_id":1126090525,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1126090525,
+    "wof:lastmodified":1534379806,
+    "wof:name":"Las Flores",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764981
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21667,
+    7.76194,
+    -72.21667,
+    7.76194
+],
+  "geometry": {"coordinates":[-72.21666999999999,7.76194],"type":"Point"}
+}

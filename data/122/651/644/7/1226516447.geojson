@@ -1,0 +1,71 @@
+{
+  "id": 1226516447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85028,8.35078,-71.85028,8.35078",
+    "geom:latitude":8.35078,
+    "geom:longitude":-71.85028,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2025",
+    "gn:asciiname":"San Simon",
+    "gn:country_code":"VE",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3627633,
+    "gn:latitude":8.35078,
+    "gn:longitude":-71.85028,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"San Sim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Sim\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627633
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2a58ceea13ce624cfe8823c80724c23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694429,
+            "locality_id":1226516447,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1226516447,
+    "wof:lastmodified":1537713517,
+    "wof:name":"San Simon",
+    "wof:parent_id":1108694429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85028,
+    8.35078,
+    -71.85028,
+    8.35078
+],
+  "geometry": {"coordinates":[-71.85028,8.35078],"type":"Point"}
+}

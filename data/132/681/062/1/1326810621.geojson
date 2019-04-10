@@ -1,0 +1,72 @@
+{
+  "id": 1326810621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.82849,11.0175,-70.82849,11.0175",
+    "geom:latitude":11.0175,
+    "geom:longitude":-70.82849,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Jose de Seque",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628128,
+    "gn:latitude":11.0175,
+    "gn:longitude":-70.82849,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 de Seque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jose",
+        "Seque",
+        "San Jos\u00e9 de Seque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628128
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"24d9ef0e08631622ef5c57145ae83ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1326810621,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1326810621,
+    "wof:lastmodified":1537713519,
+    "wof:name":"San Jose de Seque",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.82849,
+    11.0175,
+    -70.82849,
+    11.0175
+],
+  "geometry": {"coordinates":[-70.82849,11.0175],"type":"Point"}
+}

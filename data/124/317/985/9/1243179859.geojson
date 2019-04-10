@@ -1,0 +1,67 @@
+{
+  "id": 1243179859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03858,7.94444,-65.03858,7.94444",
+    "geom:latitude":7.94444,
+    "geom:longitude":-65.03858,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Las Tapiecitas",
+    "gn:country_code":"VE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484244,
+    "gn:latitude":7.94444,
+    "gn:longitude":-65.03858,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Las Tapiecitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484244
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"de55f07a9b56c5501721b73032f13df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1243179859,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1243179859,
+    "wof:lastmodified":1536693037,
+    "wof:name":"Las Tapiecitas",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03858000000001,
+    7.94444,
+    -65.03858000000001,
+    7.94444
+],
+  "geometry": {"coordinates":[-65.03858000000001,7.94444],"type":"Point"}
+}

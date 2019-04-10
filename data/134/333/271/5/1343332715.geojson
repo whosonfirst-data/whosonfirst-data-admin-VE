@@ -1,0 +1,67 @@
+{
+  "id": 1343332715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.28557,10.29227,-69.28557,10.29227",
+    "geom:latitude":10.29227,
+    "geom:longitude":-69.28557,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Agua Santa",
+    "gn:country_code":"VE",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746825,
+    "gn:latitude":10.29227,
+    "gn:longitude":-69.28557,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Agua Santa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746825
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e8234413763268de7574d0363746e20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694163,
+            "locality_id":1343332715,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1343332715,
+    "wof:lastmodified":1536931490,
+    "wof:name":"Agua Santa",
+    "wof:parent_id":1108694163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.28556999999999,
+    10.29227,
+    -69.28556999999999,
+    10.29227
+],
+  "geometry": {"coordinates":[-69.28556999999999,10.29227],"type":"Point"}
+}

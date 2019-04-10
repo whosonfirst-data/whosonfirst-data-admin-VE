@@ -1,0 +1,61 @@
+{
+  "id": 1209409651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.93333,4.46667,-62.93333,4.46667",
+    "geom:latitude":4.46667,
+    "geom:longitude":-62.93333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Momuran",
+    "gn:country_code":"VE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632107,
+    "gn:latitude":4.46667,
+    "gn:longitude":-62.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Momur\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632107
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c4e7c2ec07abd8dff33a1483485b13f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209409651
+        }
+    ],
+    "wof:id":1209409651,
+    "wof:lastmodified":1536287880,
+    "wof:name":"Momuran",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.93333000000001,
+    4.46667,
+    -62.93333000000001,
+    4.46667
+],
+  "geometry": {"coordinates":[-62.93333000000001,4.46667],"type":"Point"}
+}

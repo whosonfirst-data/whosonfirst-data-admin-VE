@@ -1,0 +1,67 @@
+{
+  "id": 1276250455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.74349,7.48772,-64.74349,7.48772",
+    "geom:latitude":7.48772,
+    "geom:longitude":-64.74349,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Herrumbrosa",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3808145,
+    "gn:latitude":7.48772,
+    "gn:longitude":-64.74349,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"La Herrumbrosa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421175383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3808145
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9b471d42a44c7ca8a41d7368c578ded5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175383,
+            "locality_id":1276250455,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1276250455,
+    "wof:lastmodified":1536889383,
+    "wof:name":"La Herrumbrosa",
+    "wof:parent_id":421175383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.74349000000001,
+    7.48772,
+    -64.74349000000001,
+    7.48772
+],
+  "geometry": {"coordinates":[-64.74349000000001,7.48772],"type":"Point"}
+}

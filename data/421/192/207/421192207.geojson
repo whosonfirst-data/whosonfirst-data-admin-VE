@@ -1,0 +1,79 @@
+{
+  "id": 421192207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61219,10.98614,-71.61219,10.98614",
+    "geom:latitude":10.98614,
+    "geom:longitude":-71.61219,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Fort San Carlos"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3628498,
+    "qs:gn_pop":0,
+    "qs:name":"San Carlos",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":67,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":67,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165416,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395750,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628498,
+        "gp:id":395750,
+        "qs:id":1165416
+    },
+    "wof:country":"VE",
+    "wof:created":1459009729,
+    "wof:geomhash":"32ddd5eb52e58786cbf011c7b51f4d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694067,
+            "locality_id":421192207,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":421192207,
+    "wof:lastmodified":1501268322,
+    "wof:name":"San Carlos",
+    "wof:parent_id":1108694067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61219,
+    10.98614,
+    -71.61219,
+    10.98614
+],
+  "geometry": {"coordinates":[-71.61219,10.98614],"type":"Point"}
+}

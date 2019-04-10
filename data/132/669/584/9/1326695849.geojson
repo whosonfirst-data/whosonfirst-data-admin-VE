@@ -1,0 +1,70 @@
+{
+  "id": 1326695849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.32122,9.23571,-69.32122,9.23571",
+    "geom:latitude":9.23571,
+    "geom:longitude":-69.32122,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"San Pedrito",
+    "gn:country_code":"VE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798604,
+    "gn:latitude":9.23571,
+    "gn:longitude":-69.32122,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"San Pedrito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pedrito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798604
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06ebd5f18e1f87190b4ae3f9ecf1d2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694321,
+            "locality_id":1326695849,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1326695849,
+    "wof:lastmodified":1537713648,
+    "wof:name":"San Pedrito",
+    "wof:parent_id":1108694321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.32122,
+    9.23571,
+    -69.32122,
+    9.23571
+],
+  "geometry": {"coordinates":[-69.32122,9.23571],"type":"Point"}
+}

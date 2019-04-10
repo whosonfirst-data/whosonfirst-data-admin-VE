@@ -1,0 +1,73 @@
+{
+  "id": 1210028221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.82928,9.45588,-64.82928,9.45588",
+    "geom:latitude":9.45588,
+    "geom:longitude":-64.82928,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"302.0",
+    "gn:asciiname":"Aragua de Barcelona",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3649100,
+    "gn:latitude":9.45588,
+    "gn:longitude":-64.82928,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Aragua de Barcelona",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aragua",
+        "Aragua de Barcelona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649100,
+        "wk:page":"Aragua_de_Barcelona"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"74e6e405d4d3ef6b5da1d69e5b9661ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1210028221,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1210028221,
+    "wof:lastmodified":1537713632,
+    "wof:name":"Aragua de Barcelona",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.82928000000001,
+    9.45588,
+    -64.82928000000001,
+    9.45588
+],
+  "geometry": {"coordinates":[-64.82928000000001,9.45588],"type":"Point"}
+}

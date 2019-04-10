@@ -1,0 +1,67 @@
+{
+  "id": 1343812409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.27944,10.525,-67.27944,10.525",
+    "geom:latitude":10.525,
+    "geom:longitude":-67.27944,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Las Petacas",
+    "gn:country_code":"VE",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481126,
+    "gn:latitude":10.525,
+    "gn:longitude":-67.27944,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Las Petacas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481126
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"79558921303ce16c88cb04af693add90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1343812409,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1343812409,
+    "wof:lastmodified":1536736150,
+    "wof:name":"Las Petacas",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.27944000000001,
+    10.525,
+    -67.27944000000001,
+    10.525
+],
+  "geometry": {"coordinates":[-67.27944000000001,10.525],"type":"Point"}
+}

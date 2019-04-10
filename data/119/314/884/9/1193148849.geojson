@@ -1,0 +1,67 @@
+{
+  "id": 1193148849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.92945,9.23119,-64.92945,9.23119",
+    "geom:latitude":9.23119,
+    "geom:longitude":-64.92945,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Barrio Blanco",
+    "gn:country_code":"VE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648462,
+    "gn:latitude":9.23119,
+    "gn:longitude":-64.92945,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Barrio Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648462
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"59ffd857eec113b6c76de13fe313a6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694283,
+            "locality_id":1193148849,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1193148849,
+    "wof:lastmodified":1536380459,
+    "wof:name":"Barrio Blanco",
+    "wof:parent_id":1108694283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.92945,
+    9.23119,
+    -64.92945,
+    9.23119
+],
+  "geometry": {"coordinates":[-64.92945,9.23119],"type":"Point"}
+}

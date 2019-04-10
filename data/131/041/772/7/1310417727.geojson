@@ -1,0 +1,67 @@
+{
+  "id": 1310417727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.89385,8.95935,-63.89385,8.95935",
+    "geom:latitude":8.95935,
+    "geom:longitude":-63.89385,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Aisme",
+    "gn:country_code":"VE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644381,
+    "gn:latitude":8.95935,
+    "gn:longitude":-63.89385,
+    "gn:modification_date":"1996-10-23",
+    "gn:name":"El Aisme",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644381
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7bbe71c410d3277af994c11e2e226bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1310417727,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310417727,
+    "wof:lastmodified":1537041851,
+    "wof:name":"El Aisme",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.89385,
+    8.95935,
+    -63.89385,
+    8.95935
+],
+  "geometry": {"coordinates":[-63.89385,8.95935],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243438171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.40869,8.5121,-62.40869,8.5121",
+    "geom:latitude":8.5121,
+    "geom:longitude":-62.40869,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Los Castillos de Guayana",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634349,
+    "gn:latitude":8.5121,
+    "gn:longitude":-62.40869,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Castillos de Guayana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Castillos",
+        "Los Castillitos",
+        "Los Castillos de Guayana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421183445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634349
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"349ee6b5dba96cc579ccf7e73eab1fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183445,
+            "locality_id":1243438171,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1243438171,
+    "wof:lastmodified":1537713550,
+    "wof:name":"Los Castillos de Guayana",
+    "wof:parent_id":421183445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.40869,
+    8.5121,
+    -62.40869,
+    8.5121
+],
+  "geometry": {"coordinates":[-62.40869,8.5121],"type":"Point"}
+}

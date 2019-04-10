@@ -1,0 +1,67 @@
+{
+  "id": 1226614079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98172,9.9655,-70.98172,9.9655",
+    "geom:latitude":9.9655,
+    "geom:longitude":-70.98172,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Mata Hambeach",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632660,
+    "gn:latitude":9.9655,
+    "gn:longitude":-70.98172,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Mata Hambeach",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632660
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7e51dbdb2065a91d23412c8f4f151e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694109,
+            "locality_id":1226614079,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226614079,
+    "wof:lastmodified":1536904758,
+    "wof:name":"Mata Hambeach",
+    "wof:parent_id":1108694109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98172,
+    9.9655,
+    -70.98172,
+    9.9655
+],
+  "geometry": {"coordinates":[-70.98172,9.9655],"type":"Point"}
+}

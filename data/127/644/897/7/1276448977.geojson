@@ -1,0 +1,72 @@
+{
+  "id": 1276448977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6,9.36667,-68.6,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":-68.6,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Montes de Oca",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632006,
+    "gn:latitude":9.36667,
+    "gn:longitude":-68.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Montes de Oca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montes Dioca",
+        "Montes de Oca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632006
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2d85d47f1f799b672d3802ea3407e368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694369,
+            "locality_id":1276448977,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1276448977,
+    "wof:lastmodified":1537713537,
+    "wof:name":"Montes de Oca",
+    "wof:parent_id":1108694369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6,
+    9.36667,
+    -68.6,
+    9.36667
+],
+  "geometry": {"coordinates":[-68.59999999999999,9.36667],"type":"Point"}
+}

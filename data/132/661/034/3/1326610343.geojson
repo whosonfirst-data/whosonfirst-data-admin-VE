@@ -1,0 +1,67 @@
+{
+  "id": 1326610343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11094,11.3262,-70.11094,11.3262",
+    "geom:latitude":11.3262,
+    "geom:longitude":-70.11094,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sibada",
+    "gn:country_code":"VE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740932,
+    "gn:latitude":11.3262,
+    "gn:longitude":-70.11094,
+    "gn:modification_date":"1995-07-03",
+    "gn:name":"Sibada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740932
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c9d33bba082872b4052fea62ff69c66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1326610343,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1326610343,
+    "wof:lastmodified":1536870380,
+    "wof:name":"Sibada",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11094,
+    11.3262,
+    -70.11094,
+    11.3262
+],
+  "geometry": {"coordinates":[-70.11094,11.3262],"type":"Point"}
+}

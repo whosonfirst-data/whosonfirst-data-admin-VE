@@ -1,0 +1,67 @@
+{
+  "id": 1276333687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98991,10.01121,-66.98991,10.01121",
+    "geom:latitude":10.01121,
+    "geom:longitude":-66.98991,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Boca del Negro",
+    "gn:country_code":"VE",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742156,
+    "gn:latitude":10.01121,
+    "gn:longitude":-66.98991,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Boca del Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742156
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fb77174f6f6ad709836fe315c6e8e46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694387,
+            "locality_id":1276333687,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1276333687,
+    "wof:lastmodified":1536778561,
+    "wof:name":"Boca del Negro",
+    "wof:parent_id":1108694387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98991,
+    10.01121,
+    -66.98991,
+    10.01121
+],
+  "geometry": {"coordinates":[-66.98990999999999,10.01121],"type":"Point"}
+}

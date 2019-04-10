@@ -1,0 +1,61 @@
+{
+  "id": 1209201865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.84961,11.09072,-68.84961,11.09072",
+    "geom:latitude":11.09072,
+    "geom:longitude":-68.84961,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Vaca",
+    "gn:country_code":"VE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635021,
+    "gn:latitude":11.09072,
+    "gn:longitude":-68.84961,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635021
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"da070585f3de658b6dc825af26942f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209201865
+        }
+    ],
+    "wof:id":1209201865,
+    "wof:lastmodified":1536294582,
+    "wof:name":"La Vaca",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.84961,
+    11.09072,
+    -68.84961,
+    11.09072
+],
+  "geometry": {"coordinates":[-68.84961,11.09072],"type":"Point"}
+}

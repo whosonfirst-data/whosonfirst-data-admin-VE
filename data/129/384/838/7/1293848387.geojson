@@ -1,0 +1,67 @@
+{
+  "id": 1293848387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97838,8.09746,-71.97838,8.09746",
+    "geom:latitude":8.09746,
+    "geom:longitude":-71.97838,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Babuquena",
+    "gn:country_code":"VE",
+    "gn:dem":1808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648705,
+    "gn:latitude":8.09746,
+    "gn:longitude":-71.97838,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Babuquena",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648705
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"745f143d6d7d589d88ed926fa7d600c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202067,
+            "locality_id":1293848387,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293848387,
+    "wof:lastmodified":1536764380,
+    "wof:name":"Babuquena",
+    "wof:parent_id":421202067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97838,
+    8.09746,
+    -71.97838,
+    8.09746
+],
+  "geometry": {"coordinates":[-71.97838,8.09746],"type":"Point"}
+}

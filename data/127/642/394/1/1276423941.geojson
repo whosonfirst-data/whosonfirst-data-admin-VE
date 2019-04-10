@@ -1,0 +1,71 @@
+{
+  "id": 1276423941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31942,8.13769,-71.31942,8.13769",
+    "geom:latitude":8.13769,
+    "geom:longitude":-71.31942,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Otopun",
+    "gn:country_code":"VE",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631200,
+    "gn:latitude":8.13769,
+    "gn:longitude":-71.31942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Otop\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otopu\u00edn",
+        "Otop\u00fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631200
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"574a4a457b645676532ffcce14d73e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "locality_id":1276423941,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1276423941,
+    "wof:lastmodified":1537713534,
+    "wof:name":"Otopun",
+    "wof:parent_id":421175381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31942,
+    8.13769,
+    -71.31942,
+    8.13769
+],
+  "geometry": {"coordinates":[-71.31941999999999,8.13769],"type":"Point"}
+}

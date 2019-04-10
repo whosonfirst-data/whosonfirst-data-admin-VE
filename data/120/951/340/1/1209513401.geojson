@@ -1,0 +1,61 @@
+{
+  "id": 1209513401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18231,8.26481,-69.18231,8.26481",
+    "geom:latitude":8.26481,
+    "geom:longitude":-69.18231,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Graterolacho",
+    "gn:country_code":"VE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3487308,
+    "gn:latitude":8.26481,
+    "gn:longitude":-69.18231,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Graterolacho",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487308
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8c9b1fe5d59f4be859c46355f2e97391",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209513401
+        }
+    ],
+    "wof:id":1209513401,
+    "wof:lastmodified":1536284810,
+    "wof:name":"Graterolacho",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18231,
+    8.26481,
+    -69.18231,
+    8.26481
+],
+  "geometry": {"coordinates":[-69.18231,8.26481],"type":"Point"}
+}

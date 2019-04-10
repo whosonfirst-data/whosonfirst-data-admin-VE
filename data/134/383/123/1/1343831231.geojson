@@ -1,0 +1,67 @@
+{
+  "id": 1343831231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.58496,8.70611,-71.58496,8.70611",
+    "geom:latitude":8.70611,
+    "geom:longitude":-71.58496,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cano Arenas",
+    "gn:country_code":"VE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647000,
+    "gn:latitude":8.70611,
+    "gn:longitude":-71.58496,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Ca\u00f1o Arenas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647000
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"98e450568762f4e038a1c84f88f8699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1343831231,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343831231,
+    "wof:lastmodified":1536709170,
+    "wof:name":"Cano Arenas",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.58496,
+    8.70611,
+    -71.58496,
+    8.70611
+],
+  "geometry": {"coordinates":[-71.58496,8.70611],"type":"Point"}
+}

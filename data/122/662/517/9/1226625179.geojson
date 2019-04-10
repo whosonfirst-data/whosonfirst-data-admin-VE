@@ -1,0 +1,67 @@
+{
+  "id": 1226625179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.73407,9.68241,-69.73407,9.68241",
+    "geom:latitude":9.68241,
+    "geom:longitude":-69.73407,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Curumato",
+    "gn:country_code":"VE",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748755,
+    "gn:latitude":9.68241,
+    "gn:longitude":-69.73407,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Curumato",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421200611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748755
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cf2f57c7ad888789358728bf76c7103a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200611,
+            "locality_id":1226625179,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1226625179,
+    "wof:lastmodified":1536888760,
+    "wof:name":"Curumato",
+    "wof:parent_id":421200611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.73406999999999,
+    9.68241,
+    -69.73406999999999,
+    9.68241
+],
+  "geometry": {"coordinates":[-69.73406999999999,9.68241],"type":"Point"}
+}

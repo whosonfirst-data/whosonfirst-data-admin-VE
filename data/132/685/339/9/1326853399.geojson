@@ -1,0 +1,71 @@
+{
+  "id": 1326853399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46484,10.09869,-67.46484,10.09869",
+    "geom:latitude":10.09869,
+    "geom:longitude":-67.46484,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tamarindo",
+    "gn:country_code":"VE",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626476,
+    "gn:latitude":10.09869,
+    "gn:longitude":-67.46484,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tamarindo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tamarindo",
+        "Tamarindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626476
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e6c140f8fafa725c7e67acb7ea03fa10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1326853399,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1326853399,
+    "wof:lastmodified":1537713512,
+    "wof:name":"Tamarindo",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46484,
+    10.09869,
+    -67.46484,
+    10.09869
+],
+  "geometry": {"coordinates":[-67.46484,10.09869],"type":"Point"}
+}

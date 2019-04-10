@@ -1,0 +1,72 @@
+{
+  "id": 1243143129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91667,10.65,-69.91667,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":-69.91667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Valdillar",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625550,
+    "gn:latitude":10.65,
+    "gn:longitude":-69.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valdillar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valdillal",
+        "Valdillar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625550
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7ff7a60831919177f9621937006bce03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1243143129,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243143129,
+    "wof:lastmodified":1537713508,
+    "wof:name":"Valdillar",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91667,
+    10.65,
+    -69.91667,
+    10.65
+],
+  "geometry": {"coordinates":[-69.91667,10.65],"type":"Point"}
+}

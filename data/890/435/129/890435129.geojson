@@ -1,0 +1,73 @@
+{
+  "id": 890435129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.48938,10.03863,-67.48938,10.03863",
+    "geom:latitude":10.03863,
+    "geom:longitude":-67.48938,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":76614,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Villa de Cura",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625341,
+        "gp:id":395285,
+        "qs:id":149532,
+        "wd:id":"Q2721732",
+        "wk:page":"Villa de Cura"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052055,
+    "wof:geomhash":"15b6d56204bc907bb3af41148079d859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":890435129,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":890435129,
+    "wof:lastmodified":1534379805,
+    "wof:name":"Villa de Cura",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:population":76614,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[
+        421166653
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.48938,
+    10.03863,
+    -67.48938,
+    10.03863
+],
+  "geometry": {"coordinates":[-67.48938,10.03863],"type":"Point"}
+}

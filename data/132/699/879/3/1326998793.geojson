@@ -1,0 +1,67 @@
+{
+  "id": 1326998793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.49374,10.21587,-68.49374,10.21587",
+    "geom:latitude":10.21587,
+    "geom:longitude":-68.49374,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Oruje",
+    "gn:country_code":"VE",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631242,
+    "gn:latitude":10.21587,
+    "gn:longitude":-68.49374,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Oruje",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631242
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e127f430a4e1ee44274c5a91713d7f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1326998793,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1326998793,
+    "wof:lastmodified":1536808720,
+    "wof:name":"Oruje",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.49374,
+    10.21587,
+    -68.49374,
+    10.21587
+],
+  "geometry": {"coordinates":[-68.49374,10.21587],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310413687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.74028,8.83639,-63.74028,8.83639",
+    "geom:latitude":8.83639,
+    "geom:longitude":-63.74028,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Yopo",
+    "gn:country_code":"VE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641060,
+    "gn:latitude":8.83639,
+    "gn:longitude":-63.74028,
+    "gn:modification_date":"1996-10-23",
+    "gn:name":"El Yopo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641060
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0d56b2744542397397481c4232b7e0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1310413687,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310413687,
+    "wof:lastmodified":1537047403,
+    "wof:name":"El Yopo",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.74028000000001,
+    8.83639,
+    -63.74028000000001,
+    8.83639
+],
+  "geometry": {"coordinates":[-63.74028000000001,8.83639],"type":"Point"}
+}

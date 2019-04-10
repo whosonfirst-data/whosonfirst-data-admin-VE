@@ -1,0 +1,70 @@
+{
+  "id": 1343958917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.44706,6.95294,-68.44706,6.95294",
+    "geom:latitude":6.95294,
+    "geom:longitude":-68.44706,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Arenal",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644259,
+    "gn:latitude":6.95294,
+    "gn:longitude":-68.44706,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"El Arenal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Arenal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644259
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7fa4a1199f9a3111d221fea53d91839f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1343958917,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343958917,
+    "wof:lastmodified":1537713610,
+    "wof:name":"El Arenal",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.44706,
+    6.95294,
+    -68.44706,
+    6.95294
+],
+  "geometry": {"coordinates":[-68.44705999999999,6.95294],"type":"Point"}
+}

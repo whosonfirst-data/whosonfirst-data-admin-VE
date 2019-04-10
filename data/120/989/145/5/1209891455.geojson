@@ -1,0 +1,67 @@
+{
+  "id": 1209891455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96735,9.04005,-68.96735,9.04005",
+    "geom:latitude":9.04005,
+    "geom:longitude":-68.96735,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Dos",
+    "gn:country_code":"VE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629998,
+    "gn:latitude":9.04005,
+    "gn:longitude":-68.96735,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Poblado Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629998
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c25261b5b3d0b408f1e0cb2f6ea69d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694417,
+            "locality_id":1209891455,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1209891455,
+    "wof:lastmodified":1536390549,
+    "wof:name":"Poblado Dos",
+    "wof:parent_id":1108694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96735,
+    9.04005,
+    -68.96735,
+    9.04005
+],
+  "geometry": {"coordinates":[-68.96735,9.04005],"type":"Point"}
+}

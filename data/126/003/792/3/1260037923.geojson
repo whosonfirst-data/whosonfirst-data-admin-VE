@@ -1,0 +1,67 @@
+{
+  "id": 1260037923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33952,10.01562,-72.33952,10.01562",
+    "geom:latitude":10.01562,
+    "geom:longitude":-72.33952,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pozo Ignacio",
+    "gn:country_code":"VE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629863,
+    "gn:latitude":10.01562,
+    "gn:longitude":-72.33952,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Pozo Ignacio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629863
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"46cf9698dac42babbefe99ba94288b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1260037923,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1260037923,
+    "wof:lastmodified":1537051619,
+    "wof:name":"Pozo Ignacio",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33952,
+    10.01562,
+    -72.33952,
+    10.01562
+],
+  "geometry": {"coordinates":[-72.33951999999999,10.01562],"type":"Point"}
+}

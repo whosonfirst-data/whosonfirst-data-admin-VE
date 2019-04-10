@@ -1,0 +1,72 @@
+{
+  "id": 1344260341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.53333,2.4,-66.53333,2.4",
+    "geom:latitude":2.4,
+    "geom:longitude":-66.53333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Guadadamo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640413,
+    "gn:latitude":2.4,
+    "gn:longitude":-66.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guadadamo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guacadamo",
+        "Guadadamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640413
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"899399d40199410a299ba3541a538ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694279,
+            "locality_id":1344260341,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1344260341,
+    "wof:lastmodified":1537713586,
+    "wof:name":"Guadadamo",
+    "wof:parent_id":1108694279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.53333,
+    2.4,
+    -66.53333,
+    2.4
+],
+  "geometry": {"coordinates":[-66.53333000000001,2.4],"type":"Point"}
+}

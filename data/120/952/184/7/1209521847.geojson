@@ -1,0 +1,67 @@
+{
+  "id": 1209521847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33333,7.86667,-69.33333,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":-69.33333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mata de Guamo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632756,
+    "gn:latitude":7.86667,
+    "gn:longitude":-69.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mata de Guamo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata de Grano",
+        "Mata de Gramo",
+        "Mata de Guamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632756
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"095da8ad5fd50cafd90eb616f657c432",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209521847
+        }
+    ],
+    "wof:id":1209521847,
+    "wof:lastmodified":1537713540,
+    "wof:name":"Mata de Guamo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33333,
+    7.86667,
+    -69.33333,
+    7.86667
+],
+  "geometry": {"coordinates":[-69.33333,7.86667],"type":"Point"}
+}

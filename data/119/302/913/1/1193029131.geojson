@@ -1,0 +1,67 @@
+{
+  "id": 1193029131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.99722,1.34112,-64.99722,1.34112",
+    "geom:latitude":1.34112,
+    "geom:longitude":-64.99722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nacayayoteri",
+    "gn:country_code":"VE",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458365,
+    "gn:latitude":1.34112,
+    "gn:longitude":-64.99722,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Nacayayoteri",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458365
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb39f602e54a731701eb7ccf4b3b791d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1193029131,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1193029131,
+    "wof:lastmodified":1536365521,
+    "wof:name":"Nacayayoteri",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.99722,
+    1.34112,
+    -64.99722,
+    1.34112
+],
+  "geometry": {"coordinates":[-64.99722,1.34112],"type":"Point"}
+}

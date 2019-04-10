@@ -1,0 +1,67 @@
+{
+  "id": 1292982283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.53744,9.64149,-63.53744,9.64149",
+    "geom:latitude":9.64149,
+    "geom:longitude":-63.53744,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Musipan",
+    "gn:country_code":"VE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631631,
+    "gn:latitude":9.64149,
+    "gn:longitude":-63.53744,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Musip\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631631
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b35a6dea1e451309126c8df7d0dad531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694183,
+            "locality_id":1292982283,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1292982283,
+    "wof:lastmodified":1537017617,
+    "wof:name":"Musipan",
+    "wof:parent_id":1108694183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.53744,
+    9.64149,
+    -63.53744,
+    9.64149
+],
+  "geometry": {"coordinates":[-63.53744,9.64149],"type":"Point"}
+}

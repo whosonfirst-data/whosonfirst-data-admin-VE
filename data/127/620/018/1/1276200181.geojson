@@ -1,0 +1,67 @@
+{
+  "id": 1276200181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.42113,7.65936,-72.42113,7.65936",
+    "geom:latitude":7.65936,
+    "geom:longitude":-72.42113,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"La Gonzalera",
+    "gn:country_code":"VE",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758732,
+    "gn:latitude":7.65936,
+    "gn:longitude":-72.42113,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"La Gonzalera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758732
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6e4353863b9e33ce8d4ec322f09212f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694121,
+            "locality_id":1276200181,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276200181,
+    "wof:lastmodified":1536957487,
+    "wof:name":"La Gonzalera",
+    "wof:parent_id":1108694121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.42113,
+    7.65936,
+    -72.42113,
+    7.65936
+],
+  "geometry": {"coordinates":[-72.42113000000001,7.65936],"type":"Point"}
+}

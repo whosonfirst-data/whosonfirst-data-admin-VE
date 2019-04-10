@@ -1,0 +1,67 @@
+{
+  "id": 1343857553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28634,9.95998,-67.28634,9.95998",
+    "geom:latitude":9.95998,
+    "geom:longitude":-67.28634,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cataurito",
+    "gn:country_code":"VE",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806287,
+    "gn:latitude":9.95998,
+    "gn:longitude":-67.28634,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Cataurito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806287
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ed2e93e8c3523b50ec1166de27a164f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694407,
+            "locality_id":1343857553,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1343857553,
+    "wof:lastmodified":1536670784,
+    "wof:name":"Cataurito",
+    "wof:parent_id":1108694407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28634,
+    9.95998,
+    -67.28634,
+    9.95998
+],
+  "geometry": {"coordinates":[-67.28634,9.95998],"type":"Point"}
+}

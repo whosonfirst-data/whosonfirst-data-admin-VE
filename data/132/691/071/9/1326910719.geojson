@@ -1,0 +1,71 @@
+{
+  "id": 1326910719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.13316,11.39889,-69.13316,11.39889",
+    "geom:latitude":11.39889,
+    "geom:longitude":-69.13316,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Sibucaro",
+    "gn:country_code":"VE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626846,
+    "gn:latitude":11.39889,
+    "gn:longitude":-69.13316,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Sibucaro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibucaro",
+        "El Sibucaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626846
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4faecf7d426ac46eec0c99e781a0afd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1326910719,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1326910719,
+    "wof:lastmodified":1537713514,
+    "wof:name":"El Sibucaro",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.13316,
+    11.39889,
+    -69.13316,
+    11.39889
+],
+  "geometry": {"coordinates":[-69.13316,11.39889],"type":"Point"}
+}

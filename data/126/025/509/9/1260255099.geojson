@@ -1,0 +1,67 @@
+{
+  "id": 1260255099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.95068,10.34573,-66.95068,10.34573",
+    "geom:latitude":10.34573,
+    "geom:longitude":-66.95068,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"San Diego",
+    "gn:country_code":"VE",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628461,
+    "gn:latitude":10.34573,
+    "gn:longitude":-66.95068,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"San Diego",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628461
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6f8cd57e4c03b171448b0e0db03a3ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1260255099,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1260255099,
+    "wof:lastmodified":1536750219,
+    "wof:name":"San Diego",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.95068,
+    10.34573,
+    -66.95068,
+    10.34573
+],
+  "geometry": {"coordinates":[-66.95068000000001,10.34573],"type":"Point"}
+}

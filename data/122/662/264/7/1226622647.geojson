@@ -1,0 +1,67 @@
+{
+  "id": 1226622647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.06805,9.42416,-67.06805,9.42416",
+    "geom:latitude":9.42416,
+    "geom:longitude":-67.06805,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Araguato",
+    "gn:country_code":"VE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644272,
+    "gn:latitude":9.42416,
+    "gn:longitude":-67.06805,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"El Araguato",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421189079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644272
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"da71dba2c143f3e53f2e332c31709a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189079,
+            "locality_id":1226622647,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226622647,
+    "wof:lastmodified":1536892548,
+    "wof:name":"El Araguato",
+    "wof:parent_id":421189079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.06805,
+    9.42416,
+    -67.06805,
+    9.42416
+],
+  "geometry": {"coordinates":[-67.06805,9.42416],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243033663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37716,9.00953,-69.37716,9.00953",
+    "geom:latitude":9.00953,
+    "geom:longitude":-69.37716,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Los Tubos",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798705,
+    "gn:latitude":9.00953,
+    "gn:longitude":-69.37716,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Los Tubos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Tubos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798705
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"30bc49894df8fe661682b2a44f4a3820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694339,
+            "locality_id":1243033663,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1243033663,
+    "wof:lastmodified":1537713649,
+    "wof:name":"Los Tubos",
+    "wof:parent_id":1108694339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37716,
+    9.00953,
+    -69.37716,
+    9.00953
+],
+  "geometry": {"coordinates":[-69.37716,9.00953],"type":"Point"}
+}

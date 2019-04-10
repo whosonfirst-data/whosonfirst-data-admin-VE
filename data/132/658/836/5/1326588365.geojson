@@ -1,0 +1,71 @@
+{
+  "id": 1326588365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6663,9.11773,-70.6663,9.11773",
+    "geom:latitude":9.11773,
+    "geom:longitude":-70.6663,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Mesa de Los Morenos",
+    "gn:country_code":"VE",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632291,
+    "gn:latitude":9.11773,
+    "gn:longitude":-70.6663,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mesa de Los Morenos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mesa de la Morenos",
+        "Mesa de Los Morenos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421172605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632291
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"47d39ba714cf0ba8bb047023a72d6444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172605,
+            "locality_id":1326588365,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1326588365,
+    "wof:lastmodified":1537713538,
+    "wof:name":"Mesa de Los Morenos",
+    "wof:parent_id":421172605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6663,
+    9.11773,
+    -70.6663,
+    9.11773
+],
+  "geometry": {"coordinates":[-70.66630000000001,9.11773],"type":"Point"}
+}

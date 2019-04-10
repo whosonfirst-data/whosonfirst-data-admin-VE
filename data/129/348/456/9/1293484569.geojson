@@ -1,0 +1,67 @@
+{
+  "id": 1293484569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96333,7.55722,-65.96333,7.55722",
+    "geom:latitude":7.55722,
+    "geom:longitude":-65.96333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chalana",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807599,
+    "gn:latitude":7.55722,
+    "gn:longitude":-65.96333,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Chalana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807599
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e101ae8d9e50b7ca78e4f9bdc8134004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1293484569,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293484569,
+    "wof:lastmodified":1536791658,
+    "wof:name":"Chalana",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96333,
+    7.55722,
+    -65.96333,
+    7.55722
+],
+  "geometry": {"coordinates":[-65.96333,7.55722],"type":"Point"}
+}

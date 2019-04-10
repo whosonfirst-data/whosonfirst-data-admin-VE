@@ -1,0 +1,71 @@
+{
+  "id": 1243321575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98129,8.90021,-71.98129,8.90021",
+    "geom:latitude":8.90021,
+    "geom:longitude":-71.98129,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Santa Cruz del Zulia",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627421,
+    "gn:latitude":8.90021,
+    "gn:longitude":-71.98129,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Cruz del Zulia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Cruz",
+        "Santa Cruz del Zulia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627421
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ed5c840c3181e6aea8af3f4a8587c5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1243321575,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243321575,
+    "wof:lastmodified":1537713516,
+    "wof:name":"Santa Cruz del Zulia",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98129,
+    8.90021,
+    -71.98129,
+    8.90021
+],
+  "geometry": {"coordinates":[-71.98129,8.90021],"type":"Point"}
+}

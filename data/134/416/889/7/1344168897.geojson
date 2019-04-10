@@ -1,0 +1,67 @@
+{
+  "id": 1344168897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.55613,10.19849,-64.55613,10.19849",
+    "geom:latitude":10.19849,
+    "geom:longitude":-64.55613,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Retumbo",
+    "gn:country_code":"VE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484476,
+    "gn:latitude":10.19849,
+    "gn:longitude":-64.55613,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"El Retumbo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484476
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d8a019e030c8f6c9495459c63dfeccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694207,
+            "locality_id":1344168897,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344168897,
+    "wof:lastmodified":1536719425,
+    "wof:name":"El Retumbo",
+    "wof:parent_id":1108694207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.55613000000001,
+    10.19849,
+    -64.55613000000001,
+    10.19849
+],
+  "geometry": {"coordinates":[-64.55613000000001,10.19849],"type":"Point"}
+}

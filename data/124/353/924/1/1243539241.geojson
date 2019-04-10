@@ -1,0 +1,67 @@
+{
+  "id": 1243539241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.92803,9.72937,-68.92803,9.72937",
+    "geom:latitude":9.72937,
+    "geom:longitude":-68.92803,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aroita",
+    "gn:country_code":"VE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648866,
+    "gn:latitude":9.72937,
+    "gn:longitude":-68.92803,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Aro\u00edta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648866
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a5545531c9d250d2bb524e8830375c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694089,
+            "locality_id":1243539241,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1243539241,
+    "wof:lastmodified":1536671762,
+    "wof:name":"Aroita",
+    "wof:parent_id":1108694089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.92803,
+    9.72937,
+    -68.92803,
+    9.72937
+],
+  "geometry": {"coordinates":[-68.92803000000001,9.72937],"type":"Point"}
+}

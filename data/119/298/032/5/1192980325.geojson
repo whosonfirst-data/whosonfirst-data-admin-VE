@@ -1,0 +1,72 @@
+{
+  "id": 1192980325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.10649,10.57457,-63.10649,10.57457",
+    "geom:latitude":10.57457,
+    "geom:longitude":-63.10649,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Tunapui",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625878,
+    "gn:latitude":10.57457,
+    "gn:longitude":-63.10649,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tunapu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunapuy",
+        "Tunapu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625878,
+        "wk:page":"Tunapuy"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9bf541c19df88b0de0a3253ce6608bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694247,
+            "locality_id":1192980325,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1192980325,
+    "wof:lastmodified":1537713509,
+    "wof:name":"Tunapui",
+    "wof:parent_id":1108694247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.10649,
+    10.57457,
+    -63.10649,
+    10.57457
+],
+  "geometry": {"coordinates":[-63.10649,10.57457],"type":"Point"}
+}

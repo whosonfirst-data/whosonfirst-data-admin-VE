@@ -1,0 +1,67 @@
+{
+  "id": 1192998481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.98333,10.95,-68.98333,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-68.98333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Gallina",
+    "gn:country_code":"VE",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637803,
+    "gn:latitude":10.95,
+    "gn:longitude":-68.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Gallina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637803
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e64b3a5ccaaf1ddb8410b6a735f76474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694215,
+            "locality_id":1192998481,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1192998481,
+    "wof:lastmodified":1536373251,
+    "wof:name":"La Gallina",
+    "wof:parent_id":1108694215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.98333000000001,
+    10.95,
+    -68.98333000000001,
+    10.95
+],
+  "geometry": {"coordinates":[-68.98333000000001,10.95],"type":"Point"}
+}

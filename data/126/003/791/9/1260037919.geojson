@@ -1,0 +1,61 @@
+{
+  "id": 1260037919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9,10.11667,-71.9,10.11667",
+    "geom:latitude":10.11667,
+    "geom:longitude":-71.9,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bernal",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648298,
+    "gn:latitude":10.11667,
+    "gn:longitude":-71.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bernal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648298
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"61ead14fceab9992d5cffc1fcd231b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260037919,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260037919,
+    "wof:lastmodified":1537051626,
+    "wof:name":"Bernal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9,
+    10.11667,
+    -71.9,
+    10.11667
+],
+  "geometry": {"coordinates":[-71.90000000000001,10.11667],"type":"Point"}
+}

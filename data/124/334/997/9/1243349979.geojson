@@ -1,0 +1,71 @@
+{
+  "id": 1243349979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.42157,9.30466,-66.42157,9.30466",
+    "geom:latitude":9.30466,
+    "geom:longitude":-66.42157,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Agua del Medio",
+    "gn:country_code":"VE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649671,
+    "gn:latitude":9.30466,
+    "gn:longitude":-66.42157,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agua del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Nueva",
+        "Agua del Medio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649671
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"024df06c2575787d0d1a2bb8a260f3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694159,
+            "locality_id":1243349979,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1243349979,
+    "wof:lastmodified":1537713634,
+    "wof:name":"Agua del Medio",
+    "wof:parent_id":1108694159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.42156999999999,
+    9.30466,
+    -66.42156999999999,
+    9.30466
+],
+  "geometry": {"coordinates":[-66.42156999999999,9.30466],"type":"Point"}
+}

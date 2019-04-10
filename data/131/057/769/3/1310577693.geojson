@@ -1,0 +1,67 @@
+{
+  "id": 1310577693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.42409,9.91128,-66.42409,9.91128",
+    "geom:latitude":9.91128,
+    "geom:longitude":-66.42409,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Roble",
+    "gn:country_code":"VE",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641672,
+    "gn:latitude":9.91128,
+    "gn:longitude":-66.42409,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Roble",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641672
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6325f0db6e2fc32cd462c081bca57b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1310577693,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310577693,
+    "wof:lastmodified":1536812296,
+    "wof:name":"El Roble",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.42409,
+    9.91128,
+    -66.42409,
+    9.91128
+],
+  "geometry": {"coordinates":[-66.42409000000001,9.91128],"type":"Point"}
+}

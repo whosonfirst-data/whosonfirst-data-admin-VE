@@ -1,0 +1,61 @@
+{
+  "id": 1209085241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.73531,10.37187,-69.73531,10.37187",
+    "geom:latitude":10.37187,
+    "geom:longitude":-69.73531,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Portachuelo",
+    "gn:country_code":"VE",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750670,
+    "gn:latitude":10.37187,
+    "gn:longitude":-69.73531,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"El Portachuelo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750670
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b03cfc4a7fbbef3681c6175f69c81e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209085241
+        }
+    ],
+    "wof:id":1209085241,
+    "wof:lastmodified":1536298208,
+    "wof:name":"El Portachuelo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.73531,
+    10.37187,
+    -69.73531,
+    10.37187
+],
+  "geometry": {"coordinates":[-69.73531,10.37187],"type":"Point"}
+}

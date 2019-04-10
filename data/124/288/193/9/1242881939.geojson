@@ -1,0 +1,72 @@
+{
+  "id": 1242881939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.86667,9.08333,-63.86667,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":-63.86667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Huepo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642992,
+    "gn:latitude":9.08333,
+    "gn:longitude":-63.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Huepo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Huepe",
+        "El Huepo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642992
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9411af8489d9b68e92ddb2154c855f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1242881939,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1242881939,
+    "wof:lastmodified":1537713601,
+    "wof:name":"El Huepo",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.86666999999999,
+    9.08333,
+    -63.86666999999999,
+    9.08333
+],
+  "geometry": {"coordinates":[-63.86666999999999,9.08333],"type":"Point"}
+}

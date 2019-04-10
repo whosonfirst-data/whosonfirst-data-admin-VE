@@ -1,0 +1,61 @@
+{
+  "id": 1209222299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.93333,9.25,-64.93333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":-64.93333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Delicias",
+    "gn:country_code":"VE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636046,
+    "gn:latitude":9.25,
+    "gn:longitude":-64.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636046
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"44e0610b1256f7f9109a6f7e289f0992",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209222299
+        }
+    ],
+    "wof:id":1209222299,
+    "wof:lastmodified":1536293920,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.93333,
+    9.25,
+    -64.93333,
+    9.25
+],
+  "geometry": {"coordinates":[-64.93333,9.25],"type":"Point"}
+}

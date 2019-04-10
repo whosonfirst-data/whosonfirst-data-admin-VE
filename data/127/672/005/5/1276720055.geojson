@@ -1,0 +1,67 @@
+{
+  "id": 1276720055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.48333,9.96667,-68.48333,9.96667",
+    "geom:latitude":9.96667,
+    "geom:longitude":-68.48333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Cedeno",
+    "gn:country_code":"VE",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646107,
+    "gn:latitude":9.96667,
+    "gn:longitude":-68.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cede\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646107
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"76c7e515db0e8adfe751a3fc93b0bf27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1276720055,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1276720055,
+    "wof:lastmodified":1536757911,
+    "wof:name":"Cedeno",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.48333000000001,
+    9.96667,
+    -68.48333000000001,
+    9.96667
+],
+  "geometry": {"coordinates":[-68.48333000000001,9.96667],"type":"Point"}
+}

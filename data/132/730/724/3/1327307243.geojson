@@ -1,0 +1,67 @@
+{
+  "id": 1327307243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6941,8.38865,-71.6941,8.38865",
+    "geom:latitude":8.38865,
+    "geom:longitude":-71.6941,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pata de Gallina",
+    "gn:country_code":"VE",
+    "gn:dem":1283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797385,
+    "gn:latitude":8.38865,
+    "gn:longitude":-71.6941,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Pata de Gallina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797385
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd9b715e1c2e6147701694fb47ad0368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1327307243,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1327307243,
+    "wof:lastmodified":1536860281,
+    "wof:name":"Pata de Gallina",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6941,
+    8.38865,
+    -71.6941,
+    8.38865
+],
+  "geometry": {"coordinates":[-71.69410000000001,8.38865],"type":"Point"}
+}

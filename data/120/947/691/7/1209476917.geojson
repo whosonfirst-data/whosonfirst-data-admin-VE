@@ -1,0 +1,61 @@
+{
+  "id": 1209476917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07677,10.68088,-63.07677,10.68088",
+    "geom:latitude":10.68088,
+    "geom:longitude":-63.07677,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Churupal",
+    "gn:country_code":"VE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645580,
+    "gn:latitude":10.68088,
+    "gn:longitude":-63.07677,
+    "gn:modification_date":"1996-11-01",
+    "gn:name":"Churupal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645580
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f4c33c572c3045d9f5ecc42172f7f5c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209476917
+        }
+    ],
+    "wof:id":1209476917,
+    "wof:lastmodified":1536285907,
+    "wof:name":"Churupal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07677,
+    10.68088,
+    -63.07677,
+    10.68088
+],
+  "geometry": {"coordinates":[-63.07677,10.68088],"type":"Point"}
+}

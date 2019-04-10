@@ -1,0 +1,67 @@
+{
+  "id": 1343251905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96576,9.78846,-68.96576,9.78846",
+    "geom:latitude":9.78846,
+    "geom:longitude":-68.96576,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Rio Claro",
+    "gn:country_code":"VE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799418,
+    "gn:latitude":9.78846,
+    "gn:longitude":-68.96576,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"R\u00edo Claro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799418
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1ba7e22b38ae18eb4ea0c2748d377e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694089,
+            "locality_id":1343251905,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1343251905,
+    "wof:lastmodified":1537045415,
+    "wof:name":"Rio Claro",
+    "wof:parent_id":1108694089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96576,
+    9.78846,
+    -68.96576,
+    9.78846
+],
+  "geometry": {"coordinates":[-68.96576,9.78846],"type":"Point"}
+}

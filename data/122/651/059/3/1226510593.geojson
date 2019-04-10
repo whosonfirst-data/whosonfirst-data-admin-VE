@@ -1,0 +1,71 @@
+{
+  "id": 1226510593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88833,10.87025,-71.88833,10.87025",
+    "geom:latitude":10.87025,
+    "geom:longitude":-71.88833,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Campo Mara",
+    "gn:country_code":"VE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647180,
+    "gn:latitude":10.87025,
+    "gn:longitude":-71.88833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Campo Mara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mara",
+        "Campo Mara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647180
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1d2a64ff222637d7060410ff8c8448db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1226510593,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226510593,
+    "wof:lastmodified":1537713624,
+    "wof:name":"Campo Mara",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88833000000002,
+    10.87025,
+    -71.88833000000002,
+    10.87025
+],
+  "geometry": {"coordinates":[-71.88833000000002,10.87025],"type":"Point"}
+}

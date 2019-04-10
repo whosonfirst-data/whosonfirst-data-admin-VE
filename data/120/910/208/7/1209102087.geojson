@@ -1,0 +1,61 @@
+{
+  "id": 1209102087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.99941,9.79306,-67.99941,9.79306",
+    "geom:latitude":9.79306,
+    "geom:longitude":-67.99941,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Matutero",
+    "gn:country_code":"VE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3800008,
+    "gn:latitude":9.79306,
+    "gn:longitude":-67.99941,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Matutero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3800008
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"af4d5864b431348cfcd55992af5c6ffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209102087
+        }
+    ],
+    "wof:id":1209102087,
+    "wof:lastmodified":1536297699,
+    "wof:name":"Matutero",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.99941,
+    9.79306,
+    -67.99941,
+    9.79306
+],
+  "geometry": {"coordinates":[-67.99941,9.79306],"type":"Point"}
+}

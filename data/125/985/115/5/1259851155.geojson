@@ -1,0 +1,67 @@
+{
+  "id": 1259851155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.79637,9.74692,-63.79637,9.74692",
+    "geom:latitude":9.74692,
+    "geom:longitude":-63.79637,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Areo",
+    "gn:country_code":"VE",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648943,
+    "gn:latitude":9.74692,
+    "gn:longitude":-63.79637,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Areo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648943
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b4fd3f6c66bcf806440e8af6cd40e1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1259851155,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1259851155,
+    "wof:lastmodified":1536824906,
+    "wof:name":"Areo",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.79637,
+    9.74692,
+    -63.79637,
+    9.74692
+],
+  "geometry": {"coordinates":[-63.79637,9.74692],"type":"Point"}
+}

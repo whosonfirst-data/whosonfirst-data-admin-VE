@@ -1,0 +1,67 @@
+{
+  "id": 1226344261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.31369,9.98923,-64.31369,9.98923",
+    "geom:latitude":9.98923,
+    "geom:longitude":-64.31369,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Potrero",
+    "gn:country_code":"VE",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641902,
+    "gn:latitude":9.98923,
+    "gn:longitude":-64.31369,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641902
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8e2152efb43d91aaefb4c101d872e67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1226344261,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226344261,
+    "wof:lastmodified":1536791936,
+    "wof:name":"El Potrero",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.31369000000001,
+    9.98923,
+    -64.31369000000001,
+    9.98923
+],
+  "geometry": {"coordinates":[-64.31369000000001,9.98923],"type":"Point"}
+}

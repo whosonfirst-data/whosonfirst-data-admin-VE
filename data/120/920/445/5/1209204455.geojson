@@ -1,0 +1,61 @@
+{
+  "id": 1209204455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.49167,9.755,-68.49167,9.755",
+    "geom:latitude":9.755,
+    "geom:longitude":-68.49167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Tanques",
+    "gn:country_code":"VE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799508,
+    "gn:latitude":9.755,
+    "gn:longitude":-68.49167,
+    "gn:modification_date":"2002-10-29",
+    "gn:name":"Los Tanques",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799508
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"40465c729bb75a52a3e1a1d0fdef1fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209204455
+        }
+    ],
+    "wof:id":1209204455,
+    "wof:lastmodified":1536294500,
+    "wof:name":"Los Tanques",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.49167,
+    9.755,
+    -68.49167,
+    9.755
+],
+  "geometry": {"coordinates":[-68.49167,9.755],"type":"Point"}
+}

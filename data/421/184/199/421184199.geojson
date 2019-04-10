@@ -1,0 +1,79 @@
+{
+  "id": 421184199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.729768,10.9611365,-71.729768,10.9611365",
+    "geom:latitude":10.961137,
+    "geom:longitude":-71.729768,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Rafael",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":990184,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804786,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804786,
+        "qs:id":990184,
+        "qs_pg:id":990184
+    },
+    "wof:country":"VE",
+    "wof:created":1459009403,
+    "wof:geomhash":"500a5d97c89f370fe0c466b0ec3aed52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "localadmin_id":421184199,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":421184199,
+    "wof:lastmodified":1497047613,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421196977,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.729768,
+    10.9611365,
+    -71.729768,
+    10.9611365
+],
+  "geometry": {"coordinates":[-71.72976800000001,10.9611365],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209085233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.24453,10.27231,-69.24453,10.27231",
+    "geom:latitude":10.27231,
+    "geom:longitude":-69.24453,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Pocitos",
+    "gn:country_code":"VE",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746830,
+    "gn:latitude":10.27231,
+    "gn:longitude":-69.24453,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Los Pocitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746830
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ce86254f704217158b9e7fb0760bd5ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209085233
+        }
+    ],
+    "wof:id":1209085233,
+    "wof:lastmodified":1536298209,
+    "wof:name":"Los Pocitos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.24453000000001,
+    10.27231,
+    -69.24453000000001,
+    10.27231
+],
+  "geometry": {"coordinates":[-69.24453000000001,10.27231],"type":"Point"}
+}

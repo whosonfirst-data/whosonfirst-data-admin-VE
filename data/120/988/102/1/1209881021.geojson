@@ -1,0 +1,67 @@
+{
+  "id": 1209881021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.16893,10.47659,-64.16893,10.47659",
+    "geom:latitude":10.47659,
+    "geom:longitude":-64.16893,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Barbudo",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644182,
+    "gn:latitude":10.47659,
+    "gn:longitude":-64.16893,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Barbudo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644182
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3fa41c767e5b41d8183f1288378a78c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1209881021,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1209881021,
+    "wof:lastmodified":1536395043,
+    "wof:name":"El Barbudo",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.16893,
+    10.47659,
+    -64.16893,
+    10.47659
+],
+  "geometry": {"coordinates":[-64.16893,10.47659],"type":"Point"}
+}

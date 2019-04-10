@@ -1,0 +1,61 @@
+{
+  "id": 1209682477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.58333,10.6,-66.58333,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":-66.58333,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Colonia Vacacional",
+    "gn:country_code":"VE",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645351,
+    "gn:latitude":10.6,
+    "gn:longitude":-66.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Colonia Vacacional",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645351
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a9bb17e19e72897ec7af9b1a21ff6801",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209682477
+        }
+    ],
+    "wof:id":1209682477,
+    "wof:lastmodified":1536279527,
+    "wof:name":"Colonia Vacacional",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.58333,
+    10.6,
+    -66.58333,
+    10.6
+],
+  "geometry": {"coordinates":[-66.58333,10.6],"type":"Point"}
+}

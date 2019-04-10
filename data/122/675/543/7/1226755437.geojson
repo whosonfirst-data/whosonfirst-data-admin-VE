@@ -1,0 +1,67 @@
+{
+  "id": 1226755437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06497,8.09832,-65.06497,8.09832",
+    "geom:latitude":8.09832,
+    "geom:longitude":-65.06497,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cabeceras de Veladero",
+    "gn:country_code":"VE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486030,
+    "gn:latitude":8.09832,
+    "gn:longitude":-65.06497,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Cabeceras de Veladero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486030
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fbb9be2c043c99f2b4969127de09cfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1226755437,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226755437,
+    "wof:lastmodified":1536701787,
+    "wof:name":"Cabeceras de Veladero",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06497,
+    8.09832,
+    -65.06497,
+    8.09832
+],
+  "geometry": {"coordinates":[-65.06497,8.09832],"type":"Point"}
+}

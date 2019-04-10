@@ -1,0 +1,72 @@
+{
+  "id": 1243040505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.73333,10.1,-66.73333,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-66.73333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Machilanda",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633446,
+    "gn:latitude":10.1,
+    "gn:longitude":-66.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Machilanda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machillanda",
+        "Machilanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633446
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4f73f0c42d847e6107e4ea65074bdedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694243,
+            "locality_id":1243040505,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1243040505,
+    "wof:lastmodified":1537713544,
+    "wof:name":"Machilanda",
+    "wof:parent_id":1108694243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.73333000000001,
+    10.1,
+    -66.73333000000001,
+    10.1
+],
+  "geometry": {"coordinates":[-66.73333000000001,10.1],"type":"Point"}
+}

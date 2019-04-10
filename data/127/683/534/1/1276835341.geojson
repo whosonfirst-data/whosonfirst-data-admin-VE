@@ -1,0 +1,67 @@
+{
+  "id": 1276835341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.76667,8.91667,-69.76667,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-69.76667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Aparicion",
+    "gn:country_code":"VE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649174,
+    "gn:latitude":8.91667,
+    "gn:longitude":-69.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Aparici\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421189087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649174
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0f42d267c5b1882c082085cc55e1459f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189087,
+            "locality_id":1276835341,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1276835341,
+    "wof:lastmodified":1537097137,
+    "wof:name":"Aparicion",
+    "wof:parent_id":421189087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.76666999999999,
+    8.91667,
+    -69.76666999999999,
+    8.91667
+],
+  "geometry": {"coordinates":[-69.76666999999999,8.91667],"type":"Point"}
+}

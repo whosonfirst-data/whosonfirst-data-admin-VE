@@ -1,0 +1,67 @@
+{
+  "id": 1326986621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53333,9.28333,-70.53333,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":-70.53333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Palwarito",
+    "gn:country_code":"VE",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630903,
+    "gn:latitude":9.28333,
+    "gn:longitude":-70.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Palwarito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421188829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630903
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d8f54b2dec23f9675cd08c76abd75af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188829,
+            "locality_id":1326986621,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1326986621,
+    "wof:lastmodified":1536825739,
+    "wof:name":"Palwarito",
+    "wof:parent_id":421188829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53333,
+    9.28333,
+    -70.53333,
+    9.28333
+],
+  "geometry": {"coordinates":[-70.53333000000001,9.28333],"type":"Point"}
+}

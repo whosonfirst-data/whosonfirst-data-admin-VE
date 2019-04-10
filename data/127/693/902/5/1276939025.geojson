@@ -1,0 +1,71 @@
+{
+  "id": 1276939025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.73841,10.75013,-62.73841,10.75013",
+    "geom:latitude":10.75013,
+    "geom:longitude":-62.73841,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"San Juan de Unare",
+    "gn:country_code":"VE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628047,
+    "gn:latitude":10.75013,
+    "gn:longitude":-62.73841,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan de Unare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "San Juan de Unare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        421193365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628047
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e600924c9e44c3b333347ae020a5c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193365,
+            "locality_id":1276939025,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276939025,
+    "wof:lastmodified":1537713518,
+    "wof:name":"San Juan de Unare",
+    "wof:parent_id":421193365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.73841,
+    10.75013,
+    -62.73841,
+    10.75013
+],
+  "geometry": {"coordinates":[-62.73841,10.75013],"type":"Point"}
+}

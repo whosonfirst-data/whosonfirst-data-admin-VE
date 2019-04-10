@@ -1,0 +1,67 @@
+{
+  "id": 1310082105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.60833,9.84944,-67.60833,9.84944",
+    "geom:latitude":9.84944,
+    "geom:longitude":-67.60833,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Chiguire",
+    "gn:country_code":"VE",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643688,
+    "gn:latitude":9.84944,
+    "gn:longitude":-67.60833,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"El Chig\u00fcire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643688
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"19a99381ff07ef2b5f9aeaadfbd94b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1310082105,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310082105,
+    "wof:lastmodified":1537029059,
+    "wof:name":"El Chiguire",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.60833000000001,
+    9.84944,
+    -67.60833000000001,
+    9.84944
+],
+  "geometry": {"coordinates":[-67.60833000000001,9.84944],"type":"Point"}
+}

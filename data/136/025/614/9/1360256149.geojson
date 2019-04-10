@@ -1,0 +1,67 @@
+{
+  "id": 1360256149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05727,10.36259,-70.05727,10.36259",
+    "geom:latitude":10.36259,
+    "geom:longitude":-70.05727,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Mesa",
+    "gn:country_code":"VE",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637139,
+    "gn:latitude":10.36259,
+    "gn:longitude":-70.05727,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"La Mesa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637139
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"facdb51b4cd9fece15116a580c564612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1360256149,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1360256149,
+    "wof:lastmodified":1536699220,
+    "wof:name":"La Mesa",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05726999999999,
+    10.36259,
+    -70.05726999999999,
+    10.36259
+],
+  "geometry": {"coordinates":[-70.05726999999999,10.36259],"type":"Point"}
+}

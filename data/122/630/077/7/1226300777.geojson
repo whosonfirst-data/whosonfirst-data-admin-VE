@@ -1,0 +1,67 @@
+{
+  "id": 1226300777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.87697,9.27532,-71.87697,9.27532",
+    "geom:latitude":9.27532,
+    "geom:longitude":-71.87697,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Paja Redonda",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631138,
+    "gn:latitude":9.27532,
+    "gn:longitude":-71.87697,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Paja Redonda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631138
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2b2d8ef33949027aaae553b4eabf407f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694153,
+            "locality_id":1226300777,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226300777,
+    "wof:lastmodified":1536853368,
+    "wof:name":"Paja Redonda",
+    "wof:parent_id":1108694153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.87697,
+    9.27532,
+    -71.87697,
+    9.27532
+],
+  "geometry": {"coordinates":[-71.87697,9.27532],"type":"Point"}
+}

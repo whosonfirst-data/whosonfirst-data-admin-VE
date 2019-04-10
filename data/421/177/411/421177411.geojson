@@ -1,0 +1,163 @@
+{
+  "id": 421177411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004709,
+    "geom:area_square_m":57267508.645159,
+    "geom:bbox":"-66.9986023094,10.3512831935,-66.8925,10.4231685113",
+    "geom:latitude":10.388725,
+    "geom:longitude":-66.944848,
+    "iso:country":"VE",
+    "lbl:latitude":10.387338,
+    "lbl:longitude":-66.950153,
+    "meso:admin_1":"Miranda",
+    "meso:gadm_admin":"Los Salias",
+    "meso:gaul_admin":"Los Salias",
+    "meso:hasc_id":"VE.MI.LS",
+    "meso:mps_x":-66.950153,
+    "meso:mps_y":10.387338,
+    "meso:name_local":"Los Salias",
+    "meso:source":"AOTM",
+    "mps:latitude":10.387338,
+    "mps:longitude":-66.950153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u85a9\u5229\u4e9e\u65af\u5e02"
+    ],
+    "name:dut_x_preferred":[
+        "Los Salias"
+    ],
+    "name:eng_x_preferred":[
+        "Los Salias"
+    ],
+    "name:eng_x_variant":[
+        "Los Salias",
+        "Los Salias Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Los Salias"
+    ],
+    "name:fre_x_preferred":[
+        "Los Salias"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10e1\u10d0\u10da\u10d8\u10d0\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Los Salias"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b9\u30b5\u30ea\u30a2\u30b9\u5e02"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10e1\u10d0\u10da\u10d8\u10d0\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc2a4\uc0b4\ub9ac\uc544\uc2a4 \uc2dc"
+    ],
+    "name:nan_x_preferred":[
+        "Los Salias"
+    ],
+    "name:nld_x_preferred":[
+        "Los Salias"
+    ],
+    "name:por_x_preferred":[
+        "Los Salias"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio Los Salias"
+    ],
+    "name:vie_x_preferred":[
+        "Los Salias"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Los Salias"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u85a9\u5229\u4e9e\u65af\u5e02"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Los Salias",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":997,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":421476,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804634,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-09-01",
+    "statoids:area_km":"51",
+    "statoids:as_of_date":"2011-09-01",
+    "statoids:capital":"San Antonio de Los Altos",
+    "statoids:country":"VE",
+    "statoids:hasc":"VE.MI",
+    "statoids:name":"Los Salias",
+    "statoids:population":"68255",
+    "statoids:statoid":"VE.MI.LS",
+    "statoids:timezone":"-4:30",
+    "statoids:type":"municipality",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804634,
+        "hasc:id":"VE.MI.LS",
+        "qs:id":421476,
+        "wd:id":"Q827414"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009143,
+    "wof:geomhash":"0c037cb6487a785a11af8ccf4805aae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421177411,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421177411,
+    "wof:lastmodified":1536615958,
+    "wof:name":"Los Salias",
+    "wof:parent_id":85680553,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":68255,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:shortcode":"LS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.99860230939082,
+    10.35128319345255,
+    -66.89249999999483,
+    10.42316851132044
+],
+  "geometry": {"coordinates":[[[-66.95007658029171,10.42316851132044],[-66.93602910690311,10.42118819174505],[-66.93066966578552,10.42048183147213],[-66.92624396967302,10.41978535007408],[-66.92243416341169,10.41920241557027],[-66.91855529012281,10.41693941620458],[-66.91321281168345,10.4139257467932],[-66.90876186965778,10.41233758484975],[-66.90499431588159,10.41127263181165],[-66.90051782898675,10.41063631590574],[-66.8968844221146,10.41031815795278],[-66.89446215086647,10.41010605265081],[-66.89325101524241,10.40999999999982],[-66.89278163071266,10.39749999999982],[-66.89259387690078,10.39249999999982],[-66.89249999999483,10.38999999999982],[-66.90706111515375,10.38399930757928],[-66.91241865939196,10.38260947471028],[-66.91791616323243,10.37959790381601],[-66.92224785259064,10.3742334811292],[-66.92333457560447,10.36845797740721],[-66.9237331459039,10.36348421194192],[-66.92419420583857,10.36043815700086],[-66.92668092187796,10.35866544807177],[-66.93019118862205,10.35748199635017],[-66.93425973204069,10.35522408945062],[-66.93896730403571,10.35261204472522],[-66.94192386102534,10.35134896489576],[-66.94686981474587,10.35128319345255],[-66.95275067584188,10.35177313366921],[-66.9566712499059,10.35209976048032],[-66.95863153693789,10.35226307388587],[-66.96661279949218,10.3579658677741],[-66.97258481335285,10.36177627168529],[-66.97707210311827,10.36494752873139],[-66.98039072416381,10.36715110066922],[-66.98320201006459,10.3688217656176],[-66.98494141167538,10.37007733337554],[-66.98880396850973,10.37388796599056],[-66.99361405967494,10.37947933271854],[-66.99610818453289,10.38314024370816],[-66.99777093443817,10.38558085103458],[-66.99860230939082,10.38680115469779],[-66.98722127096357,10.39494699396745],[-66.98294157937183,10.3987463567649],[-66.97831692419271,10.40294914308497],[-66.97416720100622,10.40658040967729],[-66.96953505088931,10.41083875444979],[-66.96351752544209,10.4154193772248],[-66.95824591020721,10.41821611486795],[-66.95437924766398,10.42040661151967],[-66.95222791397785,10.42178756142005],[-66.95079369152043,10.42270819468698],[-66.95007658029171,10.42316851132044]]],"type":"Polygon"}
+}

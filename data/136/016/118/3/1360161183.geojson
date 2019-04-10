@@ -1,0 +1,71 @@
+{
+  "id": 1360161183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.95448,9.06394,-65.95448,9.06394",
+    "geom:latitude":9.06394,
+    "geom:longitude":-65.95448,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Canaveral",
+    "gn:country_code":"VE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647094,
+    "gn:latitude":9.06394,
+    "gn:longitude":-65.95448,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ca\u00f1averal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1averales",
+        "Ca\u00f1averal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647094
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c94411ade1343a9ce1514b75db9c36dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1360161183,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1360161183,
+    "wof:lastmodified":1537713624,
+    "wof:name":"Canaveral",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.95448,
+    9.06394,
+    -65.95448,
+    9.06394
+],
+  "geometry": {"coordinates":[-65.95448,9.06394],"type":"Point"}
+}

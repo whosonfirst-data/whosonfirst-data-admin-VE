@@ -1,0 +1,72 @@
+{
+  "id": 1242872279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.65,8.11667,-67.65,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":-67.65,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Silvero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641474,
+    "gn:latitude":8.11667,
+    "gn:longitude":-67.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Silvero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sillero",
+        "El Silvero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641474
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2d62f64225ca6e80da80482a86abb597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1242872279,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1242872279,
+    "wof:lastmodified":1537713592,
+    "wof:name":"El Silvero",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.65,
+    8.11667,
+    -67.65,
+    8.11667
+],
+  "geometry": {"coordinates":[-67.65000000000001,8.11667],"type":"Point"}
+}

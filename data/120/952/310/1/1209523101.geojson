@@ -1,0 +1,61 @@
+{
+  "id": 1209523101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.558,10.002,-64.558,10.002",
+    "geom:latitude":10.002,
+    "geom:longitude":-64.558,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Almita",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638972,
+    "gn:latitude":10.002,
+    "gn:longitude":-64.558,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Almita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638972
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bb95103bebaa78b9e5c2549b7266af6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209523101
+        }
+    ],
+    "wof:id":1209523101,
+    "wof:lastmodified":1536284517,
+    "wof:name":"La Almita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.558,
+    10.002,
+    -64.558,
+    10.002
+],
+  "geometry": {"coordinates":[-64.55800000000001,10.002],"type":"Point"}
+}

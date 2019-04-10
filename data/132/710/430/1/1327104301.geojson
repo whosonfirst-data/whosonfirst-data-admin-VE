@@ -1,0 +1,73 @@
+{
+  "id": 1327104301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.88333,10.16667,-66.88333,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":-66.88333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Aparay",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649175,
+    "gn:latitude":10.16667,
+    "gn:longitude":-66.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aparay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aparai",
+        "Apara",
+        "Aparay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421170247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649175
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8a77e35c3e735e30eae96d2a5529e36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421170247,
+            "locality_id":1327104301,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1327104301,
+    "wof:lastmodified":1537713633,
+    "wof:name":"Aparay",
+    "wof:parent_id":421170247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.88333,
+    10.16667,
+    -66.88333,
+    10.16667
+],
+  "geometry": {"coordinates":[-66.88333,10.16667],"type":"Point"}
+}

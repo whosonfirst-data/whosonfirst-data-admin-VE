@@ -1,0 +1,61 @@
+{
+  "id": 1209079433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.84102,8.20384,-71.84102,8.20384",
+    "geom:latitude":8.20384,
+    "geom:longitude":-71.84102,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Rinconcito",
+    "gn:country_code":"VE",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629144,
+    "gn:latitude":8.20384,
+    "gn:longitude":-71.84102,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Rinconcito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629144
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c748231ba5b493c1e5d73a0818d15543",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209079433
+        }
+    ],
+    "wof:id":1209079433,
+    "wof:lastmodified":1536298387,
+    "wof:name":"Rinconcito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.84102,
+    8.20384,
+    -71.84102,
+    8.20384
+],
+  "geometry": {"coordinates":[-71.84102,8.20384],"type":"Point"}
+}

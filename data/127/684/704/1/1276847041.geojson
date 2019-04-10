@@ -1,0 +1,72 @@
+{
+  "id": 1276847041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26667,9.26667,-66.26667,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-66.26667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Casirey",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646289,
+    "gn:latitude":9.26667,
+    "gn:longitude":-66.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Casirey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserey",
+        "Casirey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646289
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd53ea88690e84a3036e71047a030f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694159,
+            "locality_id":1276847041,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276847041,
+    "wof:lastmodified":1537713620,
+    "wof:name":"Casirey",
+    "wof:parent_id":1108694159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26666999999999,
+    9.26667,
+    -66.26666999999999,
+    9.26667
+],
+  "geometry": {"coordinates":[-66.26666999999999,9.26667],"type":"Point"}
+}

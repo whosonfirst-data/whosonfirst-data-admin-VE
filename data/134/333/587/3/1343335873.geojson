@@ -1,0 +1,67 @@
+{
+  "id": 1343335873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96033,7.88696,-71.96033,7.88696",
+    "geom:latitude":7.88696,
+    "geom:longitude":-71.96033,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mesa de San Antonio",
+    "gn:country_code":"VE",
+    "gn:dem":1931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795297,
+    "gn:latitude":7.88696,
+    "gn:longitude":-71.96033,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Mesa de San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421195505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795297
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"172aeeff928419b4bc2bf82b3a65cdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195505,
+            "locality_id":1343335873,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1343335873,
+    "wof:lastmodified":1536926877,
+    "wof:name":"Mesa de San Antonio",
+    "wof:parent_id":421195505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96033,
+    7.88696,
+    -71.96033,
+    7.88696
+],
+  "geometry": {"coordinates":[-71.96033,7.88696],"type":"Point"}
+}

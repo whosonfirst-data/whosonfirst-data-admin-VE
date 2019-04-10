@@ -1,0 +1,67 @@
+{
+  "id": 1243248109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.28666,9.91191,-68.28666,9.91191",
+    "geom:latitude":9.91191,
+    "geom:longitude":-68.28666,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Caja de Agua",
+    "gn:country_code":"VE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647471,
+    "gn:latitude":9.91191,
+    "gn:longitude":-68.28666,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Caja de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647471
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3affdebe7d9f72d6cc3307e33d507ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "locality_id":1243248109,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1243248109,
+    "wof:lastmodified":1537088252,
+    "wof:name":"Caja de Agua",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.28666,
+    9.91191,
+    -68.28666,
+    9.91191
+],
+  "geometry": {"coordinates":[-68.28666,9.91191],"type":"Point"}
+}

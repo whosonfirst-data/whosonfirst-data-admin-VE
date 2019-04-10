@@ -1,0 +1,61 @@
+{
+  "id": 1209170221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.80313,8.89189,-71.80313,8.89189",
+    "geom:latitude":8.89189,
+    "geom:longitude":-71.80313,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Abanico",
+    "gn:country_code":"VE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644415,
+    "gn:latitude":8.89189,
+    "gn:longitude":-71.80313,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"El Abanico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644415
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e98434f2415bb9e14083f993e0678979",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209170221
+        }
+    ],
+    "wof:id":1209170221,
+    "wof:lastmodified":1536295606,
+    "wof:name":"El Abanico",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.80313000000002,
+    8.89189,
+    -71.80313000000002,
+    8.89189
+],
+  "geometry": {"coordinates":[-71.80313000000002,8.89189],"type":"Point"}
+}

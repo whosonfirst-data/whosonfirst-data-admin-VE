@@ -1,0 +1,73 @@
+{
+  "id": 1225930393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26778,9.96,-66.26778,9.96",
+    "geom:latitude":9.96,
+    "geom:longitude":-66.26778,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Francisco de Macaira",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628352,
+    "gn:latitude":9.96,
+    "gn:longitude":-66.26778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Francisco de Macaira",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macaira",
+        "San Francisco de Maicara",
+        "San Francisco de Macaira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628352
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a2ecd6c3b7069d3802d712c077988b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1225930393,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1225930393,
+    "wof:lastmodified":1537713520,
+    "wof:name":"San Francisco de Macaira",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26778,
+    9.96,
+    -66.26778,
+    9.96
+],
+  "geometry": {"coordinates":[-66.26778,9.96],"type":"Point"}
+}

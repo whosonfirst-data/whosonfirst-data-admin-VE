@@ -1,0 +1,67 @@
+{
+  "id": 1260190445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.91817,9.20483,-64.91817,9.20483",
+    "geom:latitude":9.20483,
+    "geom:longitude":-64.91817,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rincon Bonito",
+    "gn:country_code":"VE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484463,
+    "gn:latitude":9.20483,
+    "gn:longitude":-64.91817,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Rinc\u00f3n Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484463
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e0de13ba6b0f3281bde5dc1b2055a99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694283,
+            "locality_id":1260190445,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1260190445,
+    "wof:lastmodified":1536837364,
+    "wof:name":"Rincon Bonito",
+    "wof:parent_id":1108694283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.91816999999999,
+    9.20483,
+    -64.91816999999999,
+    9.20483
+],
+  "geometry": {"coordinates":[-64.91816999999999,9.20483],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209874119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.23667,10.27333,-71.23667,10.27333",
+    "geom:latitude":10.27333,
+    "geom:longitude":-71.23667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Nobleza",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636990,
+    "gn:latitude":10.27333,
+    "gn:longitude":-71.23667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Nobleza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Noblesa",
+        "La Nobleza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636990
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"efb03865fe4d8977cdfb22414ffc8b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201571,
+            "locality_id":1209874119,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1209874119,
+    "wof:lastmodified":1537713565,
+    "wof:name":"La Nobleza",
+    "wof:parent_id":421201571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.23666999999998,
+    10.27333,
+    -71.23666999999998,
+    10.27333
+],
+  "geometry": {"coordinates":[-71.23666999999998,10.27333],"type":"Point"}
+}

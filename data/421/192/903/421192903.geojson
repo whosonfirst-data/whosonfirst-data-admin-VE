@@ -1,0 +1,75 @@
+{
+  "id": 421192903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.00876,8.552503,-71.00876,8.552503",
+    "geom:latitude":8.552503,
+    "geom:longitude":-71.00876,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Humboldt",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":129,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":129,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1182905,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26806887,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26806887,
+        "qs:id":1182905
+    },
+    "wof:country":"VE",
+    "wof:created":1459009753,
+    "wof:geomhash":"92b42f1681d20ced3b963a45dd474ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":421192903,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421192903,
+    "wof:lastmodified":1500034075,
+    "wof:name":"Humboldt",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.00876,
+    8.552503,
+    -71.00876,
+    8.552503
+],
+  "geometry": {"coordinates":[-71.00876,8.552503],"type":"Point"}
+}

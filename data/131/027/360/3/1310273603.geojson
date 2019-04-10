@@ -1,0 +1,71 @@
+{
+  "id": 1310273603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55857,10.46967,-68.55857,10.46967",
+    "geom:latitude":10.46967,
+    "geom:longitude":-68.55857,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2214.0",
+    "gn:asciiname":"Farriar",
+    "gn:country_code":"VE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3640853,
+    "gn:latitude":10.46967,
+    "gn:longitude":-68.55857,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Farriar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Farriar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640853
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a3faa16ce48599aad5500b7fb73ea7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694481,
+            "locality_id":1310273603,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1310273603,
+    "wof:lastmodified":1537713588,
+    "wof:name":"Farriar",
+    "wof:parent_id":1108694481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55856999999999,
+    10.46967,
+    -68.55856999999999,
+    10.46967
+],
+  "geometry": {"coordinates":[-68.55856999999999,10.46967],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343573095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.71053,8.84357,-64.71053,8.84357",
+    "geom:latitude":8.84357,
+    "geom:longitude":-64.71053,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Pariaguan",
+    "gn:country_code":"VE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3630687,
+    "gn:latitude":8.84357,
+    "gn:longitude":-64.71053,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Pariagu\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pariagu\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630687
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1cec6c46f57a9e097d1b901f67b3f47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1343573095,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343573095,
+    "wof:lastmodified":1537713531,
+    "wof:name":"Pariaguan",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.71053,
+    8.84357,
+    -64.71053,
+    8.84357
+],
+  "geometry": {"coordinates":[-64.71053000000001,8.84357],"type":"Point"}
+}

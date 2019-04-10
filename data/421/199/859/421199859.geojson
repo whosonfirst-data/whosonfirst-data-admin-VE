@@ -1,0 +1,79 @@
+{
+  "id": 421199859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.69284,10.19825,-64.69284,10.19825",
+    "geom:latitude":10.19825,
+    "geom:longitude":-64.69284,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "La Lecher\u00eda"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3642497,
+    "qs:gn_pop":0,
+    "qs:name":"El Morro de Barcelona",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501625,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468201,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642497,
+        "gp:id":468201,
+        "qs:id":501625
+    },
+    "wof:country":"VE",
+    "wof:created":1459010003,
+    "wof:geomhash":"ae0fb28df465401451b94e737826b54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694263,
+            "locality_id":421199859,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":421199859,
+    "wof:lastmodified":1501268332,
+    "wof:name":"El Morro de Barcelona",
+    "wof:parent_id":1108694263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.69284,
+    10.19825,
+    -64.69284,
+    10.19825
+],
+  "geometry": {"coordinates":[-64.69284,10.19825],"type":"Point"}
+}

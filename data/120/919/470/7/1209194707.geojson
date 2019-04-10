@@ -1,0 +1,65 @@
+{
+  "id": 1209194707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.80724,10.91987,-69.80724,10.91987",
+    "geom:latitude":10.91987,
+    "geom:longitude":-69.80724,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Paraiso",
+    "gn:country_code":"VE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642227,
+    "gn:latitude":10.91987,
+    "gn:longitude":-69.80724,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Para\u00edso",
+        "Para\u00edso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642227
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"39058540db8938f1c9d26dff96be16a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209194707
+        }
+    ],
+    "wof:id":1209194707,
+    "wof:lastmodified":1537713596,
+    "wof:name":"Paraiso",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.80724000000001,
+    10.91987,
+    -69.80724000000001,
+    10.91987
+],
+  "geometry": {"coordinates":[-69.80724000000001,10.91987],"type":"Point"}
+}

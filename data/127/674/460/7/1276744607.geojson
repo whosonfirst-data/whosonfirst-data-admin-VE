@@ -1,0 +1,67 @@
+{
+  "id": 1276744607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.63494,8.81526,-62.63494,8.81526",
+    "geom:latitude":8.81526,
+    "geom:longitude":-62.63494,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Paso Las Dos Bocas",
+    "gn:country_code":"VE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778151,
+    "gn:latitude":8.81526,
+    "gn:longitude":-62.63494,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Paso Las Dos Bocas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778151
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8def2b27b4c601da094a7040fd89c25f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694467,
+            "locality_id":1276744607,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276744607,
+    "wof:lastmodified":1536725209,
+    "wof:name":"Paso Las Dos Bocas",
+    "wof:parent_id":1108694467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.63494,
+    8.81526,
+    -62.63494,
+    8.81526
+],
+  "geometry": {"coordinates":[-62.63494,8.81526],"type":"Point"}
+}

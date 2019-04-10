@@ -1,0 +1,67 @@
+{
+  "id": 1344218901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.19947,10.33126,-64.19947,10.33126",
+    "geom:latitude":10.33126,
+    "geom:longitude":-64.19947,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Cancamure",
+    "gn:country_code":"VE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647081,
+    "gn:latitude":10.33126,
+    "gn:longitude":-64.19947,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Cancamure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647081
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8afcb6598fdc614bac3747b63e1b84ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1344218901,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1344218901,
+    "wof:lastmodified":1536646680,
+    "wof:name":"Cancamure",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.19946999999999,
+    10.33126,
+    -64.19946999999999,
+    10.33126
+],
+  "geometry": {"coordinates":[-64.19946999999999,10.33126],"type":"Point"}
+}

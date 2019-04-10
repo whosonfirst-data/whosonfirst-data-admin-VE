@@ -1,0 +1,73 @@
+{
+  "id": 1209419951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.795,10.39917,-67.795,10.39917",
+    "geom:latitude":10.39917,
+    "geom:longitude":-67.795,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cumboto",
+    "gn:country_code":"VE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644748,
+    "gn:latitude":10.39917,
+    "gn:longitude":-67.795,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Cumboto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cumboto"
+    ],
+    "name:fra_x_preferred":[
+        "Cumboto"
+    ],
+    "name:por_x_preferred":[
+        "Cumboto"
+    ],
+    "name:spa_x_preferred":[
+        "Cumboto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644748
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"17a8f6d8eb8aea5b2078dae164182905",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209419951
+        }
+    ],
+    "wof:id":1209419951,
+    "wof:lastmodified":1537560463,
+    "wof:name":"Cumboto",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.795,
+    10.39917,
+    -67.795,
+    10.39917
+],
+  "geometry": {"coordinates":[-67.795,10.39917],"type":"Point"}
+}

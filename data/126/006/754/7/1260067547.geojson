@@ -1,0 +1,67 @@
+{
+  "id": 1260067547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.44204,10.74854,-68.44204,10.74854",
+    "geom:latitude":10.74854,
+    "geom:longitude":-68.44204,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Felipito",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640842,
+    "gn:latitude":10.74854,
+    "gn:longitude":-68.44204,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Felipito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890417393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640842
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"21593b480b21dbc6121b485e32095cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890417393,
+            "locality_id":1260067547,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1260067547,
+    "wof:lastmodified":1537010324,
+    "wof:name":"Felipito",
+    "wof:parent_id":890417393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.44204,
+    10.74854,
+    -68.44204,
+    10.74854
+],
+  "geometry": {"coordinates":[-68.44204000000001,10.74854],"type":"Point"}
+}

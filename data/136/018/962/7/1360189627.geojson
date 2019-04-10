@@ -1,0 +1,67 @@
+{
+  "id": 1360189627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.90021,9.83854,-66.90021,9.83854",
+    "geom:latitude":9.83854,
+    "geom:longitude":-66.90021,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pegoncito",
+    "gn:country_code":"VE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806673,
+    "gn:latitude":9.83854,
+    "gn:longitude":-66.90021,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Pegoncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421193519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806673
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d3c07d575bbce0033fc7536880275e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193519,
+            "locality_id":1360189627,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1360189627,
+    "wof:lastmodified":1536795056,
+    "wof:name":"Pegoncito",
+    "wof:parent_id":421193519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.90021,
+    9.83854,
+    -66.90021,
+    9.83854
+],
+  "geometry": {"coordinates":[-66.90021,9.83854],"type":"Point"}
+}

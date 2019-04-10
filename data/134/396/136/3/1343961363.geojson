@@ -1,0 +1,67 @@
+{
+  "id": 1343961363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98333,1.71667,-66.98333,1.71667",
+    "geom:latitude":1.71667,
+    "geom:longitude":-66.98333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Macanilla",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633513,
+    "gn:latitude":1.71667,
+    "gn:longitude":-66.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Macanilla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633513
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"70c49216a1303b83a0c7f3b8275919b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1343961363,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1343961363,
+    "wof:lastmodified":1537017889,
+    "wof:name":"Macanilla",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98333000000001,
+    1.71667,
+    -66.98333000000001,
+    1.71667
+],
+  "geometry": {"coordinates":[-66.98333000000001,1.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327403647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.75157,10.03835,-66.75157,10.03835",
+    "geom:latitude":10.03835,
+    "geom:longitude":-66.75157,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Los Platanos",
+    "gn:country_code":"VE",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633736,
+    "gn:latitude":10.03835,
+    "gn:longitude":-66.75157,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Los Pl\u00e1tanos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eb2b1bf7788d71b79604a9ac18f63506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694243,
+            "locality_id":1327403647,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1327403647,
+    "wof:lastmodified":1536722721,
+    "wof:name":"Los Platanos",
+    "wof:parent_id":1108694243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.75157,
+    10.03835,
+    -66.75157,
+    10.03835
+],
+  "geometry": {"coordinates":[-66.75157,10.03835],"type":"Point"}
+}

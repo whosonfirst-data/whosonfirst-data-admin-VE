@@ -1,0 +1,61 @@
+{
+  "id": 1209373369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.32712,9.65078,-70.32712,9.65078",
+    "geom:latitude":9.65078,
+    "geom:longitude":-70.32712,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Los Pepos",
+    "gn:country_code":"VE",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482161,
+    "gn:latitude":9.65078,
+    "gn:longitude":-70.32712,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Los Pepos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482161
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2adfe61c73b706cde78810f133886060",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209373369
+        }
+    ],
+    "wof:id":1209373369,
+    "wof:lastmodified":1536289033,
+    "wof:name":"Los Pepos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.32712,
+    9.65078,
+    -70.32712,
+    9.65078
+],
+  "geometry": {"coordinates":[-70.32711999999999,9.65078],"type":"Point"}
+}

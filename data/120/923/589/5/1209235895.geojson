@@ -1,0 +1,61 @@
+{
+  "id": 1209235895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.63333,6.86667,-65.63333,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":-65.63333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mantecal",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633123,
+    "gn:latitude":6.86667,
+    "gn:longitude":-65.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mantecal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633123
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b48dab5390d5ba47957fd0b83f1a59fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209235895
+        }
+    ],
+    "wof:id":1209235895,
+    "wof:lastmodified":1536293483,
+    "wof:name":"Mantecal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.63333,
+    6.86667,
+    -65.63333,
+    6.86667
+],
+  "geometry": {"coordinates":[-65.63333,6.86667],"type":"Point"}
+}

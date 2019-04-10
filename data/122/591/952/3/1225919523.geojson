@@ -1,0 +1,70 @@
+{
+  "id": 1225919523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20257,9.21624,-69.20257,9.21624",
+    "geom:latitude":9.21624,
+    "geom:longitude":-69.20257,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Pava",
+    "gn:country_code":"VE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798413,
+    "gn:latitude":9.21624,
+    "gn:longitude":-69.20257,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Pava",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Pava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798413
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"744046dc6087321500ddb4f5bc651f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694177,
+            "locality_id":1225919523,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1225919523,
+    "wof:lastmodified":1537713646,
+    "wof:name":"La Pava",
+    "wof:parent_id":1108694177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20257,
+    9.21624,
+    -69.20257,
+    9.21624
+],
+  "geometry": {"coordinates":[-69.20256999999999,9.21624],"type":"Point"}
+}

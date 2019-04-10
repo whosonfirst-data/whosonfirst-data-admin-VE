@@ -1,0 +1,73 @@
+{
+  "id": 1226265611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.76667,9.41667,-66.76667,9.41667",
+    "geom:latitude":9.41667,
+    "geom:longitude":-66.76667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"El Samanito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641515,
+    "gn:latitude":9.41667,
+    "gn:longitude":-66.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Samanito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samarito",
+        "Samanito",
+        "El Samanito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641515
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"68241e9f43b7e65cc657ba5b057b247f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694361,
+            "locality_id":1226265611,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1226265611,
+    "wof:lastmodified":1537713592,
+    "wof:name":"El Samanito",
+    "wof:parent_id":1108694361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.76666999999999,
+    9.41667,
+    -66.76666999999999,
+    9.41667
+],
+  "geometry": {"coordinates":[-66.76666999999999,9.41667],"type":"Point"}
+}

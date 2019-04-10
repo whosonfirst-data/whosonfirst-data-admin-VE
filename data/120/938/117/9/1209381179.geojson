@@ -1,0 +1,65 @@
+{
+  "id": 1209381179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.90029,11.05603,-63.90029,11.05603",
+    "geom:latitude":11.05603,
+    "geom:longitude":-63.90029,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tacarigua",
+    "gn:country_code":"VE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626571,
+    "gn:latitude":11.05603,
+    "gn:longitude":-63.90029,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tacarigua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acarigua",
+        "Tacarigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626571
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f9309c8014431536f993c0a917bb3570",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209381179
+        }
+    ],
+    "wof:id":1209381179,
+    "wof:lastmodified":1537713513,
+    "wof:name":"Tacarigua",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.90029000000001,
+    11.05603,
+    -63.90029000000001,
+    11.05603
+],
+  "geometry": {"coordinates":[-63.90029000000001,11.05603],"type":"Point"}
+}

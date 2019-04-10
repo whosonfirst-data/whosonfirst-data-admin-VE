@@ -1,0 +1,72 @@
+{
+  "id": 1327127053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.66667,8.0,-67.66667,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":-67.66667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Guariapito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640040,
+    "gn:latitude":8.0,
+    "gn:longitude":-67.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guariapito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Guaripito",
+        "Guariapito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640040
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c7ccc486bc60718c387e73d3aa97225a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1327127053,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1327127053,
+    "wof:lastmodified":1537713585,
+    "wof:name":"Guariapito",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.66667,
+    8.0,
+    -67.66667,
+    8.0
+],
+  "geometry": {"coordinates":[-67.66667,8.0],"type":"Point"}
+}

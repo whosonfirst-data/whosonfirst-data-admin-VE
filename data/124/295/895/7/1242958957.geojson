@@ -1,0 +1,67 @@
+{
+  "id": 1242958957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.9706,9.854,-67.9706,9.854",
+    "geom:latitude":9.854,
+    "geom:longitude":-67.9706,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mapurite",
+    "gn:country_code":"VE",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481545,
+    "gn:latitude":9.854,
+    "gn:longitude":-67.9706,
+    "gn:modification_date":"2011-09-10",
+    "gn:name":"Mapurite",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481545
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6b43a2b09f101f6249fffda92ae4ae66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1242958957,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1242958957,
+    "wof:lastmodified":1537010735,
+    "wof:name":"Mapurite",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.9706,
+    9.854,
+    -67.9706,
+    9.854
+],
+  "geometry": {"coordinates":[-67.9706,9.854],"type":"Point"}
+}

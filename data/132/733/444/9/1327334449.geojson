@@ -1,0 +1,67 @@
+{
+  "id": 1327334449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6,7.28333,-67.6,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":-67.6,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Algarrobote",
+    "gn:country_code":"VE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649449,
+    "gn:latitude":7.28333,
+    "gn:longitude":-67.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Algarrobote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649449
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"de2b04aaefafb2439ca8e0702d81b69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1327334449,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1327334449,
+    "wof:lastmodified":1536821385,
+    "wof:name":"Algarrobote",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6,
+    7.28333,
+    -67.6,
+    7.28333
+],
+  "geometry": {"coordinates":[-67.59999999999999,7.28333],"type":"Point"}
+}

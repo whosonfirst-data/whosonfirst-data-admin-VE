@@ -1,0 +1,67 @@
+{
+  "id": 1293569491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.65,11.1,-69.65,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":-69.65,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Paso",
+    "gn:country_code":"VE",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642201,
+    "gn:latitude":11.1,
+    "gn:longitude":-69.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Paso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421169951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642201
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d768d430db0f98752bc558413c50e7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169951,
+            "locality_id":1293569491,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293569491,
+    "wof:lastmodified":1536668926,
+    "wof:name":"El Paso",
+    "wof:parent_id":421169951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.65,
+    11.1,
+    -69.65,
+    11.1
+],
+  "geometry": {"coordinates":[-69.65000000000001,11.1],"type":"Point"}
+}

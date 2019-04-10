@@ -1,0 +1,67 @@
+{
+  "id": 1226304667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.17036,10.42432,-63.17036,10.42432",
+    "geom:latitude":10.42432,
+    "geom:longitude":-63.17036,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mas Nunca",
+    "gn:country_code":"VE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796215,
+    "gn:latitude":10.42432,
+    "gn:longitude":-63.17036,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"M\u00e1s Nunca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796215
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"74977a7a69237ccaa5ba227a42ffda9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694111,
+            "locality_id":1226304667,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1226304667,
+    "wof:lastmodified":1536847771,
+    "wof:name":"Mas Nunca",
+    "wof:parent_id":1108694111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.17036,
+    10.42432,
+    -63.17036,
+    10.42432
+],
+  "geometry": {"coordinates":[-63.17036,10.42432],"type":"Point"}
+}

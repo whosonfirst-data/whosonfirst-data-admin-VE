@@ -1,0 +1,67 @@
+{
+  "id": 1260237853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.60615,9.0602,-70.60615,9.0602",
+    "geom:latitude":9.0602,
+    "geom:longitude":-70.60615,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Tuname",
+    "gn:country_code":"VE",
+    "gn:dem":2731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625886,
+    "gn:latitude":9.0602,
+    "gn:longitude":-70.60615,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Tu\u00f1ame",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421172605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625886
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b5d22195c292cf8d180b1174d0966fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172605,
+            "locality_id":1260237853,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1260237853,
+    "wof:lastmodified":1536774554,
+    "wof:name":"Tuname",
+    "wof:parent_id":421172605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.60615,
+    9.0602,
+    -70.60615,
+    9.0602
+],
+  "geometry": {"coordinates":[-70.60615,9.0602],"type":"Point"}
+}

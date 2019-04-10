@@ -1,0 +1,71 @@
+{
+  "id": 1226706029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.02584,9.16598,-72.02584,9.16598",
+    "geom:latitude":9.16598,
+    "geom:longitude":-72.02584,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Las Tres Ceibas",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635311,
+    "gn:latitude":9.16598,
+    "gn:longitude":-72.02584,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Tres Ceibas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tres Ceibos",
+        "Las Tres Ceibas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635311
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c053ef19d0a12e11ef4e14bfa1a0ea4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694153,
+            "locality_id":1226706029,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226706029,
+    "wof:lastmodified":1537713556,
+    "wof:name":"Las Tres Ceibas",
+    "wof:parent_id":1108694153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.02584,
+    9.16598,
+    -72.02584,
+    9.16598
+],
+  "geometry": {"coordinates":[-72.02584,9.16598],"type":"Point"}
+}

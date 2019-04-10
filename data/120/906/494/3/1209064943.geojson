@@ -1,0 +1,61 @@
+{
+  "id": 1209064943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42074,9.68776,-70.42074,9.68776",
+    "geom:latitude":9.68776,
+    "geom:longitude":-70.42074,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Paramito",
+    "gn:country_code":"VE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482189,
+    "gn:latitude":9.68776,
+    "gn:longitude":-70.42074,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"El Paramito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482189
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6071cc4ba8c2ed46e2947695984816b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209064943
+        }
+    ],
+    "wof:id":1209064943,
+    "wof:lastmodified":1536298835,
+    "wof:name":"El Paramito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42074000000002,
+    9.68776,
+    -70.42074000000002,
+    9.68776
+],
+  "geometry": {"coordinates":[-70.42074000000002,9.68776],"type":"Point"}
+}

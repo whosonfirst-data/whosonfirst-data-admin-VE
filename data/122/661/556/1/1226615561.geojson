@@ -1,0 +1,67 @@
+{
+  "id": 1226615561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.44839,10.35397,-66.44839,10.35397",
+    "geom:latitude":10.35397,
+    "geom:longitude":-66.44839,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Capayita",
+    "gn:country_code":"VE",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803487,
+    "gn:latitude":10.35397,
+    "gn:longitude":-66.44839,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Capayita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803487
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae038351a5bc25f8bae0a924a33264ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1226615561,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226615561,
+    "wof:lastmodified":1536902690,
+    "wof:name":"Capayita",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.44839,
+    10.35397,
+    -66.44839,
+    10.35397
+],
+  "geometry": {"coordinates":[-66.44839,10.35397],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260071971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.73722,7.47667,-64.73722,7.47667",
+    "geom:latitude":7.47667,
+    "geom:longitude":-64.73722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Chinchorro",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807641,
+    "gn:latitude":7.47667,
+    "gn:longitude":-64.73722,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"El Chinchorro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421175383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807641
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8282c9e33af68f0c7216b61955fda170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175383,
+            "locality_id":1260071971,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1260071971,
+    "wof:lastmodified":1537003891,
+    "wof:name":"El Chinchorro",
+    "wof:parent_id":421175383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.73722,
+    7.47667,
+    -64.73722,
+    7.47667
+],
+  "geometry": {"coordinates":[-64.73721999999999,7.47667],"type":"Point"}
+}

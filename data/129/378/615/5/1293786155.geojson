@@ -1,0 +1,67 @@
+{
+  "id": 1293786155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.34025,9.91404,-64.34025,9.91404",
+    "geom:latitude":9.91404,
+    "geom:longitude":-64.34025,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Gaviotas",
+    "gn:country_code":"VE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3754993,
+    "gn:latitude":9.91404,
+    "gn:longitude":-64.34025,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Las Gaviotas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3754993
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aecbd30e836c3e53bc851b74262d5d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1293786155,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293786155,
+    "wof:lastmodified":1536852444,
+    "wof:name":"Las Gaviotas",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.34025,
+    9.91404,
+    -64.34025,
+    9.91404
+],
+  "geometry": {"coordinates":[-64.34025,9.91404],"type":"Point"}
+}

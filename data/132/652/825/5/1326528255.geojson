@@ -1,0 +1,67 @@
+{
+  "id": 1326528255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61783,8.24683,-69.61783,8.24683",
+    "geom:latitude":8.24683,
+    "geom:longitude":-69.61783,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Avendanero",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648758,
+    "gn:latitude":8.24683,
+    "gn:longitude":-69.61783,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Avenda\u00f1ero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648758
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3498dcd85484627b5c30ff437fef75d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1326528255,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1326528255,
+    "wof:lastmodified":1536988989,
+    "wof:name":"Avendanero",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61783,
+    8.24683,
+    -69.61783,
+    8.24683
+],
+  "geometry": {"coordinates":[-69.61783,8.24683],"type":"Point"}
+}

@@ -1,0 +1,256 @@
+{
+  "id": 421185893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.472362,7.89909,-67.472362,7.89909",
+    "geom:latitude":7.89909,
+    "geom:longitude":-67.472362,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u200c \u0641\u0631\u0646\u0627\u0646\u062f\u0648 \u062f\u064a \u0623\u0628\u0648\u0631\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:deu_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03c4\u03bf \u03bd\u03c4\u03b5 \u0391\u03c0\u03bf\u03cd\u03c1\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u200c\u0641\u0631\u0646\u0627\u0646\u062f\u0648 \u062f \u0622\u067e\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:ind_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:ita_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e4\u10d4\u10e0\u10dc\u10d0\u10dc\u10d3\u10dd-\u10d3\u10d4-\u10d0\u10de\u10e3\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud398\ub974\ub09c\ub3c4\ub370\uc544\ud478\ub808"
+    ],
+    "name:lit_x_preferred":[
+        "San Fernando de Ap\u016br\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "San Fernando"
+    ],
+    "name:pol_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:por_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:que_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:ron_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e-\u0434\u0435-\u0410\u043f\u0443\u0440\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:spa_x_variant":[
+        "San Fernando"
+    ],
+    "name:swe_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:unk_x_variant":[
+        "San Fernando Apure"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u06cc\u0631\u0646\u0627\u0646\u062f\u0648 \u062f\u06d2 \u0622\u067e\u0648\u0631\u06d2"
+    ],
+    "name:war_x_preferred":[
+        "San Fernando de Apure"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Fernando"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u666e\u96f7\u6cb3\u7554\u8056\u8cbb\u723e\u5357\u591a"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Venezuela",
+    "ne:ADM0_A3":"VEN",
+    "ne:ADM1NAME":"Apure",
+    "ne:ADMIN1_COD":3,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":5,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3805673,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"San Fernando Apure",
+    "ne:GN_POP":78779,
+    "ne:GTOPO30":27.0,
+    "ne:ISO_A2":"VE",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":7.899995,
+    "ne:LONGITUDE":-67.469949,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Fernando de Apure",
+    "ne:MAX_AREAKM":47.0,
+    "ne:MAX_AREAMI":18.0,
+    "ne:MAX_BBXMAX":-67.416667,
+    "ne:MAX_BBXMIN":-67.55,
+    "ne:MAX_BBYMAX":7.908333,
+    "ne:MAX_BBYMIN":7.833333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":57.0,
+    "ne:MAX_PERMI":35.0,
+    "ne:MAX_POP10":122701,
+    "ne:MAX_POP20":122701,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-67.481742,
+    "ne:MEAN_BBYC":7.869773,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":47.0,
+    "ne:MIN_AREAMI":18.0,
+    "ne:MIN_BBXMAX":-67.416667,
+    "ne:MIN_BBXMIN":-67.55,
+    "ne:MIN_BBYMAX":7.908333,
+    "ne:MIN_BBYMIN":7.833333,
+    "ne:MIN_PERKM":57.0,
+    "ne:MIN_PERMI":35.0,
+    "ne:NAME":"San Fernando de Apure",
+    "ne:NAMEALT":"San Fernado de Apure",
+    "ne:NAMEASCII":"San Fernando de Apure",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":122701,
+    "ne:POP_MIN":78779,
+    "ne:POP_OTHER":122701,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Venezuela",
+    "ne:SOV_A3":"VEN",
+    "ne:TIMEZONE":"America/Caracas",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Fernando de Apure",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Apure",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1054214,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":393489,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:elevation":47.0,
+    "wd:latitude":7.894,
+    "wd:longitude":-67.473,
+    "wd:wordcount":770,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805673,
+        "gp:id":393489,
+        "qs:id":1054214,
+        "qs_pg:id":150314,
+        "wd:id":"Q990764"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009457,
+    "wof:geomhash":"d8c75355201c43448d8e92c87822a6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":421185893,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":421185893,
+    "wof:lastmodified":1527726504,
+    "wof:name":"San Fernando de Apure",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.472362,
+    7.89909,
+    -67.472362,
+    7.89909
+],
+  "geometry": {"coordinates":[-67.472362,7.89909],"type":"Point"}
+}

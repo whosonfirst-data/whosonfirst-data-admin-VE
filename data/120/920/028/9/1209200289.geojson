@@ -1,0 +1,65 @@
+{
+  "id": 1209200289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.9997,10.23906,-67.9997,10.23906",
+    "geom:latitude":10.23906,
+    "geom:longitude":-67.9997,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Manongo",
+    "gn:country_code":"VE",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633131,
+    "gn:latitude":10.23906,
+    "gn:longitude":-67.9997,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u00f1ongo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u00f1ogo",
+        "Ma\u00f1ongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633131
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7bc70aff8a0e45c7ff411a0adb7d098e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209200289
+        }
+    ],
+    "wof:id":1209200289,
+    "wof:lastmodified":1537713542,
+    "wof:name":"Manongo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.9997,
+    10.23906,
+    -67.9997,
+    10.23906
+],
+  "geometry": {"coordinates":[-67.9997,10.23906],"type":"Point"}
+}

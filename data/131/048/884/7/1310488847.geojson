@@ -1,0 +1,71 @@
+{
+  "id": 1310488847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.10258,11.75037,-70.10258,11.75037",
+    "geom:latitude":11.75037,
+    "geom:longitude":-70.10258,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Quitaire",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629360,
+    "gn:latitude":11.75037,
+    "gn:longitude":-70.10258,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quitaire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quitare",
+        "Quitaire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890451975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629360
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c6795deb78e795ac7d0889e3f94a6c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890451975,
+            "locality_id":1310488847,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310488847,
+    "wof:lastmodified":1537713524,
+    "wof:name":"Quitaire",
+    "wof:parent_id":890451975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.10258,
+    11.75037,
+    -70.10258,
+    11.75037
+],
+  "geometry": {"coordinates":[-70.10258,11.75037],"type":"Point"}
+}

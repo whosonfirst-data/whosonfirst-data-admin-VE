@@ -1,0 +1,67 @@
+{
+  "id": 1209823141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22564,8.06222,-65.22564,8.06222",
+    "geom:latitude":8.06222,
+    "geom:longitude":-65.22564,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Casita",
+    "gn:country_code":"VE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485858,
+    "gn:latitude":8.06222,
+    "gn:longitude":-65.22564,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"La Casita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485858
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f15d13d3a93afb3d9f5a63238f0193e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1209823141,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1209823141,
+    "wof:lastmodified":1536376583,
+    "wof:name":"La Casita",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22564,
+    8.06222,
+    -65.22564,
+    8.06222
+],
+  "geometry": {"coordinates":[-65.22564,8.06222],"type":"Point"}
+}

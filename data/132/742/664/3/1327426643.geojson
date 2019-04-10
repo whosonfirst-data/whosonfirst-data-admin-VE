@@ -1,0 +1,67 @@
+{
+  "id": 1327426643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.27265,7.78513,-70.27265,7.78513",
+    "geom:latitude":7.78513,
+    "geom:longitude":-70.27265,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Aserradero",
+    "gn:country_code":"VE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3487859,
+    "gn:latitude":7.78513,
+    "gn:longitude":-70.27265,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Aserradero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487859
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"18c5019f6f2fd93cd767c8166d2ea02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1327426643,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1327426643,
+    "wof:lastmodified":1536689257,
+    "wof:name":"Aserradero",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27265,
+    7.78513,
+    -70.27265,
+    7.78513
+],
+  "geometry": {"coordinates":[-70.27265,7.78513],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209489577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18754,7.94867,-72.18754,7.94867",
+    "geom:latitude":7.94867,
+    "geom:longitude":-72.18754,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tabor",
+    "gn:country_code":"VE",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795609,
+    "gn:latitude":7.94867,
+    "gn:longitude":-72.18754,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"Tabor",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795609
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"92b2593a4c7aa42d621e292ed496edb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209489577
+        }
+    ],
+    "wof:id":1209489577,
+    "wof:lastmodified":1536285529,
+    "wof:name":"Tabor",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18754,
+    7.94867,
+    -72.18754,
+    7.94867
+],
+  "geometry": {"coordinates":[-72.18754,7.94867],"type":"Point"}
+}

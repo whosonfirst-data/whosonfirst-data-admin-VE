@@ -1,0 +1,61 @@
+{
+  "id": 1209186741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18056,10.39167,-67.18056,10.39167",
+    "geom:latitude":10.39167,
+    "geom:longitude":-67.18056,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Agua Fria",
+    "gn:country_code":"VE",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803310,
+    "gn:latitude":10.39167,
+    "gn:longitude":-67.18056,
+    "gn:modification_date":"2002-11-20",
+    "gn:name":"Agua Fr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803310
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1a85a58bb235a03ae0e65ab30aa9fdef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209186741
+        }
+    ],
+    "wof:id":1209186741,
+    "wof:lastmodified":1536295074,
+    "wof:name":"Agua Fria",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18056,
+    10.39167,
+    -67.18056,
+    10.39167
+],
+  "geometry": {"coordinates":[-67.18056,10.39167],"type":"Point"}
+}

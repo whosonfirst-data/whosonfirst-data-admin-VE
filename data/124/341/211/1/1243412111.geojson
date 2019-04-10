@@ -1,0 +1,67 @@
+{
+  "id": 1243412111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.99463,9.19966,-70.99463,9.19966",
+    "geom:latitude":9.19966,
+    "geom:longitude":-70.99463,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Muyapa",
+    "gn:country_code":"VE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631627,
+    "gn:latitude":9.19966,
+    "gn:longitude":-70.99463,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Muyap\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631627
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b6b9cdf4d8501720e0a92d14e3833b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1243412111,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243412111,
+    "wof:lastmodified":1536853978,
+    "wof:name":"Muyapa",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.99463,
+    9.19966,
+    -70.99463,
+    9.19966
+],
+  "geometry": {"coordinates":[-70.99463,9.19966],"type":"Point"}
+}

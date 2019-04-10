@@ -1,0 +1,67 @@
+{
+  "id": 1259466971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.81111,9.06056,-61.81111,9.06056",
+    "geom:latitude":9.06056,
+    "geom:longitude":-61.81111,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"El Tirital",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763918,
+    "gn:latitude":9.06056,
+    "gn:longitude":-61.81111,
+    "gn:modification_date":"1998-06-24",
+    "gn:name":"El Tirital",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421191753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763918
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"082802d239369195a50781371c8ee6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191753,
+            "locality_id":1259466971,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1259466971,
+    "wof:lastmodified":1536881823,
+    "wof:name":"El Tirital",
+    "wof:parent_id":421191753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.81111,
+    9.06056,
+    -61.81111,
+    9.06056
+],
+  "geometry": {"coordinates":[-61.81111,9.06056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326742267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56555,9.94233,-64.56555,9.94233",
+    "geom:latitude":9.94233,
+    "geom:longitude":-64.56555,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Carreta",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3485886,
+    "gn:latitude":9.94233,
+    "gn:longitude":-64.56555,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"La Carreta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485886
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3369408fbdf81f13af35ec7582049828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1326742267,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326742267,
+    "wof:lastmodified":1536681167,
+    "wof:name":"La Carreta",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56555,
+    9.94233,
+    -64.56555,
+    9.94233
+],
+  "geometry": {"coordinates":[-64.56555,9.94233],"type":"Point"}
+}

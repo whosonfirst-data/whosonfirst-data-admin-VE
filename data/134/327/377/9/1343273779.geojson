@@ -1,0 +1,72 @@
+{
+  "id": 1343273779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.68333,9.15,-64.68333,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":-64.68333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Paradero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642249,
+    "gn:latitude":9.15,
+    "gn:longitude":-64.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Paradero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paradero",
+        "El Paradero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642249
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a13120d9655a31f9bea8dc2c09dd2b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1343273779,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343273779,
+    "wof:lastmodified":1537713596,
+    "wof:name":"El Paradero",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.68333,
+    9.15,
+    -64.68333,
+    9.15
+],
+  "geometry": {"coordinates":[-64.68333,9.15],"type":"Point"}
+}

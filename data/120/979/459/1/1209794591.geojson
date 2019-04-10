@@ -1,0 +1,67 @@
+{
+  "id": 1209794591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.32353,10.30091,-70.32353,10.30091",
+    "geom:latitude":10.30091,
+    "geom:longitude":-70.32353,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Versalles",
+    "gn:country_code":"VE",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3768705,
+    "gn:latitude":10.30091,
+    "gn:longitude":-70.32353,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Versalles",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3768705
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c8c7f662095899892603d8bc84a20b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1209794591,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1209794591,
+    "wof:lastmodified":1536393469,
+    "wof:name":"Versalles",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.32353,
+    10.30091,
+    -70.32353,
+    10.30091
+],
+  "geometry": {"coordinates":[-70.32353000000001,10.30091],"type":"Point"}
+}

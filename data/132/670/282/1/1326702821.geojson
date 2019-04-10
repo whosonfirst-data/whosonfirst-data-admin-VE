@@ -1,0 +1,71 @@
+{
+  "id": 1326702821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.12423,10.30832,-66.12423,10.30832",
+    "geom:latitude":10.30832,
+    "geom:longitude":-66.12423,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Libertad",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637374,
+    "gn:latitude":10.30832,
+    "gn:longitude":-66.12423,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Libertad",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libertad",
+        "La Libertad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421188591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637374
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"910033f26adb5185c2cc28b781652a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188591,
+            "locality_id":1326702821,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1326702821,
+    "wof:lastmodified":1537713567,
+    "wof:name":"La Libertad",
+    "wof:parent_id":421188591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.12423000000001,
+    10.30832,
+    -66.12423000000001,
+    10.30832
+],
+  "geometry": {"coordinates":[-66.12423000000001,10.30832],"type":"Point"}
+}

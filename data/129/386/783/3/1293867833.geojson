@@ -1,0 +1,72 @@
+{
+  "id": 1293867833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.10272,9.1693,-62.10272,9.1693",
+    "geom:latitude":9.1693,
+    "geom:longitude":-62.10272,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Clavellina",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645506,
+    "gn:latitude":9.1693,
+    "gn:longitude":-62.10272,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Clavellina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Clavellina",
+        "Clavelina",
+        "Clavellina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421191753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645506
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6ba45d0029c8704c10daea7c41c4670e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191753,
+            "locality_id":1293867833,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1293867833,
+    "wof:lastmodified":1537713618,
+    "wof:name":"Clavellina",
+    "wof:parent_id":421191753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.10272,
+    9.1693,
+    -62.10272,
+    9.1693
+],
+  "geometry": {"coordinates":[-62.10272,9.1693],"type":"Point"}
+}

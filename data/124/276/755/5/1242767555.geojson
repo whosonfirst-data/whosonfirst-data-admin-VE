@@ -1,0 +1,72 @@
+{
+  "id": 1242767555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.93333,9.4,-67.93333,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":-67.93333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Juan de Chirgua",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628062,
+    "gn:latitude":9.4,
+    "gn:longitude":-67.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan de Chirgua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan Chirgua",
+        "San Juan de Chirgua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628062
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2106da28dd11cd9a4471ef766f12bb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1242767555,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1242767555,
+    "wof:lastmodified":1537713519,
+    "wof:name":"San Juan de Chirgua",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.93333,
+    9.4,
+    -67.93333,
+    9.4
+],
+  "geometry": {"coordinates":[-67.93333,9.4],"type":"Point"}
+}

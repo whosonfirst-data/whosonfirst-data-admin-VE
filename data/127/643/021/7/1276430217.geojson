@@ -1,0 +1,67 @@
+{
+  "id": 1276430217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.98444,9.09556,-60.98444,9.09556",
+    "geom:latitude":9.09556,
+    "geom:longitude":-60.98444,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Joana",
+    "gn:country_code":"VE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639186,
+    "gn:latitude":9.09556,
+    "gn:longitude":-60.98444,
+    "gn:modification_date":"1998-06-09",
+    "gn:name":"Joana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639186
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"99750f8c7a1ccddf7926d96c0d4e38b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1276430217,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1276430217,
+    "wof:lastmodified":1536648482,
+    "wof:name":"Joana",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.98444,
+    9.09556,
+    -60.98444,
+    9.09556
+],
+  "geometry": {"coordinates":[-60.98444,9.09556],"type":"Point"}
+}

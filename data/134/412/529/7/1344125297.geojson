@@ -1,0 +1,67 @@
+{
+  "id": 1344125297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.16569,10.91691,-72.16569,10.91691",
+    "geom:latitude":10.91691,
+    "geom:longitude":-72.16569,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Aliviadero",
+    "gn:country_code":"VE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3787992,
+    "gn:latitude":10.91691,
+    "gn:longitude":-72.16569,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Aliviadero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787992
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ee923679a3a98a2f5f3e2c2623d6bdc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1344125297,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1344125297,
+    "wof:lastmodified":1536782634,
+    "wof:name":"Aliviadero",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.16569,
+    10.91691,
+    -72.16569,
+    10.91691
+],
+  "geometry": {"coordinates":[-72.16569,10.91691],"type":"Point"}
+}

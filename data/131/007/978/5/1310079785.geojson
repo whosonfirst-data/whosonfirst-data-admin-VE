@@ -1,0 +1,67 @@
+{
+  "id": 1310079785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96237,7.94193,-71.96237,7.94193",
+    "geom:latitude":7.94193,
+    "geom:longitude":-71.96237,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Los Paujiles",
+    "gn:country_code":"VE",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795415,
+    "gn:latitude":7.94193,
+    "gn:longitude":-71.96237,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Los Paujiles",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421195505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795415
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"efcd320f3b33c3cbb0bb9686588941ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195505,
+            "locality_id":1310079785,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1310079785,
+    "wof:lastmodified":1537032300,
+    "wof:name":"Los Paujiles",
+    "wof:parent_id":421195505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96236999999998,
+    7.94193,
+    -71.96236999999998,
+    7.94193
+],
+  "geometry": {"coordinates":[-71.96236999999998,7.94193],"type":"Point"}
+}

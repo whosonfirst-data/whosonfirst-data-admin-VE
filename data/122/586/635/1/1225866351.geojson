@@ -1,0 +1,67 @@
+{
+  "id": 1225866351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.47,8.10583,-63.47,8.10583",
+    "geom:latitude":8.10583,
+    "geom:longitude":-63.47,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Marhuanta",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632946,
+    "gn:latitude":8.10583,
+    "gn:longitude":-63.47,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Marhuanta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632946
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2a7add56c292dc14575d8215cae2b9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1225866351,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1225866351,
+    "wof:lastmodified":1536983290,
+    "wof:name":"Marhuanta",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.47,
+    8.10583,
+    -63.47,
+    8.10583
+],
+  "geometry": {"coordinates":[-63.47,8.10583],"type":"Point"}
+}

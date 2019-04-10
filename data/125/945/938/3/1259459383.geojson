@@ -1,0 +1,67 @@
+{
+  "id": 1259459383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96005,9.02726,-65.96005,9.02726",
+    "geom:latitude":9.02726,
+    "geom:longitude":-65.96005,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Iguanitas",
+    "gn:country_code":"VE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639409,
+    "gn:latitude":9.02726,
+    "gn:longitude":-65.96005,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Iguanitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639409
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"552410d9644aa80e1e6fb1990aa0a303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1259459383,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259459383,
+    "wof:lastmodified":1536893186,
+    "wof:name":"Iguanitas",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96005,
+    9.02726,
+    -65.96005,
+    9.02726
+],
+  "geometry": {"coordinates":[-65.96005,9.02726],"type":"Point"}
+}

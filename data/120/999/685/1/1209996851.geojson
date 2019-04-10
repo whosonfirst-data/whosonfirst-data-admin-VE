@@ -1,0 +1,67 @@
+{
+  "id": 1209996851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21667,11.85,-70.21667,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":-70.21667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Totubacoa",
+    "gn:country_code":"VE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626069,
+    "gn:latitude":11.85,
+    "gn:longitude":-70.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Totubacoa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890442023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626069
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4bc8c0951e0e1839a02f6d54c485978a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890442023,
+            "locality_id":1209996851,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1209996851,
+    "wof:lastmodified":1536382952,
+    "wof:name":"Totubacoa",
+    "wof:parent_id":890442023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21667,
+    11.85,
+    -70.21667,
+    11.85
+],
+  "geometry": {"coordinates":[-70.21666999999999,11.85],"type":"Point"}
+}

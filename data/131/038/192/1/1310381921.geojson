@@ -1,0 +1,67 @@
+{
+  "id": 1310381921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96033,9.15262,-65.96033,9.15262",
+    "geom:latitude":9.15262,
+    "geom:longitude":-65.96033,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Perena",
+    "gn:country_code":"VE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636764,
+    "gn:latitude":9.15262,
+    "gn:longitude":-65.96033,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Pere\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636764
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"db761ca5ab1bff3a03c59dfc1db64a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1310381921,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310381921,
+    "wof:lastmodified":1537092066,
+    "wof:name":"La Perena",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96033,
+    9.15262,
+    -65.96033,
+    9.15262
+],
+  "geometry": {"coordinates":[-65.96033,9.15262],"type":"Point"}
+}

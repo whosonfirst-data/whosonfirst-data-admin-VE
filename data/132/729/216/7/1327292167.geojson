@@ -1,0 +1,67 @@
+{
+  "id": 1327292167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4503,10.11639,-68.4503,10.11639",
+    "geom:latitude":10.11639,
+    "geom:longitude":-68.4503,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"El Loro",
+    "gn:country_code":"VE",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642800,
+    "gn:latitude":10.11639,
+    "gn:longitude":-68.4503,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Loro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642800
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9fae040f8422d83335c1f83465543f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1327292167,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1327292167,
+    "wof:lastmodified":1536882828,
+    "wof:name":"El Loro",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.4503,
+    10.11639,
+    -68.4503,
+    10.11639
+],
+  "geometry": {"coordinates":[-68.4503,10.11639],"type":"Point"}
+}

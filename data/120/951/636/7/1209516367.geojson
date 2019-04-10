@@ -1,0 +1,61 @@
+{
+  "id": 1209516367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.28333,7.15,-70.28333,7.15",
+    "geom:latitude":7.15,
+    "geom:longitude":-70.28333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mata de Oso",
+    "gn:country_code":"VE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632713,
+    "gn:latitude":7.15,
+    "gn:longitude":-70.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mata de Oso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632713
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2a8be9762678872da2f5d673c326a4ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209516367
+        }
+    ],
+    "wof:id":1209516367,
+    "wof:lastmodified":1536284720,
+    "wof:name":"Mata de Oso",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.28333,
+    7.15,
+    -70.28333,
+    7.15
+],
+  "geometry": {"coordinates":[-70.28333000000001,7.15],"type":"Point"}
+}

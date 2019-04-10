@@ -1,0 +1,67 @@
+{
+  "id": 1243326819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.26177,11.06877,-64.26177,11.06877",
+    "geom:latitude":11.06877,
+    "geom:longitude":-64.26177,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Auyama",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3480907,
+    "gn:latitude":11.06877,
+    "gn:longitude":-64.26177,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"La Auyama",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        890440759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480907
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ff8e1dc946d17483d587457b2304784f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890440759,
+            "locality_id":1243326819,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1243326819,
+    "wof:lastmodified":1536977591,
+    "wof:name":"La Auyama",
+    "wof:parent_id":890440759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.26177,
+    11.06877,
+    -64.26177,
+    11.06877
+],
+  "geometry": {"coordinates":[-64.26177,11.06877],"type":"Point"}
+}

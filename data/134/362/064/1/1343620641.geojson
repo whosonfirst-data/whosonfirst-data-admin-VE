@@ -1,0 +1,67 @@
+{
+  "id": 1343620641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.29015,7.62888,-72.29015,7.62888",
+    "geom:latitude":7.62888,
+    "geom:longitude":-72.29015,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Milagro",
+    "gn:country_code":"VE",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758749,
+    "gn:latitude":7.62888,
+    "gn:longitude":-72.29015,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"El Milagro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421185265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758749
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a041e1faf8d879c9e271b946eb75098e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185265,
+            "locality_id":1343620641,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1343620641,
+    "wof:lastmodified":1537011869,
+    "wof:name":"El Milagro",
+    "wof:parent_id":421185265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.29015,
+    7.62888,
+    -72.29015,
+    7.62888
+],
+  "geometry": {"coordinates":[-72.29015,7.62888],"type":"Point"}
+}

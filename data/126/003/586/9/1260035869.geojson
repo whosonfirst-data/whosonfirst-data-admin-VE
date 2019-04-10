@@ -1,0 +1,67 @@
+{
+  "id": 1260035869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.91357,10.52553,-71.91357,10.52553",
+    "geom:latitude":10.52553,
+    "geom:longitude":-71.91357,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Los Albaricos",
+    "gn:country_code":"VE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3787977,
+    "gn:latitude":10.52553,
+    "gn:longitude":-71.91357,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Los Albaricos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787977
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87aa778efa97fb195396c7110bce584d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1260035869,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1260035869,
+    "wof:lastmodified":1537054385,
+    "wof:name":"Los Albaricos",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.91356999999998,
+    10.52553,
+    -71.91356999999998,
+    10.52553
+],
+  "geometry": {"coordinates":[-71.91356999999998,10.52553],"type":"Point"}
+}

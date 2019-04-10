@@ -1,0 +1,74 @@
+{
+  "id": 1193117455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.03678,10.68156,-71.03678,10.68156",
+    "geom:latitude":10.68156,
+    "geom:longitude":-71.03678,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Mene de Mauroa",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3632401,
+    "gn:latitude":10.68156,
+    "gn:longitude":-71.03678,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Mene de Mauroa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mene",
+        "Mene Mauroa",
+        "Mene de Maurua",
+        "Mene de Mauroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632401
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8bf3bf0756965acc9b2964facea794a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1193117455,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1193117455,
+    "wof:lastmodified":1537713539,
+    "wof:name":"Mene de Mauroa",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.03678000000002,
+    10.68156,
+    -71.03678000000002,
+    10.68156
+],
+  "geometry": {"coordinates":[-71.03678000000002,10.68156],"type":"Point"}
+}

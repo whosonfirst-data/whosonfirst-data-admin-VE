@@ -1,0 +1,72 @@
+{
+  "id": 1276958995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83333,11.36667,-68.83333,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-68.83333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Jobo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642910,
+    "gn:latitude":11.36667,
+    "gn:longitude":-68.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Jobo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jobal",
+        "El Jobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642910
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"74d66552aabab0ad58e7b505b9170d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1276958995,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276958995,
+    "wof:lastmodified":1537713600,
+    "wof:name":"El Jobo",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83333,
+    11.36667,
+    -68.83333,
+    11.36667
+],
+  "geometry": {"coordinates":[-68.83333,11.36667],"type":"Point"}
+}

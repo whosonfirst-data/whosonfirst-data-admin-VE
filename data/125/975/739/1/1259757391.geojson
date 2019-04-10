@@ -1,0 +1,67 @@
+{
+  "id": 1259757391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.17871,7.92138,-72.17871,7.92138",
+    "geom:latitude":7.92138,
+    "geom:longitude":-72.17871,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Tampacon",
+    "gn:country_code":"VE",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759114,
+    "gn:latitude":7.92138,
+    "gn:longitude":-72.17871,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Tampac\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421195115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759114
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4a245d6082b94e10488cb0357f4b5db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195115,
+            "locality_id":1259757391,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1259757391,
+    "wof:lastmodified":1536960696,
+    "wof:name":"Tampacon",
+    "wof:parent_id":421195115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.17871,
+    7.92138,
+    -72.17871,
+    7.92138
+],
+  "geometry": {"coordinates":[-72.17871,7.92138],"type":"Point"}
+}

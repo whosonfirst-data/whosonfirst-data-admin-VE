@@ -1,0 +1,67 @@
+{
+  "id": 1293647259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88387,10.47941,-71.88387,10.47941",
+    "geom:latitude":10.47941,
+    "geom:longitude":-71.88387,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Monteverde",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632005,
+    "gn:latitude":10.47941,
+    "gn:longitude":-71.88387,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Monteverde",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632005
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a288be1ce7842495d1d8680823527b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1293647259,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293647259,
+    "wof:lastmodified":1537051887,
+    "wof:name":"Monteverde",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88387,
+    10.47941,
+    -71.88387,
+    10.47941
+],
+  "geometry": {"coordinates":[-71.88387,10.47941],"type":"Point"}
+}

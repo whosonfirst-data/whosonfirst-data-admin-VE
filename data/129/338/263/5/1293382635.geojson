@@ -1,0 +1,67 @@
+{
+  "id": 1293382635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63333,8.43333,-70.63333,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-70.63333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Castillas",
+    "gn:country_code":"VE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646272,
+    "gn:latitude":8.43333,
+    "gn:longitude":-70.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Castillas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646272
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dfa07f8d14a68fa4d7db9eb41102cf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1293382635,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293382635,
+    "wof:lastmodified":1536938933,
+    "wof:name":"Castillas",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63333,
+    8.43333,
+    -70.63333,
+    8.43333
+],
+  "geometry": {"coordinates":[-70.63333,8.43333],"type":"Point"}
+}

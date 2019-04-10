@@ -1,0 +1,72 @@
+{
+  "id": 1260161243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76667,11.2,-68.76667,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":-68.76667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Viejita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634903,
+    "gn:latitude":11.2,
+    "gn:longitude":-68.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Viejita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Vieja",
+        "La Viejita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421190213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634903
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"348ac99e5f32b5b5d89cb7293fc2a3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190213,
+            "locality_id":1260161243,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1260161243,
+    "wof:lastmodified":1537713554,
+    "wof:name":"La Viejita",
+    "wof:parent_id":421190213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76666999999999,
+    11.2,
+    -68.76666999999999,
+    11.2
+],
+  "geometry": {"coordinates":[-68.76666999999999,11.2],"type":"Point"}
+}

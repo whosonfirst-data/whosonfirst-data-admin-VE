@@ -1,0 +1,67 @@
+{
+  "id": 1276648283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74784,4.31492,-61.74784,4.31492",
+    "geom:latitude":4.31492,
+    "geom:longitude":-61.74784,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Jeronimo",
+    "gn:country_code":"VE",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809326,
+    "gn:latitude":4.31492,
+    "gn:longitude":-61.74784,
+    "gn:modification_date":"2013-11-10",
+    "gn:name":"San Jer\u00f3nimo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809326
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c64698b2b182016f4a434eba3308b4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1276648283,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1276648283,
+    "wof:lastmodified":1536852713,
+    "wof:name":"San Jeronimo",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74784,
+    4.31492,
+    -61.74784,
+    4.31492
+],
+  "geometry": {"coordinates":[-61.74784,4.31492],"type":"Point"}
+}

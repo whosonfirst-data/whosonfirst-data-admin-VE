@@ -1,0 +1,67 @@
+{
+  "id": 1259860897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.2112,10.07059,-63.2112,10.07059",
+    "geom:latitude":10.07059,
+    "geom:longitude":-63.2112,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Lomas de Rio Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761070,
+    "gn:latitude":10.07059,
+    "gn:longitude":-63.2112,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Lomas de R\u00edo Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761070
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3f4d849e3e0ec44d2016dcfa87532730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694357,
+            "locality_id":1259860897,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1259860897,
+    "wof:lastmodified":1536811243,
+    "wof:name":"Lomas de Rio Arriba",
+    "wof:parent_id":1108694357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.2112,
+    10.07059,
+    -63.2112,
+    10.07059
+],
+  "geometry": {"coordinates":[-63.2112,10.07059],"type":"Point"}
+}

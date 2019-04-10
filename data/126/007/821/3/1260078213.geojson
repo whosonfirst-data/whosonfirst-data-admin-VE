@@ -1,0 +1,71 @@
+{
+  "id": 1260078213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.44941,8.51621,-70.44941,8.51621",
+    "geom:latitude":8.51621,
+    "geom:longitude":-70.44941,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Paguey",
+    "gn:country_code":"VE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631162,
+    "gn:latitude":8.51621,
+    "gn:longitude":-70.44941,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pag\u00fcey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pag\u00fcey",
+        "El Pag\u00fcey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631162
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"02fe67ffc298612e39d284131aff8f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1260078213,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1260078213,
+    "wof:lastmodified":1537713533,
+    "wof:name":"El Paguey",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.44941,
+    8.51621,
+    -70.44941,
+    8.51621
+],
+  "geometry": {"coordinates":[-70.44941,8.51621],"type":"Point"}
+}

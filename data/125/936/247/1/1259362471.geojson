@@ -1,0 +1,67 @@
+{
+  "id": 1259362471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.78333,8.81667,-67.78333,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":-67.78333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tentacion",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626338,
+    "gn:latitude":8.81667,
+    "gn:longitude":-67.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tentaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626338
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"353196c54fbcaff65ed0be4745bc5cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1259362471,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259362471,
+    "wof:lastmodified":1537031207,
+    "wof:name":"Tentacion",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.78333,
+    8.81667,
+    -67.78333,
+    8.81667
+],
+  "geometry": {"coordinates":[-67.78333000000001,8.81667],"type":"Point"}
+}

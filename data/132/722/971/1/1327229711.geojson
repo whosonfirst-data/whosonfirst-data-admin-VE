@@ -1,0 +1,72 @@
+{
+  "id": 1327229711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78333,8.3,-69.78333,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-69.78333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Palma Real",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636927,
+    "gn:latitude":8.3,
+    "gn:longitude":-69.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Palma Real",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palma Real",
+        "La Palma Real"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636927
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aec4b011b67481c59314fd160ba7c731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1327229711,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1327229711,
+    "wof:lastmodified":1537713565,
+    "wof:name":"La Palma Real",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78333,
+    8.3,
+    -69.78333,
+    8.3
+],
+  "geometry": {"coordinates":[-69.78333000000001,8.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360048827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.04167,10.91667,-64.04167,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":-64.04167,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Guamache",
+    "gn:country_code":"VE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480941,
+    "gn:latitude":10.91667,
+    "gn:longitude":-64.04167,
+    "gn:modification_date":"1999-03-16",
+    "gn:name":"El Guamache",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        890441467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480941
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"307cf7420af2105cb2f7bb9a92bb0631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890441467,
+            "locality_id":1360048827,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1360048827,
+    "wof:lastmodified":1536997369,
+    "wof:name":"El Guamache",
+    "wof:parent_id":890441467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.04167,
+    10.91667,
+    -64.04167,
+    10.91667
+],
+  "geometry": {"coordinates":[-64.04167,10.91667],"type":"Point"}
+}

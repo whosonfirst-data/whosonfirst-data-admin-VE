@@ -1,0 +1,61 @@
+{
+  "id": 1209201863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.96372,10.9031,-70.96372,10.9031",
+    "geom:latitude":10.9031,
+    "geom:longitude":-70.96372,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Montanita",
+    "gn:country_code":"VE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637072,
+    "gn:latitude":10.9031,
+    "gn:longitude":-70.96372,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Monta\u00f1ita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637072
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"289b280dfde0823c7601d7db036e3ca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209201863
+        }
+    ],
+    "wof:id":1209201863,
+    "wof:lastmodified":1536294582,
+    "wof:name":"La Montanita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.96372,
+    10.9031,
+    -70.96372,
+    10.9031
+],
+  "geometry": {"coordinates":[-70.96372,10.9031],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343965755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.5496,9.7392,-64.5496,9.7392",
+    "geom:latitude":9.7392,
+    "geom:longitude":-64.5496,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"San Mateo",
+    "gn:country_code":"VE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3627969,
+    "gn:latitude":9.7392,
+    "gn:longitude":-64.5496,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"San Mateo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Mateo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627969,
+        "wk:page":"San_Mateo%2C_Anzo%C3%A1tegui"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11d344428512328a6761aff8337022e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1343965755,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343965755,
+    "wof:lastmodified":1537713518,
+    "wof:name":"San Mateo",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.5496,
+    9.7392,
+    -64.5496,
+    9.7392
+],
+  "geometry": {"coordinates":[-64.5496,9.7392],"type":"Point"}
+}

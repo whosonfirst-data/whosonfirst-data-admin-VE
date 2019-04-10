@@ -1,0 +1,71 @@
+{
+  "id": 1209782065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.99675,10.78131,-63.99675,10.78131",
+    "geom:latitude":10.78131,
+    "geom:longitude":-63.99675,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"VE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627798,
+    "gn:latitude":10.78131,
+    "gn:longitude":-63.99675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro de Coche",
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421177413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627798
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c994745f787880329b9cdcfc4b037ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421177413,
+            "locality_id":1209782065,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1209782065,
+    "wof:lastmodified":1537713518,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421177413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.99675,
+    10.78131,
+    -63.99675,
+    10.78131
+],
+  "geometry": {"coordinates":[-63.99675,10.78131],"type":"Point"}
+}

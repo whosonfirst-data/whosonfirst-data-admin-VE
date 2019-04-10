@@ -1,0 +1,67 @@
+{
+  "id": 1259938615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72925,9.56356,-70.72925,9.56356",
+    "geom:latitude":9.56356,
+    "geom:longitude":-70.72925,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Jaguito",
+    "gn:country_code":"VE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642960,
+    "gn:latitude":9.56356,
+    "gn:longitude":-70.72925,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Jag\u00fcito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642960
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"59643cc31e0748e24c5ecf05caaae45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694299,
+            "locality_id":1259938615,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1259938615,
+    "wof:lastmodified":1536700215,
+    "wof:name":"El Jaguito",
+    "wof:parent_id":1108694299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72925,
+    9.56356,
+    -70.72925,
+    9.56356
+],
+  "geometry": {"coordinates":[-70.72924999999999,9.56356],"type":"Point"}
+}

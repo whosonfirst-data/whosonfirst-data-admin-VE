@@ -1,0 +1,71 @@
+{
+  "id": 1360287553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.93403,8.94359,-63.93403,8.94359",
+    "geom:latitude":8.94359,
+    "geom:longitude":-63.93403,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Concordia",
+    "gn:country_code":"VE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638360,
+    "gn:latitude":8.94359,
+    "gn:longitude":-63.93403,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Concordia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Concordia",
+        "Concordia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638360
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b34fb3d67cf430b48b6a0172cfa06f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1360287553,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360287553,
+    "wof:lastmodified":1537713573,
+    "wof:name":"Concordia",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.93403000000001,
+    8.94359,
+    -63.93403000000001,
+    8.94359
+],
+  "geometry": {"coordinates":[-63.93403000000001,8.94359],"type":"Point"}
+}

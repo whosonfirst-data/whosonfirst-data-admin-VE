@@ -1,0 +1,67 @@
+{
+  "id": 1242853989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.29254,9.6337,-67.29254,9.6337",
+    "geom:latitude":9.6337,
+    "geom:longitude":-67.29254,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mata Mayor",
+    "gn:country_code":"VE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632643,
+    "gn:latitude":9.6337,
+    "gn:longitude":-67.29254,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Mata Mayor",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632643
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"96c30b107be697500931c890ee487c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1242853989,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242853989,
+    "wof:lastmodified":1536665598,
+    "wof:name":"Mata Mayor",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.29254,
+    9.6337,
+    -67.29254,
+    9.6337
+],
+  "geometry": {"coordinates":[-67.29254,9.6337],"type":"Point"}
+}

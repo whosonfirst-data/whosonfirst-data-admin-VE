@@ -1,0 +1,72 @@
+{
+  "id": 1276310131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91667,11.76667,-69.91667,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":-69.91667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Galera",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640728,
+    "gn:latitude":11.76667,
+    "gn:longitude":-69.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Galera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galeca",
+        "Galera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890451975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640728
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5fd7e06080d6c8dbcec11a2a71c915b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890451975,
+            "locality_id":1276310131,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276310131,
+    "wof:lastmodified":1537713588,
+    "wof:name":"Galera",
+    "wof:parent_id":890451975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91667,
+    11.76667,
+    -69.91667,
+    11.76667
+],
+  "geometry": {"coordinates":[-69.91667,11.76667],"type":"Point"}
+}

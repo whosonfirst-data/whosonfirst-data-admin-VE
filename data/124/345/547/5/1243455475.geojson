@@ -1,0 +1,67 @@
+{
+  "id": 1243455475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.94919,7.32293,-66.94919,7.32293",
+    "geom:latitude":7.32293,
+    "geom:longitude":-66.94919,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"El Medano",
+    "gn:country_code":"VE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805209,
+    "gn:latitude":7.32293,
+    "gn:longitude":-66.94919,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"El M\u00e9dano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805209
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7e3d34e738fa24b0777b4a1357ecf0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1243455475,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1243455475,
+    "wof:lastmodified":1536792789,
+    "wof:name":"El Medano",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.94919,
+    7.32293,
+    -66.94919,
+    7.32293
+],
+  "geometry": {"coordinates":[-66.94919,7.32293],"type":"Point"}
+}

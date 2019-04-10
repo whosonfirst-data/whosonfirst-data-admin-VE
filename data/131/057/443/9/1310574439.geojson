@@ -1,0 +1,67 @@
+{
+  "id": 1310574439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.35467,8.88892,-71.35467,8.88892",
+    "geom:latitude":8.88892,
+    "geom:longitude":-71.35467,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guachizon",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640427,
+    "gn:latitude":8.88892,
+    "gn:longitude":-71.35467,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Guachiz\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421191761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640427
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1dd608ed6e8cdf233a54d71f835b24a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191761,
+            "locality_id":1310574439,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1310574439,
+    "wof:lastmodified":1536816768,
+    "wof:name":"Guachizon",
+    "wof:parent_id":421191761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.35467,
+    8.88892,
+    -71.35467,
+    8.88892
+],
+  "geometry": {"coordinates":[-71.35467,8.88892],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226114915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.11833,10.22833,-66.11833,10.22833",
+    "geom:latitude":10.22833,
+    "geom:longitude":-66.11833,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Paso Real",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630596,
+    "gn:latitude":10.22833,
+    "gn:longitude":-66.11833,
+    "gn:modification_date":"1995-08-23",
+    "gn:name":"Paso Real",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630596
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3a9037716ebcd6aa6ede2512f76d1997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1226114915,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226114915,
+    "wof:lastmodified":1536623379,
+    "wof:name":"Paso Real",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.11833,
+    10.22833,
+    -66.11833,
+    10.22833
+],
+  "geometry": {"coordinates":[-66.11833,10.22833],"type":"Point"}
+}

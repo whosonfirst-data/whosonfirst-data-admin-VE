@@ -1,0 +1,61 @@
+{
+  "id": 1209106803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75,7.48333,-68.75,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":-68.75,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Laurelito",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635035,
+    "gn:latitude":7.48333,
+    "gn:longitude":-68.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Laurelito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635035
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06d41ddd9968f37c049f70055b5aa07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209106803
+        }
+    ],
+    "wof:id":1209106803,
+    "wof:lastmodified":1536297543,
+    "wof:name":"Laurelito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75,
+    7.48333,
+    -68.75,
+    7.48333
+],
+  "geometry": {"coordinates":[-68.75,7.48333],"type":"Point"}
+}

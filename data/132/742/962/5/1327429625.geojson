@@ -1,0 +1,67 @@
+{
+  "id": 1327429625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36389,8.76444,-70.36389,8.76444",
+    "geom:latitude":8.76444,
+    "geom:longitude":-70.36389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Barinesa",
+    "gn:country_code":"VE",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3487819,
+    "gn:latitude":8.76444,
+    "gn:longitude":-70.36389,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"La Barinesa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421194991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487819
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e3205e68c57f592565abde2c73c655de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194991,
+            "locality_id":1327429625,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1327429625,
+    "wof:lastmodified":1536684808,
+    "wof:name":"La Barinesa",
+    "wof:parent_id":421194991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36389,
+    8.76444,
+    -70.36389,
+    8.76444
+],
+  "geometry": {"coordinates":[-70.36389,8.76444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309887105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.11667,8.92778,-63.11667,8.92778",
+    "geom:latitude":8.92778,
+    "geom:longitude":-63.11667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tragalocha",
+    "gn:country_code":"VE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778377,
+    "gn:latitude":8.92778,
+    "gn:longitude":-63.11667,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Tragalocha",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778377
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3296a5b51e850160b6393a94cf63988d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1309887105,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1309887105,
+    "wof:lastmodified":1536813330,
+    "wof:name":"Tragalocha",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.11666999999999,
+    8.92778,
+    -63.11666999999999,
+    8.92778
+],
+  "geometry": {"coordinates":[-63.11666999999999,8.92778],"type":"Point"}
+}

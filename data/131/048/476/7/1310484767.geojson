@@ -1,0 +1,67 @@
+{
+  "id": 1310484767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.89303,9.08328,-70.89303,9.08328",
+    "geom:latitude":9.08328,
+    "geom:longitude":-70.89303,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Bano",
+    "gn:country_code":"VE",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644199,
+    "gn:latitude":9.08328,
+    "gn:longitude":-70.89303,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Ba\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644199
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"16a6fb71ba2e3a4676534e25fae1f1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694297,
+            "locality_id":1310484767,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1310484767,
+    "wof:lastmodified":1536947232,
+    "wof:name":"El Bano",
+    "wof:parent_id":1108694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.89303000000002,
+    9.08328,
+    -70.89303000000002,
+    9.08328
+],
+  "geometry": {"coordinates":[-70.89303000000002,9.08328],"type":"Point"}
+}

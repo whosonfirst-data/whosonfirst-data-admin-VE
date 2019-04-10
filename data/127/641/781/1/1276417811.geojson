@@ -1,0 +1,67 @@
+{
+  "id": 1276417811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.36581,10.7976,-68.36581,10.7976",
+    "geom:latitude":10.7976,
+    "geom:longitude":-68.36581,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Los Colorados",
+    "gn:country_code":"VE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785930,
+    "gn:latitude":10.7976,
+    "gn:longitude":-68.36581,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"Los Colorados",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890417393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785930
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c57389144b99ca08ecc1606e1e1c902e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890417393,
+            "locality_id":1276417811,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276417811,
+    "wof:lastmodified":1536665525,
+    "wof:name":"Los Colorados",
+    "wof:parent_id":890417393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.36581,
+    10.7976,
+    -68.36581,
+    10.7976
+],
+  "geometry": {"coordinates":[-68.36581,10.7976],"type":"Point"}
+}

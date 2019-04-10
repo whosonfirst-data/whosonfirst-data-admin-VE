@@ -1,0 +1,67 @@
+{
+  "id": 1310171749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.9,11.15,-63.9,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-63.9,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Constanza",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645270,
+    "gn:latitude":11.15,
+    "gn:longitude":-63.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Constanza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        1108694081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645270
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e8ee1f2683a63562d987c2cecd753f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694081,
+            "locality_id":1310171749,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1310171749,
+    "wof:lastmodified":1536901221,
+    "wof:name":"Constanza",
+    "wof:parent_id":1108694081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.9,
+    11.15,
+    -63.9,
+    11.15
+],
+  "geometry": {"coordinates":[-63.9,11.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293795813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.14517,9.72983,-65.14517,9.72983",
+    "geom:latitude":9.72983,
+    "geom:longitude":-65.14517,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bajo Grande",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648666,
+    "gn:latitude":9.72983,
+    "gn:longitude":-65.14517,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Bajo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648666
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d65d84f458aeb6f1d7659778035c5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1293795813,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293795813,
+    "wof:lastmodified":1536838596,
+    "wof:name":"Bajo Grande",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.14517,
+    9.72983,
+    -65.14517,
+    9.72983
+],
+  "geometry": {"coordinates":[-65.14516999999999,9.72983],"type":"Point"}
+}

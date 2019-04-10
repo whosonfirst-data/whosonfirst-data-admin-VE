@@ -1,0 +1,61 @@
+{
+  "id": 1209319545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03333,10.05,-67.03333,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":-67.03333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cafe",
+    "gn:country_code":"VE",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647553,
+    "gn:latitude":10.05,
+    "gn:longitude":-67.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Caf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647553
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4868f9d864278f66dafd731b7a8f26b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209319545
+        }
+    ],
+    "wof:id":1209319545,
+    "wof:lastmodified":1536290744,
+    "wof:name":"Cafe",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03333,
+    10.05,
+    -67.03333,
+    10.05
+],
+  "geometry": {"coordinates":[-67.03333000000001,10.05],"type":"Point"}
+}

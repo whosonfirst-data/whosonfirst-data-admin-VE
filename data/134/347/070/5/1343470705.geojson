@@ -1,0 +1,67 @@
+{
+  "id": 1343470705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.10513,9.37461,-65.10513,9.37461",
+    "geom:latitude":9.37461,
+    "geom:longitude":-65.10513,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Alejandria",
+    "gn:country_code":"VE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486303,
+    "gn:latitude":9.37461,
+    "gn:longitude":-65.10513,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"La Alejandria",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486303
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d2497a60a3d50591031937a3199996f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694283,
+            "locality_id":1343470705,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343470705,
+    "wof:lastmodified":1536731569,
+    "wof:name":"La Alejandria",
+    "wof:parent_id":1108694283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.10513,
+    9.37461,
+    -65.10513,
+    9.37461
+],
+  "geometry": {"coordinates":[-65.10513,9.37461],"type":"Point"}
+}

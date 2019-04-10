@@ -1,0 +1,67 @@
+{
+  "id": 1343573089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.43923,10.04009,-65.43923,10.04009",
+    "geom:latitude":10.04009,
+    "geom:longitude":-65.43923,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chavito",
+    "gn:country_code":"VE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645829,
+    "gn:latitude":10.04009,
+    "gn:longitude":-65.43923,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Chavito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645829
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c518766696ddaf1984dc6a6eb5fbd9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1343573089,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343573089,
+    "wof:lastmodified":1537078080,
+    "wof:name":"Chavito",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.43923000000001,
+    10.04009,
+    -65.43923000000001,
+    10.04009
+],
+  "geometry": {"coordinates":[-65.43923000000001,10.04009],"type":"Point"}
+}

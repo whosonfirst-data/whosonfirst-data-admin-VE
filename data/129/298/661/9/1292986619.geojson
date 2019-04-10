@@ -1,0 +1,67 @@
+{
+  "id": 1292986619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.74507,9.92224,-67.74507,9.92224",
+    "geom:latitude":9.92224,
+    "geom:longitude":-67.74507,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Platanal",
+    "gn:country_code":"VE",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630054,
+    "gn:latitude":9.92224,
+    "gn:longitude":-67.74507,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Platanal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630054
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"92f82eb1793f4632000eec7bef6be52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1292986619,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1292986619,
+    "wof:lastmodified":1537011395,
+    "wof:name":"Platanal",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.74507,
+    9.92224,
+    -67.74507,
+    9.92224
+],
+  "geometry": {"coordinates":[-67.74507,9.92224],"type":"Point"}
+}

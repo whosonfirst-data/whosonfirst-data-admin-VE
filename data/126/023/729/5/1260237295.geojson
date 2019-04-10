@@ -1,0 +1,67 @@
+{
+  "id": 1260237295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.90878,10.84644,-71.90878,10.84644",
+    "geom:latitude":10.84644,
+    "geom:longitude":-71.90878,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Campo Mogas",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647176,
+    "gn:latitude":10.84644,
+    "gn:longitude":-71.90878,
+    "gn:modification_date":"2000-08-01",
+    "gn:name":"Campo Mogas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647176
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"48ef107d6b4ab8a8f85dbfb6b08d39d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1260237295,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1260237295,
+    "wof:lastmodified":1536775287,
+    "wof:name":"Campo Mogas",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.90878000000002,
+    10.84644,
+    -71.90878000000002,
+    10.84644
+],
+  "geometry": {"coordinates":[-71.90878000000002,10.84644],"type":"Point"}
+}

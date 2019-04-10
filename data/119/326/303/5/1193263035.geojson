@@ -1,0 +1,72 @@
+{
+  "id": 1193263035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.69177,9.35562,-68.69177,9.35562",
+    "geom:latitude":9.35562,
+    "geom:longitude":-68.69177,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Libertad",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3634760,
+    "gn:latitude":9.35562,
+    "gn:longitude":-68.69177,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Libertad",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagun\u00edtas",
+        "Libertad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634760
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"85a226677c6de3db82478ae477f182db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694369,
+            "locality_id":1193263035,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1193263035,
+    "wof:lastmodified":1537713552,
+    "wof:name":"Libertad",
+    "wof:parent_id":1108694369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.69176999999999,
+    9.35562,
+    -68.69176999999999,
+    9.35562
+],
+  "geometry": {"coordinates":[-68.69176999999999,9.35562],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209300949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.5247,8.77091,-65.5247,8.77091",
+    "geom:latitude":8.77091,
+    "geom:longitude":-65.5247,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Bateas",
+    "gn:country_code":"VE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636268,
+    "gn:latitude":8.77091,
+    "gn:longitude":-65.5247,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Las Bateas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636268
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1fa0260a7581222be2fb80b6d50f1b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209300949
+        }
+    ],
+    "wof:id":1209300949,
+    "wof:lastmodified":1536291360,
+    "wof:name":"Las Bateas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.5247,
+    8.77091,
+    -65.5247,
+    8.77091
+],
+  "geometry": {"coordinates":[-65.5247,8.77091],"type":"Point"}
+}

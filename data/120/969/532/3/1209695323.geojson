@@ -1,0 +1,61 @@
+{
+  "id": 1209695323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46222,7.95056,-67.46222,7.95056",
+    "geom:latitude":7.95056,
+    "geom:longitude":-67.46222,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Las Varas",
+    "gn:country_code":"VE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765363,
+    "gn:latitude":7.95056,
+    "gn:longitude":-67.46222,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Las Varas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765363
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f9de037d0570fc4a61fa7c0e6f1393ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209695323
+        }
+    ],
+    "wof:id":1209695323,
+    "wof:lastmodified":1536279096,
+    "wof:name":"Las Varas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46222,
+    7.95056,
+    -67.46222,
+    7.95056
+],
+  "geometry": {"coordinates":[-67.46222,7.95056],"type":"Point"}
+}

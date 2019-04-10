@@ -1,0 +1,72 @@
+{
+  "id": 1309799419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.0793,10.10861,-68.0793,10.10861",
+    "geom:latitude":10.10861,
+    "geom:longitude":-68.0793,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0806",
+    "gn:asciiname":"Tocuyito",
+    "gn:country_code":"VE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3481456,
+    "gn:latitude":10.10861,
+    "gn:longitude":-68.0793,
+    "gn:modification_date":"2012-01-08",
+    "gn:name":"Tocuyito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tocuyito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481456,
+        "wk:page":"Tocuyito"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4a9353428e935d8cfa9177ab8beeabae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694251,
+            "locality_id":1309799419,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1309799419,
+    "wof:lastmodified":1537713505,
+    "wof:name":"Tocuyito",
+    "wof:parent_id":1108694251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.0793,
+    10.10861,
+    -68.0793,
+    10.10861
+],
+  "geometry": {"coordinates":[-68.0793,10.10861],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276649219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53583,8.855,-70.53583,8.855",
+    "geom:latitude":8.855,
+    "geom:longitude":-70.53583,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chiquimbuy",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645729,
+    "gn:latitude":8.855,
+    "gn:longitude":-70.53583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiquimbuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiquimbay",
+        "Chiquimbuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421194991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645729
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cc383057770ddd386552de48519d1a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194991,
+            "locality_id":1276649219,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276649219,
+    "wof:lastmodified":1537713618,
+    "wof:name":"Chiquimbuy",
+    "wof:parent_id":421194991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53583,
+    8.855,
+    -70.53583,
+    8.855
+],
+  "geometry": {"coordinates":[-70.53583,8.855],"type":"Point"}
+}

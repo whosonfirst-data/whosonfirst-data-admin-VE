@@ -1,0 +1,61 @@
+{
+  "id": 1209523093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.26354,9.42479,-64.26354,9.42479",
+    "geom:latitude":9.42479,
+    "geom:longitude":-64.26354,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Camoruco",
+    "gn:country_code":"VE",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647328,
+    "gn:latitude":9.42479,
+    "gn:longitude":-64.26354,
+    "gn:modification_date":"1996-08-26",
+    "gn:name":"Camoruco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647328
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4b3ccac8d1519320d994a35b00492c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209523093
+        }
+    ],
+    "wof:id":1209523093,
+    "wof:lastmodified":1536284518,
+    "wof:name":"Camoruco",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.26354,
+    9.42479,
+    -64.26354,
+    9.42479
+],
+  "geometry": {"coordinates":[-64.26354000000001,9.42479],"type":"Point"}
+}

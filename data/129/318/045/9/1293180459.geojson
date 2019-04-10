@@ -1,0 +1,67 @@
+{
+  "id": 1293180459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.49778,8.65,-66.49778,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":-66.49778,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Los Chorros de Mejo",
+    "gn:country_code":"VE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3772450,
+    "gn:latitude":8.65,
+    "gn:longitude":-66.49778,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Los Chorros de Mejo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772450
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"378fb2452b8184fbe68a41e32c438db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1293180459,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293180459,
+    "wof:lastmodified":1536733056,
+    "wof:name":"Los Chorros de Mejo",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.49778,
+    8.65,
+    -66.49778,
+    8.65
+],
+  "geometry": {"coordinates":[-66.49778000000001,8.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310402777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05,7.2,-61.05,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":-61.05,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Abati",
+    "gn:country_code":"VE",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649860,
+    "gn:latitude":7.2,
+    "gn:longitude":-61.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Abati",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421198671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649860
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e1d26900792d6bc9809e6c4181bc81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198671,
+            "locality_id":1310402777,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1310402777,
+    "wof:lastmodified":1537062438,
+    "wof:name":"Abati",
+    "wof:parent_id":421198671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05,
+    7.2,
+    -61.05,
+    7.2
+],
+  "geometry": {"coordinates":[-61.05,7.2],"type":"Point"}
+}

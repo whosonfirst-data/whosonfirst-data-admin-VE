@@ -1,0 +1,67 @@
+{
+  "id": 1310007947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.67361,8.77333,-64.67361,8.77333",
+    "geom:latitude":8.77333,
+    "geom:longitude":-64.67361,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Represa",
+    "gn:country_code":"VE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484486,
+    "gn:latitude":8.77333,
+    "gn:longitude":-64.67361,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"La Represa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484486
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c3e0c35c039f320b82e6797b5decb680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1310007947,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310007947,
+    "wof:lastmodified":1536638725,
+    "wof:name":"La Represa",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.67361,
+    8.77333,
+    -64.67361,
+    8.77333
+],
+  "geometry": {"coordinates":[-64.67361,8.77333],"type":"Point"}
+}

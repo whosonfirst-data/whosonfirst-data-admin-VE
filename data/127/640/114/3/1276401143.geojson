@@ -1,0 +1,67 @@
+{
+  "id": 1276401143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.42429,10.61141,-62.42429,10.61141",
+    "geom:latitude":10.61141,
+    "geom:longitude":-62.42429,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Yoco",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625177,
+    "gn:latitude":10.61141,
+    "gn:longitude":-62.42429,
+    "gn:modification_date":"1995-10-13",
+    "gn:name":"Yoco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625177
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c59847a321707264af0a7fd92aba4028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694473,
+            "locality_id":1276401143,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276401143,
+    "wof:lastmodified":1536687915,
+    "wof:name":"Yoco",
+    "wof:parent_id":1108694473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.42429,
+    10.61141,
+    -62.42429,
+    10.61141
+],
+  "geometry": {"coordinates":[-62.42429,10.61141],"type":"Point"}
+}

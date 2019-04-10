@@ -1,0 +1,76 @@
+{
+  "id": 421187869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.07444,10.22639,-66.07444,10.22639",
+    "geom:latitude":10.22639,
+    "geom:longitude":-66.07444,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3742503,
+    "qs:gn_pop":0,
+    "qs:name":"La Urbina",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":258,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":258,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086215,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26808459,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742503,
+        "gp:id":26808459,
+        "qs:id":1086215
+    },
+    "wof:country":"VE",
+    "wof:created":1459009526,
+    "wof:geomhash":"feb63ccf3922e0afbeef887fd95e3002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694069,
+            "locality_id":421187869,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421187869,
+    "wof:lastmodified":1500034402,
+    "wof:name":"La Urbina",
+    "wof:parent_id":1108694069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.07444,
+    10.22639,
+    -66.07444,
+    10.22639
+],
+  "geometry": {"coordinates":[-66.07444,10.22639],"type":"Point"}
+}

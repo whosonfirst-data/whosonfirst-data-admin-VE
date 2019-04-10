@@ -1,0 +1,67 @@
+{
+  "id": 1343673671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.094,9.3516,-65.094,9.3516",
+    "geom:latitude":9.3516,
+    "geom:longitude":-65.094,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Fragua",
+    "gn:country_code":"VE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637856,
+    "gn:latitude":9.3516,
+    "gn:longitude":-65.094,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Fragua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637856
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e1397e177684877e94b6a5dca60f647c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694283,
+            "locality_id":1343673671,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343673671,
+    "wof:lastmodified":1536936705,
+    "wof:name":"La Fragua",
+    "wof:parent_id":1108694283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.094,
+    9.3516,
+    -65.094,
+    9.3516
+],
+  "geometry": {"coordinates":[-65.09399999999999,9.3516],"type":"Point"}
+}

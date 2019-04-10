@@ -1,0 +1,67 @@
+{
+  "id": 1243423299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41683,9.63239,-70.41683,9.63239",
+    "geom:latitude":9.63239,
+    "geom:longitude":-70.41683,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Silos de Monay",
+    "gn:country_code":"VE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481913,
+    "gn:latitude":9.63239,
+    "gn:longitude":-70.41683,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Silos de Monay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481913
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ccd6218677aa039d0978438d623df83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694143,
+            "locality_id":1243423299,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1243423299,
+    "wof:lastmodified":1536837948,
+    "wof:name":"Silos de Monay",
+    "wof:parent_id":1108694143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41683,
+    9.63239,
+    -70.41683,
+    9.63239
+],
+  "geometry": {"coordinates":[-70.41683,9.63239],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209784657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67549,9.30938,-70.67549,9.30938",
+    "geom:latitude":9.30938,
+    "geom:longitude":-70.67549,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Juan Diaz",
+    "gn:country_code":"VE",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639122,
+    "gn:latitude":9.30938,
+    "gn:longitude":-70.67549,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Juan D\u00edaz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421182049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639122
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3bdd07df1284b62ab1d9ea16b2cba410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182049,
+            "locality_id":1209784657,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1209784657,
+    "wof:lastmodified":1536369899,
+    "wof:name":"Juan Diaz",
+    "wof:parent_id":421182049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67549,
+    9.30938,
+    -70.67549,
+    9.30938
+],
+  "geometry": {"coordinates":[-70.67549,9.30938],"type":"Point"}
+}

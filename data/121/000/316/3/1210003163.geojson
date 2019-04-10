@@ -1,0 +1,67 @@
+{
+  "id": 1210003163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28333,8.65,-67.28333,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":-67.28333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Marquito",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632864,
+    "gn:latitude":8.65,
+    "gn:longitude":-67.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Marquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632864
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7d89983c4f8cc12e1bbbb5b9b5c21483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1210003163,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1210003163,
+    "wof:lastmodified":1536376555,
+    "wof:name":"Marquito",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28333,
+    8.65,
+    -67.28333,
+    8.65
+],
+  "geometry": {"coordinates":[-67.28333000000001,8.65],"type":"Point"}
+}

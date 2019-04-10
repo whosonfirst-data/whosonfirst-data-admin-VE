@@ -1,0 +1,67 @@
+{
+  "id": 1225902791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.32983,9.19134,-70.32983,9.19134",
+    "geom:latitude":9.19134,
+    "geom:longitude":-70.32983,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Tostos",
+    "gn:country_code":"VE",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626072,
+    "gn:latitude":9.19134,
+    "gn:longitude":-70.32983,
+    "gn:modification_date":"1995-08-09",
+    "gn:name":"Tost\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421188083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626072
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"53d836bb9f8d7fd5bd12459e17beb682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188083,
+            "locality_id":1225902791,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1225902791,
+    "wof:lastmodified":1536932366,
+    "wof:name":"Tostos",
+    "wof:parent_id":421188083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.32983,
+    9.19134,
+    -70.32983,
+    9.19134
+],
+  "geometry": {"coordinates":[-70.32983,9.19134],"type":"Point"}
+}

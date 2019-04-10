@@ -1,0 +1,80 @@
+{
+  "id": 421196107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.29552,11.06878,-64.29552,11.06878",
+    "geom:latitude":11.06878,
+    "geom:longitude":-64.29552,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "El Tunal"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3641184,
+    "qs:gn_pop":0,
+    "qs:name":"El Tunal",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1165412,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395509,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        890440759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641184,
+        "gp:id":395509,
+        "qs:id":1165412
+    },
+    "wof:country":"VE",
+    "wof:created":1459009869,
+    "wof:geomhash":"fa03c3c0f7ff53758ad210dc63f969da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890440759,
+            "locality_id":421196107,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421196107,
+    "wof:lastmodified":1527716365,
+    "wof:name":"El Tunal",
+    "wof:parent_id":890440759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.29552,
+    11.06878,
+    -64.29552,
+    11.06878
+],
+  "geometry": {"coordinates":[-64.29552,11.06878],"type":"Point"}
+}

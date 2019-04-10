@@ -1,0 +1,67 @@
+{
+  "id": 1260366523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.20372,7.9799,-66.20372,7.9799",
+    "geom:latitude":7.9799,
+    "geom:longitude":-66.20372,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Tarasca",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3774296,
+    "gn:latitude":7.9799,
+    "gn:longitude":-66.20372,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Tarasca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3774296
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e812c807837b50cab3fe56f8858464ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1260366523,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1260366523,
+    "wof:lastmodified":1537094426,
+    "wof:name":"La Tarasca",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.20371999999999,
+    7.9799,
+    -66.20371999999999,
+    7.9799
+],
+  "geometry": {"coordinates":[-66.20371999999999,7.9799],"type":"Point"}
+}

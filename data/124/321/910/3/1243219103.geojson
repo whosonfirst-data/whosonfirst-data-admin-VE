@@ -1,0 +1,61 @@
+{
+  "id": 1243219103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3,10.88333,-65.3,10.88333",
+    "geom:latitude":10.88333,
+    "geom:longitude":-65.3,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Punta de Garambeo",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640677,
+    "gn:latitude":10.88333,
+    "gn:longitude":-65.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Punta de Garambeo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640677
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a0db3c217092e210dbdd0a1eeac82cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243219103,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243219103,
+    "wof:lastmodified":1536635118,
+    "wof:name":"Punta de Garambeo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3,
+    10.88333,
+    -65.3,
+    10.88333
+],
+  "geometry": {"coordinates":[-65.3,10.88333],"type":"Point"}
+}

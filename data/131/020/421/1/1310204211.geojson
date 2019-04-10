@@ -1,0 +1,67 @@
+{
+  "id": 1310204211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.21588,10.32097,-67.21588,10.32097",
+    "geom:latitude":10.32097,
+    "geom:longitude":-67.21588,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"La Llanera",
+    "gn:country_code":"VE",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637357,
+    "gn:latitude":10.32097,
+    "gn:longitude":-67.21588,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Llanera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421181777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637357
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"98ab07e83d2269260482bf12a0b68479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421181777,
+            "locality_id":1310204211,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1310204211,
+    "wof:lastmodified":1536853046,
+    "wof:name":"La Llanera",
+    "wof:parent_id":421181777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.21588,
+    10.32097,
+    -67.21588,
+    10.32097
+],
+  "geometry": {"coordinates":[-67.21588,10.32097],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242853975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.97048,8.9527,-65.97048,8.9527",
+    "geom:latitude":8.9527,
+    "geom:longitude":-65.97048,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Roble Gacho",
+    "gn:country_code":"VE",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629020,
+    "gn:latitude":8.9527,
+    "gn:longitude":-65.97048,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Roble Gacho",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629020
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"724cc5704bce25e304b45756e2719bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1242853975,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242853975,
+    "wof:lastmodified":1536665618,
+    "wof:name":"Roble Gacho",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.97048000000001,
+    8.9527,
+    -65.97048000000001,
+    8.9527
+],
+  "geometry": {"coordinates":[-65.97048000000001,8.9527],"type":"Point"}
+}

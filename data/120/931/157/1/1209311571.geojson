@@ -1,0 +1,61 @@
+{
+  "id": 1209311571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.83023,5.94518,-66.83023,5.94518",
+    "geom:latitude":5.94518,
+    "geom:longitude":-66.83023,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Merey",
+    "gn:country_code":"VE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632326,
+    "gn:latitude":5.94518,
+    "gn:longitude":-66.83023,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Merey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632326
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"145dab59dcc95bb00abb1b1a5fedc5b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209311571
+        }
+    ],
+    "wof:id":1209311571,
+    "wof:lastmodified":1536291010,
+    "wof:name":"Merey",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.83023,
+    5.9451800000000015,
+    -66.83023,
+    5.9451800000000015
+],
+  "geometry": {"coordinates":[-66.83023,5.94518],"type":"Point"}
+}

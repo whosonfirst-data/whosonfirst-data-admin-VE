@@ -1,0 +1,67 @@
+{
+  "id": 1243576897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58278,10.09111,-67.58278,10.09111",
+    "geom:latitude":10.09111,
+    "geom:longitude":-67.58278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cujisal",
+    "gn:country_code":"VE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806375,
+    "gn:latitude":10.09111,
+    "gn:longitude":-67.58278,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"Cujisal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806375
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"156b7c77fa12b5fcad0899cd44008185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1243576897,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1243576897,
+    "wof:lastmodified":1536615242,
+    "wof:name":"Cujisal",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58278,
+    10.09111,
+    -67.58278,
+    10.09111
+],
+  "geometry": {"coordinates":[-67.58278,10.09111],"type":"Point"}
+}

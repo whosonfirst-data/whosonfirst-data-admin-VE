@@ -1,0 +1,67 @@
+{
+  "id": 1209921969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.55228,9.79119,-65.55228,9.79119",
+    "geom:latitude":9.79119,
+    "geom:longitude":-65.55228,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Arenas",
+    "gn:country_code":"VE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648974,
+    "gn:latitude":9.79119,
+    "gn:longitude":-65.55228,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Arenas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648974
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"33fdd152a833c93a0d58d6b1540315fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1209921969,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1209921969,
+    "wof:lastmodified":1536396613,
+    "wof:name":"Arenas",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.55228000000001,
+    9.79119,
+    -65.55228000000001,
+    9.79119
+],
+  "geometry": {"coordinates":[-65.55228000000001,9.79119],"type":"Point"}
+}

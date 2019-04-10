@@ -1,0 +1,67 @@
+{
+  "id": 1226212121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.71998,10.07378,-66.71998,10.07378",
+    "geom:latitude":10.07378,
+    "geom:longitude":-66.71998,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Las Tasajeras",
+    "gn:country_code":"VE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742338,
+    "gn:latitude":10.07378,
+    "gn:longitude":-66.71998,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Las Tasajeras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742338
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a52f4dc5128b14273db2e5a21ba872a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694243,
+            "locality_id":1226212121,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226212121,
+    "wof:lastmodified":1536981542,
+    "wof:name":"Las Tasajeras",
+    "wof:parent_id":1108694243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.71998,
+    10.07378,
+    -66.71998,
+    10.07378
+],
+  "geometry": {"coordinates":[-66.71998000000001,10.07378],"type":"Point"}
+}

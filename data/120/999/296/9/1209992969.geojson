@@ -1,0 +1,67 @@
+{
+  "id": 1209992969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.53355,8.55217,-65.53355,8.55217",
+    "geom:latitude":8.55217,
+    "geom:longitude":-65.53355,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pico de Guaro",
+    "gn:country_code":"VE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630265,
+    "gn:latitude":8.55217,
+    "gn:longitude":-65.53355,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"Pico de Guaro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630265
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"205f4ebdf954a8a2d7a02bf755b3aaa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1209992969,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1209992969,
+    "wof:lastmodified":1536385569,
+    "wof:name":"Pico de Guaro",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.53355,
+    8.55217,
+    -65.53355,
+    8.55217
+],
+  "geometry": {"coordinates":[-65.53355000000001,8.55217],"type":"Point"}
+}

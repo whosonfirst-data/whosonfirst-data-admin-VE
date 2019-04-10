@@ -1,0 +1,61 @@
+{
+  "id": 1292956739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.52503,10.63429,-71.52503,10.63429",
+    "geom:latitude":10.63429,
+    "geom:longitude":-71.52503,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Canito",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643975,
+    "gn:latitude":10.63429,
+    "gn:longitude":-71.52503,
+    "gn:modification_date":"2000-08-01",
+    "gn:name":"El Ca\u00f1ito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643975
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c3e565bd1f03c09c7641747b0767bc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292956739,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292956739,
+    "wof:lastmodified":1537052987,
+    "wof:name":"El Canito",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.52503,
+    10.63429,
+    -71.52503,
+    10.63429
+],
+  "geometry": {"coordinates":[-71.52503,10.63429],"type":"Point"}
+}

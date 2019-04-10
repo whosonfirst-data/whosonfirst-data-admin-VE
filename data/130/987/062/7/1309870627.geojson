@@ -1,0 +1,67 @@
+{
+  "id": 1309870627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.83945,10.29807,-63.83945,10.29807",
+    "geom:latitude":10.29807,
+    "geom:longitude":-63.83945,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Macanillal Afuera",
+    "gn:country_code":"VE",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796139,
+    "gn:latitude":10.29807,
+    "gn:longitude":-63.83945,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Macanillal Afuera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796139
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"578ae1f33e31de809d5641a96ee3034c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694311,
+            "locality_id":1309870627,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1309870627,
+    "wof:lastmodified":1536836747,
+    "wof:name":"Macanillal Afuera",
+    "wof:parent_id":1108694311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.83945,
+    10.29807,
+    -63.83945,
+    10.29807
+],
+  "geometry": {"coordinates":[-63.83945,10.29807],"type":"Point"}
+}

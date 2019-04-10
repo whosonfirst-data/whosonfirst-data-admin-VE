@@ -1,0 +1,67 @@
+{
+  "id": 1360286119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.10803,6.99024,-70.10803,6.99024",
+    "geom:latitude":6.99024,
+    "geom:longitude":-70.10803,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Los Angelitos",
+    "gn:country_code":"VE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3804421,
+    "gn:latitude":6.99024,
+    "gn:longitude":-70.10803,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Los Angelitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804421
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dfbc83235aa30fee98c077dd648cdfd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1360286119,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1360286119,
+    "wof:lastmodified":1536655665,
+    "wof:name":"Los Angelitos",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.10803,
+    6.99024,
+    -70.10803,
+    6.99024
+],
+  "geometry": {"coordinates":[-70.10803,6.99024],"type":"Point"}
+}

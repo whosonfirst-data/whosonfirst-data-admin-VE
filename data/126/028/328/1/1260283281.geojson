@@ -1,0 +1,67 @@
+{
+  "id": 1260283281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.26667,10.31667,-67.26667,10.31667",
+    "geom:latitude":10.31667,
+    "geom:longitude":-67.26667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"La Vizcaina",
+    "gn:country_code":"VE",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634873,
+    "gn:latitude":10.31667,
+    "gn:longitude":-67.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Vizca\u00edna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421181777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634873
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bc9646c857583eea71c2eb5454574ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421181777,
+            "locality_id":1260283281,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1260283281,
+    "wof:lastmodified":1536712518,
+    "wof:name":"La Vizcaina",
+    "wof:parent_id":421181777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.26666999999999,
+    10.31667,
+    -67.26666999999999,
+    10.31667
+],
+  "geometry": {"coordinates":[-67.26666999999999,10.31667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310607505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28333,7.4,-67.28333,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":-67.28333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Culata",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638232,
+    "gn:latitude":7.4,
+    "gn:longitude":-67.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Culata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Culatas",
+        "La Culata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638232
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8392dae2c0aed09fe48acd52621eeb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1310607505,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1310607505,
+    "wof:lastmodified":1537713572,
+    "wof:name":"La Culata",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28333,
+    7.4,
+    -67.28333,
+    7.4
+],
+  "geometry": {"coordinates":[-67.28333000000001,7.4],"type":"Point"}
+}

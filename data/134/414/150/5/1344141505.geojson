@@ -1,0 +1,67 @@
+{
+  "id": 1344141505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.15135,9.19312,-68.15135,9.19312",
+    "geom:latitude":9.19312,
+    "geom:longitude":-68.15135,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"VE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638296,
+    "gn:latitude":9.19312,
+    "gn:longitude":-68.15135,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638296
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"71189b4e0da1420071edadd3ccd52ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1344141505,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1344141505,
+    "wof:lastmodified":1536758853,
+    "wof:name":"La Cruz",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.15135,
+    9.19312,
+    -68.15135,
+    9.19312
+],
+  "geometry": {"coordinates":[-68.15134999999999,9.19312],"type":"Point"}
+}

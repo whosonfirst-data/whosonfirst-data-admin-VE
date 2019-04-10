@@ -1,0 +1,67 @@
+{
+  "id": 1226828495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.47334,9.17948,-65.47334,9.17948",
+    "geom:latitude":9.17948,
+    "geom:longitude":-65.47334,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Higuerote",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639529,
+    "gn:latitude":9.17948,
+    "gn:longitude":-65.47334,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Higuerote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639529
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"290de0a663da0b377bf1968ced35a1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1226828495,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226828495,
+    "wof:lastmodified":1537090006,
+    "wof:name":"Higuerote",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.47334000000001,
+    9.17948,
+    -65.47334000000001,
+    9.17948
+],
+  "geometry": {"coordinates":[-65.47334000000001,9.17948],"type":"Point"}
+}

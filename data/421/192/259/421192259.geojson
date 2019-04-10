@@ -1,0 +1,76 @@
+{
+  "id": 421192259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.23476,10.10295,-65.23476,10.10295",
+    "geom:latitude":10.10295,
+    "geom:longitude":-65.23476,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3643032,
+    "qs:gn_pop":0,
+    "qs:name":"El Hatillo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":324,
+    "qs:photos_1k":66,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":324,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165494,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468197,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421172597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643032,
+        "gp:id":468197,
+        "qs:id":1165494
+    },
+    "wof:country":"VE",
+    "wof:created":1459009730,
+    "wof:geomhash":"d236ba1929f322f4dc2ebde5bda03f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172597,
+            "locality_id":421192259,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":421192259,
+    "wof:lastmodified":1500034339,
+    "wof:name":"El Hatillo",
+    "wof:parent_id":421172597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.23476,
+    10.10295,
+    -65.23476,
+    10.10295
+],
+  "geometry": {"coordinates":[-65.23475999999999,10.10295],"type":"Point"}
+}

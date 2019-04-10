@@ -1,0 +1,67 @@
+{
+  "id": 1343728505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.94017,11.05259,-63.94017,11.05259",
+    "geom:latitude":11.05259,
+    "geom:longitude":-63.94017,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bolivar",
+    "gn:country_code":"VE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648116,
+    "gn:latitude":11.05259,
+    "gn:longitude":-63.94017,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bol\u00edvar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421202069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648116
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4c105affe9c32c892561133d401a9b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202069,
+            "locality_id":1343728505,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1343728505,
+    "wof:lastmodified":1536855850,
+    "wof:name":"Bolivar",
+    "wof:parent_id":421202069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.94017,
+    11.05259,
+    -63.94017,
+    11.05259
+],
+  "geometry": {"coordinates":[-63.94017,11.05259],"type":"Point"}
+}

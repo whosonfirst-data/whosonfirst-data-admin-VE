@@ -1,0 +1,67 @@
+{
+  "id": 1293188151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0935,10.68829,-71.0935,10.68829",
+    "geom:latitude":10.68829,
+    "geom:longitude":-71.0935,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"La Castellana",
+    "gn:country_code":"VE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3785790,
+    "gn:latitude":10.68829,
+    "gn:longitude":-71.0935,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Castellana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785790
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f8ded9e186e024edd042e0d835d14e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694193,
+            "locality_id":1293188151,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293188151,
+    "wof:lastmodified":1536722004,
+    "wof:name":"La Castellana",
+    "wof:parent_id":1108694193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0935,
+    10.68829,
+    -71.0935,
+    10.68829
+],
+  "geometry": {"coordinates":[-71.09350000000001,10.68829],"type":"Point"}
+}

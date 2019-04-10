@@ -1,0 +1,70 @@
+{
+  "id": 1293758963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14002,9.16118,-69.14002,9.16118",
+    "geom:latitude":9.16118,
+    "geom:longitude":-69.14002,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Banco Morales",
+    "gn:country_code":"VE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797839,
+    "gn:latitude":9.16118,
+    "gn:longitude":-69.14002,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Banco Morales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Banco Morales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797839
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11281b8a86f9da19a6d85126d3926e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694177,
+            "locality_id":1293758963,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1293758963,
+    "wof:lastmodified":1537713640,
+    "wof:name":"Banco Morales",
+    "wof:parent_id":1108694177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14001999999999,
+    9.16118,
+    -69.14001999999999,
+    9.16118
+],
+  "geometry": {"coordinates":[-69.14001999999999,9.16118],"type":"Point"}
+}

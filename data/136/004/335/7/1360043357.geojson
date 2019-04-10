@@ -1,0 +1,61 @@
+{
+  "id": 1360043357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.10644,9.89711,-71.10644,9.89711",
+    "geom:latitude":9.89711,
+    "geom:longitude":-71.10644,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Las Palmeras",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3789935,
+    "gn:latitude":9.89711,
+    "gn:longitude":-71.10644,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Las Palmeras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789935
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fc90880bcb5b82e0d0b8b34e68d6eb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360043357,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360043357,
+    "wof:lastmodified":1537005261,
+    "wof:name":"Las Palmeras",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.10644,
+    9.89711,
+    -71.10644,
+    9.89711
+],
+  "geometry": {"coordinates":[-71.10644000000001,9.89711],"type":"Point"}
+}

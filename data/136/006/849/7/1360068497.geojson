@@ -1,0 +1,67 @@
+{
+  "id": 1360068497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.601,8.45186,-71.601,8.45186",
+    "geom:latitude":8.45186,
+    "geom:longitude":-71.601,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Victoria",
+    "gn:country_code":"VE",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634933,
+    "gn:latitude":8.45186,
+    "gn:longitude":-71.601,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634933
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0c3e9fbf92d340c32ddfbbb8698b1c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1360068497,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1360068497,
+    "wof:lastmodified":1536969337,
+    "wof:name":"La Victoria",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.601,
+    8.45186,
+    -71.601,
+    8.45186
+],
+  "geometry": {"coordinates":[-71.601,8.45186],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242652777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88001,9.1336,-69.88001,9.1336",
+    "geom:latitude":9.1336,
+    "geom:longitude":-69.88001,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cerro de Paja",
+    "gn:country_code":"VE",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797985,
+    "gn:latitude":9.1336,
+    "gn:longitude":-69.88001,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cerro de Paja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro de Paja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421189087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797985
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c8770e37b933ab56a287dcb1c9d10f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189087,
+            "locality_id":1242652777,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1242652777,
+    "wof:lastmodified":1537713641,
+    "wof:name":"Cerro de Paja",
+    "wof:parent_id":421189087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88001,
+    9.1336,
+    -69.88001,
+    9.1336
+],
+  "geometry": {"coordinates":[-69.88001,9.1336],"type":"Point"}
+}

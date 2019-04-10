@@ -1,0 +1,61 @@
+{
+  "id": 1209606987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.09889,7.62389,-64.09889,7.62389",
+    "geom:latitude":7.62389,
+    "geom:longitude":-64.09889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Las Bocainas",
+    "gn:country_code":"VE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807172,
+    "gn:latitude":7.62389,
+    "gn:longitude":-64.09889,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Las Bocainas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807172
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8805e645d8ee243be340d0ace1ac149e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209606987
+        }
+    ],
+    "wof:id":1209606987,
+    "wof:lastmodified":1536281978,
+    "wof:name":"Las Bocainas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.09889,
+    7.6238899999999985,
+    -64.09889,
+    7.6238899999999985
+],
+  "geometry": {"coordinates":[-64.09889,7.62389],"type":"Point"}
+}

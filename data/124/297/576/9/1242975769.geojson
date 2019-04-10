@@ -1,0 +1,72 @@
+{
+  "id": 1242975769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03333,9.9,-67.03333,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":-67.03333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Los Dos Caminos",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634189,
+    "gn:latitude":9.9,
+    "gn:longitude":-67.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Dos Caminos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dos Caminos",
+        "Los Dos Caminos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421193519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634189
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d0d4f1397348e256acb4f9b0e035bd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193519,
+            "locality_id":1242975769,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1242975769,
+    "wof:lastmodified":1537713549,
+    "wof:name":"Los Dos Caminos",
+    "wof:parent_id":421193519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03333,
+    9.9,
+    -67.03333,
+    9.9
+],
+  "geometry": {"coordinates":[-67.03333000000001,9.9],"type":"Point"}
+}

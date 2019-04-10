@@ -1,0 +1,67 @@
+{
+  "id": 1360171955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.13434,11.95964,-70.13434,11.95964",
+    "geom:latitude":11.95964,
+    "geom:longitude":-70.13434,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"San Salvador",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784541,
+    "gn:latitude":11.95964,
+    "gn:longitude":-70.13434,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"San Salvador",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784541
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"32b43c76805d2097717130d6031c675b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1360171955,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1360171955,
+    "wof:lastmodified":1536819499,
+    "wof:name":"San Salvador",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.13434000000001,
+    11.95964,
+    -70.13434000000001,
+    11.95964
+],
+  "geometry": {"coordinates":[-70.13434000000001,11.95964],"type":"Point"}
+}

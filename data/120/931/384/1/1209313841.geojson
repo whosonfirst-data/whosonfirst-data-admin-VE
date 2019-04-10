@@ -1,0 +1,61 @@
+{
+  "id": 1209313841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.4,10.48333,-67.4,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":-67.4,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"El Jabillal",
+    "gn:country_code":"VE",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642967,
+    "gn:latitude":10.48333,
+    "gn:longitude":-67.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Jabillal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642967
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2fb11cc7a4dc2cf77145e87c95d8f38f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209313841
+        }
+    ],
+    "wof:id":1209313841,
+    "wof:lastmodified":1536290934,
+    "wof:name":"El Jabillal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.4,
+    10.48333,
+    -67.4,
+    10.48333
+],
+  "geometry": {"coordinates":[-67.40000000000001,10.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259364257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.94889,9.36167,-63.94889,9.36167",
+    "geom:latitude":9.36167,
+    "geom:longitude":-63.94889,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Carisito",
+    "gn:country_code":"VE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777744,
+    "gn:latitude":9.36167,
+    "gn:longitude":-63.94889,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Carisito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777744
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"64df62ffc5c3d394fb820c4be08354e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1259364257,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1259364257,
+    "wof:lastmodified":1537028753,
+    "wof:name":"Carisito",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.94889000000001,
+    9.36167,
+    -63.94889000000001,
+    9.36167
+],
+  "geometry": {"coordinates":[-63.94889000000001,9.36167],"type":"Point"}
+}

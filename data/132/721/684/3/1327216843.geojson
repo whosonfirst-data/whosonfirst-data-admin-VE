@@ -1,0 +1,67 @@
+{
+  "id": 1327216843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6185,8.09594,-71.6185,8.09594",
+    "geom:latitude":8.09594,
+    "geom:longitude":-71.6185,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mesa de Quintero",
+    "gn:country_code":"VE",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632287,
+    "gn:latitude":8.09594,
+    "gn:longitude":-71.6185,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Mesa de Quintero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421196155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632287
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"879ba6b5c77054f82a867e6fac36f2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196155,
+            "locality_id":1327216843,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1327216843,
+    "wof:lastmodified":1536991303,
+    "wof:name":"Mesa de Quintero",
+    "wof:parent_id":421196155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6185,
+    8.09594,
+    -71.6185,
+    8.09594
+],
+  "geometry": {"coordinates":[-71.6185,8.09594],"type":"Point"}
+}

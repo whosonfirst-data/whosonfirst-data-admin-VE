@@ -1,0 +1,71 @@
+{
+  "id": 1209935379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8421,9.83443,-67.8421,9.83443",
+    "geom:latitude":9.83443,
+    "geom:longitude":-67.8421,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Mangos",
+    "gn:country_code":"VE",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799964,
+    "gn:latitude":9.83443,
+    "gn:longitude":-67.8421,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Los Mangos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangos",
+        "Los Mangos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799964
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5754dbab631854c55abe9b0b4179d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1209935379,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1209935379,
+    "wof:lastmodified":1537713650,
+    "wof:name":"Los Mangos",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8421,
+    9.83443,
+    -67.8421,
+    9.83443
+],
+  "geometry": {"coordinates":[-67.8421,9.83443],"type":"Point"}
+}

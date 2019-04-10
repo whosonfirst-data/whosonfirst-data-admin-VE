@@ -1,0 +1,79 @@
+{
+  "id": 421196993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.194324,8.564725,-71.194324,8.564725",
+    "geom:latitude":8.564725,
+    "geom:longitude":-71.194324,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Matriz",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":52,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":79,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263885,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805273,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805273,
+        "qs:id":1263885,
+        "qs_pg:id":1263885
+    },
+    "wof:country":"VE",
+    "wof:created":1459009899,
+    "wof:geomhash":"18d267918579c1ef8db10f0089b6419a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "localadmin_id":421196993,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421196993,
+    "wof:lastmodified":1497042684,
+    "wof:name":"Matriz",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.194324,
+    8.564725,
+    -71.194324,
+    8.564725
+],
+  "geometry": {"coordinates":[-71.19432399999999,8.564725],"type":"Point"}
+}

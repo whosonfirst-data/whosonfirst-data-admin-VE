@@ -1,0 +1,72 @@
+{
+  "id": 1225916769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.71667,10.18333,-66.71667,10.18333",
+    "geom:latitude":10.18333,
+    "geom:longitude":-66.71667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Arratia",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648859,
+    "gn:latitude":10.18333,
+    "gn:longitude":-66.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arratia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oficina Arratia",
+        "Arratia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648859
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3236dcf087402efb36d5da293fd2b5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694425,
+            "locality_id":1225916769,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1225916769,
+    "wof:lastmodified":1537713631,
+    "wof:name":"Arratia",
+    "wof:parent_id":1108694425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.71667,
+    10.18333,
+    -66.71667,
+    10.18333
+],
+  "geometry": {"coordinates":[-66.71666999999999,10.18333],"type":"Point"}
+}

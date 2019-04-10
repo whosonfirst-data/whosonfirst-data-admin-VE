@@ -1,0 +1,67 @@
+{
+  "id": 1344014075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38333,10.4,-71.38333,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":-71.38333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Laguatal",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642876,
+    "gn:latitude":10.4,
+    "gn:longitude":-71.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Laguatal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642876
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"21a994a4c112f4b00a67f4c0a2586893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1344014075,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1344014075,
+    "wof:lastmodified":1536943281,
+    "wof:name":"El Laguatal",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38333,
+    10.4,
+    -71.38333,
+    10.4
+],
+  "geometry": {"coordinates":[-71.38333,10.4],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226105843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.30649,8.94628,-63.30649,8.94628",
+    "geom:latitude":8.94628,
+    "geom:longitude":-63.30649,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Carapachos",
+    "gn:country_code":"VE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646676,
+    "gn:latitude":8.94628,
+    "gn:longitude":-63.30649,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Carapachos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carapacho",
+        "Los Carapachos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646676
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4331a7400068a7248f2b0085248c9d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1226105843,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1226105843,
+    "wof:lastmodified":1537713622,
+    "wof:name":"Los Carapachos",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.30649,
+    8.94628,
+    -63.30649,
+    8.94628
+],
+  "geometry": {"coordinates":[-63.30649,8.94628],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226832765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.68483,10.55389,-69.68483,10.55389",
+    "geom:latitude":10.55389,
+    "geom:longitude":-69.68483,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Agua Viva",
+    "gn:country_code":"VE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649550,
+    "gn:latitude":10.55389,
+    "gn:longitude":-69.68483,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Agua Viva",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Agua Viva"
+    ],
+    "name:por_x_preferred":[
+        "Agua Viva"
+    ],
+    "name:spa_x_preferred":[
+        "Agua Viva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649550
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1a0139d5d6d8bbdf9628e1147b76333c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1226832765,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1226832765,
+    "wof:lastmodified":1537560470,
+    "wof:name":"Agua Viva",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.68483,
+    10.55389,
+    -69.68483,
+    10.55389
+],
+  "geometry": {"coordinates":[-69.68483000000001,10.55389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293181225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83493,11.43438,-68.83493,11.43438",
+    "geom:latitude":11.43438,
+    "geom:longitude":-68.83493,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Jose de La Costa",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628141,
+    "gn:latitude":11.43438,
+    "gn:longitude":-68.83493,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 de La Costa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 de La Costa",
+        "San Jos\u00e9",
+        "La Costa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628141
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5058e8b65d1005695f6cbb8fc88dd40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1293181225,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293181225,
+    "wof:lastmodified":1537713519,
+    "wof:name":"San Jose de La Costa",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83493,
+    11.43438,
+    -68.83493,
+    11.43438
+],
+  "geometry": {"coordinates":[-68.83493,11.43438],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209183851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46544,10.28896,-66.46544,10.28896",
+    "geom:latitude":10.28896,
+    "geom:longitude":-66.46544,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Navaja",
+    "gn:country_code":"VE",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742283,
+    "gn:latitude":10.28896,
+    "gn:longitude":-66.46544,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Navaja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742283
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"765e8aad459b32f391a2b6acb3b893c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209183851
+        }
+    ],
+    "wof:id":1209183851,
+    "wof:lastmodified":1536295167,
+    "wof:name":"Navaja",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46544,
+    10.28896,
+    -66.46544,
+    10.28896
+],
+  "geometry": {"coordinates":[-66.46544,10.28896],"type":"Point"}
+}

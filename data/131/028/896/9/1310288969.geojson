@@ -1,0 +1,67 @@
+{
+  "id": 1310288969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.08333,9.16667,-61.08333,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":-61.08333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Araguao",
+    "gn:country_code":"VE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649094,
+    "gn:latitude":9.16667,
+    "gn:longitude":-61.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Araguao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649094
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"318beedafe8421e99a7f65e375cb8c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1310288969,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1310288969,
+    "wof:lastmodified":1536732062,
+    "wof:name":"Araguao",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.08333,
+    9.16667,
+    -61.08333,
+    9.16667
+],
+  "geometry": {"coordinates":[-61.08333,9.16667],"type":"Point"}
+}

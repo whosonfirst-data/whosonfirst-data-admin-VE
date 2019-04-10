@@ -1,0 +1,67 @@
+{
+  "id": 1344037859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.8296,11.15216,-69.8296,11.15216",
+    "geom:latitude":11.15216,
+    "geom:longitude":-69.8296,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Urucure",
+    "gn:country_code":"VE",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625616,
+    "gn:latitude":11.15216,
+    "gn:longitude":-69.8296,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Urucure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421169951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625616
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"964b299795fe7d81bedc4985565482e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169951,
+            "locality_id":1344037859,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1344037859,
+    "wof:lastmodified":1536908596,
+    "wof:name":"Urucure",
+    "wof:parent_id":421169951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.8296,
+    11.15216,
+    -69.8296,
+    11.15216
+],
+  "geometry": {"coordinates":[-69.8296,11.15216],"type":"Point"}
+}

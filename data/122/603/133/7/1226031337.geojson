@@ -1,0 +1,67 @@
+{
+  "id": 1226031337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.4,9.23333,-66.4,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":-66.4,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Enealitos",
+    "gn:country_code":"VE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634165,
+    "gn:latitude":9.23333,
+    "gn:longitude":-66.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Enealitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634165
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b5c38909461879fb04f635d1b88e2959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694159,
+            "locality_id":1226031337,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226031337,
+    "wof:lastmodified":1536745666,
+    "wof:name":"Los Enealitos",
+    "wof:parent_id":1108694159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.4,
+    9.23333,
+    -66.4,
+    9.23333
+],
+  "geometry": {"coordinates":[-66.40000000000001,9.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344058955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.31456,8.44347,-64.31456,8.44347",
+    "geom:latitude":8.44347,
+    "geom:longitude":-64.31456,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santa Isabel",
+    "gn:country_code":"VE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766052,
+    "gn:latitude":8.44347,
+    "gn:longitude":-64.31456,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766052
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d26d51e70d9e22dad3433b29f70d0cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1344058955,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344058955,
+    "wof:lastmodified":1536876868,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.31456,
+    8.44347,
+    -64.31456,
+    8.44347
+],
+  "geometry": {"coordinates":[-64.31456,8.44347],"type":"Point"}
+}

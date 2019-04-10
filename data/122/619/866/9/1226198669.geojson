@@ -1,0 +1,67 @@
+{
+  "id": 1226198669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.79148,10.13342,-68.79148,10.13342",
+    "geom:latitude":10.13342,
+    "geom:longitude":-68.79148,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Los Corozos",
+    "gn:country_code":"VE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634232,
+    "gn:latitude":10.13342,
+    "gn:longitude":-68.79148,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Los Corozos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634232
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4c62a4d3b3aacccab8112ee6f0f226db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694129,
+            "locality_id":1226198669,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1226198669,
+    "wof:lastmodified":1537000838,
+    "wof:name":"Los Corozos",
+    "wof:parent_id":1108694129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.79148,
+    10.13342,
+    -68.79148,
+    10.13342
+],
+  "geometry": {"coordinates":[-68.79148000000001,10.13342],"type":"Point"}
+}

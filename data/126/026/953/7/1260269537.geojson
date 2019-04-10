@@ -1,0 +1,67 @@
+{
+  "id": 1260269537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.29691,9.22958,-65.29691,9.22958",
+    "geom:latitude":9.22958,
+    "geom:longitude":-65.29691,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Mahomos",
+    "gn:country_code":"VE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634001,
+    "gn:latitude":9.22958,
+    "gn:longitude":-65.29691,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Los Mahomos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634001
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"438dcd29f9d54ba0d8a6d5c4fa619ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1260269537,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1260269537,
+    "wof:lastmodified":1536730934,
+    "wof:name":"Los Mahomos",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.29691,
+    9.22958,
+    -65.29691,
+    9.22958
+],
+  "geometry": {"coordinates":[-65.29691,9.22958],"type":"Point"}
+}

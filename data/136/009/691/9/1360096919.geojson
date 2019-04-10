@@ -1,0 +1,67 @@
+{
+  "id": 1360096919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.13262,9.51174,-65.13262,9.51174",
+    "geom:latitude":9.51174,
+    "geom:longitude":-65.13262,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Sabana Grande",
+    "gn:country_code":"VE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628903,
+    "gn:latitude":9.51174,
+    "gn:longitude":-65.13262,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sabana Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628903
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1ddf640cdf43a241ef755a7712fb2c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1360096919,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360096919,
+    "wof:lastmodified":1536929258,
+    "wof:name":"Sabana Grande",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.13261999999999,
+    9.51174,
+    -65.13261999999999,
+    9.51174
+],
+  "geometry": {"coordinates":[-65.13261999999999,9.51174],"type":"Point"}
+}

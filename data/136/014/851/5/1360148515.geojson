@@ -1,0 +1,67 @@
+{
+  "id": 1360148515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.42099,9.87324,-63.42099,9.87324",
+    "geom:latitude":9.87324,
+    "geom:longitude":-63.42099,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chaparral",
+    "gn:country_code":"VE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645894,
+    "gn:latitude":9.87324,
+    "gn:longitude":-63.42099,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Chaparral",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645894
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c6de397f0364e7aef5a795eb7e5682d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1360148515,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1360148515,
+    "wof:lastmodified":1536853187,
+    "wof:name":"Chaparral",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.42099,
+    9.87324,
+    -63.42099,
+    9.87324
+],
+  "geometry": {"coordinates":[-63.42099,9.87324],"type":"Point"}
+}

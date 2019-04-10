@@ -1,0 +1,67 @@
+{
+  "id": 1343235371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87518,8.78507,-70.87518,8.78507",
+    "geom:latitude":8.78507,
+    "geom:longitude":-70.87518,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Llano del Hato",
+    "gn:country_code":"VE",
+    "gn:dem":3446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634715,
+    "gn:latitude":8.78507,
+    "gn:longitude":-70.87518,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Llano del Hato",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634715
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0dcc5abbf19f1988ce4b69d6dd94b05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":1343235371,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343235371,
+    "wof:lastmodified":1537068304,
+    "wof:name":"Llano del Hato",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87518,
+    8.78507,
+    -70.87518,
+    8.78507
+],
+  "geometry": {"coordinates":[-70.87518,8.78507],"type":"Point"}
+}

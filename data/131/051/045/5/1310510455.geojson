@@ -1,0 +1,67 @@
+{
+  "id": 1310510455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.73165,1.3545,-64.73165,1.3545",
+    "geom:latitude":1.3545,
+    "geom:longitude":-64.73165,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tushava",
+    "gn:country_code":"VE",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458368,
+    "gn:latitude":1.3545,
+    "gn:longitude":-64.73165,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Tushava",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458368
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5ca38830cc2d2f14bb5bf691732f78e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1310510455,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1310510455,
+    "wof:lastmodified":1536909991,
+    "wof:name":"Tushava",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.73165,
+    1.3545,
+    -64.73165,
+    1.3545
+],
+  "geometry": {"coordinates":[-64.73165,1.3545],"type":"Point"}
+}

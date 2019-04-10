@@ -1,0 +1,61 @@
+{
+  "id": 1209170685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97713,9.37776,-70.97713,9.37776",
+    "geom:latitude":9.37776,
+    "geom:longitude":-70.97713,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Los Verales",
+    "gn:country_code":"VE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766678,
+    "gn:latitude":9.37776,
+    "gn:longitude":-70.97713,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Los Verales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766678
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4816c4c7022011245762e4ebeaab6238",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209170685
+        }
+    ],
+    "wof:id":1209170685,
+    "wof:lastmodified":1536295591,
+    "wof:name":"Los Verales",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97713,
+    9.37776,
+    -70.97713,
+    9.37776
+],
+  "geometry": {"coordinates":[-70.97713,9.37776],"type":"Point"}
+}

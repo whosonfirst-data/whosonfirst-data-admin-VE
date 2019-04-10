@@ -1,0 +1,66 @@
+{
+  "id": 1209026595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.26667,10.1,-68.26667,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-68.26667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Los Chorritos",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634306,
+    "gn:latitude":10.1,
+    "gn:longitude":-68.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Chorritos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorritos",
+        "Los Chorritos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634306
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"81383e6230edb37d3b81a97f1959fa03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209026595
+        }
+    ],
+    "wof:id":1209026595,
+    "wof:lastmodified":1537713549,
+    "wof:name":"Los Chorritos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.26666999999999,
+    10.1,
+    -68.26666999999999,
+    10.1
+],
+  "geometry": {"coordinates":[-68.26666999999999,10.1],"type":"Point"}
+}

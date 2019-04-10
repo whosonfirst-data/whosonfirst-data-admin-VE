@@ -1,0 +1,61 @@
+{
+  "id": 1209500723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.97667,10.375,-67.97667,10.375",
+    "geom:latitude":10.375,
+    "geom:longitude":-67.97667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cumbre Chiquita",
+    "gn:country_code":"VE",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481731,
+    "gn:latitude":10.375,
+    "gn:longitude":-67.97667,
+    "gn:modification_date":"1999-03-12",
+    "gn:name":"Cumbre Chiquita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481731
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"085bcf387c8e69c42cd4e9dfd4c291ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209500723
+        }
+    ],
+    "wof:id":1209500723,
+    "wof:lastmodified":1536285192,
+    "wof:name":"Cumbre Chiquita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.97667,
+    10.375,
+    -67.97667,
+    10.375
+],
+  "geometry": {"coordinates":[-67.97667,10.375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276933261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.52857,9.24616,-70.52857,9.24616",
+    "geom:latitude":9.24616,
+    "geom:longitude":-70.52857,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Santiago de Trujillo",
+    "gn:country_code":"VE",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627039,
+    "gn:latitude":9.24616,
+    "gn:longitude":-70.52857,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santiago de Trujillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santiago",
+        "Santiago de Trujillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421172605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627039
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06d15cf2d93aae63d49de372b10aee84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172605,
+            "locality_id":1276933261,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1276933261,
+    "wof:lastmodified":1537713514,
+    "wof:name":"Santiago de Trujillo",
+    "wof:parent_id":421172605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.52857,
+    9.24616,
+    -70.52857,
+    9.24616
+],
+  "geometry": {"coordinates":[-70.52857,9.24616],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293198639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.22047,8.36162,-70.22047,8.36162",
+    "geom:latitude":8.36162,
+    "geom:longitude":-70.22047,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"VE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628651,
+    "gn:latitude":8.36162,
+    "gn:longitude":-70.22047,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628651
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"97aba5614f59afd26571acc25211c79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1293198639,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293198639,
+    "wof:lastmodified":1536706782,
+    "wof:name":"San Antonio",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.22046999999999,
+    8.36162,
+    -70.22046999999999,
+    8.36162
+],
+  "geometry": {"coordinates":[-70.22046999999999,8.36162],"type":"Point"}
+}

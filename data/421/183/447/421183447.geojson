@@ -1,0 +1,79 @@
+{
+  "id": 421183447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.984445,10.22869,-67.984445,10.22869",
+    "geom:latitude":10.22869,
+    "geom:longitude":-67.984445,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Urbana San Blas",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Carabobo",
+    "qs:photos":192,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":192,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":977972,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805535,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805535,
+        "qs:id":977972,
+        "qs_pg:id":977972
+    },
+    "wof:country":"VE",
+    "wof:created":1459009369,
+    "wof:geomhash":"e0b9bb4a8d47b5cdab8abde7832f45e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "localadmin_id":421183447,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":421183447,
+    "wof:lastmodified":1497047481,
+    "wof:name":"Urbana San Blas",
+    "wof:parent_id":421202373,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.984445,
+    10.22869,
+    -67.984445,
+    10.22869
+],
+  "geometry": {"coordinates":[-67.98444499999999,10.22869],"type":"Point"}
+}

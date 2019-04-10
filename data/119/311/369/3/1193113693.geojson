@@ -1,0 +1,67 @@
+{
+  "id": 1193113693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.96652,8.87814,-64.96652,8.87814",
+    "geom:latitude":8.87814,
+    "geom:longitude":-64.96652,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Tigra",
+    "gn:country_code":"VE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635176,
+    "gn:latitude":8.87814,
+    "gn:longitude":-64.96652,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Tigra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635176
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb19cbc3eb3d02ff1bdf1bc52027fb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1193113693,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1193113693,
+    "wof:lastmodified":1536370503,
+    "wof:name":"La Tigra",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.96651999999999,
+    8.87814,
+    -64.96651999999999,
+    8.87814
+],
+  "geometry": {"coordinates":[-64.96651999999999,8.87814],"type":"Point"}
+}

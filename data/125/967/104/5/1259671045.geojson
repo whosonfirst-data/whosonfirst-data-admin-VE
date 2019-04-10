@@ -1,0 +1,67 @@
+{
+  "id": 1259671045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.10525,10.93894,-71.10525,10.93894",
+    "geom:latitude":10.93894,
+    "geom:longitude":-71.10525,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"San Fernando",
+    "gn:country_code":"VE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784464,
+    "gn:latitude":10.93894,
+    "gn:longitude":-71.10525,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"San Fernando",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784464
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1270bff2b34dcbbba18d34eef848b134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1259671045,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259671045,
+    "wof:lastmodified":1537081801,
+    "wof:name":"San Fernando",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.10525,
+    10.93894,
+    -71.10525,
+    10.93894
+],
+  "geometry": {"coordinates":[-71.10525,10.93894],"type":"Point"}
+}

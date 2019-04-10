@@ -1,0 +1,67 @@
+{
+  "id": 1209395201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.66667,11.28333,-69.66667,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":-69.66667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cardon Grande",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646591,
+    "gn:latitude":11.28333,
+    "gn:longitude":-69.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Card\u00f3n Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Candon",
+        "Ganadona Grande",
+        "Card\u00f3n Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646591
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b620ff8d74a9c614c8332405e5b61f64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209395201
+        }
+    ],
+    "wof:id":1209395201,
+    "wof:lastmodified":1537713622,
+    "wof:name":"Cardon Grande",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66667,
+    11.28333,
+    -69.66667,
+    11.28333
+],
+  "geometry": {"coordinates":[-69.66667,11.28333],"type":"Point"}
+}

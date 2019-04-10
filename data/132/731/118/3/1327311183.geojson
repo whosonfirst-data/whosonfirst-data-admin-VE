@@ -1,0 +1,67 @@
+{
+  "id": 1327311183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.02151,10.95564,-69.02151,10.95564",
+    "geom:latitude":10.95564,
+    "geom:longitude":-69.02151,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Toro",
+    "gn:country_code":"VE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755212,
+    "gn:latitude":10.95564,
+    "gn:longitude":-69.02151,
+    "gn:modification_date":"1996-10-09",
+    "gn:name":"El Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755212
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7afeb3a1c3b4df223ebb26b4b7d0575b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694215,
+            "locality_id":1327311183,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1327311183,
+    "wof:lastmodified":1536854766,
+    "wof:name":"El Toro",
+    "wof:parent_id":1108694215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.02150999999999,
+    10.95564,
+    -69.02150999999999,
+    10.95564
+],
+  "geometry": {"coordinates":[-69.02150999999999,10.95564],"type":"Point"}
+}

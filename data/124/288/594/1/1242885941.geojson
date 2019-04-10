@@ -1,0 +1,67 @@
+{
+  "id": 1242885941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61159,10.08859,-64.61159,10.08859",
+    "geom:latitude":10.08859,
+    "geom:longitude":-64.61159,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Neveri",
+    "gn:country_code":"VE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631519,
+    "gn:latitude":10.08859,
+    "gn:longitude":-64.61159,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Never\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631519
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"daab6ad566d4b33d89d3e1c9c548f6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1242885941,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1242885941,
+    "wof:lastmodified":1536617274,
+    "wof:name":"Neveri",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61159,
+    10.08859,
+    -64.61159,
+    10.08859
+],
+  "geometry": {"coordinates":[-64.61159000000001,10.08859],"type":"Point"}
+}

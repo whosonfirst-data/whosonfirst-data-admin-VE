@@ -1,0 +1,67 @@
+{
+  "id": 1226518261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.857,10.9655,-63.857,10.9655",
+    "geom:latitude":10.9655,
+    "geom:longitude":-63.857,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Poblado",
+    "gn:country_code":"VE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480932,
+    "gn:latitude":10.9655,
+    "gn:longitude":-63.857,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"El Poblado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421170033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480932
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"05563196685dafabcf54ed918242c835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421170033,
+            "locality_id":1226518261,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1226518261,
+    "wof:lastmodified":1537036181,
+    "wof:name":"El Poblado",
+    "wof:parent_id":421170033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.857,
+    10.9655,
+    -63.857,
+    10.9655
+],
+  "geometry": {"coordinates":[-63.857,10.9655],"type":"Point"}
+}

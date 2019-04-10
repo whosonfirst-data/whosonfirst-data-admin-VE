@@ -1,0 +1,71 @@
+{
+  "id": 1242648965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.25405,9.79996,-63.25405,9.79996",
+    "geom:latitude":9.79996,
+    "geom:longitude":-63.25405,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Costo Aragua Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644975,
+    "gn:latitude":9.79996,
+    "gn:longitude":-63.25405,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Costo Aragua Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Costo Aragua",
+        "Costo Aragua Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644975
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fca842fb982924ae508a604c1a968d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1242648965,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1242648965,
+    "wof:lastmodified":1537713615,
+    "wof:name":"Costo Aragua Abajo",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.25405,
+    9.79996,
+    -63.25405,
+    9.79996
+],
+  "geometry": {"coordinates":[-63.25405,9.79996],"type":"Point"}
+}

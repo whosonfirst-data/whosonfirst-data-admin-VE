@@ -1,0 +1,67 @@
+{
+  "id": 1327395751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.59569,10.61605,-62.59569,10.61605",
+    "geom:latitude":10.61605,
+    "geom:longitude":-62.59569,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rio Chiquito Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796614,
+    "gn:latitude":10.61605,
+    "gn:longitude":-62.59569,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"R\u00edo Chiquito Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796614
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ec2da707f45808774efb0b8fc2ebc89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694275,
+            "locality_id":1327395751,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1327395751,
+    "wof:lastmodified":1536734003,
+    "wof:name":"Rio Chiquito Arriba",
+    "wof:parent_id":1108694275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.59569000000001,
+    10.61605,
+    -62.59569000000001,
+    10.61605
+],
+  "geometry": {"coordinates":[-62.59569000000001,10.61605],"type":"Point"}
+}

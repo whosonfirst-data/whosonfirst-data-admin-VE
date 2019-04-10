@@ -1,0 +1,61 @@
+{
+  "id": 1209690533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.86965,10.66468,-62.86965,10.66468",
+    "geom:latitude":10.66468,
+    "geom:longitude":-62.86965,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"El Algarrobo",
+    "gn:country_code":"VE",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796961,
+    "gn:latitude":10.66468,
+    "gn:longitude":-62.86965,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"El Algarrobo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796961
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"540129a203177bd8a95d94f7c9247833",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209690533
+        }
+    ],
+    "wof:id":1209690533,
+    "wof:lastmodified":1536279258,
+    "wof:name":"El Algarrobo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.86965,
+    10.66468,
+    -62.86965,
+    10.66468
+],
+  "geometry": {"coordinates":[-62.86965,10.66468],"type":"Point"}
+}

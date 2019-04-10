@@ -1,0 +1,67 @@
+{
+  "id": 1293568181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4173,10.61703,-69.4173,10.61703",
+    "geom:latitude":10.61703,
+    "geom:longitude":-69.4173,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Mayitas",
+    "gn:country_code":"VE",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746580,
+    "gn:latitude":10.61703,
+    "gn:longitude":-69.4173,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Las Mayitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746580
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"327096fcc3227974cd75d9abcf0b3ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1293568181,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1293568181,
+    "wof:lastmodified":1536670784,
+    "wof:name":"Las Mayitas",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4173,
+    10.61703,
+    -69.4173,
+    10.61703
+],
+  "geometry": {"coordinates":[-69.4173,10.61703],"type":"Point"}
+}

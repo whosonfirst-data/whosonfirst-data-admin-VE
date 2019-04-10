@@ -1,0 +1,61 @@
+{
+  "id": 1209523097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.77269,8.85159,-64.77269,8.85159",
+    "geom:latitude":8.85159,
+    "geom:longitude":-64.77269,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"VE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485481,
+    "gn:latitude":8.85159,
+    "gn:longitude":-64.77269,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485481
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0b218fdd917da000c594ce777ac4060d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209523097
+        }
+    ],
+    "wof:id":1209523097,
+    "wof:lastmodified":1536284518,
+    "wof:name":"Las Flores",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.77269,
+    8.85159,
+    -64.77269,
+    8.85159
+],
+  "geometry": {"coordinates":[-64.77269,8.85159],"type":"Point"}
+}

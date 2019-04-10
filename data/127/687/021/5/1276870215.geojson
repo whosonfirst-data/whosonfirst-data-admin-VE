@@ -1,0 +1,67 @@
+{
+  "id": 1276870215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.345,7.34278,-71.345,7.34278",
+    "geom:latitude":7.34278,
+    "geom:longitude":-71.345,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chenchenal",
+    "gn:country_code":"VE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3487557,
+    "gn:latitude":7.34278,
+    "gn:longitude":-71.345,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Chenchenal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487557
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9d8dd72d57d37e68f6e7b3e9e437575f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1276870215,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276870215,
+    "wof:lastmodified":1537051914,
+    "wof:name":"Chenchenal",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.345,
+    7.34278,
+    -71.345,
+    7.34278
+],
+  "geometry": {"coordinates":[-71.345,7.34278],"type":"Point"}
+}

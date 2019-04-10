@@ -1,0 +1,67 @@
+{
+  "id": 1360287563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.11667,9.8,-65.11667,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":-65.11667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Cuji",
+    "gn:country_code":"VE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643454,
+    "gn:latitude":9.8,
+    "gn:longitude":-65.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Cuj\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643454
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"715c2dbc3d20eaccf2cee910f776d80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1360287563,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360287563,
+    "wof:lastmodified":1536653453,
+    "wof:name":"El Cuji",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.11667,
+    9.8,
+    -65.11667,
+    9.8
+],
+  "geometry": {"coordinates":[-65.11667,9.8],"type":"Point"}
+}

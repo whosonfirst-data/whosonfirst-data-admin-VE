@@ -1,0 +1,64 @@
+{
+  "id": 1209280017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72793,8.6464,-68.72793,8.6464",
+    "geom:latitude":8.6464,
+    "geom:longitude":-68.72793,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Polera",
+    "gn:country_code":"VE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798456,
+    "gn:latitude":8.6464,
+    "gn:longitude":-68.72793,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Polera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Polera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798456
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"72c07c46ae28806eeab21ab00b892d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209280017
+        }
+    ],
+    "wof:id":1209280017,
+    "wof:lastmodified":1537713646,
+    "wof:name":"La Polera",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72793,
+    8.6464,
+    -68.72793,
+    8.6464
+],
+  "geometry": {"coordinates":[-68.72793,8.6464],"type":"Point"}
+}

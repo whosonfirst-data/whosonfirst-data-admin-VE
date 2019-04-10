@@ -1,0 +1,67 @@
+{
+  "id": 1276119993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.40805,9.11937,-64.40805,9.11937",
+    "geom:latitude":9.11937,
+    "geom:longitude":-64.40805,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mapiricure",
+    "gn:country_code":"VE",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633069,
+    "gn:latitude":9.11937,
+    "gn:longitude":-64.40805,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"Mapiricure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633069
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a929343a03fb244348057ba12928a93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1276119993,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276119993,
+    "wof:lastmodified":1537061710,
+    "wof:name":"Mapiricure",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.40805,
+    9.11937,
+    -64.40805,
+    9.11937
+],
+  "geometry": {"coordinates":[-64.40805,9.11937],"type":"Point"}
+}

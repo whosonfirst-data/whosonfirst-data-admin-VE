@@ -1,0 +1,64 @@
+{
+  "id": 1209276907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.96,9.43,-69.96,9.43",
+    "geom:latitude":9.43,
+    "geom:longitude":-69.96,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Recta",
+    "gn:country_code":"VE",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798515,
+    "gn:latitude":9.43,
+    "gn:longitude":-69.96,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Recta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Recta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798515
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"14de29156cb5a0bc10585f8e663f3db2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209276907
+        }
+    ],
+    "wof:id":1209276907,
+    "wof:lastmodified":1537713647,
+    "wof:name":"La Recta",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.96,
+    9.43,
+    -69.96,
+    9.43
+],
+  "geometry": {"coordinates":[-69.95999999999999,9.43],"type":"Point"}
+}

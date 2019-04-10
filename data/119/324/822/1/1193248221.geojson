@@ -1,0 +1,67 @@
+{
+  "id": 1193248221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02631,10.32497,-67.02631,10.32497",
+    "geom:latitude":10.32497,
+    "geom:longitude":-67.02631,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"San Corniel",
+    "gn:country_code":"VE",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3804172,
+    "gn:latitude":10.32497,
+    "gn:longitude":-67.02631,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"San Corniel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804172
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b8751df1a8bdc58a8e5cadd9cdc4b6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1193248221,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1193248221,
+    "wof:lastmodified":1536371015,
+    "wof:name":"San Corniel",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02631,
+    10.32497,
+    -67.02631,
+    10.32497
+],
+  "geometry": {"coordinates":[-67.02631,10.32497],"type":"Point"}
+}

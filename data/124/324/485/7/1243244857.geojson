@@ -1,0 +1,67 @@
+{
+  "id": 1243244857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.86944,9.95167,-62.86944,9.95167",
+    "geom:latitude":9.95167,
+    "geom:longitude":-62.86944,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Puerto Frances",
+    "gn:country_code":"VE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629679,
+    "gn:latitude":9.95167,
+    "gn:longitude":-62.86944,
+    "gn:modification_date":"1998-07-02",
+    "gn:name":"Puerto Franc\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629679
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4d1bd2e118d633ca517f8324e4298584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1243244857,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243244857,
+    "wof:lastmodified":1537092869,
+    "wof:name":"Puerto Frances",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.86944,
+    9.95167,
+    -62.86944,
+    9.95167
+],
+  "geometry": {"coordinates":[-62.86944,9.95167],"type":"Point"}
+}

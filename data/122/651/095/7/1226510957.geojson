@@ -1,0 +1,67 @@
+{
+  "id": 1226510957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.56057,10.38439,-68.56057,10.38439",
+    "geom:latitude":10.38439,
+    "geom:longitude":-68.56057,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Maporal",
+    "gn:country_code":"VE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633059,
+    "gn:latitude":10.38439,
+    "gn:longitude":-68.56057,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Maporal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633059
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9737e79d50d2e53ae997f00a03310d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694481,
+            "locality_id":1226510957,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1226510957,
+    "wof:lastmodified":1537046372,
+    "wof:name":"Maporal",
+    "wof:parent_id":1108694481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.56057,
+    10.38439,
+    -68.56057,
+    10.38439
+],
+  "geometry": {"coordinates":[-68.56057,10.38439],"type":"Point"}
+}

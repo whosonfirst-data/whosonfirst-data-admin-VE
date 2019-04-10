@@ -1,0 +1,67 @@
+{
+  "id": 1226706025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03076,9.96134,-72.03076,9.96134",
+    "geom:latitude":9.96134,
+    "geom:longitude":-72.03076,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Las Guadas",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635912,
+    "gn:latitude":9.96134,
+    "gn:longitude":-72.03076,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Las Guadas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635912
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1257ab2e69deb3dd22e836122900fd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694379,
+            "locality_id":1226706025,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226706025,
+    "wof:lastmodified":1536773585,
+    "wof:name":"Las Guadas",
+    "wof:parent_id":1108694379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03076,
+    9.96134,
+    -72.03076,
+    9.96134
+],
+  "geometry": {"coordinates":[-72.03076,9.96134],"type":"Point"}
+}

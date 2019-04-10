@@ -1,0 +1,67 @@
+{
+  "id": 1293553829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01978,8.10636,-72.01978,8.10636",
+    "geom:latitude":8.10636,
+    "geom:longitude":-72.01978,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Llano",
+    "gn:country_code":"VE",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757265,
+    "gn:latitude":8.10636,
+    "gn:longitude":-72.01978,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Llano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757265
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9441a3193905851ee3b7d7bc9dc72ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202067,
+            "locality_id":1293553829,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293553829,
+    "wof:lastmodified":1536691780,
+    "wof:name":"El Llano",
+    "wof:parent_id":421202067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01978000000003,
+    8.10636,
+    -72.01978000000003,
+    8.10636
+],
+  "geometry": {"coordinates":[-72.01978000000003,8.10636],"type":"Point"}
+}

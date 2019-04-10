@@ -1,0 +1,72 @@
+{
+  "id": 1259980611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,7.13333,-68.35,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Fermina",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637946,
+    "gn:latitude":7.13333,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Fermina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Termina",
+        "La Fermina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637946
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"464a9d073d27dc3fe057616dd78ddb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1259980611,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1259980611,
+    "wof:lastmodified":1537713570,
+    "wof:name":"La Fermina",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    7.13333,
+    -68.35,
+    7.13333
+],
+  "geometry": {"coordinates":[-68.34999999999999,7.13333],"type":"Point"}
+}

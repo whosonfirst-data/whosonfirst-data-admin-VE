@@ -1,0 +1,67 @@
+{
+  "id": 1210002295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.84106,9.94386,-67.84106,9.94386",
+    "geom:latitude":9.94386,
+    "geom:longitude":-67.84106,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Rafael de Pacaragua",
+    "gn:country_code":"VE",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481483,
+    "gn:latitude":9.94386,
+    "gn:longitude":-67.84106,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"San Rafael de Pacaragua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481483
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c5fbdbcc91ff8fd318a6ecbf70714ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1210002295,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1210002295,
+    "wof:lastmodified":1536377421,
+    "wof:name":"San Rafael de Pacaragua",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.84106,
+    9.94386,
+    -67.84106,
+    9.94386
+],
+  "geometry": {"coordinates":[-67.84106,9.94386],"type":"Point"}
+}

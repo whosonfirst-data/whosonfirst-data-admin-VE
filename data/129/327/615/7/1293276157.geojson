@@ -1,0 +1,67 @@
+{
+  "id": 1293276157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.79972,9.18,-61.79972,9.18",
+    "geom:latitude":9.18,
+    "geom:longitude":-61.79972,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Pueblo Blanco",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763921,
+    "gn:latitude":9.18,
+    "gn:longitude":-61.79972,
+    "gn:modification_date":"1998-06-24",
+    "gn:name":"Pueblo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421191753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763921
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87d989a59732715650f34a51d29c2a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191753,
+            "locality_id":1293276157,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1293276157,
+    "wof:lastmodified":1537088524,
+    "wof:name":"Pueblo Blanco",
+    "wof:parent_id":421191753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.79971999999999,
+    9.18,
+    -61.79971999999999,
+    9.18
+],
+  "geometry": {"coordinates":[-61.79971999999999,9.18],"type":"Point"}
+}

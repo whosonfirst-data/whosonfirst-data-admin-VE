@@ -1,0 +1,67 @@
+{
+  "id": 1260362157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.07976,10.10822,-67.07976,10.10822",
+    "geom:latitude":10.10822,
+    "geom:longitude":-67.07976,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Emilia",
+    "gn:country_code":"VE",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803657,
+    "gn:latitude":10.10822,
+    "gn:longitude":-67.07976,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Emilia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803657
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cf55906e45ab9f18ff5b73ca4efa22d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1260362157,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1260362157,
+    "wof:lastmodified":1536603502,
+    "wof:name":"La Emilia",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.07976,
+    10.10822,
+    -67.07976,
+    10.10822
+],
+  "geometry": {"coordinates":[-67.07975999999999,10.10822],"type":"Point"}
+}

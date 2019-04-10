@@ -1,0 +1,72 @@
+{
+  "id": 1193135425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41667,8.56667,-68.41667,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":-68.41667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Jovito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639140,
+    "gn:latitude":8.56667,
+    "gn:longitude":-68.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jovito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jobito",
+        "Jovito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639140
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5814a0c7997eadcd7fd5ac435b983e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1193135425,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1193135425,
+    "wof:lastmodified":1537713580,
+    "wof:name":"Jovito",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41667,
+    8.56667,
+    -68.41667,
+    8.56667
+],
+  "geometry": {"coordinates":[-68.41667,8.56667],"type":"Point"}
+}

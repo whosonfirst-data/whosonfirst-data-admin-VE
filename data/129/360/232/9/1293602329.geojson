@@ -1,0 +1,72 @@
+{
+  "id": 1293602329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16667,4.55,-65.16667,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":-65.16667,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Anacadina",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649287,
+    "gn:latitude":4.55,
+    "gn:longitude":-65.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anacadi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anacadinya",
+        "Anacadi\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649287
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5d2570872740788b7a3cd7ce2ec17424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694271,
+            "locality_id":1293602329,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1293602329,
+    "wof:lastmodified":1537713633,
+    "wof:name":"Anacadina",
+    "wof:parent_id":1108694271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16667,
+    4.55,
+    -65.16667,
+    4.55
+],
+  "geometry": {"coordinates":[-65.16667,4.55],"type":"Point"}
+}

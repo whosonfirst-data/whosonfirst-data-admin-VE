@@ -1,0 +1,61 @@
+{
+  "id": 1209622917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21659,9.70967,-65.21659,9.70967",
+    "geom:latitude":9.70967,
+    "geom:longitude":-65.21659,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bajo Las Cruces",
+    "gn:country_code":"VE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486181,
+    "gn:latitude":9.70967,
+    "gn:longitude":-65.21659,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Bajo Las Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486181
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5afc0b1af97414f5652262cfbaad34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209622917
+        }
+    ],
+    "wof:id":1209622917,
+    "wof:lastmodified":1536281455,
+    "wof:name":"Bajo Las Cruces",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21659,
+    9.70967,
+    -65.21659,
+    9.70967
+],
+  "geometry": {"coordinates":[-65.21659,9.70967],"type":"Point"}
+}

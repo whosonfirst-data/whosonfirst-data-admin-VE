@@ -1,0 +1,67 @@
+{
+  "id": 1293889935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45471,8.00013,-69.45471,8.00013",
+    "geom:latitude":8.00013,
+    "geom:longitude":-69.45471,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Laguna Honda",
+    "gn:country_code":"VE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637655,
+    "gn:latitude":8.00013,
+    "gn:longitude":-69.45471,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Laguna Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637655
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3e4ce8d132603a1be6b2cf0f460f2a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1293889935,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293889935,
+    "wof:lastmodified":1536704308,
+    "wof:name":"Laguna Honda",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45470999999999,
+    8.00013,
+    -69.45470999999999,
+    8.00013
+],
+  "geometry": {"coordinates":[-69.45470999999999,8.00013],"type":"Point"}
+}

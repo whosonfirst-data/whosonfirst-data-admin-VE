@@ -1,0 +1,75 @@
+{
+  "id": 421203579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13565,7.887102,-72.13565,7.887102",
+    "geom:latitude":7.887102,
+    "geom:longitude":-72.13565,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Andres Bello",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":148,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":233698,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804992,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804992,
+        "qs:id":233698
+    },
+    "wof:country":"VE",
+    "wof:created":1459010157,
+    "wof:geomhash":"e5f06d792c2aec0f5754545d22aa6348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694071,
+            "localadmin_id":421203579,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":421203579,
+    "wof:lastmodified":1500034082,
+    "wof:name":"Capital Andres Bello",
+    "wof:parent_id":1108694071,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13565,
+    7.887102,
+    -72.13565,
+    7.887102
+],
+  "geometry": {"coordinates":[-72.13565,7.887102],"type":"Point"}
+}

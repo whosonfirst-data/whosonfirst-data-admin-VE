@@ -1,0 +1,71 @@
+{
+  "id": 1360142761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39076,10.31058,-72.39076,10.31058",
+    "geom:latitude":10.31058,
+    "geom:longitude":-72.39076,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Arimpia",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648895,
+    "gn:latitude":10.31058,
+    "gn:longitude":-72.39076,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arimpia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aripia",
+        "Arimpia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648895
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3d28062e0c4552e0b7498788add93225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694379,
+            "locality_id":1360142761,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1360142761,
+    "wof:lastmodified":1537713631,
+    "wof:name":"Arimpia",
+    "wof:parent_id":1108694379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39076,
+    10.31058,
+    -72.39076,
+    10.31058
+],
+  "geometry": {"coordinates":[-72.39076,10.31058],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276646073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.1,8.9,-68.1,8.9",
+    "geom:latitude":8.9,
+    "geom:longitude":-68.1,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mata Oscura",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632625,
+    "gn:latitude":8.9,
+    "gn:longitude":-68.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mata Oscura",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mota Oscura",
+        "Mata Oscura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632625
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fc2879039e92cd0412aa4c0492f245a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694199,
+            "locality_id":1276646073,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1276646073,
+    "wof:lastmodified":1537713540,
+    "wof:name":"Mata Oscura",
+    "wof:parent_id":1108694199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.1,
+    8.9,
+    -68.1,
+    8.9
+],
+  "geometry": {"coordinates":[-68.09999999999999,8.9],"type":"Point"}
+}

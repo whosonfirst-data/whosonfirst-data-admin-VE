@@ -1,0 +1,68 @@
+{
+  "id": 1226034825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.07955,8.93045,-68.07955,8.93045",
+    "geom:latitude":8.93045,
+    "geom:longitude":-68.07955,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hato Pinero",
+    "gn:country_code":"VE",
+    "gn:dem":69,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11054696,
+    "gn:latitude":8.93045,
+    "gn:longitude":-68.07955,
+    "gn:modification_date":"2016-02-02",
+    "gn:name":"Hato Pi\u00f1ero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054696
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"21ff804d939dd1fab97e3498dbf1e38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694199,
+            "locality_id":1226034825,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1226034825,
+    "wof:lastmodified":1536740754,
+    "wof:name":"Hato Pinero",
+    "wof:parent_id":1108694199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.07955,
+    8.93045,
+    -68.07955,
+    8.93045
+],
+  "geometry": {"coordinates":[-68.07955,8.93045],"type":"Point"}
+}

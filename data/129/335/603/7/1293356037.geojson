@@ -1,0 +1,70 @@
+{
+  "id": 1293356037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.005,9.33722,-70.005,9.33722",
+    "geom:latitude":9.33722,
+    "geom:longitude":-70.005,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"El Bongo",
+    "gn:country_code":"VE",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797862,
+    "gn:latitude":9.33722,
+    "gn:longitude":-70.005,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Bongo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Bongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797862
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f189a0871712a32b760ec8047a3822d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694441,
+            "locality_id":1293356037,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1293356037,
+    "wof:lastmodified":1537713641,
+    "wof:name":"El Bongo",
+    "wof:parent_id":1108694441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.005,
+    9.33722,
+    -70.005,
+    9.33722
+],
+  "geometry": {"coordinates":[-70.005,9.33722],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225900321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,10.7,-72.1,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Los Draques",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634171,
+    "gn:latitude":10.7,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Draques",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Braques",
+        "Los Draques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634171
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"230b9c072e392391f6016d0f6ed98924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1225900321,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1225900321,
+    "wof:lastmodified":1537713548,
+    "wof:name":"Los Draques",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    10.7,
+    -72.1,
+    10.7
+],
+  "geometry": {"coordinates":[-72.09999999999999,10.7],"type":"Point"}
+}

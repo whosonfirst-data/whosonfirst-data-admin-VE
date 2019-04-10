@@ -1,0 +1,70 @@
+{
+  "id": 1310476991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.34963,9.08072,-69.34963,9.08072",
+    "geom:latitude":9.08072,
+    "geom:longitude":-69.34963,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"VE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798599,
+    "gn:latitude":9.08072,
+    "gn:longitude":-69.34963,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798599
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9cc1db6d8c6d6479314918328596694e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694321,
+            "locality_id":1310476991,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1310476991,
+    "wof:lastmodified":1537713648,
+    "wof:name":"San Pablo",
+    "wof:parent_id":1108694321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.34963,
+    9.08072,
+    -69.34963,
+    9.08072
+],
+  "geometry": {"coordinates":[-69.34963,9.08072],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276403899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.3743,7.63414,-72.3743,7.63414",
+    "geom:latitude":7.63414,
+    "geom:longitude":-72.3743,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"La Argentina",
+    "gn:country_code":"VE",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794923,
+    "gn:latitude":7.63414,
+    "gn:longitude":-72.3743,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"La Argentina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421203511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794923
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4600d864b6f4024abdaeb29ce4355ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203511,
+            "locality_id":1276403899,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276403899,
+    "wof:lastmodified":1536684133,
+    "wof:name":"La Argentina",
+    "wof:parent_id":421203511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3743,
+    7.63414,
+    -72.3743,
+    7.63414
+],
+  "geometry": {"coordinates":[-72.37430000000001,7.63414],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421170175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.010349,10.478712,-68.010349,10.478712",
+    "geom:latitude":10.478712,
+    "geom:longitude":-68.010349,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Urbana Fraternidad",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Carabobo",
+    "qs:photos":187,
+    "qs:photos_1k":38,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":449,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":224842,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805556,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805556,
+        "qs:id":224842,
+        "qs_pg:id":224842
+    },
+    "wof:country":"VE",
+    "wof:created":1459008841,
+    "wof:geomhash":"fe2df3e30227c4d978df25e8c5e4914e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "localadmin_id":421170175,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":421170175,
+    "wof:lastmodified":1497043368,
+    "wof:name":"Urbana Fraternidad",
+    "wof:parent_id":421198089,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.010349,
+    10.478712,
+    -68.010349,
+    10.478712
+],
+  "geometry": {"coordinates":[-68.01034900000001,10.478712],"type":"Point"}
+}

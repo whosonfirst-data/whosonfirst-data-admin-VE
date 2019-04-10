@@ -1,0 +1,61 @@
+{
+  "id": 1327489427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97603,9.56843,-71.97603,9.56843",
+    "geom:latitude":9.56843,
+    "geom:longitude":-71.97603,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Las Doncellas",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636015,
+    "gn:latitude":9.56843,
+    "gn:longitude":-71.97603,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Las Doncellas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636015
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"02fa6fc3cc967ba2155ab5f138fe7113",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327489427,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327489427,
+    "wof:lastmodified":1537093069,
+    "wof:name":"Las Doncellas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97603000000002,
+    9.56843,
+    -71.97603000000002,
+    9.56843
+],
+  "geometry": {"coordinates":[-71.97603000000002,9.56843],"type":"Point"}
+}

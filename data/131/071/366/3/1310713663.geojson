@@ -1,0 +1,67 @@
+{
+  "id": 1310713663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.38264,8.12321,-65.38264,8.12321",
+    "geom:latitude":8.12321,
+    "geom:longitude":-65.38264,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Vida",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634908,
+    "gn:latitude":8.12321,
+    "gn:longitude":-65.38264,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Vida",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634908
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a6d176b13b84e50d53c872dbb7cb55f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1310713663,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310713663,
+    "wof:lastmodified":1536614210,
+    "wof:name":"La Vida",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.38264000000001,
+    8.12321,
+    -65.38264000000001,
+    8.12321
+],
+  "geometry": {"coordinates":[-65.38264000000001,8.12321],"type":"Point"}
+}

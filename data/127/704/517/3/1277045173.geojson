@@ -1,0 +1,77 @@
+{
+  "id": 1277045173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.65363,10.20307,-65.65363,10.20307",
+    "geom:latitude":10.20307,
+    "geom:longitude":-65.65363,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Machurucuto",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633439,
+    "gn:latitude":10.20307,
+    "gn:longitude":-65.65363,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Machurucuto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Machurucuto"
+    ],
+    "name:por_x_preferred":[
+        "Machurucuto"
+    ],
+    "name:spa_x_preferred":[
+        "Machurucuto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421184387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633439,
+        "wk:page":"Machurucuto"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bc16a6aff537199fe7fa33b0eeae9ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184387,
+            "locality_id":1277045173,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1277045173,
+    "wof:lastmodified":1537575806,
+    "wof:name":"Machurucuto",
+    "wof:parent_id":421184387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.65363,
+    10.20307,
+    -65.65363,
+    10.20307
+],
+  "geometry": {"coordinates":[-65.65363000000001,10.20307],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259955857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.01834,10.87773,-64.01834,10.87773",
+    "geom:latitude":10.87773,
+    "geom:longitude":-64.01834,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Los Algodones",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634596,
+    "gn:latitude":10.87773,
+    "gn:longitude":-64.01834,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Los Algodones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        890441467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634596
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1fb494338e5f7e91c621ebcc23373c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890441467,
+            "locality_id":1259955857,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1259955857,
+    "wof:lastmodified":1536674947,
+    "wof:name":"Los Algodones",
+    "wof:parent_id":890441467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.01834000000001,
+    10.87773,
+    -64.01834000000001,
+    10.87773
+],
+  "geometry": {"coordinates":[-64.01834000000001,10.87773],"type":"Point"}
+}

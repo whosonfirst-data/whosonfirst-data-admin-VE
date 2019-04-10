@@ -1,0 +1,67 @@
+{
+  "id": 1343937243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.64946,9.72973,-67.64946,9.72973",
+    "geom:latitude":9.72973,
+    "geom:longitude":-67.64946,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Aranera",
+    "gn:country_code":"VE",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3771845,
+    "gn:latitude":9.72973,
+    "gn:longitude":-67.64946,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"La Ara\u00f1era",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771845
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f3ce08bbe5c9fc109e38a580b57f5ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1343937243,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343937243,
+    "wof:lastmodified":1537051403,
+    "wof:name":"La Aranera",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.64945999999999,
+    9.72973,
+    -67.64945999999999,
+    9.72973
+],
+  "geometry": {"coordinates":[-67.64945999999999,9.72973],"type":"Point"}
+}

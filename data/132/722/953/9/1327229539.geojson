@@ -1,0 +1,72 @@
+{
+  "id": 1327229539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.35,7.66667,-71.35,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":-71.35,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Guabinas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635927,
+    "gn:latitude":7.66667,
+    "gn:longitude":-71.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Guabinas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Guabimos",
+        "Las Guabinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635927
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3662427eac00801bf66ed5c0ae1d0d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1327229539,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1327229539,
+    "wof:lastmodified":1537713560,
+    "wof:name":"Las Guabinas",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.35,
+    7.66667,
+    -71.35,
+    7.66667
+],
+  "geometry": {"coordinates":[-71.34999999999999,7.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344051749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.34778,8.86556,-68.34778,8.86556",
+    "geom:latitude":8.86556,
+    "geom:longitude":-68.34778,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Nunera",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3800071,
+    "gn:latitude":8.86556,
+    "gn:longitude":-68.34778,
+    "gn:modification_date":"2002-10-29",
+    "gn:name":"La Nu\u00f1era",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3800071
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"970330ad714a03310a3c797d8a2586a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694199,
+            "locality_id":1344051749,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1344051749,
+    "wof:lastmodified":1536887786,
+    "wof:name":"La Nunera",
+    "wof:parent_id":1108694199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.34778,
+    8.86556,
+    -68.34778,
+    8.86556
+],
+  "geometry": {"coordinates":[-68.34778,8.86556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260260005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.16922,11.02974,-70.16922,11.02974",
+    "geom:latitude":11.02974,
+    "geom:longitude":-70.16922,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nepomuceno",
+    "gn:country_code":"VE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740883,
+    "gn:latitude":11.02974,
+    "gn:longitude":-70.16922,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Nepomuceno",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740883
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"64f1fddd4f01008f7a47b836f62356d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1260260005,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1260260005,
+    "wof:lastmodified":1536743370,
+    "wof:name":"Nepomuceno",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.16922,
+    11.02974,
+    -70.16922,
+    11.02974
+],
+  "geometry": {"coordinates":[-70.16922,11.02974],"type":"Point"}
+}

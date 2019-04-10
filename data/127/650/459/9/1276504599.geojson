@@ -1,0 +1,73 @@
+{
+  "id": 1276504599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9715,11.46409,-71.9715,11.46409",
+    "geom:latitude":11.46409,
+    "geom:longitude":-71.9715,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Wayamuliser",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639811,
+    "gn:latitude":11.46409,
+    "gn:longitude":-71.9715,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wayamuliser",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayamulisira",
+        "Guayamuricira",
+        "Guayamulicira",
+        "Wayamuliser"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639811
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"21134dfa69b8d39e2ea443e61fefd555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1276504599,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276504599,
+    "wof:lastmodified":1537713584,
+    "wof:name":"Wayamuliser",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9715,
+    11.46409,
+    -71.9715,
+    11.46409
+],
+  "geometry": {"coordinates":[-71.97150000000001,11.46409],"type":"Point"}
+}

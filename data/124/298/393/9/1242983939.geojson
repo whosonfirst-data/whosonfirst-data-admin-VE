@@ -1,0 +1,72 @@
+{
+  "id": 1242983939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02632,3.87967,-67.02632,3.87967",
+    "geom:latitude":3.87967,
+    "geom:longitude":-67.02632,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Guapachana",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640171,
+    "gn:latitude":3.87967,
+    "gn:longitude":-67.02632,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guapachana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitio Guachapana",
+        "Guachapana",
+        "Guapachana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640171
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"10ebb80ff7fa3516e5b2034eebd26072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694487,
+            "locality_id":1242983939,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1242983939,
+    "wof:lastmodified":1537713585,
+    "wof:name":"Guapachana",
+    "wof:parent_id":1108694487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02632,
+    3.87967,
+    -67.02632,
+    3.87967
+],
+  "geometry": {"coordinates":[-67.02632,3.87967],"type":"Point"}
+}

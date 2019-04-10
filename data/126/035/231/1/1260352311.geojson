@@ -1,0 +1,74 @@
+{
+  "id": 1260352311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.85537,11.10783,-63.85537,11.10783",
+    "geom:latitude":11.10783,
+    "geom:longitude":-63.85537,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"La Plaza Paraguachi",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3630778,
+    "gn:latitude":11.10783,
+    "gn:longitude":-63.85537,
+    "gn:modification_date":"2012-01-08",
+    "gn:name":"La Plaza Paraguachi",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paraguachi",
+        "La Plaza de Paraguachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        1108694081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630778,
+        "wk:page":"La_Plaza_de_Paraguach%C3%AD"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6c057a6725a482b768792c0ad6a69eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694081,
+            "locality_id":1260352311,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1260352311,
+    "wof:lastmodified":1537713532,
+    "wof:name":"La Plaza Paraguachi",
+    "wof:parent_id":1108694081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.85536999999999,
+    11.10783,
+    -63.85536999999999,
+    11.10783
+],
+  "geometry": {"coordinates":[-63.85536999999999,11.10783],"type":"Point"}
+}

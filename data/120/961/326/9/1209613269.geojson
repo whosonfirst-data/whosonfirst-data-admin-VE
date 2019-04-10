@@ -1,0 +1,61 @@
+{
+  "id": 1209613269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.74167,8.33,-69.74167,8.33",
+    "geom:latitude":8.33,
+    "geom:longitude":-69.74167,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Tambor",
+    "gn:country_code":"VE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486519,
+    "gn:latitude":8.33,
+    "gn:longitude":-69.74167,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"El Tambor",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486519
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"851cb1501f3dbbf66652637e8881d258",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209613269
+        }
+    ],
+    "wof:id":1209613269,
+    "wof:lastmodified":1536281777,
+    "wof:name":"El Tambor",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.74167,
+    8.33,
+    -69.74167,
+    8.33
+],
+  "geometry": {"coordinates":[-69.74167,8.33],"type":"Point"}
+}

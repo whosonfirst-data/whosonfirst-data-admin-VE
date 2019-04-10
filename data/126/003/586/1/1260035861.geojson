@@ -1,0 +1,67 @@
+{
+  "id": 1260035861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.23333,10.15,-71.23333,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-71.23333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Puerto El Mene",
+    "gn:country_code":"VE",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629691,
+    "gn:latitude":10.15,
+    "gn:longitude":-71.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Puerto El Mene",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629691
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f0a895d4c6c17307cae66b4c1117869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694239,
+            "locality_id":1260035861,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1260035861,
+    "wof:lastmodified":1537054393,
+    "wof:name":"Puerto El Mene",
+    "wof:parent_id":1108694239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.23333000000002,
+    10.15,
+    -71.23333000000002,
+    10.15
+],
+  "geometry": {"coordinates":[-71.23333000000002,10.15],"type":"Point"}
+}

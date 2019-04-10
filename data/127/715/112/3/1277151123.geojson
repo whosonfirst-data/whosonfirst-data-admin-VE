@@ -1,0 +1,71 @@
+{
+  "id": 1277151123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83166,8.50757,-71.83166,8.50757",
+    "geom:latitude":8.50757,
+    "geom:longitude":-71.83166,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2022.0",
+    "gn:asciiname":"La Tendida",
+    "gn:country_code":"VE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3795620,
+    "gn:latitude":8.50757,
+    "gn:longitude":-71.83166,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"La Tendida",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Tendida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795620
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"14ad788b919be7ba66362a9ccb088c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183211,
+            "locality_id":1277151123,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1277151123,
+    "wof:lastmodified":1537713639,
+    "wof:name":"La Tendida",
+    "wof:parent_id":421183211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83166,
+    8.50757,
+    -71.83166,
+    8.50757
+],
+  "geometry": {"coordinates":[-71.83166,8.50757],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209698183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.07889,10.11098,-67.07889,10.11098",
+    "geom:latitude":10.11098,
+    "geom:longitude":-67.07889,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Los Tres Palos",
+    "gn:country_code":"VE",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804302,
+    "gn:latitude":10.11098,
+    "gn:longitude":-67.07889,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Los Tres Palos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804302
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae7d9db8acae843e4c2e4d35e5e466d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1209698183,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1209698183,
+    "wof:lastmodified":1536396191,
+    "wof:name":"Los Tres Palos",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.07889,
+    10.11098,
+    -67.07889,
+    10.11098
+],
+  "geometry": {"coordinates":[-67.07889,10.11098],"type":"Point"}
+}

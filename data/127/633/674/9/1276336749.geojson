@@ -1,0 +1,67 @@
+{
+  "id": 1276336749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.5169,10.20427,-64.5169,10.20427",
+    "geom:latitude":10.20427,
+    "geom:longitude":-64.5169,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Guayabal",
+    "gn:country_code":"VE",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639864,
+    "gn:latitude":10.20427,
+    "gn:longitude":-64.5169,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Guayabal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639864
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e00520f1e9749a9bf321b05faafe4672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694207,
+            "locality_id":1276336749,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276336749,
+    "wof:lastmodified":1536774595,
+    "wof:name":"Guayabal",
+    "wof:parent_id":1108694207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.5169,
+    10.20427,
+    -64.5169,
+    10.20427
+],
+  "geometry": {"coordinates":[-64.51690000000001,10.20427],"type":"Point"}
+}

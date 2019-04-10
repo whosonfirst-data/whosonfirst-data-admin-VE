@@ -1,0 +1,67 @@
+{
+  "id": 1277068643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.18333,5.96667,-62.18333,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":-62.18333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Taicupa",
+    "gn:country_code":"VE",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626509,
+    "gn:latitude":5.96667,
+    "gn:longitude":-62.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Taicupa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626509
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bac75f0825ed8adc1b4012f6b6caf3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1277068643,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1277068643,
+    "wof:lastmodified":1536788427,
+    "wof:name":"Taicupa",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.18333000000001,
+    5.96667,
+    -62.18333000000001,
+    5.96667
+],
+  "geometry": {"coordinates":[-62.18333000000001,5.96667],"type":"Point"}
+}

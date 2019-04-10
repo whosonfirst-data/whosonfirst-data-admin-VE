@@ -1,0 +1,67 @@
+{
+  "id": 1293659717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92352,9.16267,-70.92352,9.16267",
+    "geom:latitude":9.16267,
+    "geom:longitude":-70.92352,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Los Caranos",
+    "gn:country_code":"VE",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798967,
+    "gn:latitude":9.16267,
+    "gn:longitude":-70.92352,
+    "gn:modification_date":"2002-10-22",
+    "gn:name":"Los Cara\u00f1os",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798967
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cbd011b3588df3d65086e03af0f18b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694231,
+            "locality_id":1293659717,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1293659717,
+    "wof:lastmodified":1537034558,
+    "wof:name":"Los Caranos",
+    "wof:parent_id":1108694231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92352,
+    9.16267,
+    -70.92352,
+    9.16267
+],
+  "geometry": {"coordinates":[-70.92352,9.16267],"type":"Point"}
+}

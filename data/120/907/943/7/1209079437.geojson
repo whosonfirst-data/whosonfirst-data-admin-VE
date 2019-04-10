@@ -1,0 +1,61 @@
+{
+  "id": 1209079437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.36306,8.51403,-71.36306,8.51403",
+    "geom:latitude":8.51403,
+    "geom:longitude":-71.36306,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mocoyon",
+    "gn:country_code":"VE",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753665,
+    "gn:latitude":8.51403,
+    "gn:longitude":-71.36306,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Mocoy\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753665
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"37f92c0cc6e45e194558ddb6786173bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209079437
+        }
+    ],
+    "wof:id":1209079437,
+    "wof:lastmodified":1536298387,
+    "wof:name":"Mocoyon",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.36306,
+    8.51403,
+    -71.36306,
+    8.51403
+],
+  "geometry": {"coordinates":[-71.36306,8.51403],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259351197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43459,9.56006,-72.43459,9.56006",
+    "geom:latitude":9.56006,
+    "geom:longitude":-72.43459,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Portugal",
+    "gn:country_code":"VE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3790118,
+    "gn:latitude":9.56006,
+    "gn:longitude":-72.43459,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Portugal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3790118
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"959df1dbd983b022b27d08e08e181563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1259351197,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1259351197,
+    "wof:lastmodified":1537046886,
+    "wof:name":"Portugal",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43459,
+    9.56006,
+    -72.43459,
+    9.56006
+],
+  "geometry": {"coordinates":[-72.43459,9.56006],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1293842901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.46574,7.57955,-71.46574,7.57955",
+    "geom:latitude":7.57955,
+    "geom:longitude":-71.46574,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"San Antonio de Caparo",
+    "gn:country_code":"VE",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628560,
+    "gn:latitude":7.57955,
+    "gn:longitude":-71.46574,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"San Antonio de Caparo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Antonio de Caparo"
+    ],
+    "name:eng_x_variant":[
+        "Caparo"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio de Caparo"
+    ],
+    "name:por_x_variant":[
+        "Caparo"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio de Caparo"
+    ],
+    "name:spa_x_variant":[
+        "Caparo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628560
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dee14a4c0e98fa328607c954504a4b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694257,
+            "locality_id":1293842901,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293842901,
+    "wof:lastmodified":1537560434,
+    "wof:name":"San Antonio de Caparo",
+    "wof:parent_id":1108694257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46574,
+    7.57955,
+    -71.46574,
+    7.57955
+],
+  "geometry": {"coordinates":[-71.46574,7.57955],"type":"Point"}
+}

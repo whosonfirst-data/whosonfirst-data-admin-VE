@@ -1,0 +1,72 @@
+{
+  "id": 1260083515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.53556,2.86028,-67.53556,2.86028",
+    "geom:latitude":2.86028,
+    "geom:longitude":-67.53556,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Pimichin",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630151,
+    "gn:latitude":2.86028,
+    "gn:longitude":-67.53556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pimich\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pinich\u00edn",
+        "Pimich\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630151
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"43f0f2c2ce6c1cba4896b799fcd7029f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694279,
+            "locality_id":1260083515,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1260083515,
+    "wof:lastmodified":1537713529,
+    "wof:name":"Pimichin",
+    "wof:parent_id":1108694279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.53556,
+    2.86028,
+    -67.53556,
+    2.86028
+],
+  "geometry": {"coordinates":[-67.53556,2.86028],"type":"Point"}
+}

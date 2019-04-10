@@ -1,0 +1,67 @@
+{
+  "id": 1326628279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.9903,8.00948,-68.9903,8.00948",
+    "geom:latitude":8.00948,
+    "geom:longitude":-68.9903,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rayador",
+    "gn:country_code":"VE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486693,
+    "gn:latitude":8.00948,
+    "gn:longitude":-68.9903,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Rayador",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486693
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c3827ae9f8e9ab53eb49f09e02bc0629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1326628279,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1326628279,
+    "wof:lastmodified":1536844477,
+    "wof:name":"Rayador",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.9903,
+    8.00948,
+    -68.9903,
+    8.00948
+],
+  "geometry": {"coordinates":[-68.9903,8.00948],"type":"Point"}
+}

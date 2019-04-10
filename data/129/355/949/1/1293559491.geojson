@@ -1,0 +1,67 @@
+{
+  "id": 1293559491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97793,9.21394,-70.97793,9.21394",
+    "geom:latitude":9.21394,
+    "geom:longitude":-70.97793,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"El Alguacil",
+    "gn:country_code":"VE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798794,
+    "gn:latitude":9.21394,
+    "gn:longitude":-70.97793,
+    "gn:modification_date":"2002-10-22",
+    "gn:name":"El Alguacil",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798794
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"00e0e01dc4190fc17058f6d207fd5acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1293559491,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293559491,
+    "wof:lastmodified":1536683366,
+    "wof:name":"El Alguacil",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97793,
+    9.21394,
+    -70.97793,
+    9.21394
+],
+  "geometry": {"coordinates":[-70.97793,9.21394],"type":"Point"}
+}

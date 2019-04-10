@@ -1,0 +1,67 @@
+{
+  "id": 1360068499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.12185,8.62013,-71.12185,8.62013",
+    "geom:latitude":8.62013,
+    "geom:longitude":-71.12185,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Santa Marta",
+    "gn:country_code":"VE",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797606,
+    "gn:latitude":8.62013,
+    "gn:longitude":-71.12185,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Santa Marta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797606
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b54756814cca729c0b4526723bed2c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":1360068499,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1360068499,
+    "wof:lastmodified":1536969333,
+    "wof:name":"Santa Marta",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.12185,
+    8.62013,
+    -71.12185,
+    8.62013
+],
+  "geometry": {"coordinates":[-71.12184999999999,8.62013],"type":"Point"}
+}

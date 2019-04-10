@@ -1,0 +1,67 @@
+{
+  "id": 1276411247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,10.085,-68.35,10.085",
+    "geom:latitude":10.085,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Las Penas",
+    "gn:country_code":"VE",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3768131,
+    "gn:latitude":10.085,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"2002-01-24",
+    "gn:name":"Las Pe\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3768131
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ce08d9e9ea8c184642211376c7853ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694289,
+            "locality_id":1276411247,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1276411247,
+    "wof:lastmodified":1536674290,
+    "wof:name":"Las Penas",
+    "wof:parent_id":1108694289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    10.085,
+    -68.35,
+    10.085
+],
+  "geometry": {"coordinates":[-68.34999999999999,10.085],"type":"Point"}
+}

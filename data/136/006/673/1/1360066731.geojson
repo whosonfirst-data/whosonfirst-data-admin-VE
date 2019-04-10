@@ -1,0 +1,72 @@
+{
+  "id": 1360066731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.21667,8.7,-62.21667,8.7",
+    "geom:latitude":8.7,
+    "geom:longitude":-62.21667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Saladero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641569,
+    "gn:latitude":8.7,
+    "gn:longitude":-62.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Saladero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saladero",
+        "El Saladero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641569
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6d5fa2fb81491d95f1d67eb5b0dce76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694431,
+            "locality_id":1360066731,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1360066731,
+    "wof:lastmodified":1537713592,
+    "wof:name":"El Saladero",
+    "wof:parent_id":1108694431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.21666999999999,
+    8.7,
+    -62.21666999999999,
+    8.7
+],
+  "geometry": {"coordinates":[-62.21666999999999,8.7],"type":"Point"}
+}

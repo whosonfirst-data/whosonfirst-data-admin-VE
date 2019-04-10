@@ -1,0 +1,67 @@
+{
+  "id": 1226518833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03299,9.22807,-67.03299,9.22807",
+    "geom:latitude":9.22807,
+    "geom:longitude":-67.03299,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Laguna Seca",
+    "gn:country_code":"VE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637642,
+    "gn:latitude":9.22807,
+    "gn:longitude":-67.03299,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Laguna Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421189079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637642
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"90c9cdf71c3b518bfe2372a6a18bceab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189079,
+            "locality_id":1226518833,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226518833,
+    "wof:lastmodified":1537035377,
+    "wof:name":"Laguna Seca",
+    "wof:parent_id":421189079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03299,
+    9.22807,
+    -67.03299,
+    9.22807
+],
+  "geometry": {"coordinates":[-67.03299,9.22807],"type":"Point"}
+}

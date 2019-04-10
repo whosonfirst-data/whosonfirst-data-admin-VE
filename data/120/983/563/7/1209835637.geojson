@@ -1,0 +1,67 @@
+{
+  "id": 1209835637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.15696,10.09128,-68.15696,10.09128",
+    "geom:latitude":10.09128,
+    "geom:longitude":-68.15696,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Barrera Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648481,
+    "gn:latitude":10.09128,
+    "gn:longitude":-68.15696,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Barrera Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648481
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8d63c35f54d922933c4d985ab73c3332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694251,
+            "locality_id":1209835637,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1209835637,
+    "wof:lastmodified":1536395040,
+    "wof:name":"Barrera Abajo",
+    "wof:parent_id":1108694251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.15696,
+    10.09128,
+    -68.15696,
+    10.09128
+],
+  "geometry": {"coordinates":[-68.15696,10.09128],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1192984147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.04889,9.39167,-69.04889,9.39167",
+    "geom:latitude":9.39167,
+    "geom:longitude":-69.04889,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Parigua",
+    "gn:country_code":"VE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798401,
+    "gn:latitude":9.39167,
+    "gn:longitude":-69.04889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Parigua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Parigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798401
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"91a01248f9db0132bfa4d82f925b06dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694461,
+            "locality_id":1192984147,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1192984147,
+    "wof:lastmodified":1537713646,
+    "wof:name":"Parigua",
+    "wof:parent_id":1108694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.04889,
+    9.39167,
+    -69.04889,
+    9.39167
+],
+  "geometry": {"coordinates":[-69.04889,9.39167],"type":"Point"}
+}

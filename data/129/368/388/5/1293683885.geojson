@@ -1,0 +1,67 @@
+{
+  "id": 1293683885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.37056,4.91222,-61.37056,4.91222",
+    "geom:latitude":4.91222,
+    "geom:longitude":-61.37056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Flor de Botiquin",
+    "gn:country_code":"VE",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807986,
+    "gn:latitude":4.91222,
+    "gn:longitude":-61.37056,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Flor de Botiqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807986
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8128e8709c8f2948c45429f196e8e0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1293683885,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293683885,
+    "wof:lastmodified":1537000508,
+    "wof:name":"Flor de Botiquin",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.37056,
+    4.91222,
+    -61.37056,
+    4.91222
+],
+  "geometry": {"coordinates":[-61.37056,4.91222],"type":"Point"}
+}

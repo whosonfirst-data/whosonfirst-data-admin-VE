@@ -1,0 +1,67 @@
+{
+  "id": 1225930407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.42889,10.01389,-66.42889,10.01389",
+    "geom:latitude":10.01389,
+    "geom:longitude":-66.42889,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guatopo",
+    "gn:country_code":"VE",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3772948,
+    "gn:latitude":10.01389,
+    "gn:longitude":-66.42889,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Guatopo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772948
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"50be9c80ed1639ca7847f80c6fe49248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1225930407,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1225930407,
+    "wof:lastmodified":1536891261,
+    "wof:name":"Guatopo",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.42889,
+    10.01389,
+    -66.42889,
+    10.01389
+],
+  "geometry": {"coordinates":[-66.42889,10.01389],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343932451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.9459,10.65926,-61.9459,10.65926",
+    "geom:latitude":10.65926,
+    "geom:longitude":-61.9459,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1915.0",
+    "gn:asciiname":"Macuro",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633415,
+    "gn:latitude":10.65926,
+    "gn:longitude":-61.9459,
+    "gn:modification_date":"2015-06-20",
+    "gn:name":"Macuro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colon",
+        "Puerto Col\u00f3n",
+        "Christobal Colon",
+        "Puerto Cristabal Colon",
+        "Crist\u00f3bal Col\u00f3n",
+        "Puerto Cristobal Colon",
+        "Macuro",
+        "San Carlos Borromeo de Macuro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633415,
+        "wk:page":"Macuro"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dcd864a928c20030c552cca3263f6c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694473,
+            "locality_id":1343932451,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1343932451,
+    "wof:lastmodified":1537713544,
+    "wof:name":"Macuro",
+    "wof:parent_id":1108694473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.9459,
+    10.65926,
+    -61.9459,
+    10.65926
+],
+  "geometry": {"coordinates":[-61.9459,10.65926],"type":"Point"}
+}

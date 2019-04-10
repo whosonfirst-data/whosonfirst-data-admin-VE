@@ -1,0 +1,67 @@
+{
+  "id": 1226525983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2138,10.06593,-70.2138,10.06593",
+    "geom:latitude":10.06593,
+    "geom:longitude":-70.2138,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Veras",
+    "gn:country_code":"VE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635232,
+    "gn:latitude":10.06593,
+    "gn:longitude":-70.2138,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Las Veras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635232
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"911c82067ab3851a6717851f9a41bfbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1226525983,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1226525983,
+    "wof:lastmodified":1537025447,
+    "wof:name":"Las Veras",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.2138,
+    10.06593,
+    -70.2138,
+    10.06593
+],
+  "geometry": {"coordinates":[-70.21380000000001,10.06593],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276867815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.88622,10.23793,-67.88622,10.23793",
+    "geom:latitude":10.23793,
+    "geom:longitude":-67.88622,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Negro Primero",
+    "gn:country_code":"VE",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753066,
+    "gn:latitude":10.23793,
+    "gn:longitude":-67.88622,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"Negro Primero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753066
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a226054ac86b21520e5a6096f6c9f7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694201,
+            "locality_id":1276867815,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1276867815,
+    "wof:lastmodified":1537054959,
+    "wof:name":"Negro Primero",
+    "wof:parent_id":1108694201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.88622,
+    10.23793,
+    -67.88622,
+    10.23793
+],
+  "geometry": {"coordinates":[-67.88621999999999,10.23793],"type":"Point"}
+}

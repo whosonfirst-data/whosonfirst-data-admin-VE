@@ -1,0 +1,67 @@
+{
+  "id": 1293663687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.17188,10.56242,-63.17188,10.56242",
+    "geom:latitude":10.56242,
+    "geom:longitude":-63.17188,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Rio El Pilar",
+    "gn:country_code":"VE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629084,
+    "gn:latitude":10.56242,
+    "gn:longitude":-63.17188,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"R\u00edo El Pilar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629084
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"61ce3934a815cd282c36a3d1a332f1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694111,
+            "locality_id":1293663687,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293663687,
+    "wof:lastmodified":1537029111,
+    "wof:name":"Rio El Pilar",
+    "wof:parent_id":1108694111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.17188,
+    10.56242,
+    -63.17188,
+    10.56242
+],
+  "geometry": {"coordinates":[-63.17188,10.56242],"type":"Point"}
+}

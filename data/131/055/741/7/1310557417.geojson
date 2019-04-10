@@ -1,0 +1,67 @@
+{
+  "id": 1310557417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.15626,10.49133,-72.15626,10.49133",
+    "geom:latitude":10.49133,
+    "geom:longitude":-72.15626,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Centro",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643749,
+    "gn:latitude":10.49133,
+    "gn:longitude":-72.15626,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Centro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643749
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"69890ee4ab3459ab4bd9803cae457dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1310557417,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1310557417,
+    "wof:lastmodified":1536841159,
+    "wof:name":"El Centro",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.15626,
+    10.49133,
+    -72.15626,
+    10.49133
+],
+  "geometry": {"coordinates":[-72.15626,10.49133],"type":"Point"}
+}

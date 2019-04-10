@@ -1,0 +1,67 @@
+{
+  "id": 1226813629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.53254,7.67278,-71.53254,7.67278",
+    "geom:latitude":7.67278,
+    "geom:longitude":-71.53254,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Los Bancos",
+    "gn:country_code":"VE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3739088,
+    "gn:latitude":7.67278,
+    "gn:longitude":-71.53254,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Los Bancos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739088
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eda18266ec78f4db4e4653fe6354cbe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694257,
+            "locality_id":1226813629,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1226813629,
+    "wof:lastmodified":1536615545,
+    "wof:name":"Los Bancos",
+    "wof:parent_id":1108694257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.53254,
+    7.67278,
+    -71.53254,
+    7.67278
+],
+  "geometry": {"coordinates":[-71.53254,7.67278],"type":"Point"}
+}

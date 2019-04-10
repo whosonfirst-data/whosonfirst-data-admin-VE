@@ -1,0 +1,72 @@
+{
+  "id": 1276717471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9,10.13333,-71.9,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":-71.9,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Don Alonzo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644472,
+    "gn:latitude":10.13333,
+    "gn:longitude":-71.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Don Alonzo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Alonzo",
+        "Don Alonzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644472
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6fa09db29badf377f2910936c87d7246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1276717471,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276717471,
+    "wof:lastmodified":1537713612,
+    "wof:name":"Don Alonzo",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9,
+    10.13333,
+    -71.9,
+    10.13333
+],
+  "geometry": {"coordinates":[-71.90000000000001,10.13333],"type":"Point"}
+}

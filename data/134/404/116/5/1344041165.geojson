@@ -1,0 +1,67 @@
+{
+  "id": 1344041165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19851,9.76486,-69.19851,9.76486",
+    "geom:latitude":9.76486,
+    "geom:longitude":-69.19851,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Cerrito",
+    "gn:country_code":"VE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750862,
+    "gn:latitude":9.76486,
+    "gn:longitude":-69.19851,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Cerrito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750862
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e4de3a4e9566c09fc1456d435f767700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694427,
+            "locality_id":1344041165,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1344041165,
+    "wof:lastmodified":1536903653,
+    "wof:name":"El Cerrito",
+    "wof:parent_id":1108694427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19851,
+    9.76486,
+    -69.19851,
+    9.76486
+],
+  "geometry": {"coordinates":[-69.19851,9.76486],"type":"Point"}
+}

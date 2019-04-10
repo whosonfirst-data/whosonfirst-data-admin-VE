@@ -1,0 +1,71 @@
+{
+  "id": 1259849983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.36242,8.91659,-71.36242,8.91659",
+    "geom:latitude":8.91659,
+    "geom:longitude":-71.36242,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mata de Coco",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632766,
+    "gn:latitude":8.91659,
+    "gn:longitude":-71.36242,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mata de Coco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata de Coca",
+        "Mata de Coco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421191761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632766
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae58b98b51e032ca14005bcdaf036db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191761,
+            "locality_id":1259849983,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1259849983,
+    "wof:lastmodified":1537713540,
+    "wof:name":"Mata de Coco",
+    "wof:parent_id":421191761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.36242,
+    8.91659,
+    -71.36242,
+    8.91659
+],
+  "geometry": {"coordinates":[-71.36242,8.91659],"type":"Point"}
+}

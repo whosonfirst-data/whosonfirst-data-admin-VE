@@ -1,0 +1,67 @@
+{
+  "id": 1276534057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.99172,10.15441,-67.99172,10.15441",
+    "geom:latitude":10.15441,
+    "geom:longitude":-67.99172,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Las Maracas",
+    "gn:country_code":"VE",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753188,
+    "gn:latitude":10.15441,
+    "gn:longitude":-67.99172,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"Las Maracas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753188
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c35fb6041ede96ff38fa24a314bf4807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1276534057,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1276534057,
+    "wof:lastmodified":1537006309,
+    "wof:name":"Las Maracas",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.99172,
+    10.15441,
+    -67.99172,
+    10.15441
+],
+  "geometry": {"coordinates":[-67.99172,10.15441],"type":"Point"}
+}

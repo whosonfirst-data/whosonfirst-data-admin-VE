@@ -1,0 +1,72 @@
+{
+  "id": 1243356299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.65,8.38333,-70.65,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":-70.65,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Pintadas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635430,
+    "gn:latitude":8.38333,
+    "gn:longitude":-70.65,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Las Pintadas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Pintaderos",
+        "Las Pintadas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635430
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3e54407d8ec3d1ac6e23be9a169d61ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1243356299,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1243356299,
+    "wof:lastmodified":1537713557,
+    "wof:name":"Las Pintadas",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.65,
+    8.38333,
+    -70.65,
+    8.38333
+],
+  "geometry": {"coordinates":[-70.65000000000001,8.38333],"type":"Point"}
+}

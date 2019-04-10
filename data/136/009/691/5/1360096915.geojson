@@ -1,0 +1,67 @@
+{
+  "id": 1360096915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.4403,10.03948,-64.4403,10.03948",
+    "geom:latitude":10.03948,
+    "geom:longitude":-64.4403,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chucho",
+    "gn:country_code":"VE",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3485745,
+    "gn:latitude":10.03948,
+    "gn:longitude":-64.4403,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Chucho",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485745
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8085d249584b161218f6f7bbdbc5fd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1360096915,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360096915,
+    "wof:lastmodified":1536929265,
+    "wof:name":"Chucho",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4403,
+    10.03948,
+    -64.4403,
+    10.03948
+],
+  "geometry": {"coordinates":[-64.44029999999999,10.03948],"type":"Point"}
+}

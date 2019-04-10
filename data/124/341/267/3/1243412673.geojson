@@ -1,0 +1,67 @@
+{
+  "id": 1243412673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.7354,9.04023,-70.7354,9.04023",
+    "geom:latitude":9.04023,
+    "geom:longitude":-70.7354,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Hato",
+    "gn:country_code":"VE",
+    "gn:dem":1888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643025,
+    "gn:latitude":9.04023,
+    "gn:longitude":-70.7354,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Hato",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643025
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"baec6846b82744da77eb42849e7628be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694297,
+            "locality_id":1243412673,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1243412673,
+    "wof:lastmodified":1536853176,
+    "wof:name":"El Hato",
+    "wof:parent_id":1108694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7354,
+    9.04023,
+    -70.7354,
+    9.04023
+],
+  "geometry": {"coordinates":[-70.7354,9.04023],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310693297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.65,5.35,-62.65,5.35",
+    "geom:latitude":5.35,
+    "geom:longitude":-62.65,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Uriman",
+    "gn:country_code":"VE",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625634,
+    "gn:latitude":5.35,
+    "gn:longitude":-62.65,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Urim\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urim\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625634
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e34ef6a5fe125b67dbf1f7dbb339d067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1310693297,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1310693297,
+    "wof:lastmodified":1537713508,
+    "wof:name":"Uriman",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.65,
+    5.35,
+    -62.65,
+    5.35
+],
+  "geometry": {"coordinates":[-62.65,5.35],"type":"Point"}
+}

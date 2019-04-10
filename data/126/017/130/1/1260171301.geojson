@@ -1,0 +1,67 @@
+{
+  "id": 1260171301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.65,9.76667,-68.65,9.76667",
+    "geom:latitude":9.76667,
+    "geom:longitude":-68.65,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pena",
+    "gn:country_code":"VE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630410,
+    "gn:latitude":9.76667,
+    "gn:longitude":-68.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630410
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"18772a0fe46e45e13b82fa44cbc01a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1260171301,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1260171301,
+    "wof:lastmodified":1536863319,
+    "wof:name":"Pena",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.65,
+    9.76667,
+    -68.65,
+    9.76667
+],
+  "geometry": {"coordinates":[-68.65000000000001,9.76667],"type":"Point"}
+}

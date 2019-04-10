@@ -1,0 +1,67 @@
+{
+  "id": 1327240653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.9,2.81667,-65.9,2.81667",
+    "geom:latitude":2.81667,
+    "geom:longitude":-65.9,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Pamoni",
+    "gn:country_code":"VE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630898,
+    "gn:latitude":2.81667,
+    "gn:longitude":-65.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pamoni",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630898
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"942d6eaa3d7511ba76d9285d418578dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1327240653,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1327240653,
+    "wof:lastmodified":1536957555,
+    "wof:name":"Pamoni",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.9,
+    2.81667,
+    -65.9,
+    2.81667
+],
+  "geometry": {"coordinates":[-65.90000000000001,2.81667],"type":"Point"}
+}

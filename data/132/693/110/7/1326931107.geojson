@@ -1,0 +1,67 @@
+{
+  "id": 1326931107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63722,7.47167,-69.63722,7.47167",
+    "geom:latitude":7.47167,
+    "geom:longitude":-69.63722,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Pulido",
+    "gn:country_code":"VE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629631,
+    "gn:latitude":7.47167,
+    "gn:longitude":-69.63722,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"Pulido",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629631
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e78a4e709099c120a994e3d62deaac1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1326931107,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1326931107,
+    "wof:lastmodified":1536906616,
+    "wof:name":"Pulido",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63722,
+    7.47167,
+    -69.63722,
+    7.47167
+],
+  "geometry": {"coordinates":[-69.63722,7.47167],"type":"Point"}
+}

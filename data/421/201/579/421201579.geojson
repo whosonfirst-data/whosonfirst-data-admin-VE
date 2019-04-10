@@ -1,0 +1,79 @@
+{
+  "id": 421201579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.1130035,10.699445,-63.1130035,10.699445",
+    "geom:latitude":10.699445,
+    "geom:longitude":-63.113003,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rio Caribe",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Sucre",
+    "qs:photos":141,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":265,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263831,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805059,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        421193365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805059,
+        "qs:id":1263831,
+        "qs_pg:id":1263831
+    },
+    "wof:country":"VE",
+    "wof:created":1459010077,
+    "wof:geomhash":"ca5b091002c44491756fe4761bd28ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193365,
+            "localadmin_id":421201579,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":421201579,
+    "wof:lastmodified":1497044460,
+    "wof:name":"Rio Caribe",
+    "wof:parent_id":421193365,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.1130035,
+    10.699445,
+    -63.1130035,
+    10.699445
+],
+  "geometry": {"coordinates":[-63.1130035,10.699445],"type":"Point"}
+}

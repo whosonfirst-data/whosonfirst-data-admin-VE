@@ -1,0 +1,61 @@
+{
+  "id": 1209106811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.89708,7.77503,-69.89708,7.77503",
+    "geom:latitude":7.77503,
+    "geom:longitude":-69.89708,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Laurel",
+    "gn:country_code":"VE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642866,
+    "gn:latitude":7.77503,
+    "gn:longitude":-69.89708,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"El Laurel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642866
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ca3cbc5507889c570e3757063a1673f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209106811
+        }
+    ],
+    "wof:id":1209106811,
+    "wof:lastmodified":1536297542,
+    "wof:name":"El Laurel",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.89708,
+    7.77503,
+    -69.89708,
+    7.77503
+],
+  "geometry": {"coordinates":[-69.89708,7.77503],"type":"Point"}
+}

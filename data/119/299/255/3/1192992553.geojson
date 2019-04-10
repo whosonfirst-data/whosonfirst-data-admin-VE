@@ -1,0 +1,67 @@
+{
+  "id": 1192992553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.34061,7.43977,-72.34061,7.43977",
+    "geom:latitude":7.43977,
+    "geom:longitude":-72.34061,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Vega Santiago",
+    "gn:country_code":"VE",
+    "gn:dem":2490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758975,
+    "gn:latitude":7.43977,
+    "gn:longitude":-72.34061,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Vega Santiago",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421185265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758975
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"83247c2f2b1cda89de12179010e97d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185265,
+            "locality_id":1192992553,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1192992553,
+    "wof:lastmodified":1536379298,
+    "wof:name":"Vega Santiago",
+    "wof:parent_id":421185265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.34061,
+    7.43977,
+    -72.34061,
+    7.43977
+],
+  "geometry": {"coordinates":[-72.34061,7.43977],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276348809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.08722,5.22444,-66.08722,5.22444",
+    "geom:latitude":5.22444,
+    "geom:longitude":-66.08722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Laguna de Tigra",
+    "gn:country_code":"VE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3806014,
+    "gn:latitude":5.22444,
+    "gn:longitude":-66.08722,
+    "gn:modification_date":"2002-12-18",
+    "gn:name":"Laguna de Tigra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806014
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9d966e5342c94f8bf129d6de767e5412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694271,
+            "locality_id":1276348809,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1276348809,
+    "wof:lastmodified":1536757810,
+    "wof:name":"Laguna de Tigra",
+    "wof:parent_id":1108694271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.08722,
+    5.22444,
+    -66.08722,
+    5.22444
+],
+  "geometry": {"coordinates":[-66.08722,5.22444],"type":"Point"}
+}

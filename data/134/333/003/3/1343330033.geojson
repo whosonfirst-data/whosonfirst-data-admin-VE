@@ -1,0 +1,67 @@
+{
+  "id": 1343330033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13928,8.93712,-72.13928,8.93712",
+    "geom:latitude":8.93712,
+    "geom:longitude":-72.13928,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Rancho J. V.",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3789355,
+    "gn:latitude":8.93712,
+    "gn:longitude":-72.13928,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Rancho J. V.",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789355
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"812c5dec67976d4a91847c87a81ec7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1343330033,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343330033,
+    "wof:lastmodified":1536935381,
+    "wof:name":"Rancho J. V.",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13928,
+    8.93712,
+    -72.13928,
+    8.93712
+],
+  "geometry": {"coordinates":[-72.13928,8.93712],"type":"Point"}
+}

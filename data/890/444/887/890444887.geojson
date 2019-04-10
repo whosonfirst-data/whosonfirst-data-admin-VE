@@ -1,0 +1,75 @@
+{
+  "id": 890444887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65284,8.61366,-71.65284,8.61366",
+    "geom:latitude":8.61366,
+    "geom:longitude":-71.65284,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":59092,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "El Vig\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "El Vig\u00eda"
+    ],
+    "qs:name":"El Vig\u00eda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":261,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641099,
+        "gp:id":90874484,
+        "qs:id":1045803,
+        "wd:id":"Q2124390",
+        "wk:page":"Alberto Adriani Municipality"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052485,
+    "wof:geomhash":"2c5c6e7d3580ad6c7f07409672d8551c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":890444887,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":890444887,
+    "wof:lastmodified":1527782129,
+    "wof:name":"El Vig\u00eda",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:population":59092,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65284,
+    8.61366,
+    -71.65284,
+    8.61366
+],
+  "geometry": {"coordinates":[-71.65284,8.61366],"type":"Point"}
+}

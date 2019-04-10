@@ -1,0 +1,69 @@
+{
+  "id": 1276332423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76653,8.21573,-67.76653,8.21573",
+    "geom:latitude":8.21573,
+    "geom:longitude":-67.76653,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60303.0",
+    "gn:asciiname":"La Union",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3635064,
+    "gn:latitude":8.21573,
+    "gn:longitude":-67.76653,
+    "gn:modification_date":"2012-01-31",
+    "gn:name":"La Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635064
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"58b8a30a90b83dc650fe1cc67d787d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1276332423,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276332423,
+    "wof:lastmodified":1536780280,
+    "wof:name":"La Union",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76653,
+    8.21573,
+    -67.76653,
+    8.21573
+],
+  "geometry": {"coordinates":[-67.76653,8.21573],"type":"Point"}
+}

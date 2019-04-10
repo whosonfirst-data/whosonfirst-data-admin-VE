@@ -1,0 +1,70 @@
+{
+  "id": 1276724519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.04512,9.22452,-69.04512,9.22452",
+    "geom:latitude":9.22452,
+    "geom:longitude":-69.04512,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"El Aji",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797800,
+    "gn:latitude":9.22452,
+    "gn:longitude":-69.04512,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Aj\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Aj\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797800
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd381fc565e3fab3be9a52ae688f91b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694461,
+            "locality_id":1276724519,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1276724519,
+    "wof:lastmodified":1537713640,
+    "wof:name":"El Aji",
+    "wof:parent_id":1108694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.04512,
+    9.22452,
+    -69.04512,
+    9.22452
+],
+  "geometry": {"coordinates":[-69.04512,9.22452],"type":"Point"}
+}

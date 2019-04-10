@@ -1,0 +1,154 @@
+{
+  "id": 85765551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":24859046.146959,
+    "geom:bbox":"-62.650268,8.37257,-62.650268,8.37257",
+    "geom:latitude":8.37257,
+    "geom:longitude":-62.650268,
+    "gn:gn_country":"VE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":8.37011,
+    "gn:longitude":-62.65919,
+    "iso:country":"VE",
+    "lbl:latitude":8.37257,
+    "lbl:longitude":-62.650268,
+    "mps:latitude":8.373997,
+    "mps:longitude":-62.650802,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:spa_x_colloquial":[
+        "S. Felix",
+        "S Felix",
+        "San Felix"
+    ],
+    "name:spa_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:spa_x_variant":[
+        "S. F\u00e9lix",
+        "Seccion S Felix",
+        "Pto Tablas",
+        "San Felis",
+        "Puerto Tablas",
+        "Seccion San Felix",
+        "S F\u00e9lix",
+        "S Felis",
+        "Las Tablas",
+        "S. Felis",
+        "Seccion S. Felix"
+    ],
+    "name:unk_x_variant":[
+        "Las Tablas",
+        "San F\u00e9lix"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"San F\u00e9lix",
+    "qs:local_max":133,
+    "qs:local_sum":133,
+    "qs:localhoods":1,
+    "qs:name":"San F\u00e9lix",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Bol\u00edvar",
+    "qs:name_adm2":"Caroni",
+    "qs:name_lau":"Caroni",
+    "qs:name_local":"Ciudad Guayana",
+    "qs:photo_max":37,
+    "qs:photo_sum":133,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424982,
+    "qs:woe_adm1":2347682,
+    "qs:woe_adm2":26804581,
+    "qs:woe_lau":26805585,
+    "qs:woe_local":395275,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"VE",
+    "qs_pg:gn_country":"VE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3628407,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San F\u00e9lix",
+    "qs_pg:name_adm0":"Venezuela",
+    "qs_pg:name_adm1":"Bol\u00edvar",
+    "qs_pg:photos":133,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":133,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342598,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424982,
+    "qs_pg:woe_id":468335,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85680517,
+        102191577,
+        85632317,
+        421190237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628407,
+        "gp:id":468335,
+        "qs:id":1342598,
+        "qs_pg:id":1342598
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"169aff9a5d1ef89c0f394a41f6c42d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190237,
+            "locality_id":-1,
+            "neighbourhood_id":85765551,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":85765551,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379806,
+    "wof:name":"San F\u00e9lix",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126098573
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.650268,
+    8.37257,
+    -62.650268,
+    8.37257
+],
+  "geometry": {"coordinates":[-62.650268,8.37257],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209693241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.04938,11.14525,-70.04938,11.14525",
+    "geom:latitude":11.14525,
+    "geom:longitude":-70.04938,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Jebes",
+    "gn:country_code":"VE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740996,
+    "gn:latitude":11.14525,
+    "gn:longitude":-70.04938,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Los Jebes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740996
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bc16309e49187b1f825ab620196d3910",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209693241
+        }
+    ],
+    "wof:id":1209693241,
+    "wof:lastmodified":1536279166,
+    "wof:name":"Los Jebes",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.04938,
+    11.14525,
+    -70.04938,
+    11.14525
+],
+  "geometry": {"coordinates":[-70.04938,11.14525],"type":"Point"}
+}

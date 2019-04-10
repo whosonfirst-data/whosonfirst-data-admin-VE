@@ -1,0 +1,61 @@
+{
+  "id": 1209513403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05253,7.84838,-70.05253,7.84838",
+    "geom:latitude":7.84838,
+    "geom:longitude":-70.05253,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Catalina",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646217,
+    "gn:latitude":7.84838,
+    "gn:longitude":-70.05253,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"Catalina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646217
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"51bc907cc5b38b64ca7d46f5846cf5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209513403
+        }
+    ],
+    "wof:id":1209513403,
+    "wof:lastmodified":1536284810,
+    "wof:name":"Catalina",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05253,
+    7.8483800000000015,
+    -70.05253,
+    7.8483800000000015
+],
+  "geometry": {"coordinates":[-70.05253,7.84838],"type":"Point"}
+}

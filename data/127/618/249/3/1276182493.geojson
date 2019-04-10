@@ -1,0 +1,67 @@
+{
+  "id": 1276182493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03503,11.12009,-72.03503,11.12009",
+    "geom:latitude":11.12009,
+    "geom:longitude":-72.03503,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Canta Los Gallos",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646887,
+    "gn:latitude":11.12009,
+    "gn:longitude":-72.03503,
+    "gn:modification_date":"1997-02-05",
+    "gn:name":"Canta Los Gallos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646887
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"961eb9023c1ec7b051be319a16a8e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1276182493,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276182493,
+    "wof:lastmodified":1536980455,
+    "wof:name":"Canta Los Gallos",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03503,
+    11.12009,
+    -72.03503,
+    11.12009
+],
+  "geometry": {"coordinates":[-72.03503000000001,11.12009],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293294801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.67026,7.8697,-64.67026,7.8697",
+    "geom:latitude":7.8697,
+    "geom:longitude":-64.67026,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Horqueta",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485318,
+    "gn:latitude":7.8697,
+    "gn:longitude":-64.67026,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"La Horqueta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485318
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5951e7f644c791d43b818f7722fbb840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1293294801,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293294801,
+    "wof:lastmodified":1537062040,
+    "wof:name":"La Horqueta",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.67026,
+    7.8697,
+    -64.67026,
+    7.8697
+],
+  "geometry": {"coordinates":[-64.67026,7.8697],"type":"Point"}
+}

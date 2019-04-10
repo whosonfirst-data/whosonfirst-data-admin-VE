@@ -1,0 +1,61 @@
+{
+  "id": 1209188483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7084,7.91216,-71.7084,7.91216",
+    "geom:latitude":7.91216,
+    "geom:longitude":-71.7084,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"La Urbina",
+    "gn:country_code":"VE",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795660,
+    "gn:latitude":7.91216,
+    "gn:longitude":-71.7084,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Urbina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795660
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9ca39f813a9a269e1640f33cfccb1260",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209188483
+        }
+    ],
+    "wof:id":1209188483,
+    "wof:lastmodified":1536295017,
+    "wof:name":"La Urbina",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7084,
+    7.912160000000001,
+    -71.7084,
+    7.912160000000001
+],
+  "geometry": {"coordinates":[-71.7084,7.91216],"type":"Point"}
+}

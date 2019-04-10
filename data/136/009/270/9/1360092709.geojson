@@ -1,0 +1,67 @@
+{
+  "id": 1360092709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.51862,8.73651,-63.51862,8.73651",
+    "geom:latitude":8.73651,
+    "geom:longitude":-63.51862,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Bombitas",
+    "gn:country_code":"VE",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636259,
+    "gn:latitude":8.73651,
+    "gn:longitude":-63.51862,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Las Bombitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636259
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a883cdfd936e1f07646a562f276d4a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1360092709,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360092709,
+    "wof:lastmodified":1536935358,
+    "wof:name":"Las Bombitas",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.51862,
+    8.73651,
+    -63.51862,
+    8.73651
+],
+  "geometry": {"coordinates":[-63.51862,8.73651],"type":"Point"}
+}

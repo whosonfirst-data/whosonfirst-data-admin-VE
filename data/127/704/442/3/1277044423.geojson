@@ -1,0 +1,67 @@
+{
+  "id": 1277044423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39463,9.39337,-70.39463,9.39337",
+    "geom:latitude":9.39337,
+    "geom:longitude":-70.39463,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Mocoy Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482314,
+    "gn:latitude":9.39337,
+    "gn:longitude":-70.39463,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Mocoy Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421188829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482314
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"174a4d172933b331a6cad4c77a335e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188829,
+            "locality_id":1277044423,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1277044423,
+    "wof:lastmodified":1536819820,
+    "wof:name":"Mocoy Abajo",
+    "wof:parent_id":421188829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39463,
+    9.39337,
+    -70.39463,
+    9.39337
+],
+  "geometry": {"coordinates":[-70.39463000000001,9.39337],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293663703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33694,10.56186,-63.33694,10.56186",
+    "geom:latitude":10.56186,
+    "geom:longitude":-63.33694,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"La Parima",
+    "gn:country_code":"VE",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796401,
+    "gn:latitude":10.56186,
+    "gn:longitude":-63.33694,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"La Parima",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796401
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b54e3aaef87748f0bcb556e45a6aadb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694077,
+            "locality_id":1293663703,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293663703,
+    "wof:lastmodified":1537029089,
+    "wof:name":"La Parima",
+    "wof:parent_id":1108694077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33694000000001,
+    10.56186,
+    -63.33694000000001,
+    10.56186
+],
+  "geometry": {"coordinates":[-63.33694000000001,10.56186],"type":"Point"}
+}

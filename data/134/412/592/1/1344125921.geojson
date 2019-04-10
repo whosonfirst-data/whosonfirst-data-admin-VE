@@ -1,0 +1,67 @@
+{
+  "id": 1344125921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15278,9.61333,-70.15278,9.61333",
+    "geom:latitude":9.61333,
+    "geom:longitude":-70.15278,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Cajingo",
+    "gn:country_code":"VE",
+    "gn:dem":2045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482717,
+    "gn:latitude":9.61333,
+    "gn:longitude":-70.15278,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Cajingo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482717
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3a533a98afe78b250180548c0fabf137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694147,
+            "locality_id":1344125921,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1344125921,
+    "wof:lastmodified":1536781730,
+    "wof:name":"Cajingo",
+    "wof:parent_id":1108694147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15278,
+    9.61333,
+    -70.15278,
+    9.61333
+],
+  "geometry": {"coordinates":[-70.15278000000001,9.61333],"type":"Point"}
+}

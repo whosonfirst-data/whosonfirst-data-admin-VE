@@ -1,0 +1,61 @@
+{
+  "id": 1209680645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.71192,10.43728,-63.71192,10.43728",
+    "geom:latitude":10.43728,
+    "geom:longitude":-63.71192,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"La Placeta",
+    "gn:country_code":"VE",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749360,
+    "gn:latitude":10.43728,
+    "gn:longitude":-63.71192,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"La Placeta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749360
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2ae7e025732cf45ad9f160cc2f490aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209680645
+        }
+    ],
+    "wof:id":1209680645,
+    "wof:lastmodified":1536279589,
+    "wof:name":"La Placeta",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.71191999999999,
+    10.43728,
+    -63.71191999999999,
+    10.43728
+],
+  "geometry": {"coordinates":[-63.71191999999999,10.43728],"type":"Point"}
+}

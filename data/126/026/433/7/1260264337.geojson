@@ -1,0 +1,71 @@
+{
+  "id": 1260264337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.47324,9.21337,-63.47324,9.21337",
+    "geom:latitude":9.21337,
+    "geom:longitude":-63.47324,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"San Jose del Nato",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628137,
+    "gn:latitude":9.21337,
+    "gn:longitude":-63.47324,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 del \u00d1ato",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9",
+        "San Jos\u00e9 del \u00d1ato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628137
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"34495e0ee18a73371575235b56ac2cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1260264337,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1260264337,
+    "wof:lastmodified":1537713519,
+    "wof:name":"San Jose del Nato",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.47324,
+    9.21337,
+    -63.47324,
+    9.21337
+],
+  "geometry": {"coordinates":[-63.47324,9.21337],"type":"Point"}
+}

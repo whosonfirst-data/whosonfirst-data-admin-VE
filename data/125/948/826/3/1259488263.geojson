@@ -1,0 +1,71 @@
+{
+  "id": 1259488263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.91751,9.91582,-66.91751,9.91582",
+    "geom:latitude":9.91582,
+    "geom:longitude":-66.91751,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Valle Morin",
+    "gn:country_code":"VE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625504,
+    "gn:latitude":9.91582,
+    "gn:longitude":-66.91751,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valle Mor\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle de Mor\u00edn",
+        "Valle Mor\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625504
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5806fee780ff5b25fc7a6db94798790d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694387,
+            "locality_id":1259488263,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1259488263,
+    "wof:lastmodified":1537713507,
+    "wof:name":"Valle Morin",
+    "wof:parent_id":1108694387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.91751,
+    9.91582,
+    -66.91751,
+    9.91582
+],
+  "geometry": {"coordinates":[-66.91750999999999,9.91582],"type":"Point"}
+}

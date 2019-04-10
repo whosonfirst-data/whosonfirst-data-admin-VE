@@ -1,0 +1,79 @@
+{
+  "id": 421183687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76667,10.48333,-67.76667,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":-67.76667,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Puerto Ocumare"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3629692,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto de Ocumare",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982708,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":392766,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421188835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629692,
+        "gp:id":392766,
+        "qs:id":982708
+    },
+    "wof:country":"VE",
+    "wof:created":1459009378,
+    "wof:geomhash":"3c216b431e4443a5cc5ba2ef94957f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188835,
+            "locality_id":421183687,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421183687,
+    "wof:lastmodified":1501268323,
+    "wof:name":"Puerto de Ocumare",
+    "wof:parent_id":421188835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76667,
+    10.48333,
+    -67.76667,
+    10.48333
+],
+  "geometry": {"coordinates":[-67.76667,10.48333],"type":"Point"}
+}

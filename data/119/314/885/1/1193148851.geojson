@@ -1,0 +1,67 @@
+{
+  "id": 1193148851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87794,8.28383,-64.87794,8.28383",
+    "geom:latitude":8.28383,
+    "geom:longitude":-64.87794,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Guatire",
+    "gn:country_code":"VE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639899,
+    "gn:latitude":8.28383,
+    "gn:longitude":-64.87794,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Guatire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639899
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0a79785e63d95a57fc08a4c56f3423f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1193148851,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1193148851,
+    "wof:lastmodified":1536380456,
+    "wof:name":"Guatire",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87794,
+    8.28383,
+    -64.87794,
+    8.28383
+],
+  "geometry": {"coordinates":[-64.87794,8.28383],"type":"Point"}
+}

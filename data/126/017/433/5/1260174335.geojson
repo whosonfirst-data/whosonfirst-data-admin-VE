@@ -1,0 +1,67 @@
+{
+  "id": 1260174335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.02571,8.70376,-70.02571,8.70376",
+    "geom:latitude":8.70376,
+    "geom:longitude":-70.02571,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Guafitas",
+    "gn:country_code":"VE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3487290,
+    "gn:latitude":8.70376,
+    "gn:longitude":-70.02571,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Guafitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487290
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e58b58abbface63e4f7bf2193986326a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694103,
+            "locality_id":1260174335,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1260174335,
+    "wof:lastmodified":1536859187,
+    "wof:name":"Guafitas",
+    "wof:parent_id":1108694103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.02571,
+    8.70376,
+    -70.02571,
+    8.70376
+],
+  "geometry": {"coordinates":[-70.02571,8.70376],"type":"Point"}
+}

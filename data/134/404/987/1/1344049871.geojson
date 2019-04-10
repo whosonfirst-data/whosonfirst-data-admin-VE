@@ -1,0 +1,67 @@
+{
+  "id": 1344049871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.75649,8.28841,-69.75649,8.28841",
+    "geom:latitude":8.28841,
+    "geom:longitude":-69.75649,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cachaza",
+    "gn:country_code":"VE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766854,
+    "gn:latitude":8.28841,
+    "gn:longitude":-69.75649,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Cachaza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766854
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6a392f11a062a57771b647fa63af2654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1344049871,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1344049871,
+    "wof:lastmodified":1536890564,
+    "wof:name":"Cachaza",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.75649,
+    8.28841,
+    -69.75649,
+    8.28841
+],
+  "geometry": {"coordinates":[-69.75649,8.28841],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193264869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.84778,8.955,-65.84778,8.955",
+    "geom:latitude":8.955,
+    "geom:longitude":-65.84778,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Corral Viejo",
+    "gn:country_code":"VE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645056,
+    "gn:latitude":8.955,
+    "gn:longitude":-65.84778,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Corral Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645056
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d4ab789cafb081c23c741c751e05651f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694175,
+            "locality_id":1193264869,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1193264869,
+    "wof:lastmodified":1536376975,
+    "wof:name":"Corral Viejo",
+    "wof:parent_id":1108694175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.84778,
+    8.955,
+    -65.84778,
+    8.955
+],
+  "geometry": {"coordinates":[-65.84778,8.955],"type":"Point"}
+}

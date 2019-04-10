@@ -1,0 +1,67 @@
+{
+  "id": 1225830839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.099,10.3707,-68.099,10.3707",
+    "geom:latitude":10.3707,
+    "geom:longitude":-68.099,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"El Mamon",
+    "gn:country_code":"VE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642733,
+    "gn:latitude":10.3707,
+    "gn:longitude":-68.099,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Mam\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642733
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ee1b93af556529e9a6473ff2177aaff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "locality_id":1225830839,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1225830839,
+    "wof:lastmodified":1537033718,
+    "wof:name":"El Mamon",
+    "wof:parent_id":421198089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.09899999999999,
+    10.3707,
+    -68.09899999999999,
+    10.3707
+],
+  "geometry": {"coordinates":[-68.09899999999999,10.3707],"type":"Point"}
+}

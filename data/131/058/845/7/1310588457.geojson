@@ -1,0 +1,67 @@
+{
+  "id": 1310588457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.17778,11.40389,-69.17778,11.40389",
+    "geom:latitude":11.40389,
+    "geom:longitude":-69.17778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Cerro Cesibal",
+    "gn:country_code":"VE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785826,
+    "gn:latitude":11.40389,
+    "gn:longitude":-69.17778,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"Cerro Cesibal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785826
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0935b4fcd4dabc8a35f92740d44c453a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1310588457,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310588457,
+    "wof:lastmodified":1536797489,
+    "wof:name":"Cerro Cesibal",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.17778,
+    11.40389,
+    -69.17778,
+    11.40389
+],
+  "geometry": {"coordinates":[-69.17778,11.40389],"type":"Point"}
+}

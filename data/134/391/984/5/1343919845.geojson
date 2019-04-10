@@ -1,0 +1,77 @@
+{
+  "id": 1343919845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.32852,10.59973,-63.32852,10.59973",
+    "geom:latitude":10.59973,
+    "geom:longitude":-63.32852,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1902",
+    "gn:asciiname":"San Jose de Aerocuar",
+    "gn:country_code":"VE",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3628148,
+    "gn:latitude":10.59973,
+    "gn:longitude":-63.32852,
+    "gn:modification_date":"2012-01-08",
+    "gn:name":"San Jos\u00e9 de Aerocuar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Aerocuar"
+    ],
+    "name:und_x_variant":[
+        "San Jos\u00e9",
+        "San Jos\u00e9 de Areocuar",
+        "San Jos\u00e9 de Areoeuar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628148,
+        "wk:page":"San_Jos%C3%A9_de_Aerocuar"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7d17d2f12424aed4baaa2736f28e3ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694077,
+            "locality_id":1343919845,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1343919845,
+    "wof:lastmodified":1537713519,
+    "wof:name":"San Jose de Aerocuar",
+    "wof:parent_id":1108694077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.32852,
+    10.59973,
+    -63.32852,
+    10.59973
+],
+  "geometry": {"coordinates":[-63.32852,10.59973],"type":"Point"}
+}

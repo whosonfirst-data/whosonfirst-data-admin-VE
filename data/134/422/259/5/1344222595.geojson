@@ -1,0 +1,74 @@
+{
+  "id": 1344222595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.94754,9.43365,-69.94754,9.43365",
+    "geom:latitude":9.43365,
+    "geom:longitude":-69.94754,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1806.0",
+    "gn:asciiname":"Paraiso de Chabasquen",
+    "gn:country_code":"VE",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3630761,
+    "gn:latitude":9.43365,
+    "gn:longitude":-69.94754,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Para\u00edso de Chabasqu\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chabasquen",
+        "Para\u00edso de Chavasqu\u00e9n",
+        "Paraiso",
+        "Para\u00edso de Chabasqu\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630761
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ddf52ae1f8d8b5f51365c7445ea739cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694305,
+            "locality_id":1344222595,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1344222595,
+    "wof:lastmodified":1537713532,
+    "wof:name":"Paraiso de Chabasquen",
+    "wof:parent_id":1108694305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.94754,
+    9.43365,
+    -69.94754,
+    9.43365
+],
+  "geometry": {"coordinates":[-69.94754,9.43365],"type":"Point"}
+}

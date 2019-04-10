@@ -1,0 +1,70 @@
+{
+  "id": 1276619673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.95625,8.87464,-69.95625,8.87464",
+    "geom:latitude":8.87464,
+    "geom:longitude":-69.95625,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Agua de Angel",
+    "gn:country_code":"VE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797777,
+    "gn:latitude":8.87464,
+    "gn:longitude":-69.95625,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Agua de Angel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agua de Angel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797777
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7632ee89f56fe01e126473b25ee359e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694393,
+            "locality_id":1276619673,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1276619673,
+    "wof:lastmodified":1537713640,
+    "wof:name":"Agua de Angel",
+    "wof:parent_id":1108694393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.95625,
+    8.87464,
+    -69.95625,
+    8.87464
+],
+  "geometry": {"coordinates":[-69.95625,8.87464],"type":"Point"}
+}

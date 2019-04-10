@@ -1,0 +1,67 @@
+{
+  "id": 1276540807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.835,7.35278,-61.835,7.35278",
+    "geom:latitude":7.35278,
+    "geom:longitude":-61.835,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Gasolina",
+    "gn:country_code":"VE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3808040,
+    "gn:latitude":7.35278,
+    "gn:longitude":-61.835,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"La Gasolina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        1108694173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3808040
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"320e35d7aaa6a908a1db7a4be17c6b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694173,
+            "locality_id":1276540807,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1276540807,
+    "wof:lastmodified":1536997244,
+    "wof:name":"La Gasolina",
+    "wof:parent_id":1108694173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.835,
+    7.35278,
+    -61.835,
+    7.35278
+],
+  "geometry": {"coordinates":[-61.835,7.35278],"type":"Point"}
+}

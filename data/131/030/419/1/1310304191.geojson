@@ -1,0 +1,71 @@
+{
+  "id": 1310304191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.37534,10.28308,-67.37534,10.28308",
+    "geom:latitude":10.28308,
+    "geom:longitude":-67.37534,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Corozal",
+    "gn:country_code":"VE",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645116,
+    "gn:latitude":10.28308,
+    "gn:longitude":-67.37534,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Corozal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corozal",
+        "Corozal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421184557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645116
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ba034956501c241e93f44c4b12ffff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184557,
+            "locality_id":1310304191,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1310304191,
+    "wof:lastmodified":1537713616,
+    "wof:name":"Corozal",
+    "wof:parent_id":421184557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.37534000000001,
+    10.28308,
+    -67.37534000000001,
+    10.28308
+],
+  "geometry": {"coordinates":[-67.37534000000001,10.28308],"type":"Point"}
+}

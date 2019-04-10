@@ -1,0 +1,67 @@
+{
+  "id": 1193148835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16108,9.88467,-65.16108,9.88467",
+    "geom:latitude":9.88467,
+    "geom:longitude":-65.16108,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Carutico",
+    "gn:country_code":"VE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646357,
+    "gn:latitude":9.88467,
+    "gn:longitude":-65.16108,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Carutico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646357
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"92982d65549c588883ac1aafe0342681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1193148835,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1193148835,
+    "wof:lastmodified":1536380472,
+    "wof:name":"Carutico",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16108,
+    9.88467,
+    -65.16108,
+    9.88467
+],
+  "geometry": {"coordinates":[-65.16108,9.88467],"type":"Point"}
+}

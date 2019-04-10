@@ -1,0 +1,73 @@
+{
+  "id": 1343347221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8,9.96667,-67.8,9.96667",
+    "geom:latitude":9.96667,
+    "geom:longitude":-67.8,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Carabobita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646758,
+    "gn:latitude":9.96667,
+    "gn:longitude":-67.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carabobita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabobito",
+        "Carabobito",
+        "Carabobita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646758
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b64382eb07668dea7a55d26b915c8e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1343347221,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1343347221,
+    "wof:lastmodified":1537713623,
+    "wof:name":"Carabobita",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8,
+    9.96667,
+    -67.8,
+    9.96667
+],
+  "geometry": {"coordinates":[-67.8,9.96667],"type":"Point"}
+}

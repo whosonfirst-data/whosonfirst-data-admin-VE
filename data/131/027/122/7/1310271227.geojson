@@ -1,0 +1,63 @@
+{
+  "id": 1310271227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95044,10.89854,-63.95044,10.89854",
+    "geom:latitude":10.89854,
+    "geom:longitude":-63.95044,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Yaque",
+    "gn:country_code":"VE",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641066,
+    "gn:latitude":10.89854,
+    "gn:longitude":-63.95044,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Yaque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641066
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1c9e4dc873f1f60c63530529ed9fe440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1310271227,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310271227,
+    "wof:lastmodified":1536757571,
+    "wof:name":"El Yaque",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95044,
+    10.89854,
+    -63.95044,
+    10.89854
+],
+  "geometry": {"coordinates":[-63.95044,10.89854],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343563139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.67405,9.90999,-65.67405,9.90999",
+    "geom:latitude":9.90999,
+    "geom:longitude":-65.67405,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0304",
+    "gn:asciiname":"Valle de Guanape",
+    "gn:country_code":"VE",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3625519,
+    "gn:latitude":9.90999,
+    "gn:longitude":-65.67405,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Valle de Guanape",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Valle de Guanape",
+        "Valle de Guanape"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        890450029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625519
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b3f738ce30bf2652300bc2b7be9fd83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890450029,
+            "locality_id":1343563139,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343563139,
+    "wof:lastmodified":1537713507,
+    "wof:name":"Valle de Guanape",
+    "wof:parent_id":890450029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.67405,
+    9.90999,
+    -65.67405,
+    9.90999
+],
+  "geometry": {"coordinates":[-65.67404999999999,9.90999],"type":"Point"}
+}

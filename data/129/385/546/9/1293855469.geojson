@@ -1,0 +1,61 @@
+{
+  "id": 1293855469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.49389,10.88222,-63.49389,10.88222",
+    "geom:latitude":10.88222,
+    "geom:longitude":-63.49389,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Manresa",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778010,
+    "gn:latitude":10.88222,
+    "gn:longitude":-63.49389,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Manresa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778010
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"83837b0bba0fc83f925353746c2106d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293855469,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293855469,
+    "wof:lastmodified":1536753790,
+    "wof:name":"Manresa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.49389,
+    10.88222,
+    -63.49389,
+    10.88222
+],
+  "geometry": {"coordinates":[-63.49389,10.88222],"type":"Point"}
+}

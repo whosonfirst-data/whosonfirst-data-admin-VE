@@ -1,0 +1,67 @@
+{
+  "id": 1293687695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45,7.43333,-68.45,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":-68.45,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Los Canitos",
+    "gn:country_code":"VE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634426,
+    "gn:latitude":7.43333,
+    "gn:longitude":-68.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Ca\u00f1itos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634426
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5a1a6ff21b2bf08b267e9f4bd50b40c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1293687695,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293687695,
+    "wof:lastmodified":1536994926,
+    "wof:name":"Los Canitos",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45,
+    7.43333,
+    -68.45,
+    7.43333
+],
+  "geometry": {"coordinates":[-68.45,7.43333],"type":"Point"}
+}

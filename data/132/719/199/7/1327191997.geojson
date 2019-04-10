@@ -1,0 +1,67 @@
+{
+  "id": 1327191997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9257,10.72652,-71.9257,10.72652",
+    "geom:latitude":10.72652,
+    "geom:longitude":-71.9257,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Marimonda",
+    "gn:country_code":"VE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3789573,
+    "gn:latitude":10.72652,
+    "gn:longitude":-71.9257,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Marimonda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789573
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"69f9e63824cad9be59d49b26ebf447ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1327191997,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1327191997,
+    "wof:lastmodified":1537026883,
+    "wof:name":"Marimonda",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9257,
+    10.72652,
+    -71.9257,
+    10.72652
+],
+  "geometry": {"coordinates":[-71.92570000000001,10.72652],"type":"Point"}
+}

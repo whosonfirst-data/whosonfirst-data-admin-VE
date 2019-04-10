@@ -1,0 +1,67 @@
+{
+  "id": 1276444225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.45268,9.96724,-65.45268,9.96724",
+    "geom:latitude":9.96724,
+    "geom:longitude":-65.45268,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Murgua",
+    "gn:country_code":"VE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631646,
+    "gn:latitude":9.96724,
+    "gn:longitude":-65.45268,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Murgua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631646
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"72f6e89c3d19426f6f36f3ca99b4814e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1276444225,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276444225,
+    "wof:lastmodified":1536628280,
+    "wof:name":"Murgua",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.45268,
+    9.96724,
+    -65.45268,
+    9.96724
+],
+  "geometry": {"coordinates":[-65.45268,9.96724],"type":"Point"}
+}

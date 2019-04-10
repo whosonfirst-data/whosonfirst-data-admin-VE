@@ -1,0 +1,67 @@
+{
+  "id": 1344016149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4732,8.86314,-71.4732,8.86314",
+    "geom:latitude":8.86314,
+    "geom:longitude":-71.4732,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Cano Ciego",
+    "gn:country_code":"VE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765849,
+    "gn:latitude":8.86314,
+    "gn:longitude":-71.4732,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Ca\u00f1o Ciego",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421191761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765849
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1ce49f2ca437817dd9aafafe4dad6b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191761,
+            "locality_id":1344016149,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1344016149,
+    "wof:lastmodified":1536940414,
+    "wof:name":"Cano Ciego",
+    "wof:parent_id":421191761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4732,
+    8.86314,
+    -71.4732,
+    8.86314
+],
+  "geometry": {"coordinates":[-71.47320000000001,8.86314],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309884773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.72337,10.50815,-69.72337,10.50815",
+    "geom:latitude":10.50815,
+    "geom:longitude":-69.72337,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cacho de Venado",
+    "gn:country_code":"VE",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750345,
+    "gn:latitude":10.50815,
+    "gn:longitude":-69.72337,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Cacho de Venado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750345
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eea20758a283d46ec8c5ff963875a192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1309884773,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1309884773,
+    "wof:lastmodified":1536816557,
+    "wof:name":"Cacho de Venado",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.72336999999999,
+    10.50815,
+    -69.72336999999999,
+    10.50815
+],
+  "geometry": {"coordinates":[-69.72336999999999,10.50815],"type":"Point"}
+}

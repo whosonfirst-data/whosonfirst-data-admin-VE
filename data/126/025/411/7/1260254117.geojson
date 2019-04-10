@@ -1,0 +1,67 @@
+{
+  "id": 1260254117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.80897,9.98814,-63.80897,9.98814",
+    "geom:latitude":9.98814,
+    "geom:longitude":-63.80897,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Guario",
+    "gn:country_code":"VE",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640006,
+    "gn:latitude":9.98814,
+    "gn:longitude":-63.80897,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Guario",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640006
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0d54ec91c65a9f53d870f8470f502f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1260254117,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1260254117,
+    "wof:lastmodified":1536751633,
+    "wof:name":"Guario",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.80897,
+    9.98814,
+    -63.80897,
+    9.98814
+],
+  "geometry": {"coordinates":[-63.80897,9.98814],"type":"Point"}
+}

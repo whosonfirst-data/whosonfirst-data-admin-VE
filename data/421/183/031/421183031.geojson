@@ -1,0 +1,80 @@
+{
+  "id": 421183031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.68505,10.79269,-71.68505,10.79269",
+    "geom:latitude":10.79269,
+    "geom:longitude":-71.68505,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Santa Cruz"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3627420,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Cruz de Mara",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":959459,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468361,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":529,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627420,
+        "gp:id":468361,
+        "qs:id":959459
+    },
+    "wof:country":"VE",
+    "wof:created":1459009356,
+    "wof:geomhash":"11d4e9ce94d828757d445d2cdeb8c6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":421183031,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":421183031,
+    "wof:lastmodified":1527716490,
+    "wof:name":"Santa Cruz de Mara",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.68505,
+    10.79269,
+    -71.68505,
+    10.79269
+],
+  "geometry": {"coordinates":[-71.68505,10.79269],"type":"Point"}
+}

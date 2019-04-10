@@ -1,0 +1,71 @@
+{
+  "id": 1226215903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64853,8.88242,-70.64853,8.88242",
+    "geom:latitude":8.88242,
+    "geom:longitude":-70.64853,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Mitisus",
+    "gn:country_code":"VE",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637105,
+    "gn:latitude":8.88242,
+    "gn:longitude":-70.64853,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Mitisus",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Mitsus",
+        "La Mitisus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421194993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637105
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c39b07874adb0004f451a581563eb305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194993,
+            "locality_id":1226215903,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1226215903,
+    "wof:lastmodified":1537713566,
+    "wof:name":"La Mitisus",
+    "wof:parent_id":421194993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64853000000002,
+    8.88242,
+    -70.64853000000002,
+    8.88242
+],
+  "geometry": {"coordinates":[-70.64853000000002,8.88242],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259960075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45,10.82,-69.45,10.82",
+    "geom:latitude":10.82,
+    "geom:longitude":-69.45,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Quirigua",
+    "gn:country_code":"VE",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784354,
+    "gn:latitude":10.82,
+    "gn:longitude":-69.45,
+    "gn:modification_date":"2014-08-01",
+    "gn:name":"Quirigu\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784354
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"259d8de7a47e9f5b845f8f10bb5e04df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1259960075,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259960075,
+    "wof:lastmodified":1536668904,
+    "wof:name":"Quirigua",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45,
+    10.82,
+    -69.45,
+    10.82
+],
+  "geometry": {"coordinates":[-69.45,10.82],"type":"Point"}
+}

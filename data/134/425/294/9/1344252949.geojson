@@ -1,0 +1,72 @@
+{
+  "id": 1344252949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.16678,10.11433,-68.16678,10.11433",
+    "geom:latitude":10.11433,
+    "geom:longitude":-68.16678,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Barrera Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648483,
+    "gn:latitude":10.11433,
+    "gn:longitude":-68.16678,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barrera Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barrera",
+        "Barreras",
+        "Barrera Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648483
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1839c6cf5affc86e73a4e240ecc7bcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694251,
+            "locality_id":1344252949,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1344252949,
+    "wof:lastmodified":1537713629,
+    "wof:name":"Barrera Arriba",
+    "wof:parent_id":1108694251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.16678,
+    10.11433,
+    -68.16678,
+    10.11433
+],
+  "geometry": {"coordinates":[-68.16678,10.11433],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226344271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.51601,8.89717,-64.51601,8.89717",
+    "geom:latitude":8.89717,
+    "geom:longitude":-64.51601,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Cabeceras del Pao",
+    "gn:country_code":"VE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647664,
+    "gn:latitude":8.89717,
+    "gn:longitude":-64.51601,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cabeceras del Pao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647664
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6e3693ca6004d8ea1d30f276d26445d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1226344271,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226344271,
+    "wof:lastmodified":1536791922,
+    "wof:name":"Cabeceras del Pao",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.51601,
+    8.89717,
+    -64.51601,
+    8.89717
+],
+  "geometry": {"coordinates":[-64.51600999999999,8.89717],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293673733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.10389,9.01611,-68.10389,9.01611",
+    "geom:latitude":9.01611,
+    "geom:longitude":-68.10389,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Las Matas",
+    "gn:country_code":"VE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3800006,
+    "gn:latitude":9.01611,
+    "gn:longitude":-68.10389,
+    "gn:modification_date":"2002-10-29",
+    "gn:name":"Las Matas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3800006
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7e203053a6c5c6540938323c50918480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1293673733,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1293673733,
+    "wof:lastmodified":1537015096,
+    "wof:name":"Las Matas",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.10389,
+    9.01611,
+    -68.10389,
+    9.01611
+],
+  "geometry": {"coordinates":[-68.10389000000001,9.01611],"type":"Point"}
+}

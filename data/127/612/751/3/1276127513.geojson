@@ -1,0 +1,72 @@
+{
+  "id": 1276127513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.53333,3.15,-65.53333,3.15",
+    "geom:latitude":3.15,
+    "geom:longitude":-65.53333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Amauaca",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649305,
+    "gn:latitude":3.15,
+    "gn:longitude":-65.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amauaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amauca",
+        "Amauaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        890420047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649305
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2227a70c540871a9e80bc5a3d5789ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890420047,
+            "locality_id":1276127513,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1276127513,
+    "wof:lastmodified":1537713633,
+    "wof:name":"Amauaca",
+    "wof:parent_id":890420047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.53333,
+    3.15,
+    -65.53333,
+    3.15
+],
+  "geometry": {"coordinates":[-65.53333000000001,3.15],"type":"Point"}
+}

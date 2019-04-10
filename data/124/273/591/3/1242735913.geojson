@@ -1,0 +1,67 @@
+{
+  "id": 1242735913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.57765,9.66765,-72.57765,9.66765",
+    "geom:latitude":9.66765,
+    "geom:longitude":-72.57765,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Campo Bernal",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741682,
+    "gn:latitude":9.66765,
+    "gn:longitude":-72.57765,
+    "gn:modification_date":"1995-08-09",
+    "gn:name":"Campo Bernal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741682
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e7c3144277552c7aa3d631dc3aaa463f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1242735913,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1242735913,
+    "wof:lastmodified":1536834832,
+    "wof:name":"Campo Bernal",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.57765,
+    9.66765,
+    -72.57765,
+    9.66765
+],
+  "geometry": {"coordinates":[-72.57765000000001,9.66765],"type":"Point"}
+}

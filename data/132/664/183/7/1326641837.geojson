@@ -1,0 +1,67 @@
+{
+  "id": 1326641837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.09784,8.8931,-64.09784,8.8931",
+    "geom:latitude":8.8931,
+    "geom:longitude":-64.09784,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Riecitos",
+    "gn:country_code":"VE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633667,
+    "gn:latitude":8.8931,
+    "gn:longitude":-64.09784,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Los Riecitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633667
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"19b7de26e9e4780a934cfca06281f845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1326641837,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326641837,
+    "wof:lastmodified":1536824978,
+    "wof:name":"Los Riecitos",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.09784,
+    8.8931,
+    -64.09784,
+    8.8931
+],
+  "geometry": {"coordinates":[-64.09784000000001,8.8931],"type":"Point"}
+}

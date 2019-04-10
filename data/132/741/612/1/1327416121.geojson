@@ -1,0 +1,67 @@
+{
+  "id": 1327416121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.7587,10.02889,-66.7587,10.02889",
+    "geom:latitude":10.02889,
+    "geom:longitude":-66.7587,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Caramacate",
+    "gn:country_code":"VE",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742181,
+    "gn:latitude":10.02889,
+    "gn:longitude":-66.7587,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Caramacate",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742181
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8106dfb11f401d62bba9a9a3c84f3648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694243,
+            "locality_id":1327416121,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1327416121,
+    "wof:lastmodified":1536704585,
+    "wof:name":"Caramacate",
+    "wof:parent_id":1108694243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.7587,
+    10.02889,
+    -66.7587,
+    10.02889
+],
+  "geometry": {"coordinates":[-66.7587,10.02889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326707691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.35214,10.76968,-69.35214,10.76968",
+    "geom:latitude":10.76968,
+    "geom:longitude":-69.35214,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cambulloncito",
+    "gn:country_code":"VE",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755462,
+    "gn:latitude":10.76968,
+    "gn:longitude":-69.35214,
+    "gn:modification_date":"1996-10-09",
+    "gn:name":"Cambulloncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755462
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d54b53c4a1dea28b828eaf12eabbd92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1326707691,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1326707691,
+    "wof:lastmodified":1536731458,
+    "wof:name":"Cambulloncito",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.35214,
+    10.76968,
+    -69.35214,
+    10.76968
+],
+  "geometry": {"coordinates":[-69.35214000000001,10.76968],"type":"Point"}
+}

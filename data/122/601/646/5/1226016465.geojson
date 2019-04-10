@@ -1,0 +1,73 @@
+{
+  "id": 1226016465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.73333,8.98333,-62.73333,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":-62.73333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Temblador",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626352,
+    "gn:latitude":8.98333,
+    "gn:longitude":-62.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Temblador",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Temblador",
+        "Morichal Temblador",
+        "Temblador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626352
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"04f0e5cad3fb68f0f15194216ddf4321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694255,
+            "locality_id":1226016465,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1226016465,
+    "wof:lastmodified":1537713511,
+    "wof:name":"Temblador",
+    "wof:parent_id":1108694255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.73333,
+    8.98333,
+    -62.73333,
+    8.98333
+],
+  "geometry": {"coordinates":[-62.73333,8.98333],"type":"Point"}
+}

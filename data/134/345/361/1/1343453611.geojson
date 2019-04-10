@@ -1,0 +1,72 @@
+{
+  "id": 1343453611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.8,8.3,-69.8,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-69.8,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Morrocoy",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642498,
+    "gn:latitude":8.3,
+    "gn:longitude":-69.8,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"El Morrocoy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morrocoy",
+        "El Morrocoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642498
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06c8ac02b42cab054a917ab5952b52e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1343453611,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343453611,
+    "wof:lastmodified":1537713598,
+    "wof:name":"El Morrocoy",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.8,
+    8.3,
+    -69.8,
+    8.3
+],
+  "geometry": {"coordinates":[-69.8,8.3],"type":"Point"}
+}

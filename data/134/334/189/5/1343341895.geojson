@@ -1,0 +1,67 @@
+{
+  "id": 1343341895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45154,11.49138,-69.45154,11.49138",
+    "geom:latitude":11.49138,
+    "geom:longitude":-69.45154,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Puente de Piedra",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629736,
+    "gn:latitude":11.49138,
+    "gn:longitude":-69.45154,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Puente de Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"10362393d10b99c119a86f838b9b7f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1343341895,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343341895,
+    "wof:lastmodified":1536918004,
+    "wof:name":"Puente de Piedra",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45154000000001,
+    11.49138,
+    -69.45154000000001,
+    11.49138
+],
+  "geometry": {"coordinates":[-69.45154000000001,11.49138],"type":"Point"}
+}

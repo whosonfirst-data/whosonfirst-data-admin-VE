@@ -1,0 +1,67 @@
+{
+  "id": 1276969255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23465,9.63202,-68.23465,9.63202",
+    "geom:latitude":9.63202,
+    "geom:longitude":-68.23465,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Perla",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799352,
+    "gn:latitude":9.63202,
+    "gn:longitude":-68.23465,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Perla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799352
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80be43d9978dd6d0b9f06589d32d8ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694451,
+            "locality_id":1276969255,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1276969255,
+    "wof:lastmodified":1536922180,
+    "wof:name":"La Perla",
+    "wof:parent_id":1108694451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23465,
+    9.63202,
+    -68.23465,
+    9.63202
+],
+  "geometry": {"coordinates":[-68.23465,9.63202],"type":"Point"}
+}

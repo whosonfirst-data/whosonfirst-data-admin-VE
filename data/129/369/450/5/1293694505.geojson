@@ -1,0 +1,67 @@
+{
+  "id": 1293694505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17741,9.81299,-65.17741,9.81299",
+    "geom:latitude":9.81299,
+    "geom:longitude":-65.17741,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bajos del Mono",
+    "gn:country_code":"VE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486170,
+    "gn:latitude":9.81299,
+    "gn:longitude":-65.17741,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Bajos del Mono",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486170
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f171cfd85346a56684d5e6f4e3c41d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1293694505,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293694505,
+    "wof:lastmodified":1536985031,
+    "wof:name":"Bajos del Mono",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17741,
+    9.81299,
+    -65.17741,
+    9.81299
+],
+  "geometry": {"coordinates":[-65.17740999999999,9.81299],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209902753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.39386,7.84476,-66.39386,7.84476",
+    "geom:latitude":7.84476,
+    "geom:longitude":-66.39386,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rubio",
+    "gn:country_code":"VE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3774069,
+    "gn:latitude":7.84476,
+    "gn:longitude":-66.39386,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Rubio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3774069
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6534010f262ef6345bfff08cd2df8d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1209902753,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1209902753,
+    "wof:lastmodified":1536385690,
+    "wof:name":"Rubio",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.39386,
+    7.84476,
+    -66.39386,
+    7.84476
+],
+  "geometry": {"coordinates":[-66.39386,7.84476],"type":"Point"}
+}

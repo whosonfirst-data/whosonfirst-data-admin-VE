@@ -1,0 +1,67 @@
+{
+  "id": 1276945863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10704,10.45276,-72.10704,10.45276",
+    "geom:latitude":10.45276,
+    "geom:longitude":-72.10704,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Santa Rosalia",
+    "gn:country_code":"VE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627069,
+    "gn:latitude":10.45276,
+    "gn:longitude":-72.10704,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Santa Rosal\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627069
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c63929c8e17a97453543b1deb5413fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1276945863,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276945863,
+    "wof:lastmodified":1536953064,
+    "wof:name":"Santa Rosalia",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10704,
+    10.45276,
+    -72.10704,
+    10.45276
+],
+  "geometry": {"coordinates":[-72.10704,10.45276],"type":"Point"}
+}

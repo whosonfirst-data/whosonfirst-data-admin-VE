@@ -1,0 +1,67 @@
+{
+  "id": 1293668583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,9.76667,-67.35,9.76667",
+    "geom:latitude":9.76667,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mata",
+    "gn:country_code":"VE",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632822,
+    "gn:latitude":9.76667,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632822
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"72ae1b1b1f2e560b3a474147bc89fb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694381,
+            "locality_id":1293668583,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293668583,
+    "wof:lastmodified":1537022263,
+    "wof:name":"Mata",
+    "wof:parent_id":1108694381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    9.76667,
+    -67.35,
+    9.76667
+],
+  "geometry": {"coordinates":[-67.34999999999999,9.76667],"type":"Point"}
+}

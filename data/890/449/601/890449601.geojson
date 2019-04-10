@@ -1,0 +1,103 @@
+{
+  "id": 890449601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.698657,10.196676,-64.698657,10.196676",
+    "geom:latitude":10.196676,
+    "geom:longitude":-64.698657,
+    "gn:country":"VE",
+    "gp:adm0":23424982,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arg_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "name:cat_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "name:chi_x_preferred":[
+        "\u840a\u5207\u91cc\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "name:glg_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Lecheria"
+    ],
+    "name:pol_x_preferred":[
+        "Lecher\u00edas"
+    ],
+    "name:por_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0447\u0435\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Lecher\u00eda"
+    ],
+    "qs:name":"Lecheria",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":869,
+    "qs:photos_1k":176,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":869,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":420107,
+        "qs:id":1076156,
+        "wd:id":"Q592609"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052699,
+    "wof:geomhash":"ab214ba23400bf7469a5ea3768fafe99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "locality_id":890449601,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":890449601,
+    "wof:lastmodified":1514502360,
+    "wof:name":"Lecheria",
+    "wof:parent_id":85680521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.698657,
+    10.196676,
+    -64.698657,
+    10.196676
+],
+  "geometry": {"coordinates":[-64.698657,10.196676],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242957817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83376,9.67391,-68.83376,9.67391",
+    "geom:latitude":9.67391,
+    "geom:longitude":-68.83376,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Marinero",
+    "gn:country_code":"VE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799986,
+    "gn:latitude":9.67391,
+    "gn:longitude":-68.83376,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Marinero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799986
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e7174d30fe00714d952e4544b263942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694089,
+            "locality_id":1242957817,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1242957817,
+    "wof:lastmodified":1537012363,
+    "wof:name":"Marinero",
+    "wof:parent_id":1108694089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83376,
+    9.67391,
+    -68.83376,
+    9.67391
+],
+  "geometry": {"coordinates":[-68.83376,9.67391],"type":"Point"}
+}

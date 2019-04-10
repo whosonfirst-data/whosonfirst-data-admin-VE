@@ -1,0 +1,67 @@
+{
+  "id": 1243045203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.02107,10.94596,-71.02107,10.94596",
+    "geom:latitude":10.94596,
+    "geom:longitude":-71.02107,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Antonio",
+    "gn:country_code":"VE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3785522,
+    "gn:latitude":10.94596,
+    "gn:longitude":-71.02107,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785522
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"af3e4af1395e67a01eb83a3879d7923b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1243045203,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1243045203,
+    "wof:lastmodified":1536886548,
+    "wof:name":"Antonio",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.02107,
+    10.94596,
+    -71.02107,
+    10.94596
+],
+  "geometry": {"coordinates":[-71.02106999999999,10.94596],"type":"Point"}
+}

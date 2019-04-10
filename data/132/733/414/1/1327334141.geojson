@@ -1,0 +1,72 @@
+{
+  "id": 1327334141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.70497,7.6866,-69.70497,7.6866",
+    "geom:latitude":7.6866,
+    "geom:longitude":-69.70497,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Morrocoy",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631853,
+    "gn:latitude":7.6866,
+    "gn:longitude":-69.70497,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Morrocoy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morocay",
+        "Morrocay",
+        "Morrocoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631853
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8c405bec58a6b6bde72dcf1d0d9cec15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1327334141,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1327334141,
+    "wof:lastmodified":1537713537,
+    "wof:name":"Morrocoy",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.70496999999999,
+    7.6866,
+    -69.70496999999999,
+    7.6866
+],
+  "geometry": {"coordinates":[-69.70496999999999,7.6866],"type":"Point"}
+}

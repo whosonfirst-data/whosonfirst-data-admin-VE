@@ -1,0 +1,67 @@
+{
+  "id": 1243520075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.70033,8.99255,-69.70033,8.99255",
+    "geom:latitude":8.99255,
+    "geom:longitude":-69.70033,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Iguesito",
+    "gn:country_code":"VE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639402,
+    "gn:latitude":8.99255,
+    "gn:longitude":-69.70033,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Ig\u00fcesito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421189087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639402
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4a758c7bc3e4c553a7e0c954c9bd9b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189087,
+            "locality_id":1243520075,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1243520075,
+    "wof:lastmodified":1536699774,
+    "wof:name":"Iguesito",
+    "wof:parent_id":421189087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.70033000000001,
+    8.99255,
+    -69.70033000000001,
+    8.99255
+],
+  "geometry": {"coordinates":[-69.70033000000001,8.99255],"type":"Point"}
+}

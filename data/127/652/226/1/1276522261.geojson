@@ -1,0 +1,67 @@
+{
+  "id": 1276522261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.39925,10.6126,-62.39925,10.6126",
+    "geom:latitude":10.6126,
+    "geom:longitude":-62.39925,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rio Bautista",
+    "gn:country_code":"VE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796607,
+    "gn:latitude":10.6126,
+    "gn:longitude":-62.39925,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"R\u00edo Bautista",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796607
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5974cf402840c04f802ddc237a9e5ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694473,
+            "locality_id":1276522261,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276522261,
+    "wof:lastmodified":1537021931,
+    "wof:name":"Rio Bautista",
+    "wof:parent_id":1108694473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.39925,
+    10.6126,
+    -62.39925,
+    10.6126
+],
+  "geometry": {"coordinates":[-62.39925,10.6126],"type":"Point"}
+}

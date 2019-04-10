@@ -1,0 +1,71 @@
+{
+  "id": 1226008487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.92354,9.9145,-62.92354,9.9145",
+    "geom:latitude":9.9145,
+    "geom:longitude":-62.92354,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cano Colorado",
+    "gn:country_code":"VE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646982,
+    "gn:latitude":9.9145,
+    "gn:longitude":-62.92354,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ca\u00f1o Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vivero Forestal Guarapiche (MARNR)",
+        "Ca\u00f1o Colorado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646982
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8bae9486e02113d86670c6043f428626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1226008487,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1226008487,
+    "wof:lastmodified":1537713624,
+    "wof:name":"Cano Colorado",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.92354,
+    9.9145,
+    -62.92354,
+    9.9145
+],
+  "geometry": {"coordinates":[-62.92354,9.9145],"type":"Point"}
+}

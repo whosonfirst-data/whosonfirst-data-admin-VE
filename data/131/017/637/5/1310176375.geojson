@@ -1,0 +1,67 @@
+{
+  "id": 1310176375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.165,10.05639,-69.165,10.05639",
+    "geom:latitude":10.05639,
+    "geom:longitude":-69.165,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Agua Negra",
+    "gn:country_code":"VE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746930,
+    "gn:latitude":10.05639,
+    "gn:longitude":-69.165,
+    "gn:modification_date":"1996-04-24",
+    "gn:name":"Agua Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421185263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746930
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bc44b8d303a08c7759176271c449a196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185263,
+            "locality_id":1310176375,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1310176375,
+    "wof:lastmodified":1536894178,
+    "wof:name":"Agua Negra",
+    "wof:parent_id":421185263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.165,
+    10.05639,
+    -69.165,
+    10.05639
+],
+  "geometry": {"coordinates":[-69.16500000000001,10.05639],"type":"Point"}
+}

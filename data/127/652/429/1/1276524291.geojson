@@ -1,0 +1,67 @@
+{
+  "id": 1276524291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.95182,9.14051,-65.95182,9.14051",
+    "geom:latitude":9.14051,
+    "geom:longitude":-65.95182,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"VE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627741,
+    "gn:latitude":9.14051,
+    "gn:longitude":-65.95182,
+    "gn:modification_date":"2002-01-31",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627741
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8a179cff12e17919b370f32364a74934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1276524291,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276524291,
+    "wof:lastmodified":1537019342,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.95182,
+    9.14051,
+    -65.95182,
+    9.14051
+],
+  "geometry": {"coordinates":[-65.95182,9.14051],"type":"Point"}
+}

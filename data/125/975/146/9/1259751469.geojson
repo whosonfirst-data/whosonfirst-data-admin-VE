@@ -1,0 +1,67 @@
+{
+  "id": 1259751469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.30713,9.03153,-72.30713,9.03153",
+    "geom:latitude":9.03153,
+    "geom:longitude":-72.30713,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Vuelta del Cojo",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3752813,
+    "gn:latitude":9.03153,
+    "gn:longitude":-72.30713,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"Vuelta del Cojo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3752813
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e93dbc6082619644b652d456cf321f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694153,
+            "locality_id":1259751469,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1259751469,
+    "wof:lastmodified":1536969083,
+    "wof:name":"Vuelta del Cojo",
+    "wof:parent_id":1108694153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.30713,
+    9.03153,
+    -72.30713,
+    9.03153
+],
+  "geometry": {"coordinates":[-72.30713,9.03153],"type":"Point"}
+}

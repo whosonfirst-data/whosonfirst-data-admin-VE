@@ -1,0 +1,61 @@
+{
+  "id": 1209127567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25056,7.23222,-61.25056,7.23222",
+    "geom:latitude":7.23222,
+    "geom:longitude":-61.25056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Botamano de Abbati",
+    "gn:country_code":"VE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807209,
+    "gn:latitude":7.23222,
+    "gn:longitude":-61.25056,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Botamano de Abbati",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807209
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae42628b13ae66046790ef876f6dd255",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209127567
+        }
+    ],
+    "wof:id":1209127567,
+    "wof:lastmodified":1536296909,
+    "wof:name":"Botamano de Abbati",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25056,
+    7.23222,
+    -61.25056,
+    7.23222
+],
+  "geometry": {"coordinates":[-61.25056,7.23222],"type":"Point"}
+}

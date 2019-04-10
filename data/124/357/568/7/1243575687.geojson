@@ -1,0 +1,67 @@
+{
+  "id": 1243575687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.79353,7.78287,-63.79353,7.78287",
+    "geom:latitude":7.78287,
+    "geom:longitude":-63.79353,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Casupal",
+    "gn:country_code":"VE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807536,
+    "gn:latitude":7.78287,
+    "gn:longitude":-63.79353,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Casupal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807536
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c03f678019f79261270349b196aa756e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1243575687,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1243575687,
+    "wof:lastmodified":1536617148,
+    "wof:name":"Casupal",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.79353,
+    7.78287,
+    -63.79353,
+    7.78287
+],
+  "geometry": {"coordinates":[-63.79353,7.78287],"type":"Point"}
+}

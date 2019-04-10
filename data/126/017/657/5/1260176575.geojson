@@ -1,0 +1,73 @@
+{
+  "id": 1260176575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.23333,7.66667,-65.23333,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":-65.23333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Palambra",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631115,
+    "gn:latitude":7.66667,
+    "gn:longitude":-65.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palambra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palambre",
+        "Palamora",
+        "Palambra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631115
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b101280235df6593f152f47e4da6634f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1260176575,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1260176575,
+    "wof:lastmodified":1537713533,
+    "wof:name":"Palambra",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.23333000000001,
+    7.66667,
+    -65.23333000000001,
+    7.66667
+],
+  "geometry": {"coordinates":[-65.23333000000001,7.66667],"type":"Point"}
+}

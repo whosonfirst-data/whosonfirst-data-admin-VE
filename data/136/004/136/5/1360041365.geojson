@@ -1,0 +1,67 @@
+{
+  "id": 1360041365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31667,10.2,-71.31667,10.2",
+    "geom:latitude":10.2,
+    "geom:longitude":-71.31667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"San Matias",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627962,
+    "gn:latitude":10.2,
+    "gn:longitude":-71.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Mat\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627962
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"51d331ac0aa705710b1bc64ce857a264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694239,
+            "locality_id":1360041365,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1360041365,
+    "wof:lastmodified":1537008150,
+    "wof:name":"San Matias",
+    "wof:parent_id":1108694239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31667,
+    10.2,
+    -71.31667,
+    10.2
+],
+  "geometry": {"coordinates":[-71.31667,10.2],"type":"Point"}
+}

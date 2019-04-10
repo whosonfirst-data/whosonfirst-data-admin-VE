@@ -1,0 +1,67 @@
+{
+  "id": 1310676285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.06536,9.58884,-69.06536,9.58884",
+    "geom:latitude":9.58884,
+    "geom:longitude":-69.06536,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"La Palma",
+    "gn:country_code":"VE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746660,
+    "gn:latitude":9.58884,
+    "gn:longitude":-69.06536,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"La Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746660
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"929a2792c636d02dafbfbdf4776f189f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694063,
+            "locality_id":1310676285,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1310676285,
+    "wof:lastmodified":1536670559,
+    "wof:name":"La Palma",
+    "wof:parent_id":1108694063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.06536,
+    9.58884,
+    -69.06536,
+    9.58884
+],
+  "geometry": {"coordinates":[-69.06536,9.58884],"type":"Point"}
+}

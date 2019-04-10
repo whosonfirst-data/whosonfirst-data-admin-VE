@@ -1,0 +1,67 @@
+{
+  "id": 1310191115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25156,10.21434,-69.25156,10.21434",
+    "geom:latitude":10.21434,
+    "geom:longitude":-69.25156,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Valle Hondo",
+    "gn:country_code":"VE",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746911,
+    "gn:latitude":10.21434,
+    "gn:longitude":-69.25156,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Valle Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746911
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9be2aa8b8a2371bd12a68d78ab318d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1310191115,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1310191115,
+    "wof:lastmodified":1536872010,
+    "wof:name":"Valle Hondo",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25156,
+    10.21434,
+    -69.25156,
+    10.21434
+],
+  "geometry": {"coordinates":[-69.25156,10.21434],"type":"Point"}
+}

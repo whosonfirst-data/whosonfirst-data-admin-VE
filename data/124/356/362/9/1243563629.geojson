@@ -1,0 +1,67 @@
+{
+  "id": 1243563629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.88708,1.65197,-64.88708,1.65197",
+    "geom:latitude":1.65197,
+    "geom:longitude":-64.88708,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Conamateri",
+    "gn:country_code":"VE",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458391,
+    "gn:latitude":1.65197,
+    "gn:longitude":-64.88708,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Conamateri",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458391
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6a45fada49b6524f0969f6930ebb254d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1243563629,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1243563629,
+    "wof:lastmodified":1536635324,
+    "wof:name":"Conamateri",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.88708000000001,
+    1.65197,
+    -64.88708000000001,
+    1.65197
+],
+  "geometry": {"coordinates":[-64.88708000000001,1.65197],"type":"Point"}
+}

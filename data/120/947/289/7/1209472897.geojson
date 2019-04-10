@@ -1,0 +1,66 @@
+{
+  "id": 1209472897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.23333,10.06667,-71.23333,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":-71.23333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Los Ahorcados",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634613,
+    "gn:latitude":10.06667,
+    "gn:longitude":-71.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Ahorcados",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahorcados",
+        "Los Ahorcados"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634613
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a8b691292f55aa000e47fd850dd79c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209472897
+        }
+    ],
+    "wof:id":1209472897,
+    "wof:lastmodified":1537713552,
+    "wof:name":"Los Ahorcados",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.23333000000002,
+    10.06667,
+    -71.23333000000002,
+    10.06667
+],
+  "geometry": {"coordinates":[-71.23333000000002,10.06667],"type":"Point"}
+}

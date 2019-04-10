@@ -1,0 +1,67 @@
+{
+  "id": 1292956719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.93333,9.66667,-70.93333,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":-70.93333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Cano Caracas",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646985,
+    "gn:latitude":9.66667,
+    "gn:longitude":-70.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ca\u00f1o Caracas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646985
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"57cae4d76d378017f502556da6581d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694109,
+            "locality_id":1292956719,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1292956719,
+    "wof:lastmodified":1537053014,
+    "wof:name":"Cano Caracas",
+    "wof:parent_id":1108694109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93333,
+    9.66667,
+    -70.93333,
+    9.66667
+],
+  "geometry": {"coordinates":[-70.93333,9.66667],"type":"Point"}
+}

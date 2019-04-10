@@ -1,0 +1,67 @@
+{
+  "id": 1260061423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.52902,9.84245,-63.52902,9.84245",
+    "geom:latitude":9.84245,
+    "geom:longitude":-63.52902,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tornillal",
+    "gn:country_code":"VE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626103,
+    "gn:latitude":9.84245,
+    "gn:longitude":-63.52902,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Tornillal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626103
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b595a82c471aa556e1fd0a273273a529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1260061423,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1260061423,
+    "wof:lastmodified":1537019022,
+    "wof:name":"Tornillal",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.52902,
+    9.84245,
+    -63.52902,
+    9.84245
+],
+  "geometry": {"coordinates":[-63.52902,9.84245],"type":"Point"}
+}

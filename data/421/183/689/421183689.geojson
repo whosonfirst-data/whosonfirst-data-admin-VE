@@ -1,0 +1,79 @@
+{
+  "id": 421183689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.19355,11.75054,-70.19355,11.75054",
+    "geom:latitude":11.75054,
+    "geom:longitude":-70.19355,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Judivana"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3639086,
+    "qs:gn_pop":0,
+    "qs:name":"Judibana",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Falcon",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982709,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395299,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890442023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639086,
+        "gp:id":395299,
+        "qs:id":982709
+    },
+    "wof:country":"VE",
+    "wof:created":1459009378,
+    "wof:geomhash":"be0351174e5730f65ad244b2d364cada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890442023,
+            "locality_id":421183689,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":421183689,
+    "wof:lastmodified":1501268329,
+    "wof:name":"Judibana",
+    "wof:parent_id":890442023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.19355,
+    11.75054,
+    -70.19355,
+    11.75054
+],
+  "geometry": {"coordinates":[-70.19355,11.75054],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 421173829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07594,8.46073,-71.07594,8.46073",
+    "geom:latitude":8.46073,
+    "geom:longitude":-71.07594,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Los Nevados"
+    ],
+    "name:por_x_preferred":[
+        "Los Nevados"
+    ],
+    "name:spa_x_preferred":[
+        "Los Nevados"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3633854,
+    "qs:gn_pop":0,
+    "qs:name":"Los Nevados",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":300471,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":390650,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633854,
+        "gp:id":390650,
+        "qs:id":300471
+    },
+    "wof:country":"VE",
+    "wof:created":1459009007,
+    "wof:geomhash":"49a2375347ceff090896a9c7f8cf51dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":421173829,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421173829,
+    "wof:lastmodified":1501268327,
+    "wof:name":"Los Nevados",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07594,
+    8.46073,
+    -71.07594,
+    8.46073
+],
+  "geometry": {"coordinates":[-71.07594,8.46073],"type":"Point"}
+}

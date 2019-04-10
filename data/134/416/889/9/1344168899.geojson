@@ -1,0 +1,72 @@
+{
+  "id": 1344168899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.23738,7.84434,-65.23738,7.84434",
+    "geom:latitude":7.84434,
+    "geom:longitude":-65.23738,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Arbolito",
+    "gn:country_code":"VE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644271,
+    "gn:latitude":7.84434,
+    "gn:longitude":-65.23738,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Arbolito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arbolito",
+        "Arbolitas",
+        "El Arbolito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644271
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87ff5977ec23a8bc1e1927e114215477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1344168899,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344168899,
+    "wof:lastmodified":1537713611,
+    "wof:name":"El Arbolito",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.23738,
+    7.84434,
+    -65.23738,
+    7.84434
+],
+  "geometry": {"coordinates":[-65.23738,7.84434],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327315155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.75,9.68333,-63.75,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":-63.75,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Punta Gorda",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629594,
+    "gn:latitude":9.68333,
+    "gn:longitude":-63.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Punta Gorda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punta Gorda Abajo",
+        "Punta Gorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629594
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a396119f3cc3dd70d697dbb3807dc0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1327315155,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1327315155,
+    "wof:lastmodified":1537713525,
+    "wof:name":"Punta Gorda",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.75,
+    9.68333,
+    -63.75,
+    9.68333
+],
+  "geometry": {"coordinates":[-63.75,9.68333],"type":"Point"}
+}

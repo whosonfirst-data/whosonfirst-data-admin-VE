@@ -1,0 +1,120 @@
+{
+  "id": 421204803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98333,10.53333,-66.98333,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":-66.98333,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Cagua"
+    ],
+    "name:epo_x_preferred":[
+        "Cagua"
+    ],
+    "name:fra_x_preferred":[
+        "Cagua"
+    ],
+    "name:ita_x_preferred":[
+        "Cagua"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d2\u10e3\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Kagva"
+    ],
+    "name:pol_x_preferred":[
+        "Cagua"
+    ],
+    "name:por_x_preferred":[
+        "Cagua"
+    ],
+    "name:spa_x_preferred":[
+        "Cagua"
+    ],
+    "name:swe_x_preferred":[
+        "Cagua"
+    ],
+    "name:unk_x_variant":[
+        "Boca de Tacagua"
+    ],
+    "name:vol_x_preferred":[
+        "Cagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u74dc"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3626582,
+    "qs:gn_pop":0,
+    "qs:name":"Cagua",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":108,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":108,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":249033,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395274,
+    "src:geom":"quattroshapes",
+    "wd:elevation":458.0,
+    "wd:latitude":10.183056,
+    "wd:longitude":-67.45,
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680535,
+        421202591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626582,
+        "gp:id":395274,
+        "qs:id":249033,
+        "wd:id":"Q979808"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010198,
+    "wof:geomhash":"9bfe0f8f3999f07d78ba7e8d84f2f6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202591,
+            "locality_id":421204803,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":421204803,
+    "wof:lastmodified":1527716181,
+    "wof:name":"Cagua",
+    "wof:parent_id":421202591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98333,
+    10.53333,
+    -66.98333,
+    10.53333
+],
+  "geometry": {"coordinates":[-66.98333,10.53333],"type":"Point"}
+}

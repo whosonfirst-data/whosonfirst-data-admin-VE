@@ -1,0 +1,73 @@
+{
+  "id": 1225942397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87382,8.14366,-70.87382,8.14366",
+    "geom:latitude":8.14366,
+    "geom:longitude":-70.87382,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Macagual",
+    "gn:country_code":"VE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633534,
+    "gn:latitude":8.14366,
+    "gn:longitude":-70.87382,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macagual",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mijagual",
+        "Mucugu",
+        "Mucugual",
+        "Macagual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421171647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633534
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"70d31192475f0f4292780bc659c90ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171647,
+            "locality_id":1225942397,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1225942397,
+    "wof:lastmodified":1537713545,
+    "wof:name":"Macagual",
+    "wof:parent_id":421171647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87382,
+    8.14366,
+    -70.87382,
+    8.14366
+],
+  "geometry": {"coordinates":[-70.87381999999999,8.14366],"type":"Point"}
+}

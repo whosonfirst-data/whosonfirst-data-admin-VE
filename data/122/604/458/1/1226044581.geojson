@@ -1,0 +1,67 @@
+{
+  "id": 1226044581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95707,8.55392,-63.95707,8.55392",
+    "geom:latitude":8.55392,
+    "geom:longitude":-63.95707,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mata Azul",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485068,
+    "gn:latitude":8.55392,
+    "gn:longitude":-63.95707,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Mata Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485068
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3516e4d604e57fdcfa85d00d633cf75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1226044581,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226044581,
+    "wof:lastmodified":1536727221,
+    "wof:name":"Mata Azul",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95707,
+    8.55392,
+    -63.95707,
+    8.55392
+],
+  "geometry": {"coordinates":[-63.95707,8.55392],"type":"Point"}
+}

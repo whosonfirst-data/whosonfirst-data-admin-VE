@@ -1,0 +1,72 @@
+{
+  "id": 1309786147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63333,11.31667,-68.63333,11.31667",
+    "geom:latitude":11.31667,
+    "geom:longitude":-68.63333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Maracara",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633001,
+    "gn:latitude":11.31667,
+    "gn:longitude":-68.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maracara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malacara",
+        "Maracara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421185127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633001
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ba4d10f28194512b404e89a99a4065cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185127,
+            "locality_id":1309786147,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309786147,
+    "wof:lastmodified":1537713542,
+    "wof:name":"Maracara",
+    "wof:parent_id":421185127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63333,
+    11.31667,
+    -68.63333,
+    11.31667
+],
+  "geometry": {"coordinates":[-68.63333,11.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242758111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17609,11.30663,-70.17609,11.30663",
+    "geom:latitude":11.30663,
+    "geom:longitude":-70.17609,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Gregorio",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628341,
+    "gn:latitude":11.30663,
+    "gn:longitude":-70.17609,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Gregorio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gregorio",
+        "San Gregorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628341
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb62b2aee05fab42a2ff08f56e6d0317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1242758111,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1242758111,
+    "wof:lastmodified":1537713520,
+    "wof:name":"San Gregorio",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17609,
+    11.30663,
+    -70.17609,
+    11.30663
+],
+  "geometry": {"coordinates":[-70.17609,11.30663],"type":"Point"}
+}

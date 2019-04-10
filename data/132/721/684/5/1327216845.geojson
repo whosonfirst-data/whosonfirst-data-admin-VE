@@ -1,0 +1,67 @@
+{
+  "id": 1327216845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.49167,8.5075,-71.49167,8.5075",
+    "geom:latitude":8.5075,
+    "geom:longitude":-71.49167,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Verde",
+    "gn:country_code":"VE",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641112,
+    "gn:latitude":8.5075,
+    "gn:longitude":-71.49167,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"El Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641112
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ac291f3ea56f18c54841b87d8679b2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":1327216845,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1327216845,
+    "wof:lastmodified":1536991299,
+    "wof:name":"El Verde",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.49167,
+    8.5075,
+    -71.49167,
+    8.5075
+],
+  "geometry": {"coordinates":[-71.49167,8.5075],"type":"Point"}
+}

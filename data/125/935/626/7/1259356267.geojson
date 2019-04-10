@@ -1,0 +1,67 @@
+{
+  "id": 1259356267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14614,8.47106,-71.14614,8.47106",
+    "geom:latitude":8.47106,
+    "geom:longitude":-71.14614,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Banco",
+    "gn:country_code":"VE",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753694,
+    "gn:latitude":8.47106,
+    "gn:longitude":-71.14614,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Banco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753694
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87c77b7182c6156ea77fcc2de0f13f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":1259356267,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1259356267,
+    "wof:lastmodified":1537039831,
+    "wof:name":"El Banco",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14614,
+    8.47106,
+    -71.14614,
+    8.47106
+],
+  "geometry": {"coordinates":[-71.14614,8.47106],"type":"Point"}
+}

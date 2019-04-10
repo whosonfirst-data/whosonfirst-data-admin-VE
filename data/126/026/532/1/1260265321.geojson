@@ -1,0 +1,67 @@
+{
+  "id": 1260265321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.08333,10.25,-66.08333,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-66.08333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Carmelita",
+    "gn:country_code":"VE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638634,
+    "gn:latitude":10.25,
+    "gn:longitude":-66.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Carmelita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638634
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a84f556a1d825215f12ffe00b642f0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694069,
+            "locality_id":1260265321,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1260265321,
+    "wof:lastmodified":1536736347,
+    "wof:name":"La Carmelita",
+    "wof:parent_id":1108694069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.08333,
+    10.25,
+    -66.08333,
+    10.25
+],
+  "geometry": {"coordinates":[-66.08333,10.25],"type":"Point"}
+}

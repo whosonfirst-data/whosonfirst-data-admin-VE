@@ -1,0 +1,67 @@
+{
+  "id": 1260357727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44004,10.77321,-71.44004,10.77321",
+    "geom:latitude":10.77321,
+    "geom:longitude":-71.44004,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"La Bajadita",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3788124,
+    "gn:latitude":10.77321,
+    "gn:longitude":-71.44004,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Bajadita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788124
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d11ec1932f4e6f2e2f1d55ddaa7184e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694193,
+            "locality_id":1260357727,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1260357727,
+    "wof:lastmodified":1536609899,
+    "wof:name":"La Bajadita",
+    "wof:parent_id":1108694193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44004,
+    10.77321,
+    -71.44004,
+    10.77321
+],
+  "geometry": {"coordinates":[-71.44004,10.77321],"type":"Point"}
+}

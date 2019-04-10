@@ -1,0 +1,61 @@
+{
+  "id": 1209322351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.51388,9.96902,-65.51388,9.96902",
+    "geom:latitude":9.96902,
+    "geom:longitude":-65.51388,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Mercedes",
+    "gn:country_code":"VE",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635709,
+    "gn:latitude":9.96902,
+    "gn:longitude":-65.51388,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635709
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2a37faa85105b218e65ef7b8aca88dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209322351
+        }
+    ],
+    "wof:id":1209322351,
+    "wof:lastmodified":1536290649,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.51388,
+    9.96902,
+    -65.51388,
+    9.96902
+],
+  "geometry": {"coordinates":[-65.51388,9.96902],"type":"Point"}
+}

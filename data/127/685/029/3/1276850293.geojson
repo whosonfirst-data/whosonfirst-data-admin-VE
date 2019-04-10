@@ -1,0 +1,67 @@
+{
+  "id": 1276850293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.77501,9.89815,-67.77501,9.89815",
+    "geom:latitude":9.89815,
+    "geom:longitude":-67.77501,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Barrialito",
+    "gn:country_code":"VE",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648471,
+    "gn:latitude":9.89815,
+    "gn:longitude":-67.77501,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Barrialito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648471
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a0c33fa7f7d31e9294765af7170d83d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1276850293,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276850293,
+    "wof:lastmodified":1537077667,
+    "wof:name":"Barrialito",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.77501,
+    9.89815,
+    -67.77501,
+    9.89815
+],
+  "geometry": {"coordinates":[-67.77500999999999,9.89815],"type":"Point"}
+}

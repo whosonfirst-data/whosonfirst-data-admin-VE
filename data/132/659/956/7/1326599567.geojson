@@ -1,0 +1,67 @@
+{
+  "id": 1326599567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.65881,10.53516,-66.65881,10.53516",
+    "geom:latitude":10.53516,
+    "geom:longitude":-66.65881,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"El Bebedero",
+    "gn:country_code":"VE",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803407,
+    "gn:latitude":10.53516,
+    "gn:longitude":-66.65881,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"El Bebedero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421189081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803407
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1a319b468a23430110acdab16b39b64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189081,
+            "locality_id":1326599567,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1326599567,
+    "wof:lastmodified":1536886578,
+    "wof:name":"El Bebedero",
+    "wof:parent_id":421189081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.65881,
+    10.53516,
+    -66.65881,
+    10.53516
+],
+  "geometry": {"coordinates":[-66.65881,10.53516],"type":"Point"}
+}

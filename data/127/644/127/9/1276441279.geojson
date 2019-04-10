@@ -1,0 +1,67 @@
+{
+  "id": 1276441279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.57272,10.20329,-67.57272,10.20329",
+    "geom:latitude":10.20329,
+    "geom:longitude":-67.57272,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Entrada",
+    "gn:country_code":"VE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806278,
+    "gn:latitude":10.20329,
+    "gn:longitude":-67.57272,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"La Entrada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806278
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4fc5b83d6dee56b399d08c40204c34a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694249,
+            "locality_id":1276441279,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1276441279,
+    "wof:lastmodified":1536632533,
+    "wof:name":"La Entrada",
+    "wof:parent_id":1108694249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.57271999999999,
+    10.20329,
+    -67.57271999999999,
+    10.20329
+],
+  "geometry": {"coordinates":[-67.57271999999999,10.20329],"type":"Point"}
+}

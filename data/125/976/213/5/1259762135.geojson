@@ -1,0 +1,67 @@
+{
+  "id": 1259762135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.69042,10.43368,-69.69042,10.43368",
+    "geom:latitude":10.43368,
+    "geom:longitude":-69.69042,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Pilon",
+    "gn:country_code":"VE",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750491,
+    "gn:latitude":10.43368,
+    "gn:longitude":-69.69042,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"El Pil\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750491
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"48bd134bc1877d3ba8315431c5ed401b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1259762135,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1259762135,
+    "wof:lastmodified":1536954027,
+    "wof:name":"El Pilon",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.69041999999999,
+    10.43368,
+    -69.69041999999999,
+    10.43368
+],
+  "geometry": {"coordinates":[-69.69041999999999,10.43368],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209694793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29708,10.08573,-70.29708,10.08573",
+    "geom:latitude":10.08573,
+    "geom:longitude":-70.29708,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"La Fortaleza",
+    "gn:country_code":"VE",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767570,
+    "gn:latitude":10.08573,
+    "gn:longitude":-70.29708,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"La Fortaleza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767570
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1fbe8769210c6056620be5722c4ca771",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209694793
+        }
+    ],
+    "wof:id":1209694793,
+    "wof:lastmodified":1536279113,
+    "wof:name":"La Fortaleza",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29708000000001,
+    10.08573,
+    -70.29708000000001,
+    10.08573
+],
+  "geometry": {"coordinates":[-70.29708000000001,10.08573],"type":"Point"}
+}

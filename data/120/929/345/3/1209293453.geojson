@@ -1,0 +1,61 @@
+{
+  "id": 1209293453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.73095,9.52433,-69.73095,9.52433",
+    "geom:latitude":9.52433,
+    "geom:longitude":-69.73095,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"El Caura",
+    "gn:country_code":"VE",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767308,
+    "gn:latitude":9.52433,
+    "gn:longitude":-69.73095,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"El Caura",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767308
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9127356c84c3019a3d8fbd9eb6feef2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209293453
+        }
+    ],
+    "wof:id":1209293453,
+    "wof:lastmodified":1536291613,
+    "wof:name":"El Caura",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.73095,
+    9.52433,
+    -69.73095,
+    9.52433
+],
+  "geometry": {"coordinates":[-69.73095000000001,9.52433],"type":"Point"}
+}

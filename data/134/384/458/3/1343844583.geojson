@@ -1,0 +1,67 @@
+{
+  "id": 1343844583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.37308,9.50662,-65.37308,9.50662",
+    "geom:latitude":9.50662,
+    "geom:longitude":-65.37308,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guaribito",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640034,
+    "gn:latitude":9.50662,
+    "gn:longitude":-65.37308,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Guaribito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640034
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9970a1d6694fb5cb02adedbc32966d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1343844583,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343844583,
+    "wof:lastmodified":1536689644,
+    "wof:name":"Guaribito",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.37308,
+    9.50662,
+    -65.37308,
+    9.50662
+],
+  "geometry": {"coordinates":[-65.37308,9.50662],"type":"Point"}
+}

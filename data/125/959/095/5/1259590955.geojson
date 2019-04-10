@@ -1,0 +1,67 @@
+{
+  "id": 1259590955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.65,10.0,-64.65,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-64.65,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Cerro de Piedra",
+    "gn:country_code":"VE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646023,
+    "gn:latitude":10.0,
+    "gn:longitude":-64.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cerro de Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646023
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"48ba89849becd94079ab983754853341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1259590955,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259590955,
+    "wof:lastmodified":1536704258,
+    "wof:name":"Cerro de Piedra",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.65,
+    10.0,
+    -64.65,
+    10.0
+],
+  "geometry": {"coordinates":[-64.65000000000001,10.0],"type":"Point"}
+}

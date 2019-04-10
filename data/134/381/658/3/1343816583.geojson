@@ -1,0 +1,67 @@
+{
+  "id": 1343816583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.0887,9.24542,-70.0887,9.24542",
+    "geom:latitude":9.24542,
+    "geom:longitude":-70.0887,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"La Cuchilla",
+    "gn:country_code":"VE",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741059,
+    "gn:latitude":9.24542,
+    "gn:longitude":-70.0887,
+    "gn:modification_date":"1995-08-09",
+    "gn:name":"La Cuchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421188083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741059
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0561589010867801d358e2a5a9233966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188083,
+            "locality_id":1343816583,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1343816583,
+    "wof:lastmodified":1536730434,
+    "wof:name":"La Cuchilla",
+    "wof:parent_id":421188083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.0887,
+    9.24542,
+    -70.0887,
+    9.24542
+],
+  "geometry": {"coordinates":[-70.0887,9.24542],"type":"Point"}
+}

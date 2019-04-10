@@ -1,0 +1,67 @@
+{
+  "id": 1242968915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.2,8.26667,-69.2,8.26667",
+    "geom:latitude":8.26667,
+    "geom:longitude":-69.2,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"VE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627978,
+    "gn:latitude":8.26667,
+    "gn:longitude":-69.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627978
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"38a20e5ef7b3006ff8269242d60d907f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1242968915,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1242968915,
+    "wof:lastmodified":1536996263,
+    "wof:name":"San Martin",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.2,
+    8.26667,
+    -69.2,
+    8.26667
+],
+  "geometry": {"coordinates":[-69.2,8.26667],"type":"Point"}
+}

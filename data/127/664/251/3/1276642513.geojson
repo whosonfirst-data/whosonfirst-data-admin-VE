@@ -1,0 +1,67 @@
+{
+  "id": 1276642513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.54444,9.75833,-66.54444,9.75833",
+    "geom:latitude":9.75833,
+    "geom:longitude":-66.54444,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Saman Cortado",
+    "gn:country_code":"VE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628698,
+    "gn:latitude":9.75833,
+    "gn:longitude":-66.54444,
+    "gn:modification_date":"2002-01-31",
+    "gn:name":"Sam\u00e1n Cortado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628698
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"53b9ab81cbab0297e8fb4f6da244d91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1276642513,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276642513,
+    "wof:lastmodified":1536860204,
+    "wof:name":"Saman Cortado",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.54444000000001,
+    9.75833,
+    -66.54444000000001,
+    9.75833
+],
+  "geometry": {"coordinates":[-66.54444000000001,9.75833],"type":"Point"}
+}

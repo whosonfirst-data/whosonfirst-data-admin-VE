@@ -1,0 +1,61 @@
+{
+  "id": 1209413191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26667,8.36667,-69.26667,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-69.26667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chorroquito",
+    "gn:country_code":"VE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645626,
+    "gn:latitude":8.36667,
+    "gn:longitude":-69.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chorroquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645626
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a591737659be3f53a622ba4780054df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209413191
+        }
+    ],
+    "wof:id":1209413191,
+    "wof:lastmodified":1536287772,
+    "wof:name":"Chorroquito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26666999999999,
+    8.36667,
+    -69.26666999999999,
+    8.36667
+],
+  "geometry": {"coordinates":[-69.26666999999999,8.36667],"type":"Point"}
+}

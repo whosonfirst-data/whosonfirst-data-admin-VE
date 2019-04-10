@@ -1,0 +1,67 @@
+{
+  "id": 1243541801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.77278,10.80167,-70.77278,10.80167",
+    "geom:latitude":10.80167,
+    "geom:longitude":-70.77278,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Montana de Chimare",
+    "gn:country_code":"VE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784045,
+    "gn:latitude":10.80167,
+    "gn:longitude":-70.77278,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Monta\u00f1a de Chimare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784045
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"85a73cf4c3eb04808817ac9ffc33ca3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1243541801,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1243541801,
+    "wof:lastmodified":1536668160,
+    "wof:name":"Montana de Chimare",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.77278000000003,
+    10.80167,
+    -70.77278000000003,
+    10.80167
+],
+  "geometry": {"coordinates":[-70.77278000000003,10.80167],"type":"Point"}
+}

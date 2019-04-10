@@ -1,0 +1,67 @@
+{
+  "id": 1226312639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.54518,10.03419,-65.54518,10.03419",
+    "geom:latitude":10.03419,
+    "geom:longitude":-65.54518,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Volador",
+    "gn:country_code":"VE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625291,
+    "gn:latitude":10.03419,
+    "gn:longitude":-65.54518,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Volador",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421184387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625291
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"55dd8cffbb9240a5054bf5230b98dbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184387,
+            "locality_id":1226312639,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226312639,
+    "wof:lastmodified":1536836296,
+    "wof:name":"Volador",
+    "wof:parent_id":421184387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.54518,
+    10.03419,
+    -65.54518,
+    10.03419
+],
+  "geometry": {"coordinates":[-65.54518,10.03419],"type":"Point"}
+}

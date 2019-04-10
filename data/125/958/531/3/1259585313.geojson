@@ -1,0 +1,67 @@
+{
+  "id": 1259585313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53456,9.39006,-64.53456,9.39006",
+    "geom:latitude":9.39006,
+    "geom:longitude":-64.53456,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Lajas",
+    "gn:country_code":"VE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748174,
+    "gn:latitude":9.39006,
+    "gn:longitude":-64.53456,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"Las Lajas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421175071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748174
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0f513463851a2e2320c7e5b27af01fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175071,
+            "locality_id":1259585313,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259585313,
+    "wof:lastmodified":1536712498,
+    "wof:name":"Las Lajas",
+    "wof:parent_id":421175071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53456,
+    9.39006,
+    -64.53456,
+    9.39006
+],
+  "geometry": {"coordinates":[-64.53456,9.39006],"type":"Point"}
+}

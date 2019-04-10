@@ -1,0 +1,67 @@
+{
+  "id": 1193258599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.59345,11.1611,-70.59345,11.1611",
+    "geom:latitude":11.1611,
+    "geom:longitude":-70.59345,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Turpial",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625826,
+    "gn:latitude":11.1611,
+    "gn:longitude":-70.59345,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Turpial",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625826
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8073e54cdf8227f338cacae4a2d28a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1193258599,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1193258599,
+    "wof:lastmodified":1536383325,
+    "wof:name":"Turpial",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.59345,
+    11.1611,
+    -70.59345,
+    11.1611
+],
+  "geometry": {"coordinates":[-70.59345,11.1611],"type":"Point"}
+}

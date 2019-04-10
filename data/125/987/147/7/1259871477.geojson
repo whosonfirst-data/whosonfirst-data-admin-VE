@@ -1,0 +1,72 @@
+{
+  "id": 1259871477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.98333,5.1,-60.98333,5.1",
+    "geom:latitude":5.1,
+    "geom:longitude":-60.98333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Uaru-maru",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625780,
+    "gn:latitude":5.1,
+    "gn:longitude":-60.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uaru-mar\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uaru-mer\u00fa",
+        "Uaru-mar\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625780
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4092322d6ba124b505b8e7b4f71111b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202369,
+            "locality_id":1259871477,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1259871477,
+    "wof:lastmodified":1537713509,
+    "wof:name":"Uaru-maru",
+    "wof:parent_id":421202369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.98333,
+    5.1,
+    -60.98333,
+    5.1
+],
+  "geometry": {"coordinates":[-60.98333,5.1],"type":"Point"}
+}

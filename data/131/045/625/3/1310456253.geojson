@@ -1,0 +1,67 @@
+{
+  "id": 1310456253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.9,10.55556,-66.9,10.55556",
+    "geom:latitude":10.55556,
+    "geom:longitude":-66.9,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Los Asientos",
+    "gn:country_code":"VE",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481411,
+    "gn:latitude":10.55556,
+    "gn:longitude":-66.9,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Los Asientos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481411
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3bedf7ce56344c5ba2678f1370acf145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1310456253,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1310456253,
+    "wof:lastmodified":1536987277,
+    "wof:name":"Los Asientos",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.9,
+    10.55556,
+    -66.9,
+    10.55556
+],
+  "geometry": {"coordinates":[-66.90000000000001,10.55556],"type":"Point"}
+}

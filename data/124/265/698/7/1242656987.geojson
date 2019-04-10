@@ -1,0 +1,67 @@
+{
+  "id": 1242656987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.24707,9.42191,-65.24707,9.42191",
+    "geom:latitude":9.42191,
+    "geom:longitude":-65.24707,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cuji Negro",
+    "gn:country_code":"VE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644799,
+    "gn:latitude":9.42191,
+    "gn:longitude":-65.24707,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cuj\u00ed Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644799
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9f42f289639f9c256a09ffa2a9e6726d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1242656987,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242656987,
+    "wof:lastmodified":1536949799,
+    "wof:name":"Cuji Negro",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.24707,
+    9.42191,
+    -65.24707,
+    9.42191
+],
+  "geometry": {"coordinates":[-65.24706999999999,9.42191],"type":"Point"}
+}

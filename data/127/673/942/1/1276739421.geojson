@@ -1,0 +1,67 @@
+{
+  "id": 1276739421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.05755,8.49845,-66.05755,8.49845",
+    "geom:latitude":8.49845,
+    "geom:longitude":-66.05755,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Morichalote",
+    "gn:country_code":"VE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631931,
+    "gn:latitude":8.49845,
+    "gn:longitude":-66.05755,
+    "gn:modification_date":"1999-03-04",
+    "gn:name":"Morichalote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631931
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"86349f0504e70a5fde23aa5608118a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1276739421,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276739421,
+    "wof:lastmodified":1536732024,
+    "wof:name":"Morichalote",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.05755,
+    8.49845,
+    -66.05755,
+    8.49845
+],
+  "geometry": {"coordinates":[-66.05755000000001,8.49845],"type":"Point"}
+}

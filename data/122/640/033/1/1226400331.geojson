@@ -1,0 +1,67 @@
+{
+  "id": 1226400331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.079,10.4547,-72.079,10.4547",
+    "geom:latitude":10.4547,
+    "geom:longitude":-72.079,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kilometro Cincuenta y cinco",
+    "gn:country_code":"VE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3789383,
+    "gn:latitude":10.4547,
+    "gn:longitude":-72.079,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Kil\u00f3metro Cincuenta y cinco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789383
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5c19916bf122ab7e9608ba7eaaf18850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1226400331,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226400331,
+    "wof:lastmodified":1536711353,
+    "wof:name":"Kilometro Cincuenta y cinco",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.079,
+    10.4547,
+    -72.079,
+    10.4547
+],
+  "geometry": {"coordinates":[-72.07899999999999,10.4547],"type":"Point"}
+}

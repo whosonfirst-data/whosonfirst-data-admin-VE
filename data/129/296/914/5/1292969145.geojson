@@ -1,0 +1,67 @@
+{
+  "id": 1292969145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92277,8.75885,-71.92277,8.75885",
+    "geom:latitude":8.75885,
+    "geom:longitude":-71.92277,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tunanita",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625882,
+    "gn:latitude":8.75885,
+    "gn:longitude":-71.92277,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Tunanita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625882
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7f644a8dae79b7ebd0ac2c12e23199f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1292969145,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1292969145,
+    "wof:lastmodified":1537035830,
+    "wof:name":"Tunanita",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92277,
+    8.75885,
+    -71.92277,
+    8.75885
+],
+  "geometry": {"coordinates":[-71.92277,8.75885],"type":"Point"}
+}

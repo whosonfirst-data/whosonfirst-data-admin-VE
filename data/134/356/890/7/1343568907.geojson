@@ -1,0 +1,67 @@
+{
+  "id": 1343568907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.69657,9.02394,-63.69657,9.02394",
+    "geom:latitude":9.02394,
+    "geom:longitude":-63.69657,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Golofa",
+    "gn:country_code":"VE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485444,
+    "gn:latitude":9.02394,
+    "gn:longitude":-63.69657,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"La Golofa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485444
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0f374c41255883c1abf63b38a0cffc19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1343568907,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343568907,
+    "wof:lastmodified":1537084046,
+    "wof:name":"La Golofa",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.69657,
+    9.02394,
+    -63.69657,
+    9.02394
+],
+  "geometry": {"coordinates":[-63.69657,9.02394],"type":"Point"}
+}

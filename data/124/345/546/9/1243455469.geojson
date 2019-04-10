@@ -1,0 +1,67 @@
+{
+  "id": 1243455469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84492,7.18172,-70.84492,7.18172",
+    "geom:latitude":7.18172,
+    "geom:longitude":-70.84492,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Calvario",
+    "gn:country_code":"VE",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3739021,
+    "gn:latitude":7.18172,
+    "gn:longitude":-70.84492,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Calvario",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739021
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a0b45f3c6dcf4bd0760564dab946c421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1243455469,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1243455469,
+    "wof:lastmodified":1536792795,
+    "wof:name":"El Calvario",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84492,
+    7.18172,
+    -70.84492,
+    7.18172
+],
+  "geometry": {"coordinates":[-70.84492,7.18172],"type":"Point"}
+}

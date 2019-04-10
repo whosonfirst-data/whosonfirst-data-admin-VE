@@ -1,0 +1,61 @@
+{
+  "id": 1209609843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35587,6.25422,-67.35587,6.25422",
+    "geom:latitude":6.25422,
+    "geom:longitude":-67.35587,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Carichana",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766005,
+    "gn:latitude":6.25422,
+    "gn:longitude":-67.35587,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Carichana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766005
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7675ca80f522fb09d6f2756c5bd61ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209609843
+        }
+    ],
+    "wof:id":1209609843,
+    "wof:lastmodified":1536281884,
+    "wof:name":"Carichana",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35587,
+    6.25422,
+    -67.35587,
+    6.25422
+],
+  "geometry": {"coordinates":[-67.35587,6.25422],"type":"Point"}
+}

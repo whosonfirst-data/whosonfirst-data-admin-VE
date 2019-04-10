@@ -1,0 +1,67 @@
+{
+  "id": 1293401769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.14491,9.59117,-65.14491,9.59117",
+    "geom:latitude":9.59117,
+    "geom:longitude":-65.14491,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Rondon Piedra",
+    "gn:country_code":"VE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628977,
+    "gn:latitude":9.59117,
+    "gn:longitude":-65.14491,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Rond\u00f3n Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628977
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b228f9be24966aec57810e1e85d0b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1293401769,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293401769,
+    "wof:lastmodified":1536910873,
+    "wof:name":"Rondon Piedra",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.14491,
+    9.59117,
+    -65.14491,
+    9.59117
+],
+  "geometry": {"coordinates":[-65.14491,9.59117],"type":"Point"}
+}

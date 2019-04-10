@@ -1,0 +1,79 @@
+{
+  "id": 421191431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.811737,10.9967,-63.811737,10.9967",
+    "geom:latitude":10.9967,
+    "geom:longitude":-63.811737,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Maneiro",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":830,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1137282,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805115,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421172599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805115,
+        "qs:id":1137282,
+        "qs_pg:id":1137282
+    },
+    "wof:country":"VE",
+    "wof:created":1459009692,
+    "wof:geomhash":"edf4ebb54ec644698f4332e101ac78a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172599,
+            "localadmin_id":421191431,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421191431,
+    "wof:lastmodified":1497045717,
+    "wof:name":"Maneiro",
+    "wof:parent_id":421172599,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.811737,
+    10.9967,
+    -63.811737,
+    10.9967
+],
+  "geometry": {"coordinates":[-63.811737,10.9967],"type":"Point"}
+}

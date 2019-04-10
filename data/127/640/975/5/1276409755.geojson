@@ -1,0 +1,67 @@
+{
+  "id": 1276409755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.65328,10.16419,-65.65328,10.16419",
+    "geom:latitude":10.16419,
+    "geom:longitude":-65.65328,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Guacuco",
+    "gn:country_code":"VE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643169,
+    "gn:latitude":10.16419,
+    "gn:longitude":-65.65328,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"El Guacuco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421184387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643169
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c70c21efbaba17df92cf35c1259b598f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184387,
+            "locality_id":1276409755,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1276409755,
+    "wof:lastmodified":1536676327,
+    "wof:name":"El Guacuco",
+    "wof:parent_id":421184387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.65328000000001,
+    10.16419,
+    -65.65328000000001,
+    10.16419
+],
+  "geometry": {"coordinates":[-65.65328000000001,10.16419],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276847025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.41667,9.43333,-67.41667,9.43333",
+    "geom:latitude":9.43333,
+    "geom:longitude":-67.41667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Alto Raimundo",
+    "gn:country_code":"VE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649361,
+    "gn:latitude":9.43333,
+    "gn:longitude":-67.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Alto Raimundo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649361
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6ecf1b23658efdc28038096149c671e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1276847025,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276847025,
+    "wof:lastmodified":1537081992,
+    "wof:name":"Alto Raimundo",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.41667,
+    9.43333,
+    -67.41667,
+    9.43333
+],
+  "geometry": {"coordinates":[-67.41667,9.43333],"type":"Point"}
+}

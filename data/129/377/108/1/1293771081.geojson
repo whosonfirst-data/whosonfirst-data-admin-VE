@@ -1,0 +1,67 @@
+{
+  "id": 1293771081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.51667,10.85,-69.51667,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":-69.51667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Parucla",
+    "gn:country_code":"VE",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630666,
+    "gn:latitude":10.85,
+    "gn:longitude":-69.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Parucla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630666
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d5305e8afaa7b2d5266f10d285573658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1293771081,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293771081,
+    "wof:lastmodified":1536874367,
+    "wof:name":"Parucla",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.51666999999999,
+    10.85,
+    -69.51666999999999,
+    10.85
+],
+  "geometry": {"coordinates":[-69.51666999999999,10.85],"type":"Point"}
+}

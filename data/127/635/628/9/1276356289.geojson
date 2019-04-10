@@ -1,0 +1,67 @@
+{
+  "id": 1276356289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.78507,10.00196,-67.78507,10.00196",
+    "geom:latitude":10.00196,
+    "geom:longitude":-67.78507,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Altamira",
+    "gn:country_code":"VE",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649397,
+    "gn:latitude":10.00196,
+    "gn:longitude":-67.78507,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Altamira",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649397
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd93371131aa1c905994736d851be36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1276356289,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1276356289,
+    "wof:lastmodified":1536747625,
+    "wof:name":"Altamira",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.78506999999999,
+    10.00196,
+    -67.78506999999999,
+    10.00196
+],
+  "geometry": {"coordinates":[-67.78506999999999,10.00196],"type":"Point"}
+}

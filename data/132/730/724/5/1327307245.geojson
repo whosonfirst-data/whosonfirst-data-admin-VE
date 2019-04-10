@@ -1,0 +1,67 @@
+{
+  "id": 1327307245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29696,8.23474,-71.29696,8.23474",
+    "geom:latitude":8.23474,
+    "geom:longitude":-71.29696,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Achote",
+    "gn:country_code":"VE",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644399,
+    "gn:latitude":8.23474,
+    "gn:longitude":-71.29696,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Achote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644399
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c8fcdfc285455bb9f0ec503c8a4f40c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "locality_id":1327307245,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1327307245,
+    "wof:lastmodified":1536860278,
+    "wof:name":"El Achote",
+    "wof:parent_id":421175381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29696,
+    8.23474,
+    -71.29696,
+    8.23474
+],
+  "geometry": {"coordinates":[-71.29696,8.23474],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209012179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.35,9.78333,-65.35,9.78333",
+    "geom:latitude":9.78333,
+    "geom:longitude":-65.35,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Corobada",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645209,
+    "gn:latitude":9.78333,
+    "gn:longitude":-65.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Corobada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corcovada",
+        "Coraboda",
+        "Corcobado",
+        "Corobada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645209
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd668ceb3eb026682e42c625b8427f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209012179
+        }
+    ],
+    "wof:id":1209012179,
+    "wof:lastmodified":1537713616,
+    "wof:name":"Corobada",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.35,
+    9.78333,
+    -65.35,
+    9.78333
+],
+  "geometry": {"coordinates":[-65.34999999999999,9.78333],"type":"Point"}
+}

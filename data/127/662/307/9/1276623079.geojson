@@ -1,0 +1,71 @@
+{
+  "id": 1276623079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.485,10.17765,-68.485,10.17765",
+    "geom:latitude":10.17765,
+    "geom:longitude":-68.485,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Salom",
+    "gn:country_code":"VE",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628727,
+    "gn:latitude":10.17765,
+    "gn:longitude":-68.485,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Salom",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salon",
+        "Salom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628727
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"10709fd3917a4e76b7caec53479de3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1276623079,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1276623079,
+    "wof:lastmodified":1537713521,
+    "wof:name":"Salom",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.485,
+    10.17765,
+    -68.485,
+    10.17765
+],
+  "geometry": {"coordinates":[-68.485,10.17765],"type":"Point"}
+}

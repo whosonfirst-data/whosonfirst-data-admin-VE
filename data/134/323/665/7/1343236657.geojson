@@ -1,0 +1,71 @@
+{
+  "id": 1343236657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.71181,10.62323,-62.71181,10.62323",
+    "geom:latitude":10.62323,
+    "geom:longitude":-62.71181,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Paujil",
+    "gn:country_code":"VE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642161,
+    "gn:latitude":10.62323,
+    "gn:longitude":-62.71181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Paujil",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pauj\u00ed",
+        "El Paujil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642161
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"22b3a45ebce59dd7848d92f3fb7a690f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694139,
+            "locality_id":1343236657,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1343236657,
+    "wof:lastmodified":1537713595,
+    "wof:name":"El Paujil",
+    "wof:parent_id":1108694139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.71181,
+    10.62323,
+    -62.71181,
+    10.62323
+],
+  "geometry": {"coordinates":[-62.71181,10.62323],"type":"Point"}
+}

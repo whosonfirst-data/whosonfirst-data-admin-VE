@@ -1,0 +1,73 @@
+{
+  "id": 1344058953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.57345,9.95222,-64.57345,9.95222",
+    "geom:latitude":9.95222,
+    "geom:longitude":-64.57345,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Curataquiche",
+    "gn:country_code":"VE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644659,
+    "gn:latitude":9.95222,
+    "gn:longitude":-64.57345,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Curataquiche",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carataquiche",
+        "Curataguiche",
+        "Cataquiche",
+        "Curataquiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644659
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3db7ea01c8433c490191fa9176c4870e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1344058953,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344058953,
+    "wof:lastmodified":1537713613,
+    "wof:name":"Curataquiche",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.57345,
+    9.95222,
+    -64.57345,
+    9.95222
+],
+  "geometry": {"coordinates":[-64.57344999999999,9.95222],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343431385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22614,8.58098,-71.22614,8.58098",
+    "geom:latitude":8.58098,
+    "geom:longitude":-71.22614,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cacute",
+    "gn:country_code":"VE",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647564,
+    "gn:latitude":8.58098,
+    "gn:longitude":-71.22614,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Cacute",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cacute"
+    ],
+    "name:por_x_preferred":[
+        "Cacute"
+    ],
+    "name:spa_x_preferred":[
+        "Cacute"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647564
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4b5da2fe00a478af071b7c53c44bb463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171999,
+            "locality_id":1343431385,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343431385,
+    "wof:lastmodified":1537560467,
+    "wof:name":"Cacute",
+    "wof:parent_id":421171999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22614,
+    8.58098,
+    -71.22614,
+    8.58098
+],
+  "geometry": {"coordinates":[-71.22614,8.58098],"type":"Point"}
+}

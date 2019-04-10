@@ -1,0 +1,67 @@
+{
+  "id": 1260054683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.93896,10.24603,-63.93896,10.24603",
+    "geom:latitude":10.24603,
+    "geom:longitude":-63.93896,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Caiguire",
+    "gn:country_code":"VE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795751,
+    "gn:latitude":10.24603,
+    "gn:longitude":-63.93896,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Caiguire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795751
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8af4799f259d7cfe07897cc92ce098e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694311,
+            "locality_id":1260054683,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1260054683,
+    "wof:lastmodified":1537028396,
+    "wof:name":"Caiguire",
+    "wof:parent_id":1108694311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.93896,
+    10.24603,
+    -63.93896,
+    10.24603
+],
+  "geometry": {"coordinates":[-63.93896,10.24603],"type":"Point"}
+}

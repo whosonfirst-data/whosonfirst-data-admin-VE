@@ -1,0 +1,71 @@
+{
+  "id": 1293739903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.28448,10.03686,-72.28448,10.03686",
+    "geom:latitude":10.03686,
+    "geom:longitude":-72.28448,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Ebano",
+    "gn:country_code":"VE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643340,
+    "gn:latitude":10.03686,
+    "gn:longitude":-72.28448,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ebano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda El Ebano",
+        "El Ebano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643340
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"500fd12a4baa8b89d7ade62c7deaf12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694379,
+            "locality_id":1293739903,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293739903,
+    "wof:lastmodified":1537713604,
+    "wof:name":"El Ebano",
+    "wof:parent_id":1108694379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28448,
+    10.03686,
+    -72.28448,
+    10.03686
+],
+  "geometry": {"coordinates":[-72.28448,10.03686],"type":"Point"}
+}

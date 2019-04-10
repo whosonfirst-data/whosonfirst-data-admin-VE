@@ -1,0 +1,331 @@
+{
+  "id": 421172773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.77609,10.11649,-66.77609,10.11649",
+    "geom:latitude":10.11649,
+    "geom:longitude":-66.77609,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0648\u0645\u0627\u0631\u064a \u062f\u064a\u0644 \u062a\u0648\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u0995\u09c1\u09ae\u09be\u09b0\u09c7 \u09a6\u09c7\u09b2 \u09a4\u09c1\u09af\u09bc\u09c7"
+    ],
+    "name:chi_x_preferred":[
+        "\u5716\u4f0a\u6cb3\u7554\u5967\u5eab\u99ac\u96f7"
+    ],
+    "name:dan_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:deu_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:deu_x_variant":[
+        "Ocumare"
+    ],
+    "name:dut_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:eng_x_historical":[
+        "Ocumare del Tuy"
+    ],
+    "name:eng_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:eng_x_variant":[
+        "Ocumare"
+    ],
+    "name:epo_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:fin_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:fra_x_historical":[
+        "Ocumare del Tuy"
+    ],
+    "name:fra_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:fra_x_variant":[
+        "Ocumare"
+    ],
+    "name:fre_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dd\u10d9\u10e3\u10db\u10d0\u10e0\u10d4-\u10d3\u10d4\u10da-\u10e2\u10e3\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03ba\u03bf\u03c5\u03bc\u03ac\u03c1\u03b5 \u03bd\u03c4\u03b5\u03bb \u03a4\u03bf\u03cd\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a93\u0a95\u0ac1\u0aae\u0ac7\u0ab0\u0ac7 \u0aa1\u0ac7\u0ab2 \u0a9f\u0abe\u0aaf"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0915\u0941\u092e\u093e\u0930\u0947 \u0926\u0947\u0932 \u0924\u0941\u0908"
+    ],
+    "name:ind_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:ita_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30af\u30de\u30ec\u30fb\u30c7\u30eb\u30fb\u30c8\u30a5\u30a4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c93\u0c95\u0cc1\u0cae\u0cc6\u0cb0\u0cc6 \u0ca1\u0cc6\u0cb2\u0ccd \u0c9f\u0cbe\u0caf\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d9\u10e3\u10db\u10d0\u10e0\u10d4-\u10d3\u10d4\u10da-\u10e2\u10e3\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud050\ub9c8\ub9ac \ub378 \ud22c\uc774"
+    ],
+    "name:lav_x_preferred":[
+        "Okumare"
+    ],
+    "name:lit_x_preferred":[
+        "Okumar\u0117 del Tuis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0913\u0915\u094d\u092f\u0942\u092e\u0930 \u0921\u0947\u0932 \u091f\u094d\u092f\u0942"
+    ],
+    "name:may_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:nob_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:pol_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:por_x_historical":[
+        "Ocumare del Tuy"
+    ],
+    "name:por_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:por_x_variant":[
+        "Ocumare"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0443\u043c\u0430\u0440\u0435-\u0434\u0435\u043b\u044c-\u0422\u0443\u0439"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d94\u0d9a\u0dd4\u0db8\u0dbb\u0dda \u0da9\u0dd9\u0dbd\u0dca \u0da7\u0dd4\u0dba\u0dd2"
+    ],
+    "name:spa_x_historical":[
+        "Ocumare del Tuy"
+    ],
+    "name:spa_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:spa_x_variant":[
+        "Ocumare"
+    ],
+    "name:swe_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b92\u0b95\u0bc1\u0bae\u0bb0\u0bc7 \u0b9f\u0bc6\u0bb2\u0bcd  \u0b9f\u0bc1\u0baf\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c13\u0c15\u0c41\u0c2e\u0c30\u0c47 \u0c21\u0c46\u0c32\u0c4d \u0c24\u0c41\u0c2f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2d\u0e04\u0e39\u0e40\u0e21 \u0e40\u0e14\u0e25 \u0e17\u0e27\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0443\u043c\u0430\u0440\u0435-\u0434\u0435\u043b\u044c-\u0422\u0443\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06a9\u0648\u0645\u0627\u0631\u06cc \u0688\u06cc\u0644 \u062a\u0648\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:vol_x_preferred":[
+        "Ocumare del Tuy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u4f0a\u6cb3\u7554\u5967\u5eab\u99ac\u96f7"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Venezuela",
+    "ne:ADM0_A3":"VEN",
+    "ne:ADM1NAME":"Miranda",
+    "ne:ADMIN1_COD":15,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3631412,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Ocumare del Tuy",
+    "ne:GN_POP":166072,
+    "ne:GTOPO30":178.0,
+    "ne:ISO_A2":"VE",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":10.119988,
+    "ne:LONGITUDE":-66.779991,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Ocumare del Tuy",
+    "ne:MAX_AREAKM":29.0,
+    "ne:MAX_AREAMI":11.0,
+    "ne:MAX_BBXMAX":-66.75,
+    "ne:MAX_BBXMIN":-66.833333,
+    "ne:MAX_BBYMAX":10.158333,
+    "ne:MAX_BBYMIN":10.1,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":39.0,
+    "ne:MAX_PERMI":24.0,
+    "ne:MAX_POP10":95576,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-66.784643,
+    "ne:MEAN_BBYC":10.12631,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":29.0,
+    "ne:MIN_AREAMI":11.0,
+    "ne:MIN_BBXMAX":-66.75,
+    "ne:MIN_BBXMIN":-66.833333,
+    "ne:MIN_BBYMAX":10.158333,
+    "ne:MIN_BBYMIN":10.1,
+    "ne:MIN_PERKM":39.0,
+    "ne:MIN_PERMI":24.0,
+    "ne:NAME":"Ocumare del Tuy",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Ocumare del Tuy",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":166072,
+    "ne:POP_MIN":95576,
+    "ne:POP_OTHER":95576,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Venezuela",
+    "ne:SOV_A3":"VEN",
+    "ne:TIMEZONE":"America/Caracas",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3631412,
+    "qs:gn_pop":166072,
+    "qs:name":"Ocumare del Tuy",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":274468,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468484,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":150.0,
+    "wd:latitude":10.113611,
+    "wd:longitude":-66.781389,
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631412,
+        "gp:id":468484,
+        "qs:id":274468,
+        "wd:id":"Q1972757",
+        "wk:page":"Ocumare del Tuy"
+    },
+    "wof:country":"VE",
+    "wof:created":1459008954,
+    "wof:geomhash":"15aa83b584462878180b9dc12b082653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694243,
+            "locality_id":421172773,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421172773,
+    "wof:lastmodified":1527716309,
+    "wof:name":"Ocumare del Tuy",
+    "wof:parent_id":1108694243,
+    "wof:placetype":"locality",
+    "wof:population":166072,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.77609,
+    10.11649,
+    -66.77609,
+    10.11649
+],
+  "geometry": {"coordinates":[-66.77609,10.11649],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309681959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.33557,10.34343,-66.33557,10.34343",
+    "geom:latitude":10.34343,
+    "geom:longitude":-66.33557,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mesa de Urape",
+    "gn:country_code":"VE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632285,
+    "gn:latitude":10.34343,
+    "gn:longitude":-66.33557,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Mesa de Urape",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632285
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0bae887a17da01f674c8ffa6d488beb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1309681959,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1309681959,
+    "wof:lastmodified":1536610169,
+    "wof:name":"Mesa de Urape",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.33556999999999,
+    10.34343,
+    -66.33556999999999,
+    10.34343
+],
+  "geometry": {"coordinates":[-66.33556999999999,10.34343],"type":"Point"}
+}

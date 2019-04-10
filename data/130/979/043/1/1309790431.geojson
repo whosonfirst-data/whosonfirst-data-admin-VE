@@ -1,0 +1,73 @@
+{
+  "id": 1309790431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.90354,9.78695,-67.90354,9.78695",
+    "geom:latitude":9.78695,
+    "geom:longitude":-67.90354,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Las Sardinas",
+    "gn:country_code":"VE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635350,
+    "gn:latitude":9.78695,
+    "gn:longitude":-67.90354,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Sardinas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sardinas",
+        "Sardina",
+        "Sardinata",
+        "Las Sardinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635350
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"628cc4b45376cf815e05e266e3d850f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1309790431,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1309790431,
+    "wof:lastmodified":1537713556,
+    "wof:name":"Las Sardinas",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.90354,
+    9.78695,
+    -67.90354,
+    9.78695
+],
+  "geometry": {"coordinates":[-67.90354000000001,9.78695],"type":"Point"}
+}

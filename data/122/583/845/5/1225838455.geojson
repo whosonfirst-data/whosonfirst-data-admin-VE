@@ -1,0 +1,67 @@
+{
+  "id": 1225838455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.91722,9.95833,-66.91722,9.95833",
+    "geom:latitude":9.95833,
+    "geom:longitude":-66.91722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Barrancones",
+    "gn:country_code":"VE",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481785,
+    "gn:latitude":9.95833,
+    "gn:longitude":-66.91722,
+    "gn:modification_date":"1999-03-12",
+    "gn:name":"Barrancones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481785
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e809432cb98f8ed375ee71d16c225b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694387,
+            "locality_id":1225838455,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1225838455,
+    "wof:lastmodified":1537023176,
+    "wof:name":"Barrancones",
+    "wof:parent_id":1108694387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.91722,
+    9.95833,
+    -66.91722,
+    9.95833
+],
+  "geometry": {"coordinates":[-66.91722,9.95833],"type":"Point"}
+}

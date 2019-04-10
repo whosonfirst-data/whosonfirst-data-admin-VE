@@ -1,0 +1,67 @@
+{
+  "id": 1259446729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.77287,9.40232,-63.77287,9.40232",
+    "geom:latitude":9.40232,
+    "geom:longitude":-63.77287,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Guamo",
+    "gn:country_code":"VE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643130,
+    "gn:latitude":9.40232,
+    "gn:longitude":-63.77287,
+    "gn:modification_date":"1996-07-03",
+    "gn:name":"El Guamo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643130
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"93b44624ad6a49124efe0e0d81754c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1259446729,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1259446729,
+    "wof:lastmodified":1536912148,
+    "wof:name":"El Guamo",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.77287,
+    9.40232,
+    -63.77287,
+    9.40232
+],
+  "geometry": {"coordinates":[-63.77287,9.40232],"type":"Point"}
+}

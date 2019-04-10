@@ -1,0 +1,67 @@
+{
+  "id": 1225819637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.17205,7.9371,-72.17205,7.9371",
+    "geom:latitude":7.9371,
+    "geom:longitude":-72.17205,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Las Llanadas",
+    "gn:country_code":"VE",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759107,
+    "gn:latitude":7.9371,
+    "gn:longitude":-72.17205,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Las Llanadas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421195115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759107
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4baaa816cab36db927c75a8d319bb584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195115,
+            "locality_id":1225819637,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1225819637,
+    "wof:lastmodified":1537049329,
+    "wof:name":"Las Llanadas",
+    "wof:parent_id":421195115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.17205,
+    7.9371,
+    -72.17205,
+    7.9371
+],
+  "geometry": {"coordinates":[-72.17205,7.9371],"type":"Point"}
+}

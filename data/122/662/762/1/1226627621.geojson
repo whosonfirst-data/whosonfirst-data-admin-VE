@@ -1,0 +1,67 @@
+{
+  "id": 1226627621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.42097,10.18046,-63.42097,10.18046",
+    "geom:latitude":10.18046,
+    "geom:longitude":-63.42097,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Piedra de Moler",
+    "gn:country_code":"VE",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761039,
+    "gn:latitude":10.18046,
+    "gn:longitude":-63.42097,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Piedra de Moler",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761039
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"617debc40b8e29f87bc7544d77fc4d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186265,
+            "locality_id":1226627621,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1226627621,
+    "wof:lastmodified":1536885126,
+    "wof:name":"Piedra de Moler",
+    "wof:parent_id":421186265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.42097,
+    10.18046,
+    -63.42097,
+    10.18046
+],
+  "geometry": {"coordinates":[-63.42097,10.18046],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226440553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.40333,8.7475,-70.40333,8.7475",
+    "geom:latitude":8.7475,
+    "geom:longitude":-70.40333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"El Bucaral",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644104,
+    "gn:latitude":8.7475,
+    "gn:longitude":-70.40333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Bucaral",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Buacaral",
+        "El Bucaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421194991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644104
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f80c19f79ed4783c99e47895034c7394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194991,
+            "locality_id":1226440553,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1226440553,
+    "wof:lastmodified":1537713609,
+    "wof:name":"El Bucaral",
+    "wof:parent_id":421194991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.40333000000003,
+    8.7475,
+    -70.40333000000003,
+    8.7475
+],
+  "geometry": {"coordinates":[-70.40333000000003,8.7475],"type":"Point"}
+}

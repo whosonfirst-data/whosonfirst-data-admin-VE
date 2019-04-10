@@ -1,0 +1,67 @@
+{
+  "id": 1243045187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.85506,11.34235,-69.85506,11.34235",
+    "geom:latitude":11.34235,
+    "geom:longitude":-69.85506,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Cardon",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643934,
+    "gn:latitude":11.34235,
+    "gn:longitude":-69.85506,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"El Card\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643934
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"167995b1f780219a44d11b6f9dc34254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "locality_id":1243045187,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1243045187,
+    "wof:lastmodified":1536886571,
+    "wof:name":"El Cardon",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.85506,
+    11.34235,
+    -69.85506,
+    11.34235
+],
+  "geometry": {"coordinates":[-69.85505999999999,11.34235],"type":"Point"}
+}

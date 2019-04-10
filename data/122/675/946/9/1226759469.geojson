@@ -1,0 +1,67 @@
+{
+  "id": 1226759469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.35571,10.06895,-65.35571,10.06895",
+    "geom:latitude":10.06895,
+    "geom:longitude":-65.35571,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Cautaro",
+    "gn:country_code":"VE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646136,
+    "gn:latitude":10.06895,
+    "gn:longitude":-65.35571,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cautaro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421171645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646136
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e4f8da9d49eccb2dc703eea834fc2286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171645,
+            "locality_id":1226759469,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226759469,
+    "wof:lastmodified":1536695956,
+    "wof:name":"Cautaro",
+    "wof:parent_id":421171645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.35571,
+    10.06895,
+    -65.35571,
+    10.06895
+],
+  "geometry": {"coordinates":[-65.35571,10.06895],"type":"Point"}
+}

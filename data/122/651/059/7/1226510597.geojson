@@ -1,0 +1,67 @@
+{
+  "id": 1226510597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76222,10.85944,-71.76222,10.85944",
+    "geom:latitude":10.85944,
+    "geom:longitude":-71.76222,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tamare",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626484,
+    "gn:latitude":10.85944,
+    "gn:longitude":-71.76222,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Tamare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626484
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"98172800618baa43ff6d2ee9fe6fce21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1226510597,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226510597,
+    "wof:lastmodified":1537046867,
+    "wof:name":"Tamare",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76222,
+    10.85944,
+    -71.76222,
+    10.85944
+],
+  "geometry": {"coordinates":[-71.76222,10.85944],"type":"Point"}
+}

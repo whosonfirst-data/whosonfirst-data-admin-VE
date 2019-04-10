@@ -1,0 +1,67 @@
+{
+  "id": 1242938017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.57855,10.58372,-62.57855,10.58372",
+    "geom:latitude":10.58372,
+    "geom:longitude":-62.57855,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745149,
+    "gn:latitude":10.58372,
+    "gn:longitude":-62.57855,
+    "gn:modification_date":"1995-10-13",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745149
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"829a4448df7cf8ddaa8c5c108f380d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694275,
+            "locality_id":1242938017,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1242938017,
+    "wof:lastmodified":1537040003,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":1108694275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.57855,
+    10.58372,
+    -62.57855,
+    10.58372
+],
+  "geometry": {"coordinates":[-62.57855,10.58372],"type":"Point"}
+}

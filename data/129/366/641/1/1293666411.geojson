@@ -1,0 +1,67 @@
+{
+  "id": 1293666411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.68657,10.90172,-69.68657,10.90172",
+    "geom:latitude":10.90172,
+    "geom:longitude":-69.68657,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Kilometro Treinta",
+    "gn:country_code":"VE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750967,
+    "gn:latitude":10.90172,
+    "gn:longitude":-69.68657,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"El Kil\u00f3metro Treinta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750967
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"247012d863118ea7204cccc8c020a8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1293666411,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293666411,
+    "wof:lastmodified":1537025285,
+    "wof:name":"El Kilometro Treinta",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.68656999999999,
+    10.90172,
+    -69.68656999999999,
+    10.90172
+],
+  "geometry": {"coordinates":[-69.68656999999999,10.90172],"type":"Point"}
+}

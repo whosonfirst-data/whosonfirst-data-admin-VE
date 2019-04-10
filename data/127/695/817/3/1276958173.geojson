@@ -1,0 +1,67 @@
+{
+  "id": 1276958173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.23154,9.0587,-67.23154,9.0587",
+    "geom:latitude":9.0587,
+    "geom:longitude":-67.23154,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Palo Seco",
+    "gn:country_code":"VE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630909,
+    "gn:latitude":9.0587,
+    "gn:longitude":-67.23154,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Palo Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630909
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"78c97d36711dc7105a208a7a713d7078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1276958173,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276958173,
+    "wof:lastmodified":1536937195,
+    "wof:name":"Palo Seco",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.23154,
+    9.0587,
+    -67.23154,
+    9.0587
+],
+  "geometry": {"coordinates":[-67.23154,9.0587],"type":"Point"}
+}

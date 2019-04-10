@@ -1,0 +1,67 @@
+{
+  "id": 1226444601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.43136,8.58539,-63.43136,8.58539",
+    "geom:latitude":8.58539,
+    "geom:longitude":-63.43136,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mata de los Hachos",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485066,
+    "gn:latitude":8.58539,
+    "gn:longitude":-63.43136,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Mata de los Hachos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485066
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ecfe40c7cbd25532e2241bcc2e2f57c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1226444601,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226444601,
+    "wof:lastmodified":1536646672,
+    "wof:name":"Mata de los Hachos",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.43136,
+    8.58539,
+    -63.43136,
+    8.58539
+],
+  "geometry": {"coordinates":[-63.43136,8.58539],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85765547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":19104230.746901,
+    "geom:bbox":"-72.231339,7.767205,-72.231339,7.767205",
+    "geom:latitude":7.767205,
+    "geom:longitude":-72.231339,
+    "gn:latitude":7.76028,
+    "gn:longitude":-72.23139,
+    "iso:country":"VE",
+    "lbl:latitude":7.767205,
+    "lbl:longitude":-72.231339,
+    "mps:latitude":7.761467,
+    "mps:longitude":-72.238187,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "La Concordia"
+    ],
+    "name:unk_x_variant":[
+        "La Concordia"
+    ],
+    "qs:gn_adm0_cc":"VE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3628473,
+    "qs:gn_namadm1":"20",
+    "qs:gn_name":"La Concordia",
+    "qs:local_max":2737,
+    "qs:local_sum":3855,
+    "qs:localhoods":2,
+    "qs:name":"La Concordia",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:name_adm2":"Independencia",
+    "qs:name_lau":"Juan German",
+    "qs:name_local":"San Crist\u00f3bal",
+    "qs:photo_max":368,
+    "qs:photo_sum":1118,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":43,
+    "qs:woe_adm0":23424982,
+    "qs:woe_adm1":2347696,
+    "qs:woe_adm2":26804640,
+    "qs:woe_lau":26804944,
+    "qs:woe_local":468400,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85680481,
+        102191577,
+        85632317,
+        421171375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759375,
+        "gp:id":468228,
+        "qs:id":1165495
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4467f3178621389eb37a2afdf5733cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171375,
+            "locality_id":-1,
+            "neighbourhood_id":85765547,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":85765547,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379806,
+    "wof:name":"La Concordia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[
+        1126064383
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.231339,
+    7.767205,
+    -72.231339,
+    7.767205
+],
+  "geometry": {"coordinates":[-72.23133900000001,7.767205],"type":"Point"}
+}

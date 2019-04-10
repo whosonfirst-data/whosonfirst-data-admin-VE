@@ -1,0 +1,67 @@
+{
+  "id": 1310176365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21667,9.81667,-70.21667,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":-70.21667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Trentino",
+    "gn:country_code":"VE",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626023,
+    "gn:latitude":9.81667,
+    "gn:longitude":-70.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Trentino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626023
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"93945b00ca3a39f720aa4ce0336e29c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694147,
+            "locality_id":1310176365,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1310176365,
+    "wof:lastmodified":1536894193,
+    "wof:name":"Trentino",
+    "wof:parent_id":1108694147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21667,
+    9.81667,
+    -70.21667,
+    9.81667
+],
+  "geometry": {"coordinates":[-70.21666999999999,9.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309699573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11256,11.93513,-70.11256,11.93513",
+    "geom:latitude":11.93513,
+    "geom:longitude":-70.11256,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Las Margaritas",
+    "gn:country_code":"VE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765970,
+    "gn:latitude":11.93513,
+    "gn:longitude":-70.11256,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Las Margaritas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765970
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b59a3d35a57809929cf3cef1d54599b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1309699573,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309699573,
+    "wof:lastmodified":1537081165,
+    "wof:name":"Las Margaritas",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11256,
+    11.93513,
+    -70.11256,
+    11.93513
+],
+  "geometry": {"coordinates":[-70.11256,11.93513],"type":"Point"}
+}

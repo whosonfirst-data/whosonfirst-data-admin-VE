@@ -1,0 +1,67 @@
+{
+  "id": 1326722361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.8477,7.13044,-66.8477,7.13044",
+    "geom:latitude":7.13044,
+    "geom:longitude":-66.8477,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Rodeo",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809241,
+    "gn:latitude":7.13044,
+    "gn:longitude":-66.8477,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"El Rodeo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809241
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e73808cf2e74e3e9e58413f992adecde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1326722361,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1326722361,
+    "wof:lastmodified":1536710369,
+    "wof:name":"El Rodeo",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8477,
+    7.13044,
+    -66.8477,
+    7.13044
+],
+  "geometry": {"coordinates":[-66.8477,7.13044],"type":"Point"}
+}

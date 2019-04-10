@@ -1,0 +1,67 @@
+{
+  "id": 1242853967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.93211,7.84598,-66.93211,7.84598",
+    "geom:latitude":7.84598,
+    "geom:longitude":-66.93211,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Palo de Agua",
+    "gn:country_code":"VE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765392,
+    "gn:latitude":7.84598,
+    "gn:longitude":-66.93211,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Palo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765392
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8bbb6933033f9946d0d99c546f2d0829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694395,
+            "locality_id":1242853967,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242853967,
+    "wof:lastmodified":1536665633,
+    "wof:name":"Palo de Agua",
+    "wof:parent_id":1108694395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.93211,
+    7.84598,
+    -66.93211,
+    7.84598
+],
+  "geometry": {"coordinates":[-66.93210999999999,7.84598],"type":"Point"}
+}

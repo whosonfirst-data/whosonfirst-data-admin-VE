@@ -1,0 +1,71 @@
+{
+  "id": 1226032109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.17147,10.78071,-69.17147,10.78071",
+    "geom:latitude":10.78071,
+    "geom:longitude":-69.17147,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Charro",
+    "gn:country_code":"VE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755482,
+    "gn:latitude":10.78071,
+    "gn:longitude":-69.17147,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Charro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Charo",
+        "El Charro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755482
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"85a62789989f08a3c55b5e1896d84ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694463,
+            "locality_id":1226032109,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226032109,
+    "wof:lastmodified":1537713637,
+    "wof:name":"El Charro",
+    "wof:parent_id":1108694463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.17147,
+    10.78071,
+    -69.17147,
+    10.78071
+],
+  "geometry": {"coordinates":[-69.17147,10.78071],"type":"Point"}
+}

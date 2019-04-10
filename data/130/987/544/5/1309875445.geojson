@@ -1,0 +1,67 @@
+{
+  "id": 1309875445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.76667,10.5,-66.76667,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":-66.76667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Resbalon",
+    "gn:country_code":"VE",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629201,
+    "gn:latitude":10.5,
+    "gn:longitude":-66.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Resbal\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629201
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9120f5dbb63e56687dbe2d2d8d1ac101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171381,
+            "locality_id":1309875445,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1309875445,
+    "wof:lastmodified":1536829865,
+    "wof:name":"Resbalon",
+    "wof:parent_id":421171381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.76666999999999,
+    10.5,
+    -66.76666999999999,
+    10.5
+],
+  "geometry": {"coordinates":[-66.76666999999999,10.5],"type":"Point"}
+}

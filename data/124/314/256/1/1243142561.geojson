@@ -1,0 +1,67 @@
+{
+  "id": 1243142561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.39741,8.84321,-71.39741,8.84321",
+    "geom:latitude":8.84321,
+    "geom:longitude":-71.39741,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cano Moro",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646935,
+    "gn:latitude":8.84321,
+    "gn:longitude":-71.39741,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Ca\u00f1o Moro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421191761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646935
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1c917a03053b56a2bcb0037a5102fef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191761,
+            "locality_id":1243142561,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1243142561,
+    "wof:lastmodified":1536746587,
+    "wof:name":"Cano Moro",
+    "wof:parent_id":421191761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.39741,
+    8.84321,
+    -71.39741,
+    8.84321
+],
+  "geometry": {"coordinates":[-71.39740999999999,8.84321],"type":"Point"}
+}

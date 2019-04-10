@@ -1,0 +1,67 @@
+{
+  "id": 1243347119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.27024,10.15809,-69.27024,10.15809",
+    "geom:latitude":10.15809,
+    "geom:longitude":-69.27024,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Veritas",
+    "gn:country_code":"VE",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746909,
+    "gn:latitude":10.15809,
+    "gn:longitude":-69.27024,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Las Veritas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746909
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"14c0d7cb0c04ec734f569bbe6bb46b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1243347119,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243347119,
+    "wof:lastmodified":1536949107,
+    "wof:name":"Las Veritas",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.27024,
+    10.15809,
+    -69.27024,
+    10.15809
+],
+  "geometry": {"coordinates":[-69.27024,10.15809],"type":"Point"}
+}

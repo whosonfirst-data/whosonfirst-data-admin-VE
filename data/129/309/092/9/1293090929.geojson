@@ -1,0 +1,73 @@
+{
+  "id": 1293090929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.95,9.28333,-67.95,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":-67.95,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"La Galerita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637811,
+    "gn:latitude":9.28333,
+    "gn:longitude":-67.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Galerita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galeritas",
+        "La Galarita",
+        "La Galerita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637811
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e96c14d16a2641c6b3f52064a993621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1293090929,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1293090929,
+    "wof:lastmodified":1537713570,
+    "wof:name":"La Galerita",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.95,
+    9.28333,
+    -67.95,
+    9.28333
+],
+  "geometry": {"coordinates":[-67.95,9.28333],"type":"Point"}
+}

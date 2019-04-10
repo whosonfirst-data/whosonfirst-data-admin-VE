@@ -1,0 +1,67 @@
+{
+  "id": 1343849979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.53408,7.82728,-65.53408,7.82728",
+    "geom:latitude":7.82728,
+    "geom:longitude":-65.53408,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santo Nino",
+    "gn:country_code":"VE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809510,
+    "gn:latitude":7.82728,
+    "gn:longitude":-65.53408,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Santo Ni\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809510
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2bbca6757bfbcf2121fd88080bc1bd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1343849979,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1343849979,
+    "wof:lastmodified":1536681715,
+    "wof:name":"Santo Nino",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.53408,
+    7.82728,
+    -65.53408,
+    7.82728
+],
+  "geometry": {"coordinates":[-65.53408,7.82728],"type":"Point"}
+}

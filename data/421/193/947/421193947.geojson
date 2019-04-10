@@ -1,0 +1,76 @@
+{
+  "id": 421193947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41829,8.43058,-71.41829,8.43058",
+    "geom:latitude":8.43058,
+    "geom:longitude":-71.41829,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3629794,
+    "qs:gn_pop":0,
+    "qs:name":"Pueblo Nuevo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":125,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":125,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":300482,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":392655,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629794,
+        "gp:id":392655,
+        "qs:id":300482
+    },
+    "wof:country":"VE",
+    "wof:created":1459009788,
+    "wof:geomhash":"2ed837738ad2974c44156b1490f09635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":421193947,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421193947,
+    "wof:lastmodified":1500034075,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41829,
+    8.43058,
+    -71.41829,
+    8.43058
+],
+  "geometry": {"coordinates":[-71.41829,8.43058],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343456645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26667,8.23333,-69.26667,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":-69.26667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Matera",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637179,
+    "gn:latitude":8.23333,
+    "gn:longitude":-69.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Matera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637179
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"742d64bac363a7b2b6442f66117d8956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1343456645,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343456645,
+    "wof:lastmodified":1536751642,
+    "wof:name":"La Matera",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26666999999999,
+    8.23333,
+    -69.26666999999999,
+    8.23333
+],
+  "geometry": {"coordinates":[-69.26666999999999,8.23333],"type":"Point"}
+}

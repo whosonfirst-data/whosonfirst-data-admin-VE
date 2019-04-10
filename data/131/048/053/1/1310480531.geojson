@@ -1,0 +1,67 @@
+{
+  "id": 1310480531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09048,9.83272,-70.09048,9.83272",
+    "geom:latitude":9.83272,
+    "geom:longitude":-70.09048,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"El Chorrito",
+    "gn:country_code":"VE",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767386,
+    "gn:latitude":9.83272,
+    "gn:longitude":-70.09048,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"El Chorrito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767386
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0de800f49bdc46000ad45f4a7c45c821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1310480531,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1310480531,
+    "wof:lastmodified":1536953065,
+    "wof:name":"El Chorrito",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09048,
+    9.83272,
+    -70.09048,
+    9.83272
+],
+  "geometry": {"coordinates":[-70.09048,9.83272],"type":"Point"}
+}

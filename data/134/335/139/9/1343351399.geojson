@@ -1,0 +1,67 @@
+{
+  "id": 1343351399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.17889,9.53,-68.17889,9.53",
+    "geom:latitude":9.53,
+    "geom:longitude":-68.17889,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Alto de Colmenares",
+    "gn:country_code":"VE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3800130,
+    "gn:latitude":9.53,
+    "gn:longitude":-68.17889,
+    "gn:modification_date":"2002-10-29",
+    "gn:name":"Alto de Colmenares",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3800130
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"54eaf5a640c359061d84d6c19c60355e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1343351399,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1343351399,
+    "wof:lastmodified":1536903799,
+    "wof:name":"Alto de Colmenares",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.17889,
+    9.53,
+    -68.17889,
+    9.53
+],
+  "geometry": {"coordinates":[-68.17889,9.53],"type":"Point"}
+}

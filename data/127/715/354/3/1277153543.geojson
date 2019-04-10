@@ -1,0 +1,72 @@
+{
+  "id": 1277153543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.58333,8.71667,-66.58333,8.71667",
+    "geom:latitude":8.71667,
+    "geom:longitude":-66.58333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mapurito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633023,
+    "gn:latitude":8.71667,
+    "gn:longitude":-66.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mapurito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapurite",
+        "Mapurito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633023
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"22a495704e267a025901fefeac91d717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1277153543,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1277153543,
+    "wof:lastmodified":1537713542,
+    "wof:name":"Mapurito",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.58333,
+    8.71667,
+    -66.58333,
+    8.71667
+],
+  "geometry": {"coordinates":[-66.58333,8.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293447849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.57976,9.40401,-72.57976,9.40401",
+    "geom:latitude":9.40401,
+    "geom:longitude":-72.57976,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Puerto Lisbet",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3790209,
+    "gn:latitude":9.40401,
+    "gn:longitude":-72.57976,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Puerto Lisbet",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3790209
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"60e7516766235b91561e519de0f84faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1293447849,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293447849,
+    "wof:lastmodified":1536843305,
+    "wof:name":"Puerto Lisbet",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.57976,
+    9.40401,
+    -72.57976,
+    9.40401
+],
+  "geometry": {"coordinates":[-72.57975999999999,9.40401],"type":"Point"}
+}

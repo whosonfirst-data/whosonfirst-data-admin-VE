@@ -1,0 +1,67 @@
+{
+  "id": 1293663343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23898,8.24374,-72.23898,8.24374",
+    "geom:latitude":8.24374,
+    "geom:longitude":-72.23898,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Sipudo",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757130,
+    "gn:latitude":8.24374,
+    "gn:longitude":-72.23898,
+    "gn:modification_date":"1996-12-18",
+    "gn:name":"Sipudo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757130
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7077aa470baeb6d0d44f2e1a55575cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694197,
+            "locality_id":1293663343,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293663343,
+    "wof:lastmodified":1537029578,
+    "wof:name":"Sipudo",
+    "wof:parent_id":1108694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23898,
+    8.24374,
+    -72.23898,
+    8.24374
+],
+  "geometry": {"coordinates":[-72.23898,8.24374],"type":"Point"}
+}

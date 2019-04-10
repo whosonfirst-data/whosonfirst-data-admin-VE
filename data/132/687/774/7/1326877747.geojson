@@ -1,0 +1,67 @@
+{
+  "id": 1326877747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.88396,10.54768,-66.88396,10.54768",
+    "geom:latitude":10.54768,
+    "geom:longitude":-66.88396,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Los Cedros",
+    "gn:country_code":"VE",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481354,
+    "gn:latitude":10.54768,
+    "gn:longitude":-66.88396,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Los Cedros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481354
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"36603455eb4a06643f239f3328b7a4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1326877747,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1326877747,
+    "wof:lastmodified":1536982584,
+    "wof:name":"Los Cedros",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.88396,
+    10.54768,
+    -66.88396,
+    10.54768
+],
+  "geometry": {"coordinates":[-66.88396,10.54768],"type":"Point"}
+}

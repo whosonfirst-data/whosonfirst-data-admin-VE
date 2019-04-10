@@ -1,0 +1,67 @@
+{
+  "id": 1360206175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.42444,7.93944,-62.42444,7.93944",
+    "geom:latitude":7.93944,
+    "geom:longitude":-62.42444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cupapuy",
+    "gn:country_code":"VE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807836,
+    "gn:latitude":7.93944,
+    "gn:longitude":-62.42444,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Cupapuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421197623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807836
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ee291701c2d6c247a6ec3c4e00eeddf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421197623,
+            "locality_id":1360206175,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1360206175,
+    "wof:lastmodified":1536771609,
+    "wof:name":"Cupapuy",
+    "wof:parent_id":421197623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.42444,
+    7.93944,
+    -62.42444,
+    7.93944
+],
+  "geometry": {"coordinates":[-62.42444,7.93944],"type":"Point"}
+}

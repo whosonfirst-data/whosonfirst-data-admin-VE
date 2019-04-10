@@ -1,0 +1,67 @@
+{
+  "id": 1259472217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.86243,8.53488,-61.86243,8.53488",
+    "geom:latitude":8.53488,
+    "geom:longitude":-61.86243,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Morocoto",
+    "gn:country_code":"VE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763896,
+    "gn:latitude":8.53488,
+    "gn:longitude":-61.86243,
+    "gn:modification_date":"1998-06-19",
+    "gn:name":"Morocoto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421183445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763896
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"af24cf191ea9f4c981f895aec88988d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183445,
+            "locality_id":1259472217,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1259472217,
+    "wof:lastmodified":1536874067,
+    "wof:name":"Morocoto",
+    "wof:parent_id":421183445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.86243,
+    8.53488,
+    -61.86243,
+    8.53488
+],
+  "geometry": {"coordinates":[-61.86243,8.53488],"type":"Point"}
+}

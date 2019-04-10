@@ -1,0 +1,67 @@
+{
+  "id": 1310681397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6042,11.10857,-70.6042,11.10857",
+    "geom:latitude":11.10857,
+    "geom:longitude":-70.6042,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Nicolas de Quibure",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627898,
+    "gn:latitude":11.10857,
+    "gn:longitude":-70.6042,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"San Nicol\u00e1s de Quibure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627898
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b93d93291d4fe1c27d002e62ed514eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1310681397,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310681397,
+    "wof:lastmodified":1536663209,
+    "wof:name":"San Nicolas de Quibure",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6042,
+    11.10857,
+    -70.6042,
+    11.10857
+],
+  "geometry": {"coordinates":[-70.60420000000001,11.10857],"type":"Point"}
+}

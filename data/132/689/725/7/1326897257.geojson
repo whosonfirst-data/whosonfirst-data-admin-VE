@@ -1,0 +1,67 @@
+{
+  "id": 1326897257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.59046,10.62687,-66.59046,10.62687",
+    "geom:latitude":10.62687,
+    "geom:longitude":-66.59046,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"El Cusuy",
+    "gn:country_code":"VE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481307,
+    "gn:latitude":10.62687,
+    "gn:longitude":-66.59046,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"El Cusuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481307
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"44fdb19a4a1e9d68bb98f9636ff518d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1326897257,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1326897257,
+    "wof:lastmodified":1536955299,
+    "wof:name":"El Cusuy",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.59046,
+    10.62687,
+    -66.59046,
+    10.62687
+],
+  "geometry": {"coordinates":[-66.59045999999999,10.62687],"type":"Point"}
+}

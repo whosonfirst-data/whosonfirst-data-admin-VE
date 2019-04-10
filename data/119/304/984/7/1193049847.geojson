@@ -1,0 +1,67 @@
+{
+  "id": 1193049847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.23751,9.98311,-67.23751,9.98311",
+    "geom:latitude":9.98311,
+    "geom:longitude":-67.23751,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yaguare",
+    "gn:country_code":"VE",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625235,
+    "gn:latitude":9.98311,
+    "gn:longitude":-67.23751,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Yaguare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625235
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b71f13eb1d415b366dba8f8ba858028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694407,
+            "locality_id":1193049847,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1193049847,
+    "wof:lastmodified":1536366911,
+    "wof:name":"Yaguare",
+    "wof:parent_id":1108694407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.23751,
+    9.98311,
+    -67.23751,
+    9.98311
+],
+  "geometry": {"coordinates":[-67.23751,9.98311],"type":"Point"}
+}

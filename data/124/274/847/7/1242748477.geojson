@@ -1,0 +1,67 @@
+{
+  "id": 1242748477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85277,8.22629,-71.85277,8.22629",
+    "geom:latitude":8.22629,
+    "geom:longitude":-71.85277,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mesa de Guerrero",
+    "gn:country_code":"VE",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632292,
+    "gn:latitude":8.22629,
+    "gn:longitude":-71.85277,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Mesa de Guerrero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632292
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ee978d296ac548abe8a921f444500b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694373,
+            "locality_id":1242748477,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1242748477,
+    "wof:lastmodified":1536816861,
+    "wof:name":"Mesa de Guerrero",
+    "wof:parent_id":1108694373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85276999999998,
+    8.22629,
+    -71.85276999999998,
+    8.22629
+],
+  "geometry": {"coordinates":[-71.85276999999998,8.22629],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209281161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.81056,10.60611,-66.81056,10.60611",
+    "geom:latitude":10.60611,
+    "geom:longitude":-66.81056,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Llano de la Cruz",
+    "gn:country_code":"VE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481223,
+    "gn:latitude":10.60611,
+    "gn:longitude":-66.81056,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Llano de la Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481223
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ecce44188d1b8d2817278fb2387e6453",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209281161
+        }
+    ],
+    "wof:id":1209281161,
+    "wof:lastmodified":1536292018,
+    "wof:name":"Llano de la Cruz",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.81056,
+    10.60611,
+    -66.81056,
+    10.60611
+],
+  "geometry": {"coordinates":[-66.81056,10.60611],"type":"Point"}
+}

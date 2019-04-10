@@ -1,0 +1,67 @@
+{
+  "id": 1326628283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6,8.6,-69.6,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-69.6,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Palito Juquero",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631078,
+    "gn:latitude":8.6,
+    "gn:longitude":-69.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Palito Juquero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631078
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"888de97f41127d8c8813cedb0f58a69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694375,
+            "locality_id":1326628283,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1326628283,
+    "wof:lastmodified":1536844470,
+    "wof:name":"Palito Juquero",
+    "wof:parent_id":1108694375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6,
+    8.6,
+    -69.6,
+    8.6
+],
+  "geometry": {"coordinates":[-69.59999999999999,8.6],"type":"Point"}
+}

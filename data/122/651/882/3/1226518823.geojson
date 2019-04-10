@@ -1,0 +1,67 @@
+{
+  "id": 1226518823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.29206,9.30626,-65.29206,9.30626",
+    "geom:latitude":9.30626,
+    "geom:longitude":-65.29206,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Rondonera",
+    "gn:country_code":"VE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3774056,
+    "gn:latitude":9.30626,
+    "gn:longitude":-65.29206,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"La Rondonera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3774056
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"81b95ba236db6c30a55ede33319a4b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1226518823,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226518823,
+    "wof:lastmodified":1537035394,
+    "wof:name":"La Rondonera",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.29205999999999,
+    9.30626,
+    -65.29205999999999,
+    9.30626
+],
+  "geometry": {"coordinates":[-65.29205999999999,9.30626],"type":"Point"}
+}

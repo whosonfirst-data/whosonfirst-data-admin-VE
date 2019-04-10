@@ -1,0 +1,64 @@
+{
+  "id": 890442011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.607502,10.99316,-71.607502,10.99316",
+    "geom:latitude":10.99316,
+    "geom:longitude":-71.607502,
+    "gn:country":"VE",
+    "gp:adm0":23424982,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Monagas",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":2434,
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804790,
+        "qs:id":1313039,
+        "wk:page":"Monagas"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052346,
+    "wof:geomhash":"aecee3b0973486cf02f3af7398883594",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "localadmin_id":890442011
+        }
+    ],
+    "wof:id":890442011,
+    "wof:lastmodified":1527792857,
+    "wof:name":"Monagas",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.607502,
+    10.99316,
+    -71.607502,
+    10.99316
+],
+  "geometry": {"coordinates":[-71.607502,10.99316],"type":"Point"}
+}

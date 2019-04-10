@@ -1,0 +1,67 @@
+{
+  "id": 1225902201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9824,10.67328,-71.9824,10.67328",
+    "geom:latitude":10.67328,
+    "geom:longitude":-71.9824,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"El Cieneguito",
+    "gn:country_code":"VE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3788687,
+    "gn:latitude":10.67328,
+    "gn:longitude":-71.9824,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"El Cieneguito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788687
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"133be329198b24ec04a03b54e8fb91a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694217,
+            "locality_id":1225902201,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1225902201,
+    "wof:lastmodified":1536933223,
+    "wof:name":"El Cieneguito",
+    "wof:parent_id":1108694217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9824,
+    10.67328,
+    -71.9824,
+    10.67328
+],
+  "geometry": {"coordinates":[-71.9824,10.67328],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310658657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.27398,10.38903,-71.27398,10.38903",
+    "geom:latitude":10.38903,
+    "geom:longitude":-71.27398,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Palmita Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763710,
+    "gn:latitude":10.38903,
+    "gn:longitude":-71.27398,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"La Palmita Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763710
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e7f57db07c0fd0046c9a47fd92fc0e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1310658657,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1310658657,
+    "wof:lastmodified":1536696296,
+    "wof:name":"La Palmita Abajo",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.27398000000002,
+    10.38903,
+    -71.27398000000002,
+    10.38903
+],
+  "geometry": {"coordinates":[-71.27398000000002,10.38903],"type":"Point"}
+}

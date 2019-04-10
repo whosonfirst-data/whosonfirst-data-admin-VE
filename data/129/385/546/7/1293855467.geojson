@@ -1,0 +1,67 @@
+{
+  "id": 1293855467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.81107,9.72059,-63.81107,9.72059",
+    "geom:latitude":9.72059,
+    "geom:longitude":-63.81107,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Paso del Muerto",
+    "gn:country_code":"VE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630626,
+    "gn:latitude":9.72059,
+    "gn:longitude":-63.81107,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Paso del Muerto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630626
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"121a1b7f590e9fc625aecd7999e5c8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1293855467,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1293855467,
+    "wof:lastmodified":1536753793,
+    "wof:name":"Paso del Muerto",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.81107,
+    9.72059,
+    -63.81107,
+    9.72059
+],
+  "geometry": {"coordinates":[-63.81107,9.72059],"type":"Point"}
+}

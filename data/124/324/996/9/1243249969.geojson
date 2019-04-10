@@ -1,0 +1,67 @@
+{
+  "id": 1243249969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.32413,8.66228,-66.32413,8.66228",
+    "geom:latitude":8.66228,
+    "geom:longitude":-66.32413,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638595,
+    "gn:latitude":8.66228,
+    "gn:longitude":-66.32413,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638595
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2b14bb48b554e2481fe590b471868196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1243249969,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1243249969,
+    "wof:lastmodified":1537085611,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.32413000000001,
+    8.66228,
+    -66.32413000000001,
+    8.66228
+],
+  "geometry": {"coordinates":[-66.32413000000001,8.66228],"type":"Point"}
+}

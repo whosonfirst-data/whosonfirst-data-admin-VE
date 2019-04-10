@@ -1,0 +1,73 @@
+{
+  "id": 1226826373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23826,11.14749,-69.23826,11.14749",
+    "geom:latitude":11.14749,
+    "geom:longitude":-69.23826,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Congal",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643572,
+    "gn:latitude":11.14749,
+    "gn:longitude":-69.23826,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Congal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gongal",
+        "Congal",
+        "El Congo",
+        "El Congal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421169951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643572
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6032effa5864d045020365df8bf9d0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169951,
+            "locality_id":1226826373,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226826373,
+    "wof:lastmodified":1537713606,
+    "wof:name":"El Congal",
+    "wof:parent_id":421169951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23826,
+    11.14749,
+    -69.23826,
+    11.14749
+],
+  "geometry": {"coordinates":[-69.23826,11.14749],"type":"Point"}
+}

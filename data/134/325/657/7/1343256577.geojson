@@ -1,0 +1,67 @@
+{
+  "id": 1343256577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.14333,7.62278,-64.14333,7.62278",
+    "geom:latitude":7.62278,
+    "geom:longitude":-64.14333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Las Taparas",
+    "gn:country_code":"VE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809567,
+    "gn:latitude":7.62278,
+    "gn:longitude":-64.14333,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Las Taparas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421175383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809567
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"883707ac6040fe18e8cd9ca41a799e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175383,
+            "locality_id":1343256577,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1343256577,
+    "wof:lastmodified":1537038851,
+    "wof:name":"Las Taparas",
+    "wof:parent_id":421175383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.14333,
+    7.62278,
+    -64.14333,
+    7.62278
+],
+  "geometry": {"coordinates":[-64.14333000000001,7.62278],"type":"Point"}
+}

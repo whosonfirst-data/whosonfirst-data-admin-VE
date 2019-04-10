@@ -1,0 +1,71 @@
+{
+  "id": 1260369215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.28202,9.86949,-70.28202,9.86949",
+    "geom:latitude":9.86949,
+    "geom:longitude":-70.28202,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Empedrado",
+    "gn:country_code":"VE",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643332,
+    "gn:latitude":9.86949,
+    "gn:longitude":-70.28202,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Empedrado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Empedrado",
+        "El Empedrado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643332
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e4153235963d7ee279e3f469ac409a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1260369215,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1260369215,
+    "wof:lastmodified":1537713604,
+    "wof:name":"El Empedrado",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.28201999999999,
+    9.86949,
+    -70.28201999999999,
+    9.86949
+],
+  "geometry": {"coordinates":[-70.28201999999999,9.86949],"type":"Point"}
+}

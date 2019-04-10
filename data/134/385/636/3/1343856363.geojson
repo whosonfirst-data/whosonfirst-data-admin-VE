@@ -1,0 +1,70 @@
+{
+  "id": 1343856363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22815,7.75259,-71.22815,7.75259",
+    "geom:latitude":7.75259,
+    "geom:longitude":-71.22815,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Suripa",
+    "gn:country_code":"VE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626621,
+    "gn:latitude":7.75259,
+    "gn:longitude":-71.22815,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Surip\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surip\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626621
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5dee3c3749c25f34c6d1746d34adcd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1343856363,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343856363,
+    "wof:lastmodified":1537713513,
+    "wof:name":"Suripa",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22815,
+    7.75259,
+    -71.22815,
+    7.75259
+],
+  "geometry": {"coordinates":[-71.22815,7.75259],"type":"Point"}
+}

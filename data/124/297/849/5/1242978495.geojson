@@ -1,0 +1,67 @@
+{
+  "id": 1242978495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.45424,8.84352,-63.45424,8.84352",
+    "geom:latitude":8.84352,
+    "geom:longitude":-63.45424,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Nueva Lucha",
+    "gn:country_code":"VE",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636982,
+    "gn:latitude":8.84352,
+    "gn:longitude":-63.45424,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Nueva Lucha",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636982
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"219b07a329007bff9bb02be5bec0c8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1242978495,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1242978495,
+    "wof:lastmodified":1536982420,
+    "wof:name":"La Nueva Lucha",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.45424000000001,
+    8.84352,
+    -63.45424000000001,
+    8.84352
+],
+  "geometry": {"coordinates":[-63.45424000000001,8.84352],"type":"Point"}
+}

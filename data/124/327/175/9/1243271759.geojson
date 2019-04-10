@@ -1,0 +1,67 @@
+{
+  "id": 1243271759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61964,9.10327,-63.61964,9.10327",
+    "geom:latitude":9.10327,
+    "geom:longitude":-63.61964,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Pele El Ojo",
+    "gn:country_code":"VE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630434,
+    "gn:latitude":9.10327,
+    "gn:longitude":-63.61964,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Pele El Ojo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630434
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"082b356578fc2def595aca0614c398e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1243271759,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1243271759,
+    "wof:lastmodified":1537054889,
+    "wof:name":"Pele El Ojo",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61964,
+    9.10327,
+    -63.61964,
+    9.10327
+],
+  "geometry": {"coordinates":[-63.61964,9.10327],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243510337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75845,10.42185,-71.75845,10.42185",
+    "geom:latitude":10.42185,
+    "geom:longitude":-71.75845,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Alegria",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3787981,
+    "gn:latitude":10.42185,
+    "gn:longitude":-71.75845,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Alegria",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787981
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a9e25034b015d4a2ea6478c390ab07a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1243510337,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243510337,
+    "wof:lastmodified":1536713866,
+    "wof:name":"Alegria",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.75845,
+    10.42185,
+    -71.75845,
+    10.42185
+],
+  "geometry": {"coordinates":[-71.75845,10.42185],"type":"Point"}
+}

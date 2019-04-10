@@ -1,0 +1,93 @@
+{
+  "id": 421201057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.20296,8.55622,-71.20296,8.55622",
+    "geom:latitude":8.55622,
+    "geom:longitude":-71.20296,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Punta"
+    ],
+    "name:hbs_x_preferred":[
+        "La Punta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30d7\u30f3\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "La Punta"
+    ],
+    "name:srp_x_preferred":[
+        "La Punta"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3636571,
+    "qs:gn_pop":0,
+    "qs:name":"La Punta",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":910245,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468241,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636571,
+        "gp:id":468241,
+        "qs:id":910245,
+        "wd:id":"Q16461561"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010050,
+    "wof:geomhash":"55e677c73d9328c2209e02ee2c40732f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "locality_id":421201057,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421201057,
+    "wof:lastmodified":1527716440,
+    "wof:name":"La Punta",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.20296,
+    8.55622,
+    -71.20296,
+    8.55622
+],
+  "geometry": {"coordinates":[-71.20296,8.55622],"type":"Point"}
+}

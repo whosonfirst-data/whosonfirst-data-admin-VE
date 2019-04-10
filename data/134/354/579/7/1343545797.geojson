@@ -1,0 +1,67 @@
+{
+  "id": 1343545797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35132,9.79222,-68.35132,9.79222",
+    "geom:latitude":9.79222,
+    "geom:longitude":-68.35132,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Piedras Pintadas",
+    "gn:country_code":"VE",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799364,
+    "gn:latitude":9.79222,
+    "gn:longitude":-68.35132,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Piedras Pintadas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799364
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"699805ae9175ea227ec9b188a19dd26c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694265,
+            "locality_id":1343545797,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1343545797,
+    "wof:lastmodified":1536621065,
+    "wof:name":"Piedras Pintadas",
+    "wof:parent_id":1108694265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35132,
+    9.79222,
+    -68.35132,
+    9.79222
+],
+  "geometry": {"coordinates":[-68.35132,9.79222],"type":"Point"}
+}

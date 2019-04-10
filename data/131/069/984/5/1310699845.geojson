@@ -1,0 +1,72 @@
+{
+  "id": 1310699845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75,8.31667,-68.75,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":-68.75,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Cano El Judio",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646959,
+    "gn:latitude":8.31667,
+    "gn:longitude":-68.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ca\u00f1o El Jud\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1o del Judio",
+        "Ca\u00f1o El Jud\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646959
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"190f5dd883f5fb091454717dde8493ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1310699845,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1310699845,
+    "wof:lastmodified":1537713623,
+    "wof:name":"Cano El Judio",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75,
+    8.31667,
+    -68.75,
+    8.31667
+],
+  "geometry": {"coordinates":[-68.75,8.31667],"type":"Point"}
+}

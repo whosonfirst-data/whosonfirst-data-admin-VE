@@ -1,0 +1,67 @@
+{
+  "id": 1310493489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.27505,8.08916,-63.27505,8.08916",
+    "geom:latitude":8.08916,
+    "geom:longitude":-63.27505,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guaimare",
+    "gn:country_code":"VE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3808071,
+    "gn:latitude":8.08916,
+    "gn:longitude":-63.27505,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Guaimare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3808071
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9511e14a030ecd5af132503c2bfb119a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1310493489,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1310493489,
+    "wof:lastmodified":1536935021,
+    "wof:name":"Guaimare",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.27505,
+    8.08916,
+    -63.27505,
+    8.08916
+],
+  "geometry": {"coordinates":[-63.27505,8.08916],"type":"Point"}
+}

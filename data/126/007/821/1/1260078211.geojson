@@ -1,0 +1,67 @@
+{
+  "id": 1260078211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.72595,8.21326,-69.72595,8.21326",
+    "geom:latitude":8.21326,
+    "geom:longitude":-69.72595,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Corozalito",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3487470,
+    "gn:latitude":8.21326,
+    "gn:longitude":-69.72595,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Corozalito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487470
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"337237ac9ca72f449e023c178d3cdda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694317,
+            "locality_id":1260078211,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1260078211,
+    "wof:lastmodified":1536994866,
+    "wof:name":"Corozalito",
+    "wof:parent_id":1108694317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.72595,
+    8.21326,
+    -69.72595,
+    8.21326
+],
+  "geometry": {"coordinates":[-69.72595,8.21326],"type":"Point"}
+}

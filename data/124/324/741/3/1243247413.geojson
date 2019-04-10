@@ -1,0 +1,67 @@
+{
+  "id": 1243247413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.86751,8.93031,-60.86751,8.93031",
+    "geom:latitude":8.93031,
+    "geom:longitude":-60.86751,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Cuajuno",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763131,
+    "gn:latitude":8.93031,
+    "gn:longitude":-60.86751,
+    "gn:modification_date":"1997-11-13",
+    "gn:name":"Cuajuno",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763131
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"67aa35394f92a38dae9d25aec155da53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1243247413,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1243247413,
+    "wof:lastmodified":1537089237,
+    "wof:name":"Cuajuno",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.86751,
+    8.93031,
+    -60.86751,
+    8.93031
+],
+  "geometry": {"coordinates":[-60.86751,8.93031],"type":"Point"}
+}

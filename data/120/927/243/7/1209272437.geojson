@@ -1,0 +1,65 @@
+{
+  "id": 1209272437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.52675,10.73165,-71.52675,10.73165",
+    "geom:latitude":10.73165,
+    "geom:longitude":-71.52675,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Los Haticos del Norte",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634097,
+    "gn:latitude":10.73165,
+    "gn:longitude":-71.52675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Haticos del Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haticos del Norte",
+        "Los Haticos del Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634097
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ec1ed6c7287b819a818a0546a68082b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209272437
+        }
+    ],
+    "wof:id":1209272437,
+    "wof:lastmodified":1537713548,
+    "wof:name":"Los Haticos del Norte",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.52675,
+    10.73165,
+    -71.52675,
+    10.73165
+],
+  "geometry": {"coordinates":[-71.52675000000001,10.73165],"type":"Point"}
+}

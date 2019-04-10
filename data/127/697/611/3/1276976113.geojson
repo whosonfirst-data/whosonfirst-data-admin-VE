@@ -1,0 +1,67 @@
+{
+  "id": 1276976113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.18761,9.79093,-68.18761,9.79093",
+    "geom:latitude":9.79093,
+    "geom:longitude":-68.18761,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Tuna",
+    "gn:country_code":"VE",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799550,
+    "gn:latitude":9.79093,
+    "gn:longitude":-68.18761,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Tuna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799550
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a3684634e216a7960ccb976c9a9d24c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1276976113,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1276976113,
+    "wof:lastmodified":1536912650,
+    "wof:name":"La Tuna",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.18760999999999,
+    9.79093,
+    -68.18760999999999,
+    9.79093
+],
+  "geometry": {"coordinates":[-68.18760999999999,9.79093],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210015867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.72711,9.70127,-66.72711,9.70127",
+    "geom:latitude":9.70127,
+    "geom:longitude":-66.72711,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Guacharaca",
+    "gn:country_code":"VE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640451,
+    "gn:latitude":9.70127,
+    "gn:longitude":-66.72711,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Guacharaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640451
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f45f20dc0a3dcbb0f141e24a697959fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694361,
+            "locality_id":1210015867,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1210015867,
+    "wof:lastmodified":1536395107,
+    "wof:name":"Guacharaca",
+    "wof:parent_id":1108694361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.72711,
+    9.70127,
+    -66.72711,
+    9.70127
+],
+  "geometry": {"coordinates":[-66.72711,9.70127],"type":"Point"}
+}

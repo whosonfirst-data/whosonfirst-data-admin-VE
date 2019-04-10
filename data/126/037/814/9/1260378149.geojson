@@ -1,0 +1,72 @@
+{
+  "id": 1260378149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,10.9,-68.35,10.9",
+    "geom:latitude":10.9,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Guacayana",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640456,
+    "gn:latitude":10.9,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guacayana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guacavana",
+        "Guacayana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640456
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2242a80edce84a5ccf9e78829ee2b85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193381,
+            "locality_id":1260378149,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1260378149,
+    "wof:lastmodified":1537713587,
+    "wof:name":"Guacayana",
+    "wof:parent_id":421193381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    10.9,
+    -68.35,
+    10.9
+],
+  "geometry": {"coordinates":[-68.34999999999999,10.9],"type":"Point"}
+}

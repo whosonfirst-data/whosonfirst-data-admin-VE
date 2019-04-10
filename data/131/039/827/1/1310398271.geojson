@@ -1,0 +1,67 @@
+{
+  "id": 1310398271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39889,8.785,-70.39889,8.785",
+    "geom:latitude":8.785,
+    "geom:longitude":-70.39889,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Pueblito",
+    "gn:country_code":"VE",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486728,
+    "gn:latitude":8.785,
+    "gn:longitude":-70.39889,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"El Pueblito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421194991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486728
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cf213daf95da4a9f4fabb12d4219f559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194991,
+            "locality_id":1310398271,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1310398271,
+    "wof:lastmodified":1537068710,
+    "wof:name":"El Pueblito",
+    "wof:parent_id":421194991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39889000000002,
+    8.785,
+    -70.39889000000002,
+    8.785
+],
+  "geometry": {"coordinates":[-70.39889000000002,8.785],"type":"Point"}
+}

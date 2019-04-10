@@ -1,0 +1,67 @@
+{
+  "id": 1277140237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.99364,10.80903,-63.99364,10.80903",
+    "geom:latitude":10.80903,
+    "geom:longitude":-63.99364,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Playa La Punta",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692528,
+    "gn:latitude":10.80903,
+    "gn:longitude":-63.99364,
+    "gn:modification_date":"2008-05-21",
+    "gn:name":"Playa La Punta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421177413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692528
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"565b06e2677bb05474473b13d0bf024c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421177413,
+            "locality_id":1277140237,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1277140237,
+    "wof:lastmodified":1536684857,
+    "wof:name":"Playa La Punta",
+    "wof:parent_id":421177413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.99364,
+    10.80903,
+    -63.99364,
+    10.80903
+],
+  "geometry": {"coordinates":[-63.99364,10.80903],"type":"Point"}
+}

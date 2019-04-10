@@ -1,0 +1,67 @@
+{
+  "id": 1326892305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.35944,10.39405,-64.35944,10.39405",
+    "geom:latitude":10.39405,
+    "geom:longitude":-64.35944,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Manare",
+    "gn:country_code":"VE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633208,
+    "gn:latitude":10.39405,
+    "gn:longitude":-64.35944,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Manare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633208
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"55dc401b8b56244dc117cd82457018b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1326892305,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1326892305,
+    "wof:lastmodified":1536962273,
+    "wof:name":"Manare",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.35944,
+    10.39405,
+    -64.35944,
+    10.39405
+],
+  "geometry": {"coordinates":[-64.35944000000001,10.39405],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243452397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8,8.21667,-67.8,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":-67.8,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Los Borales",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634497,
+    "gn:latitude":8.21667,
+    "gn:longitude":-67.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Borales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Corales",
+        "Los Borales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634497
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e51181931e358aead0cb148689ca11e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1243452397,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1243452397,
+    "wof:lastmodified":1537713550,
+    "wof:name":"Los Borales",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8,
+    8.21667,
+    -67.8,
+    8.21667
+],
+  "geometry": {"coordinates":[-67.8,8.21667],"type":"Point"}
+}

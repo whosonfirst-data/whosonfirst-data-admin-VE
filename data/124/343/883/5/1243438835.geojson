@@ -1,0 +1,67 @@
+{
+  "id": 1243438835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38824,9.78663,-68.38824,9.78663",
+    "geom:latitude":9.78663,
+    "geom:longitude":-68.38824,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"El Guanabano",
+    "gn:country_code":"VE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643121,
+    "gn:latitude":9.78663,
+    "gn:longitude":-68.38824,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"El Guan\u00e1bano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643121
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9ea3b6524dc5e70d589a9c1f81ee076b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694265,
+            "locality_id":1243438835,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1243438835,
+    "wof:lastmodified":1536815730,
+    "wof:name":"El Guanabano",
+    "wof:parent_id":1108694265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38824,
+    9.78663,
+    -68.38824,
+    9.78663
+],
+  "geometry": {"coordinates":[-68.38824,9.78663],"type":"Point"}
+}

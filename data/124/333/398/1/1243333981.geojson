@@ -1,0 +1,73 @@
+{
+  "id": 1243333981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64126,8.39823,-71.64126,8.39823",
+    "geom:latitude":8.39823,
+    "geom:longitude":-71.64126,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"VE",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3627418,
+    "gn:latitude":8.39823,
+    "gn:longitude":-71.64126,
+    "gn:modification_date":"2012-01-09",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Cruz de Tovar",
+        "Santa Cruz de Mora",
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627418
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a72012eda44a351be8e071b053859e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1243333981,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1243333981,
+    "wof:lastmodified":1537713516,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64126,
+    8.39823,
+    -71.64126,
+    8.39823
+],
+  "geometry": {"coordinates":[-71.64126,8.39823],"type":"Point"}
+}

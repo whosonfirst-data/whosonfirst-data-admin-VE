@@ -1,0 +1,67 @@
+{
+  "id": 1259984757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.50627,10.04158,-67.50627,10.04158",
+    "geom:latitude":10.04158,
+    "geom:longitude":-67.50627,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Rancho Rumbos",
+    "gn:country_code":"VE",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753404,
+    "gn:latitude":10.04158,
+    "gn:longitude":-67.50627,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"Rancho Rumbos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753404
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1d3cc9895f1af9736fd2df85e68d51a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1259984757,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1259984757,
+    "wof:lastmodified":1536631756,
+    "wof:name":"Rancho Rumbos",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.50627,
+    10.04158,
+    -67.50627,
+    10.04158
+],
+  "geometry": {"coordinates":[-67.50627,10.04158],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209898499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96667,10.25,-65.96667,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-65.96667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Bencomo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638833,
+    "gn:latitude":10.25,
+    "gn:longitude":-65.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Bencomo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oficina Bencomo",
+        "La Bencomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421204299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638833
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"254f70336198f929a0fce9f1bc90b0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204299,
+            "locality_id":1209898499,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1209898499,
+    "wof:lastmodified":1537713577,
+    "wof:name":"La Bencomo",
+    "wof:parent_id":421204299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96667,
+    10.25,
+    -65.96667,
+    10.25
+],
+  "geometry": {"coordinates":[-65.96666999999999,10.25],"type":"Point"}
+}

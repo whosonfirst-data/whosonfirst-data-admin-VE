@@ -1,0 +1,67 @@
+{
+  "id": 1259670263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.47251,8.36782,-66.47251,8.36782",
+    "geom:latitude":8.36782,
+    "geom:longitude":-66.47251,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Monasterio",
+    "gn:country_code":"VE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632097,
+    "gn:latitude":8.36782,
+    "gn:longitude":-66.47251,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Monasterio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632097
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9b43ea373e526bfee7d4c39e96f679ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1259670263,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259670263,
+    "wof:lastmodified":1537082924,
+    "wof:name":"Monasterio",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.47251,
+    8.36782,
+    -66.47251,
+    8.36782
+],
+  "geometry": {"coordinates":[-66.47251,8.36782],"type":"Point"}
+}

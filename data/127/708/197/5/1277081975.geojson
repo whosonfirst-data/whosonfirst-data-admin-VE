@@ -1,0 +1,67 @@
+{
+  "id": 1277081975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.59928,8.66663,-64.59928,8.66663",
+    "geom:latitude":8.66663,
+    "geom:longitude":-64.59928,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Paso de los Pobres",
+    "gn:country_code":"VE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484749,
+    "gn:latitude":8.66663,
+    "gn:longitude":-64.59928,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Paso de los Pobres",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484749
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7e583b1318819f59911e59f97dca827c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1277081975,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1277081975,
+    "wof:lastmodified":1536769150,
+    "wof:name":"Paso de los Pobres",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.59928000000001,
+    8.66663,
+    -64.59928000000001,
+    8.66663
+],
+  "geometry": {"coordinates":[-64.59928000000001,8.66663],"type":"Point"}
+}

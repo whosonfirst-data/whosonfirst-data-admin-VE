@@ -1,0 +1,142 @@
+{
+  "id": 421201949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.29035,10.40889,-67.29035,10.40889",
+    "geom:latitude":10.40889,
+    "geom:longitude":-67.29035,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:als_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:arg_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:ces_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:deu_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:eng_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:fra_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:hrv_x_preferred":[
+        "Nijemci kolonije Tovar"
+    ],
+    "name:ind_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:ita_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:lit_x_preferred":[
+        "Kolonija Tovaras"
+    ],
+    "name:nld_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:pol_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:por_x_preferred":[
+        "Col\u00f4nia Tovar"
+    ],
+    "name:ron_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0438\u044f \u0422\u043e\u0432\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Tovar"
+    ],
+    "name:unk_x_variant":[
+        "Tovar"
+    ],
+    "name:vep_x_preferred":[
+        "Kolonija Tovar"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6d1b\u5c3c\u4e9e\u6258\u74e6\u723e"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3626045,
+    "qs:gn_pop":0,
+    "qs:name":"Colonia Tovar",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":425,
+    "qs:photos_1k":86,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":425,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":216657,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468723,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2919,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626045,
+        "gp:id":468723,
+        "qs:id":216657,
+        "wd:id":"Q964130",
+        "wk:page":"Colonia Tovar"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010098,
+    "wof:geomhash":"10c9fc95aadab0f9a74349d11a6e571c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694455,
+            "locality_id":421201949,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421201949,
+    "wof:lastmodified":1527716436,
+    "wof:name":"Colonia Tovar",
+    "wof:parent_id":1108694455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.29035,
+    10.40889,
+    -67.29035,
+    10.40889
+],
+  "geometry": {"coordinates":[-67.29035,10.40889],"type":"Point"}
+}

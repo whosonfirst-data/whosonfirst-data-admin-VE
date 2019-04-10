@@ -1,0 +1,67 @@
+{
+  "id": 1343419037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98333,8.81667,-71.98333,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":-71.98333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Yuca",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634815,
+    "gn:latitude":8.81667,
+    "gn:longitude":-71.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Yuca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634815
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1c3295a1e0b27f889fa9505e22fbe6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1343419037,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343419037,
+    "wof:lastmodified":1536805989,
+    "wof:name":"La Yuca",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98333000000002,
+    8.81667,
+    -71.98333000000002,
+    8.81667
+],
+  "geometry": {"coordinates":[-71.98333000000002,8.81667],"type":"Point"}
+}

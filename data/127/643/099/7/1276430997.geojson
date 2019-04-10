@@ -1,0 +1,67 @@
+{
+  "id": 1276430997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.42167,9.30389,-68.42167,9.30389",
+    "geom:latitude":9.30389,
+    "geom:longitude":-68.42167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Perros",
+    "gn:country_code":"VE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799356,
+    "gn:latitude":9.30389,
+    "gn:longitude":-68.42167,
+    "gn:modification_date":"2002-10-29",
+    "gn:name":"Los Perros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799356
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"40823e14e6d8c82c12f0164d87beb335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694377,
+            "locality_id":1276430997,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1276430997,
+    "wof:lastmodified":1536647387,
+    "wof:name":"Los Perros",
+    "wof:parent_id":1108694377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.42166999999999,
+    9.30389,
+    -68.42166999999999,
+    9.30389
+],
+  "geometry": {"coordinates":[-68.42166999999999,9.30389],"type":"Point"}
+}

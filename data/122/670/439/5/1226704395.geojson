@@ -1,0 +1,71 @@
+{
+  "id": 1226704395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.95237,10.51169,-66.95237,10.51169",
+    "geom:latitude":10.51169,
+    "geom:longitude":-66.95237,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Catia",
+    "gn:country_code":"VE",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646191,
+    "gn:latitude":10.51169,
+    "gn:longitude":-66.95237,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Catia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Planta Catia",
+        "Catia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680535,
+        421202591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646191
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"25ebd3b5b846fcb39e95c4afa82fb189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202591,
+            "locality_id":1226704395,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":1226704395,
+    "wof:lastmodified":1537713620,
+    "wof:name":"Catia",
+    "wof:parent_id":421202591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.95237,
+    10.51169,
+    -66.95237,
+    10.51169
+],
+  "geometry": {"coordinates":[-66.95237,10.51169],"type":"Point"}
+}

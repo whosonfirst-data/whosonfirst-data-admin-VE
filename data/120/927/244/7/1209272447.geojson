@@ -1,0 +1,62 @@
+{
+  "id": 1209272447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2721,10.32025,-71.2721,10.32025",
+    "geom:latitude":10.32025,
+    "geom:longitude":-71.2721,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2319.0",
+    "gn:asciiname":"La Plata",
+    "gn:country_code":"VE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3636682,
+    "gn:latitude":10.32025,
+    "gn:longitude":-71.2721,
+    "gn:modification_date":"2012-08-30",
+    "gn:name":"La Plata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636682
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4efd85987e4c9bfb11cf150f079cbdc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209272447
+        }
+    ],
+    "wof:id":1209272447,
+    "wof:lastmodified":1536292311,
+    "wof:name":"La Plata",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2721,
+    10.32025,
+    -71.2721,
+    10.32025
+],
+  "geometry": {"coordinates":[-71.27209999999999,10.32025],"type":"Point"}
+}

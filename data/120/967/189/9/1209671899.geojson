@@ -1,0 +1,61 @@
+{
+  "id": 1209671899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63333,9.33333,-70.63333,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":-70.63333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"La Cruces",
+    "gn:country_code":"VE",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638314,
+    "gn:latitude":9.33333,
+    "gn:longitude":-70.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638314
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2c19d94d298bc2e41526c3301641cd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209671899
+        }
+    ],
+    "wof:id":1209671899,
+    "wof:lastmodified":1536279891,
+    "wof:name":"La Cruces",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63333,
+    9.33333,
+    -70.63333,
+    9.33333
+],
+  "geometry": {"coordinates":[-70.63333,9.33333],"type":"Point"}
+}

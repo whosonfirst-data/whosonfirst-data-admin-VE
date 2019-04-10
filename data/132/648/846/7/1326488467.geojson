@@ -1,0 +1,68 @@
+{
+  "id": 1326488467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.72161,10.91139,-71.72161,10.91139",
+    "geom:latitude":10.91139,
+    "geom:longitude":-71.72161,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"La Rosita",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636395,
+    "gn:latitude":10.91139,
+    "gn:longitude":-71.72161,
+    "gn:modification_date":"2014-09-28",
+    "gn:name":"La Rosita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421196977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636395
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"544f19f597f277df512b225e0f0424ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196977,
+            "locality_id":1326488467,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326488467,
+    "wof:lastmodified":1537045346,
+    "wof:name":"La Rosita",
+    "wof:parent_id":421196977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.72161,
+    10.91139,
+    -71.72161,
+    10.91139
+],
+  "geometry": {"coordinates":[-71.72161,10.91139],"type":"Point"}
+}

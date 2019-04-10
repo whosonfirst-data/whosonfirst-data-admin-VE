@@ -1,0 +1,67 @@
+{
+  "id": 1226501457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.19247,7.69326,-72.19247,7.69326",
+    "geom:latitude":7.69326,
+    "geom:longitude":-72.19247,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Mesa de Chaucha",
+    "gn:country_code":"VE",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759455,
+    "gn:latitude":7.69326,
+    "gn:longitude":-72.19247,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Mesa de Chaucha",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421171375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759455
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7fec28528180fce3b3551975c75fcc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171375,
+            "locality_id":1226501457,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1226501457,
+    "wof:lastmodified":1537059428,
+    "wof:name":"Mesa de Chaucha",
+    "wof:parent_id":421171375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.19247,
+    7.69326,
+    -72.19247,
+    7.69326
+],
+  "geometry": {"coordinates":[-72.19247,7.69326],"type":"Point"}
+}

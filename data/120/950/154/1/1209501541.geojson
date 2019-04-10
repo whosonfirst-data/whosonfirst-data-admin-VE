@@ -1,0 +1,61 @@
+{
+  "id": 1209501541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.02238,8.56395,-66.02238,8.56395",
+    "geom:latitude":8.56395,
+    "geom:longitude":-66.02238,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Espino",
+    "gn:country_code":"VE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640927,
+    "gn:latitude":8.56395,
+    "gn:longitude":-66.02238,
+    "gn:modification_date":"1999-03-04",
+    "gn:name":"Espino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640927
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9a830d25d5c6584605860d7bbe26bef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209501541
+        }
+    ],
+    "wof:id":1209501541,
+    "wof:lastmodified":1536285167,
+    "wof:name":"Espino",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.02238,
+    8.56395,
+    -66.02238,
+    8.56395
+],
+  "geometry": {"coordinates":[-66.02238,8.56395],"type":"Point"}
+}

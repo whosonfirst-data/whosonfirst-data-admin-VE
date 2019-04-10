@@ -1,0 +1,67 @@
+{
+  "id": 1310105037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.93333,9.48333,-66.93333,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":-66.93333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Quesera El Toro",
+    "gn:country_code":"VE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629432,
+    "gn:latitude":9.48333,
+    "gn:longitude":-66.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Quesera El Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629432
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e079ed2f3bb151852182992448d053aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694361,
+            "locality_id":1310105037,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1310105037,
+    "wof:lastmodified":1536996371,
+    "wof:name":"Quesera El Toro",
+    "wof:parent_id":1108694361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.93333,
+    9.48333,
+    -66.93333,
+    9.48333
+],
+  "geometry": {"coordinates":[-66.93333,9.48333],"type":"Point"}
+}

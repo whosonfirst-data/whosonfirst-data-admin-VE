@@ -1,0 +1,67 @@
+{
+  "id": 1309886147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.32111,10.95778,-68.32111,10.95778",
+    "geom:latitude":10.95778,
+    "geom:longitude":-68.32111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Las Vueltas",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784836,
+    "gn:latitude":10.95778,
+    "gn:longitude":-68.32111,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Las Vueltas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784836
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a93e78ae6c2db0e0153b72103f00ac6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193381,
+            "locality_id":1309886147,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309886147,
+    "wof:lastmodified":1536814645,
+    "wof:name":"Las Vueltas",
+    "wof:parent_id":421193381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.32111,
+    10.95778,
+    -68.32111,
+    10.95778
+],
+  "geometry": {"coordinates":[-68.32111,10.95778],"type":"Point"}
+}

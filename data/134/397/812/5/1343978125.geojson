@@ -1,0 +1,67 @@
+{
+  "id": 1343978125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.98812,9.95252,-67.98812,9.95252",
+    "geom:latitude":9.95252,
+    "geom:longitude":-67.98812,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Dos Bocas",
+    "gn:country_code":"VE",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481602,
+    "gn:latitude":9.95252,
+    "gn:longitude":-67.98812,
+    "gn:modification_date":"2011-09-10",
+    "gn:name":"Las Dos Bocas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481602
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"283ca1e0888b8c9ba99bbf7c13f273ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1343978125,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1343978125,
+    "wof:lastmodified":1536993733,
+    "wof:name":"Las Dos Bocas",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.98812,
+    9.95252,
+    -67.98812,
+    9.95252
+],
+  "geometry": {"coordinates":[-67.98812,9.95252],"type":"Point"}
+}

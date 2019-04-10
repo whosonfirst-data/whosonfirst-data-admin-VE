@@ -1,0 +1,71 @@
+{
+  "id": 1326541885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.87502,8.602,-63.87502,8.602",
+    "geom:latitude":8.602,
+    "geom:longitude":-63.87502,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Canoa",
+    "gn:country_code":"VE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638674,
+    "gn:latitude":8.602,
+    "gn:longitude":-63.87502,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Canoa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canoa",
+        "La Canoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638674
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"816c15c84c6a34c2772d0e24c90233f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1326541885,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326541885,
+    "wof:lastmodified":1537713576,
+    "wof:name":"La Canoa",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.87501999999999,
+    8.602,
+    -63.87501999999999,
+    8.602
+],
+  "geometry": {"coordinates":[-63.87501999999999,8.602],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209899305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.43511,8.18056,-71.43511,8.18056",
+    "geom:latitude":8.18056,
+    "geom:longitude":-71.43511,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chocanta",
+    "gn:country_code":"VE",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645656,
+    "gn:latitude":8.18056,
+    "gn:longitude":-71.43511,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chocant\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645656
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"96c99ca13cf0cf962cd28ac2e94c1cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "locality_id":1209899305,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1209899305,
+    "wof:lastmodified":1536387171,
+    "wof:name":"Chocanta",
+    "wof:parent_id":421175381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43511,
+    8.18056,
+    -71.43511,
+    8.18056
+],
+  "geometry": {"coordinates":[-71.43510999999999,8.18056],"type":"Point"}
+}

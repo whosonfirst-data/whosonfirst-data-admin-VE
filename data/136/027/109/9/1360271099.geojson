@@ -1,0 +1,67 @@
+{
+  "id": 1360271099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.73778,10.04806,-67.73778,10.04806",
+    "geom:latitude":10.04806,
+    "geom:longitude":-67.73778,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Amapola",
+    "gn:country_code":"VE",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649329,
+    "gn:latitude":10.04806,
+    "gn:longitude":-67.73778,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Amapola",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649329
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f4f42a7474c49c857e7e61d9b69c39e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1360271099,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1360271099,
+    "wof:lastmodified":1536677328,
+    "wof:name":"Amapola",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.73778,
+    10.04806,
+    -67.73778,
+    10.04806
+],
+  "geometry": {"coordinates":[-67.73778,10.04806],"type":"Point"}
+}

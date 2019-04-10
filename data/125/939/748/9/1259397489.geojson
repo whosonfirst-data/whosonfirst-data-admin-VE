@@ -1,0 +1,67 @@
+{
+  "id": 1259397489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63333,10.11667,-70.63333,10.11667",
+    "geom:latitude":10.11667,
+    "geom:longitude":-70.63333,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"VE",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638012,
+    "gn:latitude":10.11667,
+    "gn:longitude":-70.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638012
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cb3a462156c1bb24355bc6cf961c2e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1259397489,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1259397489,
+    "wof:lastmodified":1536981400,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63333,
+    10.11667,
+    -70.63333,
+    10.11667
+],
+  "geometry": {"coordinates":[-70.63333,10.11667],"type":"Point"}
+}

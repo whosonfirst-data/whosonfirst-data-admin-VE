@@ -1,0 +1,72 @@
+{
+  "id": 1243227365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.34589,8.6788,-62.34589,8.6788",
+    "geom:latitude":8.6788,
+    "geom:longitude":-62.34589,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Macuare",
+    "gn:country_code":"VE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633425,
+    "gn:latitude":8.6788,
+    "gn:longitude":-62.34589,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macuare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hato Macuare",
+        "Hato Macaure",
+        "Macuare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633425
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d9919a49e47223915d3e7c90ac2d4102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694431,
+            "locality_id":1243227365,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243227365,
+    "wof:lastmodified":1537713544,
+    "wof:name":"Macuare",
+    "wof:parent_id":1108694431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.34589,
+    8.6788,
+    -62.34589,
+    8.6788
+],
+  "geometry": {"coordinates":[-62.34589,8.6788],"type":"Point"}
+}

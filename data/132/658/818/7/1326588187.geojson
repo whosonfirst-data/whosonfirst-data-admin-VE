@@ -1,0 +1,67 @@
+{
+  "id": 1326588187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46765,10.32396,-68.46765,10.32396",
+    "geom:latitude":10.32396,
+    "geom:longitude":-68.46765,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Quinones",
+    "gn:country_code":"VE",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629406,
+    "gn:latitude":10.32396,
+    "gn:longitude":-68.46765,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Qui\u00f1ones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629406
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fe175e13b414d8539840e7c7ec4989db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1326588187,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1326588187,
+    "wof:lastmodified":1536903648,
+    "wof:name":"Quinones",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46765,
+    10.32396,
+    -68.46765,
+    10.32396
+],
+  "geometry": {"coordinates":[-68.46765000000001,10.32396],"type":"Point"}
+}

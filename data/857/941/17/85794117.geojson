@@ -1,0 +1,136 @@
+{
+  "id": 85794117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":53869796.532241,
+    "geom:bbox":"-70.201744,11.703694,-70.201744,11.703694",
+    "geom:latitude":11.703694,
+    "geom:longitude":-70.201744,
+    "gn:gn_country":"VE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":11.68333,
+    "gn:longitude":-70.2,
+    "iso:country":"VE",
+    "lbl:latitude":11.703694,
+    "lbl:longitude":-70.201744,
+    "mps:latitude":11.704522,
+    "mps:longitude":-70.203148,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:spa_x_colloquial":[
+        "Barrio Andres Eloy Blanco"
+    ],
+    "name:spa_x_preferred":[
+        "Barrio Andr\u00e9s Eloy Blanco"
+    ],
+    "name:unk_x_variant":[
+        "Barrio Andr\u00e9s Eloy Blanco"
+    ],
+    "qs:gn_adm0_cc":"VE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3629576,
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Barrio Andr\u00e9s Eloy Blanco",
+    "qs:local_max":267,
+    "qs:local_sum":267,
+    "qs:localhoods":1,
+    "qs:name":"Barrio Andr\u00e9s Eloy Blanco",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Falcon",
+    "qs:name_adm2":"Carirubana",
+    "qs:name_lau":"Carirubana",
+    "qs:name_local":"Punto Fijo",
+    "qs:photo_max":155,
+    "qs:photo_sum":267,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424982,
+    "qs:woe_adm1":2347687,
+    "qs:woe_adm2":26804491,
+    "qs:woe_lau":26805455,
+    "qs:woe_local":468428,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"VE",
+    "qs_pg:gn_country":"VE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3648463,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Barrio Andr\u00e9s Eloy Blanco",
+    "qs_pg:name_adm0":"Venezuela",
+    "qs_pg:name_adm1":"Falcon",
+    "qs_pg:photos":265,
+    "qs_pg:photos_1k":54,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":265,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":277839,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424982,
+    "qs_pg:woe_id":381559,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85680461,
+        102191577,
+        85632317,
+        890451975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648463,
+        "gp:id":381559,
+        "qs:id":277839,
+        "qs_pg:id":277839
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4f069f2b26e8c3f61b56b999d2bf84c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890451975,
+            "locality_id":-1,
+            "neighbourhood_id":85794117,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":85794117,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379806,
+    "wof:name":"Barrio Andr\u00e9s Eloy Blanco",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126085239
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.201744,
+    11.703694,
+    -70.201744,
+    11.703694
+],
+  "geometry": {"coordinates":[-70.20174400000001,11.703694],"type":"Point"}
+}

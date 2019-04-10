@@ -1,0 +1,86 @@
+{
+  "id": 1125342077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.84761,10.961078,-63.84761,10.961078",
+    "geom:latitude":10.961078,
+    "geom:longitude":-63.84761,
+    "gn:gn_country":null,
+    "iso:country":"VE",
+    "lbl:latitude":10.961078,
+    "lbl:longitude":-63.84761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"VE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mari\u00f1o",
+    "qs_pg:name_adm0":"Venezuela",
+    "qs_pg:name_adm1":"Nueva Esparta",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1288,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1137285,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424982,
+    "qs_pg:woe_id":26805132,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424982,
+    "woe:name_adm0":"Venezuela",
+    "woe:name_adm1":"Nueva Esparta",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421170033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805132,
+        "qs_pg:id":1137285
+    },
+    "wof:country":"VE",
+    "wof:created":1497045717,
+    "wof:geomhash":"b98e93f9583edb46bf2be3bf85a5370d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421170033,
+            "localadmin_id":1125342077,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1125342077,
+    "wof:lastmodified":1534379805,
+    "wof:name":"Mari\u00f1o",
+    "wof:parent_id":421170033,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[
+        421191437
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.84761,
+    10.961078,
+    -63.84761,
+    10.961078
+],
+  "geometry": {"coordinates":[-63.84761,10.961078],"type":"Point"}
+}

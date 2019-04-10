@@ -1,0 +1,67 @@
+{
+  "id": 1226528021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.92337,10.10687,-67.92337,10.10687",
+    "geom:latitude":10.10687,
+    "geom:longitude":-67.92337,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"El Charal",
+    "gn:country_code":"VE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753192,
+    "gn:latitude":10.10687,
+    "gn:longitude":-67.92337,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"El Charal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753192
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11e0aa150a8479fb766c384ce246d139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1226528021,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1226528021,
+    "wof:lastmodified":1537022618,
+    "wof:name":"El Charal",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.92336999999999,
+    10.10687,
+    -67.92336999999999,
+    10.10687
+],
+  "geometry": {"coordinates":[-67.92336999999999,10.10687],"type":"Point"}
+}

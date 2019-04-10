@@ -1,0 +1,79 @@
+{
+  "id": 421187905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.672975,11.407136,-69.672975,11.407136",
+    "geom:latitude":11.407136,
+    "geom:longitude":-69.672975,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Gabriel",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Falcon",
+    "qs:photos":186,
+    "qs:photos_1k":38,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1271,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086753,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805460,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805460,
+        "qs:id":1086753,
+        "qs_pg:id":1086753
+    },
+    "wof:country":"VE",
+    "wof:created":1459009527,
+    "wof:geomhash":"4df12f9957a5694074ada567404fc820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "localadmin_id":421187905,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":421187905,
+    "wof:lastmodified":1497042553,
+    "wof:name":"San Gabriel",
+    "wof:parent_id":1108694291,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.672975,
+    11.407136,
+    -69.672975,
+    11.407136
+],
+  "geometry": {"coordinates":[-69.67297499999999,11.407136],"type":"Point"}
+}

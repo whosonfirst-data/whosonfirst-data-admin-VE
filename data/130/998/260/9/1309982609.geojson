@@ -1,0 +1,67 @@
+{
+  "id": 1309982609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.95857,7.7831,-66.95857,7.7831",
+    "geom:latitude":7.7831,
+    "geom:longitude":-66.95857,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Playa de Caujarito",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3773835,
+    "gn:latitude":7.7831,
+    "gn:longitude":-66.95857,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Playa de Caujarito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773835
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4228bbd612e6cd3aeedc73c2a7c0be8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694395,
+            "locality_id":1309982609,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1309982609,
+    "wof:lastmodified":1536676376,
+    "wof:name":"La Playa de Caujarito",
+    "wof:parent_id":1108694395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.95857,
+    7.7831,
+    -66.95857,
+    7.7831
+],
+  "geometry": {"coordinates":[-66.95856999999999,7.7831],"type":"Point"}
+}

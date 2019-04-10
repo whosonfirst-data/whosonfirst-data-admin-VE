@@ -1,0 +1,67 @@
+{
+  "id": 1259695711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.16243,8.64776,-63.16243,8.64776",
+    "geom:latitude":8.64776,
+    "geom:longitude":-63.16243,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mata de Marcano",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485065,
+    "gn:latitude":8.64776,
+    "gn:longitude":-63.16243,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Mata de Marcano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485065
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4f40421acc9b2b9d589bc7fa9b7648a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1259695711,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259695711,
+    "wof:lastmodified":1537047369,
+    "wof:name":"Mata de Marcano",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.16243000000001,
+    8.64776,
+    -63.16243000000001,
+    8.64776
+],
+  "geometry": {"coordinates":[-63.16243000000001,8.64776],"type":"Point"}
+}

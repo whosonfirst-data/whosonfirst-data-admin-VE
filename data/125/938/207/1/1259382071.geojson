@@ -1,0 +1,67 @@
+{
+  "id": 1259382071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.26091,10.06103,-67.26091,10.06103",
+    "geom:latitude":10.06103,
+    "geom:longitude":-67.26091,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"El Nicual",
+    "gn:country_code":"VE",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642423,
+    "gn:latitude":10.06103,
+    "gn:longitude":-67.26091,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Nicual",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642423
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b960caed6484a1459ba309eba1bf5ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694407,
+            "locality_id":1259382071,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1259382071,
+    "wof:lastmodified":1537003557,
+    "wof:name":"El Nicual",
+    "wof:parent_id":1108694407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.26091,
+    10.06103,
+    -67.26091,
+    10.06103
+],
+  "geometry": {"coordinates":[-67.26091,10.06103],"type":"Point"}
+}

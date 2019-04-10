@@ -1,0 +1,71 @@
+{
+  "id": 1293776715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1122,8.76868,-70.1122,8.76868",
+    "geom:latitude":8.76868,
+    "geom:longitude":-70.1122,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Barrancas",
+    "gn:country_code":"VE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3648506,
+    "gn:latitude":8.76868,
+    "gn:longitude":-70.1122,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Barrancas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barrancas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421181907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648506
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4a32d726968004449d5df8065daca1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421181907,
+            "locality_id":1293776715,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1293776715,
+    "wof:lastmodified":1537713629,
+    "wof:name":"Barrancas",
+    "wof:parent_id":421181907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1122,
+    8.76868,
+    -70.1122,
+    8.76868
+],
+  "geometry": {"coordinates":[-70.1122,8.76868],"type":"Point"}
+}

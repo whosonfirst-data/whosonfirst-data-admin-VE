@@ -1,0 +1,61 @@
+{
+  "id": 1209117973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.8,9.31667,-64.8,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":-64.8,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Palos Morochos",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633817,
+    "gn:latitude":9.31667,
+    "gn:longitude":-64.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Palos Morochos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633817
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"514b7b03a01fef27782cf61287a0e506",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209117973
+        }
+    ],
+    "wof:id":1209117973,
+    "wof:lastmodified":1536297195,
+    "wof:name":"Los Palos Morochos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.8,
+    9.31667,
+    -64.8,
+    9.31667
+],
+  "geometry": {"coordinates":[-64.8,9.31667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226334953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.82174,8.1082,-69.82174,8.1082",
+    "geom:latitude":8.1082,
+    "geom:longitude":-69.82174,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sarare",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626961,
+    "gn:latitude":8.1082,
+    "gn:longitude":-69.82174,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Sarare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        890429493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626961
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"793684b17e8265e3916a98fbbd370684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890429493,
+            "locality_id":1226334953,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1226334953,
+    "wof:lastmodified":1536804915,
+    "wof:name":"Sarare",
+    "wof:parent_id":890429493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.82174,
+    8.1082,
+    -69.82174,
+    8.1082
+],
+  "geometry": {"coordinates":[-69.82174000000001,8.1082],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209391363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.8444,9.92932,-65.8444,9.92932",
+    "geom:latitude":9.92932,
+    "geom:longitude":-65.8444,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jobalito",
+    "gn:country_code":"VE",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639180,
+    "gn:latitude":9.92932,
+    "gn:longitude":-65.8444,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Jobalito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639180
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0c35dae10b79e4cea2887d7b1e0f0100",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209391363
+        }
+    ],
+    "wof:id":1209391363,
+    "wof:lastmodified":1536288450,
+    "wof:name":"Jobalito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.8444,
+    9.92932,
+    -65.8444,
+    9.92932
+],
+  "geometry": {"coordinates":[-65.84439999999999,9.92932],"type":"Point"}
+}

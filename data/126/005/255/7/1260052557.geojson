@@ -1,0 +1,67 @@
+{
+  "id": 1260052557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.86296,10.45691,-66.86296,10.45691",
+    "geom:latitude":10.45691,
+    "geom:longitude":-66.86296,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maya",
+    "gn:country_code":"VE",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803895,
+    "gn:latitude":10.45691,
+    "gn:longitude":-66.86296,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Maya",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803895
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a95cf05c6fab85c6aaf6cd125cb1cb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171377,
+            "locality_id":1260052557,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1260052557,
+    "wof:lastmodified":1537031327,
+    "wof:name":"Maya",
+    "wof:parent_id":421171377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.86296,
+    10.45691,
+    -66.86296,
+    10.45691
+],
+  "geometry": {"coordinates":[-66.86296,10.45691],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293858455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61677,10.48199,-63.61677,10.48199",
+    "geom:latitude":10.48199,
+    "geom:longitude":-63.61677,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Boca del Cano",
+    "gn:country_code":"VE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648196,
+    "gn:latitude":10.48199,
+    "gn:longitude":-63.61677,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Boca del Ca\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648196
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"35bfa801ff115d3e0d77d824206e1a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1293858455,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293858455,
+    "wof:lastmodified":1536749318,
+    "wof:name":"Boca del Cano",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61677,
+    10.48199,
+    -63.61677,
+    10.48199
+],
+  "geometry": {"coordinates":[-63.61677,10.48199],"type":"Point"}
+}

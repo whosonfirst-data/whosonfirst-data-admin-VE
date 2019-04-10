@@ -1,0 +1,61 @@
+{
+  "id": 1209096107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.81667,9.8,-67.81667,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":-67.81667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Higuerotal",
+    "gn:country_code":"VE",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639535,
+    "gn:latitude":9.8,
+    "gn:longitude":-67.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Higuerotal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639535
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"45595c0ef00b3980f9266132a11919a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209096107
+        }
+    ],
+    "wof:id":1209096107,
+    "wof:lastmodified":1536297881,
+    "wof:name":"Higuerotal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.81667,
+    9.8,
+    -67.81667,
+    9.8
+],
+  "geometry": {"coordinates":[-67.81667,9.8],"type":"Point"}
+}

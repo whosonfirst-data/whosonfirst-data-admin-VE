@@ -1,0 +1,67 @@
+{
+  "id": 1243063289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.37743,8.4911,-62.37743,8.4911",
+    "geom:latitude":8.4911,
+    "geom:longitude":-62.37743,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"El Supamo",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762929,
+    "gn:latitude":8.4911,
+    "gn:longitude":-62.37743,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Supamo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421183445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762929
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6ef31f46958ff81504880d25688553cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183445,
+            "locality_id":1243063289,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1243063289,
+    "wof:lastmodified":1536859550,
+    "wof:name":"El Supamo",
+    "wof:parent_id":421183445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.37743,
+    8.4911,
+    -62.37743,
+    8.4911
+],
+  "geometry": {"coordinates":[-62.37743,8.4911],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209379735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.36597,10.60652,-63.36597,10.60652",
+    "geom:latitude":10.60652,
+    "geom:longitude":-63.36597,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Areo",
+    "gn:country_code":"VE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796978,
+    "gn:latitude":10.60652,
+    "gn:longitude":-63.36597,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Areo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796978
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3313bc18a26857268f221cb6907c946e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209379735
+        }
+    ],
+    "wof:id":1209379735,
+    "wof:lastmodified":1536288825,
+    "wof:name":"Areo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.36597,
+    10.60652,
+    -63.36597,
+    10.60652
+],
+  "geometry": {"coordinates":[-63.36597,10.60652],"type":"Point"}
+}

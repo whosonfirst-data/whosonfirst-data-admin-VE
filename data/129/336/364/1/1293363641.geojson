@@ -1,0 +1,67 @@
+{
+  "id": 1293363641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.56111,8.56,-71.56111,8.56",
+    "geom:latitude":8.56,
+    "geom:longitude":-71.56111,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"La Honda",
+    "gn:country_code":"VE",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3799185,
+    "gn:latitude":8.56,
+    "gn:longitude":-71.56111,
+    "gn:modification_date":"2002-10-22",
+    "gn:name":"La Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799185
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"07795bbb1bdf7d828adbff0291f3ebe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":1293363641,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1293363641,
+    "wof:lastmodified":1536965463,
+    "wof:name":"La Honda",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.56111,
+    8.56,
+    -71.56111,
+    8.56
+],
+  "geometry": {"coordinates":[-71.56111,8.56],"type":"Point"}
+}

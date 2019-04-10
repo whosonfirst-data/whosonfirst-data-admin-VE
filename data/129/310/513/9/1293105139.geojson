@@ -1,0 +1,67 @@
+{
+  "id": 1293105139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.35407,7.65297,-66.35407,7.65297",
+    "geom:latitude":7.65297,
+    "geom:longitude":-66.35407,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rincon de Caro",
+    "gn:country_code":"VE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765553,
+    "gn:latitude":7.65297,
+    "gn:longitude":-66.35407,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Rinc\u00f3n de Caro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765553
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3772cb8fb92437e5dcc0ed77a6b4345c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1293105139,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293105139,
+    "wof:lastmodified":1536840203,
+    "wof:name":"Rincon de Caro",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.35407,
+    7.65297,
+    -66.35407,
+    7.65297
+],
+  "geometry": {"coordinates":[-66.35406999999999,7.65297],"type":"Point"}
+}

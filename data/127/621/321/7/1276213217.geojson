@@ -1,0 +1,67 @@
+{
+  "id": 1276213217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.8535,9.31353,-65.8535,9.31353",
+    "geom:latitude":9.31353,
+    "geom:longitude":-65.8535,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cano Largo",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646945,
+    "gn:latitude":9.31353,
+    "gn:longitude":-65.8535,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Ca\u00f1o Largo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646945
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dd08334c12c85825fcdd8a41dea2b8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694365,
+            "locality_id":1276213217,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276213217,
+    "wof:lastmodified":1536940738,
+    "wof:name":"Cano Largo",
+    "wof:parent_id":1108694365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.8535,
+    9.31353,
+    -65.8535,
+    9.31353
+],
+  "geometry": {"coordinates":[-65.8535,9.31353],"type":"Point"}
+}

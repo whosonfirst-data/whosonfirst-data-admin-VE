@@ -1,0 +1,66 @@
+{
+  "id": 1209403903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69333,8.44444,-61.69333,8.44444",
+    "geom:latitude":8.44444,
+    "geom:longitude":-61.69333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Las Hermanas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635894,
+    "gn:latitude":8.44444,
+    "gn:longitude":-61.69333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Hermanas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hermanas",
+        "Las Hermanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635894
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cd6b9c72b5a37e60ff46465dbd9d9470",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209403903
+        }
+    ],
+    "wof:id":1209403903,
+    "wof:lastmodified":1537713560,
+    "wof:name":"Las Hermanas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69333,
+    8.44444,
+    -61.69333,
+    8.44444
+],
+  "geometry": {"coordinates":[-61.69333,8.44444],"type":"Point"}
+}

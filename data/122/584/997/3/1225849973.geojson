@@ -1,0 +1,67 @@
+{
+  "id": 1225849973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.14225,10.13339,-67.14225,10.13339",
+    "geom:latitude":10.13339,
+    "geom:longitude":-67.14225,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tiarita",
+    "gn:country_code":"VE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806846,
+    "gn:latitude":10.13339,
+    "gn:longitude":-67.14225,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Tiarita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806846
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cda7c0b87daf22dcca4c9a2826b47f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694419,
+            "locality_id":1225849973,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1225849973,
+    "wof:lastmodified":1537006806,
+    "wof:name":"Tiarita",
+    "wof:parent_id":1108694419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.14225,
+    10.13339,
+    -67.14225,
+    10.13339
+],
+  "geometry": {"coordinates":[-67.14225,10.13339],"type":"Point"}
+}

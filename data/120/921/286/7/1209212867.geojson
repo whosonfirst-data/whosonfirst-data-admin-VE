@@ -1,0 +1,65 @@
+{
+  "id": 1209212867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67672,8.61392,-70.67672,8.61392",
+    "geom:latitude":8.61392,
+    "geom:longitude":-70.67672,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Alto de La Aguada",
+    "gn:country_code":"VE",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649377,
+    "gn:latitude":8.61392,
+    "gn:longitude":-70.67672,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alto de La Aguada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto La Aguada",
+        "Alto de La Aguada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649377
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eadba9852dcfefa5cf39053f22456216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209212867
+        }
+    ],
+    "wof:id":1209212867,
+    "wof:lastmodified":1537713633,
+    "wof:name":"Alto de La Aguada",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67671999999997,
+    8.61392,
+    -70.67671999999997,
+    8.61392
+],
+  "geometry": {"coordinates":[-70.67671999999997,8.61392],"type":"Point"}
+}

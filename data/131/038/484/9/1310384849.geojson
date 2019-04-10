@@ -1,0 +1,67 @@
+{
+  "id": 1310384849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.5,8.4,-65.5,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-65.5,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Tres Matas",
+    "gn:country_code":"VE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635306,
+    "gn:latitude":8.4,
+    "gn:longitude":-65.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Tres Matas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635306
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"07fabc6a5c74925c0b221942877a155e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1310384849,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310384849,
+    "wof:lastmodified":1537087876,
+    "wof:name":"Las Tres Matas",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.5,
+    8.4,
+    -65.5,
+    8.4
+],
+  "geometry": {"coordinates":[-65.5,8.4],"type":"Point"}
+}

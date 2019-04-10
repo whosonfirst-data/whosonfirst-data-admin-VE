@@ -1,0 +1,72 @@
+{
+  "id": 1226510601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.7,9.08333,-72.7,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":-72.7,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Barranca",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648516,
+    "gn:latitude":9.08333,
+    "gn:longitude":-72.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barranca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barrancudo",
+        "Barranca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648516
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"299af66f039172548a71d2710e05de72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694219,
+            "locality_id":1226510601,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226510601,
+    "wof:lastmodified":1537713630,
+    "wof:name":"Barranca",
+    "wof:parent_id":1108694219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.7,
+    9.08333,
+    -72.7,
+    9.08333
+],
+  "geometry": {"coordinates":[-72.7,9.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243319489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.08562,9.29877,-71.08562,9.29877",
+    "geom:latitude":9.29877,
+    "geom:longitude":-71.08562,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Boscan",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648019,
+    "gn:latitude":9.29877,
+    "gn:longitude":-71.08562,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Bosc\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648019
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"242e845f0d4522768ce9ffad60cd1a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1243319489,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243319489,
+    "wof:lastmodified":1536987919,
+    "wof:name":"Boscan",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.08561999999998,
+    9.29877,
+    -71.08561999999998,
+    9.29877
+],
+  "geometry": {"coordinates":[-71.08561999999998,9.29877],"type":"Point"}
+}

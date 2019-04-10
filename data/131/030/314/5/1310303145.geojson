@@ -1,0 +1,67 @@
+{
+  "id": 1310303145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.34324,8.38191,-69.34324,8.38191",
+    "geom:latitude":8.38191,
+    "geom:longitude":-69.34324,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Sabanetas",
+    "gn:country_code":"VE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486649,
+    "gn:latitude":8.38191,
+    "gn:longitude":-69.34324,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Las Sabanetas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486649
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fc4b771479124fd3b7feb93ebc05d31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1310303145,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1310303145,
+    "wof:lastmodified":1536711656,
+    "wof:name":"Las Sabanetas",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.34324000000001,
+    8.38191,
+    -69.34324000000001,
+    8.38191
+],
+  "geometry": {"coordinates":[-69.34324000000001,8.38191],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360066729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.05,9.4,-63.05,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":-63.05,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Casa El Caruto",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646327,
+    "gn:latitude":9.4,
+    "gn:longitude":-63.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Casa El Caruto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Caruto",
+        "Casa El Caruto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646327
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"14b8a703404c905e30c947f3bd66ad67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1360066729,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1360066729,
+    "wof:lastmodified":1537713621,
+    "wof:name":"Casa El Caruto",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.05,
+    9.4,
+    -63.05,
+    9.4
+],
+  "geometry": {"coordinates":[-63.05,9.4],"type":"Point"}
+}

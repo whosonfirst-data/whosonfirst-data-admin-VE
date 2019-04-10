@@ -1,0 +1,67 @@
+{
+  "id": 1243319483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38822,10.36295,-71.38822,10.36295",
+    "geom:latitude":10.36295,
+    "geom:longitude":-71.38822,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Pica Roja",
+    "gn:country_code":"VE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636725,
+    "gn:latitude":10.36295,
+    "gn:longitude":-71.38822,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Pica Roja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421202059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636725
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1db042948416c88d7003cbaab6fb8bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202059,
+            "locality_id":1243319483,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243319483,
+    "wof:lastmodified":1536987928,
+    "wof:name":"La Pica Roja",
+    "wof:parent_id":421202059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38821999999998,
+    10.36295,
+    -71.38821999999998,
+    10.36295
+],
+  "geometry": {"coordinates":[-71.38821999999998,10.36295],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260377431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.33333,9.93333,-67.33333,9.93333",
+    "geom:latitude":9.93333,
+    "geom:longitude":-67.33333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Termales",
+    "gn:country_code":"VE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626318,
+    "gn:latitude":9.93333,
+    "gn:longitude":-67.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Termales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626318
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fa72fd7e33a8e97a6a9c8ecda51e74fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1260377431,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1260377431,
+    "wof:lastmodified":1537079977,
+    "wof:name":"Termales",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.33333,
+    9.93333,
+    -67.33333,
+    9.93333
+],
+  "geometry": {"coordinates":[-67.33333,9.93333],"type":"Point"}
+}

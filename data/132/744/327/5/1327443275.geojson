@@ -1,0 +1,71 @@
+{
+  "id": 1327443275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.65861,10.0384,-64.65861,10.0384",
+    "geom:latitude":10.0384,
+    "geom:longitude":-64.65861,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Toco",
+    "gn:country_code":"VE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641280,
+    "gn:latitude":10.0384,
+    "gn:longitude":-64.65861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Toco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toco",
+        "El Toco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641280
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b21bb64a2982b1e547eb97b7d8ccd35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1327443275,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327443275,
+    "wof:lastmodified":1537713590,
+    "wof:name":"El Toco",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.65861,
+    10.0384,
+    -64.65861,
+    10.0384
+],
+  "geometry": {"coordinates":[-64.65861,10.0384],"type":"Point"}
+}

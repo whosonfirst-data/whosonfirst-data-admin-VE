@@ -1,0 +1,72 @@
+{
+  "id": 1343619593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.4,10.5,-72.4,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":-72.4,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Petrolea",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630293,
+    "gn:latitude":10.5,
+    "gn:longitude":-72.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petr\u00f3lea",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petrolera",
+        "Petr\u00f3lea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630293
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"283903d085cd8e245c3d788da6fdd983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694379,
+            "locality_id":1343619593,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343619593,
+    "wof:lastmodified":1537713529,
+    "wof:name":"Petrolea",
+    "wof:parent_id":1108694379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4,
+    10.5,
+    -72.4,
+    10.5
+],
+  "geometry": {"coordinates":[-72.40000000000001,10.5],"type":"Point"}
+}

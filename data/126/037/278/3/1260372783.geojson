@@ -1,0 +1,67 @@
+{
+  "id": 1260372783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.82287,10.18955,-66.82287,10.18955",
+    "geom:latitude":10.18955,
+    "geom:longitude":-66.82287,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Las Tres Letras",
+    "gn:country_code":"VE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635309,
+    "gn:latitude":10.18955,
+    "gn:longitude":-66.82287,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Las Tres Letras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635309
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"73971b9ab2b568f9e72134f9e0454fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171913,
+            "locality_id":1260372783,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1260372783,
+    "wof:lastmodified":1537086086,
+    "wof:name":"Las Tres Letras",
+    "wof:parent_id":421171913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.82287,
+    10.18955,
+    -66.82287,
+    10.18955
+],
+  "geometry": {"coordinates":[-66.82286999999999,10.18955],"type":"Point"}
+}

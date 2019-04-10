@@ -1,0 +1,86 @@
+{
+  "id": 1327003279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.99156,8.70734,-70.99156,8.70734",
+    "geom:latitude":8.70734,
+    "geom:longitude":-70.99156,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mucuruba",
+    "gn:country_code":"VE",
+    "gn:dem":2365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631715,
+    "gn:latitude":8.70734,
+    "gn:longitude":-70.99156,
+    "gn:modification_date":"2012-10-18",
+    "gn:name":"Mucurub\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mucurub\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "Mucuruba"
+    ],
+    "name:por_x_preferred":[
+        "Mucurub\u00e1"
+    ],
+    "name:por_x_variant":[
+        "Mucuruba"
+    ],
+    "name:spa_x_preferred":[
+        "Mucurub\u00e1"
+    ],
+    "name:spa_x_variant":[
+        "Mucuruba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631715,
+        "wk:page":"Mucurub%C3%A1"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ce7f91d07bfda139a37ae64d43e5f457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":1327003279,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1327003279,
+    "wof:lastmodified":1537575804,
+    "wof:name":"Mucuruba",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.99155999999998,
+    8.70734,
+    -70.99155999999998,
+    8.70734
+],
+  "geometry": {"coordinates":[-70.99155999999998,8.70734],"type":"Point"}
+}

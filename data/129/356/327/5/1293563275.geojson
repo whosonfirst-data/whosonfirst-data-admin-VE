@@ -1,0 +1,67 @@
+{
+  "id": 1293563275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82694,8.04033,-71.82694,8.04033",
+    "geom:latitude":8.04033,
+    "geom:longitude":-71.82694,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Saisayal",
+    "gn:country_code":"VE",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795537,
+    "gn:latitude":8.04033,
+    "gn:longitude":-71.82694,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Saisayal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795537
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2b177f57c7ec6f63178b68f6726768ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183171,
+            "locality_id":1293563275,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293563275,
+    "wof:lastmodified":1536677913,
+    "wof:name":"Saisayal",
+    "wof:parent_id":421183171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82694000000002,
+    8.04033,
+    -71.82694000000002,
+    8.04033
+],
+  "geometry": {"coordinates":[-71.82694000000002,8.04033],"type":"Point"}
+}

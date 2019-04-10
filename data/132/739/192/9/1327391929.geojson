@@ -1,0 +1,71 @@
+{
+  "id": 1327391929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.99044,11.59823,-71.99044,11.59823",
+    "geom:latitude":11.59823,
+    "geom:longitude":-71.99044,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Calinatay",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647420,
+    "gn:latitude":11.59823,
+    "gn:longitude":-71.99044,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Calinatay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calinatai",
+        "Calinatay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647420
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"63be8091e6e83d40857098d44c43fdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1327391929,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1327391929,
+    "wof:lastmodified":1537713625,
+    "wof:name":"Calinatay",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.99044,
+    11.59823,
+    -71.99044,
+    11.59823
+],
+  "geometry": {"coordinates":[-71.99044000000001,11.59823],"type":"Point"}
+}

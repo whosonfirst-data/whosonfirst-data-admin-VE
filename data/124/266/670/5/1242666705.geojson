@@ -1,0 +1,67 @@
+{
+  "id": 1242666705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1124,9.02091,-61.1124,9.02091",
+    "geom:latitude":9.02091,
+    "geom:longitude":-61.1124,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Musimurina",
+    "gn:country_code":"VE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763099,
+    "gn:latitude":9.02091,
+    "gn:longitude":-61.1124,
+    "gn:modification_date":"1997-11-13",
+    "gn:name":"Musimurina",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763099
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c936f098e2d6d4829fa00e1d72b43817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1242666705,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1242666705,
+    "wof:lastmodified":1536936234,
+    "wof:name":"Musimurina",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1124,
+    9.02091,
+    -61.1124,
+    9.02091
+],
+  "geometry": {"coordinates":[-61.1124,9.02091],"type":"Point"}
+}

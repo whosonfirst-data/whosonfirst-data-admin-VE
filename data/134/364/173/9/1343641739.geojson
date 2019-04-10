@@ -1,0 +1,72 @@
+{
+  "id": 1343641739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.20305,11.88333,-70.20305,11.88333",
+    "geom:latitude":11.88333,
+    "geom:longitude":-70.20305,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cropapa",
+    "gn:country_code":"VE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644936,
+    "gn:latitude":11.88333,
+    "gn:longitude":-70.20305,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cropapa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oropopo",
+        "Cropata",
+        "Cropapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890442023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644936
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b5a1984cce77bb33569203fce1e601f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890442023,
+            "locality_id":1343641739,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343641739,
+    "wof:lastmodified":1537713615,
+    "wof:name":"Cropapa",
+    "wof:parent_id":890442023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.20305,
+    11.88333,
+    -70.20305,
+    11.88333
+],
+  "geometry": {"coordinates":[-70.20305,11.88333],"type":"Point"}
+}

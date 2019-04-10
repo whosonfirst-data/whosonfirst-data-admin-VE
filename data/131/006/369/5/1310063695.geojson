@@ -1,0 +1,67 @@
+{
+  "id": 1310063695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96645,11.55494,-71.96645,11.55494",
+    "geom:latitude":11.55494,
+    "geom:longitude":-71.96645,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Neima",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631524,
+    "gn:latitude":11.55494,
+    "gn:longitude":-71.96645,
+    "gn:modification_date":"1998-11-18",
+    "gn:name":"Neima",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631524
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"547d07498a093e9983caf68817d2c42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1310063695,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1310063695,
+    "wof:lastmodified":1537054578,
+    "wof:name":"Neima",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96645,
+    11.55494,
+    -71.96645,
+    11.55494
+],
+  "geometry": {"coordinates":[-71.96644999999999,11.55494],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260043643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.01636,9.6241,-63.01636,9.6241",
+    "geom:latitude":9.6241,
+    "geom:longitude":-63.01636,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Las Bestias",
+    "gn:country_code":"VE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636266,
+    "gn:latitude":9.6241,
+    "gn:longitude":-63.01636,
+    "gn:modification_date":"1996-07-19",
+    "gn:name":"Las Bestias",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636266
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"458681e50124f7e388c0013c64c1fbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1260043643,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1260043643,
+    "wof:lastmodified":1537043761,
+    "wof:name":"Las Bestias",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.01636,
+    9.6241,
+    -63.01636,
+    9.6241
+],
+  "geometry": {"coordinates":[-63.01636,9.6241],"type":"Point"}
+}

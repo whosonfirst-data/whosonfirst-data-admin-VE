@@ -1,0 +1,79 @@
+{
+  "id": 421180901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.864812,11.142634,-63.864812,11.142634",
+    "geom:latitude":11.142634,
+    "geom:longitude":-63.864812,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Antolin del Campo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":190,
+    "qs:photos_1k":39,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":825,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":467199,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805133,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        1108694081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805133,
+        "qs:id":467199,
+        "qs_pg:id":467199
+    },
+    "wof:country":"VE",
+    "wof:created":1459009275,
+    "wof:geomhash":"a0b4186e815c287e2ac6c8424ca70e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694081,
+            "localadmin_id":421180901,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421180901,
+    "wof:lastmodified":1497043587,
+    "wof:name":"Antolin del Campo",
+    "wof:parent_id":1108694081,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.864812,
+    11.142634,
+    -63.864812,
+    11.142634
+],
+  "geometry": {"coordinates":[-63.864812,11.142634],"type":"Point"}
+}

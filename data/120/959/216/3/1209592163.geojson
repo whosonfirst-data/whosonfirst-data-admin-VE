@@ -1,0 +1,61 @@
+{
+  "id": 1209592163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87041,9.03679,-65.87041,9.03679",
+    "geom:latitude":9.03679,
+    "geom:longitude":-65.87041,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Pastora",
+    "gn:country_code":"VE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636840,
+    "gn:latitude":9.03679,
+    "gn:longitude":-65.87041,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Pastora",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636840
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"79169fc758f45c786c7a886891545813",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209592163
+        }
+    ],
+    "wof:id":1209592163,
+    "wof:lastmodified":1536282444,
+    "wof:name":"La Pastora",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87040999999999,
+    9.03679,
+    -65.87040999999999,
+    9.03679
+],
+  "geometry": {"coordinates":[-65.87040999999999,9.03679],"type":"Point"}
+}

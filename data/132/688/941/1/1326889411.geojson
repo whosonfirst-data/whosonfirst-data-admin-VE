@@ -1,0 +1,67 @@
+{
+  "id": 1326889411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33361,7.84496,-72.33361,7.84496",
+    "geom:latitude":7.84496,
+    "geom:longitude":-72.33361,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Lomas Altas",
+    "gn:country_code":"VE",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759246,
+    "gn:latitude":7.84496,
+    "gn:longitude":-72.33361,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"Lomas Altas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759246
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"43df0351436404bd2761f0c7b6219f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694261,
+            "locality_id":1326889411,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1326889411,
+    "wof:lastmodified":1536966328,
+    "wof:name":"Lomas Altas",
+    "wof:parent_id":1108694261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33361,
+    7.84496,
+    -72.33361,
+    7.84496
+],
+  "geometry": {"coordinates":[-72.33360999999999,7.84496],"type":"Point"}
+}

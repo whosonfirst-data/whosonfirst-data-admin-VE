@@ -1,0 +1,67 @@
+{
+  "id": 1309874673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.83943,9.24821,-70.83943,9.24821",
+    "geom:latitude":9.24821,
+    "geom:longitude":-70.83943,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"El Filodelias Monas",
+    "gn:country_code":"VE",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643258,
+    "gn:latitude":9.24821,
+    "gn:longitude":-70.83943,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Filodelias Monas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643258
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87c55bd2b1502f319009bad5d3ea7bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694309,
+            "locality_id":1309874673,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1309874673,
+    "wof:lastmodified":1536830983,
+    "wof:name":"El Filodelias Monas",
+    "wof:parent_id":1108694309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.83943000000002,
+    9.24821,
+    -70.83943000000002,
+    9.24821
+],
+  "geometry": {"coordinates":[-70.83943000000002,9.24821],"type":"Point"}
+}

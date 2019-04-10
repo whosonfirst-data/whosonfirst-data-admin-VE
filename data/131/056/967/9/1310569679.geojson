@@ -1,0 +1,67 @@
+{
+  "id": 1310569679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22308,10.3452,-71.22308,10.3452",
+    "geom:latitude":10.3452,
+    "geom:longitude":-71.22308,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Zamuro",
+    "gn:country_code":"VE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625110,
+    "gn:latitude":10.3452,
+    "gn:longitude":-71.22308,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Zamuro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625110
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4740f8ee74d3d1ead7894ab1a9fedfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201571,
+            "locality_id":1310569679,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1310569679,
+    "wof:lastmodified":1536823566,
+    "wof:name":"Zamuro",
+    "wof:parent_id":421201571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22308000000002,
+    10.3452,
+    -71.22308000000002,
+    10.3452
+],
+  "geometry": {"coordinates":[-71.22308000000002,10.3452],"type":"Point"}
+}

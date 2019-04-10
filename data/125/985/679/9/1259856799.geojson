@@ -1,0 +1,67 @@
+{
+  "id": 1259856799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.90338,11.87426,-69.90338,11.87426",
+    "geom:latitude":11.87426,
+    "geom:longitude":-69.90338,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jariaca",
+    "gn:country_code":"VE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3786278,
+    "gn:latitude":11.87426,
+    "gn:longitude":-69.90338,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Jariaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786278
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2f2d21c35255f10f04c9c80261672ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1259856799,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259856799,
+    "wof:lastmodified":1536816861,
+    "wof:name":"Jariaca",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.90338,
+    11.87426,
+    -69.90338,
+    11.87426
+],
+  "geometry": {"coordinates":[-69.90338,11.87426],"type":"Point"}
+}

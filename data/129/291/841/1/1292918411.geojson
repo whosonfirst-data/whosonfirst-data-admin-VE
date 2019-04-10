@@ -1,0 +1,67 @@
+{
+  "id": 1292918411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.83333,9.98333,-70.83333,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-70.83333,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"La Luz",
+    "gn:country_code":"VE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637310,
+    "gn:latitude":9.98333,
+    "gn:longitude":-70.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Luz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637310
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ab469c580dd60dc33b9f018fa3bf3d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694109,
+            "locality_id":1292918411,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1292918411,
+    "wof:lastmodified":1536610680,
+    "wof:name":"La Luz",
+    "wof:parent_id":1108694109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.83333,
+    9.98333,
+    -70.83333,
+    9.98333
+],
+  "geometry": {"coordinates":[-70.83333,9.98333],"type":"Point"}
+}

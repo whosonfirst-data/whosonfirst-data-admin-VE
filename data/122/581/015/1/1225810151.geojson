@@ -1,0 +1,67 @@
+{
+  "id": 1225810151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.08975,10.68837,-63.08975,10.68837",
+    "geom:latitude":10.68837,
+    "geom:longitude":-63.08975,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Guayabero",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755998,
+    "gn:latitude":10.68837,
+    "gn:longitude":-63.08975,
+    "gn:modification_date":"1996-11-01",
+    "gn:name":"Guayabero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        421193365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755998
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6f71882bd2ab9bec6e3aa55f5b4d23e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193365,
+            "locality_id":1225810151,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1225810151,
+    "wof:lastmodified":1537062381,
+    "wof:name":"Guayabero",
+    "wof:parent_id":421193365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.08975,
+    10.68837,
+    -63.08975,
+    10.68837
+],
+  "geometry": {"coordinates":[-63.08975,10.68837],"type":"Point"}
+}

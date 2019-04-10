@@ -1,0 +1,67 @@
+{
+  "id": 1209998885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23289,10.44131,-66.23289,10.44131",
+    "geom:latitude":10.44131,
+    "geom:longitude":-66.23289,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Turupa",
+    "gn:country_code":"VE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3804318,
+    "gn:latitude":10.44131,
+    "gn:longitude":-66.23289,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Turupa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804318
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"939177f62934338b47a748ed4feba15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1209998885,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1209998885,
+    "wof:lastmodified":1536380878,
+    "wof:name":"Turupa",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23289,
+    10.44131,
+    -66.23289,
+    10.44131
+],
+  "geometry": {"coordinates":[-66.23289,10.44131],"type":"Point"}
+}

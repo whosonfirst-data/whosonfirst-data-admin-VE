@@ -1,0 +1,75 @@
+{
+  "id": 421186949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.705326,8.3153,-62.705326,8.3153",
+    "geom:latitude":8.3153,
+    "geom:longitude":-62.705326,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Ordaz",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Bol\u00edvar",
+    "qs:photos":943,
+    "qs:photos_1k":191,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":943,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077536,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468399,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421190237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468399,
+        "qs:id":1077536
+    },
+    "wof:country":"VE",
+    "wof:created":1459009497,
+    "wof:geomhash":"44509378e90dd7da6dd21a4c35c35220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190237,
+            "locality_id":421186949,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":421186949,
+    "wof:lastmodified":1500034327,
+    "wof:name":"Puerto Ordaz",
+    "wof:parent_id":421190237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.705326,
+    8.3153,
+    -62.705326,
+    8.3153
+],
+  "geometry": {"coordinates":[-62.705326,8.3153],"type":"Point"}
+}

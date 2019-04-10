@@ -1,0 +1,61 @@
+{
+  "id": 1209211881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.625,6.735,-61.625,6.735",
+    "geom:latitude":6.735,
+    "geom:longitude":-61.625,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rancho Cuyuni",
+    "gn:country_code":"VE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809171,
+    "gn:latitude":6.735,
+    "gn:longitude":-61.625,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Rancho Cuyuni",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809171
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c7f10176d7cdcb75121f3aa1b3440456",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209211881
+        }
+    ],
+    "wof:id":1209211881,
+    "wof:lastmodified":1536294264,
+    "wof:name":"Rancho Cuyuni",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.625,
+    6.735,
+    -61.625,
+    6.735
+],
+  "geometry": {"coordinates":[-61.625,6.735],"type":"Point"}
+}

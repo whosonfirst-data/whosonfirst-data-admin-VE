@@ -1,0 +1,71 @@
+{
+  "id": 1260252127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.74194,10.45457,-66.74194,10.45457",
+    "geom:latitude":10.45457,
+    "geom:longitude":-66.74194,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Carimao",
+    "gn:country_code":"VE",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646542,
+    "gn:latitude":10.45457,
+    "gn:longitude":-66.74194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carimao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oficina Carimao",
+        "Carimao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646542
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9962e2a07d8293e7765928ce892107bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171381,
+            "locality_id":1260252127,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1260252127,
+    "wof:lastmodified":1537713622,
+    "wof:name":"Carimao",
+    "wof:parent_id":421171381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.74194,
+    10.45457,
+    -66.74194,
+    10.45457
+],
+  "geometry": {"coordinates":[-66.74194,10.45457],"type":"Point"}
+}

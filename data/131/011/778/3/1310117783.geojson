@@ -1,0 +1,67 @@
+{
+  "id": 1310117783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.79663,8.5855,-64.79663,8.5855",
+    "geom:latitude":8.5855,
+    "geom:longitude":-64.79663,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Matapalo",
+    "gn:country_code":"VE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632607,
+    "gn:latitude":8.5855,
+    "gn:longitude":-64.79663,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Matapalo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632607
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"64dac44893b1e1ab6fb0d2ebbd9867dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1310117783,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310117783,
+    "wof:lastmodified":1536978135,
+    "wof:name":"Matapalo",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.79663000000001,
+    8.5855,
+    -64.79663000000001,
+    8.5855
+],
+  "geometry": {"coordinates":[-64.79663000000001,8.5855],"type":"Point"}
+}

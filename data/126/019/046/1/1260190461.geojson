@@ -1,0 +1,67 @@
+{
+  "id": 1260190461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.62652,8.27211,-64.62652,8.27211",
+    "geom:latitude":8.27211,
+    "geom:longitude":-64.62652,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Chiquero",
+    "gn:country_code":"VE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485761,
+    "gn:latitude":8.27211,
+    "gn:longitude":-64.62652,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"El Chiquero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485761
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c13e4ee074fbe324f7baefc3ea5d6e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1260190461,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1260190461,
+    "wof:lastmodified":1536837344,
+    "wof:name":"El Chiquero",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.62652,
+    8.27211,
+    -64.62652,
+    8.27211
+],
+  "geometry": {"coordinates":[-64.62652,8.27211],"type":"Point"}
+}

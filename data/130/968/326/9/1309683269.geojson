@@ -1,0 +1,67 @@
+{
+  "id": 1309683269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.07824,10.64929,-69.07824,10.64929",
+    "geom:latitude":10.64929,
+    "geom:longitude":-69.07824,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Guabineras",
+    "gn:country_code":"VE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746598,
+    "gn:latitude":10.64929,
+    "gn:longitude":-69.07824,
+    "gn:modification_date":"1996-04-19",
+    "gn:name":"Las Guabineras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746598
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"efbecbec8ba08244fa8ed1d2df8bb788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1309683269,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1309683269,
+    "wof:lastmodified":1536608129,
+    "wof:name":"Las Guabineras",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.07824000000001,
+    10.64929,
+    -69.07824000000001,
+    10.64929
+],
+  "geometry": {"coordinates":[-69.07824000000001,10.64929],"type":"Point"}
+}

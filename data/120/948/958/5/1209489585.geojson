@@ -1,0 +1,61 @@
+{
+  "id": 1209489585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98237,7.8437,-71.98237,7.8437",
+    "geom:latitude":7.8437,
+    "geom:longitude":-71.98237,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bochinche",
+    "gn:country_code":"VE",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3794973,
+    "gn:latitude":7.8437,
+    "gn:longitude":-71.98237,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Bochinche",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794973
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ab2ffafa021aadebd38d20322d8ac8e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209489585
+        }
+    ],
+    "wof:id":1209489585,
+    "wof:lastmodified":1536285529,
+    "wof:name":"Bochinche",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98236999999997,
+    7.8437,
+    -71.98236999999997,
+    7.8437
+],
+  "geometry": {"coordinates":[-71.98236999999997,7.8437],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209065397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97916,8.11454,-71.97916,8.11454",
+    "geom:latitude":8.11454,
+    "geom:longitude":-71.97916,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mogotes",
+    "gn:country_code":"VE",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795317,
+    "gn:latitude":8.11454,
+    "gn:longitude":-71.97916,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Mogotes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795317
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d9560226d2d34242e64f898bf411395b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209065397
+        }
+    ],
+    "wof:id":1209065397,
+    "wof:lastmodified":1536298821,
+    "wof:name":"Mogotes",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97916,
+    8.11454,
+    -71.97916,
+    8.11454
+],
+  "geometry": {"coordinates":[-71.97915999999999,8.11454],"type":"Point"}
+}

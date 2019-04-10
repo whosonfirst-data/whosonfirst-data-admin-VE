@@ -1,0 +1,67 @@
+{
+  "id": 1243243797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.27352,11.23817,-69.27352,11.23817",
+    "geom:latitude":11.23817,
+    "geom:longitude":-69.27352,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Turupia",
+    "gn:country_code":"VE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784766,
+    "gn:latitude":11.23817,
+    "gn:longitude":-69.27352,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Turupia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784766
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cf72a16931a199c2dc1e937015c61352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1243243797,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1243243797,
+    "wof:lastmodified":1537094422,
+    "wof:name":"Turupia",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.27351999999999,
+    11.23817,
+    -69.27351999999999,
+    11.23817
+],
+  "geometry": {"coordinates":[-69.27351999999999,11.23817],"type":"Point"}
+}

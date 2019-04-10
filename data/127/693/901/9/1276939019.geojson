@@ -1,0 +1,67 @@
+{
+  "id": 1276939019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.32123,10.54201,-62.32123,10.54201",
+    "geom:latitude":10.54201,
+    "geom:longitude":-62.32123,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Guaraguara",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795993,
+    "gn:latitude":10.54201,
+    "gn:longitude":-62.32123,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Guaraguara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795993
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"297625f0640442379a594e95b4d17ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694473,
+            "locality_id":1276939019,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276939019,
+    "wof:lastmodified":1536962043,
+    "wof:name":"Guaraguara",
+    "wof:parent_id":1108694473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.32123000000001,
+    10.54201,
+    -62.32123000000001,
+    10.54201
+],
+  "geometry": {"coordinates":[-62.32123000000001,10.54201],"type":"Point"}
+}

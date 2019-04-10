@@ -1,0 +1,67 @@
+{
+  "id": 1326711749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.22278,9.16778,-63.22278,9.16778",
+    "geom:latitude":9.16778,
+    "geom:longitude":-63.22278,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mata Linda",
+    "gn:country_code":"VE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778036,
+    "gn:latitude":9.16778,
+    "gn:longitude":-63.22278,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Mata Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778036
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1d300d05ac7387120de6a15de570acfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1326711749,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1326711749,
+    "wof:lastmodified":1536725681,
+    "wof:name":"Mata Linda",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.22278000000001,
+    9.16778,
+    -63.22278000000001,
+    9.16778
+],
+  "geometry": {"coordinates":[-63.22278000000001,9.16778],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242778561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01667,7.35,-71.01667,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":-71.01667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Camilo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628511,
+    "gn:latitude":7.35,
+    "gn:longitude":-71.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Camilo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Camillo",
+        "San Camilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628511
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4978b9cab5c4f3be19f5a0674c52ecb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1242778561,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1242778561,
+    "wof:lastmodified":1537713520,
+    "wof:name":"San Camilo",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01666999999998,
+    7.35,
+    -71.01666999999998,
+    7.35
+],
+  "geometry": {"coordinates":[-71.01666999999998,7.35],"type":"Point"}
+}

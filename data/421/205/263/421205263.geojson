@@ -1,0 +1,101 @@
+{
+  "id": 421205263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.56591,11.46209,-69.56591,11.46209",
+    "geom:latitude":11.46209,
+    "geom:longitude":-69.56591,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "La Vela de Coro"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u97cb\u62c9\u5fb7\u79d1\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "La Vela de Coro"
+    ],
+    "name:eng_x_preferred":[
+        "La Vela de Coro"
+    ],
+    "name:fre_x_preferred":[
+        "La Vela de Coro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0412\u0435\u043b\u0430-\u0434\u0435-\u041a\u043e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "La Vela de Coro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0412\u0435\u043b\u0430-\u0434\u0435-\u041a\u043e\u0440\u043e"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3634965,
+    "qs:gn_pop":0,
+    "qs:name":"La Vela de Coro",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Falcon",
+    "qs:photos":71,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":71,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":260109,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468477,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634965,
+        "gp:id":468477,
+        "qs:id":260109,
+        "wd:id":"Q3213480"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010217,
+    "wof:geomhash":"d32fb4f554bc0238a280b1f776377a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180897,
+            "locality_id":421205263,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":421205263,
+    "wof:lastmodified":1514502352,
+    "wof:name":"La Vela de Coro",
+    "wof:parent_id":421180897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.56591,
+    11.46209,
+    -69.56591,
+    11.46209
+],
+  "geometry": {"coordinates":[-69.56591,11.46209],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209887131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.95594,10.63726,-69.95594,10.63726",
+    "geom:latitude":10.63726,
+    "geom:longitude":-69.95594,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Pozos Grandes",
+    "gn:country_code":"VE",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750118,
+    "gn:latitude":10.63726,
+    "gn:longitude":-69.95594,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Los Pozos Grandes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pozos Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750118
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6b15d573f861f24294762f0aae025be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1209887131,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1209887131,
+    "wof:lastmodified":1537713636,
+    "wof:name":"Los Pozos Grandes",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.95594,
+    10.63726,
+    -69.95594,
+    10.63726
+],
+  "geometry": {"coordinates":[-69.95594,10.63726],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421181119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.37858,11.01049,-64.37858,11.01049",
+    "geom:latitude":11.01049,
+    "geom:longitude":-64.37858,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Boca del Pozo"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3648175,
+    "qs:gn_pop":0,
+    "qs:name":"Boca de Pozo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475384,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":381721,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        890440759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648175,
+        "gp:id":381721,
+        "qs:id":475384
+    },
+    "wof:country":"VE",
+    "wof:created":1459009286,
+    "wof:geomhash":"6922cbe1769568af7c60b827117390e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890440759,
+            "locality_id":421181119,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421181119,
+    "wof:lastmodified":1501268342,
+    "wof:name":"Boca de Pozo",
+    "wof:parent_id":890440759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.37858,
+    11.01049,
+    -64.37858,
+    11.01049
+],
+  "geometry": {"coordinates":[-64.37858,11.01049],"type":"Point"}
+}

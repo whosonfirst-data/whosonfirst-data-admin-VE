@@ -1,0 +1,67 @@
+{
+  "id": 1327341199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.68417,9.987,-64.68417,9.987",
+    "geom:latitude":9.987,
+    "geom:longitude":-64.68417,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cotopriz",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485641,
+    "gn:latitude":9.987,
+    "gn:longitude":-64.68417,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Cotopriz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485641
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cab5bf495e0bcb4b772f2c349a579208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1327341199,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327341199,
+    "wof:lastmodified":1536811884,
+    "wof:name":"Cotopriz",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.68417,
+    9.987,
+    -64.68417,
+    9.987
+],
+  "geometry": {"coordinates":[-64.68416999999999,9.987],"type":"Point"}
+}

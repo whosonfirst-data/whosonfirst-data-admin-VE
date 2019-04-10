@@ -1,0 +1,71 @@
+{
+  "id": 1226723295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.58644,8.4181,-71.58644,8.4181",
+    "geom:latitude":8.4181,
+    "geom:longitude":-71.58644,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mesa de Las Palmas",
+    "gn:country_code":"VE",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632295,
+    "gn:latitude":8.4181,
+    "gn:longitude":-71.58644,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mesa de Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mesade de Las Palmas",
+        "Mesa de Las Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632295
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"44f9814f671a263ba9a0bec9f70ebd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1226723295,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1226723295,
+    "wof:lastmodified":1537713538,
+    "wof:name":"Mesa de Las Palmas",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.58644,
+    8.4181,
+    -71.58644,
+    8.4181
+],
+  "geometry": {"coordinates":[-71.58644,8.4181],"type":"Point"}
+}

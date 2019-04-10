@@ -1,0 +1,67 @@
+{
+  "id": 1343844605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.39637,8.18421,-65.39637,8.18421",
+    "geom:latitude":8.18421,
+    "geom:longitude":-65.39637,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Carache",
+    "gn:country_code":"VE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646732,
+    "gn:latitude":8.18421,
+    "gn:longitude":-65.39637,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Carache",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646732
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a184b156c2fa0f2c3b201eaa9b68bc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1343844605,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343844605,
+    "wof:lastmodified":1536689613,
+    "wof:name":"Carache",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.39636999999999,
+    8.18421,
+    -65.39636999999999,
+    8.18421
+],
+  "geometry": {"coordinates":[-65.39636999999999,8.18421],"type":"Point"}
+}

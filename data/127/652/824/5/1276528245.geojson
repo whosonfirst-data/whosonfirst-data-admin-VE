@@ -1,0 +1,67 @@
+{
+  "id": 1276528245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.48333,11.06667,-68.48333,11.06667",
+    "geom:latitude":11.06667,
+    "geom:longitude":-68.48333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Charales",
+    "gn:country_code":"VE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634317,
+    "gn:latitude":11.06667,
+    "gn:longitude":-68.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Charales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421185127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634317
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"88d7ac1c24419c0f04b27dec945ef6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185127,
+            "locality_id":1276528245,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276528245,
+    "wof:lastmodified":1537014146,
+    "wof:name":"Los Charales",
+    "wof:parent_id":421185127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.48333000000001,
+    11.06667,
+    -68.48333000000001,
+    11.06667
+],
+  "geometry": {"coordinates":[-68.48333000000001,11.06667],"type":"Point"}
+}

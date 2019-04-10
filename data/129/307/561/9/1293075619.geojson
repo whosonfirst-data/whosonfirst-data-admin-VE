@@ -1,0 +1,71 @@
+{
+  "id": 1293075619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.36566,10.47221,-63.36566,10.47221",
+    "geom:latitude":10.47221,
+    "geom:longitude":-63.36566,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Cedeno de Los Blancos",
+    "gn:country_code":"VE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646102,
+    "gn:latitude":10.47221,
+    "gn:longitude":-63.36566,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cede\u00f1o de Los Blancos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cede\u00f1o de Los Blancas",
+        "Cede\u00f1o de Los Blancos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646102
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"470f070df128a900ff2a3e62abce57e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694077,
+            "locality_id":1293075619,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293075619,
+    "wof:lastmodified":1537713620,
+    "wof:name":"Cedeno de Los Blancos",
+    "wof:parent_id":1108694077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.36566,
+    10.47221,
+    -63.36566,
+    10.47221
+],
+  "geometry": {"coordinates":[-63.36566,10.47221],"type":"Point"}
+}

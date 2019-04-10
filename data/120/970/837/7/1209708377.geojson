@@ -1,0 +1,67 @@
+{
+  "id": 1209708377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.50784,7.99821,-68.50784,7.99821",
+    "geom:latitude":7.99821,
+    "geom:longitude":-68.50784,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jobote",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766745,
+    "gn:latitude":7.99821,
+    "gn:longitude":-68.50784,
+    "gn:modification_date":"1999-06-17",
+    "gn:name":"Jobote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766745
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87c66073e46e1f5bd472a536efbab715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1209708377,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1209708377,
+    "wof:lastmodified":1536391814,
+    "wof:name":"Jobote",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.50784,
+    7.99821,
+    -68.50784,
+    7.99821
+],
+  "geometry": {"coordinates":[-68.50784,7.99821],"type":"Point"}
+}

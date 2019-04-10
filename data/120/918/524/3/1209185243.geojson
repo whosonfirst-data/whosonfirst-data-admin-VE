@@ -1,0 +1,61 @@
+{
+  "id": 1209185243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.76931,10.34908,-69.76931,10.34908",
+    "geom:latitude":10.34908,
+    "geom:longitude":-69.76931,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Zumbador",
+    "gn:country_code":"VE",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750661,
+    "gn:latitude":10.34908,
+    "gn:longitude":-69.76931,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Zumbador",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750661
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"74ccbdde69b05dd74a765a158815e802",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209185243
+        }
+    ],
+    "wof:id":1209185243,
+    "wof:lastmodified":1536295123,
+    "wof:name":"Zumbador",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.76931,
+    10.34908,
+    -69.76931,
+    10.34908
+],
+  "geometry": {"coordinates":[-69.76931,10.34908],"type":"Point"}
+}

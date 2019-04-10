@@ -1,0 +1,68 @@
+{
+  "id": 1209495481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14175,11.623,-70.14175,11.623",
+    "geom:latitude":11.623,
+    "geom:longitude":-70.14175,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tiguadare",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626245,
+    "gn:latitude":11.623,
+    "gn:longitude":-70.14175,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiguadare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Figuadera",
+        "Tiguadore",
+        "Tiguajada",
+        "Tiguadaro",
+        "Tiguadare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626245
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6022684fd6e75683cac47bcfdc7e9f3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209495481
+        }
+    ],
+    "wof:id":1209495481,
+    "wof:lastmodified":1537713511,
+    "wof:name":"Tiguadare",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14175,
+    11.623,
+    -70.14175,
+    11.623
+],
+  "geometry": {"coordinates":[-70.14175,11.623],"type":"Point"}
+}

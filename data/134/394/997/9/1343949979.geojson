@@ -1,0 +1,67 @@
+{
+  "id": 1343949979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.31667,7.28333,-62.31667,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":-62.31667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Corrales",
+    "gn:country_code":"VE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645083,
+    "gn:latitude":7.28333,
+    "gn:longitude":-62.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Corrales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421197623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645083
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3dbf140259bc33a1626c7811628f1e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421197623,
+            "locality_id":1343949979,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1343949979,
+    "wof:lastmodified":1537033734,
+    "wof:name":"Corrales",
+    "wof:parent_id":421197623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.31667,
+    7.28333,
+    -62.31667,
+    7.28333
+],
+  "geometry": {"coordinates":[-62.31667,7.28333],"type":"Point"}
+}

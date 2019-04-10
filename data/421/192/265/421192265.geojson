@@ -1,0 +1,96 @@
+{
+  "id": 421192265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.48355,9.42716,-70.48355,9.42716",
+    "geom:latitude":9.42716,
+    "geom:longitude":-70.48355,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:fra_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:ita_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:por_x_preferred":[
+        "Mucuchies"
+    ],
+    "name:spa_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5eab\u5207\u65af"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3631753,
+    "qs:gn_pop":0,
+    "qs:name":"Mucuch\u00edes",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165504,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468291,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        890439859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631753,
+        "gp:id":468291,
+        "qs:id":1165504,
+        "wd:id":"Q1951681"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009730,
+    "wof:geomhash":"dca538f7c004fd0347100cb006b4a777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890439859,
+            "locality_id":421192265,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":421192265,
+    "wof:lastmodified":1527716115,
+    "wof:name":"Mucuch\u00edes",
+    "wof:parent_id":890439859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.48355,
+    9.42716,
+    -70.48355,
+    9.42716
+],
+  "geometry": {"coordinates":[-70.48354999999999,9.42716],"type":"Point"}
+}

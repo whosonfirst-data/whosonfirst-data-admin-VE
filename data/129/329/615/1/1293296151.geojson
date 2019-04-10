@@ -1,0 +1,71 @@
+{
+  "id": 1293296151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.84578,1.2394,-66.84578,1.2394",
+    "geom:latitude":1.2394,
+    "geom:longitude":-66.84578,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"San Simon del Cocuy",
+    "gn:country_code":"VE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627627,
+    "gn:latitude":1.2394,
+    "gn:longitude":-66.84578,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Sim\u00f3n del Cocuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Sim\u00f3n de Cocuy",
+        "San Sim\u00f3n del Cocuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627627
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0ff09ffcbf2163011de2226923d22e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1293296151,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1293296151,
+    "wof:lastmodified":1537713517,
+    "wof:name":"San Simon del Cocuy",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.84578,
+    1.2394,
+    -66.84578,
+    1.2394
+],
+  "geometry": {"coordinates":[-66.84578,1.2394],"type":"Point"}
+}

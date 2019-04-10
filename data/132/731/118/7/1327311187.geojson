@@ -1,0 +1,71 @@
+{
+  "id": 1327311187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88251,11.44689,-68.88251,11.44689",
+    "geom:latitude":11.44689,
+    "geom:longitude":-68.88251,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sauca",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626932,
+    "gn:latitude":11.44689,
+    "gn:longitude":-68.88251,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sauca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sauco",
+        "Sauca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626932
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"996be5b7cdd92b9560f1502d09d155d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1327311187,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1327311187,
+    "wof:lastmodified":1537713514,
+    "wof:name":"Sauca",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88251,
+    11.44689,
+    -68.88251,
+    11.44689
+],
+  "geometry": {"coordinates":[-68.88251,11.44689],"type":"Point"}
+}

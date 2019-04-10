@@ -1,0 +1,71 @@
+{
+  "id": 1259877959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.31262,8.19616,-70.31262,8.19616",
+    "geom:latitude":8.19616,
+    "geom:longitude":-70.31262,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Lechozote",
+    "gn:country_code":"VE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634784,
+    "gn:latitude":8.19616,
+    "gn:longitude":-70.31262,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lechozote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Chozote",
+        "Lechozote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634784
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1097c1a1c611b5451ff11bf86d68c375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1259877959,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1259877959,
+    "wof:lastmodified":1537713553,
+    "wof:name":"Lechozote",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.31262,
+    8.19616,
+    -70.31262,
+    8.19616
+],
+  "geometry": {"coordinates":[-70.31262,8.19616],"type":"Point"}
+}

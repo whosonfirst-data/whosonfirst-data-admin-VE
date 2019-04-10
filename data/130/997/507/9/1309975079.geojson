@@ -1,0 +1,67 @@
+{
+  "id": 1309975079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.34574,9.52835,-70.34574,9.52835",
+    "geom:latitude":9.52835,
+    "geom:longitude":-70.34574,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Las Virtudes",
+    "gn:country_code":"VE",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481828,
+    "gn:latitude":9.52835,
+    "gn:longitude":-70.34574,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Las Virtudes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481828
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"32e93730862454cf7ca6f9fe3c956a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694143,
+            "locality_id":1309975079,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1309975079,
+    "wof:lastmodified":1536687258,
+    "wof:name":"Las Virtudes",
+    "wof:parent_id":1108694143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.34574,
+    9.52835,
+    -70.34574,
+    9.52835
+],
+  "geometry": {"coordinates":[-70.34574000000001,9.52835],"type":"Point"}
+}

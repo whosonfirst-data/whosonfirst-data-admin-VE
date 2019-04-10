@@ -1,0 +1,61 @@
+{
+  "id": 1209521849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25819,8.05106,-69.25819,8.05106",
+    "geom:latitude":8.05106,
+    "geom:longitude":-69.25819,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Navero",
+    "gn:country_code":"VE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642434,
+    "gn:latitude":8.05106,
+    "gn:longitude":-69.25819,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"El Navero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642434
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"15b96a3a6b3fefde3722bb7a0170624d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209521849
+        }
+    ],
+    "wof:id":1209521849,
+    "wof:lastmodified":1536284554,
+    "wof:name":"El Navero",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25819,
+    8.051060000000001,
+    -69.25819,
+    8.051060000000001
+],
+  "geometry": {"coordinates":[-69.25819,8.05106],"type":"Point"}
+}

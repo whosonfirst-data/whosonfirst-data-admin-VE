@@ -1,0 +1,67 @@
+{
+  "id": 1293864197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.99866,10.64111,-70.99866,10.64111",
+    "geom:latitude":10.64111,
+    "geom:longitude":-70.99866,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cardon Solo",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646590,
+    "gn:latitude":10.64111,
+    "gn:longitude":-70.99866,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Card\u00f3n Solo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646590
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87b24aa134612d72b7aea6336b6d4dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1293864197,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293864197,
+    "wof:lastmodified":1536740987,
+    "wof:name":"Cardon Solo",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.99866,
+    10.64111,
+    -70.99866,
+    10.64111
+],
+  "geometry": {"coordinates":[-70.99866,10.64111],"type":"Point"}
+}

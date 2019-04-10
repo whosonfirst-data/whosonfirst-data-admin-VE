@@ -1,0 +1,61 @@
+{
+  "id": 1293445875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.49333,10.47556,-71.49333,10.47556",
+    "geom:latitude":10.47556,
+    "geom:longitude":-71.49333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Monte Pio",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3789755,
+    "gn:latitude":10.47556,
+    "gn:longitude":-71.49333,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Monte Pio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789755
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"02b51e14dbdc0903bab3bca648baedf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293445875,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293445875,
+    "wof:lastmodified":1536846083,
+    "wof:name":"Monte Pio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.49333,
+    10.47556,
+    -71.49333,
+    10.47556
+],
+  "geometry": {"coordinates":[-71.49333,10.47556],"type":"Point"}
+}

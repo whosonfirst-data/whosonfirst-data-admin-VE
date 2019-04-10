@@ -1,0 +1,73 @@
+{
+  "id": 1192982217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.40194,9.08722,-62.40194,9.08722",
+    "geom:latitude":9.08722,
+    "geom:longitude":-62.40194,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Lechozal",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642858,
+    "gn:latitude":9.08722,
+    "gn:longitude":-62.40194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Lechozal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lechozal",
+        "Lechuzal",
+        "El Lechozal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642858
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d364e407d82f5f8d8566fa7be6ad7f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694255,
+            "locality_id":1192982217,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1192982217,
+    "wof:lastmodified":1537713600,
+    "wof:name":"El Lechozal",
+    "wof:parent_id":1108694255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.40194,
+    9.08722,
+    -62.40194,
+    9.08722
+],
+  "geometry": {"coordinates":[-62.40194,9.08722],"type":"Point"}
+}

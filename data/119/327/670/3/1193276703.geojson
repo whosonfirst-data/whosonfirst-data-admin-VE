@@ -1,0 +1,67 @@
+{
+  "id": 1193276703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.92096,7.09203,-69.92096,7.09203",
+    "geom:latitude":7.09203,
+    "geom:longitude":-69.92096,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Canada Avilena",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647149,
+    "gn:latitude":7.09203,
+    "gn:longitude":-69.92096,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Ca\u00f1ada Avile\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421180899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647149
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bd8d3a6723992e3f1e876edb3c0ff88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180899,
+            "locality_id":1193276703,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1193276703,
+    "wof:lastmodified":1536365500,
+    "wof:name":"Canada Avilena",
+    "wof:parent_id":421180899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.92096,
+    7.09203,
+    -69.92096,
+    7.09203
+],
+  "geometry": {"coordinates":[-69.92095999999999,7.09203],"type":"Point"}
+}

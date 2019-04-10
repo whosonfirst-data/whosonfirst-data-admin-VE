@@ -1,0 +1,72 @@
+{
+  "id": 1260374447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.43333,8.03333,-60.43333,8.03333",
+    "geom:latitude":8.03333,
+    "geom:longitude":-60.43333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"El Terror",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641372,
+    "gn:latitude":8.03333,
+    "gn:longitude":-60.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Terror",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terror",
+        "El Terror"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641372
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8a305cbeb1660fc1cbf625bc0f503e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1260374447,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1260374447,
+    "wof:lastmodified":1537713591,
+    "wof:name":"El Terror",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.43333000000001,
+    8.03333,
+    -60.43333000000001,
+    8.03333
+],
+  "geometry": {"coordinates":[-60.43333000000001,8.03333],"type":"Point"}
+}

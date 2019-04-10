@@ -1,0 +1,70 @@
+{
+  "id": 1209716213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.71389,7.01222,-68.71389,7.01222",
+    "geom:latitude":7.01222,
+    "geom:longitude":-68.71389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Laurelcito",
+    "gn:country_code":"VE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3805050,
+    "gn:latitude":7.01222,
+    "gn:longitude":-68.71389,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Laurelcito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Laurelcito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805050
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"50f6121b00e944d437dfcc7d0743ee30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1209716213,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1209716213,
+    "wof:lastmodified":1537713650,
+    "wof:name":"Laurelcito",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.71389,
+    7.01222,
+    -68.71389,
+    7.01222
+],
+  "geometry": {"coordinates":[-68.71389000000001,7.01222],"type":"Point"}
+}

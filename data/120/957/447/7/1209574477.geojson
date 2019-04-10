@@ -1,0 +1,61 @@
+{
+  "id": 1209574477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2399,7.66949,-72.2399,7.66949",
+    "geom:latitude":7.66949,
+    "geom:longitude":-72.2399,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Tambo",
+    "gn:country_code":"VE",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759451,
+    "gn:latitude":7.66949,
+    "gn:longitude":-72.2399,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"El Tambo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759451
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0d0538df0398c1c6f71a096914fffcef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209574477
+        }
+    ],
+    "wof:id":1209574477,
+    "wof:lastmodified":1536282982,
+    "wof:name":"El Tambo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2399,
+    7.66949,
+    -72.2399,
+    7.66949
+],
+  "geometry": {"coordinates":[-72.23990000000001,7.66949],"type":"Point"}
+}

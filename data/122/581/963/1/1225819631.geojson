@@ -1,0 +1,67 @@
+{
+  "id": 1225819631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27519,7.60732,-72.27519,7.60732",
+    "geom:latitude":7.60732,
+    "geom:longitude":-72.27519,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"La Blanquita",
+    "gn:country_code":"VE",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758823,
+    "gn:latitude":7.60732,
+    "gn:longitude":-72.27519,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"La Blanquita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421185265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758823
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80f78e7480c39b1891316214262d3a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185265,
+            "locality_id":1225819631,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1225819631,
+    "wof:lastmodified":1537049338,
+    "wof:name":"La Blanquita",
+    "wof:parent_id":421185265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27519000000002,
+    7.60732,
+    -72.27519000000002,
+    7.60732
+],
+  "geometry": {"coordinates":[-72.27519000000002,7.60732],"type":"Point"}
+}

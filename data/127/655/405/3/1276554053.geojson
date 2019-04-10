@@ -1,0 +1,70 @@
+{
+  "id": 1276554053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.90451,6.57731,-67.90451,6.57731",
+    "geom:latitude":6.57731,
+    "geom:longitude":-67.90451,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"VE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627158,
+    "gn:latitude":6.57731,
+    "gn:longitude":-67.90451,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627158
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"37e2ed0f4935eb2b676e9535c2231543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1276554053,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276554053,
+    "wof:lastmodified":1537713515,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.90451,
+    6.57731,
+    -67.90451,
+    6.57731
+],
+  "geometry": {"coordinates":[-67.90451,6.57731],"type":"Point"}
+}

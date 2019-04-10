@@ -1,0 +1,67 @@
+{
+  "id": 1326794281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.45853,9.94057,-63.45853,9.94057",
+    "geom:latitude":9.94057,
+    "geom:longitude":-63.45853,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Taguaya",
+    "gn:country_code":"VE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626517,
+    "gn:latitude":9.94057,
+    "gn:longitude":-63.45853,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Taguaya",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626517
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f39ebb6cd2a1b96fe4f88c68e8160772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1326794281,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1326794281,
+    "wof:lastmodified":1536603326,
+    "wof:name":"Taguaya",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.45853,
+    9.94057,
+    -63.45853,
+    9.94057
+],
+  "geometry": {"coordinates":[-63.45853,9.94057],"type":"Point"}
+}

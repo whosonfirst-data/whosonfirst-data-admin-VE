@@ -1,0 +1,71 @@
+{
+  "id": 1343551031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.24514,9.95572,-68.24514,9.95572",
+    "geom:latitude":9.95572,
+    "geom:longitude":-68.24514,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taguanes",
+    "gn:country_code":"VE",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626535,
+    "gn:latitude":9.95572,
+    "gn:longitude":-68.24514,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taguanes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taguana",
+        "Taguanes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626535
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d14f86c63d1cbbbf32f7066dad88512a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "locality_id":1343551031,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1343551031,
+    "wof:lastmodified":1537713512,
+    "wof:name":"Taguanes",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.24514,
+    9.95572,
+    -68.24514,
+    9.95572
+],
+  "geometry": {"coordinates":[-68.24514000000001,9.95572],"type":"Point"}
+}

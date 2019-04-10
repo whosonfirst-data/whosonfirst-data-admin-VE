@@ -1,0 +1,67 @@
+{
+  "id": 1310703911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.54811,8.33552,-64.54811,8.33552",
+    "geom:latitude":8.33552,
+    "geom:longitude":-64.54811,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Guasey",
+    "gn:country_code":"VE",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643096,
+    "gn:latitude":8.33552,
+    "gn:longitude":-64.54811,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Guasey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643096
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2d0a9bf320af1261c02d0e151be9d202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1310703911,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310703911,
+    "wof:lastmodified":1536628924,
+    "wof:name":"El Guasey",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.54811,
+    8.33552,
+    -64.54811,
+    8.33552
+],
+  "geometry": {"coordinates":[-64.54810999999999,8.33552],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276199233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.23849,9.06159,-71.23849,9.06159",
+    "geom:latitude":9.06159,
+    "geom:longitude":-71.23849,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Agua Colorada",
+    "gn:country_code":"VE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798769,
+    "gn:latitude":9.06159,
+    "gn:longitude":-71.23849,
+    "gn:modification_date":"2002-10-22",
+    "gn:name":"Agua Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798769
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9c1b7d14740b5697c1864004144eb660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1276199233,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276199233,
+    "wof:lastmodified":1536958718,
+    "wof:name":"Agua Colorada",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.23849,
+    9.06159,
+    -71.23849,
+    9.06159
+],
+  "geometry": {"coordinates":[-71.23849,9.06159],"type":"Point"}
+}

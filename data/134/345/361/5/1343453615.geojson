@@ -1,0 +1,67 @@
+{
+  "id": 1343453615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42117,8.82416,-70.42117,8.82416",
+    "geom:latitude":8.82416,
+    "geom:longitude":-70.42117,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"VE",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486618,
+    "gn:latitude":8.82416,
+    "gn:longitude":-70.42117,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421194991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486618
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"09cf3a12dd21b43d6698752cd984368d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421194991,
+            "locality_id":1343453615,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343453615,
+    "wof:lastmodified":1536756161,
+    "wof:name":"San Jose",
+    "wof:parent_id":421194991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42116999999998,
+    8.82416,
+    -70.42116999999998,
+    8.82416
+],
+  "geometry": {"coordinates":[-70.42116999999998,8.82416],"type":"Point"}
+}

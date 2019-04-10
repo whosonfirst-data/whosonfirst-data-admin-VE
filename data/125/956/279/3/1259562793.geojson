@@ -1,0 +1,67 @@
+{
+  "id": 1259562793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.09357,9.56457,-66.09357,9.56457",
+    "geom:latitude":9.56457,
+    "geom:longitude":-66.09357,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Romerito",
+    "gn:country_code":"VE",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628988,
+    "gn:latitude":9.56457,
+    "gn:longitude":-66.09357,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Romerito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628988
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c1769af77b287cc5ac0452a291a4a10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694159,
+            "locality_id":1259562793,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259562793,
+    "wof:lastmodified":1536744412,
+    "wof:name":"Romerito",
+    "wof:parent_id":1108694159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.09357,
+    9.56457,
+    -66.09357,
+    9.56457
+],
+  "geometry": {"coordinates":[-66.09357,9.56457],"type":"Point"}
+}

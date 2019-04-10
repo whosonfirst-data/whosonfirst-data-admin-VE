@@ -1,0 +1,67 @@
+{
+  "id": 1226424781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31803,10.19715,-66.31803,10.19715",
+    "geom:latitude":10.19715,
+    "geom:longitude":-66.31803,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Oro",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742363,
+    "gn:latitude":10.19715,
+    "gn:longitude":-66.31803,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"El Oro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742363
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"84332ab0f5c44295112386e4528e22d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1226424781,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1226424781,
+    "wof:lastmodified":1536675720,
+    "wof:name":"El Oro",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31803000000001,
+    10.19715,
+    -66.31803000000001,
+    10.19715
+],
+  "geometry": {"coordinates":[-66.31803000000001,10.19715],"type":"Point"}
+}

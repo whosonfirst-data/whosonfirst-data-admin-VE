@@ -1,0 +1,67 @@
+{
+  "id": 1209996829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26667,11.26667,-69.26667,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":-69.26667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Arenal",
+    "gn:country_code":"VE",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648983,
+    "gn:latitude":11.26667,
+    "gn:longitude":-69.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Arenal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648983
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4a5a173e2c5016c91652da5f67feb88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1209996829,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1209996829,
+    "wof:lastmodified":1536382974,
+    "wof:name":"Arenal",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26666999999999,
+    11.26667,
+    -69.26666999999999,
+    11.26667
+],
+  "geometry": {"coordinates":[-69.26666999999999,11.26667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226625719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.59055,9.36748,-67.59055,9.36748",
+    "geom:latitude":9.36748,
+    "geom:longitude":-67.59055,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Rincon de Los Toros",
+    "gn:country_code":"VE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641694,
+    "gn:latitude":9.36748,
+    "gn:longitude":-67.59055,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"El Rinc\u00f3n de Los Toros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641694
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e6656263221d7fbc6693c98eb9183df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1226625719,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226625719,
+    "wof:lastmodified":1536887981,
+    "wof:name":"El Rincon de Los Toros",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.59055,
+    9.36748,
+    -67.59055,
+    9.36748
+],
+  "geometry": {"coordinates":[-67.59054999999999,9.36748],"type":"Point"}
+}

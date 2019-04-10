@@ -1,0 +1,65 @@
+{
+  "id": 1276772155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.37108,5.93976,-67.37108,5.93976",
+    "geom:latitude":5.93976,
+    "geom:longitude":-67.37108,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Topocho",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626111,
+    "gn:latitude":5.93976,
+    "gn:longitude":-67.37108,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Topocho",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626111
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"34f8e7989f2931b3fdef8ef10896c43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "locality_id":1276772155,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1276772155,
+    "wof:lastmodified":1536687793,
+    "wof:name":"Topocho",
+    "wof:parent_id":85680511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.37108,
+    5.93976,
+    -67.37108,
+    5.93976
+],
+  "geometry": {"coordinates":[-67.37108000000001,5.93976],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326788493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88383,8.76846,-71.88383,8.76846",
+    "geom:latitude":8.76846,
+    "geom:longitude":-71.88383,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Guaimaro",
+    "gn:country_code":"VE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643148,
+    "gn:latitude":8.76846,
+    "gn:longitude":-71.88383,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Gu\u00e1imaro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gu\u00e1maro",
+        "El Gu\u00e1imaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643148
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ea708d513dcb00dc51e152a4d55f3411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1326788493,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326788493,
+    "wof:lastmodified":1537713602,
+    "wof:name":"El Guaimaro",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88383,
+    8.76846,
+    -71.88383,
+    8.76846
+],
+  "geometry": {"coordinates":[-71.88383,8.76846],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226608883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.40581,9.89744,-63.40581,9.89744",
+    "geom:latitude":9.89744,
+    "geom:longitude":-63.40581,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Tocos",
+    "gn:country_code":"VE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755724,
+    "gn:latitude":9.89744,
+    "gn:longitude":-63.40581,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Los Tocos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755724
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aa88c0c94797cc936006586fb8507c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1226608883,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1226608883,
+    "wof:lastmodified":1536911870,
+    "wof:name":"Los Tocos",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.40581,
+    9.89744,
+    -63.40581,
+    9.89744
+],
+  "geometry": {"coordinates":[-63.40581,9.89744],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209971683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03096,10.39748,-67.03096,10.39748",
+    "geom:latitude":10.39748,
+    "geom:longitude":-67.03096,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Los Tres Puentes",
+    "gn:country_code":"VE",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3481017,
+    "gn:latitude":10.39748,
+    "gn:longitude":-67.03096,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Los Tres Puentes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680535,
+        1108694091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c8fcad274ea4ec0c5505f10d5488f345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694091,
+            "locality_id":1209971683,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":1209971683,
+    "wof:lastmodified":1536394746,
+    "wof:name":"Los Tres Puentes",
+    "wof:parent_id":1108694091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03096,
+    10.39748,
+    -67.03096,
+    10.39748
+],
+  "geometry": {"coordinates":[-67.03095999999999,10.39748],"type":"Point"}
+}

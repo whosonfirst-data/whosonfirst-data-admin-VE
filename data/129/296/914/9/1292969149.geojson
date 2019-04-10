@@ -1,0 +1,67 @@
+{
+  "id": 1292969149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05257,9.13539,-71.05257,9.13539",
+    "geom:latitude":9.13539,
+    "geom:longitude":-71.05257,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Palmichoso",
+    "gn:country_code":"VE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642288,
+    "gn:latitude":9.13539,
+    "gn:longitude":-71.05257,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Palmichoso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642288
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"398acd381e745c3875555d4ee432b438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1292969149,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1292969149,
+    "wof:lastmodified":1537035824,
+    "wof:name":"El Palmichoso",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05256999999997,
+    9.13539,
+    -71.05256999999997,
+    9.13539
+],
+  "geometry": {"coordinates":[-71.05256999999997,9.13539],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343963143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.15,10.16667,-67.15,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":-67.15,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Hacienda La Florida",
+    "gn:country_code":"VE",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639675,
+    "gn:latitude":10.16667,
+    "gn:longitude":-67.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Hacienda La Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639675
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5d62bd3c8fa38ad47c33f18edf4059e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694419,
+            "locality_id":1343963143,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1343963143,
+    "wof:lastmodified":1537015318,
+    "wof:name":"Hacienda La Florida",
+    "wof:parent_id":1108694419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.15,
+    10.16667,
+    -67.15,
+    10.16667
+],
+  "geometry": {"coordinates":[-67.15000000000001,10.16667],"type":"Point"}
+}

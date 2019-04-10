@@ -1,0 +1,61 @@
+{
+  "id": 1209279311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.28942,10.60773,-62.28942,10.60773",
+    "geom:latitude":10.60773,
+    "geom:longitude":-62.28942,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Guaramita",
+    "gn:country_code":"VE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797242,
+    "gn:latitude":10.60773,
+    "gn:longitude":-62.28942,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Guaramita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797242
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b32066faf8a3088004f0e114a883586e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209279311
+        }
+    ],
+    "wof:id":1209279311,
+    "wof:lastmodified":1536292080,
+    "wof:name":"Guaramita",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.28941999999999,
+    10.60773,
+    -62.28941999999999,
+    10.60773
+],
+  "geometry": {"coordinates":[-62.28941999999999,10.60773],"type":"Point"}
+}

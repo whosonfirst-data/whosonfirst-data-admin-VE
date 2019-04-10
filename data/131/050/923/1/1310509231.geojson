@@ -1,0 +1,67 @@
+{
+  "id": 1310509231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.23625,8.21239,-64.23625,8.21239",
+    "geom:latitude":8.21239,
+    "geom:longitude":-64.23625,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Cerro Negro",
+    "gn:country_code":"VE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646008,
+    "gn:latitude":8.21239,
+    "gn:longitude":-64.23625,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Cerro Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646008
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a2ac744acd2a08de8bab5c3186f8c58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1310509231,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310509231,
+    "wof:lastmodified":1536911828,
+    "wof:name":"Cerro Negro",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.23625,
+    8.21239,
+    -64.23625,
+    8.21239
+],
+  "geometry": {"coordinates":[-64.23625,8.21239],"type":"Point"}
+}

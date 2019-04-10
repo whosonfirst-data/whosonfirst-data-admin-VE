@@ -1,0 +1,72 @@
+{
+  "id": 1259370155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0,10.71667,-71.0,10.71667",
+    "geom:latitude":10.71667,
+    "geom:longitude":-71.0,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Olamas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631357,
+    "gn:latitude":10.71667,
+    "gn:longitude":-71.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Olamas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ollamas",
+        "Olamas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631357
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"780f86baadebaddcf1c34b5001557f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1259370155,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259370155,
+    "wof:lastmodified":1537713535,
+    "wof:name":"Olamas",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0,
+    10.71667,
+    -71.0,
+    10.71667
+],
+  "geometry": {"coordinates":[-71.0,10.71667],"type":"Point"}
+}

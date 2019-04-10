@@ -1,0 +1,67 @@
+{
+  "id": 1260376521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.3568,10.05508,-68.3568,10.05508",
+    "geom:latitude":10.05508,
+    "geom:longitude":-68.3568,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"La Masiera",
+    "gn:country_code":"VE",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750724,
+    "gn:latitude":10.05508,
+    "gn:longitude":-68.3568,
+    "gn:modification_date":"1996-07-02",
+    "gn:name":"La Masiera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750724
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b62a375b9076d366bb77d467c1c25ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694289,
+            "locality_id":1260376521,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1260376521,
+    "wof:lastmodified":1537081172,
+    "wof:name":"La Masiera",
+    "wof:parent_id":1108694289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.3568,
+    10.05508,
+    -68.3568,
+    10.05508
+],
+  "geometry": {"coordinates":[-68.35680000000001,10.05508],"type":"Point"}
+}

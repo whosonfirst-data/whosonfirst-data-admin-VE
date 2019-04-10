@@ -1,0 +1,71 @@
+{
+  "id": 1276635791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.28752,11.4719,-69.28752,11.4719",
+    "geom:latitude":11.4719,
+    "geom:longitude":-69.28752,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Patricio",
+    "gn:country_code":"VE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627843,
+    "gn:latitude":11.4719,
+    "gn:longitude":-69.28752,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Patricio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Patric\u00f3n",
+        "San Patricio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627843
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"442976d295142d411e34fc2778d58aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1276635791,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276635791,
+    "wof:lastmodified":1537713518,
+    "wof:name":"San Patricio",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.28752,
+    11.4719,
+    -69.28752,
+    11.4719
+],
+  "geometry": {"coordinates":[-69.28752,11.4719],"type":"Point"}
+}

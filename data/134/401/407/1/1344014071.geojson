@@ -1,0 +1,73 @@
+{
+  "id": 1344014071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.58333,11.7,-71.58333,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":-71.58333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Gueque Keip",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639773,
+    "gn:latitude":11.7,
+    "gn:longitude":-71.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gueque Keip",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guegue Keip",
+        "Guegekeip",
+        "Gueque Keip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639773
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5ba8223a94305f883b4a3169f1c20ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1344014071,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1344014071,
+    "wof:lastmodified":1537713583,
+    "wof:name":"Gueque Keip",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.58333,
+    11.7,
+    -71.58333,
+    11.7
+],
+  "geometry": {"coordinates":[-71.58333,11.7],"type":"Point"}
+}

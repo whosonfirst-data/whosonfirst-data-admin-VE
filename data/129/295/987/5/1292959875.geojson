@@ -1,0 +1,71 @@
+{
+  "id": 1292959875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24683,7.75386,-72.24683,7.75386",
+    "geom:latitude":7.75386,
+    "geom:longitude":-72.24683,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Perico",
+    "gn:country_code":"VE",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630347,
+    "gn:latitude":7.75386,
+    "gn:longitude":-72.24683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Perico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pericos",
+        "Perico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421171375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630347
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"27d36ed01044a1dd176645982169ceff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171375,
+            "locality_id":1292959875,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1292959875,
+    "wof:lastmodified":1537713529,
+    "wof:name":"Perico",
+    "wof:parent_id":421171375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24683,
+    7.75386,
+    -72.24683,
+    7.75386
+],
+  "geometry": {"coordinates":[-72.24683,7.75386],"type":"Point"}
+}

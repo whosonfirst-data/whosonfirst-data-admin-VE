@@ -1,0 +1,67 @@
+{
+  "id": 1209792983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.92772,11.84197,-69.92772,11.84197",
+    "geom:latitude":11.84197,
+    "geom:longitude":-69.92772,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Misaray",
+    "gn:country_code":"VE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765968,
+    "gn:latitude":11.84197,
+    "gn:longitude":-69.92772,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Misaray",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765968
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a504f1b7f9ea2cf76711b361b17d7aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1209792983,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1209792983,
+    "wof:lastmodified":1536394160,
+    "wof:name":"Misaray",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.92772,
+    11.84197,
+    -69.92772,
+    11.84197
+],
+  "geometry": {"coordinates":[-69.92771999999999,11.84197],"type":"Point"}
+}

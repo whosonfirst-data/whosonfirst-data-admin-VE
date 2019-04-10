@@ -1,0 +1,67 @@
+{
+  "id": 1192995559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.32944,10.98278,-68.32944,10.98278",
+    "geom:latitude":10.98278,
+    "geom:longitude":-68.32944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mata Seca",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3783990,
+    "gn:latitude":10.98278,
+    "gn:longitude":-68.32944,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Mata Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421193381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783990
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"16d268d680a34f1cf7d29a47474ac497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193381,
+            "locality_id":1192995559,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1192995559,
+    "wof:lastmodified":1536376236,
+    "wof:name":"Mata Seca",
+    "wof:parent_id":421193381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.32944,
+    10.98278,
+    -68.32944,
+    10.98278
+],
+  "geometry": {"coordinates":[-68.32944000000001,10.98278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309992425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.81778,8.82222,-65.81778,8.82222",
+    "geom:latitude":8.82222,
+    "geom:longitude":-65.81778,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Corocito Penero",
+    "gn:country_code":"VE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645163,
+    "gn:latitude":8.82222,
+    "gn:longitude":-65.81778,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Corocito Pe\u00f1ero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645163
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9261aaf01fa4455a7dbca216d256fae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694175,
+            "locality_id":1309992425,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1309992425,
+    "wof:lastmodified":1536662213,
+    "wof:name":"Corocito Penero",
+    "wof:parent_id":1108694175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.81778,
+    8.82222,
+    -65.81778,
+    8.82222
+],
+  "geometry": {"coordinates":[-65.81778,8.82222],"type":"Point"}
+}

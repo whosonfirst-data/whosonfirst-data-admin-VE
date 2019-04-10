@@ -1,0 +1,67 @@
+{
+  "id": 1276180339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28352,10.33374,-71.28352,10.33374",
+    "geom:latitude":10.33374,
+    "geom:longitude":-71.28352,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sabana de la Plata",
+    "gn:country_code":"VE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628925,
+    "gn:latitude":10.33374,
+    "gn:longitude":-71.28352,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Sabana de la Plata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628925
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cf02b20d343699181e1e4c0546409bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201571,
+            "locality_id":1276180339,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276180339,
+    "wof:lastmodified":1536983257,
+    "wof:name":"Sabana de la Plata",
+    "wof:parent_id":421201571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28352,
+    10.33374,
+    -71.28352,
+    10.33374
+],
+  "geometry": {"coordinates":[-71.28352,10.33374],"type":"Point"}
+}

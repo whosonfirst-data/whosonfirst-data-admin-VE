@@ -1,0 +1,79 @@
+{
+  "id": 1260085179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.4,10.53333,-67.4,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":-67.4,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Puerto Maya",
+    "gn:country_code":"VE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629665,
+    "gn:latitude":10.53333,
+    "gn:longitude":-67.4,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Puerto Maya",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Puerto Maya"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Maya"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Maya"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Maya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629665
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"139a38a37d18c005b240482a5b84ad3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694455,
+            "locality_id":1260085179,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1260085179,
+    "wof:lastmodified":1537560437,
+    "wof:name":"Puerto Maya",
+    "wof:parent_id":1108694455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.4,
+    10.53333,
+    -67.4,
+    10.53333
+],
+  "geometry": {"coordinates":[-67.40000000000001,10.53333],"type":"Point"}
+}

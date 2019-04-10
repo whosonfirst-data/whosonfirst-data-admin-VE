@@ -1,0 +1,67 @@
+{
+  "id": 1327155681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.60833,7.50833,-62.60833,7.50833",
+    "geom:latitude":7.50833,
+    "geom:longitude":-62.60833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Los Corrales",
+    "gn:country_code":"VE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807769,
+    "gn:latitude":7.50833,
+    "gn:longitude":-62.60833,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Los Corrales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421197623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807769
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6df3fd8cd2c219a85feea4460ddff4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421197623,
+            "locality_id":1327155681,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1327155681,
+    "wof:lastmodified":1537077291,
+    "wof:name":"Los Corrales",
+    "wof:parent_id":421197623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.60833,
+    7.50833,
+    -62.60833,
+    7.50833
+],
+  "geometry": {"coordinates":[-62.60833,7.50833],"type":"Point"}
+}

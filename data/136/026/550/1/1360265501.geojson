@@ -1,0 +1,70 @@
+{
+  "id": 1360265501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63236,11.16917,-68.63236,11.16917",
+    "geom:latitude":11.16917,
+    "geom:longitude":-68.63236,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cama Chimboa",
+    "gn:country_code":"VE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647406,
+    "gn:latitude":11.16917,
+    "gn:longitude":-68.63236,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cama Chimboa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camachima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421185127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647406
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2db607ee345f5a9cd021251c68208575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185127,
+            "locality_id":1360265501,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1360265501,
+    "wof:lastmodified":1537713625,
+    "wof:name":"Cama Chimboa",
+    "wof:parent_id":421185127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63235999999999,
+    11.16917,
+    -68.63235999999999,
+    11.16917
+],
+  "geometry": {"coordinates":[-68.63235999999999,11.16917],"type":"Point"}
+}

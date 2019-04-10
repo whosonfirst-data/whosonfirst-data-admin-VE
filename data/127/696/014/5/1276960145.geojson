@@ -1,0 +1,72 @@
+{
+  "id": 1276960145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.48395,8.81763,-62.48395,8.81763",
+    "geom:latitude":8.81763,
+    "geom:longitude":-62.48395,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Las Piedritas",
+    "gn:country_code":"VE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635450,
+    "gn:latitude":8.81763,
+    "gn:longitude":-62.48395,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Piedritas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piedritas",
+        "Piedrita",
+        "Las Piedritas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635450
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5481b5d395bc311288f9df5b0ef4bdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694467,
+            "locality_id":1276960145,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276960145,
+    "wof:lastmodified":1537713557,
+    "wof:name":"Las Piedritas",
+    "wof:parent_id":1108694467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.48395,
+    8.81763,
+    -62.48395,
+    8.81763
+],
+  "geometry": {"coordinates":[-62.48395,8.81763],"type":"Point"}
+}

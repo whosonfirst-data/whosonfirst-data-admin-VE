@@ -1,0 +1,71 @@
+{
+  "id": 1310282341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1841,11.82457,-70.1841,11.82457",
+    "geom:latitude":11.82457,
+    "geom:longitude":-70.1841,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cumujacoa",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644772,
+    "gn:latitude":11.82457,
+    "gn:longitude":-70.1841,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cumujacoa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cumajacoa",
+        "Cumujacoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890442023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644772
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"43872b8f242767be0e31d487b5d2e9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890442023,
+            "locality_id":1310282341,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310282341,
+    "wof:lastmodified":1537713614,
+    "wof:name":"Cumujacoa",
+    "wof:parent_id":890442023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1841,
+    11.82457,
+    -70.1841,
+    11.82457
+],
+  "geometry": {"coordinates":[-70.1841,11.82457],"type":"Point"}
+}

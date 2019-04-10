@@ -1,0 +1,61 @@
+{
+  "id": 1209211879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.4232,8.09293,-62.4232,8.09293",
+    "geom:latitude":8.09293,
+    "geom:longitude":-62.4232,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"El Valle",
+    "gn:country_code":"VE",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762868,
+    "gn:latitude":8.09293,
+    "gn:longitude":-62.4232,
+    "gn:modification_date":"1997-10-14",
+    "gn:name":"El Valle",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762868
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a307bbebfa34364f46fe55b7d35c53de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209211879
+        }
+    ],
+    "wof:id":1209211879,
+    "wof:lastmodified":1536294264,
+    "wof:name":"El Valle",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.4232,
+    8.09293,
+    -62.4232,
+    8.09293
+],
+  "geometry": {"coordinates":[-62.4232,8.09293],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310703909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.69047,9.29782,-64.69047,9.29782",
+    "geom:latitude":9.29782,
+    "geom:longitude":-64.69047,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Roque",
+    "gn:country_code":"VE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627652,
+    "gn:latitude":9.29782,
+    "gn:longitude":-64.69047,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Roque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627652
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1cc6f9973515b648231c5d09f0dacc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694409,
+            "locality_id":1310703909,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310703909,
+    "wof:lastmodified":1536628927,
+    "wof:name":"San Roque",
+    "wof:parent_id":1108694409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.69046999999999,
+    9.29782,
+    -64.69046999999999,
+    9.29782
+],
+  "geometry": {"coordinates":[-64.69046999999999,9.29782],"type":"Point"}
+}

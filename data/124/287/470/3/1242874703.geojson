@@ -1,0 +1,72 @@
+{
+  "id": 1242874703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9,7.15,-69.9,7.15",
+    "geom:latitude":7.15,
+    "geom:longitude":-69.9,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Felicitas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627366,
+    "gn:latitude":7.15,
+    "gn:longitude":-69.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Fel\u00edcitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Felicita",
+        "Santa Fel\u00edcitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421180899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627366
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d2690e0946b5fc1651fd67736fbc4c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180899,
+            "locality_id":1242874703,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1242874703,
+    "wof:lastmodified":1537713516,
+    "wof:name":"Santa Felicitas",
+    "wof:parent_id":421180899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9,
+    7.15,
+    -69.9,
+    7.15
+],
+  "geometry": {"coordinates":[-69.90000000000001,7.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293260575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20031,11.189,-72.20031,11.189",
+    "geom:latitude":11.189,
+    "geom:longitude":-72.20031,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Carretal",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643850,
+    "gn:latitude":11.189,
+    "gn:longitude":-72.20031,
+    "gn:modification_date":"1997-02-05",
+    "gn:name":"El Carretal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643850
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7222695cd72bb6774126fd929badd582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1293260575,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293260575,
+    "wof:lastmodified":1536614862,
+    "wof:name":"El Carretal",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20031,
+    11.189,
+    -72.20031,
+    11.189
+],
+  "geometry": {"coordinates":[-72.20031,11.189],"type":"Point"}
+}

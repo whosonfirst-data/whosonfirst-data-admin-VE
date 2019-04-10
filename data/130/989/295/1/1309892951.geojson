@@ -1,0 +1,73 @@
+{
+  "id": 1309892951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.39747,11.14786,-68.39747,11.14786",
+    "geom:latitude":11.14786,
+    "geom:longitude":-68.39747,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boca de Mangle",
+    "gn:country_code":"VE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648183,
+    "gn:latitude":11.14786,
+    "gn:longitude":-68.39747,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boca de Mangle",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mangle",
+        "Boca Mangle",
+        "El Manglar",
+        "Boca de Mangle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421185127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648183
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8f274059c6fa0f8a054e0de3fb377db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185127,
+            "locality_id":1309892951,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1309892951,
+    "wof:lastmodified":1537713628,
+    "wof:name":"Boca de Mangle",
+    "wof:parent_id":421185127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.39747,
+    11.14786,
+    -68.39747,
+    11.14786
+],
+  "geometry": {"coordinates":[-68.39747,11.14786],"type":"Point"}
+}

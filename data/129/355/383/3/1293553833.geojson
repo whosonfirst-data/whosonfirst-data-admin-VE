@@ -1,0 +1,67 @@
+{
+  "id": 1293553833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.04077,8.08961,-72.04077,8.08961",
+    "geom:latitude":8.08961,
+    "geom:longitude":-72.04077,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bocaquea",
+    "gn:country_code":"VE",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757276,
+    "gn:latitude":8.08961,
+    "gn:longitude":-72.04077,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Bocaquea",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757276
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7d28694669da7511f24930f261e7b906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202065,
+            "locality_id":1293553833,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293553833,
+    "wof:lastmodified":1536691773,
+    "wof:name":"Bocaquea",
+    "wof:parent_id":421202065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.04077,
+    8.08961,
+    -72.04077,
+    8.08961
+],
+  "geometry": {"coordinates":[-72.04076999999999,8.08961],"type":"Point"}
+}

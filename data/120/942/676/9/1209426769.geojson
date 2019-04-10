@@ -1,0 +1,61 @@
+{
+  "id": 1209426769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.07668,8.68371,-65.07668,8.68371",
+    "geom:latitude":8.68371,
+    "geom:longitude":-65.07668,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Centella",
+    "gn:country_code":"VE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485815,
+    "gn:latitude":8.68371,
+    "gn:longitude":-65.07668,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Centella",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485815
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f05b17a8f1fc846281fc5464dfa73ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209426769
+        }
+    ],
+    "wof:id":1209426769,
+    "wof:lastmodified":1536287358,
+    "wof:name":"Centella",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.07668000000001,
+    8.683710000000001,
+    -65.07668000000001,
+    8.683710000000001
+],
+  "geometry": {"coordinates":[-65.07668000000001,8.68371],"type":"Point"}
+}

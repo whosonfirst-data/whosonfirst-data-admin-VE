@@ -1,0 +1,73 @@
+{
+  "id": 1276124651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.53333,6.25,-67.53333,6.25",
+    "geom:latitude":6.25,
+    "geom:longitude":-67.53333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Caracara",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646747,
+    "gn:latitude":6.25,
+    "gn:longitude":-67.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caracara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Caracara",
+        "Los Caracaras",
+        "Caracara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        421201569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646747
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a02c1e127d791dfd47a98e4b6ce34d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421201569,
+            "locality_id":1276124651,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1276124651,
+    "wof:lastmodified":1537713623,
+    "wof:name":"Caracara",
+    "wof:parent_id":421201569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.53333,
+    6.25,
+    -67.53333,
+    6.25
+],
+  "geometry": {"coordinates":[-67.53333000000001,6.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259462491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.34111,9.69667,-67.34111,9.69667",
+    "geom:latitude":9.69667,
+    "geom:longitude":-67.34111,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Charcote",
+    "gn:country_code":"VE",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3772411,
+    "gn:latitude":9.69667,
+    "gn:longitude":-67.34111,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Charcote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772411
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e41cb491dd6ae9433c453a1f0d4f2c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694381,
+            "locality_id":1259462491,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259462491,
+    "wof:lastmodified":1536888588,
+    "wof:name":"Charcote",
+    "wof:parent_id":1108694381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.34111,
+    9.69667,
+    -67.34111,
+    9.69667
+],
+  "geometry": {"coordinates":[-67.34111,9.69667],"type":"Point"}
+}

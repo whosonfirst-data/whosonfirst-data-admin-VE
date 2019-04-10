@@ -1,0 +1,80 @@
+{
+  "id": 421188709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.81561,9.18583,-70.81561,9.18583",
+    "geom:latitude":9.18583,
+    "geom:longitude":-70.81561,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3632051,
+    "qs:gn_pop":0,
+    "qs:name":"Monte Carmelo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Trujillo",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":255,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1103757,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804849,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632051,
+        "gp:id":26804849,
+        "qs:id":1103757,
+        "qs_pg:id":1103757
+    },
+    "wof:country":"VE",
+    "wof:created":1459009575,
+    "wof:geomhash":"3b7c848a3e6a47f9e03e62b8a383e159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694309,
+            "localadmin_id":421188709,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":421188709,
+    "wof:lastmodified":1497043642,
+    "wof:name":"Monte Carmelo",
+    "wof:parent_id":1108694309,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.81561,
+    9.18583,
+    -70.81561,
+    9.18583
+],
+  "geometry": {"coordinates":[-70.81561000000001,9.18583],"type":"Point"}
+}

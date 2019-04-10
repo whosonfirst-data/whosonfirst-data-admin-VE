@@ -1,0 +1,73 @@
+{
+  "id": 1360191013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45,7.76667,-68.45,7.76667",
+    "geom:latitude":7.76667,
+    "geom:longitude":-68.45,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Las Mochitas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635659,
+    "gn:latitude":7.76667,
+    "gn:longitude":-68.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Mochitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Mochilas",
+        "Las Muchilas",
+        "Las Mochitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635659
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"287dbea4d60a51503c77292a8180f54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1360191013,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1360191013,
+    "wof:lastmodified":1537713558,
+    "wof:name":"Las Mochitas",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45,
+    7.76667,
+    -68.45,
+    7.76667
+],
+  "geometry": {"coordinates":[-68.45,7.76667],"type":"Point"}
+}

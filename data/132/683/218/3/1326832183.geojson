@@ -1,0 +1,67 @@
+{
+  "id": 1326832183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.91013,9.51713,-64.91013,9.51713",
+    "geom:latitude":9.51713,
+    "geom:longitude":-64.91013,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Guacamayo",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640471,
+    "gn:latitude":9.51713,
+    "gn:longitude":-64.91013,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"Guacamayo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640471
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"026bb25e226afac3c1edadc58543acd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1326832183,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1326832183,
+    "wof:lastmodified":1537046881,
+    "wof:name":"Guacamayo",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.91013000000001,
+    9.51713,
+    -64.91013000000001,
+    9.51713
+],
+  "geometry": {"coordinates":[-64.91013000000001,9.51713],"type":"Point"}
+}

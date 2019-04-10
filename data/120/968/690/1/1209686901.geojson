@@ -1,0 +1,61 @@
+{
+  "id": 1209686901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78192,10.5396,-69.78192,10.5396",
+    "geom:latitude":10.5396,
+    "geom:longitude":-69.78192,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Copa de Oro",
+    "gn:country_code":"VE",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750315,
+    "gn:latitude":10.5396,
+    "gn:longitude":-69.78192,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Copa de Oro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750315
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7c8ed595e8feac07d512b94595a79308",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209686901
+        }
+    ],
+    "wof:id":1209686901,
+    "wof:lastmodified":1536279379,
+    "wof:name":"Copa de Oro",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78192,
+    10.5396,
+    -69.78192,
+    10.5396
+],
+  "geometry": {"coordinates":[-69.78192,10.5396],"type":"Point"}
+}

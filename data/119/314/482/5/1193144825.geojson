@@ -1,0 +1,67 @@
+{
+  "id": 1193144825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.94596,9.25741,-63.94596,9.25741",
+    "geom:latitude":9.25741,
+    "geom:longitude":-63.94596,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Merecural",
+    "gn:country_code":"VE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632387,
+    "gn:latitude":9.25741,
+    "gn:longitude":-63.94596,
+    "gn:modification_date":"1996-07-29",
+    "gn:name":"Merecural",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632387
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3a3407f47966a64c1bbe6ef3134d9a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1193144825,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1193144825,
+    "wof:lastmodified":1536384428,
+    "wof:name":"Merecural",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.94596,
+    9.25741,
+    -63.94596,
+    9.25741
+],
+  "geometry": {"coordinates":[-63.94596,9.25741],"type":"Point"}
+}

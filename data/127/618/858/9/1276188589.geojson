@@ -1,0 +1,67 @@
+{
+  "id": 1276188589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.31282,9.92512,-63.31282,9.92512",
+    "geom:latitude":9.92512,
+    "geom:longitude":-63.31282,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Corcovado",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755736,
+    "gn:latitude":9.92512,
+    "gn:longitude":-63.31282,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Corcovado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5110dad91497f11d92c14076b53113b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1276188589,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276188589,
+    "wof:lastmodified":1536972570,
+    "wof:name":"El Corcovado",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.31282,
+    9.92512,
+    -63.31282,
+    9.92512
+],
+  "geometry": {"coordinates":[-63.31282,9.92512],"type":"Point"}
+}

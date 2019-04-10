@@ -1,0 +1,67 @@
+{
+  "id": 1293864187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.81401,11.17669,-70.81401,11.17669",
+    "geom:latitude":11.17669,
+    "geom:longitude":-70.81401,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Caracubana",
+    "gn:country_code":"VE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646715,
+    "gn:latitude":11.17669,
+    "gn:longitude":-70.81401,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Caracubana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646715
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0bce1d4af9899e63ebf46925bb6b86bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1293864187,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293864187,
+    "wof:lastmodified":1536741003,
+    "wof:name":"Caracubana",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.81401,
+    11.17669,
+    -70.81401,
+    11.17669
+],
+  "geometry": {"coordinates":[-70.81401,11.17669],"type":"Point"}
+}

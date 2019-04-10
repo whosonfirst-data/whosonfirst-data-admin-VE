@@ -1,0 +1,67 @@
+{
+  "id": 1226637849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.2746,7.89701,-64.2746,7.89701",
+    "geom:latitude":7.89701,
+    "geom:longitude":-64.2746,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Las Merceders",
+    "gn:country_code":"VE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3808600,
+    "gn:latitude":7.89701,
+    "gn:longitude":-64.2746,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Las Merceders",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3808600
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fdc94e7bed88c7ed733014821a2d17ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1226637849,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1226637849,
+    "wof:lastmodified":1536869728,
+    "wof:name":"Las Merceders",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.2746,
+    7.89701,
+    -64.2746,
+    7.89701
+],
+  "geometry": {"coordinates":[-64.27460000000001,7.89701],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360268409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13217,9.08231,-71.13217,9.08231",
+    "geom:latitude":9.08231,
+    "geom:longitude":-71.13217,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cano Jesus",
+    "gn:country_code":"VE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646946,
+    "gn:latitude":9.08231,
+    "gn:longitude":-71.13217,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Ca\u00f1o Jes\u00fas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646946
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bc3984b252954c7f5efea3e25398c8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1360268409,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1360268409,
+    "wof:lastmodified":1536681192,
+    "wof:name":"Cano Jesus",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13217,
+    9.08231,
+    -71.13217,
+    9.08231
+],
+  "geometry": {"coordinates":[-71.13217,9.08231],"type":"Point"}
+}

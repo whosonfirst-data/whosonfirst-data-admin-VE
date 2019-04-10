@@ -1,0 +1,67 @@
+{
+  "id": 1309989665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.52665,10.59743,-69.52665,10.59743",
+    "geom:latitude":10.59743,
+    "geom:longitude":-69.52665,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Fundacion",
+    "gn:country_code":"VE",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750280,
+    "gn:latitude":10.59743,
+    "gn:longitude":-69.52665,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"La Fundaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750280
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d1203570aadab8d0cd6f71b79e9bdd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1309989665,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1309989665,
+    "wof:lastmodified":1536666155,
+    "wof:name":"La Fundacion",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.52665,
+    10.59743,
+    -69.52665,
+    10.59743
+],
+  "geometry": {"coordinates":[-69.52665,10.59743],"type":"Point"}
+}

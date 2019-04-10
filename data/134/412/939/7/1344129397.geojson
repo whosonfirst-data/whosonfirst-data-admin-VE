@@ -1,0 +1,67 @@
+{
+  "id": 1344129397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.94633,10.05457,-66.94633,10.05457",
+    "geom:latitude":10.05457,
+    "geom:longitude":-66.94633,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Las Quebraditas",
+    "gn:country_code":"VE",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635396,
+    "gn:latitude":10.05457,
+    "gn:longitude":-66.94633,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Las Quebraditas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421170247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635396
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"04818a62cbae62ecb3d9b9e3dd379bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421170247,
+            "locality_id":1344129397,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1344129397,
+    "wof:lastmodified":1536776784,
+    "wof:name":"Las Quebraditas",
+    "wof:parent_id":421170247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.94633,
+    10.05457,
+    -66.94633,
+    10.05457
+],
+  "geometry": {"coordinates":[-66.94633,10.05457],"type":"Point"}
+}

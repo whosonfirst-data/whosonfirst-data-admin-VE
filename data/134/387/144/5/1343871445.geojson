@@ -1,0 +1,70 @@
+{
+  "id": 1343871445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21114,2.79203,-65.21114,2.79203",
+    "geom:latitude":2.79203,
+    "geom:longitude":-65.21114,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Santa Maria de Los Guaicas",
+    "gn:country_code":"VE",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627236,
+    "gn:latitude":2.79203,
+    "gn:longitude":-65.21114,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Santa Mar\u00eda de Los Guaicas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda de Los Guaicas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        890420047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627236
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e9abadf66e9e1913c9c68c6193d8cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890420047,
+            "locality_id":1343871445,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1343871445,
+    "wof:lastmodified":1537713515,
+    "wof:name":"Santa Maria de Los Guaicas",
+    "wof:parent_id":890420047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21114,
+    2.79203,
+    -65.21114,
+    2.79203
+],
+  "geometry": {"coordinates":[-65.21114,2.79203],"type":"Point"}
+}

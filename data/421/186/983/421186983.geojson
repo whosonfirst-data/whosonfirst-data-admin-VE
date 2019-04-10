@@ -1,0 +1,97 @@
+{
+  "id": 421186983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.009277,8.619079,-71.009277,8.619079",
+    "geom:latitude":8.619079,
+    "geom:longitude":-71.009277,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5854\u62dc"
+    ],
+    "name:dut_x_preferred":[
+        "Tabay"
+    ],
+    "name:eng_x_preferred":[
+        "Tabay"
+    ],
+    "name:fre_x_preferred":[
+        "Tabay"
+    ],
+    "name:ita_x_preferred":[
+        "Tabay"
+    ],
+    "name:por_x_preferred":[
+        "Tabay"
+    ],
+    "name:spa_x_preferred":[
+        "Tabay"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tabay",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077574,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468675,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421184351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468675,
+        "qs:id":1077574,
+        "wd:id":"Q1998750"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009498,
+    "wof:geomhash":"ec9ae5ee8226f333b4a4bf6557066d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184351,
+            "locality_id":421186983,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421186983,
+    "wof:lastmodified":1514502444,
+    "wof:name":"Tabay",
+    "wof:parent_id":421184351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.009277,
+    8.619079,
+    -71.009277,
+    8.619079
+],
+  "geometry": {"coordinates":[-71.009277,8.619079],"type":"Point"}
+}

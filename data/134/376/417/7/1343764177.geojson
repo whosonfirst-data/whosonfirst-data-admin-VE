@@ -1,0 +1,67 @@
+{
+  "id": 1343764177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.33333,9.35,-64.33333,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":-64.33333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Roberto Garcia",
+    "gn:country_code":"VE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629039,
+    "gn:latitude":9.35,
+    "gn:longitude":-64.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Roberto Garc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629039
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"19c175af70a5e92ded9086247de24816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1343764177,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343764177,
+    "wof:lastmodified":1536805416,
+    "wof:name":"Roberto Garcia",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.33333,
+    9.35,
+    -64.33333,
+    9.35
+],
+  "geometry": {"coordinates":[-64.33333,9.35],"type":"Point"}
+}

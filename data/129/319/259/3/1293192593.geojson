@@ -1,0 +1,72 @@
+{
+  "id": 1293192593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.91667,7.9,-61.91667,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":-61.91667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mundo Nuevo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631665,
+    "gn:latitude":7.9,
+    "gn:longitude":-61.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mundo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundo Nuevo",
+        "Mundo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        1108694325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631665
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"de7a014f34bd4e17a2a99ccfd0d0ed3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694325,
+            "locality_id":1293192593,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293192593,
+    "wof:lastmodified":1537713536,
+    "wof:name":"Mundo Nuevo",
+    "wof:parent_id":1108694325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.91667,
+    7.9,
+    -61.91667,
+    7.9
+],
+  "geometry": {"coordinates":[-61.91667,7.9],"type":"Point"}
+}

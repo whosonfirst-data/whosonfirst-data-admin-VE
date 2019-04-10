@@ -1,0 +1,67 @@
+{
+  "id": 1360041353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7131,9.00586,-71.7131,9.00586",
+    "geom:latitude":9.00586,
+    "geom:longitude":-71.7131,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Buena Esperanza",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647880,
+    "gn:latitude":9.00586,
+    "gn:longitude":-71.7131,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Buena Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647880
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"61c87f0698700a8bba6632d27631b30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1360041353,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1360041353,
+    "wof:lastmodified":1537008165,
+    "wof:name":"Buena Esperanza",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7131,
+    9.00586,
+    -71.7131,
+    9.00586
+],
+  "geometry": {"coordinates":[-71.7131,9.00586],"type":"Point"}
+}

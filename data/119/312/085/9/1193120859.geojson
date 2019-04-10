@@ -1,0 +1,71 @@
+{
+  "id": 1193120859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.59479,9.64685,-69.59479,9.64685",
+    "geom:latitude":9.64685,
+    "geom:longitude":-69.59479,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Guapa",
+    "gn:country_code":"VE",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637705,
+    "gn:latitude":9.64685,
+    "gn:longitude":-69.59479,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Guapa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guapa",
+        "La Guapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421183169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637705
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b8a95bcd2a995fc77da2cdc9130a812f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183169,
+            "locality_id":1193120859,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1193120859,
+    "wof:lastmodified":1537713569,
+    "wof:name":"La Guapa",
+    "wof:parent_id":421183169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.59479,
+    9.64685,
+    -69.59479,
+    9.64685
+],
+  "geometry": {"coordinates":[-69.59479,9.64685],"type":"Point"}
+}

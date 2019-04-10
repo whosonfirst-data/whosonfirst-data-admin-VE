@@ -1,0 +1,73 @@
+{
+  "id": 1243375323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78333,10.05,-64.78333,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":-64.78333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Juncal",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642893,
+    "gn:latitude":10.05,
+    "gn:longitude":-64.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Juncal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juncal",
+        "Juncai",
+        "El Juncal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642893
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2ae270d913d9ed1f95e76365c7d2c8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1243375323,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1243375323,
+    "wof:lastmodified":1537713600,
+    "wof:name":"El Juncal",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78333,
+    10.05,
+    -64.78333,
+    10.05
+],
+  "geometry": {"coordinates":[-64.78333000000001,10.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226140883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.15959,8.31671,-68.15959,8.31671",
+    "geom:latitude":8.31671,
+    "geom:longitude":-68.15959,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vuelta de las Unas",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3486376,
+    "gn:latitude":8.31671,
+    "gn:longitude":-68.15959,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Vuelta de las U\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486376
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2847efcb02a0db90e61dadf06e12429d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1226140883,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1226140883,
+    "wof:lastmodified":1537081594,
+    "wof:name":"Vuelta de las Unas",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.15959000000001,
+    8.31671,
+    -68.15959000000001,
+    8.31671
+],
+  "geometry": {"coordinates":[-68.15959000000001,8.31671],"type":"Point"}
+}

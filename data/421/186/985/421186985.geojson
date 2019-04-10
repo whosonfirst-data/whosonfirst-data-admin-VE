@@ -1,0 +1,101 @@
+{
+  "id": 421186985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.995018,10.786599,-63.995018,10.786599",
+    "geom:latitude":10.786599,
+    "geom:longitude":-63.995018,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5f7c\u5fb7\u7f85\u5fb7\u79d1\u5207"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro de Coche"
+    ],
+    "name:fra_x_preferred":[
+        "San Pedro de Coche"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro de Coche"
+    ],
+    "name:ger_x_preferred":[
+        "San Pedro de Coche"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro de Coche"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro de Coche"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f7c\u5fb7\u7f85\u5fb7\u79d1\u5207"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Pedro de Coche",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Nueva Esparta",
+    "qs:photos":744,
+    "qs:photos_1k":151,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":744,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077575,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468724,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421177413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468724,
+        "qs:id":1077575,
+        "wd:id":"Q3471597"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009498,
+    "wof:geomhash":"da6a5d0dd2181ab332b0e421d06bb334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421177413,
+            "locality_id":421186985,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":421186985,
+    "wof:lastmodified":1527716314,
+    "wof:name":"San Pedro de Coche",
+    "wof:parent_id":421177413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.995018,
+    10.786599,
+    -63.995018,
+    10.786599
+],
+  "geometry": {"coordinates":[-63.995018,10.786599],"type":"Point"}
+}

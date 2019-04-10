@@ -1,0 +1,67 @@
+{
+  "id": 1343668259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.25,7.8,-68.25,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":-68.25,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Masigua",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637200,
+    "gn:latitude":7.8,
+    "gn:longitude":-68.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Masigua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637200
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"139223977a4dc6f9e18c3169910cb262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1343668259,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343668259,
+    "wof:lastmodified":1536944262,
+    "wof:name":"La Masigua",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.25,
+    7.8,
+    -68.25,
+    7.8
+],
+  "geometry": {"coordinates":[-68.25,7.8],"type":"Point"}
+}

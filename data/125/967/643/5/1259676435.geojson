@@ -1,0 +1,74 @@
+{
+  "id": 1259676435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.65722,8.70833,-69.65722,8.70833",
+    "geom:latitude":8.70833,
+    "geom:longitude":-69.65722,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61005.0",
+    "gn:asciiname":"Arauquita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3649018,
+    "gn:latitude":8.70833,
+    "gn:longitude":-69.65722,
+    "gn:modification_date":"2012-02-04",
+    "gn:name":"Arauquita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araquita",
+        "Arauquita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649018
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b36b99aaad0171f61533f18de107222e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694375,
+            "locality_id":1259676435,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1259676435,
+    "wof:lastmodified":1537713632,
+    "wof:name":"Arauquita",
+    "wof:parent_id":1108694375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.65722,
+    8.70833,
+    -69.65722,
+    8.70833
+],
+  "geometry": {"coordinates":[-69.65722,8.70833],"type":"Point"}
+}

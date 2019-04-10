@@ -1,0 +1,67 @@
+{
+  "id": 1276510709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21258,10.01474,-63.21258,10.01474",
+    "geom:latitude":10.01474,
+    "geom:longitude":-63.21258,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Gavilan",
+    "gn:country_code":"VE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643193,
+    "gn:latitude":10.01474,
+    "gn:longitude":-63.21258,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Gavil\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643193
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f95a1b9cc7d5bca7a51c88ac2da992e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694357,
+            "locality_id":1276510709,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276510709,
+    "wof:lastmodified":1537036952,
+    "wof:name":"El Gavilan",
+    "wof:parent_id":1108694357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21258,
+    10.01474,
+    -63.21258,
+    10.01474
+],
+  "geometry": {"coordinates":[-63.21258,10.01474],"type":"Point"}
+}

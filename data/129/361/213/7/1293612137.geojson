@@ -1,0 +1,67 @@
+{
+  "id": 1293612137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.87736,9.68273,-66.87736,9.68273",
+    "geom:latitude":9.68273,
+    "geom:longitude":-66.87736,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Costumbre",
+    "gn:country_code":"VE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806363,
+    "gn:latitude":9.68273,
+    "gn:longitude":-66.87736,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"La Costumbre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421193519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806363
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1bf1c0fa4f0f42926e8a911efafd836d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193519,
+            "locality_id":1293612137,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1293612137,
+    "wof:lastmodified":1536604436,
+    "wof:name":"La Costumbre",
+    "wof:parent_id":421193519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.87736,
+    9.68273,
+    -66.87736,
+    9.68273
+],
+  "geometry": {"coordinates":[-66.87736,9.68273],"type":"Point"}
+}

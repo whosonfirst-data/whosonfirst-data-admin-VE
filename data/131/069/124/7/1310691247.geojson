@@ -1,0 +1,72 @@
+{
+  "id": 1310691247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.16667,8.66667,-68.16667,8.66667",
+    "geom:latitude":8.66667,
+    "geom:longitude":-68.16667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"La Tinajita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635149,
+    "gn:latitude":8.66667,
+    "gn:longitude":-68.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Tinajita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Tinajitas",
+        "La Tinajita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635149
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"884c94175364e2a4631085cf8423bab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694199,
+            "locality_id":1310691247,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1310691247,
+    "wof:lastmodified":1537713555,
+    "wof:name":"La Tinajita",
+    "wof:parent_id":1108694199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.16667,
+    8.66667,
+    -68.16667,
+    8.66667
+],
+  "geometry": {"coordinates":[-68.16667,8.66667],"type":"Point"}
+}

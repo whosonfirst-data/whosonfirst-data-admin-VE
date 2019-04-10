@@ -1,0 +1,67 @@
+{
+  "id": 1225931153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66608,10.9393,-68.66608,10.9393",
+    "geom:latitude":10.9393,
+    "geom:longitude":-68.66608,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Araurima",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649013,
+    "gn:latitude":10.9393,
+    "gn:longitude":-68.66608,
+    "gn:modification_date":"1996-04-25",
+    "gn:name":"Araurima",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649013
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8e42d91744885724bca8e46ff8a3f468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694215,
+            "locality_id":1225931153,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1225931153,
+    "wof:lastmodified":1536890138,
+    "wof:name":"Araurima",
+    "wof:parent_id":1108694215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66608000000001,
+    10.9393,
+    -68.66608000000001,
+    10.9393
+],
+  "geometry": {"coordinates":[-68.66608000000001,10.9393],"type":"Point"}
+}

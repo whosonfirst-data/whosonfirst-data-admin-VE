@@ -1,0 +1,68 @@
+{
+  "id": 1226508735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.01822,11.0026,-64.01822,11.0026",
+    "geom:latitude":11.0026,
+    "geom:longitude":-64.01822,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Guardia",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480899,
+    "gn:latitude":11.0026,
+    "gn:longitude":-64.01822,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"La Guardia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421166695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480899,
+        "wk:page":"La_Guardia%2C_Nueva_Esparta"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"673d7d2274b344d7714db1b5664badbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166695,
+            "locality_id":1226508735,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1226508735,
+    "wof:lastmodified":1537575798,
+    "wof:name":"La Guardia",
+    "wof:parent_id":421166695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.01822,
+    11.0026,
+    -64.01822,
+    11.0026
+],
+  "geometry": {"coordinates":[-64.01822,11.0026],"type":"Point"}
+}

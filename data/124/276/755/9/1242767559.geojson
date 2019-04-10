@@ -1,0 +1,67 @@
+{
+  "id": 1242767559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23485,9.4576,-68.23485,9.4576",
+    "geom:latitude":9.4576,
+    "geom:longitude":-68.23485,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Manglecito",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799323,
+    "gn:latitude":9.4576,
+    "gn:longitude":-68.23485,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Manglecito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799323
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"12911534876b6a2469c5958a3b52ed34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1242767559,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1242767559,
+    "wof:lastmodified":1536790479,
+    "wof:name":"Manglecito",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23485,
+    9.4576,
+    -68.23485,
+    9.4576
+],
+  "geometry": {"coordinates":[-68.23484999999999,9.4576],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293385801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76961,10.01448,-67.76961,10.01448",
+    "geom:latitude":10.01448,
+    "geom:longitude":-67.76961,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"La Sapera",
+    "gn:country_code":"VE",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635990,
+    "gn:latitude":10.01448,
+    "gn:longitude":-67.76961,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"La Sapera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635990
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"40ee73da1800dd74250a0a6dfca05c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1293385801,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1293385801,
+    "wof:lastmodified":1536934397,
+    "wof:name":"La Sapera",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76961,
+    10.01448,
+    -67.76961,
+    10.01448
+],
+  "geometry": {"coordinates":[-67.76961,10.01448],"type":"Point"}
+}

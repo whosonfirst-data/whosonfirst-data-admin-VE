@@ -1,0 +1,67 @@
+{
+  "id": 1360155775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.83333,9.95,-69.83333,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-69.83333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Ventas",
+    "gn:country_code":"VE",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635236,
+    "gn:latitude":9.95,
+    "gn:longitude":-69.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Ventas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421200611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635236
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"98b91803c4cbccf3b5c80ee3c428117c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200611,
+            "locality_id":1360155775,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1360155775,
+    "wof:lastmodified":1536842762,
+    "wof:name":"Las Ventas",
+    "wof:parent_id":421200611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.83333,
+    9.95,
+    -69.83333,
+    9.95
+],
+  "geometry": {"coordinates":[-69.83333,9.95],"type":"Point"}
+}

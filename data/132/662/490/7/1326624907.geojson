@@ -1,0 +1,72 @@
+{
+  "id": 1326624907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.96667,7.55,-61.96667,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":-61.96667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"La Yeguera",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634833,
+    "gn:latitude":7.55,
+    "gn:longitude":-61.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Yeg\u00fcera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeguera",
+        "La Yeg\u00fcera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634833
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0cfaad3c7389721a64db46ce868045c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202371,
+            "locality_id":1326624907,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1326624907,
+    "wof:lastmodified":1537713553,
+    "wof:name":"La Yeguera",
+    "wof:parent_id":421202371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.96666999999999,
+    7.55,
+    -61.96666999999999,
+    7.55
+],
+  "geometry": {"coordinates":[-61.96666999999999,7.55],"type":"Point"}
+}

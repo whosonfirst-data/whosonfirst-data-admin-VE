@@ -1,0 +1,67 @@
+{
+  "id": 1209893407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.13333,11.93333,-70.13333,11.93333",
+    "geom:latitude":11.93333,
+    "geom:longitude":-70.13333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Belatoz",
+    "gn:country_code":"VE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648367,
+    "gn:latitude":11.93333,
+    "gn:longitude":-70.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Belatoz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648367
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3bf7109968538b9576930701f8cf1cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1209893407,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1209893407,
+    "wof:lastmodified":1536389707,
+    "wof:name":"Belatoz",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.13333,
+    11.93333,
+    -70.13333,
+    11.93333
+],
+  "geometry": {"coordinates":[-70.13333,11.93333],"type":"Point"}
+}

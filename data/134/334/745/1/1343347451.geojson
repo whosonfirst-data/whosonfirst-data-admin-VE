@@ -1,0 +1,67 @@
+{
+  "id": 1343347451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.02806,9.92139,-69.02806,9.92139",
+    "geom:latitude":9.92139,
+    "geom:longitude":-69.02806,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Morochos",
+    "gn:country_code":"VE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3750082,
+    "gn:latitude":9.92139,
+    "gn:longitude":-69.02806,
+    "gn:modification_date":"1996-07-19",
+    "gn:name":"Los Morochos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750082
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c34418f725b6119bd23babc729268692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694427,
+            "locality_id":1343347451,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1343347451,
+    "wof:lastmodified":1536909723,
+    "wof:name":"Los Morochos",
+    "wof:parent_id":1108694427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.02806,
+    9.92139,
+    -69.02806,
+    9.92139
+],
+  "geometry": {"coordinates":[-69.02806,9.92139],"type":"Point"}
+}

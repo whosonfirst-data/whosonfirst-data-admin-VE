@@ -1,0 +1,73 @@
+{
+  "id": 1344034181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.45,8.91667,-67.45,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-67.45,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Mision Abajo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637109,
+    "gn:latitude":8.91667,
+    "gn:longitude":-67.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Misi\u00f3n Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misi\u00f3n de Abajo",
+        "La Misi\u00f3n",
+        "La Misi\u00f3n Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637109
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f2eb0eda9a8477c5ec8d518806707f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1344034181,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1344034181,
+    "wof:lastmodified":1537713566,
+    "wof:name":"La Mision Abajo",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.45,
+    8.91667,
+    -67.45,
+    8.91667
+],
+  "geometry": {"coordinates":[-67.45,8.91667],"type":"Point"}
+}

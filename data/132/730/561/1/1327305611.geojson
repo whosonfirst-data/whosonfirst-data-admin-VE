@@ -1,0 +1,67 @@
+{
+  "id": 1327305611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.5084,10.09136,-63.5084,10.09136",
+    "geom:latitude":10.09136,
+    "geom:longitude":-63.5084,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Las Palomas",
+    "gn:country_code":"VE",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635529,
+    "gn:latitude":10.09136,
+    "gn:longitude":-63.5084,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Las Palomas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635529
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5c6ebe233abed5eb03a70c130e83de50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1327305611,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1327305611,
+    "wof:lastmodified":1536862626,
+    "wof:name":"Las Palomas",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.5084,
+    10.09136,
+    -63.5084,
+    10.09136
+],
+  "geometry": {"coordinates":[-63.5084,10.09136],"type":"Point"}
+}

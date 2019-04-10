@@ -1,0 +1,67 @@
+{
+  "id": 1310076605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.8277,10.14131,-69.8277,10.14131",
+    "geom:latitude":10.14131,
+    "geom:longitude":-69.8277,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Caujaral",
+    "gn:country_code":"VE",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749540,
+    "gn:latitude":10.14131,
+    "gn:longitude":-69.8277,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Caujaral",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749540
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a8feeb20d76f5e17ec5f72d60e8bdab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1310076605,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1310076605,
+    "wof:lastmodified":1537036705,
+    "wof:name":"Caujaral",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.8277,
+    10.14131,
+    -69.8277,
+    10.14131
+],
+  "geometry": {"coordinates":[-69.82769999999999,10.14131],"type":"Point"}
+}

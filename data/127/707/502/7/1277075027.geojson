@@ -1,0 +1,67 @@
+{
+  "id": 1277075027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.70833,7.73972,-69.70833,7.73972",
+    "geom:latitude":7.73972,
+    "geom:longitude":-69.70833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mata de Bejuco",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805136,
+    "gn:latitude":7.73972,
+    "gn:longitude":-69.70833,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Mata de Bejuco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805136
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4924ef9e092d84ab80077fcf9cc94f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1277075027,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1277075027,
+    "wof:lastmodified":1536779265,
+    "wof:name":"Mata de Bejuco",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.70833,
+    7.73972,
+    -69.70833,
+    7.73972
+],
+  "geometry": {"coordinates":[-69.70833,7.73972],"type":"Point"}
+}

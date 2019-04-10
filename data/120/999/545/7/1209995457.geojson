@@ -1,0 +1,67 @@
+{
+  "id": 1209995457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.32891,9.87366,-70.32891,9.87366",
+    "geom:latitude":9.87366,
+    "geom:longitude":-70.32891,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Matias",
+    "gn:country_code":"VE",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767859,
+    "gn:latitude":9.87366,
+    "gn:longitude":-70.32891,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Matias",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767859
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cbf8c94a850ae0ec4df197f4923e4ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1209995457,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1209995457,
+    "wof:lastmodified":1536384316,
+    "wof:name":"Matias",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.32891,
+    9.87366,
+    -70.32891,
+    9.87366
+],
+  "geometry": {"coordinates":[-70.32890999999999,9.87366],"type":"Point"}
+}

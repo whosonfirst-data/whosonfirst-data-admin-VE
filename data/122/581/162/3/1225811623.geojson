@@ -1,0 +1,61 @@
+{
+  "id": 1225811623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.25556,11.19056,-64.25556,11.19056",
+    "geom:latitude":11.19056,
+    "geom:longitude":-64.25556,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Piedra Lisa",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3480853,
+    "gn:latitude":11.19056,
+    "gn:longitude":-64.25556,
+    "gn:modification_date":"1999-03-16",
+    "gn:name":"Piedra Lisa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480853
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1b2f057147933643a3450c5b1afde4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225811623,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225811623,
+    "wof:lastmodified":1537060352,
+    "wof:name":"Piedra Lisa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.25556,
+    11.19056,
+    -64.25556,
+    11.19056
+],
+  "geometry": {"coordinates":[-64.25556,11.19056],"type":"Point"}
+}

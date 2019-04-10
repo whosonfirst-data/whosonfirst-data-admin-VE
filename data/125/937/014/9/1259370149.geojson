@@ -1,0 +1,67 @@
+{
+  "id": 1259370149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.36722,10.8025,-68.36722,10.8025",
+    "geom:latitude":10.8025,
+    "geom:longitude":-68.36722,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cano Salado",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646917,
+    "gn:latitude":10.8025,
+    "gn:longitude":-68.36722,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Ca\u00f1o Salado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        890417393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646917
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"257f833f9da6678695ad568cc9f579a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890417393,
+            "locality_id":1259370149,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259370149,
+    "wof:lastmodified":1537020581,
+    "wof:name":"Cano Salado",
+    "wof:parent_id":890417393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.36721999999999,
+    10.8025,
+    -68.36721999999999,
+    10.8025
+],
+  "geometry": {"coordinates":[-68.36721999999999,10.8025],"type":"Point"}
+}

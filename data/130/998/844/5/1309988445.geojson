@@ -1,0 +1,67 @@
+{
+  "id": 1309988445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.07,10.29389,-67.07,10.29389",
+    "geom:latitude":10.29389,
+    "geom:longitude":-67.07,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cana Larga",
+    "gn:country_code":"VE",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803439,
+    "gn:latitude":10.29389,
+    "gn:longitude":-67.07,
+    "gn:modification_date":"2002-11-20",
+    "gn:name":"Ca\u00f1a Larga",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803439
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b430dbfb155237bc0ea915e5a14af37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1309988445,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1309988445,
+    "wof:lastmodified":1536667945,
+    "wof:name":"Cana Larga",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.07,
+    10.29389,
+    -67.07,
+    10.29389
+],
+  "geometry": {"coordinates":[-67.06999999999999,10.29389],"type":"Point"}
+}

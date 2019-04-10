@@ -1,0 +1,67 @@
+{
+  "id": 1344051751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.16136,9.79002,-68.16136,9.79002",
+    "geom:latitude":9.79002,
+    "geom:longitude":-68.16136,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tierra Negra",
+    "gn:country_code":"VE",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799524,
+    "gn:latitude":9.79002,
+    "gn:longitude":-68.16136,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Tierra Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799524
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"61361b986e354337a9cf5e7cbc3bff39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1344051751,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1344051751,
+    "wof:lastmodified":1536887782,
+    "wof:name":"Tierra Negra",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.16136,
+    9.79002,
+    -68.16136,
+    9.79002
+],
+  "geometry": {"coordinates":[-68.16136,9.79002],"type":"Point"}
+}

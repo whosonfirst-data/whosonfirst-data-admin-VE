@@ -1,0 +1,72 @@
+{
+  "id": 1243040509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.69722,10.41833,-66.69722,10.41833",
+    "geom:latitude":10.41833,
+    "geom:longitude":-66.69722,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Helechal",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803763,
+    "gn:latitude":10.41833,
+    "gn:longitude":-66.69722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Helechal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Helechal",
+        "Helechal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803763
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bcfe9bab513591d39e63f573a4becc65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171381,
+            "locality_id":1243040509,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1243040509,
+    "wof:lastmodified":1537713650,
+    "wof:name":"Helechal",
+    "wof:parent_id":421171381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.69722,
+    10.41833,
+    -66.69722,
+    10.41833
+],
+  "geometry": {"coordinates":[-66.69722,10.41833],"type":"Point"}
+}

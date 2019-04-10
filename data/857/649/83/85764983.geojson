@@ -1,0 +1,111 @@
+{
+  "id": 85764983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":42144594.380988,
+    "geom:bbox":"-67.017247,10.357177,-67.017247,10.357177",
+    "geom:latitude":10.357177,
+    "geom:longitude":-67.017247,
+    "gn:latitude":10.35,
+    "gn:longitude":-67.03333,
+    "iso:country":"VE",
+    "lbl:latitude":10.357177,
+    "lbl:longitude":-67.017247,
+    "mps:latitude":10.349554,
+    "mps:longitude":-67.035038,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:spa_x_colloquial":[
+        "Llano de Miquilen"
+    ],
+    "name:spa_x_preferred":[
+        "Llano de Miquil\u00e9n"
+    ],
+    "name:unk_x_variant":[
+        "Llano de Miquil\u00e9n"
+    ],
+    "qs:gn_adm0_cc":"VE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3742102,
+    "qs:gn_nam_loc":"guayas",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Llano de Miquil\u00e9n",
+    "qs:local_max":438,
+    "qs:local_sum":438,
+    "qs:localhoods":1,
+    "qs:name":"Llano de Miquil\u00e9n",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:name_adm2":"Guaicaipuro",
+    "qs:name_lau":"Los Teques",
+    "qs:name_local":"Los Teques",
+    "qs:photo_max":67,
+    "qs:photo_sum":438,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":31,
+    "qs:woe_adm0":23424982,
+    "qs:woe_adm1":2347691,
+    "qs:woe_adm2":26804602,
+    "qs:woe_lau":26805193,
+    "qs:woe_local":468396,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        421202375,
+        85680553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634711,
+        "gp:id":390072,
+        "qs:id":211193
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1cf17837025b8a166699fe6598730f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":-1,
+            "neighbourhood_id":85764983,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":85764983,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858985,
+    "wof:name":"Llano de Miquil\u00e9n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.017247,
+    10.357177,
+    -67.017247,
+    10.357177
+],
+  "geometry": {"coordinates":[-67.017247,10.357177],"type":"Point"}
+}

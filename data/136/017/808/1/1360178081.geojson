@@ -1,0 +1,71 @@
+{
+  "id": 1360178081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.68753,10.05023,-67.68753,10.05023",
+    "geom:latitude":10.05023,
+    "geom:longitude":-67.68753,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Caicarita",
+    "gn:country_code":"VE",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647526,
+    "gn:latitude":10.05023,
+    "gn:longitude":-67.68753,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caicarita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cascarita",
+        "Caicarita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647526
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"12538832ee7f4f61b101527f5fdb07f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1360178081,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1360178081,
+    "wof:lastmodified":1537713625,
+    "wof:name":"Caicarita",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.68753000000001,
+    10.05023,
+    -67.68753000000001,
+    10.05023
+],
+  "geometry": {"coordinates":[-67.68753000000001,10.05023],"type":"Point"}
+}

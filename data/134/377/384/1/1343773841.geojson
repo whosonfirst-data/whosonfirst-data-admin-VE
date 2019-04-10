@@ -1,0 +1,67 @@
+{
+  "id": 1343773841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.41218,9.35607,-64.41218,9.35607",
+    "geom:latitude":9.35607,
+    "geom:longitude":-64.41218,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Caramiche",
+    "gn:country_code":"VE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646699,
+    "gn:latitude":9.35607,
+    "gn:longitude":-64.41218,
+    "gn:modification_date":"1996-08-26",
+    "gn:name":"Caramiche",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646699
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a2ca7b5224d37dae7f66a666065929fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1343773841,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343773841,
+    "wof:lastmodified":1536791915,
+    "wof:name":"Caramiche",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.41218,
+    9.35607,
+    -64.41218,
+    9.35607
+],
+  "geometry": {"coordinates":[-64.41218000000001,9.35607],"type":"Point"}
+}

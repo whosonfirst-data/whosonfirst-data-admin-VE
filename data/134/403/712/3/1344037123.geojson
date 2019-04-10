@@ -1,0 +1,67 @@
+{
+  "id": 1344037123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.56611,9.36056,-67.56611,9.36056",
+    "geom:latitude":9.36056,
+    "geom:longitude":-67.56611,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Bucare",
+    "gn:country_code":"VE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644103,
+    "gn:latitude":9.36056,
+    "gn:longitude":-67.56611,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"El Bucare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644103
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e02dd21c2e7927093a4c49d5b43f066e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1344037123,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1344037123,
+    "wof:lastmodified":1536909685,
+    "wof:name":"El Bucare",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.56611,
+    9.36056,
+    -67.56611,
+    9.36056
+],
+  "geometry": {"coordinates":[-67.56610999999999,9.36056],"type":"Point"}
+}

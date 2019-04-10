@@ -1,0 +1,67 @@
+{
+  "id": 1276623077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.99005,10.20894,-68.99005,10.20894",
+    "geom:latitude":10.20894,
+    "geom:longitude":-68.99005,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"El Junco",
+    "gn:country_code":"VE",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642890,
+    "gn:latitude":10.20894,
+    "gn:longitude":-68.99005,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Junco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642890
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6e58c41b4d38cb15a41518a42928c377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694465,
+            "locality_id":1276623077,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1276623077,
+    "wof:lastmodified":1536887454,
+    "wof:name":"El Junco",
+    "wof:parent_id":1108694465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.99005,
+    10.20894,
+    -68.99005,
+    10.20894
+],
+  "geometry": {"coordinates":[-68.99005,10.20894],"type":"Point"}
+}

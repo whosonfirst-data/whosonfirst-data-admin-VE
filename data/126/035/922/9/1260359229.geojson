@@ -1,0 +1,67 @@
+{
+  "id": 1260359229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.06179,9.95994,-66.06179,9.95994",
+    "geom:latitude":9.95994,
+    "geom:longitude":-66.06179,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Quebrada Seca",
+    "gn:country_code":"VE",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804116,
+    "gn:latitude":9.95994,
+    "gn:longitude":-66.06179,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Quebrada Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804116
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"73b821ca8962dffb2df1034e2f8b19f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1260359229,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1260359229,
+    "wof:lastmodified":1536607741,
+    "wof:name":"Quebrada Seca",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.06179,
+    9.95994,
+    -66.06179,
+    9.95994
+],
+  "geometry": {"coordinates":[-66.06179,9.95994],"type":"Point"}
+}

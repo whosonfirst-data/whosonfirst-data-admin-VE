@@ -1,0 +1,67 @@
+{
+  "id": 1309714221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.20307,10.01574,-65.20307,10.01574",
+    "geom:latitude":10.01574,
+    "geom:longitude":-65.20307,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Guaramaco",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640131,
+    "gn:latitude":10.01574,
+    "gn:longitude":-65.20307,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Guaramaco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421172597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640131
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dbccea2fda21cef5ec168d05518be850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172597,
+            "locality_id":1309714221,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309714221,
+    "wof:lastmodified":1537060484,
+    "wof:name":"Guaramaco",
+    "wof:parent_id":421172597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.20307,
+    10.01574,
+    -65.20307,
+    10.01574
+],
+  "geometry": {"coordinates":[-65.20307,10.01574],"type":"Point"}
+}

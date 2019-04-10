@@ -1,0 +1,67 @@
+{
+  "id": 1327031945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.57106,9.65836,-64.57106,9.65836",
+    "geom:latitude":9.65836,
+    "geom:longitude":-64.57106,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sabana de Prado",
+    "gn:country_code":"VE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484419,
+    "gn:latitude":9.65836,
+    "gn:longitude":-64.57106,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sabana de Prado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484419
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0ffba84709df8a9fd08bf488e26b0496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1327031945,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1327031945,
+    "wof:lastmodified":1536761318,
+    "wof:name":"Sabana de Prado",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.57106,
+    9.65836,
+    -64.57106,
+    9.65836
+],
+  "geometry": {"coordinates":[-64.57106,9.65836],"type":"Point"}
+}

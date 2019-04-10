@@ -1,0 +1,67 @@
+{
+  "id": 1293392181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22132,8.09484,-65.22132,8.09484",
+    "geom:latitude":8.09484,
+    "geom:longitude":-65.22132,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Peine",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642135,
+    "gn:latitude":8.09484,
+    "gn:longitude":-65.22132,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Peine",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642135
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"756835b7e803f2ef3b048e6fbd0bc6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1293392181,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293392181,
+    "wof:lastmodified":1536925108,
+    "wof:name":"El Peine",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22131999999999,
+    8.09484,
+    -65.22131999999999,
+    8.09484
+],
+  "geometry": {"coordinates":[-65.22131999999999,8.09484],"type":"Point"}
+}

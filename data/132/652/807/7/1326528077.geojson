@@ -1,0 +1,72 @@
+{
+  "id": 1326528077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08333,8.9,-70.08333,8.9",
+    "geom:latitude":8.9,
+    "geom:longitude":-70.08333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Marquesena",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637208,
+    "gn:latitude":8.9,
+    "gn:longitude":-70.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Marquese\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Marquece\u00f1a",
+        "La Marquese\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637208
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d22a3450c8a13a707e1c924688dd59eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694103,
+            "locality_id":1326528077,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1326528077,
+    "wof:lastmodified":1537713567,
+    "wof:name":"La Marquesena",
+    "wof:parent_id":1108694103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08333,
+    8.9,
+    -70.08333,
+    8.9
+],
+  "geometry": {"coordinates":[-70.08333,8.9],"type":"Point"}
+}

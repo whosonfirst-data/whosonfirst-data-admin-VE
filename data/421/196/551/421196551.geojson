@@ -1,0 +1,75 @@
+{
+  "id": 421196551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29157,7.909121,-71.29157,7.909121",
+    "geom:latitude":7.909121,
+    "geom:longitude":-71.29157,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mucuchachi",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":71,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":774161,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805239,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805239,
+        "qs:id":774161
+    },
+    "wof:country":"VE",
+    "wof:created":1459009885,
+    "wof:geomhash":"fa25e39118c1a526683e209d4eac7955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "localadmin_id":421196551,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421196551,
+    "wof:lastmodified":1500034070,
+    "wof:name":"Mucuchachi",
+    "wof:parent_id":421175381,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29157,
+    7.909121,
+    -71.29157,
+    7.909121
+],
+  "geometry": {"coordinates":[-71.29156999999999,7.909121],"type":"Point"}
+}

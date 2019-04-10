@@ -1,0 +1,67 @@
+{
+  "id": 1242752079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.34122,7.77682,-72.34122,7.77682",
+    "geom:latitude":7.77682,
+    "geom:longitude":-72.34122,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Cerro",
+    "gn:country_code":"VE",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759330,
+    "gn:latitude":7.77682,
+    "gn:longitude":-72.34122,
+    "gn:modification_date":"1997-02-27",
+    "gn:name":"El Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759330
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87b9e24cd514a4dcad21ecdf318505a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694261,
+            "locality_id":1242752079,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1242752079,
+    "wof:lastmodified":1536811907,
+    "wof:name":"El Cerro",
+    "wof:parent_id":1108694261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.34121999999998,
+    7.77682,
+    -72.34121999999998,
+    7.77682
+],
+  "geometry": {"coordinates":[-72.34121999999998,7.77682],"type":"Point"}
+}

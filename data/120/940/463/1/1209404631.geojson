@@ -1,0 +1,61 @@
+{
+  "id": 1209404631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.94921,9.61364,-67.94921,9.61364",
+    "geom:latitude":9.61364,
+    "geom:longitude":-67.94921,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"La Escorzonera",
+    "gn:country_code":"VE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638076,
+    "gn:latitude":9.61364,
+    "gn:longitude":-67.94921,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"La Escorzonera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638076
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8a3fbd8e1296348c965321e3b4536fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209404631
+        }
+    ],
+    "wof:id":1209404631,
+    "wof:lastmodified":1536288035,
+    "wof:name":"La Escorzonera",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.94921,
+    9.61364,
+    -67.94921,
+    9.61364
+],
+  "geometry": {"coordinates":[-67.94920999999999,9.61364],"type":"Point"}
+}

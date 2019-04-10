@@ -1,0 +1,67 @@
+{
+  "id": 1242678759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.99914,7.14966,-67.99914,7.14966",
+    "geom:latitude":7.14966,
+    "geom:longitude":-67.99914,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cunavichito",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644719,
+    "gn:latitude":7.14966,
+    "gn:longitude":-67.99914,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Cunavichito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644719
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c0987183b2cbc42dd5eaa1a4414172ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1242678759,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1242678759,
+    "wof:lastmodified":1536918667,
+    "wof:name":"Cunavichito",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.99914,
+    7.14966,
+    -67.99914,
+    7.14966
+],
+  "geometry": {"coordinates":[-67.99914,7.14966],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343840977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.19799,8.14464,-71.19799,8.14464",
+    "geom:latitude":8.14464,
+    "geom:longitude":-71.19799,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Campo Elias",
+    "gn:country_code":"VE",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647198,
+    "gn:latitude":8.14464,
+    "gn:longitude":-71.19799,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Campo El\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647198
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"853338bbc43ad99389c918c63c65cbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694095,
+            "locality_id":1343840977,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343840977,
+    "wof:lastmodified":1536694947,
+    "wof:name":"Campo Elias",
+    "wof:parent_id":1108694095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19799,
+    8.14464,
+    -71.19799,
+    8.14464
+],
+  "geometry": {"coordinates":[-71.19799,8.14464],"type":"Point"}
+}

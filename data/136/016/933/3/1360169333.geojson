@@ -1,0 +1,67 @@
+{
+  "id": 1360169333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.25585,10.04546,-68.25585,10.04546",
+    "geom:latitude":10.04546,
+    "geom:longitude":-68.25585,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"El Amparo",
+    "gn:country_code":"VE",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644304,
+    "gn:latitude":10.04546,
+    "gn:longitude":-68.25585,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"El Amparo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644304
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6390725f93995f934c2cf0a50813979b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "locality_id":1360169333,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1360169333,
+    "wof:lastmodified":1536823260,
+    "wof:name":"El Amparo",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.25585,
+    10.04546,
+    -68.25585,
+    10.04546
+],
+  "geometry": {"coordinates":[-68.25585,10.04546],"type":"Point"}
+}

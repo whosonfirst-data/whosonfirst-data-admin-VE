@@ -1,0 +1,67 @@
+{
+  "id": 1243430993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.92729,9.45119,-65.92729,9.45119",
+    "geom:latitude":9.45119,
+    "geom:longitude":-65.92729,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Verdosa",
+    "gn:country_code":"VE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634944,
+    "gn:latitude":9.45119,
+    "gn:longitude":-65.92729,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Verdosa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        421195497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634944
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ff68a050af741a5fccbcef327375248c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195497,
+            "locality_id":1243430993,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1243430993,
+    "wof:lastmodified":1536826883,
+    "wof:name":"La Verdosa",
+    "wof:parent_id":421195497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.92729,
+    9.45119,
+    -65.92729,
+    9.45119
+],
+  "geometry": {"coordinates":[-65.92729,9.45119],"type":"Point"}
+}

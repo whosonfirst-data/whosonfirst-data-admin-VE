@@ -1,0 +1,67 @@
+{
+  "id": 1242778567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.91469,6.27853,-67.91469,6.27853",
+    "geom:latitude":6.27853,
+    "geom:longitude":-67.91469,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Flores Moradas",
+    "gn:country_code":"VE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640784,
+    "gn:latitude":6.27853,
+    "gn:longitude":-67.91469,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Flores Moradas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640784
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5dd59d9aac4a14edd988736daca69457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1242778567,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1242778567,
+    "wof:lastmodified":1536774859,
+    "wof:name":"Flores Moradas",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.91469000000001,
+    6.27853,
+    -67.91469000000001,
+    6.27853
+],
+  "geometry": {"coordinates":[-67.91469000000001,6.27853],"type":"Point"}
+}

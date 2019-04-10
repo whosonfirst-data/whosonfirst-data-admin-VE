@@ -1,0 +1,67 @@
+{
+  "id": 1242963217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.65885,9.79333,-68.65885,9.79333",
+    "geom:latitude":9.79333,
+    "geom:longitude":-68.65885,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cana Brava",
+    "gn:country_code":"VE",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647154,
+    "gn:latitude":9.79333,
+    "gn:longitude":-68.65885,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Ca\u00f1a Brava",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647154
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"765c9134c0a4bd15f6b2a69681f4836b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1242963217,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1242963217,
+    "wof:lastmodified":1537004536,
+    "wof:name":"Cana Brava",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.65885,
+    9.79333,
+    -68.65885,
+    9.79333
+],
+  "geometry": {"coordinates":[-68.65885,9.79333],"type":"Point"}
+}

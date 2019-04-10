@@ -1,0 +1,67 @@
+{
+  "id": 1292958857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.62036,8.68595,-72.62036,8.68595",
+    "geom:latitude":8.68595,
+    "geom:longitude":-72.62036,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Boca del Roto",
+    "gn:country_code":"VE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758404,
+    "gn:latitude":8.68595,
+    "gn:longitude":-72.62036,
+    "gn:modification_date":"1997-02-05",
+    "gn:name":"Boca del Roto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758404
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e30f33169d354789147799dde9168dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694219,
+            "locality_id":1292958857,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1292958857,
+    "wof:lastmodified":1537050114,
+    "wof:name":"Boca del Roto",
+    "wof:parent_id":1108694219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.62035999999998,
+    8.68595,
+    -72.62035999999998,
+    8.68595
+],
+  "geometry": {"coordinates":[-72.62035999999998,8.68595],"type":"Point"}
+}

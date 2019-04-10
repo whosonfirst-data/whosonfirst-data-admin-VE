@@ -1,0 +1,67 @@
+{
+  "id": 1259671047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.56957,11.39415,-69.56957,11.39415",
+    "geom:latitude":11.39415,
+    "geom:longitude":-69.56957,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Butare",
+    "gn:country_code":"VE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647695,
+    "gn:latitude":11.39415,
+    "gn:longitude":-69.56957,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Butare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647695
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"717020ce2749371644abc9abea2e4167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180897,
+            "locality_id":1259671047,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259671047,
+    "wof:lastmodified":1537081798,
+    "wof:name":"Butare",
+    "wof:parent_id":421180897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.56957,
+    11.39415,
+    -69.56957,
+    11.39415
+],
+  "geometry": {"coordinates":[-69.56957,11.39415],"type":"Point"}
+}

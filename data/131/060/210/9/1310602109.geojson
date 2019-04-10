@@ -1,0 +1,67 @@
+{
+  "id": 1310602109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.83384,7.21665,-70.83384,7.21665",
+    "geom:latitude":7.21665,
+    "geom:longitude":-70.83384,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Zerpero",
+    "gn:country_code":"VE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3756776,
+    "gn:latitude":7.21665,
+    "gn:longitude":-70.83384,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Zerpero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756776
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cdc310ee75783c4a97e398f1753dcbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1310602109,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1310602109,
+    "wof:lastmodified":1536778079,
+    "wof:name":"El Zerpero",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.83384000000002,
+    7.21665,
+    -70.83384000000002,
+    7.21665
+],
+  "geometry": {"coordinates":[-70.83384000000002,7.21665],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243533443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.52029,9.84609,-69.52029,9.84609",
+    "geom:latitude":9.84609,
+    "geom:longitude":-69.52029,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Paso del Rio",
+    "gn:country_code":"VE",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748499,
+    "gn:latitude":9.84609,
+    "gn:longitude":-69.52029,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Paso del R\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421189073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748499
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3278322ddde78447e0af329de9e1832b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189073,
+            "locality_id":1243533443,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243533443,
+    "wof:lastmodified":1536680153,
+    "wof:name":"Paso del Rio",
+    "wof:parent_id":421189073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.52029,
+    9.84609,
+    -69.52029,
+    9.84609
+],
+  "geometry": {"coordinates":[-69.52029,9.84609],"type":"Point"}
+}

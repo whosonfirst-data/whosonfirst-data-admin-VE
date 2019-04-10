@@ -1,0 +1,67 @@
+{
+  "id": 1276455131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.04588,9.74835,-64.04588,9.74835",
+    "geom:latitude":9.74835,
+    "geom:longitude":-64.04588,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Laberinto",
+    "gn:country_code":"VE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642881,
+    "gn:latitude":9.74835,
+    "gn:longitude":-64.04588,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Laberinto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642881
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6165e6847d4a8c769c16310926e2b9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1276455131,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276455131,
+    "wof:lastmodified":1536613002,
+    "wof:name":"El Laberinto",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.04588000000001,
+    9.74835,
+    -64.04588000000001,
+    9.74835
+],
+  "geometry": {"coordinates":[-64.04588000000001,9.74835],"type":"Point"}
+}

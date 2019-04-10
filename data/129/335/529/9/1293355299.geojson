@@ -1,0 +1,76 @@
+{
+  "id": 1293355299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.86833,10.69778,-62.86833,10.69778",
+    "geom:latitude":10.69778,
+    "geom:longitude":-62.86833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Querepare",
+    "gn:country_code":"VE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796574,
+    "gn:latitude":10.69778,
+    "gn:longitude":-62.86833,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Querepare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Querepare"
+    ],
+    "name:por_x_preferred":[
+        "Querepare"
+    ],
+    "name:spa_x_preferred":[
+        "Querepare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        421193365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796574
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b71bab0d22776e5f28c9f0fe94fb3047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421193365,
+            "locality_id":1293355299,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293355299,
+    "wof:lastmodified":1537560473,
+    "wof:name":"Querepare",
+    "wof:parent_id":421193365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.86833000000001,
+    10.69778,
+    -62.86833000000001,
+    10.69778
+],
+  "geometry": {"coordinates":[-62.86833000000001,10.69778],"type":"Point"}
+}

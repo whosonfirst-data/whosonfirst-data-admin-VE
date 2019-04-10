@@ -1,0 +1,67 @@
+{
+  "id": 1360143041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.81849,10.26038,-68.81849,10.26038",
+    "geom:latitude":10.26038,
+    "geom:longitude":-68.81849,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Los Chucos",
+    "gn:country_code":"VE",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634298,
+    "gn:latitude":10.26038,
+    "gn:longitude":-68.81849,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Los Chucos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634298
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9e3fd309fafcd5f1e6f03ea0cc54d6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694449,
+            "locality_id":1360143041,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1360143041,
+    "wof:lastmodified":1536860760,
+    "wof:name":"Los Chucos",
+    "wof:parent_id":1108694449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.81849,
+    10.26038,
+    -68.81849,
+    10.26038
+],
+  "geometry": {"coordinates":[-68.81849,10.26038],"type":"Point"}
+}

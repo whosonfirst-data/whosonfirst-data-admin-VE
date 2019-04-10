@@ -1,0 +1,67 @@
+{
+  "id": 1309719719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.54091,10.20802,-64.54091,10.20802",
+    "geom:latitude":10.20802,
+    "geom:longitude":-64.54091,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Guatamare",
+    "gn:country_code":"VE",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639911,
+    "gn:latitude":10.20802,
+    "gn:longitude":-64.54091,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Guatamare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639911
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aaecd81bd2860f5334cbda1ff7cc780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694207,
+            "locality_id":1309719719,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309719719,
+    "wof:lastmodified":1537052873,
+    "wof:name":"Guatamare",
+    "wof:parent_id":1108694207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.54091,
+    10.20802,
+    -64.54091,
+    10.20802
+],
+  "geometry": {"coordinates":[-64.54091,10.20802],"type":"Point"}
+}

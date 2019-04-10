@@ -1,0 +1,71 @@
+{
+  "id": 1243055245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72476,10.61509,-70.72476,10.61509",
+    "geom:latitude":10.61509,
+    "geom:longitude":-70.72476,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Goajiro",
+    "gn:country_code":"VE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640587,
+    "gn:latitude":10.61509,
+    "gn:longitude":-70.72476,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goajiro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guajiro",
+        "Goajiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640587
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd14f81c6121ede0e17fc326403ecfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694131,
+            "locality_id":1243055245,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1243055245,
+    "wof:lastmodified":1537713587,
+    "wof:name":"Goajiro",
+    "wof:parent_id":1108694131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72476,
+    10.61509,
+    -70.72476,
+    10.61509
+],
+  "geometry": {"coordinates":[-70.72476,10.61509],"type":"Point"}
+}

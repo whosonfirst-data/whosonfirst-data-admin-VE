@@ -1,0 +1,67 @@
+{
+  "id": 1326501197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11266,10.59948,-70.11266,10.59948",
+    "geom:latitude":10.59948,
+    "geom:longitude":-70.11266,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Jobito",
+    "gn:country_code":"VE",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3747468,
+    "gn:latitude":10.59948,
+    "gn:longitude":-70.11266,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"El Jobito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3747468
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5c13054c917d0746cfe95b331f2ed675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1326501197,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1326501197,
+    "wof:lastmodified":1537027682,
+    "wof:name":"El Jobito",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11265999999999,
+    10.59948,
+    -70.11265999999999,
+    10.59948
+],
+  "geometry": {"coordinates":[-70.11265999999999,10.59948],"type":"Point"}
+}

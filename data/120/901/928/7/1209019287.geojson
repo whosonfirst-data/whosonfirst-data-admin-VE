@@ -1,0 +1,61 @@
+{
+  "id": 1209019287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.58333,10.05,-70.58333,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":-70.58333,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Sicare",
+    "gn:country_code":"VE",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626844,
+    "gn:latitude":10.05,
+    "gn:longitude":-70.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sicare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626844
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d75cf72fb53791657cea53f9450dcc73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209019287
+        }
+    ],
+    "wof:id":1209019287,
+    "wof:lastmodified":1536300195,
+    "wof:name":"Sicare",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.58333,
+    10.05,
+    -70.58333,
+    10.05
+],
+  "geometry": {"coordinates":[-70.58333,10.05],"type":"Point"}
+}

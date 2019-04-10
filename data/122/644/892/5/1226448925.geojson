@@ -1,0 +1,67 @@
+{
+  "id": 1226448925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.59163,7.6217,-66.59163,7.6217",
+    "geom:latitude":7.6217,
+    "geom:longitude":-66.59163,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Pesca",
+    "gn:country_code":"VE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805434,
+    "gn:latitude":7.6217,
+    "gn:longitude":-66.59163,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Pesca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805434
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"30cda7325406377e3d52d4d6d06d8330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1226448925,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1226448925,
+    "wof:lastmodified":1536639890,
+    "wof:name":"La Pesca",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.59163000000001,
+    7.6217,
+    -66.59163000000001,
+    7.6217
+],
+  "geometry": {"coordinates":[-66.59163000000001,7.6217],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277156111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03764,9.65579,-70.03764,9.65579",
+    "geom:latitude":9.65579,
+    "geom:longitude":-70.03764,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cobalombo",
+    "gn:country_code":"VE",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767419,
+    "gn:latitude":9.65579,
+    "gn:longitude":-70.03764,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Cobalombo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421200611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767419
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f1ac8dd7e2cc03eebf01c24958f93137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200611,
+            "locality_id":1277156111,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1277156111,
+    "wof:lastmodified":1536661976,
+    "wof:name":"Cobalombo",
+    "wof:parent_id":421200611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03764,
+    9.65579,
+    -70.03764,
+    9.65579
+],
+  "geometry": {"coordinates":[-70.03764,9.65579],"type":"Point"}
+}

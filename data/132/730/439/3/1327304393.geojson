@@ -1,0 +1,71 @@
+{
+  "id": 1327304393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24226,8.56853,-71.24226,8.56853",
+    "geom:latitude":8.56853,
+    "geom:longitude":-71.24226,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Calera",
+    "gn:country_code":"VE",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638720,
+    "gn:latitude":8.56853,
+    "gn:longitude":-71.24226,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Calera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Caleta",
+        "La Calera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638720
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"45c72d4c418dd35815883db2a1f68e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171999,
+            "locality_id":1327304393,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1327304393,
+    "wof:lastmodified":1537713576,
+    "wof:name":"La Calera",
+    "wof:parent_id":421171999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24226,
+    8.56853,
+    -71.24226,
+    8.56853
+],
+  "geometry": {"coordinates":[-71.24226,8.56853],"type":"Point"}
+}

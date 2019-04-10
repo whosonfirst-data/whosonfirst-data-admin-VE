@@ -1,0 +1,61 @@
+{
+  "id": 1209336037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96387,7.55508,-65.96387,7.55508",
+    "geom:latitude":7.55508,
+    "geom:longitude":-65.96387,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Puerto Banco",
+    "gn:country_code":"VE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807129,
+    "gn:latitude":7.55508,
+    "gn:longitude":-65.96387,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"Puerto Banco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807129
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"725b015d70a992e797ed3c2e7c48aab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209336037
+        }
+    ],
+    "wof:id":1209336037,
+    "wof:lastmodified":1536290218,
+    "wof:name":"Puerto Banco",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96387,
+    7.55508,
+    -65.96387,
+    7.55508
+],
+  "geometry": {"coordinates":[-65.96387,7.55508],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259935997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18333,9.8,-72.18333,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":-72.18333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Guamito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643139,
+    "gn:latitude":9.8,
+    "gn:longitude":-72.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Guamito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guamito",
+        "El Guamito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643139
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"947da493e91d7d693241ce2ee7106c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1259935997,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1259935997,
+    "wof:lastmodified":1537713602,
+    "wof:name":"El Guamito",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18333,
+    9.8,
+    -72.18333,
+    9.8
+],
+  "geometry": {"coordinates":[-72.18333,9.8],"type":"Point"}
+}

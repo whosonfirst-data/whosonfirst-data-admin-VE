@@ -1,0 +1,67 @@
+{
+  "id": 1344168903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16667,8.48694,-65.16667,8.48694",
+    "geom:latitude":8.48694,
+    "geom:longitude":-65.16667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"VE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484361,
+    "gn:latitude":8.48694,
+    "gn:longitude":-65.16667,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484361
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a21b4fcab16704ad169a7866cfd33a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1344168903,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344168903,
+    "wof:lastmodified":1536719415,
+    "wof:name":"San Juan",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16667,
+    8.48694,
+    -65.16667,
+    8.48694
+],
+  "geometry": {"coordinates":[-65.16667,8.48694],"type":"Point"}
+}

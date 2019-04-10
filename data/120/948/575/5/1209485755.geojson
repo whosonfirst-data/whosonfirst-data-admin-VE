@@ -1,0 +1,61 @@
+{
+  "id": 1209485755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.705,8.65889,-71.705,8.65889",
+    "geom:latitude":8.65889,
+    "geom:longitude":-71.705,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kilometro Cuarenta y Nueve",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799206,
+    "gn:latitude":8.65889,
+    "gn:longitude":-71.705,
+    "gn:modification_date":"2002-10-22",
+    "gn:name":"Kil\u00f3metro Cuarenta y Nueve",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799206
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f48245106ffbd648b010ac6f7eecc749",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209485755
+        }
+    ],
+    "wof:id":1209485755,
+    "wof:lastmodified":1536285642,
+    "wof:name":"Kilometro Cuarenta y Nueve",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.705,
+    8.65889,
+    -71.705,
+    8.65889
+],
+  "geometry": {"coordinates":[-71.705,8.65889],"type":"Point"}
+}

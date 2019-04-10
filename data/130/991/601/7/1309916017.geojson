@@ -1,0 +1,67 @@
+{
+  "id": 1309916017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25321,8.95126,-71.25321,8.95126",
+    "geom:latitude":8.95126,
+    "geom:longitude":-71.25321,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Mesa Julia",
+    "gn:country_code":"VE",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632283,
+    "gn:latitude":8.95126,
+    "gn:longitude":-71.25321,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Mesa Julia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632283
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"638d037760777a0d86650d66f291d99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694085,
+            "locality_id":1309916017,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1309916017,
+    "wof:lastmodified":1536772735,
+    "wof:name":"Mesa Julia",
+    "wof:parent_id":1108694085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25321,
+    8.95126,
+    -71.25321,
+    8.95126
+],
+  "geometry": {"coordinates":[-71.25321,8.95126],"type":"Point"}
+}

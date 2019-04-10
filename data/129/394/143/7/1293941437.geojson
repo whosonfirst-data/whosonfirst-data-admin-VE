@@ -1,0 +1,67 @@
+{
+  "id": 1293941437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.99417,9.88056,-70.99417,9.88056",
+    "geom:latitude":9.88056,
+    "geom:longitude":-70.99417,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Machango",
+    "gn:country_code":"VE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633454,
+    "gn:latitude":9.88056,
+    "gn:longitude":-70.99417,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Machango",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633454
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"88ad37b14e1d1dcfdb2f24552a37761a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694109,
+            "locality_id":1293941437,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293941437,
+    "wof:lastmodified":1536628238,
+    "wof:name":"Machango",
+    "wof:parent_id":1108694109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.99417,
+    9.88056,
+    -70.99417,
+    9.88056
+],
+  "geometry": {"coordinates":[-70.99417,9.88056],"type":"Point"}
+}

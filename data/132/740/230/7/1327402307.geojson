@@ -1,0 +1,71 @@
+{
+  "id": 1327402307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97172,9.80545,-70.97172,9.80545",
+    "geom:latitude":9.80545,
+    "geom:longitude":-70.97172,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kilometro Nueve",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639042,
+    "gn:latitude":9.80545,
+    "gn:longitude":-70.97172,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kil\u00f3metro Nueve",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 9",
+        "Kil\u00f3metro Nueve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639042
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"66381ab386522ead952e115c7d8e827b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694109,
+            "locality_id":1327402307,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1327402307,
+    "wof:lastmodified":1537713579,
+    "wof:name":"Kilometro Nueve",
+    "wof:parent_id":1108694109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97171999999998,
+    9.80545,
+    -70.97171999999998,
+    9.80545
+],
+  "geometry": {"coordinates":[-70.97171999999998,9.80545],"type":"Point"}
+}

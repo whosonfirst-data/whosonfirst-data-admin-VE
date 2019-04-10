@@ -1,0 +1,71 @@
+{
+  "id": 1260136619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.04815,9.5682,-71.04815,9.5682",
+    "geom:latitude":9.5682,
+    "geom:longitude":-71.04815,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Moporo",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631989,
+    "gn:latitude":9.5682,
+    "gn:longitude":-71.04815,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moporo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moporo de Agua",
+        "Moporo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631989
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9d03471ebb503b5d8f372e9e0440643a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694235,
+            "locality_id":1260136619,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1260136619,
+    "wof:lastmodified":1537713537,
+    "wof:name":"Moporo",
+    "wof:parent_id":1108694235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.04815,
+    9.5682,
+    -71.04815,
+    9.5682
+],
+  "geometry": {"coordinates":[-71.04815000000001,9.5682],"type":"Point"}
+}

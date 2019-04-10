@@ -1,0 +1,67 @@
+{
+  "id": 1260358097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.5,10.33333,-68.5,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":-68.5,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Milagros",
+    "gn:country_code":"VE",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632237,
+    "gn:latitude":10.33333,
+    "gn:longitude":-68.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Milagros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632237
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"50e015de064c7d0db9edfb1686a2c286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694481,
+            "locality_id":1260358097,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1260358097,
+    "wof:lastmodified":1536609376,
+    "wof:name":"Milagros",
+    "wof:parent_id":1108694481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.5,
+    10.33333,
+    -68.5,
+    10.33333
+],
+  "geometry": {"coordinates":[-68.5,10.33333],"type":"Point"}
+}

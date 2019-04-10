@@ -1,0 +1,67 @@
+{
+  "id": 1293106493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.04487,8.08334,-65.04487,8.08334",
+    "geom:latitude":8.08334,
+    "geom:longitude":-65.04487,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Laguna",
+    "gn:country_code":"VE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485242,
+    "gn:latitude":8.08334,
+    "gn:longitude":-65.04487,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Laguna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485242
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d8cfeafe42d3eb24903bc8d55717aca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1293106493,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293106493,
+    "wof:lastmodified":1536838269,
+    "wof:name":"Laguna",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.04486999999999,
+    8.08334,
+    -65.04486999999999,
+    8.08334
+],
+  "geometry": {"coordinates":[-65.04486999999999,8.08334],"type":"Point"}
+}

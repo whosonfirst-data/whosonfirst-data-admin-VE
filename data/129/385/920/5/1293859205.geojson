@@ -1,0 +1,67 @@
+{
+  "id": 1293859205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18612,9.47705,-69.18612,9.47705",
+    "geom:latitude":9.47705,
+    "geom:longitude":-69.18612,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Pirital",
+    "gn:country_code":"VE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746740,
+    "gn:latitude":9.47705,
+    "gn:longitude":-69.18612,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Pirital",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421202057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746740
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3bccf2800dea58098ba13cb90a3e00a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202057,
+            "locality_id":1293859205,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1293859205,
+    "wof:lastmodified":1536748195,
+    "wof:name":"Pirital",
+    "wof:parent_id":421202057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18611999999999,
+    9.47705,
+    -69.18611999999999,
+    9.47705
+],
+  "geometry": {"coordinates":[-69.18611999999999,9.47705],"type":"Point"}
+}

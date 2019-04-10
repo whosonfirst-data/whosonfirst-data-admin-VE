@@ -1,0 +1,67 @@
+{
+  "id": 1293397733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.47844,8.33651,-64.47844,8.33651",
+    "geom:latitude":8.33651,
+    "geom:longitude":-64.47844,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Manuel",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627991,
+    "gn:latitude":8.33651,
+    "gn:longitude":-64.47844,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"San Manuel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627991
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"12d560671da25a94e269b13077d3210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1293397733,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293397733,
+    "wof:lastmodified":1536916856,
+    "wof:name":"San Manuel",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.47844,
+    8.33651,
+    -64.47844,
+    8.33651
+],
+  "geometry": {"coordinates":[-64.47844000000001,8.33651],"type":"Point"}
+}

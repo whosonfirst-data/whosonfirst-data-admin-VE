@@ -1,0 +1,67 @@
+{
+  "id": 1242943397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98208,8.84101,-70.98208,8.84101",
+    "geom:latitude":8.84101,
+    "geom:longitude":-70.98208,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muchuntuy",
+    "gn:country_code":"VE",
+    "gn:dem":4300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797291,
+    "gn:latitude":8.84101,
+    "gn:longitude":-70.98208,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Muchuntuy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421172603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797291
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"664982d5333de97e92a6efe94d68e0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172603,
+            "locality_id":1242943397,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1242943397,
+    "wof:lastmodified":1537032526,
+    "wof:name":"Muchuntuy",
+    "wof:parent_id":421172603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98208000000002,
+    8.84101,
+    -70.98208000000002,
+    8.84101
+],
+  "geometry": {"coordinates":[-70.98208000000002,8.84101],"type":"Point"}
+}

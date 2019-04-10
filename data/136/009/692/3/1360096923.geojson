@@ -1,0 +1,67 @@
+{
+  "id": 1360096923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.71483,8.80972,-63.71483,8.80972",
+    "geom:latitude":8.80972,
+    "geom:longitude":-63.71483,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Dos Matas",
+    "gn:country_code":"VE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755678,
+    "gn:latitude":8.80972,
+    "gn:longitude":-63.71483,
+    "gn:modification_date":"1996-10-23",
+    "gn:name":"Dos Matas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421182997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755678
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ffab9b9f9c13b9f107285137721e3eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182997,
+            "locality_id":1360096923,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360096923,
+    "wof:lastmodified":1536929251,
+    "wof:name":"Dos Matas",
+    "wof:parent_id":421182997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.71483000000001,
+    8.80972,
+    -63.71483000000001,
+    8.80972
+],
+  "geometry": {"coordinates":[-63.71483000000001,8.80972],"type":"Point"}
+}

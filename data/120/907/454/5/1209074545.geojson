@@ -1,0 +1,61 @@
+{
+  "id": 1209074545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07562,10.19388,-71.07562,10.19388",
+    "geom:latitude":10.19388,
+    "geom:longitude":-71.07562,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Piedras Blancas",
+    "gn:country_code":"VE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630181,
+    "gn:latitude":10.19388,
+    "gn:longitude":-71.07562,
+    "gn:modification_date":"2000-08-01",
+    "gn:name":"Piedras Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630181
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e8dd8381bc85ac7044e7437fca6d8b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209074545
+        }
+    ],
+    "wof:id":1209074545,
+    "wof:lastmodified":1536298538,
+    "wof:name":"Piedras Blancas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07562,
+    10.19388,
+    -71.07562,
+    10.19388
+],
+  "geometry": {"coordinates":[-71.07562,10.19388],"type":"Point"}
+}

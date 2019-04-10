@@ -1,0 +1,72 @@
+{
+  "id": 1310713667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.79229,8.44279,-62.79229,8.44279",
+    "geom:latitude":8.44279,
+    "geom:longitude":-62.79229,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Corralito",
+    "gn:country_code":"VE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645071,
+    "gn:latitude":8.44279,
+    "gn:longitude":-62.79229,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Corralito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carralito",
+        "Coralito",
+        "Corralito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645071
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6736d4aac612a413b6215eef289fdc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1310713667,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310713667,
+    "wof:lastmodified":1537713615,
+    "wof:name":"Corralito",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.79229,
+    8.44279,
+    -62.79229,
+    8.44279
+],
+  "geometry": {"coordinates":[-62.79229,8.44279],"type":"Point"}
+}

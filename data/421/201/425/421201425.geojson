@@ -1,0 +1,103 @@
+{
+  "id": 421201425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31096,10.61468,-66.31096,10.61468",
+    "geom:latitude":10.61468,
+    "geom:longitude":-66.31096,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u0441\u043f\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Chuspa"
+    ],
+    "name:dut_x_preferred":[
+        "Chuspa"
+    ],
+    "name:eng_x_preferred":[
+        "Chuspa"
+    ],
+    "name:fre_x_preferred":[
+        "Chuspa"
+    ],
+    "name:ger_x_preferred":[
+        "Chuspa"
+    ],
+    "name:por_x_preferred":[
+        "Chuspa"
+    ],
+    "name:spa_x_preferred":[
+        "Chuspa"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3645577,
+    "qs:gn_pop":0,
+    "qs:name":"Chuspa",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":131,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":131,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211205,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468589,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":239,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645577,
+        "gp:id":468589,
+        "qs:id":211205,
+        "wd:id":"Q1090013",
+        "wk:page":"Chuspa"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010072,
+    "wof:geomhash":"c2a9847017549d0eedaa293942225796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":421201425,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":421201425,
+    "wof:lastmodified":1527716433,
+    "wof:name":"Chuspa",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31096,
+    10.61468,
+    -66.31096,
+    10.61468
+],
+  "geometry": {"coordinates":[-66.31095999999999,10.61468],"type":"Point"}
+}

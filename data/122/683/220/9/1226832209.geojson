@@ -1,0 +1,67 @@
+{
+  "id": 1226832209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61754,8.27319,-71.61754,8.27319",
+    "geom:latitude":8.27319,
+    "geom:longitude":-71.61754,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mesa de Poleo",
+    "gn:country_code":"VE",
+    "gn:dem":2244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3799282,
+    "gn:latitude":8.27319,
+    "gn:longitude":-71.61754,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Mesa de Poleo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421196155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799282
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2d11e950f1a40d04aa12769814a2dcee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196155,
+            "locality_id":1226832209,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1226832209,
+    "wof:lastmodified":1537084656,
+    "wof:name":"Mesa de Poleo",
+    "wof:parent_id":421196155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61754,
+    8.27319,
+    -71.61754,
+    8.27319
+],
+  "geometry": {"coordinates":[-71.61754000000001,8.27319],"type":"Point"}
+}

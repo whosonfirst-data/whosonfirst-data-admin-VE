@@ -1,0 +1,67 @@
+{
+  "id": 1259865213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5422,9.92066,-67.5422,9.92066",
+    "geom:latitude":9.92066,
+    "geom:longitude":-67.5422,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Manzanilla",
+    "gn:country_code":"VE",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633099,
+    "gn:latitude":9.92066,
+    "gn:longitude":-67.5422,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Manzanilla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633099
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d531b1f25e1c57284a64d06f52baa1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1259865213,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1259865213,
+    "wof:lastmodified":1536805382,
+    "wof:name":"Manzanilla",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.5422,
+    9.92066,
+    -67.5422,
+    9.92066
+],
+  "geometry": {"coordinates":[-67.54219999999999,9.92066],"type":"Point"}
+}

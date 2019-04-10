@@ -1,0 +1,67 @@
+{
+  "id": 1225933801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.37943,9.81158,-68.37943,9.81158",
+    "geom:latitude":9.81158,
+    "geom:longitude":-68.37943,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"La Aguadita",
+    "gn:country_code":"VE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638990,
+    "gn:latitude":9.81158,
+    "gn:longitude":-68.37943,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"La Aguadita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638990
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"62dd389cfd5d3aecd03ee5b455a232b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694265,
+            "locality_id":1225933801,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1225933801,
+    "wof:lastmodified":1536886197,
+    "wof:name":"La Aguadita",
+    "wof:parent_id":1108694265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.37943,
+    9.81158,
+    -68.37943,
+    9.81158
+],
+  "geometry": {"coordinates":[-68.37943,9.81158],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276515561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51667,10.05,-72.51667,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":-72.51667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Paja",
+    "gn:country_code":"VE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636955,
+    "gn:latitude":10.05,
+    "gn:longitude":-72.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Paja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636955
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5bc73c8be12c6f319aef6bc734f44f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1276515561,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276515561,
+    "wof:lastmodified":1537030632,
+    "wof:name":"La Paja",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51666999999998,
+    10.05,
+    -72.51666999999998,
+    10.05
+],
+  "geometry": {"coordinates":[-72.51666999999998,10.05],"type":"Point"}
+}

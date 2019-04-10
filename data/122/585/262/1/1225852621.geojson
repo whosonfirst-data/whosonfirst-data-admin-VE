@@ -1,0 +1,67 @@
+{
+  "id": 1225852621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.37404,10.01479,-64.37404,10.01479",
+    "geom:latitude":10.01479,
+    "geom:longitude":-64.37404,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bergantin",
+    "gn:country_code":"VE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648310,
+    "gn:latitude":10.01479,
+    "gn:longitude":-64.37404,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Bergant\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648310
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"33b2fbbbf874d052cd244f58b1559798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1225852621,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1225852621,
+    "wof:lastmodified":1537002948,
+    "wof:name":"Bergantin",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.37404000000001,
+    10.01479,
+    -64.37404000000001,
+    10.01479
+],
+  "geometry": {"coordinates":[-64.37404000000001,10.01479],"type":"Point"}
+}

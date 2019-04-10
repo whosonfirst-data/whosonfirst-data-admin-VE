@@ -1,0 +1,67 @@
+{
+  "id": 1343262487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9764,7.14628,-71.9764,7.14628",
+    "geom:latitude":7.14628,
+    "geom:longitude":-71.9764,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cutufi",
+    "gn:country_code":"VE",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738927,
+    "gn:latitude":7.14628,
+    "gn:longitude":-71.9764,
+    "gn:modification_date":"1997-04-16",
+    "gn:name":"Cutuf\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738927
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1e61bf3b8104a1e29084e665ad2cd428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1343262487,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343262487,
+    "wof:lastmodified":1537030647,
+    "wof:name":"Cutufi",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9764,
+    7.14628,
+    -71.9764,
+    7.14628
+],
+  "geometry": {"coordinates":[-71.9764,7.14628],"type":"Point"}
+}

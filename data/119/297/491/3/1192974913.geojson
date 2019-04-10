@@ -1,0 +1,67 @@
+{
+  "id": 1192974913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.38954,9.11667,-70.38954,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-70.38954,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"VItisay",
+    "gn:country_code":"VE",
+    "gn:dem":1845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741049,
+    "gn:latitude":9.11667,
+    "gn:longitude":-70.38954,
+    "gn:modification_date":"1995-08-09",
+    "gn:name":"VItisay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421188083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741049
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0e9acb72fc2137e0c276a63be549a354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421188083,
+            "locality_id":1192974913,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1192974913,
+    "wof:lastmodified":1536374345,
+    "wof:name":"VItisay",
+    "wof:parent_id":421188083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.38954,
+    9.11667,
+    -70.38954,
+    9.11667
+],
+  "geometry": {"coordinates":[-70.38954,9.11667],"type":"Point"}
+}

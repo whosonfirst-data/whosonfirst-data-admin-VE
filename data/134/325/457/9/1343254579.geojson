@@ -1,0 +1,67 @@
+{
+  "id": 1343254579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.86713,7.31133,-70.86713,7.31133",
+    "geom:latitude":7.31133,
+    "geom:longitude":-70.86713,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Agua Linda",
+    "gn:country_code":"VE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649635,
+    "gn:latitude":7.31133,
+    "gn:longitude":-70.86713,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Agua Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649635
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"01660af2760b9eaf82033917168e6725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1343254579,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343254579,
+    "wof:lastmodified":1537041663,
+    "wof:name":"Agua Linda",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.86713,
+    7.31133,
+    -70.86713,
+    7.31133
+],
+  "geometry": {"coordinates":[-70.86713,7.31133],"type":"Point"}
+}

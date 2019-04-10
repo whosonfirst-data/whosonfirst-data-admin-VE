@@ -1,0 +1,61 @@
+{
+  "id": 1209426765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.44628,10.17536,-64.44628,10.17536",
+    "geom:latitude":10.17536,
+    "geom:longitude":-64.44628,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Guayabos",
+    "gn:country_code":"VE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3485348,
+    "gn:latitude":10.17536,
+    "gn:longitude":-64.44628,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Los Guayabos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485348
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0e85b090dcad1eb638351ed8894c4ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209426765
+        }
+    ],
+    "wof:id":1209426765,
+    "wof:lastmodified":1536287358,
+    "wof:name":"Los Guayabos",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.44628,
+    10.17536,
+    -64.44628,
+    10.17536
+],
+  "geometry": {"coordinates":[-64.44628,10.17536],"type":"Point"}
+}

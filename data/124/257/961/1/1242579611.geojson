@@ -1,0 +1,67 @@
+{
+  "id": 1242579611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.87333,8.64778,-63.87333,8.64778",
+    "geom:latitude":8.64778,
+    "geom:longitude":-63.87333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cabecera de la Canoa",
+    "gn:country_code":"VE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486033,
+    "gn:latitude":8.64778,
+    "gn:longitude":-63.87333,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Cabecera de la Canoa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421182997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486033
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"87612e071b0833c11a8bfb93196d01cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182997,
+            "locality_id":1242579611,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1242579611,
+    "wof:lastmodified":1537058198,
+    "wof:name":"Cabecera de la Canoa",
+    "wof:parent_id":421182997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.87333,
+    8.64778,
+    -63.87333,
+    8.64778
+],
+  "geometry": {"coordinates":[-63.87333,8.64778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343669487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36909,9.98312,-65.36909,9.98312",
+    "geom:latitude":9.98312,
+    "geom:longitude":-65.36909,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"VE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647757,
+    "gn:latitude":9.98312,
+    "gn:longitude":-65.36909,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647757
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"342bb6b857e627d8c9d0add07726fc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1343669487,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343669487,
+    "wof:lastmodified":1536942554,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36909,
+    9.98312,
+    -65.36909,
+    9.98312
+],
+  "geometry": {"coordinates":[-65.36909,9.98312],"type":"Point"}
+}

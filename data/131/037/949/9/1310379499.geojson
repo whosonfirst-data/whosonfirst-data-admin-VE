@@ -1,0 +1,67 @@
+{
+  "id": 1310379499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97983,8.1242,-71.97983,8.1242",
+    "geom:latitude":8.1242,
+    "geom:longitude":-71.97983,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Agua Caliente",
+    "gn:country_code":"VE",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794873,
+    "gn:latitude":8.1242,
+    "gn:longitude":-71.97983,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Agua Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794873
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"30397af9c19d9cfdb59042f0879d56c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202067,
+            "locality_id":1310379499,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1310379499,
+    "wof:lastmodified":1537095579,
+    "wof:name":"Agua Caliente",
+    "wof:parent_id":421202067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97983,
+    8.1242,
+    -71.97983,
+    8.1242
+],
+  "geometry": {"coordinates":[-71.97983000000001,8.1242],"type":"Point"}
+}

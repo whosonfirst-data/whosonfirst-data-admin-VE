@@ -1,0 +1,67 @@
+{
+  "id": 1209899317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.42023,8.45847,-71.42023,8.45847",
+    "geom:latitude":8.45847,
+    "geom:longitude":-71.42023,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Horcaz",
+    "gn:country_code":"VE",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637590,
+    "gn:latitude":8.45847,
+    "gn:longitude":-71.42023,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Horcaz",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637590
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aebd13894b02e182aba5087560735bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":1209899317,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1209899317,
+    "wof:lastmodified":1536387166,
+    "wof:name":"La Horcaz",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.42023,
+    8.45847,
+    -71.42023,
+    8.45847
+],
+  "geometry": {"coordinates":[-71.42023,8.45847],"type":"Point"}
+}

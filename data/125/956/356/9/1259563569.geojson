@@ -1,0 +1,71 @@
+{
+  "id": 1259563569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8468,11.05061,-68.8468,11.05061",
+    "geom:latitude":11.05061,
+    "geom:longitude":-68.8468,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Quiragua",
+    "gn:country_code":"VE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629393,
+    "gn:latitude":11.05061,
+    "gn:longitude":-68.8468,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quiragua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiracoa",
+        "Quiragua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629393
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"be9cd7f683dd1fea6800628aae1ce9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694215,
+            "locality_id":1259563569,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259563569,
+    "wof:lastmodified":1537713525,
+    "wof:name":"Quiragua",
+    "wof:parent_id":1108694215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8468,
+    11.05061,
+    -68.8468,
+    11.05061
+],
+  "geometry": {"coordinates":[-68.8468,11.05061],"type":"Point"}
+}

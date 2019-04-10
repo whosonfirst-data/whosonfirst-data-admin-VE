@@ -1,0 +1,67 @@
+{
+  "id": 1259777361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.84081,9.11737,-60.84081,9.11737",
+    "geom:latitude":9.11737,
+    "geom:longitude":-60.84081,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Tobabanuco",
+    "gn:country_code":"VE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763115,
+    "gn:latitude":9.11737,
+    "gn:longitude":-60.84081,
+    "gn:modification_date":"1997-11-13",
+    "gn:name":"Tobabanuco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763115
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a33af5bc8d3702edbf96aeb1e8180086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694083,
+            "locality_id":1259777361,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":1259777361,
+    "wof:lastmodified":1536932762,
+    "wof:name":"Tobabanuco",
+    "wof:parent_id":1108694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.84081,
+    9.11737,
+    -60.84081,
+    9.11737
+],
+  "geometry": {"coordinates":[-60.84081,9.11737],"type":"Point"}
+}

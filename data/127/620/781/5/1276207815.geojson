@@ -1,0 +1,67 @@
+{
+  "id": 1276207815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61222,9.00667,-63.61222,9.00667",
+    "geom:latitude":9.00667,
+    "geom:longitude":-63.61222,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Fundo Brisa Sana",
+    "gn:country_code":"VE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777647,
+    "gn:latitude":9.00667,
+    "gn:longitude":-63.61222,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Fundo Brisa Sana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777647
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b53d60bc46dacb517792094ea0224955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1276207815,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276207815,
+    "wof:lastmodified":1536947636,
+    "wof:name":"Fundo Brisa Sana",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61221999999999,
+    9.00667,
+    -63.61221999999999,
+    9.00667
+],
+  "geometry": {"coordinates":[-63.61221999999999,9.00667],"type":"Point"}
+}

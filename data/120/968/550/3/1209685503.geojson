@@ -1,0 +1,61 @@
+{
+  "id": 1209685503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.59762,10.08012,-65.59762,10.08012",
+    "geom:latitude":10.08012,
+    "geom:longitude":-65.59762,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"El Penascal",
+    "gn:country_code":"VE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804041,
+    "gn:latitude":10.08012,
+    "gn:longitude":-65.59762,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"El Pe\u00f1ascal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804041
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"141ceb3912d5ab7391a2e05685bb1645",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209685503
+        }
+    ],
+    "wof:id":1209685503,
+    "wof:lastmodified":1536279425,
+    "wof:name":"El Penascal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.59761999999999,
+    10.08012,
+    -65.59761999999999,
+    10.08012
+],
+  "geometry": {"coordinates":[-65.59761999999999,10.08012],"type":"Point"}
+}

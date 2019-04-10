@@ -1,0 +1,67 @@
+{
+  "id": 1327109173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.42302,10.21549,-64.42302,10.21549",
+    "geom:latitude":10.21549,
+    "geom:longitude":-64.42302,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rio San Pedro",
+    "gn:country_code":"VE",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796703,
+    "gn:latitude":10.21549,
+    "gn:longitude":-64.42302,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"R\u00edo San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796703
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2f4c5e66e67c66567fa145d4d6b00995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1327109173,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1327109173,
+    "wof:lastmodified":1536649497,
+    "wof:name":"Rio San Pedro",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.42302,
+    10.21549,
+    -64.42302,
+    10.21549
+],
+  "geometry": {"coordinates":[-64.42301999999999,10.21549],"type":"Point"}
+}

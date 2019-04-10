@@ -1,0 +1,64 @@
+{
+  "id": 1209081517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.24129,9.17313,-69.24129,9.17313",
+    "geom:latitude":9.17313,
+    "geom:longitude":-69.24129,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"El Saman",
+    "gn:country_code":"VE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798571,
+    "gn:latitude":9.17313,
+    "gn:longitude":-69.24129,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Saman",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Saman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798571
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"69f1762586723a324a800776f84d841a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209081517
+        }
+    ],
+    "wof:id":1209081517,
+    "wof:lastmodified":1537713647,
+    "wof:name":"El Saman",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.24129,
+    9.17313,
+    -69.24129,
+    9.17313
+],
+  "geometry": {"coordinates":[-69.24129000000001,9.17313],"type":"Point"}
+}

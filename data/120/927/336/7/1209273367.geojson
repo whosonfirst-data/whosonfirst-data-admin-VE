@@ -1,0 +1,61 @@
+{
+  "id": 1209273367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.42005,7.77094,-72.42005,7.77094",
+    "geom:latitude":7.77094,
+    "geom:longitude":-72.42005,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Las Adjuntas",
+    "gn:country_code":"VE",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794872,
+    "gn:latitude":7.77094,
+    "gn:longitude":-72.42005,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"Las Adjuntas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794872
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2e00d85ca36d09d3f873f203de620229",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209273367
+        }
+    ],
+    "wof:id":1209273367,
+    "wof:lastmodified":1536292281,
+    "wof:name":"Las Adjuntas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.42005,
+    7.770939999999999,
+    -72.42005,
+    7.770939999999999
+],
+  "geometry": {"coordinates":[-72.42005,7.77094],"type":"Point"}
+}

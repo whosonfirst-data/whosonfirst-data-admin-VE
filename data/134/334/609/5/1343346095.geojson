@@ -1,0 +1,67 @@
+{
+  "id": 1343346095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66634,9.84673,-68.66634,9.84673",
+    "geom:latitude":9.84673,
+    "geom:longitude":-68.66634,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Las Gallinas",
+    "gn:country_code":"VE",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799850,
+    "gn:latitude":9.84673,
+    "gn:longitude":-68.66634,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Las Gallinas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799850
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"787aecce894dd6a4d515329152d4c720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1343346095,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1343346095,
+    "wof:lastmodified":1536911726,
+    "wof:name":"Las Gallinas",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66634,
+    9.84673,
+    -68.66634,
+    9.84673
+],
+  "geometry": {"coordinates":[-68.66634000000001,9.84673],"type":"Point"}
+}

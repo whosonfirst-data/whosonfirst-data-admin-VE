@@ -1,0 +1,67 @@
+{
+  "id": 1259383753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.89899,7.47018,-68.89899,7.47018",
+    "geom:latitude":7.47018,
+    "geom:longitude":-68.89899,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Playa Blanca",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3805489,
+    "gn:latitude":7.47018,
+    "gn:longitude":-68.89899,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Playa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805489
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b6e14bfaadaedcafc073f0fa971edd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1259383753,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1259383753,
+    "wof:lastmodified":1537001132,
+    "wof:name":"Playa Blanca",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.89899,
+    7.47018,
+    -68.89899,
+    7.47018
+],
+  "geometry": {"coordinates":[-68.89899,7.47018],"type":"Point"}
+}

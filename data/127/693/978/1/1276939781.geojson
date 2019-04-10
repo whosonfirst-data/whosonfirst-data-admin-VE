@@ -1,0 +1,70 @@
+{
+  "id": 1276939781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4576,9.18872,-69.4576,9.18872",
+    "geom:latitude":9.18872,
+    "geom:longitude":-69.4576,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Mata",
+    "gn:country_code":"VE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798274,
+    "gn:latitude":9.18872,
+    "gn:longitude":-69.4576,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Mata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Mata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798274
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c714595b2696e44543dc629c63ab2018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694321,
+            "locality_id":1276939781,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1276939781,
+    "wof:lastmodified":1537713644,
+    "wof:name":"La Mata",
+    "wof:parent_id":1108694321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4576,
+    9.18872,
+    -69.4576,
+    9.18872
+],
+  "geometry": {"coordinates":[-69.4576,9.18872],"type":"Point"}
+}

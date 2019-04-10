@@ -1,0 +1,77 @@
+{
+  "id": 1343531769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44417,8.71315,-71.44417,8.71315",
+    "geom:latitude":8.71315,
+    "geom:longitude":-71.44417,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"La Azulita",
+    "gn:country_code":"VE",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3638904,
+    "gn:latitude":8.71315,
+    "gn:longitude":-71.44417,
+    "gn:modification_date":"2012-10-17",
+    "gn:name":"La Azulita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Azulita"
+    ],
+    "name:por_x_preferred":[
+        "La Azulita"
+    ],
+    "name:spa_x_preferred":[
+        "La Azulita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421186159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638904
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5b60a5bee813dc3778f32bd1ff4ab50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186159,
+            "locality_id":1343531769,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343531769,
+    "wof:lastmodified":1537560452,
+    "wof:name":"La Azulita",
+    "wof:parent_id":421186159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44417,
+    8.71315,
+    -71.44417,
+    8.71315
+],
+  "geometry": {"coordinates":[-71.44417,8.71315],"type":"Point"}
+}

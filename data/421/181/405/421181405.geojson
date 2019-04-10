@@ -1,0 +1,96 @@
+{
+  "id": 421181405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.85215,10.61119,-66.85215,10.61119",
+    "geom:latitude":10.61119,
+    "geom:longitude":-66.85215,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Caraballeda"
+    ],
+    "name:fra_x_preferred":[
+        "Caraballeda"
+    ],
+    "name:ita_x_preferred":[
+        "Caraballeda"
+    ],
+    "name:por_x_preferred":[
+        "Caraballeda"
+    ],
+    "name:spa_x_preferred":[
+        "Caraballeda"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3646767,
+    "qs:gn_pop":37824,
+    "qs:name":"Caraballeda",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Vargas",
+    "qs:photos":297,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":297,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":489766,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468164,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":611,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646767,
+        "gp:id":468164,
+        "qs:id":489766,
+        "wd:id":"Q8262813"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009295,
+    "wof:geomhash":"1a3cbf00f70c1d14f229f6f3cfd6d83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":421181405,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":421181405,
+    "wof:lastmodified":1527716331,
+    "wof:name":"Caraballeda",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:population":37824,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.85215,
+    10.61119,
+    -66.85215,
+    10.61119
+],
+  "geometry": {"coordinates":[-66.85214999999999,10.61119],"type":"Point"}
+}

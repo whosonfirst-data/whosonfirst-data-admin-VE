@@ -1,0 +1,61 @@
+{
+  "id": 1209190863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.32556,9.86889,-66.32556,9.86889",
+    "geom:latitude":9.86889,
+    "geom:longitude":-66.32556,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ipare",
+    "gn:country_code":"VE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639362,
+    "gn:latitude":9.86889,
+    "gn:longitude":-66.32556,
+    "gn:modification_date":"1996-03-28",
+    "gn:name":"Ipare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639362
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d003ff1e921ccb5f044fa627da7dd012",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209190863
+        }
+    ],
+    "wof:id":1209190863,
+    "wof:lastmodified":1536294939,
+    "wof:name":"Ipare",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.32556,
+    9.86889,
+    -66.32556,
+    9.86889
+],
+  "geometry": {"coordinates":[-66.32556,9.86889],"type":"Point"}
+}

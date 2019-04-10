@@ -1,0 +1,67 @@
+{
+  "id": 1343460689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06078,9.75653,-65.06078,9.75653",
+    "geom:latitude":9.75653,
+    "geom:longitude":-65.06078,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Vasquero",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484102,
+    "gn:latitude":9.75653,
+    "gn:longitude":-65.06078,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"El Vasquero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484102
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3180a65c25c03116fa23f1bc92dc566d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1343460689,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343460689,
+    "wof:lastmodified":1536745505,
+    "wof:name":"El Vasquero",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06078000000001,
+    9.75653,
+    -65.06078000000001,
+    9.75653
+],
+  "geometry": {"coordinates":[-65.06078000000001,9.75653],"type":"Point"}
+}

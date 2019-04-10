@@ -1,0 +1,61 @@
+{
+  "id": 1209571939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33984,9.83166,-70.33984,9.83166",
+    "geom:latitude":9.83166,
+    "geom:longitude":-70.33984,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Media Ladera",
+    "gn:country_code":"VE",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482361,
+    "gn:latitude":9.83166,
+    "gn:longitude":-70.33984,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Media Ladera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482361
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8cee553a77c2e082e73d271442d7c24b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209571939
+        }
+    ],
+    "wof:id":1209571939,
+    "wof:lastmodified":1536283056,
+    "wof:name":"Media Ladera",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33984,
+    9.83166,
+    -70.33984,
+    9.83166
+],
+  "geometry": {"coordinates":[-70.33984,9.83166],"type":"Point"}
+}

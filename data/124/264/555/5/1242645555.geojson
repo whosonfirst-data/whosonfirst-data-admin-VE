@@ -1,0 +1,67 @@
+{
+  "id": 1242645555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7425,10.68333,-71.7425,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":-71.7425,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Los Campos",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634435,
+    "gn:latitude":10.68333,
+    "gn:longitude":-71.7425,
+    "gn:modification_date":"2000-08-01",
+    "gn:name":"Los Campos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421172589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634435
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c55e6f43394a89d610df7803c701d563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172589,
+            "locality_id":1242645555,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1242645555,
+    "wof:lastmodified":1536965843,
+    "wof:name":"Los Campos",
+    "wof:parent_id":421172589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7425,
+    10.68333,
+    -71.7425,
+    10.68333
+],
+  "geometry": {"coordinates":[-71.74250000000001,10.68333],"type":"Point"}
+}

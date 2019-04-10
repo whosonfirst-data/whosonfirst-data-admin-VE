@@ -1,0 +1,67 @@
+{
+  "id": 1259641481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.72944,10.39028,-71.72944,10.39028",
+    "geom:latitude":10.39028,
+    "geom:longitude":-71.72944,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Carmelo",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643893,
+    "gn:latitude":10.39028,
+    "gn:longitude":-71.72944,
+    "gn:modification_date":"2000-08-01",
+    "gn:name":"El Carmelo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643893
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0cc92a5cfdbc37c236f0d749d44d0aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1259641481,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1259641481,
+    "wof:lastmodified":1536629566,
+    "wof:name":"El Carmelo",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.72944,
+    10.39028,
+    -71.72944,
+    10.39028
+],
+  "geometry": {"coordinates":[-71.72944,10.39028],"type":"Point"}
+}

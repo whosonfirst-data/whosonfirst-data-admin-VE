@@ -1,0 +1,100 @@
+{
+  "id": 1126064383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23139,7.76028,-72.23139,7.76028",
+    "geom:latitude":7.76028,
+    "geom:longitude":-72.23139,
+    "gn:gn_country":"VE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":7.76028,
+    "gn:longitude":-72.23139,
+    "iso:country":"VE",
+    "lbl:latitude":7.76028,
+    "lbl:longitude":-72.23139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "La Concordia"
+    ],
+    "name:unk_x_variant":[
+        "La Concordia"
+    ],
+    "qs_pg:aaroncc":"VE",
+    "qs_pg:gn_country":"VE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3759375,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Concordia",
+    "qs_pg:name_adm0":"Venezuela",
+    "qs_pg:name_adm1":"Tachira",
+    "qs_pg:photos":927,
+    "qs_pg:photos_1k":188,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":927,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165495,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424982,
+    "qs_pg:woe_id":468228,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424982,
+    "woe:name_adm0":"Venezuela",
+    "woe:name_adm1":"Tachira",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85680481,
+        102191577,
+        85632317,
+        421171375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759375,
+        "gp:id":468228,
+        "qs:id":1165495,
+        "qs_pg:id":1165495
+    },
+    "wof:country":"VE",
+    "wof:created":1497308629,
+    "wof:geomhash":"4440a3e35fd3e71635bc8c92f9af2114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171375,
+            "locality_id":-1,
+            "neighbourhood_id":1126064383,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1126064383,
+    "wof:lastmodified":1534379806,
+    "wof:name":"La Concordia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85765547
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23139,
+    7.76028,
+    -72.23139,
+    7.76028
+],
+  "geometry": {"coordinates":[-72.23139,7.76028],"type":"Point"}
+}

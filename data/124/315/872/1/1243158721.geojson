@@ -1,0 +1,67 @@
+{
+  "id": 1243158721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.80626,9.35433,-65.80626,9.35433",
+    "geom:latitude":9.35433,
+    "geom:longitude":-65.80626,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Balbinera",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638895,
+    "gn:latitude":9.35433,
+    "gn:longitude":-65.80626,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Balbinera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638895
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"361897bbaa8b661823dd5aace41a1c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694365,
+            "locality_id":1243158721,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1243158721,
+    "wof:lastmodified":1536723765,
+    "wof:name":"La Balbinera",
+    "wof:parent_id":1108694365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.80626,
+    9.35433,
+    -65.80626,
+    9.35433
+],
+  "geometry": {"coordinates":[-65.80625999999999,9.35433],"type":"Point"}
+}

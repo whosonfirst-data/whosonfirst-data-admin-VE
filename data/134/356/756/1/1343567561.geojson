@@ -1,0 +1,67 @@
+{
+  "id": 1343567561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.25889,7.90833,-67.25889,7.90833",
+    "geom:latitude":7.90833,
+    "geom:longitude":-67.25889,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Botaloncito",
+    "gn:country_code":"VE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3804532,
+    "gn:latitude":7.90833,
+    "gn:longitude":-67.25889,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"Botaloncito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3804532
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3ab7ca4d23c74cc9b60081c31a6e5b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694395,
+            "locality_id":1343567561,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343567561,
+    "wof:lastmodified":1537085982,
+    "wof:name":"Botaloncito",
+    "wof:parent_id":1108694395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.25889000000001,
+    7.90833,
+    -67.25889000000001,
+    7.90833
+],
+  "geometry": {"coordinates":[-67.25889000000001,7.90833],"type":"Point"}
+}

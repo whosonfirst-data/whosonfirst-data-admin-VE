@@ -1,0 +1,67 @@
+{
+  "id": 1293939345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.77917,8.74967,-71.77917,8.74967",
+    "geom:latitude":8.74967,
+    "geom:longitude":-71.77917,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kilometro Treinta y cuatro",
+    "gn:country_code":"VE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3789378,
+    "gn:latitude":8.74967,
+    "gn:longitude":-71.77917,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Kil\u00f3metro Treinta y cuatro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421186435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789378
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fb9c954bd88345c82a7025ae2562a04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186435,
+            "locality_id":1293939345,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1293939345,
+    "wof:lastmodified":1536631453,
+    "wof:name":"Kilometro Treinta y cuatro",
+    "wof:parent_id":421186435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.77917,
+    8.74967,
+    -71.77917,
+    8.74967
+],
+  "geometry": {"coordinates":[-71.77916999999999,8.74967],"type":"Point"}
+}

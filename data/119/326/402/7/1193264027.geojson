@@ -1,0 +1,67 @@
+{
+  "id": 1193264027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.9,10.4,-67.9,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":-67.9,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Cienfuegos",
+    "gn:country_code":"VE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645558,
+    "gn:latitude":10.4,
+    "gn:longitude":-67.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cienfuegos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645558
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"397a984e8d5c8b42b55ce29b49231951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "locality_id":1193264027,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1193264027,
+    "wof:lastmodified":1536377822,
+    "wof:name":"Cienfuegos",
+    "wof:parent_id":421198089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.9,
+    10.4,
+    -67.9,
+    10.4
+],
+  "geometry": {"coordinates":[-67.90000000000001,10.4],"type":"Point"}
+}

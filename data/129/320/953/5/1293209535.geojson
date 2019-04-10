@@ -1,0 +1,67 @@
+{
+  "id": 1293209535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.82069,4.97903,-67.82069,4.97903",
+    "geom:latitude":4.97903,
+    "geom:longitude":-67.82069,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"El Sarrapio",
+    "gn:country_code":"VE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756101,
+    "gn:latitude":4.97903,
+    "gn:longitude":-67.82069,
+    "gn:modification_date":"1996-12-05",
+    "gn:name":"El Sarrapio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756101
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d4ef5077788b3186bb2f362a6a8c8a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694105,
+            "locality_id":1293209535,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1293209535,
+    "wof:lastmodified":1536690821,
+    "wof:name":"El Sarrapio",
+    "wof:parent_id":1108694105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.82069,
+    4.97903,
+    -67.82069,
+    4.97903
+],
+  "geometry": {"coordinates":[-67.82069,4.97903],"type":"Point"}
+}

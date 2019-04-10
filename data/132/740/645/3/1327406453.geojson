@@ -1,0 +1,67 @@
+{
+  "id": 1327406453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.49718,10.4871,-66.49718,10.4871",
+    "geom:latitude":10.4871,
+    "geom:longitude":-66.49718,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"VE",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3803436,
+    "gn:latitude":10.4871,
+    "gn:longitude":-66.49718,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803436
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b25a034672621c2331e0ebfc30547c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202063,
+            "locality_id":1327406453,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1327406453,
+    "wof:lastmodified":1536718645,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":421202063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.49718,
+    10.4871,
+    -66.49718,
+    10.4871
+],
+  "geometry": {"coordinates":[-66.49718,10.4871],"type":"Point"}
+}

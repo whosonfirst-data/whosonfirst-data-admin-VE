@@ -1,0 +1,67 @@
+{
+  "id": 1260048863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14616,9.53122,-70.14616,9.53122",
+    "geom:latitude":9.53122,
+    "geom:longitude":-70.14616,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Potreritos de Cende",
+    "gn:country_code":"VE",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482124,
+    "gn:latitude":9.53122,
+    "gn:longitude":-70.14616,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Potreritos de Cende",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482124
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ae014cf72ad7ca56044161069f954ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694147,
+            "locality_id":1260048863,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1260048863,
+    "wof:lastmodified":1537036470,
+    "wof:name":"Potreritos de Cende",
+    "wof:parent_id":1108694147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14616,
+    9.53122,
+    -70.14616,
+    9.53122
+],
+  "geometry": {"coordinates":[-70.14615999999999,9.53122],"type":"Point"}
+}

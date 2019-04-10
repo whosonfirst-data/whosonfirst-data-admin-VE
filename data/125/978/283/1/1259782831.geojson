@@ -1,0 +1,67 @@
+{
+  "id": 1259782831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.83333,9.65,-66.83333,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":-66.83333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"San Francisco de Cara",
+    "gn:country_code":"VE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628356,
+    "gn:latitude":9.65,
+    "gn:longitude":-66.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Francisco de Cara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628356
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e3ef1f37533df484105a1d2b34ff5d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694361,
+            "locality_id":1259782831,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1259782831,
+    "wof:lastmodified":1536924822,
+    "wof:name":"San Francisco de Cara",
+    "wof:parent_id":1108694361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.83333,
+    9.65,
+    -66.83333,
+    9.65
+],
+  "geometry": {"coordinates":[-66.83333,9.65],"type":"Point"}
+}

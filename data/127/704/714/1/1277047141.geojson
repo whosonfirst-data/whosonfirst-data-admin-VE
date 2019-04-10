@@ -1,0 +1,67 @@
+{
+  "id": 1277047141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.8216,9.79155,-63.8216,9.79155",
+    "geom:latitude":9.79155,
+    "geom:longitude":-63.8216,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Caraquita",
+    "gn:country_code":"VE",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749833,
+    "gn:latitude":9.79155,
+    "gn:longitude":-63.8216,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Caraquita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749833
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a04b0fbe79f3ba87ad1dd5d8080f4ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1277047141,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1277047141,
+    "wof:lastmodified":1536816220,
+    "wof:name":"Caraquita",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.8216,
+    9.79155,
+    -63.8216,
+    9.79155
+],
+  "geometry": {"coordinates":[-63.8216,9.79155],"type":"Point"}
+}

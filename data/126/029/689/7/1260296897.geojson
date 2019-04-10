@@ -1,0 +1,67 @@
+{
+  "id": 1260296897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05264,9.21552,-65.05264,9.21552",
+    "geom:latitude":9.21552,
+    "geom:longitude":-65.05264,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Roblote",
+    "gn:country_code":"VE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484434,
+    "gn:latitude":9.21552,
+    "gn:longitude":-65.05264,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"El Roblote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484434
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"17a717e310c38f5bf675b926c94e1a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694283,
+            "locality_id":1260296897,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1260296897,
+    "wof:lastmodified":1536694113,
+    "wof:name":"El Roblote",
+    "wof:parent_id":1108694283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05264,
+    9.21552,
+    -65.05264,
+    9.21552
+],
+  "geometry": {"coordinates":[-65.05264,9.21552],"type":"Point"}
+}

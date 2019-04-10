@@ -1,0 +1,67 @@
+{
+  "id": 1310472989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.67905,10.61789,-69.67905,10.61789",
+    "geom:latitude":10.61789,
+    "geom:longitude":-69.67905,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Azaharitos",
+    "gn:country_code":"VE",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750191,
+    "gn:latitude":10.61789,
+    "gn:longitude":-69.67905,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Los Azaharitos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750191
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f73d3694757e1e958e9602efda892b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1310472989,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1310472989,
+    "wof:lastmodified":1536963708,
+    "wof:name":"Los Azaharitos",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.67905,
+    10.61789,
+    -69.67905,
+    10.61789
+],
+  "geometry": {"coordinates":[-69.67905,10.61789],"type":"Point"}
+}

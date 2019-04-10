@@ -1,0 +1,70 @@
+{
+  "id": 1343838283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08545,11.04981,-70.08545,11.04981",
+    "geom:latitude":11.04981,
+    "geom:longitude":-70.08545,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Jebe",
+    "gn:country_code":"VE",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642947,
+    "gn:latitude":11.04981,
+    "gn:longitude":-70.08545,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Jebe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642947
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a760fb64e8bc0abc444417be8f574214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1343838283,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343838283,
+    "wof:lastmodified":1537713601,
+    "wof:name":"El Jebe",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08545,
+    11.04981,
+    -70.08545,
+    11.04981
+],
+  "geometry": {"coordinates":[-70.08544999999999,11.04981],"type":"Point"}
+}

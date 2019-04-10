@@ -1,0 +1,67 @@
+{
+  "id": 1343958583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.52312,7.49915,-66.52312,7.49915",
+    "geom:latitude":7.49915,
+    "geom:longitude":-66.52312,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Boca de Arichuna",
+    "gn:country_code":"VE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648216,
+    "gn:latitude":7.49915,
+    "gn:longitude":-66.52312,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Boca de Arichuna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648216
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"107634cf738a371daefcc2bfb224d4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1343958583,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1343958583,
+    "wof:lastmodified":1537021755,
+    "wof:name":"Boca de Arichuna",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.52311999999999,
+    7.49915,
+    -66.52311999999999,
+    7.49915
+],
+  "geometry": {"coordinates":[-66.52311999999999,7.49915],"type":"Point"}
+}

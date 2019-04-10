@@ -1,0 +1,67 @@
+{
+  "id": 1343735503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41743,8.32695,-71.41743,8.32695",
+    "geom:latitude":8.32695,
+    "geom:longitude":-71.41743,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mucundo",
+    "gn:country_code":"VE",
+    "gn:dem":2578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631739,
+    "gn:latitude":8.32695,
+    "gn:longitude":-71.41743,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mucund\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631739
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"74642cef9210092c5fe4fb6e6a31454d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":1343735503,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1343735503,
+    "wof:lastmodified":1536845844,
+    "wof:name":"Mucundo",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41743000000002,
+    8.32695,
+    -71.41743000000002,
+    8.32695
+],
+  "geometry": {"coordinates":[-71.41743000000002,8.32695],"type":"Point"}
+}

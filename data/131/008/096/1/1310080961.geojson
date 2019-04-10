@@ -1,0 +1,70 @@
+{
+  "id": 1310080961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.01909,9.08719,-69.01909,9.08719",
+    "geom:latitude":9.08719,
+    "geom:longitude":-69.01909,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Micro Sur Tres",
+    "gn:country_code":"VE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798295,
+    "gn:latitude":9.08719,
+    "gn:longitude":-69.01909,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Micro Sur Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Micro Sur Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798295
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c1a037168a4f4ac47545ecdb89d15ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694417,
+            "locality_id":1310080961,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1310080961,
+    "wof:lastmodified":1537713645,
+    "wof:name":"Micro Sur Tres",
+    "wof:parent_id":1108694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.01909,
+    9.08719,
+    -69.01909,
+    9.08719
+],
+  "geometry": {"coordinates":[-69.01909000000001,9.08719],"type":"Point"}
+}

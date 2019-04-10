@@ -1,0 +1,61 @@
+{
+  "id": 1209492541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.74195,11.27147,-69.74195,11.27147",
+    "geom:latitude":11.27147,
+    "geom:longitude":-69.74195,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tierras Blancas",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784701,
+    "gn:latitude":11.27147,
+    "gn:longitude":-69.74195,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Tierras Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784701
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c6d0ec23ace077e468a1e92ffb946eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209492541
+        }
+    ],
+    "wof:id":1209492541,
+    "wof:lastmodified":1536285439,
+    "wof:name":"Tierras Blancas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.74195,
+    11.27147,
+    -69.74195,
+    11.27147
+],
+  "geometry": {"coordinates":[-69.74195,11.27147],"type":"Point"}
+}

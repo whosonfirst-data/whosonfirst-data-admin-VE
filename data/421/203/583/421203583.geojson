@@ -1,0 +1,75 @@
+{
+  "id": 421203583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.735784,8.15355,-71.735784,8.15355",
+    "geom:latitude":8.15355,
+    "geom:longitude":-71.735784,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Guaraque",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":133,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":159,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":233700,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805233,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421196155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805233,
+        "qs:id":233700
+    },
+    "wof:country":"VE",
+    "wof:created":1459010157,
+    "wof:geomhash":"5f7a478ec4594685d226cf34d2215bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196155,
+            "localadmin_id":421203583,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421203583,
+    "wof:lastmodified":1500034072,
+    "wof:name":"Capital Guaraque",
+    "wof:parent_id":421196155,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.735784,
+    8.15355,
+    -71.735784,
+    8.15355
+],
+  "geometry": {"coordinates":[-71.735784,8.15355],"type":"Point"}
+}

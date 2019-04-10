@@ -1,0 +1,67 @@
+{
+  "id": 1276841137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.82,9.99778,-70.82,9.99778",
+    "geom:latitude":9.99778,
+    "geom:longitude":-70.82,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mataley",
+    "gn:country_code":"VE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632648,
+    "gn:latitude":9.99778,
+    "gn:longitude":-70.82,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Mataley",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632648
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2e86e0099303636f20f389ec7d4fc6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1276841137,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1276841137,
+    "wof:lastmodified":1537089873,
+    "wof:name":"Mataley",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.82,
+    9.99778,
+    -70.82,
+    9.99778
+],
+  "geometry": {"coordinates":[-70.81999999999999,9.99778],"type":"Point"}
+}

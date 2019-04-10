@@ -1,0 +1,75 @@
+{
+  "id": 421193369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.833267,10.46065,-66.833267,10.46065",
+    "geom:latitude":10.46065,
+    "geom:longitude":-66.833267,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Cafetal",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Miranda",
+    "qs:photos":421,
+    "qs:photos_1k":85,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":421,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":891807,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26808453,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421171377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808453,
+        "qs:id":891807
+    },
+    "wof:country":"VE",
+    "wof:created":1459009768,
+    "wof:geomhash":"914121e1b2b77260d23869662470dea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171377,
+            "locality_id":421193369,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421193369,
+    "wof:lastmodified":1500034403,
+    "wof:name":"El Cafetal",
+    "wof:parent_id":421171377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.833267,
+    10.46065,
+    -66.833267,
+    10.46065
+],
+  "geometry": {"coordinates":[-66.83326700000001,10.46065],"type":"Point"}
+}

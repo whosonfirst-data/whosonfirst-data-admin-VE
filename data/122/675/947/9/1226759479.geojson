@@ -1,0 +1,67 @@
+{
+  "id": 1226759479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.5313,9.73583,-64.5313,9.73583",
+    "geom:latitude":9.73583,
+    "geom:longitude":-64.5313,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Pena",
+    "gn:country_code":"VE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484729,
+    "gn:latitude":9.73583,
+    "gn:longitude":-64.5313,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"La Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484729
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"40753cacfa67dc0b87bbf159aff375d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1226759479,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226759479,
+    "wof:lastmodified":1536695941,
+    "wof:name":"La Pena",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.5313,
+    9.73583,
+    -64.5313,
+    9.73583
+],
+  "geometry": {"coordinates":[-64.5313,9.73583],"type":"Point"}
+}

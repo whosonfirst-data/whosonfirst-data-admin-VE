@@ -1,0 +1,68 @@
+{
+  "id": 1259954475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.6025,10.45361,-63.6025,10.45361",
+    "geom:latitude":10.45361,
+    "geom:longitude":-63.6025,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1913.0",
+    "gn:asciiname":"Caratal",
+    "gn:country_code":"VE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749339,
+    "gn:latitude":10.45361,
+    "gn:longitude":-63.6025,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Caratal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749339
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e4d42bfdfa80ba373de5b79be6fbaf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1259954475,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1259954475,
+    "wof:lastmodified":1536676977,
+    "wof:name":"Caratal",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.6025,
+    10.45361,
+    -63.6025,
+    10.45361
+],
+  "geometry": {"coordinates":[-63.6025,10.45361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343245753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03379,10.23929,-70.03379,10.23929",
+    "geom:latitude":10.23929,
+    "geom:longitude":-70.03379,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Aregue",
+    "gn:country_code":"VE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648989,
+    "gn:latitude":10.23929,
+    "gn:longitude":-70.03379,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Aregue",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648989
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4f79bc718734bb859f2fcc21115c9b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1343245753,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1343245753,
+    "wof:lastmodified":1537053893,
+    "wof:name":"Aregue",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03379,
+    10.23929,
+    -70.03379,
+    10.23929
+],
+  "geometry": {"coordinates":[-70.03379,10.23929],"type":"Point"}
+}

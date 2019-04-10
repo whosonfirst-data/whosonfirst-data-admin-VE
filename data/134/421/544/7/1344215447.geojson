@@ -1,0 +1,67 @@
+{
+  "id": 1344215447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.99395,10.42649,-68.99395,10.42649",
+    "geom:latitude":10.42649,
+    "geom:longitude":-68.99395,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Cayures",
+    "gn:country_code":"VE",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794253,
+    "gn:latitude":10.42649,
+    "gn:longitude":-68.99395,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Cayures",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794253
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f56033f22e03dda9bb3fbbba9fe3a11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694125,
+            "locality_id":1344215447,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1344215447,
+    "wof:lastmodified":1536651951,
+    "wof:name":"Cayures",
+    "wof:parent_id":1108694125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.99395,
+    10.42649,
+    -68.99395,
+    10.42649
+],
+  "geometry": {"coordinates":[-68.99395,10.42649],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209898493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.28417,10.1225,-66.28417,10.1225",
+    "geom:latitude":10.1225,
+    "geom:longitude":-66.28417,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Casupo Grande",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742646,
+    "gn:latitude":10.1225,
+    "gn:longitude":-66.28417,
+    "gn:modification_date":"1995-08-23",
+    "gn:name":"Casupo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421166897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742646
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"232a9bb959b492e4ad3df183c8694613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166897,
+            "locality_id":1209898493,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1209898493,
+    "wof:lastmodified":1536387522,
+    "wof:name":"Casupo Grande",
+    "wof:parent_id":421166897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.28416999999999,
+    10.1225,
+    -66.28416999999999,
+    10.1225
+],
+  "geometry": {"coordinates":[-66.28416999999999,10.1225],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260366519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.94984,9.93434,-65.94984,9.93434",
+    "geom:latitude":9.93434,
+    "geom:longitude":-65.94984,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rio Negro",
+    "gn:country_code":"VE",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3774017,
+    "gn:latitude":9.93434,
+    "gn:longitude":-65.94984,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"R\u00edo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3774017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"13d48bfdeef36288b3ca4370414bd47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694397,
+            "locality_id":1260366519,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1260366519,
+    "wof:lastmodified":1537094433,
+    "wof:name":"Rio Negro",
+    "wof:parent_id":1108694397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.94984000000001,
+    9.93434,
+    -65.94984000000001,
+    9.93434
+],
+  "geometry": {"coordinates":[-65.94984000000001,9.93434],"type":"Point"}
+}

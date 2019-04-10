@@ -1,0 +1,67 @@
+{
+  "id": 1327316897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.66074,8.39767,-71.66074,8.39767",
+    "geom:latitude":8.39767,
+    "geom:longitude":-71.66074,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cuesta de Pernia",
+    "gn:country_code":"VE",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3799065,
+    "gn:latitude":8.39767,
+    "gn:longitude":-71.66074,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Cuesta de Pernia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799065
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"20d18dfea93753451b6b9224182cc733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1327316897,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1327316897,
+    "wof:lastmodified":1536846574,
+    "wof:name":"Cuesta de Pernia",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.66074,
+    8.39767,
+    -71.66074,
+    8.39767
+],
+  "geometry": {"coordinates":[-71.66074,8.39767],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209601765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.51667,9.95,-67.51667,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-67.51667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Casupo",
+    "gn:country_code":"VE",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646232,
+    "gn:latitude":9.95,
+    "gn:longitude":-67.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Casupo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646232
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e4b96c89758da4bb85a3018d11408ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209601765
+        }
+    ],
+    "wof:id":1209601765,
+    "wof:lastmodified":1536282144,
+    "wof:name":"Casupo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.51666999999999,
+    9.95,
+    -67.51666999999999,
+    9.95
+],
+  "geometry": {"coordinates":[-67.51666999999999,9.95],"type":"Point"}
+}

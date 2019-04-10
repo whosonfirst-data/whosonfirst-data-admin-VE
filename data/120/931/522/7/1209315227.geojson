@@ -1,0 +1,61 @@
+{
+  "id": 1209315227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76215,7.20152,-70.76215,7.20152",
+    "geom:latitude":7.20152,
+    "geom:longitude":-70.76215,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Vara de Maria",
+    "gn:country_code":"VE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3739012,
+    "gn:latitude":7.20152,
+    "gn:longitude":-70.76215,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Vara de Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739012
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d96999a6deb6beefd73689e07c987fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209315227
+        }
+    ],
+    "wof:id":1209315227,
+    "wof:lastmodified":1536290889,
+    "wof:name":"Vara de Maria",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76215,
+    7.20152,
+    -70.76215,
+    7.20152
+],
+  "geometry": {"coordinates":[-70.76215000000001,7.20152],"type":"Point"}
+}

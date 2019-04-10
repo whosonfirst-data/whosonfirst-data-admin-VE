@@ -1,0 +1,67 @@
+{
+  "id": 1192997279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.49028,10.61333,-69.49028,10.61333",
+    "geom:latitude":10.61333,
+    "geom:longitude":-69.49028,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Picachos",
+    "gn:country_code":"VE",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633775,
+    "gn:latitude":10.61333,
+    "gn:longitude":-69.49028,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Los Picachos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633775
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dd12c55d19228680f210a387e277aa95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1192997279,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1192997279,
+    "wof:lastmodified":1536374484,
+    "wof:name":"Los Picachos",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.49028,
+    10.61333,
+    -69.49028,
+    10.61333
+],
+  "geometry": {"coordinates":[-69.49028,10.61333],"type":"Point"}
+}

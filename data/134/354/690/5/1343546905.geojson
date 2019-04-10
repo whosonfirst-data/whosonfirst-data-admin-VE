@@ -1,0 +1,67 @@
+{
+  "id": 1343546905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.59397,9.98654,-67.59397,9.98654",
+    "geom:latitude":9.98654,
+    "geom:longitude":-67.59397,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Gamelotal",
+    "gn:country_code":"VE",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640691,
+    "gn:latitude":9.98654,
+    "gn:longitude":-67.59397,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gamelotal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640691
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fe3e636b566cce33dd1ec1c4b93fef69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1343546905,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1343546905,
+    "wof:lastmodified":1536619371,
+    "wof:name":"Gamelotal",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.59397,
+    9.98654,
+    -67.59397,
+    9.98654
+],
+  "geometry": {"coordinates":[-67.59397,9.98654],"type":"Point"}
+}

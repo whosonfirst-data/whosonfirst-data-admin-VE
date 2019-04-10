@@ -1,0 +1,67 @@
+{
+  "id": 1259481377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25,8.3,-69.25,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-69.25,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Canadas",
+    "gn:country_code":"VE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636197,
+    "gn:latitude":8.3,
+    "gn:longitude":-69.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Ca\u00f1adas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636197
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9bdf60034638d1cf2530a63729b0ea9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1259481377,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1259481377,
+    "wof:lastmodified":1536860461,
+    "wof:name":"Las Canadas",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25,
+    8.3,
+    -69.25,
+    8.3
+],
+  "geometry": {"coordinates":[-69.25,8.3],"type":"Point"}
+}

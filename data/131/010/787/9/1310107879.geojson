@@ -1,0 +1,67 @@
+{
+  "id": 1310107879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.43333,8.88333,-63.43333,8.88333",
+    "geom:latitude":8.88333,
+    "geom:longitude":-63.43333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bajo Hondo",
+    "gn:country_code":"VE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648659,
+    "gn:latitude":8.88333,
+    "gn:longitude":-63.43333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bajo Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648659
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"eb3297255aad3580759e81b484f71ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1310107879,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310107879,
+    "wof:lastmodified":1536992214,
+    "wof:name":"Bajo Hondo",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.43333000000001,
+    8.88333,
+    -63.43333000000001,
+    8.88333
+],
+  "geometry": {"coordinates":[-63.43333000000001,8.88333],"type":"Point"}
+}

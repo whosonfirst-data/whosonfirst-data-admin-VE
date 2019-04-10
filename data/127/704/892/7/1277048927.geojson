@@ -1,0 +1,97 @@
+{
+  "id": 1277048927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.59678,8.4748,-71.59678,8.4748",
+    "geom:latitude":8.4748,
+    "geom:longitude":-71.59678,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mesa Bolivar",
+    "gn:country_code":"VE",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632300,
+    "gn:latitude":8.4748,
+    "gn:longitude":-71.59678,
+    "gn:modification_date":"2012-10-18",
+    "gn:name":"Mesa Bol\u00edvar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_colloquial":[
+        "Mesa Bolivar"
+    ],
+    "name:eng_x_preferred":[
+        "La Mesa Bol\u00edvar"
+    ],
+    "name:eng_x_variant":[
+        "Mesa Bol\u00edvar",
+        "Mesa Bolivar"
+    ],
+    "name:por_x_colloquial":[
+        "Mesa Bolivar"
+    ],
+    "name:por_x_preferred":[
+        "La Mesa Bol\u00edvar"
+    ],
+    "name:por_x_variant":[
+        "Mesa Bol\u00edvar",
+        "Mesa Bolivar"
+    ],
+    "name:spa_x_colloquial":[
+        "Mesa Bolivar"
+    ],
+    "name:spa_x_preferred":[
+        "La Mesa Bol\u00edvar"
+    ],
+    "name:spa_x_variant":[
+        "Mesa Bol\u00edvar",
+        "Mesa Bolivar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421171997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632300
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"feac4b309930fc912906d319551ec651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171997,
+            "locality_id":1277048927,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1277048927,
+    "wof:lastmodified":1537713539,
+    "wof:name":"Mesa Bolivar",
+    "wof:parent_id":421171997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.59678000000002,
+    8.4748,
+    -71.59678000000002,
+    8.4748
+],
+  "geometry": {"coordinates":[-71.59678000000002,8.4748],"type":"Point"}
+}

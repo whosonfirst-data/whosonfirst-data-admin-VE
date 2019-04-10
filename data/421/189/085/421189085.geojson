@@ -1,0 +1,73 @@
+{
+  "id": 421189085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-64.7488685,10.069831,-64.7488685,10.069831",
+    "geom:latitude":10.069831,
+    "geom:longitude":-64.748869,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Simon Bolivar",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":262,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1110096,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804650,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804650,
+        "qs:id":1110096
+    },
+    "wof:country":"VE",
+    "wof:created":1459009604,
+    "wof:geomhash":"94332fd7f94a84a9923b85024a6db56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189085,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":421189085,
+    "wof:lastmodified":1474491982,
+    "wof:name":"Simon Bolivar",
+    "wof:parent_id":85680521,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7488685,
+    10.069831,
+    -64.7488685,
+    10.069831
+],
+  "geometry": {"coordinates":[-64.7488685,10.069831],"type":"Point"}
+}

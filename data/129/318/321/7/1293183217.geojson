@@ -1,0 +1,67 @@
+{
+  "id": 1293183217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.36389,10.48667,-66.36389,10.48667",
+    "geom:latitude":10.48667,
+    "geom:longitude":-66.36389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Juan Torres",
+    "gn:country_code":"VE",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803807,
+    "gn:latitude":10.48667,
+    "gn:longitude":-66.36389,
+    "gn:modification_date":"2002-11-20",
+    "gn:name":"Juan Torres",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803807
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ed8629e42d0ca199bf4ac0c1d979cccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202063,
+            "locality_id":1293183217,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1293183217,
+    "wof:lastmodified":1536729199,
+    "wof:name":"Juan Torres",
+    "wof:parent_id":421202063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.36389,
+    10.48667,
+    -66.36389,
+    10.48667
+],
+  "geometry": {"coordinates":[-66.36389,10.48667],"type":"Point"}
+}

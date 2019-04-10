@@ -1,0 +1,76 @@
+{
+  "id": 1243236953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.8551,8.7757,-70.8551,8.7757",
+    "geom:latitude":8.7757,
+    "geom:longitude":-70.8551,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"La Mucuchache",
+    "gn:country_code":"VE",
+    "gn:dem":3383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797292,
+    "gn:latitude":8.7757,
+    "gn:longitude":-70.8551,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"La Mucuchache",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Mucuchache"
+    ],
+    "name:por_x_preferred":[
+        "La Mucuchache"
+    ],
+    "name:spa_x_preferred":[
+        "La Mucuchache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797292
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"460684a178e5827ff2e873ca5388af95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":1243236953,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1243236953,
+    "wof:lastmodified":1537560473,
+    "wof:name":"La Mucuchache",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.8551,
+    8.7757,
+    -70.8551,
+    8.7757
+],
+  "geometry": {"coordinates":[-70.85509999999999,8.7757],"type":"Point"}
+}

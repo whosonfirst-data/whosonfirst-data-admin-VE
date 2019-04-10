@@ -1,0 +1,67 @@
+{
+  "id": 1276510713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.20001,9.66666,-63.20001,9.66666",
+    "geom:latitude":9.66666,
+    "geom:longitude":-63.20001,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Dorado",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755686,
+    "gn:latitude":9.66666,
+    "gn:longitude":-63.20001,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Dorado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755686
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e52f84e45f59e209c5f13bccab747440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1276510713,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276510713,
+    "wof:lastmodified":1537036945,
+    "wof:name":"El Dorado",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.20001,
+    9.66666,
+    -63.20001,
+    9.66666
+],
+  "geometry": {"coordinates":[-63.20001,9.66666],"type":"Point"}
+}

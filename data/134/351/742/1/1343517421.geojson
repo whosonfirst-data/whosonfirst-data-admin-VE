@@ -1,0 +1,74 @@
+{
+  "id": 1343517421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9925,11.43556,-71.9925,11.43556",
+    "geom:latitude":11.43556,
+    "geom:longitude":-71.9925,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Guayamurise",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639808,
+    "gn:latitude":11.43556,
+    "gn:longitude":-71.9925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guayamurise",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayamri",
+        "Guayamuriz",
+        "Guayamurice",
+        "Guayamurise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639808
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8580a48c3debf0e3f49edcff6bb03c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":1343517421,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343517421,
+    "wof:lastmodified":1537713584,
+    "wof:name":"Guayamurise",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9925,
+    11.43556,
+    -71.9925,
+    11.43556
+],
+  "geometry": {"coordinates":[-71.99250000000001,11.43556],"type":"Point"}
+}

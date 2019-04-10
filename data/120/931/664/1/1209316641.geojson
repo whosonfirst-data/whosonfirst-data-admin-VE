@@ -1,0 +1,61 @@
+{
+  "id": 1209316641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7,9.16667,-64.7,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":-64.7,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Los Rios",
+    "gn:country_code":"VE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633665,
+    "gn:latitude":9.16667,
+    "gn:longitude":-64.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633665
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f3ffc47678e2102aa5698453f21f2fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209316641
+        }
+    ],
+    "wof:id":1209316641,
+    "wof:lastmodified":1536290841,
+    "wof:name":"Los Rios",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7,
+    9.16667,
+    -64.7,
+    9.16667
+],
+  "geometry": {"coordinates":[-64.7,9.16667],"type":"Point"}
+}

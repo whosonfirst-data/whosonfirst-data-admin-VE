@@ -1,0 +1,75 @@
+{
+  "id": 1225852627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1935,9.59714,-65.1935,9.59714",
+    "geom:latitude":9.59714,
+    "geom:longitude":-65.1935,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"309.0",
+    "gn:asciiname":"Onoto",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3631333,
+    "gn:latitude":9.59714,
+    "gn:longitude":-65.1935,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Onoto",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Onoto"
+    ],
+    "name:und_x_variant":[
+        "Oneto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631333,
+        "wk:page":"Onoto"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d1b511442d8b877416ef946aee064ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1225852627,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1225852627,
+    "wof:lastmodified":1537713535,
+    "wof:name":"Onoto",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1935,
+    9.59714,
+    -65.1935,
+    9.59714
+],
+  "geometry": {"coordinates":[-65.1935,9.59714],"type":"Point"}
+}

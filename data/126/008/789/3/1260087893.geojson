@@ -1,0 +1,67 @@
+{
+  "id": 1260087893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.73657,9.41929,-64.73657,9.41929",
+    "geom:latitude":9.41929,
+    "geom:longitude":-64.73657,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bajo Lindo",
+    "gn:country_code":"VE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648657,
+    "gn:latitude":9.41929,
+    "gn:longitude":-64.73657,
+    "gn:modification_date":"1996-06-26",
+    "gn:name":"Bajo Lindo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421166905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648657
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"831f4111c51e1df962cdf566d2440868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166905,
+            "locality_id":1260087893,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1260087893,
+    "wof:lastmodified":1536980920,
+    "wof:name":"Bajo Lindo",
+    "wof:parent_id":421166905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.73657,
+    9.41929,
+    -64.73657,
+    9.41929
+],
+  "geometry": {"coordinates":[-64.73657,9.41929],"type":"Point"}
+}

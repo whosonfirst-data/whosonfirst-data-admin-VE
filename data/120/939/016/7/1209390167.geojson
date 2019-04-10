@@ -1,0 +1,64 @@
+{
+  "id": 1209390167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.96944,9.44333,-69.96944,9.44333",
+    "geom:latitude":9.44333,
+    "geom:longitude":-69.96944,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Quebrada Negra",
+    "gn:country_code":"VE",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798493,
+    "gn:latitude":9.44333,
+    "gn:longitude":-69.96944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Quebrada Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Negra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798493
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"18b8f24ffab15bd4e502c82b5565fdac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209390167
+        }
+    ],
+    "wof:id":1209390167,
+    "wof:lastmodified":1537713647,
+    "wof:name":"Quebrada Negra",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.96944,
+    9.44333,
+    -69.96944,
+    9.44333
+],
+  "geometry": {"coordinates":[-69.96944000000001,9.44333],"type":"Point"}
+}

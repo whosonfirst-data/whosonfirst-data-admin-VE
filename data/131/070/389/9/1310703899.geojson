@@ -1,0 +1,67 @@
+{
+  "id": 1310703899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.69423,9.90798,-64.69423,9.90798",
+    "geom:latitude":9.90798,
+    "geom:longitude":-64.69423,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Zanjones",
+    "gn:country_code":"VE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484032,
+    "gn:latitude":9.90798,
+    "gn:longitude":-64.69423,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Los Zanjones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484032
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6adbf78bebf9047625deb1ce0da2946b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1310703899,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1310703899,
+    "wof:lastmodified":1536628941,
+    "wof:name":"Los Zanjones",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.69423,
+    9.90798,
+    -64.69423,
+    9.90798
+],
+  "geometry": {"coordinates":[-64.69423,9.90798],"type":"Point"}
+}

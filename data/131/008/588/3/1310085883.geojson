@@ -1,0 +1,71 @@
+{
+  "id": 1310085883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08825,11.04566,-70.08825,11.04566",
+    "geom:latitude":11.04566,
+    "geom:longitude":-70.08825,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Antonio del Jebe",
+    "gn:country_code":"VE",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740910,
+    "gn:latitude":11.04566,
+    "gn:longitude":-70.08825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"San Antonio del Jebe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio de Jebe",
+        "San Antonio del Jebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740910
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e242fc9214408ca1888c23d02753d09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1310085883,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1310085883,
+    "wof:lastmodified":1537713636,
+    "wof:name":"San Antonio del Jebe",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08825,
+    11.04566,
+    -70.08825,
+    11.04566
+],
+  "geometry": {"coordinates":[-70.08825,11.04566],"type":"Point"}
+}

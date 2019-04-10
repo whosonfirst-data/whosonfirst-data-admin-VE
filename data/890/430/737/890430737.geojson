@@ -1,0 +1,96 @@
+{
+  "id": 890430737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.895,10.16028,-68.895,10.16028",
+    "geom:latitude":10.16028,
+    "geom:longitude":-68.895,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":45904,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5947\u74e6\u79d1\u963f"
+    ],
+    "name:dut_x_preferred":[
+        "Chivacoa"
+    ],
+    "name:eng_x_preferred":[
+        "Chivacoa"
+    ],
+    "name:fre_x_preferred":[
+        "Chivacoa"
+    ],
+    "name:ita_x_preferred":[
+        "Chivacoa"
+    ],
+    "name:pol_x_preferred":[
+        "Chivacoa"
+    ],
+    "name:por_x_preferred":[
+        "Chivacoa"
+    ],
+    "name:spa_x_preferred":[
+        "Chivacoa"
+    ],
+    "qs:name":"Chivacoa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":296.0,
+    "wd:latitude":"10.16",
+    "wd:longitude":"-68.909722222",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645671,
+        "gp:id":468409,
+        "qs:id":149640,
+        "wd:id":"Q3499515",
+        "wk:page":"Chivacoa"
+    },
+    "wof:country":"VE",
+    "wof:created":1469051864,
+    "wof:geomhash":"127fccdea96e6c420287d567c64aa996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694129,
+            "locality_id":890430737,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":890430737,
+    "wof:lastmodified":1527729734,
+    "wof:name":"Chivacoa",
+    "wof:parent_id":1108694129,
+    "wof:placetype":"locality",
+    "wof:population":45904,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.895,
+    10.16028,
+    -68.895,
+    10.16028
+],
+  "geometry": {"coordinates":[-68.895,10.16028],"type":"Point"}
+}

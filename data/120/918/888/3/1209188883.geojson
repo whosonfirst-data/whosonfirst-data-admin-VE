@@ -1,0 +1,61 @@
+{
+  "id": 1209188883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.19992,10.41703,-64.19992,10.41703",
+    "geom:latitude":10.41703,
+    "geom:longitude":-64.19992,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"La Llanada",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796115,
+    "gn:latitude":10.41703,
+    "gn:longitude":-64.19992,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Llanada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796115
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5261830854c377642e33d6a6421dfa80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209188883
+        }
+    ],
+    "wof:id":1209188883,
+    "wof:lastmodified":1536295004,
+    "wof:name":"La Llanada",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.19991999999999,
+    10.41703,
+    -64.19991999999999,
+    10.41703
+],
+  "geometry": {"coordinates":[-64.19991999999999,10.41703],"type":"Point"}
+}

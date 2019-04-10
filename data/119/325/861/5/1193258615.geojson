@@ -1,0 +1,67 @@
+{
+  "id": 1193258615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26597,11.32378,-69.26597,11.32378",
+    "geom:latitude":11.32378,
+    "geom:longitude":-69.26597,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Marital",
+    "gn:country_code":"VE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3786433,
+    "gn:latitude":11.32378,
+    "gn:longitude":-69.26597,
+    "gn:modification_date":"2002-05-06",
+    "gn:name":"Marital",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786433
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"354974a124e88b3fdf06f06b355d2903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1193258615,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1193258615,
+    "wof:lastmodified":1536383311,
+    "wof:name":"Marital",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26597,
+    11.32378,
+    -69.26597,
+    11.32378
+],
+  "geometry": {"coordinates":[-69.26597,11.32378],"type":"Point"}
+}

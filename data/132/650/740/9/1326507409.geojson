@@ -1,0 +1,67 @@
+{
+  "id": 1326507409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.2225,10.80056,-69.2225,10.80056",
+    "geom:latitude":10.80056,
+    "geom:longitude":-69.2225,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Bonito",
+    "gn:country_code":"VE",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755390,
+    "gn:latitude":10.80056,
+    "gn:longitude":-69.2225,
+    "gn:modification_date":"1996-10-09",
+    "gn:name":"El Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755390
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"33497c26689d3044beeebbc9ce1d29e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694463,
+            "locality_id":1326507409,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1326507409,
+    "wof:lastmodified":1537019038,
+    "wof:name":"El Bonito",
+    "wof:parent_id":1108694463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.2225,
+    10.80056,
+    -69.2225,
+    10.80056
+],
+  "geometry": {"coordinates":[-69.2225,10.80056],"type":"Point"}
+}

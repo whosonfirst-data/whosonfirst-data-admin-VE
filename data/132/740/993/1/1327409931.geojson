@@ -1,0 +1,70 @@
+{
+  "id": 1327409931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.12322,10.94468,-64.12322,10.94468",
+    "geom:latitude":10.94468,
+    "geom:longitude":-64.12322,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Boca de Palo",
+    "gn:country_code":"VE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8310152,
+    "gn:latitude":10.94468,
+    "gn:longitude":-64.12322,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Boca de Palo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de Palo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        890441467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310152
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0c898a70402a0a5e30c68c5e3b48fba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890441467,
+            "locality_id":1327409931,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1327409931,
+    "wof:lastmodified":1537713652,
+    "wof:name":"Boca de Palo",
+    "wof:parent_id":890441467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.12321999999999,
+    10.94468,
+    -64.12321999999999,
+    10.94468
+],
+  "geometry": {"coordinates":[-64.12321999999999,10.94468],"type":"Point"}
+}

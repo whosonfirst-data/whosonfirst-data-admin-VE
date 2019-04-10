@@ -1,0 +1,75 @@
+{
+  "id": 421181911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.309211,9.911108,-68.309211,9.911108",
+    "geom:latitude":9.911108,
+    "geom:longitude":-68.309211,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tinaquillo",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Cojedes",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":510676,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805516,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805516,
+        "qs:id":510676
+    },
+    "wof:country":"VE",
+    "wof:created":1459009312,
+    "wof:geomhash":"84c910652335feecd017ef8d73b32684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694185,
+            "localadmin_id":421181911,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":421181911,
+    "wof:lastmodified":1500034166,
+    "wof:name":"Tinaquillo",
+    "wof:parent_id":1108694185,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.309211,
+    9.911108,
+    -68.309211,
+    9.911108
+],
+  "geometry": {"coordinates":[-68.309211,9.911108],"type":"Point"}
+}

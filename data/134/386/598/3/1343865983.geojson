@@ -1,0 +1,72 @@
+{
+  "id": 1343865983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.62868,8.78881,-64.62868,8.78881",
+    "geom:latitude":8.78881,
+    "geom:longitude":-64.62868,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Pao",
+    "gn:country_code":"VE",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642261,
+    "gn:latitude":8.78881,
+    "gn:longitude":-64.62868,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pao",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pao de Barcelona",
+        "El Pao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642261,
+        "wk:page":"El_Pao"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f47f9b2db481b219e648612f0961a62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1343865983,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343865983,
+    "wof:lastmodified":1537713596,
+    "wof:name":"El Pao",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.62868,
+    8.78881,
+    -64.62868,
+    8.78881
+],
+  "geometry": {"coordinates":[-64.62868,8.78881],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343923557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.98834,9.37735,-68.98834,9.37735",
+    "geom:latitude":9.37735,
+    "geom:longitude":-68.98834,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Cano Seco Arriba",
+    "gn:country_code":"VE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646896,
+    "gn:latitude":9.37735,
+    "gn:longitude":-68.98834,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Ca\u00f1o Seco Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646896
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1c899681ca6dc6df440f66f9368d3c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694461,
+            "locality_id":1343923557,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1343923557,
+    "wof:lastmodified":1537070290,
+    "wof:name":"Cano Seco Arriba",
+    "wof:parent_id":1108694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.98834000000001,
+    9.37735,
+    -68.98834000000001,
+    9.37735
+],
+  "geometry": {"coordinates":[-68.98834000000001,9.37735],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309804595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.51444,7.87138,-67.51444,7.87138",
+    "geom:latitude":7.87138,
+    "geom:longitude":-67.51444,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Boca de Guerra",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648202,
+    "gn:latitude":7.87138,
+    "gn:longitude":-67.51444,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Boca de Guerra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648202
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f79b0ad8f1297e7f21a6bc352cd47265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694117,
+            "locality_id":1309804595,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1309804595,
+    "wof:lastmodified":1536933542,
+    "wof:name":"Boca de Guerra",
+    "wof:parent_id":1108694117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.51444000000001,
+    7.87138,
+    -67.51444000000001,
+    7.87138
+],
+  "geometry": {"coordinates":[-67.51444000000001,7.87138],"type":"Point"}
+}

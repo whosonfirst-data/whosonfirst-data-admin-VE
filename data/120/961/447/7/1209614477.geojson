@@ -1,0 +1,61 @@
+{
+  "id": 1209614477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46437,10.25373,-67.46437,10.25373",
+    "geom:latitude":10.25373,
+    "geom:longitude":-67.46437,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Paya",
+    "gn:country_code":"VE",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806654,
+    "gn:latitude":10.25373,
+    "gn:longitude":-67.46437,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"Paya",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806654
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"39d375563d333722519e5eca890b971f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209614477
+        }
+    ],
+    "wof:id":1209614477,
+    "wof:lastmodified":1536281736,
+    "wof:name":"Paya",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46437,
+    10.25373,
+    -67.46437,
+    10.25373
+],
+  "geometry": {"coordinates":[-67.46437,10.25373],"type":"Point"}
+}

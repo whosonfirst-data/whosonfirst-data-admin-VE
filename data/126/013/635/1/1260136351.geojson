@@ -1,0 +1,67 @@
+{
+  "id": 1260136351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.89954,10.21156,-68.89954,10.21156",
+    "geom:latitude":10.21156,
+    "geom:longitude":-68.89954,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Teteiba",
+    "gn:country_code":"VE",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794668,
+    "gn:latitude":10.21156,
+    "gn:longitude":-68.89954,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Teteiba",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794668
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9c471a9f6c64f54af7881a34ca7bd614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694129,
+            "locality_id":1260136351,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1260136351,
+    "wof:lastmodified":1536912992,
+    "wof:name":"Teteiba",
+    "wof:parent_id":1108694129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.89954,
+    10.21156,
+    -68.89954,
+    10.21156
+],
+  "geometry": {"coordinates":[-68.89954,10.21156],"type":"Point"}
+}

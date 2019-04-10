@@ -1,0 +1,67 @@
+{
+  "id": 1326917609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.47222,10.86472,-69.47222,10.86472",
+    "geom:latitude":10.86472,
+    "geom:longitude":-69.47222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Ralones",
+    "gn:country_code":"VE",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755325,
+    "gn:latitude":10.86472,
+    "gn:longitude":-69.47222,
+    "gn:modification_date":"1996-10-09",
+    "gn:name":"Los Ralones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755325
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"25f2dc1ad0ede6f033640efa773611ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1326917609,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1326917609,
+    "wof:lastmodified":1536926591,
+    "wof:name":"Los Ralones",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.47222,
+    10.86472,
+    -69.47222,
+    10.86472
+],
+  "geometry": {"coordinates":[-69.47221999999999,10.86472],"type":"Point"}
+}

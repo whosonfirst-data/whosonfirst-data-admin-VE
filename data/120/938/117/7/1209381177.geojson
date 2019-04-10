@@ -1,0 +1,61 @@
+{
+  "id": 1209381177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.92493,10.94571,-63.92493,10.94571",
+    "geom:latitude":10.94571,
+    "geom:longitude":-63.92493,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Cruz del Pastel",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480902,
+    "gn:latitude":10.94571,
+    "gn:longitude":-63.92493,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"La Cruz del Pastel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480902
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"92367b8fdb074669cca74453e0801b35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209381177
+        }
+    ],
+    "wof:id":1209381177,
+    "wof:lastmodified":1536288778,
+    "wof:name":"La Cruz del Pastel",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.92493,
+    10.94571,
+    -63.92493,
+    10.94571
+],
+  "geometry": {"coordinates":[-63.92493,10.94571],"type":"Point"}
+}

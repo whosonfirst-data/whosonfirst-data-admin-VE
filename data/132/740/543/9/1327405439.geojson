@@ -1,0 +1,67 @@
+{
+  "id": 1327405439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.34444,9.04972,-62.34444,9.04972",
+    "geom:latitude":9.04972,
+    "geom:longitude":-62.34444,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Pilones",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633763,
+    "gn:latitude":9.04972,
+    "gn:longitude":-62.34444,
+    "gn:modification_date":"1998-06-26",
+    "gn:name":"Los Pilones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633763
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"91ee17d8599ea31e31fa6d483d0298cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694467,
+            "locality_id":1327405439,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1327405439,
+    "wof:lastmodified":1536720128,
+    "wof:name":"Los Pilones",
+    "wof:parent_id":1108694467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.34444000000001,
+    9.04972,
+    -62.34444000000001,
+    9.04972
+],
+  "geometry": {"coordinates":[-62.34444000000001,9.04972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343234689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.72413,10.30019,-66.72413,10.30019",
+    "geom:latitude":10.30019,
+    "geom:longitude":-66.72413,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"VE",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643876,
+    "gn:latitude":10.30019,
+    "gn:longitude":-66.72413,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643876
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5843a0da35b11c6b03c9dec9109e4e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694341,
+            "locality_id":1343234689,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1343234689,
+    "wof:lastmodified":1537069247,
+    "wof:name":"El Carmen",
+    "wof:parent_id":1108694341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.72413,
+    10.30019,
+    -66.72413,
+    10.30019
+],
+  "geometry": {"coordinates":[-66.72413,10.30019],"type":"Point"}
+}

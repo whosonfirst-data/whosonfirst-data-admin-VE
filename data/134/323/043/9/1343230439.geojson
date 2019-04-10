@@ -1,0 +1,67 @@
+{
+  "id": 1343230439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.025,9.66917,-71.025,9.66917",
+    "geom:latitude":9.66917,
+    "geom:longitude":-71.025,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"VE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628306,
+    "gn:latitude":9.66917,
+    "gn:longitude":-71.025,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628306
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"32eefee54a4b497732b909f1728b01bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694109,
+            "locality_id":1343230439,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1343230439,
+    "wof:lastmodified":1537075323,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108694109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.025,
+    9.66917,
+    -71.025,
+    9.66917
+],
+  "geometry": {"coordinates":[-71.02500000000001,9.66917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293094535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.14356,10.08415,-68.14356,10.08415",
+    "geom:latitude":10.08415,
+    "geom:longitude":-68.14356,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"La India",
+    "gn:country_code":"VE",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637527,
+    "gn:latitude":10.08415,
+    "gn:longitude":-68.14356,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"La India",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637527
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"86d05b1add406a39d6534be07ac28611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694251,
+            "locality_id":1293094535,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1293094535,
+    "wof:lastmodified":1536855395,
+    "wof:name":"La India",
+    "wof:parent_id":1108694251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.14356,
+    10.08415,
+    -68.14356,
+    10.08415
+],
+  "geometry": {"coordinates":[-68.14355999999999,10.08415],"type":"Point"}
+}

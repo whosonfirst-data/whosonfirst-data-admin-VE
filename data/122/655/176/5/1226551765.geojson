@@ -1,0 +1,67 @@
+{
+  "id": 1226551765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.13333,8.1,-64.13333,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":-64.13333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Rancho El Tejas",
+    "gn:country_code":"VE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629290,
+    "gn:latitude":8.1,
+    "gn:longitude":-64.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Rancho El Tejas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629290
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a77cd52ef9b326ed2d9f1d0efb49f440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1226551765,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226551765,
+    "wof:lastmodified":1536988507,
+    "wof:name":"Rancho El Tejas",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.13333,
+    8.1,
+    -64.13333,
+    8.1
+],
+  "geometry": {"coordinates":[-64.13333,8.1],"type":"Point"}
+}

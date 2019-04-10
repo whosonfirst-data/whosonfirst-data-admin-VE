@@ -1,0 +1,71 @@
+{
+  "id": 1259661019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72604,11.1602,-68.72604,11.1602",
+    "geom:latitude":11.1602,
+    "geom:longitude":-68.72604,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Mirimire",
+    "gn:country_code":"VE",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3632186,
+    "gn:latitude":11.1602,
+    "gn:longitude":-68.72604,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Mirimire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mirimire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421190213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632186
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ec21ba2a333afb8960a5cb30b009e52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190213,
+            "locality_id":1259661019,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1259661019,
+    "wof:lastmodified":1537713538,
+    "wof:name":"Mirimire",
+    "wof:parent_id":421190213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72604,
+    11.1602,
+    -68.72604,
+    11.1602
+],
+  "geometry": {"coordinates":[-68.72604,11.1602],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225847077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.34286,9.32522,-64.34286,9.32522",
+    "geom:latitude":9.32522,
+    "geom:longitude":-64.34286,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Conquista",
+    "gn:country_code":"VE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638356,
+    "gn:latitude":9.32522,
+    "gn:longitude":-64.34286,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"La Conquista",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638356
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e98b0a69f32355f921252dbc9581cdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1225847077,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1225847077,
+    "wof:lastmodified":1537011032,
+    "wof:name":"La Conquista",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.34286,
+    9.32522,
+    -64.34286,
+    9.32522
+],
+  "geometry": {"coordinates":[-64.34286,9.32522],"type":"Point"}
+}

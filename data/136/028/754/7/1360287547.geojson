@@ -1,0 +1,73 @@
+{
+  "id": 1360287547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.52063,10.01838,-65.52063,10.01838",
+    "geom:latitude":10.01838,
+    "geom:longitude":-65.52063,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Sabana de Uchire",
+    "gn:country_code":"VE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628913,
+    "gn:latitude":10.01838,
+    "gn:longitude":-65.52063,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sabana de Uchire",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabana de Uchire"
+    ],
+    "name:und_x_variant":[
+        "Sabana de Uriche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628913
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0aa60e02afb452d4f931783479f15d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1360287547,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1360287547,
+    "wof:lastmodified":1537713522,
+    "wof:name":"Sabana de Uchire",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.52063000000001,
+    10.01838,
+    -65.52063000000001,
+    10.01838
+],
+  "geometry": {"coordinates":[-65.52063000000001,10.01838],"type":"Point"}
+}

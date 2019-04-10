@@ -1,0 +1,61 @@
+{
+  "id": 1209426763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.71454,9.8058,-64.71454,9.8058",
+    "geom:latitude":9.8058,
+    "geom:longitude":-64.71454,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Conoraima",
+    "gn:country_code":"VE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485691,
+    "gn:latitude":9.8058,
+    "gn:longitude":-64.71454,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Conoraima",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485691
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bfcc1ad21ccd47c539822c18b06c6af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209426763
+        }
+    ],
+    "wof:id":1209426763,
+    "wof:lastmodified":1536287358,
+    "wof:name":"Conoraima",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.71454,
+    9.8058,
+    -64.71454,
+    9.8058
+],
+  "geometry": {"coordinates":[-64.71454,9.8058],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209501547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.17056,9.12312,-67.17056,9.12312",
+    "geom:latitude":9.12312,
+    "geom:longitude":-67.17056,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Majomito",
+    "gn:country_code":"VE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3773214,
+    "gn:latitude":9.12312,
+    "gn:longitude":-67.17056,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Majomito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3773214
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b72dc76201b8339edf577dbe1b5b750",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209501547
+        }
+    ],
+    "wof:id":1209501547,
+    "wof:lastmodified":1536285167,
+    "wof:name":"Majomito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.17056,
+    9.12312,
+    -67.17056,
+    9.12312
+],
+  "geometry": {"coordinates":[-67.17055999999999,9.12312],"type":"Point"}
+}

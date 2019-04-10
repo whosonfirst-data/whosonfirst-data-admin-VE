@@ -1,0 +1,71 @@
+{
+  "id": 1344168911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05764,9.28526,-65.05764,9.28526",
+    "geom:latitude":9.28526,
+    "geom:longitude":-65.05764,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Coronel",
+    "gn:country_code":"VE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643544,
+    "gn:latitude":9.28526,
+    "gn:longitude":-65.05764,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Coronel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coronel",
+        "El Coronel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643544
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"04bf736c367e8f6c133cd60fdf795d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694283,
+            "locality_id":1344168911,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1344168911,
+    "wof:lastmodified":1537713606,
+    "wof:name":"El Coronel",
+    "wof:parent_id":1108694283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05764,
+    9.28526,
+    -65.05764,
+    9.28526
+],
+  "geometry": {"coordinates":[-65.05764000000001,9.28526],"type":"Point"}
+}

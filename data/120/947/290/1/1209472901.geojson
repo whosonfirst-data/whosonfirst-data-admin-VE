@@ -1,0 +1,66 @@
+{
+  "id": 1209472901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14111,10.08111,-71.14111,10.08111",
+    "geom:latitude":10.08111,
+    "geom:longitude":-71.14111,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sibaragua",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626852,
+    "gn:latitude":10.08111,
+    "gn:longitude":-71.14111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sibaragua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hato Sibaragua",
+        "Sibaragua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626852
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"20e784343b322afca2bf6f2de96f3fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209472901
+        }
+    ],
+    "wof:id":1209472901,
+    "wof:lastmodified":1537713514,
+    "wof:name":"Sibaragua",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14111,
+    10.08111,
+    -71.14111,
+    10.08111
+],
+  "geometry": {"coordinates":[-71.14111,10.08111],"type":"Point"}
+}

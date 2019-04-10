@@ -1,0 +1,72 @@
+{
+  "id": 1243227369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.88333,9.71667,-63.88333,9.71667",
+    "geom:latitude":9.71667,
+    "geom:longitude":-63.88333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Chaguarama",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638501,
+    "gn:latitude":9.71667,
+    "gn:longitude":-63.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Chaguarama",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaguaramal",
+        "La Chaguarama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638501
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80434e4656e42768bcc386293f3076a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1243227369,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243227369,
+    "wof:lastmodified":1537713575,
+    "wof:name":"La Chaguarama",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.88333000000001,
+    9.71667,
+    -63.88333000000001,
+    9.71667
+],
+  "geometry": {"coordinates":[-63.88333000000001,9.71667],"type":"Point"}
+}

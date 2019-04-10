@@ -1,0 +1,67 @@
+{
+  "id": 1276307179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.57377,10.30245,-63.57377,10.30245",
+    "geom:latitude":10.30245,
+    "geom:longitude":-63.57377,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"La Castana",
+    "gn:country_code":"VE",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795815,
+    "gn:latitude":10.30245,
+    "gn:longitude":-63.57377,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Casta\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795815
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b48d7a0d3ef9fca73fdfbfdd77d14633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1276307179,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276307179,
+    "wof:lastmodified":1536813158,
+    "wof:name":"La Castana",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.57377,
+    10.30245,
+    -63.57377,
+    10.30245
+],
+  "geometry": {"coordinates":[-63.57377,10.30245],"type":"Point"}
+}

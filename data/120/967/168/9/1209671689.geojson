@@ -1,0 +1,61 @@
+{
+  "id": 1209671689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.90334,10.23869,-68.90334,10.23869",
+    "geom:latitude":10.23869,
+    "geom:longitude":-68.90334,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Poapoa",
+    "gn:country_code":"VE",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794552,
+    "gn:latitude":10.23869,
+    "gn:longitude":-68.90334,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Poapoa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794552
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d0286d94c7c658cef7582e4985c7b1ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209671689
+        }
+    ],
+    "wof:id":1209671689,
+    "wof:lastmodified":1536279899,
+    "wof:name":"Poapoa",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.90334,
+    10.23869,
+    -68.90334,
+    10.23869
+],
+  "geometry": {"coordinates":[-68.90334,10.23869],"type":"Point"}
+}

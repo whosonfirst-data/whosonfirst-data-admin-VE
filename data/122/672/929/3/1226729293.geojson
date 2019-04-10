@@ -1,0 +1,67 @@
+{
+  "id": 1226729293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.4225,8.15861,-67.4225,8.15861",
+    "geom:latitude":8.15861,
+    "geom:longitude":-67.4225,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Menudital",
+    "gn:country_code":"VE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632397,
+    "gn:latitude":8.15861,
+    "gn:longitude":-67.4225,
+    "gn:modification_date":"1999-03-04",
+    "gn:name":"Menudital",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632397
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"57a3af8e2719a0f3946c7da329a4f2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694395,
+            "locality_id":1226729293,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226729293,
+    "wof:lastmodified":1536739144,
+    "wof:name":"Menudital",
+    "wof:parent_id":1108694395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.4225,
+    8.15861,
+    -67.4225,
+    8.15861
+],
+  "geometry": {"coordinates":[-67.4225,8.15861],"type":"Point"}
+}

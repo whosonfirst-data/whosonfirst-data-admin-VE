@@ -1,0 +1,67 @@
+{
+  "id": 1225810145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21094,10.52739,-63.21094,10.52739",
+    "geom:latitude":10.52739,
+    "geom:longitude":-63.21094,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Las Minas",
+    "gn:country_code":"VE",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635669,
+    "gn:latitude":10.52739,
+    "gn:longitude":-63.21094,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Minas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635669
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"490f1c72accd18af8d7cfa01ff05001b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694111,
+            "locality_id":1225810145,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1225810145,
+    "wof:lastmodified":1537062391,
+    "wof:name":"Las Minas",
+    "wof:parent_id":1108694111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21094,
+    10.52739,
+    -63.21094,
+    10.52739
+],
+  "geometry": {"coordinates":[-63.21094,10.52739],"type":"Point"}
+}

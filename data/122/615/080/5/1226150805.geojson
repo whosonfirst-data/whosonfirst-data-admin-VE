@@ -1,0 +1,67 @@
+{
+  "id": 1226150805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.59967,10.08234,-64.59967,10.08234",
+    "geom:latitude":10.08234,
+    "geom:longitude":-64.59967,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tabera",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484256,
+    "gn:latitude":10.08234,
+    "gn:longitude":-64.59967,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tabera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484256
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c7a1e36105366225319f630664aca384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1226150805,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226150805,
+    "wof:lastmodified":1537067404,
+    "wof:name":"Tabera",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.59966999999999,
+    10.08234,
+    -64.59966999999999,
+    10.08234
+],
+  "geometry": {"coordinates":[-64.59966999999999,10.08234],"type":"Point"}
+}

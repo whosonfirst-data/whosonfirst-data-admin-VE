@@ -1,0 +1,61 @@
+{
+  "id": 1209480101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.93333,10.7,-61.93333,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":-61.93333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Uquirito",
+    "gn:country_code":"VE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625702,
+    "gn:latitude":10.7,
+    "gn:longitude":-61.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Uquirito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625702
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"caf18d923559171e30751aeb05da8028",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209480101
+        }
+    ],
+    "wof:id":1209480101,
+    "wof:lastmodified":1536285812,
+    "wof:name":"Uquirito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.93333000000001,
+    10.7,
+    -61.93333000000001,
+    10.7
+],
+  "geometry": {"coordinates":[-61.93333000000001,10.7],"type":"Point"}
+}

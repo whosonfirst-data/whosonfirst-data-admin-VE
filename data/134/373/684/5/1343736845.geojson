@@ -1,0 +1,67 @@
+{
+  "id": 1343736845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.37842,10.2743,-64.37842,10.2743",
+    "geom:latitude":10.2743,
+    "geom:longitude":-64.37842,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Chorro Frio",
+    "gn:country_code":"VE",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795875,
+    "gn:latitude":10.2743,
+    "gn:longitude":-64.37842,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Chorro Fr\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795875
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c31c085bd706133ebbd71f19ef7a74b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "locality_id":1343736845,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1343736845,
+    "wof:lastmodified":1536843938,
+    "wof:name":"Chorro Frio",
+    "wof:parent_id":1108694443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.37841999999999,
+    10.2743,
+    -64.37841999999999,
+    10.2743
+],
+  "geometry": {"coordinates":[-64.37841999999999,10.2743],"type":"Point"}
+}

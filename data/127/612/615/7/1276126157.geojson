@@ -1,0 +1,72 @@
+{
+  "id": 1276126157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.9,9.05,-64.9,9.05",
+    "geom:latitude":9.05,
+    "geom:longitude":-64.9,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Corrigo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645043,
+    "gn:latitude":9.05,
+    "gn:longitude":-64.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Corrigo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corriga",
+        "Corrigo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645043
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"163156053436c362593c1409b009b830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694283,
+            "locality_id":1276126157,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276126157,
+    "wof:lastmodified":1537713615,
+    "wof:name":"Corrigo",
+    "wof:parent_id":1108694283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.9,
+    9.05,
+    -64.9,
+    9.05
+],
+  "geometry": {"coordinates":[-64.90000000000001,9.05],"type":"Point"}
+}

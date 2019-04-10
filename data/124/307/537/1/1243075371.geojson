@@ -1,0 +1,67 @@
+{
+  "id": 1243075371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.50448,10.16462,-64.50448,10.16462",
+    "geom:latitude":10.16462,
+    "geom:longitude":-64.50448,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Carrasposo",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646473,
+    "gn:latitude":10.16462,
+    "gn:longitude":-64.50448,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Carrasposo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421204791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646473
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0a7c63b318ec8346db3b738768c7b48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204791,
+            "locality_id":1243075371,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1243075371,
+    "wof:lastmodified":1536842359,
+    "wof:name":"Carrasposo",
+    "wof:parent_id":421204791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.50448,
+    10.16462,
+    -64.50448,
+    10.16462
+],
+  "geometry": {"coordinates":[-64.50448,10.16462],"type":"Point"}
+}

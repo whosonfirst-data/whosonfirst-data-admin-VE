@@ -1,0 +1,67 @@
+{
+  "id": 1344254163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.42704,8.0709,-62.42704,8.0709",
+    "geom:latitude":8.0709,
+    "geom:longitude":-62.42704,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Altagracia",
+    "gn:country_code":"VE",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649423,
+    "gn:latitude":8.0709,
+    "gn:longitude":-62.42704,
+    "gn:modification_date":"1997-10-14",
+    "gn:name":"Altagracia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421197623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649423
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"21975b1b64e525473cc21deae320598a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421197623,
+            "locality_id":1344254163,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1344254163,
+    "wof:lastmodified":1537090145,
+    "wof:name":"Altagracia",
+    "wof:parent_id":421197623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.42704000000001,
+    8.0709,
+    -62.42704000000001,
+    8.0709
+],
+  "geometry": {"coordinates":[-62.42704000000001,8.0709],"type":"Point"}
+}

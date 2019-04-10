@@ -1,0 +1,67 @@
+{
+  "id": 1293560693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.25265,9.04402,-63.25265,9.04402",
+    "geom:latitude":9.04402,
+    "geom:longitude":-63.25265,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Caratal del Tigre",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646632,
+    "gn:latitude":9.04402,
+    "gn:longitude":-63.25265,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Caratal del Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646632
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c784796513b9758b7d5d907487e6528a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1293560693,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1293560693,
+    "wof:lastmodified":1536681628,
+    "wof:name":"Caratal del Tigre",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.25265,
+    9.04402,
+    -63.25265,
+    9.04402
+],
+  "geometry": {"coordinates":[-63.25265,9.04402],"type":"Point"}
+}

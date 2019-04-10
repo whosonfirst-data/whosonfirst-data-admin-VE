@@ -1,0 +1,72 @@
+{
+  "id": 1243170059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61667,8.71667,-69.61667,8.71667",
+    "geom:latitude":8.71667,
+    "geom:longitude":-69.61667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Rincon Manzanillero",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629124,
+    "gn:latitude":8.71667,
+    "gn:longitude":-69.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rinc\u00f3n Manzanillero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rincon Manjanillero",
+        "Rinc\u00f3n Manzanillero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629124
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cc26de31a963ec8f2dc9f91e9cce071c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694375,
+            "locality_id":1243170059,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1243170059,
+    "wof:lastmodified":1537713523,
+    "wof:name":"Rincon Manzanillero",
+    "wof:parent_id":1108694375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61667,
+    8.71667,
+    -69.61667,
+    8.71667
+],
+  "geometry": {"coordinates":[-69.61667,8.71667],"type":"Point"}
+}

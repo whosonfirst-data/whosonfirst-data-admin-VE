@@ -1,0 +1,67 @@
+{
+  "id": 1310080211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.68715,10.62998,-62.68715,10.62998",
+    "geom:latitude":10.62998,
+    "geom:longitude":-62.68715,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rio Seco",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796631,
+    "gn:latitude":10.62998,
+    "gn:longitude":-62.68715,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"R\u00edo Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796631
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6b2b003a722602c9a241a357849c9fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694275,
+            "locality_id":1310080211,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1310080211,
+    "wof:lastmodified":1537031692,
+    "wof:name":"Rio Seco",
+    "wof:parent_id":1108694275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.68715,
+    10.62998,
+    -62.68715,
+    10.62998
+],
+  "geometry": {"coordinates":[-62.68715,10.62998],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343553995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.455,8.455,-70.455,8.455",
+    "geom:latitude":8.455,
+    "geom:longitude":-70.455,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bucarito",
+    "gn:country_code":"VE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3487748,
+    "gn:latitude":8.455,
+    "gn:longitude":-70.455,
+    "gn:modification_date":"1998-03-19",
+    "gn:name":"Bucarito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487748
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"effdb62058e3538caa58426bd4435684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1343553995,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1343553995,
+    "wof:lastmodified":1536608522,
+    "wof:name":"Bucarito",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.455,
+    8.455,
+    -70.455,
+    8.455
+],
+  "geometry": {"coordinates":[-70.455,8.455],"type":"Point"}
+}

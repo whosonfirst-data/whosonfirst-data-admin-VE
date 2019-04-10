@@ -1,0 +1,106 @@
+{
+  "id": 421177379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.16512,8.88724,-64.16512,8.88724",
+    "geom:latitude":8.88724,
+    "geom:longitude":-64.16512,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 de Guanipa"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 de Guanipa"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 de Guanipa"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Guanipa"
+    ],
+    "name:unk_x_variant":[
+        "El Tigrito"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u74dc\u5c3c\u5e15"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3628142,
+    "qs:gn_pop":62128,
+    "qs:name":"San Jose de Guanipa",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Anzoategui",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1182305,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805756,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:latitude":8.883333,
+    "wd:longitude":-64.15,
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421182997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628142,
+        "gp:id":26805756,
+        "qs:id":1182305,
+        "qs_pg:id":1182305,
+        "wd:id":"Q3067441",
+        "wk:page":"San Jos\u00e9 de Guanipa"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009142,
+    "wof:geomhash":"3ae06ba3710ccbece393d390843fd0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182997,
+            "localadmin_id":421177379,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":421177379,
+    "wof:lastmodified":1527716481,
+    "wof:name":"San Jose de Guanipa",
+    "wof:parent_id":421182997,
+    "wof:placetype":"localadmin",
+    "wof:population":62128,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.16512,
+    8.88724,
+    -64.16512,
+    8.88724
+],
+  "geometry": {"coordinates":[-64.16512,8.88724],"type":"Point"}
+}

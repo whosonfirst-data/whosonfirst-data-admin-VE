@@ -1,0 +1,67 @@
+{
+  "id": 1293770325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.40215,10.03215,-66.40215,10.03215",
+    "geom:latitude":10.03215,
+    "geom:longitude":-66.40215,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Colonias",
+    "gn:country_code":"VE",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742328,
+    "gn:latitude":10.03215,
+    "gn:longitude":-66.40215,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Las Colonias",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742328
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5a67a5950e716aa19eba8cfa8e18e21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1293770325,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293770325,
+    "wof:lastmodified":1536875507,
+    "wof:name":"Las Colonias",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.40215,
+    10.03215,
+    -66.40215,
+    10.03215
+],
+  "geometry": {"coordinates":[-66.40215000000001,10.03215],"type":"Point"}
+}

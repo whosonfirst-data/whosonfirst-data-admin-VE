@@ -1,0 +1,67 @@
+{
+  "id": 1293760105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3408,9.24313,-65.3408,9.24313",
+    "geom:latitude":9.24313,
+    "geom:longitude":-65.3408,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Remanso",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641769,
+    "gn:latitude":9.24313,
+    "gn:longitude":-65.3408,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"El Remanso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641769
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"bd03420dec607101f0e9239be9bc5a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1293760105,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293760105,
+    "wof:lastmodified":1536890843,
+    "wof:name":"El Remanso",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3408,
+    9.24313,
+    -65.3408,
+    9.24313
+],
+  "geometry": {"coordinates":[-65.3408,9.24313],"type":"Point"}
+}

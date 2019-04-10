@@ -1,0 +1,67 @@
+{
+  "id": 1242974213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7137,2.96717,-64.7137,2.96717",
+    "geom:latitude":2.96717,
+    "geom:longitude":-64.7137,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yeisibibeteri",
+    "gn:country_code":"VE",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457314,
+    "gn:latitude":2.96717,
+    "gn:longitude":-64.7137,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Yeisibibeteri",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        890420047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457314
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3138d5945723c8311c7f3cd39d4ee80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890420047,
+            "locality_id":1242974213,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1242974213,
+    "wof:lastmodified":1536988512,
+    "wof:name":"Yeisibibeteri",
+    "wof:parent_id":890420047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7137,
+    2.96717,
+    -64.7137,
+    2.96717
+],
+  "geometry": {"coordinates":[-64.7137,2.96717],"type":"Point"}
+}

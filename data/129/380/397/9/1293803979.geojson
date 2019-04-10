@@ -1,0 +1,73 @@
+{
+  "id": 1293803979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.915,10.42639,-67.915,10.42639",
+    "geom:latitude":10.42639,
+    "geom:longitude":-67.915,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Patanemo",
+    "gn:country_code":"VE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630570,
+    "gn:latitude":10.42639,
+    "gn:longitude":-67.915,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Patanemo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Patanemo"
+    ],
+    "name:spa_x_preferred":[
+        "Patanemo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630570
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"96d8f39f890db0f033dd371da7dec9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "locality_id":1293803979,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1293803979,
+    "wof:lastmodified":1537560438,
+    "wof:name":"Patanemo",
+    "wof:parent_id":421198089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.915,
+    10.42639,
+    -67.915,
+    10.42639
+],
+  "geometry": {"coordinates":[-67.91500000000001,10.42639],"type":"Point"}
+}

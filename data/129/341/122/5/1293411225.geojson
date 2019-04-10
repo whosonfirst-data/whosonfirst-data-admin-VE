@@ -1,0 +1,72 @@
+{
+  "id": 1293411225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.81667,6.78333,-66.81667,6.78333",
+    "geom:latitude":6.78333,
+    "geom:longitude":-66.81667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"San Javierito",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628280,
+    "gn:latitude":6.78333,
+    "gn:longitude":-66.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Javierito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Javielito",
+        "San Javierito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628280
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"82cf9712988801df78995b29227258dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1293411225,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293411225,
+    "wof:lastmodified":1537713519,
+    "wof:name":"San Javierito",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.81667,
+    6.78333,
+    -66.81667,
+    6.78333
+],
+  "geometry": {"coordinates":[-66.81667,6.78333],"type":"Point"}
+}

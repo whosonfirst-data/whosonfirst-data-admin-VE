@@ -1,0 +1,67 @@
+{
+  "id": 1225818695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38,8.38222,-71.38,8.38222",
+    "geom:latitude":8.38222,
+    "geom:longitude":-71.38,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Hatico",
+    "gn:country_code":"VE",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643040,
+    "gn:latitude":8.38222,
+    "gn:longitude":-71.38,
+    "gn:modification_date":"1996-08-01",
+    "gn:name":"El Hatico",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643040
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"914e19877e88a340039189794c62593e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":1225818695,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1225818695,
+    "wof:lastmodified":1537050661,
+    "wof:name":"El Hatico",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38,
+    8.38222,
+    -71.38,
+    8.38222
+],
+  "geometry": {"coordinates":[-71.38,8.38222],"type":"Point"}
+}

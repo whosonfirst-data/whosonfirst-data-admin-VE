@@ -1,0 +1,105 @@
+{
+  "id": 421202055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.070312,7.906911,-72.070312,7.906911",
+    "geom:latitude":7.906911,
+    "geom:longitude":-72.070312,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062f\u0631\u064a\u0633 \u0628\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09a6\u09cd\u09b0\u09c7\u09b8 \u09ac\u09c7\u09b2\u09bf\u0993"
+    ],
+    "name:cat_x_preferred":[
+        "Andr\u00e9s Bello"
+    ],
+    "name:deu_x_preferred":[
+        "Andr\u00e9s Bello"
+    ],
+    "name:epo_x_preferred":[
+        "Andr\u00e9s Bello"
+    ],
+    "name:fra_x_preferred":[
+        "Andr\u00e9s Bello"
+    ],
+    "name:ita_x_preferred":[
+        "Andr\u00e9s Bello"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10e0\u10d4\u10e1 \u10d1\u10d4\u10da\u10d8\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "Andr\u00e9s Bello"
+    ],
+    "name:spa_x_preferred":[
+        "Andr\u00e9s Bello"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Andres Bello",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":151,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":219076,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804496,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1264,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804496,
+        "qs:id":219076,
+        "wd:id":"Q439195"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010102,
+    "wof:geomhash":"c99f37dd1c84fd6cccde29a342e526b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202055,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":421202055,
+    "wof:lastmodified":1527716207,
+    "wof:name":"Andres Bello",
+    "wof:parent_id":85680481,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.070312,
+    7.906911,
+    -72.070312,
+    7.906911
+],
+  "geometry": {"coordinates":[-72.070312,7.906911],"type":"Point"}
+}

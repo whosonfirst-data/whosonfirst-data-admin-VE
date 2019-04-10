@@ -1,0 +1,67 @@
+{
+  "id": 1310177815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.0875,10.03389,-66.0875,10.03389",
+    "geom:latitude":10.03389,
+    "geom:longitude":-66.0875,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Playa Grande",
+    "gn:country_code":"VE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630019,
+    "gn:latitude":10.03389,
+    "gn:longitude":-66.0875,
+    "gn:modification_date":"1995-08-23",
+    "gn:name":"Playa Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421204299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630019
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"588b3a466f95d83e99b41c543172c04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204299,
+            "locality_id":1310177815,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1310177815,
+    "wof:lastmodified":1536892031,
+    "wof:name":"Playa Grande",
+    "wof:parent_id":421204299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.0875,
+    10.03389,
+    -66.0875,
+    10.03389
+],
+  "geometry": {"coordinates":[-66.08750000000001,10.03389],"type":"Point"}
+}

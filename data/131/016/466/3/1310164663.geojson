@@ -1,0 +1,67 @@
+{
+  "id": 1310164663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32568,8.15017,-72.32568,8.15017",
+    "geom:latitude":8.15017,
+    "geom:longitude":-72.32568,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Morretales",
+    "gn:country_code":"VE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631867,
+    "gn:latitude":8.15017,
+    "gn:longitude":-72.32568,
+    "gn:modification_date":"1996-12-18",
+    "gn:name":"Morretales",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421189269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631867
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6b1cc62c782fe20cb46a3ae750da7412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189269,
+            "locality_id":1310164663,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1310164663,
+    "wof:lastmodified":1536911744,
+    "wof:name":"Morretales",
+    "wof:parent_id":421189269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32568,
+    8.15017,
+    -72.32568,
+    8.15017
+],
+  "geometry": {"coordinates":[-72.32568000000001,8.15017],"type":"Point"}
+}

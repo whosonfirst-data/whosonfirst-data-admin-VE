@@ -1,0 +1,71 @@
+{
+  "id": 1360256723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.81474,8.89643,-62.81474,8.89643",
+    "geom:latitude":8.89643,
+    "geom:longitude":-62.81474,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Pelon",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642130,
+    "gn:latitude":8.89643,
+    "gn:longitude":-62.81474,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pel\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pil\u00f3n",
+        "El Pel\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642130
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5ffcd3aaa5c5410379c7bf6afa42a424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694255,
+            "locality_id":1360256723,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1360256723,
+    "wof:lastmodified":1537713595,
+    "wof:name":"El Pelon",
+    "wof:parent_id":1108694255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.81474,
+    8.89643,
+    -62.81474,
+    8.89643
+],
+  "geometry": {"coordinates":[-62.81474,8.89643],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360163697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6823,10.41944,-69.6823,10.41944",
+    "geom:latitude":10.41944,
+    "geom:longitude":-69.6823,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Balcon",
+    "gn:country_code":"VE",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3750508,
+    "gn:latitude":10.41944,
+    "gn:longitude":-69.6823,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"El Balc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3750508
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3e4b12d0afdb7d9dd55df8a310771044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1360163697,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1360163697,
+    "wof:lastmodified":1536831315,
+    "wof:name":"El Balcon",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6823,
+    10.41944,
+    -69.6823,
+    10.41944
+],
+  "geometry": {"coordinates":[-69.6823,10.41944],"type":"Point"}
+}

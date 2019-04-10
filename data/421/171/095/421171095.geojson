@@ -1,0 +1,75 @@
+{
+  "id": 421171095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.472362,7.89909,-67.472362,7.89909",
+    "geom:latitude":7.89909,
+    "geom:longitude":-67.472362,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Urbana San Fernando",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Apure",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1206536,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805700,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805700,
+        "qs:id":1206536
+    },
+    "wof:country":"VE",
+    "wof:created":1459008881,
+    "wof:geomhash":"d8c75355201c43448d8e92c87822a6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "localadmin_id":421171095,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":421171095,
+    "wof:lastmodified":1500033993,
+    "wof:name":"Urbana San Fernando",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.472362,
+    7.89909,
+    -67.472362,
+    7.89909
+],
+  "geometry": {"coordinates":[-67.472362,7.89909],"type":"Point"}
+}

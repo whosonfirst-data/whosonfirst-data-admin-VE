@@ -1,0 +1,102 @@
+{
+  "id": 421183725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84472,8.80057,-70.84472,8.80057",
+    "geom:latitude":8.80057,
+    "geom:longitude":-70.84472,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Apartaderos"
+    ],
+    "name:eng_x_preferred":[
+        "Apartaderos"
+    ],
+    "name:fra_x_preferred":[
+        "Apartaderos"
+    ],
+    "name:fre_x_preferred":[
+        "Apartaderos"
+    ],
+    "name:pol_x_preferred":[
+        "Apartaderos"
+    ],
+    "name:por_x_preferred":[
+        "Apartaderos"
+    ],
+    "name:spa_x_preferred":[
+        "Apartaderos"
+    ],
+    "name:unk_x_variant":[
+        "Apartadero"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3649169,
+    "qs:gn_pop":0,
+    "qs:name":"Apartaderos",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":109,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":109,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982735,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468566,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649169,
+        "gp:id":468566,
+        "qs:id":982735,
+        "wd:id":"Q2858134"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009380,
+    "wof:geomhash":"beec5f3fe0417bf38d646a2ce6cfcf46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":421183725,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421183725,
+    "wof:lastmodified":1527716491,
+    "wof:name":"Apartaderos",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84472,
+    8.80057,
+    -70.84472,
+    8.80057
+],
+  "geometry": {"coordinates":[-70.84472,8.80057],"type":"Point"}
+}

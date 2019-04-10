@@ -1,0 +1,71 @@
+{
+  "id": 1260146011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21028,9.37083,-69.21028,9.37083",
+    "geom:latitude":9.37083,
+    "geom:longitude":-69.21028,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1803.0",
+    "gn:asciiname":"Piritu",
+    "gn:country_code":"VE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3630089,
+    "gn:latitude":9.37083,
+    "gn:longitude":-69.21028,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"P\u00edritu",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "P\u00edritu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630089
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"108dbfa458396731389114821deed1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694177,
+            "locality_id":1260146011,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1260146011,
+    "wof:lastmodified":1537713528,
+    "wof:name":"Piritu",
+    "wof:parent_id":1108694177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21028000000001,
+    9.37083,
+    -69.21028000000001,
+    9.37083
+],
+  "geometry": {"coordinates":[-69.21028000000001,9.37083],"type":"Point"}
+}

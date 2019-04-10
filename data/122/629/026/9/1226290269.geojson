@@ -1,0 +1,67 @@
+{
+  "id": 1226290269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.4467,10.12446,-67.4467,10.12446",
+    "geom:latitude":10.12446,
+    "geom:longitude":-67.4467,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bella Vista",
+    "gn:country_code":"VE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3481400,
+    "gn:latitude":10.12446,
+    "gn:longitude":-67.4467,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Bella Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3481400
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"df9dc0459303b772557d4a15a88594ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694433,
+            "locality_id":1226290269,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1226290269,
+    "wof:lastmodified":1536868385,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":1108694433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.4467,
+    10.12446,
+    -67.4467,
+    10.12446
+],
+  "geometry": {"coordinates":[-67.44670000000001,10.12446],"type":"Point"}
+}

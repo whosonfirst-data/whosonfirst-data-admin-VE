@@ -1,0 +1,72 @@
+{
+  "id": 1326910723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.84027,11.20197,-68.84027,11.20197",
+    "geom:latitude":11.20197,
+    "geom:longitude":-68.84027,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Marsillal",
+    "gn:country_code":"VE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632861,
+    "gn:latitude":11.20197,
+    "gn:longitude":-68.84027,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marsillal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marcillal",
+        "Marcillar",
+        "Marsillal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632861
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"24a1ba6d4bd6d0283168f1bf30de06f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694215,
+            "locality_id":1326910723,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1326910723,
+    "wof:lastmodified":1537713541,
+    "wof:name":"Marsillal",
+    "wof:parent_id":1108694215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.84026999999999,
+    11.20197,
+    -68.84026999999999,
+    11.20197
+],
+  "geometry": {"coordinates":[-68.84026999999999,11.20197],"type":"Point"}
+}

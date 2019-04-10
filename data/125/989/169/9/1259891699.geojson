@@ -1,0 +1,67 @@
+{
+  "id": 1259891699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.95,10.08333,-64.95,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":-64.95,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chacopata",
+    "gn:country_code":"VE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3739637,
+    "gn:latitude":10.08333,
+    "gn:longitude":-64.95,
+    "gn:modification_date":"1994-12-21",
+    "gn:name":"Chacopata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421172597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739637
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ead534fcd620a749e8514d6bc31ceb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172597,
+            "locality_id":1259891699,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259891699,
+    "wof:lastmodified":1536767693,
+    "wof:name":"Chacopata",
+    "wof:parent_id":421172597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.95,
+    10.08333,
+    -64.95,
+    10.08333
+],
+  "geometry": {"coordinates":[-64.95,10.08333],"type":"Point"}
+}

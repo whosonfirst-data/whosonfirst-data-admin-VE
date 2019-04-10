@@ -1,0 +1,73 @@
+{
+  "id": 1259881943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.4,9.31667,-64.4,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":-64.4,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Comboy",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643580,
+    "gn:latitude":9.31667,
+    "gn:longitude":-64.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Comboy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambur",
+        "Comboy",
+        "El Comboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643580
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e27756a31e32528964d10885014734ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1259881943,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259881943,
+    "wof:lastmodified":1537713606,
+    "wof:name":"El Comboy",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4,
+    9.31667,
+    -64.4,
+    9.31667
+],
+  "geometry": {"coordinates":[-64.40000000000001,9.31667],"type":"Point"}
+}

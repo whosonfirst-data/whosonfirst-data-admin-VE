@@ -1,0 +1,67 @@
+{
+  "id": 1226241937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.55431,10.07599,-67.55431,10.07599",
+    "geom:latitude":10.07599,
+    "geom:longitude":-67.55431,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"San Francisco de Asis",
+    "gn:country_code":"VE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628357,
+    "gn:latitude":10.07599,
+    "gn:longitude":-67.55431,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"San Francisco de As\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628357
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1d5a7cfa5ec389d43d1b385ec670ba1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1226241937,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1226241937,
+    "wof:lastmodified":1536939813,
+    "wof:name":"San Francisco de Asis",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.55431,
+    10.07599,
+    -67.55431,
+    10.07599
+],
+  "geometry": {"coordinates":[-67.55431,10.07599],"type":"Point"}
+}

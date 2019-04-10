@@ -1,0 +1,67 @@
+{
+  "id": 1326495081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.73456,10.38774,-63.73456,10.38774",
+    "geom:latitude":10.38774,
+    "geom:longitude":-63.73456,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Chorreron",
+    "gn:country_code":"VE",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749309,
+    "gn:latitude":10.38774,
+    "gn:longitude":-63.73456,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Chorrer\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749309
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80084a7e3fcfc14cc0c846c8b4a4efa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694285,
+            "locality_id":1326495081,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1326495081,
+    "wof:lastmodified":1537036097,
+    "wof:name":"Chorreron",
+    "wof:parent_id":1108694285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.73456,
+    10.38774,
+    -63.73456,
+    10.38774
+],
+  "geometry": {"coordinates":[-63.73456,10.38774],"type":"Point"}
+}

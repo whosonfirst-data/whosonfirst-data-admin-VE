@@ -1,0 +1,67 @@
+{
+  "id": 1276760481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.39667,8.4275,-69.39667,8.4275",
+    "geom:latitude":8.4275,
+    "geom:longitude":-69.39667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Trojas",
+    "gn:country_code":"VE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635289,
+    "gn:latitude":8.4275,
+    "gn:longitude":-69.39667,
+    "gn:modification_date":"1999-03-02",
+    "gn:name":"Las Trojas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421203565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635289
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ddeeb40f326badc4d95ed60061412bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203565,
+            "locality_id":1276760481,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1276760481,
+    "wof:lastmodified":1536703778,
+    "wof:name":"Las Trojas",
+    "wof:parent_id":421203565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.39667,
+    8.4275,
+    -69.39667,
+    8.4275
+],
+  "geometry": {"coordinates":[-69.39667,8.4275],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277051001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25778,9.32556,-69.25778,9.32556",
+    "geom:latitude":9.32556,
+    "geom:longitude":-69.25778,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mata de Mijagua",
+    "gn:country_code":"VE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798264,
+    "gn:latitude":9.32556,
+    "gn:longitude":-69.25778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mata de Mijagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mata de Mijagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798264
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d0c0a5fa018a2d692ca20aa3b8b2d5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694177,
+            "locality_id":1277051001,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1277051001,
+    "wof:lastmodified":1537713644,
+    "wof:name":"Mata de Mijagua",
+    "wof:parent_id":1108694177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25778000000001,
+    9.32556,
+    -69.25778000000001,
+    9.32556
+],
+  "geometry": {"coordinates":[-69.25778000000001,9.32556],"type":"Point"}
+}

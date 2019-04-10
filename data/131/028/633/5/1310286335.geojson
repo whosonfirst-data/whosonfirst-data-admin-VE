@@ -1,0 +1,67 @@
+{
+  "id": 1310286335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.49139,9.995,-63.49139,9.995",
+    "geom:latitude":9.995,
+    "geom:longitude":-63.49139,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Pozo",
+    "gn:country_code":"VE",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755708,
+    "gn:latitude":9.995,
+    "gn:longitude":-63.49139,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"El Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755708
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d1f8d5fff3edeaa269c1d6d45339e30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1310286335,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1310286335,
+    "wof:lastmodified":1536735678,
+    "wof:name":"El Pozo",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.49139,
+    9.995,
+    -63.49139,
+    9.995
+],
+  "geometry": {"coordinates":[-63.49139,9.995],"type":"Point"}
+}

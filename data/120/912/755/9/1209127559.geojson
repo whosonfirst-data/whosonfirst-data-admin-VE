@@ -1,0 +1,61 @@
+{
+  "id": 1209127559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.48293,7.89664,-62.48293,7.89664",
+    "geom:latitude":7.89664,
+    "geom:longitude":-62.48293,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"El Morichal",
+    "gn:country_code":"VE",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642517,
+    "gn:latitude":7.89664,
+    "gn:longitude":-62.48293,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Morichal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642517
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0f776115412aa75cdc1dbd6cefed819b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209127559
+        }
+    ],
+    "wof:id":1209127559,
+    "wof:lastmodified":1536296909,
+    "wof:name":"El Morichal",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.48293,
+    7.89664,
+    -62.48293,
+    7.89664
+],
+  "geometry": {"coordinates":[-62.48293,7.89664],"type":"Point"}
+}

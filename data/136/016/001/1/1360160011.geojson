@@ -1,0 +1,67 @@
+{
+  "id": 1360160011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.55493,8.96804,-69.55493,8.96804",
+    "geom:latitude":8.96804,
+    "geom:longitude":-69.55493,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Los Jeyes",
+    "gn:country_code":"VE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634054,
+    "gn:latitude":8.96804,
+    "gn:longitude":-69.55493,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Los Jeyes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421189087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634054
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"27bd37fa76a528841643e0a1ff95ee6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189087,
+            "locality_id":1360160011,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1360160011,
+    "wof:lastmodified":1536836605,
+    "wof:name":"Los Jeyes",
+    "wof:parent_id":421189087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.55493,
+    8.96804,
+    -69.55493,
+    8.96804
+],
+  "geometry": {"coordinates":[-69.55493,8.96804],"type":"Point"}
+}

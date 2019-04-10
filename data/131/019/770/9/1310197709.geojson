@@ -1,0 +1,72 @@
+{
+  "id": 1310197709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.56667,7.51667,-71.56667,7.51667",
+    "geom:latitude":7.51667,
+    "geom:longitude":-71.56667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Las Lajitas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635829,
+    "gn:latitude":7.51667,
+    "gn:longitude":-71.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Lajitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lajitos",
+        "Las Lajitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635829
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"961c34003ba7477f103bb509da91e639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1310197709,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1310197709,
+    "wof:lastmodified":1537713559,
+    "wof:name":"Las Lajitas",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.56667,
+    7.51667,
+    -71.56667,
+    7.51667
+],
+  "geometry": {"coordinates":[-71.56667,7.51667],"type":"Point"}
+}

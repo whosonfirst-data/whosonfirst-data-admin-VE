@@ -1,0 +1,67 @@
+{
+  "id": 1343392937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58836,10.00105,-67.58836,10.00105",
+    "geom:latitude":10.00105,
+    "geom:longitude":-67.58836,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rio Largo",
+    "gn:country_code":"VE",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806752,
+    "gn:latitude":10.00105,
+    "gn:longitude":-67.58836,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"R\u00edo Largo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806752
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2d6125e2d5bbf836de97607fb39f00ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1343392937,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1343392937,
+    "wof:lastmodified":1536842685,
+    "wof:name":"Rio Largo",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58836,
+    10.00105,
+    -67.58836,
+    10.00105
+],
+  "geometry": {"coordinates":[-67.58835999999999,10.00105],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310680603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.71413,9.26917,-65.71413,9.26917",
+    "geom:latitude":9.26917,
+    "geom:longitude":-65.71413,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Acapralito",
+    "gn:country_code":"VE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649843,
+    "gn:latitude":9.26917,
+    "gn:longitude":-65.71413,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Acapralito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649843
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"40f63f25fbc75adaaa0fc9a06af5729d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694365,
+            "locality_id":1310680603,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310680603,
+    "wof:lastmodified":1536664373,
+    "wof:name":"Acapralito",
+    "wof:parent_id":1108694365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.71413000000001,
+    9.26917,
+    -65.71413000000001,
+    9.26917
+],
+  "geometry": {"coordinates":[-65.71413000000001,9.26917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259949635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.91023,10.2077,-65.91023,10.2077",
+    "geom:latitude":10.2077,
+    "geom:longitude":-65.91023,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Los Cerros",
+    "gn:country_code":"VE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803534,
+    "gn:latitude":10.2077,
+    "gn:longitude":-65.91023,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Los Cerros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421204299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803534
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"528737ce8b66178b9588196a8181ba00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204299,
+            "locality_id":1259949635,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1259949635,
+    "wof:lastmodified":1536683926,
+    "wof:name":"Los Cerros",
+    "wof:parent_id":421204299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.91023,
+    10.2077,
+    -65.91023,
+    10.2077
+],
+  "geometry": {"coordinates":[-65.91023,10.2077],"type":"Point"}
+}

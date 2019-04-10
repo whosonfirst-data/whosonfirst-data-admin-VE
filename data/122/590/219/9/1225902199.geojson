@@ -1,0 +1,61 @@
+{
+  "id": 1225902199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88064,9.4321,-71.88064,9.4321",
+    "geom:latitude":9.4321,
+    "geom:longitude":-71.88064,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Estrecho",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640895,
+    "gn:latitude":9.4321,
+    "gn:longitude":-71.88064,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Estrecho",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640895
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1c07cfdff22cb0a003086aec66dba7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225902199,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225902199,
+    "wof:lastmodified":1536933227,
+    "wof:name":"Estrecho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88064,
+    9.4321,
+    -71.88064,
+    9.4321
+],
+  "geometry": {"coordinates":[-71.88064,9.4321],"type":"Point"}
+}

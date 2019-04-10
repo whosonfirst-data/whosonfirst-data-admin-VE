@@ -1,0 +1,67 @@
+{
+  "id": 1260061419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.75,9.56667,-62.75,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":-62.75,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Quinteria",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636542,
+    "gn:latitude":9.56667,
+    "gn:longitude":-62.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Quinter\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636542
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8717472981fb21953d31f56780536590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1260061419,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1260061419,
+    "wof:lastmodified":1537019029,
+    "wof:name":"La Quinteria",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.75,
+    9.56667,
+    -62.75,
+    9.56667
+],
+  "geometry": {"coordinates":[-62.75,9.56667],"type":"Point"}
+}

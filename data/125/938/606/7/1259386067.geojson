@@ -1,0 +1,67 @@
+{
+  "id": 1259386067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.88333,1.31667,-64.88333,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":-64.88333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tuchaua Domingos",
+    "gn:country_code":"VE",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625957,
+    "gn:latitude":1.31667,
+    "gn:longitude":-64.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tuchaua Domingos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625957
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"92dd860bf46c501e49bf02cc3b5fb233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1259386067,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1259386067,
+    "wof:lastmodified":1536997751,
+    "wof:name":"Tuchaua Domingos",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.88333,
+    1.31667,
+    -64.88333,
+    1.31667
+],
+  "geometry": {"coordinates":[-64.88333,1.31667],"type":"Point"}
+}

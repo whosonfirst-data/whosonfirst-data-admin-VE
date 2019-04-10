@@ -1,0 +1,67 @@
+{
+  "id": 1276187375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.07579,9.35487,-69.07579,9.35487",
+    "geom:latitude":9.35487,
+    "geom:longitude":-69.07579,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"El Bancal",
+    "gn:country_code":"VE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766470,
+    "gn:latitude":9.35487,
+    "gn:longitude":-69.07579,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"El Bancal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766470
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cc4007045ca5ba93cb7ec62d949fc0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694461,
+            "locality_id":1276187375,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1276187375,
+    "wof:lastmodified":1536974134,
+    "wof:name":"El Bancal",
+    "wof:parent_id":1108694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.07579,
+    9.35487,
+    -69.07579,
+    9.35487
+],
+  "geometry": {"coordinates":[-69.07579,9.35487],"type":"Point"}
+}

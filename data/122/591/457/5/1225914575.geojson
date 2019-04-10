@@ -1,0 +1,71 @@
+{
+  "id": 1225914575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.51196,8.41509,-71.51196,8.41509",
+    "geom:latitude":8.41509,
+    "geom:longitude":-71.51196,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mocochopo",
+    "gn:country_code":"VE",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632146,
+    "gn:latitude":8.41509,
+    "gn:longitude":-71.51196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mocochopo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mocochope",
+        "Mocochopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632146
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a673d490fd9ca3135e3a014070a2c082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694437,
+            "locality_id":1225914575,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1225914575,
+    "wof:lastmodified":1537713538,
+    "wof:name":"Mocochopo",
+    "wof:parent_id":1108694437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.51196,
+    8.41509,
+    -71.51196,
+    8.41509
+],
+  "geometry": {"coordinates":[-71.51196,8.41509],"type":"Point"}
+}

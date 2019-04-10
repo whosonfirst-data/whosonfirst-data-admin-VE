@@ -1,0 +1,61 @@
+{
+  "id": 1209018697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.88282,10.20965,-62.88282,10.20965",
+    "geom:latitude":10.20965,
+    "geom:longitude":-62.88282,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"La Brea",
+    "gn:country_code":"VE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756035,
+    "gn:latitude":10.20965,
+    "gn:longitude":-62.88282,
+    "gn:modification_date":"1996-11-01",
+    "gn:name":"La Brea",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756035
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d935c8a71df694df0daf4d505ebc5f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209018697
+        }
+    ],
+    "wof:id":1209018697,
+    "wof:lastmodified":1536300213,
+    "wof:name":"La Brea",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.88282,
+    10.20965,
+    -62.88282,
+    10.20965
+],
+  "geometry": {"coordinates":[-62.88282,10.20965],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1309712819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58722,6.27889,-67.58722,6.27889",
+    "geom:latitude":6.27889,
+    "geom:longitude":-67.58722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Vincente",
+    "gn:country_code":"VE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3805736,
+    "gn:latitude":6.27889,
+    "gn:longitude":-67.58722,
+    "gn:modification_date":"2002-12-12",
+    "gn:name":"San Vincente",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3805736
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"94323db91cb6e5c47fb41fcdd9d9011a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1309712819,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309712819,
+    "wof:lastmodified":1537062386,
+    "wof:name":"San Vincente",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58722,
+    6.27889,
+    -67.58722,
+    6.27889
+],
+  "geometry": {"coordinates":[-67.58722,6.27889],"type":"Point"}
+}

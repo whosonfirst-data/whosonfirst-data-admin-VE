@@ -1,0 +1,67 @@
+{
+  "id": 1276847959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.81255,11.08025,-68.81255,11.08025",
+    "geom:latitude":11.08025,
+    "geom:longitude":-68.81255,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Piritupano",
+    "gn:country_code":"VE",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3630078,
+    "gn:latitude":11.08025,
+    "gn:longitude":-68.81255,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Piritupano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630078
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b88c8175e912d4d20205cb73ae8eeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694215,
+            "locality_id":1276847959,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1276847959,
+    "wof:lastmodified":1537080760,
+    "wof:name":"Piritupano",
+    "wof:parent_id":1108694215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.81255,
+    11.08025,
+    -68.81255,
+    11.08025
+],
+  "geometry": {"coordinates":[-68.81255,11.08025],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193116631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.31272,9.92517,-67.31272,9.92517",
+    "geom:latitude":9.92517,
+    "geom:longitude":-67.31272,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cumbre",
+    "gn:country_code":"VE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644745,
+    "gn:latitude":9.92517,
+    "gn:longitude":-67.31272,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Cumbre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644745
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cc687eaea51d5bc919e2171277e704b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694381,
+            "locality_id":1193116631,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1193116631,
+    "wof:lastmodified":1536367308,
+    "wof:name":"Cumbre",
+    "wof:parent_id":1108694381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.31272,
+    9.92517,
+    -67.31272,
+    9.92517
+],
+  "geometry": {"coordinates":[-67.31272,9.92517],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209399447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63333,8.33333,-68.63333,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":-68.63333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Santoyero",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626989,
+    "gn:latitude":8.33333,
+    "gn:longitude":-68.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santoyero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626989
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b573ff32ce73516767c1d7ef66016f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209399447
+        }
+    ],
+    "wof:id":1209399447,
+    "wof:lastmodified":1536288194,
+    "wof:name":"Santoyero",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63333,
+    8.33333,
+    -68.63333,
+    8.33333
+],
+  "geometry": {"coordinates":[-68.63333,8.33333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209686891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23659,10.18267,-69.23659,10.18267",
+    "geom:latitude":10.18267,
+    "geom:longitude":-69.23659,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Laguna de Paja",
+    "gn:country_code":"VE",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746917,
+    "gn:latitude":10.18267,
+    "gn:longitude":-69.23659,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Laguna de Paja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746917
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c7373c3f129caef5895034089e237296",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209686891
+        }
+    ],
+    "wof:id":1209686891,
+    "wof:lastmodified":1536279379,
+    "wof:name":"Laguna de Paja",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23659,
+    10.18267,
+    -69.23659,
+    10.18267
+],
+  "geometry": {"coordinates":[-69.23659000000001,10.18267],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259462483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.74417,9.14921,-65.74417,9.14921",
+    "geom:latitude":9.14921,
+    "geom:longitude":-65.74417,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Faltriquera",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3640864,
+    "gn:latitude":9.14921,
+    "gn:longitude":-65.74417,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Faltriquera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640864
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"05eb3afe26867b44738eec2dd72bb002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694365,
+            "locality_id":1259462483,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259462483,
+    "wof:lastmodified":1536888601,
+    "wof:name":"Faltriquera",
+    "wof:parent_id":1108694365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.74417,
+    9.14921,
+    -65.74417,
+    9.14921
+],
+  "geometry": {"coordinates":[-65.74417,9.14921],"type":"Point"}
+}

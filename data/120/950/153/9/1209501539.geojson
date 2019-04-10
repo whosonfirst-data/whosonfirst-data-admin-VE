@@ -1,0 +1,61 @@
+{
+  "id": 1209501539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.55202,10.12852,-63.55202,10.12852",
+    "geom:latitude":10.12852,
+    "geom:longitude":-63.55202,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Las Dos Sabanas",
+    "gn:country_code":"VE",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3772712,
+    "gn:latitude":10.12852,
+    "gn:longitude":-63.55202,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Las Dos Sabanas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3772712
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b5ed5005f34317f8f14184c9652e35e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209501539
+        }
+    ],
+    "wof:id":1209501539,
+    "wof:lastmodified":1536285167,
+    "wof:name":"Las Dos Sabanas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.55202,
+    10.12852,
+    -63.55202,
+    10.12852
+],
+  "geometry": {"coordinates":[-63.55202,10.12852],"type":"Point"}
+}

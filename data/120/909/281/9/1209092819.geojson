@@ -1,0 +1,61 @@
+{
+  "id": 1209092819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.79671,9.01069,-65.79671,9.01069",
+    "geom:latitude":9.01069,
+    "geom:longitude":-65.79671,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Fortuna",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637869,
+    "gn:latitude":9.01069,
+    "gn:longitude":-65.79671,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Fortuna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637869
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"44f1252f9579128fd004f9f317376007",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209092819
+        }
+    ],
+    "wof:id":1209092819,
+    "wof:lastmodified":1536297983,
+    "wof:name":"La Fortuna",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.79671,
+    9.01069,
+    -65.79671,
+    9.01069
+],
+  "geometry": {"coordinates":[-65.79671,9.01069],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276315557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.56072,10.44812,-66.56072,10.44812",
+    "geom:latitude":10.44812,
+    "geom:longitude":-66.56072,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Auyarito",
+    "gn:country_code":"VE",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803379,
+    "gn:latitude":10.44812,
+    "gn:longitude":-66.56072,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Auyarito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803379
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a0504f8847db0e37f4eb27c401ca1aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202063,
+            "locality_id":1276315557,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1276315557,
+    "wof:lastmodified":1536802554,
+    "wof:name":"Auyarito",
+    "wof:parent_id":421202063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.56071999999999,
+    10.44812,
+    -66.56071999999999,
+    10.44812
+],
+  "geometry": {"coordinates":[-66.56071999999999,10.44812],"type":"Point"}
+}

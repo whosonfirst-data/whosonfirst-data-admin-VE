@@ -1,0 +1,67 @@
+{
+  "id": 1226164343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.1538,5.11171,-64.1538,5.11171",
+    "geom:latitude":5.11171,
+    "geom:longitude":-64.1538,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Comunidad Indigena 2",
+    "gn:country_code":"VE",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8581520,
+    "gn:latitude":5.11171,
+    "gn:longitude":-64.1538,
+    "gn:modification_date":"2013-07-15",
+    "gn:name":"Comunidad Indigena 2",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421175383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8581520
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06c266ab0210472f95941be202e5a661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175383,
+            "locality_id":1226164343,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1226164343,
+    "wof:lastmodified":1537048886,
+    "wof:name":"Comunidad Indigena 2",
+    "wof:parent_id":421175383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.1538,
+    5.11171,
+    -64.1538,
+    5.11171
+],
+  "geometry": {"coordinates":[-64.1538,5.11171],"type":"Point"}
+}

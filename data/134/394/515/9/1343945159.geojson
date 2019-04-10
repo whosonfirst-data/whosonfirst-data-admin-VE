@@ -1,0 +1,67 @@
+{
+  "id": 1343945159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72234,11.00709,-70.72234,11.00709",
+    "geom:latitude":11.00709,
+    "geom:longitude":-70.72234,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Jagua",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637503,
+    "gn:latitude":11.00709,
+    "gn:longitude":-70.72234,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637503
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ebe3f5919c42fde0ec0617934d4278fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694165,
+            "locality_id":1343945159,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1343945159,
+    "wof:lastmodified":1537040437,
+    "wof:name":"La Jagua",
+    "wof:parent_id":1108694165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72234,
+    11.00709,
+    -70.72234,
+    11.00709
+],
+  "geometry": {"coordinates":[-70.72234,11.00709],"type":"Point"}
+}

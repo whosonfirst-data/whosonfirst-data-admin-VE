@@ -1,0 +1,67 @@
+{
+  "id": 1293676399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.73792,10.84297,-69.73792,10.84297",
+    "geom:latitude":10.84297,
+    "geom:longitude":-69.73792,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Araica",
+    "gn:country_code":"VE",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3751004,
+    "gn:latitude":10.84297,
+    "gn:longitude":-69.73792,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"Araica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751004
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5b3961477d5b07c5a8332498ba37441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694189,
+            "locality_id":1293676399,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1293676399,
+    "wof:lastmodified":1537011287,
+    "wof:name":"Araica",
+    "wof:parent_id":1108694189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.73791999999999,
+    10.84297,
+    -69.73791999999999,
+    10.84297
+],
+  "geometry": {"coordinates":[-69.73791999999999,10.84297],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226440751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36667,8.25,-70.36667,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":-70.36667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"La Ventura",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634954,
+    "gn:latitude":8.25,
+    "gn:longitude":-70.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Ventura",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ventura",
+        "La Ventura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634954
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"00f84d60b542295df70ec2e7e6d85236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694343,
+            "locality_id":1226440751,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1226440751,
+    "wof:lastmodified":1537713554,
+    "wof:name":"La Ventura",
+    "wof:parent_id":1108694343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36667,
+    8.25,
+    -70.36667,
+    8.25
+],
+  "geometry": {"coordinates":[-70.36667,8.25],"type":"Point"}
+}

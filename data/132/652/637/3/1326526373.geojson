@@ -1,0 +1,67 @@
+{
+  "id": 1326526373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4086,9.81392,-68.4086,9.81392",
+    "geom:latitude":9.81392,
+    "geom:longitude":-68.4086,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Monagas",
+    "gn:country_code":"VE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632103,
+    "gn:latitude":9.81392,
+    "gn:longitude":-68.4086,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Monagas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632103
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"105bf5cb10b579e344053e1d528b4dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694265,
+            "locality_id":1326526373,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1326526373,
+    "wof:lastmodified":1536991741,
+    "wof:name":"Monagas",
+    "wof:parent_id":1108694265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.4086,
+    9.81392,
+    -68.4086,
+    9.81392
+],
+  "geometry": {"coordinates":[-68.40860000000001,9.81392],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326585767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92552,10.45075,-71.92552,10.45075",
+    "geom:latitude":10.45075,
+    "geom:longitude":-71.92552,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Cruces",
+    "gn:country_code":"VE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644931,
+    "gn:latitude":10.45075,
+    "gn:longitude":-71.92552,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Crucer",
+        "El Crucero",
+        "El Cruce",
+        "Cruces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644931
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b8ebce592fe3498ecbe5b662ff08b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694233,
+            "locality_id":1326585767,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1326585767,
+    "wof:lastmodified":1537713615,
+    "wof:name":"Cruces",
+    "wof:parent_id":1108694233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92551999999998,
+    10.45075,
+    -71.92551999999998,
+    10.45075
+],
+  "geometry": {"coordinates":[-71.92551999999998,10.45075],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327389913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.70682,10.66769,-71.70682,10.66769",
+    "geom:latitude":10.66769,
+    "geom:longitude":-71.70682,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Hato Viejo",
+    "gn:country_code":"VE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639576,
+    "gn:latitude":10.66769,
+    "gn:longitude":-71.70682,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hato Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hato Grande",
+        "Hato Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421172589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639576
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"414b5b80fddfe86bb184b8bb635f264a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172589,
+            "locality_id":1327389913,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1327389913,
+    "wof:lastmodified":1537713582,
+    "wof:name":"Hato Viejo",
+    "wof:parent_id":421172589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.70682,
+    10.66769,
+    -71.70682,
+    10.66769
+],
+  "geometry": {"coordinates":[-71.70681999999999,10.66769],"type":"Point"}
+}

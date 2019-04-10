@@ -1,0 +1,67 @@
+{
+  "id": 1293879383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.96325,9.93749,-67.96325,9.93749",
+    "geom:latitude":9.93749,
+    "geom:longitude":-67.96325,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"La Chivera",
+    "gn:country_code":"VE",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638462,
+    "gn:latitude":9.93749,
+    "gn:longitude":-67.96325,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"La Chivera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421202373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638462
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6e2d40eb2988ed908ce8a1a24e33e66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202373,
+            "locality_id":1293879383,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1293879383,
+    "wof:lastmodified":1536719663,
+    "wof:name":"La Chivera",
+    "wof:parent_id":421202373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.96325,
+    9.93749,
+    -67.96325,
+    9.93749
+],
+  "geometry": {"coordinates":[-67.96325,9.93749],"type":"Point"}
+}

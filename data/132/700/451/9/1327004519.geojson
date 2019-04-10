@@ -1,0 +1,61 @@
+{
+  "id": 1327004519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.67632,10.48965,-63.67632,10.48965",
+    "geom:latitude":10.48965,
+    "geom:longitude":-63.67632,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Chiguana",
+    "gn:country_code":"VE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749435,
+    "gn:latitude":10.48965,
+    "gn:longitude":-63.67632,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Chiguana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749435
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ac4fa4cb2dfe0b02ed39277f83cdd87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327004519,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327004519,
+    "wof:lastmodified":1536800842,
+    "wof:name":"Chiguana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.67632,
+    10.48965,
+    -63.67632,
+    10.48965
+],
+  "geometry": {"coordinates":[-63.67632,10.48965],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327214105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18692,10.92305,-71.18692,10.92305",
+    "geom:latitude":10.92305,
+    "geom:longitude":-71.18692,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Felix",
+    "gn:country_code":"VE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628408,
+    "gn:latitude":10.92305,
+    "gn:longitude":-71.18692,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"San F\u00e9lix",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628408
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7ca59f73c3bfc6047ab08dfef9f07d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1327214105,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1327214105,
+    "wof:lastmodified":1536995293,
+    "wof:name":"San Felix",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18692,
+    10.92305,
+    -71.18692,
+    10.92305
+],
+  "geometry": {"coordinates":[-71.18692,10.92305],"type":"Point"}
+}

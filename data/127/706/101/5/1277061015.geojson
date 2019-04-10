@@ -1,0 +1,67 @@
+{
+  "id": 1277061015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.60733,9.92061,-68.60733,9.92061",
+    "geom:latitude":9.92061,
+    "geom:longitude":-68.60733,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Las Guafas",
+    "gn:country_code":"VE",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799869,
+    "gn:latitude":9.92061,
+    "gn:longitude":-68.60733,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Las Guafas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799869
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"80123ad7d1b8d75c525c8c589fc37bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1277061015,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1277061015,
+    "wof:lastmodified":1536798277,
+    "wof:name":"Las Guafas",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.60733,
+    9.92061,
+    -68.60733,
+    9.92061
+],
+  "geometry": {"coordinates":[-68.60733,9.92061],"type":"Point"}
+}

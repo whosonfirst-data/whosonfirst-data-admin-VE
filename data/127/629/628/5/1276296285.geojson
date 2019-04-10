@@ -1,0 +1,67 @@
+{
+  "id": 1276296285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01024,8.12589,-72.01024,8.12589",
+    "geom:latitude":8.12589,
+    "geom:longitude":-72.01024,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Pinal",
+    "gn:country_code":"VE",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757267,
+    "gn:latitude":8.12589,
+    "gn:longitude":-72.01024,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"El Pi\u00f1al",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757267
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"28734c23c5e814bf95babc73ef0e1997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202067,
+            "locality_id":1276296285,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276296285,
+    "wof:lastmodified":1536827486,
+    "wof:name":"El Pinal",
+    "wof:parent_id":421202067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01024,
+    8.12589,
+    -72.01024,
+    8.12589
+],
+  "geometry": {"coordinates":[-72.01024,8.12589],"type":"Point"}
+}

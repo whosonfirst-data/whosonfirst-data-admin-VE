@@ -1,0 +1,67 @@
+{
+  "id": 1277157491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.38333,11.45,-69.38333,11.45",
+    "geom:latitude":11.45,
+    "geom:longitude":-69.38333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hato de Mujica",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639636,
+    "gn:latitude":11.45,
+    "gn:longitude":-69.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Hato de Mujica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639636
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1a9b8b2ab50bd76168d19e3ae57a6761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1277157491,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1277157491,
+    "wof:lastmodified":1536660019,
+    "wof:name":"Hato de Mujica",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.38333,
+    11.45,
+    -69.38333,
+    11.45
+],
+  "geometry": {"coordinates":[-69.38333,11.45],"type":"Point"}
+}

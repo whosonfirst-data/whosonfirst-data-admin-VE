@@ -1,0 +1,67 @@
+{
+  "id": 1327205657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.45454,9.88126,-63.45454,9.88126",
+    "geom:latitude":9.88126,
+    "geom:longitude":-63.45454,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Orejana",
+    "gn:country_code":"VE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636974,
+    "gn:latitude":9.88126,
+    "gn:longitude":-63.45454,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Orejana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636974
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8460baa7b886d2d6963e9b30b54aad42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694351,
+            "locality_id":1327205657,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1327205657,
+    "wof:lastmodified":1537007618,
+    "wof:name":"La Orejana",
+    "wof:parent_id":1108694351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.45454,
+    9.88126,
+    -63.45454,
+    9.88126
+],
+  "geometry": {"coordinates":[-63.45454,9.88126],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326786937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97854,9.55332,-70.97854,9.55332",
+    "geom:latitude":9.55332,
+    "geom:longitude":-70.97854,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Las Cuatro Bocas",
+    "gn:country_code":"VE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636078,
+    "gn:latitude":9.55332,
+    "gn:longitude":-70.97854,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Las Cuatro Bocas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636078
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4c952a38b4e32c9e1c3d153f6be1ef21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694235,
+            "locality_id":1326786937,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1326786937,
+    "wof:lastmodified":1536614665,
+    "wof:name":"Las Cuatro Bocas",
+    "wof:parent_id":1108694235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97854,
+    9.55332,
+    -70.97854,
+    9.55332
+],
+  "geometry": {"coordinates":[-70.97854,9.55332],"type":"Point"}
+}

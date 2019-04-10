@@ -1,0 +1,67 @@
+{
+  "id": 1293596837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.69711,8.16098,-63.69711,8.16098",
+    "geom:latitude":8.16098,
+    "geom:longitude":-63.69711,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Mochilas",
+    "gn:country_code":"VE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635662,
+    "gn:latitude":8.16098,
+    "gn:longitude":-63.69711,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Las Mochilas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635662
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c5a6c19cbd35d61cab59610a19e2f944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1293596837,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1293596837,
+    "wof:lastmodified":1536627651,
+    "wof:name":"Las Mochilas",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.69711,
+    8.16098,
+    -63.69711,
+    8.16098
+],
+  "geometry": {"coordinates":[-63.69711,8.16098],"type":"Point"}
+}

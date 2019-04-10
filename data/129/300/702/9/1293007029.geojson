@@ -1,0 +1,70 @@
+{
+  "id": 1293007029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55236,6.98402,-68.55236,6.98402",
+    "geom:latitude":6.98402,
+    "geom:longitude":-68.55236,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cano Amarillo",
+    "gn:country_code":"VE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647009,
+    "gn:latitude":6.98402,
+    "gn:longitude":-68.55236,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ca\u00f1o Amarillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1o Amarillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647009
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3e868b3c63db2b356d7dbd36ff3e2c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171651,
+            "locality_id":1293007029,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293007029,
+    "wof:lastmodified":1537713624,
+    "wof:name":"Cano Amarillo",
+    "wof:parent_id":421171651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55236,
+    6.98402,
+    -68.55236,
+    6.98402
+],
+  "geometry": {"coordinates":[-68.55235999999999,6.98402],"type":"Point"}
+}

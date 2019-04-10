@@ -1,0 +1,72 @@
+{
+  "id": 1326723163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.1,8.36667,-68.1,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-68.1,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Barbascal",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648570,
+    "gn:latitude":8.36667,
+    "gn:longitude":-68.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barbascal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barbacal",
+        "Barbascal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648570
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3e238328da876fd449667026222c4140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1326723163,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1326723163,
+    "wof:lastmodified":1537713630,
+    "wof:name":"Barbascal",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.1,
+    8.36667,
+    -68.1,
+    8.36667
+],
+  "geometry": {"coordinates":[-68.09999999999999,8.36667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209473221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41139,10.52018,-68.41139,10.52018",
+    "geom:latitude":10.52018,
+    "geom:longitude":-68.41139,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"La Hoya",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637562,
+    "gn:latitude":10.52018,
+    "gn:longitude":-68.41139,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"La Hoya",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637562
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c49f8f6d1f73c1cb94e9f3956611da2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209473221
+        }
+    ],
+    "wof:id":1209473221,
+    "wof:lastmodified":1536286016,
+    "wof:name":"La Hoya",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41139,
+    10.52018,
+    -68.41139,
+    10.52018
+],
+  "geometry": {"coordinates":[-68.41139,10.52018],"type":"Point"}
+}

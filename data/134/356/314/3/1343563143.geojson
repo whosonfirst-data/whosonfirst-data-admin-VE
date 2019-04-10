@@ -1,0 +1,72 @@
+{
+  "id": 1343563143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2,9.9,-65.2,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":-65.2,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Boca de Guaibe",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648206,
+    "gn:latitude":9.9,
+    "gn:longitude":-65.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boca de Guaibe",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca Guaribe",
+        "Boca de Guaibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648206
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c26483dfa1fc7e3a72d91ece3a0f4e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1343563143,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343563143,
+    "wof:lastmodified":1537713628,
+    "wof:name":"Boca de Guaibe",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.2,
+    9.9,
+    -65.2,
+    9.9
+],
+  "geometry": {"coordinates":[-65.2,9.9],"type":"Point"}
+}

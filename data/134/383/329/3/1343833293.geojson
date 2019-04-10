@@ -1,0 +1,70 @@
+{
+  "id": 1343833293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6797,8.54082,-68.6797,8.54082",
+    "geom:latitude":8.54082,
+    "geom:longitude":-68.6797,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Boca de Charco Azul",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797856,
+    "gn:latitude":8.54082,
+    "gn:longitude":-68.6797,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boca de Charco Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de Charco Azul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797856
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fef1ad6f1042a38a8825dbec2238e1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694203,
+            "locality_id":1343833293,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1343833293,
+    "wof:lastmodified":1537713640,
+    "wof:name":"Boca de Charco Azul",
+    "wof:parent_id":1108694203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6797,
+    8.54082,
+    -68.6797,
+    8.54082
+],
+  "geometry": {"coordinates":[-68.6797,8.54082],"type":"Point"}
+}

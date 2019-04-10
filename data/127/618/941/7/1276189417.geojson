@@ -1,0 +1,71 @@
+{
+  "id": 1276189417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25092,8.23091,-72.25092,8.23091",
+    "geom:latitude":8.23091,
+    "geom:longitude":-72.25092,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kilometro Ciento Tres",
+    "gn:country_code":"VE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757171,
+    "gn:latitude":8.23091,
+    "gn:longitude":-72.25092,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kil\u00f3metro Ciento Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 103",
+        "Kil\u00f3metro Ciento Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757171
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1a296d4176e510240fe668582dd9ee5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694197,
+            "locality_id":1276189417,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1276189417,
+    "wof:lastmodified":1537713637,
+    "wof:name":"Kilometro Ciento Tres",
+    "wof:parent_id":1108694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25092,
+    8.23091,
+    -72.25092,
+    8.23091
+],
+  "geometry": {"coordinates":[-72.25091999999999,8.23091],"type":"Point"}
+}

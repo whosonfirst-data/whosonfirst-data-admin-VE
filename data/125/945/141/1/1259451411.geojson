@@ -1,0 +1,67 @@
+{
+  "id": 1259451411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.45,10.51667,-71.45,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":-71.45,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"San Bartolo",
+    "gn:country_code":"VE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628533,
+    "gn:latitude":10.51667,
+    "gn:longitude":-71.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Bartolo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628533
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"50e8b9e6357dfe35b2368a5ba54993e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694415,
+            "locality_id":1259451411,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1259451411,
+    "wof:lastmodified":1536905170,
+    "wof:name":"San Bartolo",
+    "wof:parent_id":1108694415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.45,
+    10.51667,
+    -71.45,
+    10.51667
+],
+  "geometry": {"coordinates":[-71.45,10.51667],"type":"Point"}
+}

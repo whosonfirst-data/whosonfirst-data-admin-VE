@@ -1,0 +1,67 @@
+{
+  "id": 1327218401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.07135,9.23107,-68.07135,9.23107",
+    "geom:latitude":9.23107,
+    "geom:longitude":-68.07135,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Rabanes",
+    "gn:country_code":"VE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629330,
+    "gn:latitude":9.23107,
+    "gn:longitude":-68.07135,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Rabanes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629330
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"76df388d881af842d80bbace8772741a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1327218401,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1327218401,
+    "wof:lastmodified":1536989041,
+    "wof:name":"Rabanes",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.07135,
+    9.23107,
+    -68.07135,
+    9.23107
+],
+  "geometry": {"coordinates":[-68.07135,9.23107],"type":"Point"}
+}

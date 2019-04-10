@@ -1,0 +1,67 @@
+{
+  "id": 1276448983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.83087,7.21139,-67.83087,7.21139",
+    "geom:latitude":7.21139,
+    "geom:longitude":-67.83087,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Los Galapagos",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634152,
+    "gn:latitude":7.21139,
+    "gn:longitude":-67.83087,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Los Gal\u00e1pagos",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634152
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c1fb8d18537b34b95a87323afdbfb290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1276448983,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276448983,
+    "wof:lastmodified":1536621562,
+    "wof:name":"Los Galapagos",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.83086999999999,
+    7.21139,
+    -67.83086999999999,
+    7.21139
+],
+  "geometry": {"coordinates":[-67.83086999999999,7.21139],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293454651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.06849,10.58329,-64.06849,10.58329",
+    "geom:latitude":10.58329,
+    "geom:longitude":-64.06849,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Laguna Chica",
+    "gn:country_code":"VE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310253,
+    "gn:latitude":10.58329,
+    "gn:longitude":-64.06849,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Laguna Chica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Laguna Chica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        421172601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310253
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"331f21854144962f5f6e210d77ccaf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172601,
+            "locality_id":1293454651,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293454651,
+    "wof:lastmodified":1537713652,
+    "wof:name":"Laguna Chica",
+    "wof:parent_id":421172601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.06849,
+    10.58329,
+    -64.06849,
+    10.58329
+],
+  "geometry": {"coordinates":[-64.06849,10.58329],"type":"Point"}
+}

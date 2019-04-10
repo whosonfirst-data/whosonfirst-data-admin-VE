@@ -1,0 +1,67 @@
+{
+  "id": 1243038983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.97719,9.96183,-68.97719,9.96183",
+    "geom:latitude":9.96183,
+    "geom:longitude":-68.97719,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Manzanita",
+    "gn:country_code":"VE",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637246,
+    "gn:latitude":9.96183,
+    "gn:longitude":-68.97719,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"La Manzanita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637246
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1833d25baea9c108d20b462ba5a03523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694427,
+            "locality_id":1243038983,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243038983,
+    "wof:lastmodified":1536895843,
+    "wof:name":"La Manzanita",
+    "wof:parent_id":1108694427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.97719000000001,
+    9.96183,
+    -68.97719000000001,
+    9.96183
+],
+  "geometry": {"coordinates":[-68.97719000000001,9.96183],"type":"Point"}
+}

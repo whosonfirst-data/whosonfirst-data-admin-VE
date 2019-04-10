@@ -1,0 +1,65 @@
+{
+  "id": 1309806955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46444,6.1275,-67.46444,6.1275",
+    "geom:latitude":6.1275,
+    "geom:longitude":-67.46444,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jalisco",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765981,
+    "gn:latitude":6.1275,
+    "gn:longitude":-67.46444,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Jalisco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765981
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b461d1505638683a1efa326496ccae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "locality_id":1309806955,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1309806955,
+    "wof:lastmodified":1536930069,
+    "wof:name":"Jalisco",
+    "wof:parent_id":85680511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46444,
+    6.1275,
+    -67.46444,
+    6.1275
+],
+  "geometry": {"coordinates":[-67.46444,6.1275],"type":"Point"}
+}

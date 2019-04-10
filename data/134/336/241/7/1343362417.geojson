@@ -1,0 +1,68 @@
+{
+  "id": 1343362417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.00472,3.9425,-67.00472,3.9425",
+    "geom:latitude":3.9425,
+    "geom:longitude":-67.00472,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"202.0",
+    "gn:asciiname":"Macuruco",
+    "gn:country_code":"VE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763843,
+    "gn:latitude":3.9425,
+    "gn:longitude":-67.00472,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Macuruco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763843
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c382e2371e94267d3821cfee5662664f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694487,
+            "locality_id":1343362417,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1343362417,
+    "wof:lastmodified":1536887192,
+    "wof:name":"Macuruco",
+    "wof:parent_id":1108694487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.00471999999999,
+    3.9425,
+    -67.00471999999999,
+    3.9425
+],
+  "geometry": {"coordinates":[-67.00471999999999,3.9425],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343934313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.53135,9.78495,-67.53135,9.78495",
+    "geom:latitude":9.78495,
+    "geom:longitude":-67.53135,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Guayabo",
+    "gn:country_code":"VE",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643061,
+    "gn:latitude":9.78495,
+    "gn:longitude":-67.53135,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"El Guayabo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643061
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ea4ba99ed07b543f690913b505f8990e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694381,
+            "locality_id":1343934313,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343934313,
+    "wof:lastmodified":1537055399,
+    "wof:name":"El Guayabo",
+    "wof:parent_id":1108694381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.53135,
+    9.78495,
+    -67.53135,
+    9.78495
+],
+  "geometry": {"coordinates":[-67.53135,9.78495],"type":"Point"}
+}

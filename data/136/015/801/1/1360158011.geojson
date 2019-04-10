@@ -1,0 +1,67 @@
+{
+  "id": 1360158011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44843,8.75315,-71.44843,8.75315",
+    "geom:latitude":8.75315,
+    "geom:longitude":-71.44843,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Viso",
+    "gn:country_code":"VE",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641087,
+    "gn:latitude":8.75315,
+    "gn:longitude":-71.44843,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Viso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421186159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641087
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ddf7bfde58d18d35003f63faefa4a407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186159,
+            "locality_id":1360158011,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1360158011,
+    "wof:lastmodified":1536839543,
+    "wof:name":"El Viso",
+    "wof:parent_id":421186159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44843,
+    8.75315,
+    -71.44843,
+    8.75315
+],
+  "geometry": {"coordinates":[-71.44843,8.75315],"type":"Point"}
+}

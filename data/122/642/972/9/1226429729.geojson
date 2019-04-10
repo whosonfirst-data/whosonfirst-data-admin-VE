@@ -1,0 +1,67 @@
+{
+  "id": 1226429729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.42052,11.39314,-69.42052,11.39314",
+    "geom:latitude":11.39314,
+    "geom:longitude":-69.42052,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"La Muralla",
+    "gn:country_code":"VE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3784096,
+    "gn:latitude":11.39314,
+    "gn:longitude":-69.42052,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"La Muralla",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784096
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"af095e3a636abf431456a90dd2dcdf0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180897,
+            "locality_id":1226429729,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226429729,
+    "wof:lastmodified":1536668592,
+    "wof:name":"La Muralla",
+    "wof:parent_id":421180897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.42052,
+    11.39314,
+    -69.42052,
+    11.39314
+],
+  "geometry": {"coordinates":[-69.42052,11.39314],"type":"Point"}
+}

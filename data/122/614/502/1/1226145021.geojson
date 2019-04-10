@@ -1,0 +1,67 @@
+{
+  "id": 1226145021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87329,9.91298,-64.87329,9.91298",
+    "geom:latitude":9.91298,
+    "geom:longitude":-64.87329,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Juncialito",
+    "gn:country_code":"VE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3639065,
+    "gn:latitude":9.91298,
+    "gn:longitude":-64.87329,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Juncialito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3639065
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"186966177a7a03042c381568520ffb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1226145021,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226145021,
+    "wof:lastmodified":1537075649,
+    "wof:name":"Juncialito",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87329,
+    9.91298,
+    -64.87329,
+    9.91298
+],
+  "geometry": {"coordinates":[-64.87329,9.91298],"type":"Point"}
+}

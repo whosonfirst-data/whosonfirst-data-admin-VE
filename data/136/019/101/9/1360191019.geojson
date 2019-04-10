@@ -1,0 +1,67 @@
+{
+  "id": 1360191019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74872,7.23201,-70.74872,7.23201",
+    "geom:latitude":7.23201,
+    "geom:longitude":-70.74872,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Arenosa",
+    "gn:country_code":"VE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3738992,
+    "gn:latitude":7.23201,
+    "gn:longitude":-70.74872,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Arenosa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738992
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"46006477aee71feb813504aaa86e1510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1360191019,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1360191019,
+    "wof:lastmodified":1536793086,
+    "wof:name":"La Arenosa",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74871999999998,
+    7.23201,
+    -70.74871999999998,
+    7.23201
+],
+  "geometry": {"coordinates":[-70.74871999999998,7.23201],"type":"Point"}
+}

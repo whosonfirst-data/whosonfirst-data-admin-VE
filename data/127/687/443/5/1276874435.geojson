@@ -1,0 +1,67 @@
+{
+  "id": 1276874435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.47471,10.10416,-64.47471,10.10416",
+    "geom:latitude":10.10416,
+    "geom:longitude":-64.47471,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Levy",
+    "gn:country_code":"VE",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3485207,
+    "gn:latitude":10.10416,
+    "gn:longitude":-64.47471,
+    "gn:modification_date":"2011-10-08",
+    "gn:name":"Levy",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485207
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0abb4e91798c0ab53473e1aef15b95b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1276874435,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276874435,
+    "wof:lastmodified":1537046489,
+    "wof:name":"Levy",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.47471,
+    10.10416,
+    -64.47471,
+    10.10416
+],
+  "geometry": {"coordinates":[-64.47471,10.10416],"type":"Point"}
+}

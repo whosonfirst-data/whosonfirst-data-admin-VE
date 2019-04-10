@@ -1,0 +1,73 @@
+{
+  "id": 1327237843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.73333,7.51667,-67.73333,7.51667",
+    "geom:latitude":7.51667,
+    "geom:longitude":-67.73333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Palmar Candelaria",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631057,
+    "gn:latitude":7.51667,
+    "gn:longitude":-67.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palmar Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmar de Candelaria",
+        "Palmar de La Candelaria",
+        "Palmar Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631057
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"90a71f9d16e692d2e81f883631bd34e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1327237843,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1327237843,
+    "wof:lastmodified":1537713533,
+    "wof:name":"Palmar Candelaria",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.73333000000001,
+    7.51667,
+    -67.73333000000001,
+    7.51667
+],
+  "geometry": {"coordinates":[-67.73333000000001,7.51667],"type":"Point"}
+}

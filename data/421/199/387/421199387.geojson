@@ -1,0 +1,76 @@
+{
+  "id": 421199387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06489,10.94726,-71.06489,10.94726",
+    "geom:latitude":10.94726,
+    "geom:longitude":-71.06489,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3628372,
+    "qs:gn_pop":0,
+    "qs:name":"San Francisco",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":162,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":162,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475414,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":393498,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628372,
+        "gp:id":393498,
+        "qs:id":475414
+    },
+    "wof:country":"VE",
+    "wof:created":1459009987,
+    "wof:geomhash":"9ba333208b48a5e06eae7b726c72c2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":421199387,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":421199387,
+    "wof:lastmodified":1500033975,
+    "wof:name":"San Francisco",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06489,
+    10.94726,
+    -71.06489,
+    10.94726
+],
+  "geometry": {"coordinates":[-71.06489000000001,10.94726],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327389905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.37347,9.82541,-72.37347,9.82541",
+    "geom:latitude":9.82541,
+    "geom:longitude":-72.37347,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"El Chapinero",
+    "gn:country_code":"VE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3788634,
+    "gn:latitude":9.82541,
+    "gn:longitude":-72.37347,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"El Chapinero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788634
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"85e8b1ec0971c7ea9bb59bddc6940ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1327389905,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1327389905,
+    "wof:lastmodified":1536742031,
+    "wof:name":"El Chapinero",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.37347,
+    9.82541,
+    -72.37347,
+    9.82541
+],
+  "geometry": {"coordinates":[-72.37347,9.82541],"type":"Point"}
+}

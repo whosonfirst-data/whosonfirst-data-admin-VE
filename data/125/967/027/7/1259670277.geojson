@@ -1,0 +1,67 @@
+{
+  "id": 1259670277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.45472,8.92944,-67.45472,8.92944",
+    "geom:latitude":8.92944,
+    "geom:longitude":-67.45472,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Carrasquelero",
+    "gn:country_code":"VE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646472,
+    "gn:latitude":8.92944,
+    "gn:longitude":-67.45472,
+    "gn:modification_date":"1999-03-04",
+    "gn:name":"Carrasquelero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646472
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5e5c8d1917b5937f15876799cc7d63e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1259670277,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259670277,
+    "wof:lastmodified":1537082905,
+    "wof:name":"Carrasquelero",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.45472,
+    8.92944,
+    -67.45472,
+    8.92944
+],
+  "geometry": {"coordinates":[-67.45471999999999,8.92944],"type":"Point"}
+}

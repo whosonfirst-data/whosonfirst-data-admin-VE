@@ -1,0 +1,67 @@
+{
+  "id": 1327497109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.87294,10.01775,-63.87294,10.01775",
+    "geom:latitude":10.01775,
+    "geom:longitude":-63.87294,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Alto Amundarai",
+    "gn:country_code":"VE",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777560,
+    "gn:latitude":10.01775,
+    "gn:longitude":-63.87294,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Alto Amundarai",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777560
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b1026cb78a4b7a0caefb767a0400eafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1327497109,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1327497109,
+    "wof:lastmodified":1537082043,
+    "wof:name":"Alto Amundarai",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.87294,
+    10.01775,
+    -63.87294,
+    10.01775
+],
+  "geometry": {"coordinates":[-63.87294,10.01775],"type":"Point"}
+}

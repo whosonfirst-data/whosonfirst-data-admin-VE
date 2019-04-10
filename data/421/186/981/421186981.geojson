@@ -1,0 +1,98 @@
+{
+  "id": 421186981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.844772,11.086039,-71.844772,11.086039",
+    "geom:latitude":11.086039,
+    "geom:longitude":-71.844772,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u932b\u7d0d\u9081\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Sinamaica"
+    ],
+    "name:fra_x_preferred":[
+        "Sinamaica"
+    ],
+    "name:fre_x_preferred":[
+        "Sinamaica"
+    ],
+    "name:por_x_preferred":[
+        "Sinamaica"
+    ],
+    "name:spa_x_preferred":[
+        "Sinamaica"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u7d0d\u9081\u5361"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sinamaica",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Zulia",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077573,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468674,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421201567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468674,
+        "qs:id":1077573,
+        "wd:id":"Q3880178"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009498,
+    "wof:geomhash":"3dd774f5534449adf3484feef1dc7011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421201567,
+            "locality_id":421186981,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":421186981,
+    "wof:lastmodified":1527716320,
+    "wof:name":"Sinamaica",
+    "wof:parent_id":421201567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.844772,
+    11.086039,
+    -71.844772,
+    11.086039
+],
+  "geometry": {"coordinates":[-71.84477200000001,11.086039],"type":"Point"}
+}

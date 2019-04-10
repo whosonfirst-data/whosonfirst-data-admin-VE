@@ -1,0 +1,67 @@
+{
+  "id": 1193123749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28425,9.29566,-65.28425,9.29566",
+    "geom:latitude":9.29566,
+    "geom:longitude":-65.28425,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Loma Triste",
+    "gn:country_code":"VE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634663,
+    "gn:latitude":9.29566,
+    "gn:longitude":-65.28425,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"Loma Triste",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634663
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ef82f635a5bd460c797d551a8935bacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1193123749,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1193123749,
+    "wof:lastmodified":1536383177,
+    "wof:name":"Loma Triste",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28425,
+    9.29566,
+    -65.28425,
+    9.29566
+],
+  "geometry": {"coordinates":[-65.28425,9.29566],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326711751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.82432,8.91067,-62.82432,8.91067",
+    "geom:latitude":8.91067,
+    "geom:longitude":-62.82432,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Agua Clarita",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777534,
+    "gn:latitude":8.91067,
+    "gn:longitude":-62.82432,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Agua Clarita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777534
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2e967f75cbc8b7cb38e51bf23a35e10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1326711751,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1326711751,
+    "wof:lastmodified":1536725679,
+    "wof:name":"Agua Clarita",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.82431999999999,
+    8.91067,
+    -62.82431999999999,
+    8.91067
+],
+  "geometry": {"coordinates":[-62.82431999999999,8.91067],"type":"Point"}
+}

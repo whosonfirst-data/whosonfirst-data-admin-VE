@@ -1,0 +1,67 @@
+{
+  "id": 1293654149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.29965,10.51863,-63.29965,10.51863",
+    "geom:latitude":10.51863,
+    "geom:longitude":-63.29965,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"La Chara",
+    "gn:country_code":"VE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795862,
+    "gn:latitude":10.51863,
+    "gn:longitude":-63.29965,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"La Chara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795862
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"35ca8647042a2bf542ea99e9014922e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694077,
+            "locality_id":1293654149,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1293654149,
+    "wof:lastmodified":1537042363,
+    "wof:name":"La Chara",
+    "wof:parent_id":1108694077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.29965,
+    10.51863,
+    -63.29965,
+    10.51863
+],
+  "geometry": {"coordinates":[-63.29965,10.51863],"type":"Point"}
+}

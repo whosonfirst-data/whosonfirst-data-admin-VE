@@ -1,0 +1,61 @@
+{
+  "id": 1209385381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71944,8.61722,-71.71944,8.61722",
+    "geom:latitude":8.61722,
+    "geom:longitude":-71.71944,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"El Nueve Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797333,
+    "gn:latitude":8.61722,
+    "gn:longitude":-71.71944,
+    "gn:modification_date":"2002-10-11",
+    "gn:name":"El Nueve Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797333
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4491208084c47b060bfb259c9cd780be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209385381
+        }
+    ],
+    "wof:id":1209385381,
+    "wof:lastmodified":1536288643,
+    "wof:name":"El Nueve Abajo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71944,
+    8.61722,
+    -71.71944,
+    8.61722
+],
+  "geometry": {"coordinates":[-71.71944000000001,8.61722],"type":"Point"}
+}

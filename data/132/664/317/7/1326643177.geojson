@@ -1,0 +1,67 @@
+{
+  "id": 1326643177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.6,1.86667,-66.6,1.86667",
+    "geom:latitude":1.86667,
+    "geom:longitude":-66.6,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"El Peligro",
+    "gn:country_code":"VE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642134,
+    "gn:latitude":1.86667,
+    "gn:longitude":-66.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Peligro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642134
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7b31280e6efe9c46bf6fd32e67b01e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1326643177,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1326643177,
+    "wof:lastmodified":1536823082,
+    "wof:name":"El Peligro",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.6,
+    1.86667,
+    -66.6,
+    1.86667
+],
+  "geometry": {"coordinates":[-66.59999999999999,1.86667],"type":"Point"}
+}

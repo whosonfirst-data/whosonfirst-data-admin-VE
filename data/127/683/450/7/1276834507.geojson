@@ -1,0 +1,67 @@
+{
+  "id": 1276834507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96389,10.38889,-63.96389,10.38889",
+    "geom:latitude":10.38889,
+    "geom:longitude":-63.96389,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Barrio",
+    "gn:country_code":"VE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749281,
+    "gn:latitude":10.38889,
+    "gn:longitude":-63.96389,
+    "gn:modification_date":"1996-07-17",
+    "gn:name":"El Barrio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        421195503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749281
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c9e9fdaed88faa079475585abd742b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421195503,
+            "locality_id":1276834507,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276834507,
+    "wof:lastmodified":1536601294,
+    "wof:name":"El Barrio",
+    "wof:parent_id":421195503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96389,
+    10.38889,
+    -63.96389,
+    10.38889
+],
+  "geometry": {"coordinates":[-63.96389,10.38889],"type":"Point"}
+}

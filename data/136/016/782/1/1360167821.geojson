@@ -1,0 +1,67 @@
+{
+  "id": 1360167821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.70056,8.62667,-71.70056,8.62667",
+    "geom:latitude":8.62667,
+    "geom:longitude":-71.70056,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Onia Chiquito",
+    "gn:country_code":"VE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3797339,
+    "gn:latitude":8.62667,
+    "gn:longitude":-71.70056,
+    "gn:modification_date":"2002-10-11",
+    "gn:name":"Onia Chiquito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797339
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fef72bbb052201c6ba1e3641dd0db5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1360167821,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1360167821,
+    "wof:lastmodified":1536825389,
+    "wof:name":"Onia Chiquito",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.70056,
+    8.62667,
+    -71.70056,
+    8.62667
+],
+  "geometry": {"coordinates":[-71.70056,8.62667],"type":"Point"}
+}

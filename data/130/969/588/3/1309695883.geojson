@@ -1,0 +1,72 @@
+{
+  "id": 1309695883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03333,10.1,-70.03333,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-70.03333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Trasandino",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626026,
+    "gn:latitude":10.1,
+    "gn:longitude":-70.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trasandino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Transandino",
+        "Trasandino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626026
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"37c6d6fdc502f560ad5f4584ef6835ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1309695883,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1309695883,
+    "wof:lastmodified":1537713510,
+    "wof:name":"Trasandino",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03333,
+    10.1,
+    -70.03333,
+    10.1
+],
+  "geometry": {"coordinates":[-70.03333000000001,10.1],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226136153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.91778,10.03806,-67.91778,10.03806",
+    "geom:latitude":10.03806,
+    "geom:longitude":-67.91778,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"VE",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626974,
+    "gn:latitude":10.03806,
+    "gn:longitude":-67.91778,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626974
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f7d7a4c32b2ad7e390a2487f06b5ae93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1226136153,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1226136153,
+    "wof:lastmodified":1537088361,
+    "wof:name":"San Vicente",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.91778000000001,
+    10.03806,
+    -67.91778000000001,
+    10.03806
+],
+  "geometry": {"coordinates":[-67.91778000000001,10.03806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259469483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.92862,8.86309,-64.92862,8.86309",
+    "geom:latitude":8.86309,
+    "geom:longitude":-64.92862,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Rubiera",
+    "gn:country_code":"VE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636392,
+    "gn:latitude":8.86309,
+    "gn:longitude":-64.92862,
+    "gn:modification_date":"2002-02-05",
+    "gn:name":"La Rubiera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636392
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8bb4b86e407a16cb13c7cfa7a370a027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1259469483,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259469483,
+    "wof:lastmodified":1536878098,
+    "wof:name":"La Rubiera",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.92862,
+    8.86309,
+    -64.92862,
+    8.86309
+],
+  "geometry": {"coordinates":[-64.92862,8.86309],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309723837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.89413,8.93548,-63.89413,8.93548",
+    "geom:latitude":8.93548,
+    "geom:longitude":-63.89413,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Urupia",
+    "gn:country_code":"VE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625606,
+    "gn:latitude":8.93548,
+    "gn:longitude":-63.89413,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Urupia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urispia",
+        "Urupia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625606
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4d6b37cbcce9dd874df40a121b89e559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1309723837,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309723837,
+    "wof:lastmodified":1537713508,
+    "wof:name":"Urupia",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.89413,
+    8.93548,
+    -63.89413,
+    8.93548
+],
+  "geometry": {"coordinates":[-63.89413,8.93548],"type":"Point"}
+}

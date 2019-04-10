@@ -1,0 +1,67 @@
+{
+  "id": 1209717635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21667,9.8,-65.21667,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":-65.21667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"El Mono",
+    "gn:country_code":"VE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642530,
+    "gn:latitude":9.8,
+    "gn:longitude":-65.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Mono",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642530
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"99516d05c382617f8a882903b4dc8c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1209717635,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1209717635,
+    "wof:lastmodified":1536387836,
+    "wof:name":"El Mono",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21667,
+    9.8,
+    -65.21667,
+    9.8
+],
+  "geometry": {"coordinates":[-65.21666999999999,9.8],"type":"Point"}
+}

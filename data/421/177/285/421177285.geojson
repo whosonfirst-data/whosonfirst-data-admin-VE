@@ -1,0 +1,85 @@
+{
+  "id": 421177285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28597,8.24619,-71.28597,8.24619",
+    "geom:latitude":8.24619,
+    "geom:longitude":-71.28597,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mucutuy"
+    ],
+    "name:por_x_preferred":[
+        "Mucutuy"
+    ],
+    "name:spa_x_preferred":[
+        "Mucutuy"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3631701,
+    "qs:gn_pop":0,
+    "qs:name":"Mucutuy",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":103,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":103,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1165512,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468638,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631701,
+        "gp:id":468638,
+        "qs:id":1165512
+    },
+    "wof:country":"VE",
+    "wof:created":1459009139,
+    "wof:geomhash":"dc60d6127824a6c8ccba8deb39647dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "locality_id":421177285,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421177285,
+    "wof:lastmodified":1501268325,
+    "wof:name":"Mucutuy",
+    "wof:parent_id":421175381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28597,
+    8.24619,
+    -71.28597,
+    8.24619
+],
+  "geometry": {"coordinates":[-71.28597000000001,8.24619],"type":"Point"}
+}

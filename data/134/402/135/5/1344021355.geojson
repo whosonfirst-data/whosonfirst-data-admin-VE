@@ -1,0 +1,70 @@
+{
+  "id": 1344021355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95463,11.05784,-63.95463,11.05784",
+    "geom:latitude":11.05784,
+    "geom:longitude":-63.95463,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Vicuna",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202641,
+    "gn:latitude":11.05784,
+    "gn:longitude":-63.95463,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vicuna",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vicuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421196983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202641
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"970613a47ecebf539074fb3ba444a3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196983,
+            "locality_id":1344021355,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1344021355,
+    "wof:lastmodified":1537713651,
+    "wof:name":"Vicuna",
+    "wof:parent_id":421196983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95463,
+    11.05784,
+    -63.95463,
+    11.05784
+],
+  "geometry": {"coordinates":[-63.95463,11.05784],"type":"Point"}
+}

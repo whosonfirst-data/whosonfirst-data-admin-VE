@@ -1,0 +1,71 @@
+{
+  "id": 1226050315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53552,9.88052,-64.53552,9.88052",
+    "geom:latitude":9.88052,
+    "geom:longitude":-64.53552,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Quiamare",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629422,
+    "gn:latitude":9.88052,
+    "gn:longitude":-64.53552,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quiamare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimare",
+        "Quiamare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421190215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629422
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"941ac58ad1d43110b1ed25166f4f24a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190215,
+            "locality_id":1226050315,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226050315,
+    "wof:lastmodified":1537713525,
+    "wof:name":"Quiamare",
+    "wof:parent_id":421190215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53551999999999,
+    9.88052,
+    -64.53551999999999,
+    9.88052
+],
+  "geometry": {"coordinates":[-64.53551999999999,9.88052],"type":"Point"}
+}

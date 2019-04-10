@@ -1,0 +1,72 @@
+{
+  "id": 1277080583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,7.6,-67.35,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Los Guires",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634114,
+    "gn:latitude":7.6,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los G\u00fcires",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcires",
+        "Los G\u00fcires"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        1108694389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634114
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9949216d9659c3ef3361e972ec385cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694389,
+            "locality_id":1277080583,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1277080583,
+    "wof:lastmodified":1537713548,
+    "wof:name":"Los Guires",
+    "wof:parent_id":1108694389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    7.6,
+    -67.35,
+    7.6
+],
+  "geometry": {"coordinates":[-67.34999999999999,7.6],"type":"Point"}
+}

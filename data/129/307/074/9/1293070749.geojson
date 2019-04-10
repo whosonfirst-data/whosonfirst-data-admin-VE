@@ -1,0 +1,67 @@
+{
+  "id": 1293070749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.69099,10.21647,-66.69099,10.21647",
+    "geom:latitude":10.21647,
+    "geom:longitude":-66.69099,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Hornito",
+    "gn:country_code":"VE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643005,
+    "gn:latitude":10.21647,
+    "gn:longitude":-66.69099,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Hornito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        1108694211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643005
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1756a41ac2e0c78851b71c0419e7da47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694211,
+            "locality_id":1293070749,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1293070749,
+    "wof:lastmodified":1536890656,
+    "wof:name":"El Hornito",
+    "wof:parent_id":1108694211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.69099,
+    10.21647,
+    -66.69099,
+    10.21647
+],
+  "geometry": {"coordinates":[-66.69099,10.21647],"type":"Point"}
+}

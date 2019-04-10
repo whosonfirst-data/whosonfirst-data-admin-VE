@@ -1,0 +1,71 @@
+{
+  "id": 1242573947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.27057,9.23574,-68.27057,9.23574",
+    "geom:latitude":9.23574,
+    "geom:longitude":-68.27057,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Santo Domingo",
+    "gn:country_code":"VE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627017,
+    "gn:latitude":9.23574,
+    "gn:longitude":-68.27057,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Santo Domingo",
+        "Santo Domingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c7a805c980bbf05dae961ff46d32bec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1242573947,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1242573947,
+    "wof:lastmodified":1537713514,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.27056999999999,
+    9.23574,
+    -68.27056999999999,
+    9.23574
+],
+  "geometry": {"coordinates":[-68.27056999999999,9.23574],"type":"Point"}
+}

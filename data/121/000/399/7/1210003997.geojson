@@ -1,0 +1,67 @@
+{
+  "id": 1210003997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4,11.41667,-69.4,11.41667",
+    "geom:latitude":11.41667,
+    "geom:longitude":-69.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bariquizal",
+    "gn:country_code":"VE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648536,
+    "gn:latitude":11.41667,
+    "gn:longitude":-69.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bariquizal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421184293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648536
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"dccd9b7d9a4ef4a721b9087192d78101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184293,
+            "locality_id":1210003997,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1210003997,
+    "wof:lastmodified":1536375663,
+    "wof:name":"Bariquizal",
+    "wof:parent_id":421184293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4,
+    11.41667,
+    -69.4,
+    11.41667
+],
+  "geometry": {"coordinates":[-69.40000000000001,11.41667],"type":"Point"}
+}

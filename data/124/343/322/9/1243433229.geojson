@@ -1,0 +1,67 @@
+{
+  "id": 1243433229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23951,10.17091,-69.23951,10.17091",
+    "geom:latitude":10.17091,
+    "geom:longitude":-69.23951,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cordero",
+    "gn:country_code":"VE",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3645226,
+    "gn:latitude":10.17091,
+    "gn:longitude":-69.23951,
+    "gn:modification_date":"2002-10-18",
+    "gn:name":"Cordero",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645226
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"84821908b7ed7a8808d9019334ca27c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1243433229,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243433229,
+    "wof:lastmodified":1536823676,
+    "wof:name":"Cordero",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23951,
+    10.17091,
+    -69.23951,
+    10.17091
+],
+  "geometry": {"coordinates":[-69.23951,10.17091],"type":"Point"}
+}

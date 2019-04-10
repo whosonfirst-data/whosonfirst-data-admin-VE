@@ -1,0 +1,72 @@
+{
+  "id": 1360170451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.88111,10.04111,-67.88111,10.04111",
+    "geom:latitude":10.04111,
+    "geom:longitude":-67.88111,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"El Zamuro",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641047,
+    "gn:latitude":10.04111,
+    "gn:longitude":-67.88111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Zamuro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zamuro",
+        "El Zamuro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641047
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"155c45d2ec87bd40d11a7015e740bebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1360170451,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1360170451,
+    "wof:lastmodified":1537713589,
+    "wof:name":"El Zamuro",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.88110999999999,
+    10.04111,
+    -67.88110999999999,
+    10.04111
+],
+  "geometry": {"coordinates":[-67.88110999999999,10.04111],"type":"Point"}
+}

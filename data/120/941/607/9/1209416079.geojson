@@ -1,0 +1,65 @@
+{
+  "id": 1209416079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.22552,6.21266,-68.22552,6.21266",
+    "geom:latitude":6.21266,
+    "geom:longitude":-68.22552,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mata de Guanabano",
+    "gn:country_code":"VE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632750,
+    "gn:latitude":6.21266,
+    "gn:longitude":-68.22552,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mata de Guan\u00e1bano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata de Guan\u00e1bana",
+        "Mata de Guan\u00e1bano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632750
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3399301e0c606098ff73288a82c699c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209416079
+        }
+    ],
+    "wof:id":1209416079,
+    "wof:lastmodified":1537713540,
+    "wof:name":"Mata de Guanabano",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.22551999999999,
+    6.21266,
+    -68.22551999999999,
+    6.21266
+],
+  "geometry": {"coordinates":[-68.22551999999999,6.21266],"type":"Point"}
+}

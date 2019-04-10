@@ -1,0 +1,67 @@
+{
+  "id": 1276126153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.76162,8.46298,-64.76162,8.46298",
+    "geom:latitude":8.46298,
+    "geom:longitude":-64.76162,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Frontera",
+    "gn:country_code":"VE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485466,
+    "gn:latitude":8.46298,
+    "gn:longitude":-64.76162,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"La Frontera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485466
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1b6e3f66d3ac02bc6d74d29f8d0acca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1276126153,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276126153,
+    "wof:lastmodified":1537053820,
+    "wof:name":"La Frontera",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.76162,
+    8.46298,
+    -64.76162,
+    8.46298
+],
+  "geometry": {"coordinates":[-64.76161999999999,8.46298],"type":"Point"}
+}

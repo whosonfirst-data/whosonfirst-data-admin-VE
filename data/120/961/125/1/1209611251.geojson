@@ -1,0 +1,61 @@
+{
+  "id": 1209611251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38333,8.88333,-68.38333,8.88333",
+    "geom:latitude":8.88333,
+    "geom:longitude":-68.38333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Samancito",
+    "gn:country_code":"VE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628708,
+    "gn:latitude":8.88333,
+    "gn:longitude":-68.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Samancito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628708
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cc581c4b99a9d13ede0a587f9fea468a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209611251
+        }
+    ],
+    "wof:id":1209611251,
+    "wof:lastmodified":1536281839,
+    "wof:name":"Samancito",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38333,
+    8.88333,
+    -68.38333,
+    8.88333
+],
+  "geometry": {"coordinates":[-68.38333,8.88333],"type":"Point"}
+}

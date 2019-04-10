@@ -1,0 +1,79 @@
+{
+  "id": 421196987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.174339,7.955622,-72.174339,7.955622",
+    "geom:latitude":7.955622,
+    "geom:longitude":-72.174339,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Michelena",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:photos":188,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":310,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263818,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804996,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804996,
+        "qs:id":1263818,
+        "qs_pg:id":1263818
+    },
+    "wof:country":"VE",
+    "wof:created":1459009899,
+    "wof:geomhash":"dde0a739cc66bb0bc6a33b0f1fc2dbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694287,
+            "localadmin_id":421196987,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":421196987,
+    "wof:lastmodified":1497042683,
+    "wof:name":"Capital Michelena",
+    "wof:parent_id":1108694287,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.174339,
+    7.955622,
+    -72.174339,
+    7.955622
+],
+  "geometry": {"coordinates":[-72.174339,7.955622],"type":"Point"}
+}

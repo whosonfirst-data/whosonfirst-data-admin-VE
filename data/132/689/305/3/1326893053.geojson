@@ -1,0 +1,67 @@
+{
+  "id": 1326893053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.31845,9.47552,-69.31845,9.47552",
+    "geom:latitude":9.47552,
+    "geom:longitude":-69.31845,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Buchi",
+    "gn:country_code":"VE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746715,
+    "gn:latitude":9.47552,
+    "gn:longitude":-69.31845,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Buchi",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746715
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d25437319dcf9d8babc4b830c2a244b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694093,
+            "locality_id":1326893053,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1326893053,
+    "wof:lastmodified":1536961227,
+    "wof:name":"Buchi",
+    "wof:parent_id":1108694093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.31845,
+    9.47552,
+    -69.31845,
+    9.47552
+],
+  "geometry": {"coordinates":[-69.31845,9.47552],"type":"Point"}
+}

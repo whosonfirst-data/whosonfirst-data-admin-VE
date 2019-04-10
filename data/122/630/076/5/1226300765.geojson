@@ -1,0 +1,67 @@
+{
+  "id": 1226300765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13944,9.93833,-72.13944,9.93833",
+    "geom:latitude":9.93833,
+    "geom:longitude":-72.13944,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bachaquero Grande",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3788117,
+    "gn:latitude":9.93833,
+    "gn:longitude":-72.13944,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Bachaquero Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788117
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7a515d059799eab9c4971c85a098e8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694379,
+            "locality_id":1226300765,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226300765,
+    "wof:lastmodified":1536853384,
+    "wof:name":"Bachaquero Grande",
+    "wof:parent_id":1108694379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13944000000002,
+    9.93833,
+    -72.13944000000002,
+    9.93833
+],
+  "geometry": {"coordinates":[-72.13944000000002,9.93833],"type":"Point"}
+}

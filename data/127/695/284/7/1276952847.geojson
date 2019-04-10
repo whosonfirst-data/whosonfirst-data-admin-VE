@@ -1,0 +1,67 @@
+{
+  "id": 1276952847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.0983,10.14981,-64.0983,10.14981",
+    "geom:latitude":10.14981,
+    "geom:longitude":-64.0983,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Palmar",
+    "gn:country_code":"VE",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642320,
+    "gn:latitude":10.14981,
+    "gn:longitude":-64.0983,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"El Palmar",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642320
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d20f2dc4971557efb5c5f8a8e423167b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694311,
+            "locality_id":1276952847,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276952847,
+    "wof:lastmodified":1536944093,
+    "wof:name":"El Palmar",
+    "wof:parent_id":1108694311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.0983,
+    10.14981,
+    -64.0983,
+    10.14981
+],
+  "geometry": {"coordinates":[-64.09829999999999,10.14981],"type":"Point"}
+}

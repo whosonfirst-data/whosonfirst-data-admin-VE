@@ -1,0 +1,79 @@
+{
+  "id": 421172511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06791,8.002032,-72.06791,8.002032",
+    "geom:latitude":8.002032,
+    "geom:longitude":-72.06791,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Jose Maria Vargas",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Tachira",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":126,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1313038,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804997,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804997,
+        "qs:id":1313038,
+        "qs_pg:id":1313038
+    },
+    "wof:country":"VE",
+    "wof:created":1459008945,
+    "wof:geomhash":"eff9064f7a886ed20d14337f8ab6d215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202065,
+            "localadmin_id":421172511,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":421172511,
+    "wof:lastmodified":1497045613,
+    "wof:name":"Jose Maria Vargas",
+    "wof:parent_id":421202065,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06791,
+    8.002032,
+    -72.06791,
+    8.002032
+],
+  "geometry": {"coordinates":[-72.06791,8.002032],"type":"Point"}
+}

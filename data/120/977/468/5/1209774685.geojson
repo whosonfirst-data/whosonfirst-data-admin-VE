@@ -1,0 +1,75 @@
+{
+  "id": 1209774685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27798,7.64175,-72.27798,7.64175",
+    "geom:latitude":7.64175,
+    "geom:longitude":-72.27798,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Santa Ana del Tachira",
+    "gn:country_code":"VE",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627614,
+    "gn:latitude":7.64175,
+    "gn:longitude":-72.27798,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Ana del Tachira",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Ana del T\u00e1chira"
+    ],
+    "name:und_x_variant":[
+        "Santa Ana",
+        "Santa Ana del Tachira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421185265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627614,
+        "wk:page":"Santa_Ana_del_T%C3%A1chira"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6b479fac6370af7ebbae21966b5ffd7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185265,
+            "locality_id":1209774685,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1209774685,
+    "wof:lastmodified":1537713517,
+    "wof:name":"Santa Ana del Tachira",
+    "wof:parent_id":421185265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27798,
+    7.64175,
+    -72.27798,
+    7.64175
+],
+  "geometry": {"coordinates":[-72.27798,7.64175],"type":"Point"}
+}

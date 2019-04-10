@@ -1,0 +1,67 @@
+{
+  "id": 1259686019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.84018,7.96056,-64.84018,7.96056",
+    "geom:latitude":7.96056,
+    "geom:longitude":-64.84018,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cochera",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485728,
+    "gn:latitude":7.96056,
+    "gn:longitude":-64.84018,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Cochera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485728
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a3ecbf358d4b1a3f90044396d4ffb551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694301,
+            "locality_id":1259686019,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1259686019,
+    "wof:lastmodified":1537060662,
+    "wof:name":"Cochera",
+    "wof:parent_id":1108694301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.84018,
+    7.96056,
+    -64.84018,
+    7.96056
+],
+  "geometry": {"coordinates":[-64.84018,7.96056],"type":"Point"}
+}

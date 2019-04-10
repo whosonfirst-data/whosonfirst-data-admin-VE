@@ -1,0 +1,73 @@
+{
+  "id": 1293166471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23256,9.63789,-69.23256,9.63789",
+    "geom:latitude":9.63789,
+    "geom:longitude":-69.23256,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sabana del Medio",
+    "gn:country_code":"VE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746645,
+    "gn:latitude":9.63789,
+    "gn:longitude":-69.23256,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sabana del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Sabana del Medio"
+    ],
+    "name:spa_x_preferred":[
+        "Sabana del Medio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746645
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ca8977db2dae9dd2bef5f3ed60ab287f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694093,
+            "locality_id":1293166471,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1293166471,
+    "wof:lastmodified":1537560470,
+    "wof:name":"Sabana del Medio",
+    "wof:parent_id":1108694093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23255999999999,
+    9.63789,
+    -69.23255999999999,
+    9.63789
+],
+  "geometry": {"coordinates":[-69.23255999999999,9.63789],"type":"Point"}
+}

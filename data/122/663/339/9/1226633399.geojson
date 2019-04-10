@@ -1,0 +1,67 @@
+{
+  "id": 1226633399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06633,11.13569,-70.06633,11.13569",
+    "geom:latitude":11.13569,
+    "geom:longitude":-70.06633,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pozo Afuera",
+    "gn:country_code":"VE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629877,
+    "gn:latitude":11.13569,
+    "gn:longitude":-70.06633,
+    "gn:modification_date":"1998-12-11",
+    "gn:name":"Pozo Afuera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629877
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aa3c0bba86001df1d349baf5ce848056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694167,
+            "locality_id":1226633399,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226633399,
+    "wof:lastmodified":1536876403,
+    "wof:name":"Pozo Afuera",
+    "wof:parent_id":1108694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06633000000001,
+    11.13569,
+    -70.06633000000001,
+    11.13569
+],
+  "geometry": {"coordinates":[-70.06633000000001,11.13569],"type":"Point"}
+}

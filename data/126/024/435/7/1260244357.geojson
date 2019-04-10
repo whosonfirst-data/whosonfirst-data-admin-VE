@@ -1,0 +1,67 @@
+{
+  "id": 1260244357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05546,9.28056,-70.05546,9.28056",
+    "geom:latitude":9.28056,
+    "geom:longitude":-70.05546,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"VE",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741054,
+    "gn:latitude":9.28056,
+    "gn:longitude":-70.05546,
+    "gn:modification_date":"1995-08-09",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741054
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"755203b22b563640a24ea3bf4d4f31f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694441,
+            "locality_id":1260244357,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1260244357,
+    "wof:lastmodified":1536765390,
+    "wof:name":"Las Flores",
+    "wof:parent_id":1108694441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05546,
+    9.28056,
+    -70.05546,
+    9.28056
+],
+  "geometry": {"coordinates":[-70.05546,9.28056],"type":"Point"}
+}

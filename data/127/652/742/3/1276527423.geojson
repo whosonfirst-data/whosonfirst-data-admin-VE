@@ -1,0 +1,72 @@
+{
+  "id": 1276527423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.68333,9.7,-65.68333,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":-65.68333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Galapago",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643220,
+    "gn:latitude":9.7,
+    "gn:longitude":-65.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Gal\u00e1pago",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gal\u00e1pago",
+        "El Gal\u00e1pago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643220
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"47c3d5b2352d32e06c8fe8a2aae81915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694137,
+            "locality_id":1276527423,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1276527423,
+    "wof:lastmodified":1537713603,
+    "wof:name":"El Galapago",
+    "wof:parent_id":1108694137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.68333,
+    9.7,
+    -65.68333,
+    9.7
+],
+  "geometry": {"coordinates":[-65.68333,9.7],"type":"Point"}
+}

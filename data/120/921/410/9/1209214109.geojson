@@ -1,0 +1,61 @@
+{
+  "id": 1209214109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58889,10.05944,-67.58889,10.05944",
+    "geom:latitude":10.05944,
+    "geom:longitude":-67.58889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pozo Hondo",
+    "gn:country_code":"VE",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3806711,
+    "gn:latitude":10.05944,
+    "gn:longitude":-67.58889,
+    "gn:modification_date":"2002-12-24",
+    "gn:name":"Pozo Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3806711
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"99810c12f1ce11ae9279920edb7c6d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209214109
+        }
+    ],
+    "wof:id":1209214109,
+    "wof:lastmodified":1536294191,
+    "wof:name":"Pozo Hondo",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58889,
+    10.05944,
+    -67.58889,
+    10.05944
+],
+  "geometry": {"coordinates":[-67.58889000000001,10.05944],"type":"Point"}
+}

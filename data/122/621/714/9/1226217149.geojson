@@ -1,0 +1,63 @@
+{
+  "id": 1226217149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.34041,10.53647,-62.34041,10.53647",
+    "geom:latitude":10.53647,
+    "geom:longitude":-62.34041,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"La Salineta",
+    "gn:country_code":"VE",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3796663,
+    "gn:latitude":10.53647,
+    "gn:longitude":-62.34041,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"La Salineta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796663
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f66fd4a4318ecac487456ef33c53e497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1226217149,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226217149,
+    "wof:lastmodified":1536974450,
+    "wof:name":"La Salineta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.34041,
+    10.53647,
+    -62.34041,
+    10.53647
+],
+  "geometry": {"coordinates":[-62.34041,10.53647],"type":"Point"}
+}

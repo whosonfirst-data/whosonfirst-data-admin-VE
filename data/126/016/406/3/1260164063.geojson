@@ -1,0 +1,67 @@
+{
+  "id": 1260164063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05268,8.17259,-71.05268,8.17259",
+    "geom:latitude":8.17259,
+    "geom:longitude":-71.05268,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Santa Cruz del Quemado",
+    "gn:country_code":"VE",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3627422,
+    "gn:latitude":8.17259,
+    "gn:longitude":-71.05268,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Santa Cruz del Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627422
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"77dca4176801e2b9143b008f320dc495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694095,
+            "locality_id":1260164063,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1260164063,
+    "wof:lastmodified":1536873678,
+    "wof:name":"Santa Cruz del Quemado",
+    "wof:parent_id":1108694095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05268000000002,
+    8.17259,
+    -71.05268000000002,
+    8.17259
+],
+  "geometry": {"coordinates":[-71.05268000000002,8.17259],"type":"Point"}
+}

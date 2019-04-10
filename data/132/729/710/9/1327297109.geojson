@@ -1,0 +1,67 @@
+{
+  "id": 1327297109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.97093,10.96066,-63.97093,10.96066",
+    "geom:latitude":10.96066,
+    "geom:longitude":-63.97093,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Datil",
+    "gn:country_code":"VE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3480944,
+    "gn:latitude":10.96066,
+    "gn:longitude":-63.97093,
+    "gn:modification_date":"1999-03-16",
+    "gn:name":"El D\u00e1til",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680557,
+        421166695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480944
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"52fb63c5efb257de9a6805959a8a214e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421166695,
+            "locality_id":1327297109,
+            "region_id":85680557
+        }
+    ],
+    "wof:id":1327297109,
+    "wof:lastmodified":1536875385,
+    "wof:name":"El Datil",
+    "wof:parent_id":421166695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.97093,
+    10.96066,
+    -63.97093,
+    10.96066
+],
+  "geometry": {"coordinates":[-63.97093,10.96066],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 421182823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.439575,10.031422,-67.439575,10.031422",
+    "geom:latitude":10.031422,
+    "geom:longitude":-67.439575,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Zamora",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1002628,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804594,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804594,
+        "qs:id":1002628
+    },
+    "wof:country":"VE",
+    "wof:created":1459009348,
+    "wof:geomhash":"a146357fd8972ee43f38d7ba2d625403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421182823,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421182823,
+    "wof:lastmodified":1474491979,
+    "wof:name":"Zamora",
+    "wof:parent_id":85680525,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.439575,
+    10.031422,
+    -67.439575,
+    10.031422
+],
+  "geometry": {"coordinates":[-67.439575,10.031422],"type":"Point"}
+}

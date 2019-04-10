@@ -1,0 +1,71 @@
+{
+  "id": 1276584257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.26591,10.19267,-67.26591,10.19267",
+    "geom:latitude":10.19267,
+    "geom:longitude":-67.26591,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"El Socorro",
+    "gn:country_code":"VE",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641453,
+    "gn:latitude":10.19267,
+    "gn:longitude":-67.26591,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Socorro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Socorro",
+        "El Socorro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421181777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641453
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7a1953e28b2ea43d61e7700443341d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421181777,
+            "locality_id":1276584257,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1276584257,
+    "wof:lastmodified":1537713592,
+    "wof:name":"El Socorro",
+    "wof:parent_id":421181777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.26590999999999,
+    10.19267,
+    -67.26590999999999,
+    10.19267
+],
+  "geometry": {"coordinates":[-67.26590999999999,10.19267],"type":"Point"}
+}

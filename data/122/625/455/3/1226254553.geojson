@@ -1,0 +1,67 @@
+{
+  "id": 1226254553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.88054,8.42269,-63.88054,8.42269",
+    "geom:latitude":8.42269,
+    "geom:longitude":-63.88054,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tabare",
+    "gn:country_code":"VE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626598,
+    "gn:latitude":8.42269,
+    "gn:longitude":-63.88054,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Tabare",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626598
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"435fafbdd18ce9e6b9f202e0524f2bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1226254553,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226254553,
+    "wof:lastmodified":1536921530,
+    "wof:name":"Tabare",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.88054,
+    8.42269,
+    -63.88054,
+    8.42269
+],
+  "geometry": {"coordinates":[-63.88054,8.42269],"type":"Point"}
+}

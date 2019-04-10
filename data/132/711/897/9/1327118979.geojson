@@ -1,0 +1,67 @@
+{
+  "id": 1327118979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.32537,9.07597,-68.32537,9.07597",
+    "geom:latitude":9.07597,
+    "geom:longitude":-68.32537,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Bernardo",
+    "gn:country_code":"VE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799445,
+    "gn:latitude":9.07597,
+    "gn:longitude":-68.32537,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"San Bernardo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799445
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"cd976c24e6ed204409ada6e27c71243f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1327118979,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1327118979,
+    "wof:lastmodified":1536634200,
+    "wof:name":"San Bernardo",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.32536999999999,
+    9.07597,
+    -68.32536999999999,
+    9.07597
+],
+  "geometry": {"coordinates":[-68.32536999999999,9.07597],"type":"Point"}
+}

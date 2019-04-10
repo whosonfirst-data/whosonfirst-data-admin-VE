@@ -1,0 +1,81 @@
+{
+  "id": 890444885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.877,10.22609,-67.877,10.22609",
+    "geom:latitude":10.22609,
+    "geom:longitude":-67.877,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":151752,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guacara"
+    ],
+    "name:por_x_preferred":[
+        "Guacara"
+    ],
+    "name:spa_x_preferred":[
+        "Guacara"
+    ],
+    "qs:name":"Guacara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:elevation":438.0,
+    "wd:latitude":"10.233333333",
+    "wd:longitude":"-67.883333333",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        1108694201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3640465,
+        "gp:id":468414,
+        "qs:id":1045801,
+        "wd:id":"Q1552562",
+        "wk:page":"Guacara"
+    },
+    "wof:country":"VE",
+    "wof:created":1469052485,
+    "wof:geomhash":"e41546019f3016f35555d37fc58540f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694201,
+            "locality_id":890444885,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":890444885,
+    "wof:lastmodified":1527782135,
+    "wof:name":"Guacara",
+    "wof:parent_id":1108694201,
+    "wof:placetype":"locality",
+    "wof:population":151752,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.877,
+    10.22609,
+    -67.877,
+    10.22609
+],
+  "geometry": {"coordinates":[-67.877,10.22609],"type":"Point"}
+}

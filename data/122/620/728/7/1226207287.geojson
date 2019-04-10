@@ -1,0 +1,67 @@
+{
+  "id": 1226207287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.05114,10.60319,-63.05114,10.60319",
+    "geom:latitude":10.60319,
+    "geom:longitude":-63.05114,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cumbre de Manacal",
+    "gn:country_code":"VE",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3795931,
+    "gn:latitude":10.60319,
+    "gn:longitude":-63.05114,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Cumbre de Manacal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795931
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b7ada5e5a6d569c6213958d47e0f3826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694247,
+            "locality_id":1226207287,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1226207287,
+    "wof:lastmodified":1536988356,
+    "wof:name":"Cumbre de Manacal",
+    "wof:parent_id":1108694247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.05114,
+    10.60319,
+    -63.05114,
+    10.60319
+],
+  "geometry": {"coordinates":[-63.05114,10.60319],"type":"Point"}
+}

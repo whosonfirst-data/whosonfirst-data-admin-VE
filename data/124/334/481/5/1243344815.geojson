@@ -1,0 +1,67 @@
+{
+  "id": 1243344815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.71769,9.6895,-63.71769,9.6895",
+    "geom:latitude":9.6895,
+    "geom:longitude":-63.71769,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Isla Mata de Platano",
+    "gn:country_code":"VE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749776,
+    "gn:latitude":9.6895,
+    "gn:longitude":-63.71769,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Isla Mata de Pl\u00e1tano",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749776
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d1a2ba6f975c16cf8f411d7ea07bc9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1243344815,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1243344815,
+    "wof:lastmodified":1536952288,
+    "wof:name":"Isla Mata de Platano",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.71769000000001,
+    9.6895,
+    -63.71769000000001,
+    9.6895
+],
+  "geometry": {"coordinates":[-63.71769000000001,9.6895],"type":"Point"}
+}

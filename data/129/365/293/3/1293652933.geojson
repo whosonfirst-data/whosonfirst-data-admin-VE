@@ -1,0 +1,67 @@
+{
+  "id": 1293652933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.88682,9.48411,-62.88682,9.48411",
+    "geom:latitude":9.48411,
+    "geom:longitude":-62.88682,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Caracatal de Buja",
+    "gn:country_code":"VE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777723,
+    "gn:latitude":9.48411,
+    "gn:longitude":-62.88682,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"Caracatal de Buja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        421186375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777723
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"159347f8b172677ff8ca08eca790644a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421186375,
+            "locality_id":1293652933,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1293652933,
+    "wof:lastmodified":1537044060,
+    "wof:name":"Caracatal de Buja",
+    "wof:parent_id":421186375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.88681999999999,
+    9.48411,
+    -62.88681999999999,
+    9.48411
+],
+  "geometry": {"coordinates":[-62.88681999999999,9.48411],"type":"Point"}
+}

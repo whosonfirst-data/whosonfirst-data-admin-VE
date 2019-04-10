@@ -1,0 +1,75 @@
+{
+  "id": 421187903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-63.580612,6.358522,-63.580612,6.358522",
+    "geom:latitude":6.358522,
+    "geom:longitude":-63.580612,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sucre",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Bol\u00edvar",
+    "qs:photos":242,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":246,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086739,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26804547,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1751,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26804547,
+        "qs:id":1086739,
+        "wd:id":"Q2907"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009527,
+    "wof:geomhash":"037895c13290c8546645b82e76356642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421187903,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":421187903,
+    "wof:lastmodified":1527716249,
+    "wof:name":"Sucre",
+    "wof:parent_id":85680517,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.580612,
+    6.358522,
+    -63.580612,
+    6.358522
+],
+  "geometry": {"coordinates":[-63.580612,6.358522],"type":"Point"}
+}

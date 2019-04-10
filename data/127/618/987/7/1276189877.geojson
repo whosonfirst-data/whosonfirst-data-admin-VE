@@ -1,0 +1,67 @@
+{
+  "id": 1276189877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.684,10.50566,-63.684,10.50566",
+    "geom:latitude":10.50566,
+    "geom:longitude":-63.684,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"La Sabaneta",
+    "gn:country_code":"VE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636362,
+    "gn:latitude":10.50566,
+    "gn:longitude":-63.684,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"La Sabaneta",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636362
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"58ce1242bf83e5280e77dcd730e43d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1276189877,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276189877,
+    "wof:lastmodified":1536970887,
+    "wof:name":"La Sabaneta",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.684,
+    10.50566,
+    -63.684,
+    10.50566
+],
+  "geometry": {"coordinates":[-63.684,10.50566],"type":"Point"}
+}

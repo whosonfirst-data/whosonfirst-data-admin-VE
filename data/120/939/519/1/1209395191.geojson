@@ -1,0 +1,61 @@
+{
+  "id": 1209395191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.56476,10.78064,-69.56476,10.78064",
+    "geom:latitude":10.78064,
+    "geom:longitude":-69.56476,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Las Guarabitas",
+    "gn:country_code":"VE",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3751029,
+    "gn:latitude":10.78064,
+    "gn:longitude":-69.56476,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"Las Guarabitas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751029
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"32cb30ecdba6067623035df804fc2195",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209395191
+        }
+    ],
+    "wof:id":1209395191,
+    "wof:lastmodified":1536288326,
+    "wof:name":"Las Guarabitas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.56475999999999,
+    10.78064,
+    -69.56475999999999,
+    10.78064
+],
+  "geometry": {"coordinates":[-69.56475999999999,10.78064],"type":"Point"}
+}

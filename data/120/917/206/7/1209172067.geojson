@@ -1,0 +1,65 @@
+{
+  "id": 1209172067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97762,11.36006,-71.97762,11.36006",
+    "geom:latitude":11.36006,
+    "geom:longitude":-71.97762,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Campamento",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647301,
+    "gn:latitude":11.36006,
+    "gn:longitude":-71.97762,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Campamento",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento",
+        "El Campamento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647301
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9233361ca5d700c7ec8dc0799752e268",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209172067
+        }
+    ],
+    "wof:id":1209172067,
+    "wof:lastmodified":1537713625,
+    "wof:name":"El Campamento",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97762,
+    11.36006,
+    -71.97762,
+    11.36006
+],
+  "geometry": {"coordinates":[-71.97762,11.36006],"type":"Point"}
+}

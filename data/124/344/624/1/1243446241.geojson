@@ -1,0 +1,67 @@
+{
+  "id": 1243446241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.67403,7.81663,-63.67403,7.81663",
+    "geom:latitude":7.81663,
+    "geom:longitude":-63.67403,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Caratica",
+    "gn:country_code":"VE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3807443,
+    "gn:latitude":7.81663,
+    "gn:longitude":-63.67403,
+    "gn:modification_date":"2003-01-03",
+    "gn:name":"La Caratica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3807443
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5aa188e88d6ef6bd610da2c8838a65d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1243446241,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1243446241,
+    "wof:lastmodified":1536805672,
+    "wof:name":"La Caratica",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.67403,
+    7.81663,
+    -63.67403,
+    7.81663
+],
+  "geometry": {"coordinates":[-63.67403,7.81663],"type":"Point"}
+}

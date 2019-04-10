@@ -1,0 +1,67 @@
+{
+  "id": 1310460585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.54806,9.43944,-70.54806,9.43944",
+    "geom:latitude":9.43944,
+    "geom:longitude":-70.54806,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Butaque",
+    "gn:country_code":"VE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647696,
+    "gn:latitude":9.43944,
+    "gn:longitude":-70.54806,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Butaque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        890439859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647696
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06e2671037357eeeb12fc100302bcf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":890439859,
+            "locality_id":1310460585,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1310460585,
+    "wof:lastmodified":1536981192,
+    "wof:name":"Butaque",
+    "wof:parent_id":890439859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.54805999999998,
+    9.43944,
+    -70.54805999999998,
+    9.43944
+],
+  "geometry": {"coordinates":[-70.54805999999998,9.43944],"type":"Point"}
+}

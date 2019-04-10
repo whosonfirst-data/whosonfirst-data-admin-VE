@@ -1,0 +1,67 @@
+{
+  "id": 1309713125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.12821,6.60028,-67.12821,6.60028",
+    "geom:latitude":6.60028,
+    "geom:longitude":-67.12821,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Santa Maria del Orinoco",
+    "gn:country_code":"VE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766114,
+    "gn:latitude":6.60028,
+    "gn:longitude":-67.12821,
+    "gn:modification_date":"1998-12-14",
+    "gn:name":"Santa Mar\u00eda del Orinoco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421171649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766114
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a84143c28a5bb857a05d1b145b39d6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171649,
+            "locality_id":1309713125,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1309713125,
+    "wof:lastmodified":1537061966,
+    "wof:name":"Santa Maria del Orinoco",
+    "wof:parent_id":421171649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.12821,
+    6.60028,
+    -67.12821,
+    6.60028
+],
+  "geometry": {"coordinates":[-67.12821,6.60028],"type":"Point"}
+}

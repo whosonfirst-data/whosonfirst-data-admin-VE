@@ -1,0 +1,67 @@
+{
+  "id": 1310478177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.34851,9.04203,-66.34851,9.04203",
+    "geom:latitude":9.04203,
+    "geom:longitude":-66.34851,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Alcornoque Largo",
+    "gn:country_code":"VE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649485,
+    "gn:latitude":9.04203,
+    "gn:longitude":-66.34851,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Alcornoque Largo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649485
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9b79a2d6eabae7a89743af8d90c5ec0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694245,
+            "locality_id":1310478177,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1310478177,
+    "wof:lastmodified":1536956399,
+    "wof:name":"Alcornoque Largo",
+    "wof:parent_id":1108694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.34851,
+    9.04203,
+    -66.34851,
+    9.04203
+],
+  "geometry": {"coordinates":[-66.34851,9.04203],"type":"Point"}
+}

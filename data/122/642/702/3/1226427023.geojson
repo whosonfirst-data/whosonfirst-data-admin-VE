@@ -1,0 +1,67 @@
+{
+  "id": 1226427023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.19719,9.49418,-68.19719,9.49418",
+    "geom:latitude":9.49418,
+    "geom:longitude":-68.19719,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Alto de Rincon",
+    "gn:country_code":"VE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649369,
+    "gn:latitude":9.49418,
+    "gn:longitude":-68.19719,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Alto de Rinc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649369
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4f80c8ab4a75e54c169a674c78e2ddf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694337,
+            "locality_id":1226427023,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1226427023,
+    "wof:lastmodified":1536672440,
+    "wof:name":"Alto de Rincon",
+    "wof:parent_id":1108694337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.19719,
+    9.49418,
+    -68.19719,
+    9.49418
+],
+  "geometry": {"coordinates":[-68.19719000000001,9.49418],"type":"Point"}
+}

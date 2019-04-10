@@ -1,0 +1,67 @@
+{
+  "id": 1226441905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.92254,9.43784,-66.92254,9.43784",
+    "geom:latitude":9.43784,
+    "geom:longitude":-66.92254,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"El Cuchillo",
+    "gn:country_code":"VE",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643462,
+    "gn:latitude":9.43784,
+    "gn:longitude":-66.92254,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Cuchillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643462
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"42be5bcbfe920dd4da5d91498d979577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694361,
+            "locality_id":1226441905,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1226441905,
+    "wof:lastmodified":1536650847,
+    "wof:name":"El Cuchillo",
+    "wof:parent_id":1108694361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.92254,
+    9.43784,
+    -66.92254,
+    9.43784
+],
+  "geometry": {"coordinates":[-66.92254,9.43784],"type":"Point"}
+}

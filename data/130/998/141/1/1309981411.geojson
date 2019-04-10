@@ -1,0 +1,70 @@
+{
+  "id": 1309981411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.12256,8.96919,-69.12256,8.96919",
+    "geom:latitude":8.96919,
+    "geom:longitude":-69.12256,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Guache",
+    "gn:country_code":"VE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3798150,
+    "gn:latitude":8.96919,
+    "gn:longitude":-69.12256,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guache",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        1108694177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798150
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"75c78e7fd1ee801110234e74ee782fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694177,
+            "locality_id":1309981411,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1309981411,
+    "wof:lastmodified":1537713643,
+    "wof:name":"Guache",
+    "wof:parent_id":1108694177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.12256,
+    8.96919,
+    -69.12256,
+    8.96919
+],
+  "geometry": {"coordinates":[-69.12255999999999,8.96919],"type":"Point"}
+}

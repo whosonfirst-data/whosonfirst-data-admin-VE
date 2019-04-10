@@ -1,0 +1,67 @@
+{
+  "id": 1243161975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.757,9.29203,-68.757,9.29203",
+    "geom:latitude":9.29203,
+    "geom:longitude":-68.757,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Maporita",
+    "gn:country_code":"VE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3799976,
+    "gn:latitude":9.29203,
+    "gn:longitude":-68.757,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Maporita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        1108694369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3799976
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"06d9ad7ff30a70257435f6cd645cdab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694369,
+            "locality_id":1243161975,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1243161975,
+    "wof:lastmodified":1536719078,
+    "wof:name":"La Maporita",
+    "wof:parent_id":1108694369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.757,
+    9.29203,
+    -68.757,
+    9.29203
+],
+  "geometry": {"coordinates":[-68.75700000000001,9.29203],"type":"Point"}
+}

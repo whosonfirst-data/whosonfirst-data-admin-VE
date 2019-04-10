@@ -1,0 +1,99 @@
+{
+  "id": 421202929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.60971,10.492,-67.60971,10.492",
+    "geom:latitude":10.492,
+    "geom:longitude":-67.60971,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_colloquial":[
+        "Choroni"
+    ],
+    "name:eng_x_preferred":[
+        "Choroni"
+    ],
+    "name:fra_x_preferred":[
+        "Choron\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Choron\u00ed"
+    ],
+    "name:spa_x_colloquial":[
+        "Choroni"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia Choron\u00ed"
+    ],
+    "name:spa_x_variant":[
+        "Choroni"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3645646,
+    "qs:gn_pop":0,
+    "qs:name":"Choron\u00ed",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":223,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":223,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228670,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":382990,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        421171995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3645646,
+        "gp:id":382990,
+        "qs:id":228670,
+        "wd:id":"Q2964518"
+    },
+    "wof:country":"VE",
+    "wof:created":1459010134,
+    "wof:geomhash":"7894435b565bddc0030f6489144d05ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171995,
+            "locality_id":421202929,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421202929,
+    "wof:lastmodified":1527716212,
+    "wof:name":"Choron\u00ed",
+    "wof:parent_id":421171995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.60971,
+    10.492,
+    -67.60971,
+    10.492
+],
+  "geometry": {"coordinates":[-67.60971000000001,10.492],"type":"Point"}
+}

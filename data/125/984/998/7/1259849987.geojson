@@ -1,0 +1,71 @@
+{
+  "id": 1259849987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85601,8.83369,-70.85601,8.83369",
+    "geom:latitude":8.83369,
+    "geom:longitude":-70.85601,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Casa de Gobierno",
+    "gn:country_code":"VE",
+    "gn:dem":3659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646334,
+    "gn:latitude":8.83369,
+    "gn:longitude":-70.85601,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Casa de Gobierno",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa de Gabierno",
+        "Casa de Gobierno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421190239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646334
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"5531e70f26f7487578beade8ec9f0c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190239,
+            "locality_id":1259849987,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1259849987,
+    "wof:lastmodified":1537713621,
+    "wof:name":"Casa de Gobierno",
+    "wof:parent_id":421190239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85601,
+    8.83369,
+    -70.85601,
+    8.83369
+],
+  "geometry": {"coordinates":[-70.85601,8.83369],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209182485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2,9.95,-71.2,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-71.2,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El Cinco",
+    "gn:country_code":"VE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643630,
+    "gn:latitude":9.95,
+    "gn:longitude":-71.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Cinco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643630
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ef327b4f5e705d436c4c9d3a7b15b914",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209182485
+        }
+    ],
+    "wof:id":1209182485,
+    "wof:lastmodified":1536295211,
+    "wof:name":"El Cinco",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2,
+    9.95,
+    -71.2,
+    9.95
+],
+  "geometry": {"coordinates":[-71.2,9.95],"type":"Point"}
+}

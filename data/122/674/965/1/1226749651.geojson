@@ -1,0 +1,72 @@
+{
+  "id": 1226749651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.63333,10.18333,-64.63333,10.18333",
+    "geom:latitude":10.18333,
+    "geom:longitude":-64.63333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vidono",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625376,
+    "gn:latitude":10.18333,
+    "gn:longitude":-64.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vido\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bido\u00f1o",
+        "Vido\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421204791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625376
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"3b4eee46f0441e046442e11bb44122ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421204791,
+            "locality_id":1226749651,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226749651,
+    "wof:lastmodified":1537713507,
+    "wof:name":"Vidono",
+    "wof:parent_id":421204791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.63333,
+    10.18333,
+    -64.63333,
+    10.18333
+],
+  "geometry": {"coordinates":[-64.63333,10.18333],"type":"Point"}
+}

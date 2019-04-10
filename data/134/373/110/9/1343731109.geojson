@@ -1,0 +1,72 @@
+{
+  "id": 1343731109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01419,9.47139,-71.01419,9.47139",
+    "geom:latitude":9.47139,
+    "geom:longitude":-71.01419,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109",
+    "gn:asciiname":"Santa Apolonia",
+    "gn:country_code":"VE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3627576,
+    "gn:latitude":9.47139,
+    "gn:longitude":-71.01419,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Santa Apolonia",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Polonia",
+        "Santa Apolonia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        1108694235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3627576
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d3e1316a8418ae51d5c69ad78db46887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694235,
+            "locality_id":1343731109,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1343731109,
+    "wof:lastmodified":1537713516,
+    "wof:name":"Santa Apolonia",
+    "wof:parent_id":1108694235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01419,
+    9.47139,
+    -71.01419,
+    9.47139
+],
+  "geometry": {"coordinates":[-71.01419,9.47139],"type":"Point"}
+}

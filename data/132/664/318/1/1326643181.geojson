@@ -1,0 +1,71 @@
+{
+  "id": 1326643181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.92628,1.55329,-66.92628,1.55329",
+    "geom:latitude":1.55329,
+    "geom:longitude":-66.92628,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Onojo",
+    "gn:country_code":"VE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631334,
+    "gn:latitude":1.55329,
+    "gn:longitude":-66.92628,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Onojo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onoto",
+        "Onojo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631334
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"34113add0f55a3d6d9f7eb1cff53aedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694371,
+            "locality_id":1326643181,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1326643181,
+    "wof:lastmodified":1537713535,
+    "wof:name":"Onojo",
+    "wof:parent_id":1108694371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.92628,
+    1.55329,
+    -66.92628,
+    1.55329
+],
+  "geometry": {"coordinates":[-66.92628000000001,1.55329],"type":"Point"}
+}

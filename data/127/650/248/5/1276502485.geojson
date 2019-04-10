@@ -1,0 +1,71 @@
+{
+  "id": 1276502485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17699,10.76454,-71.17699,10.76454",
+    "geom:latitude":10.76454,
+    "geom:longitude":-71.17699,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Pica",
+    "gn:country_code":"VE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636743,
+    "gn:latitude":10.76454,
+    "gn:longitude":-71.17699,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Pica",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Pica Vieja",
+        "La Pica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636743
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"23c5ab0ad5d6e7a9fe5d2b69f3217e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694193,
+            "locality_id":1276502485,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1276502485,
+    "wof:lastmodified":1537713564,
+    "wof:name":"La Pica",
+    "wof:parent_id":1108694193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17699,
+    10.76454,
+    -71.17699,
+    10.76454
+],
+  "geometry": {"coordinates":[-71.17699,10.76454],"type":"Point"}
+}

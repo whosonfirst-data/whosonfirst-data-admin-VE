@@ -1,0 +1,74 @@
+{
+  "id": 1242633629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7695,10.24933,-68.7695,10.24933",
+    "geom:latitude":10.24933,
+    "geom:longitude":-68.7695,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2207.0",
+    "gn:asciiname":"Boraure",
+    "gn:country_code":"VE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3648042,
+    "gn:latitude":10.24933,
+    "gn:longitude":-68.7695,
+    "gn:modification_date":"2012-01-03",
+    "gn:name":"Boraure",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boraure"
+    ],
+    "name:und_x_variant":[
+        "Boruare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648042
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"18c50243589da9e01c5d7febb6bacf45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694237,
+            "locality_id":1242633629,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1242633629,
+    "wof:lastmodified":1537713627,
+    "wof:name":"Boraure",
+    "wof:parent_id":1108694237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7695,
+    10.24933,
+    -68.7695,
+    10.24933
+],
+  "geometry": {"coordinates":[-68.76949999999999,10.24933],"type":"Point"}
+}

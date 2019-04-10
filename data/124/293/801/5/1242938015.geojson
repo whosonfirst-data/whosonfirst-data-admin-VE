@@ -1,0 +1,67 @@
+{
+  "id": 1242938015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.0879,10.63764,-62.0879,10.63764",
+    "geom:latitude":10.63764,
+    "geom:longitude":-62.0879,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Puerto Hierro Base Naval",
+    "gn:country_code":"VE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8581525,
+    "gn:latitude":10.63764,
+    "gn:longitude":-62.0879,
+    "gn:modification_date":"2013-07-15",
+    "gn:name":"Puerto Hierro Base Naval",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8581525
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f8dfba116243b99b85fe93512b848067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694473,
+            "locality_id":1242938015,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1242938015,
+    "wof:lastmodified":1537040007,
+    "wof:name":"Puerto Hierro Base Naval",
+    "wof:parent_id":1108694473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.0879,
+    10.63764,
+    -62.0879,
+    10.63764
+],
+  "geometry": {"coordinates":[-62.0879,10.63764],"type":"Point"}
+}

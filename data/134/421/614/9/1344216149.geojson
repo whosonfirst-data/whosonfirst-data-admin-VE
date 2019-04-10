@@ -1,0 +1,67 @@
+{
+  "id": 1344216149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.09889,7.93944,-72.09889,7.93944",
+    "geom:latitude":7.93944,
+    "geom:longitude":-72.09889,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Parque La Mesera",
+    "gn:country_code":"VE",
+    "gn:dem":2500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795409,
+    "gn:latitude":7.93944,
+    "gn:longitude":-72.09889,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"Parque La Mesera",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795409
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"359ce8266ecc310a8a609ee517686c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202065,
+            "locality_id":1344216149,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1344216149,
+    "wof:lastmodified":1536650911,
+    "wof:name":"Parque La Mesera",
+    "wof:parent_id":421202065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.09889,
+    7.93944,
+    -72.09889,
+    7.93944
+],
+  "geometry": {"coordinates":[-72.09889,7.93944],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421195519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.557281,8.12687,-63.557281,8.12687",
+    "geom:latitude":8.12687,
+    "geom:longitude":-63.557281,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Heres",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Bol\u00edvar",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1049,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115105,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805589,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805589,
+        "qs:id":115105
+    },
+    "wof:country":"VE",
+    "wof:created":1459009850,
+    "wof:geomhash":"efd1836b3f31cf280e055e2c62fa0615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "localadmin_id":421195519,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":421195519,
+    "wof:lastmodified":1500034314,
+    "wof:name":"Heres",
+    "wof:parent_id":421171639,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.557281,
+    8.12687,
+    -63.557281,
+    8.12687
+],
+  "geometry": {"coordinates":[-63.557281,8.12687],"type":"Point"}
+}

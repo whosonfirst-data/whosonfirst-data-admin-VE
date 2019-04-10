@@ -1,0 +1,67 @@
+{
+  "id": 1343642915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.65833,10.13056,-63.65833,10.13056",
+    "geom:latitude":10.13056,
+    "geom:longitude":-63.65833,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Laguna de Cerro Grande",
+    "gn:country_code":"VE",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777959,
+    "gn:latitude":10.13056,
+    "gn:longitude":-63.65833,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Laguna de Cerro Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777959
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f6d435ca2cbfaaef94d4b1dc700f5119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694059,
+            "locality_id":1343642915,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1343642915,
+    "wof:lastmodified":1536979748,
+    "wof:name":"Laguna de Cerro Grande",
+    "wof:parent_id":1108694059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.65833000000001,
+    10.13056,
+    -63.65833000000001,
+    10.13056
+],
+  "geometry": {"coordinates":[-63.65833000000001,10.13056],"type":"Point"}
+}

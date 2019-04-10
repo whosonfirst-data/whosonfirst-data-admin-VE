@@ -1,0 +1,73 @@
+{
+  "id": 1259469481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.78333,8.91667,-67.78333,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-67.78333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Guasimita",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3637686,
+    "gn:latitude":8.91667,
+    "gn:longitude":-67.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Guasimita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guasimita",
+        "La Guasimata",
+        "La Guasimita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3637686
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"97e953eecb61bee85bb540f9bdec51c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1259469481,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1259469481,
+    "wof:lastmodified":1537713569,
+    "wof:name":"La Guasimita",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.78333,
+    8.91667,
+    -67.78333,
+    8.91667
+],
+  "geometry": {"coordinates":[-67.78333000000001,8.91667],"type":"Point"}
+}

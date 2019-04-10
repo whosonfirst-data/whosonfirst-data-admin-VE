@@ -1,0 +1,75 @@
+{
+  "id": 421194749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.135437,8.466589,-71.135437,8.466589",
+    "geom:latitude":8.466589,
+    "geom:longitude":-71.135437,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Capital Pueblo Llano",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"M\u00e9rida",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":907422,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":26805322,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        1108694253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805322,
+        "qs:id":907422
+    },
+    "wof:country":"VE",
+    "wof:created":1459009818,
+    "wof:geomhash":"3b3d13ba2e32c2ee934593e526394c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694253,
+            "localadmin_id":421194749,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":421194749,
+    "wof:lastmodified":1500034071,
+    "wof:name":"Capital Pueblo Llano",
+    "wof:parent_id":1108694253,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.135437,
+    8.466589,
+    -71.135437,
+    8.466589
+],
+  "geometry": {"coordinates":[-71.135437,8.466589],"type":"Point"}
+}

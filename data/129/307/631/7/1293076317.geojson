@@ -1,0 +1,70 @@
+{
+  "id": 1293076317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.54924,9.25205,-69.54924,9.25205",
+    "geom:latitude":9.25205,
+    "geom:longitude":-69.54924,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Hoyada",
+    "gn:country_code":"VE",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3798193,
+    "gn:latitude":9.25205,
+    "gn:longitude":-69.54924,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Hoyada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Hoyada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680503,
+        421189087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3798193
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d8682a72722e675929da8ae85204b2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189087,
+            "locality_id":1293076317,
+            "region_id":85680503
+        }
+    ],
+    "wof:id":1293076317,
+    "wof:lastmodified":1537713643,
+    "wof:name":"La Hoyada",
+    "wof:parent_id":421189087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.54924,
+    9.25205,
+    -69.54924,
+    9.25205
+],
+  "geometry": {"coordinates":[-69.54924,9.25205],"type":"Point"}
+}

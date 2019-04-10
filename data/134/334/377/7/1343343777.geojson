@@ -1,0 +1,67 @@
+{
+  "id": 1343343777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.87499,10.29261,-66.87499,10.29261",
+    "geom:latitude":10.29261,
+    "geom:longitude":-66.87499,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Helechal",
+    "gn:country_code":"VE",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741995,
+    "gn:latitude":10.29261,
+    "gn:longitude":-66.87499,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Helechal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741995
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b2540425eb0c39fb5ead1450edced44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202375,
+            "locality_id":1343343777,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1343343777,
+    "wof:lastmodified":1536915191,
+    "wof:name":"Helechal",
+    "wof:parent_id":421202375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.87499,
+    10.29261,
+    -66.87499,
+    10.29261
+],
+  "geometry": {"coordinates":[-66.87499,10.29261],"type":"Point"}
+}

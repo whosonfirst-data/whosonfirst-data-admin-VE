@@ -1,0 +1,67 @@
+{
+  "id": 1243029997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.57248,10.50236,-63.57248,10.50236",
+    "geom:latitude":10.50236,
+    "geom:longitude":-63.57248,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Tropezon",
+    "gn:country_code":"VE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749431,
+    "gn:latitude":10.50236,
+    "gn:longitude":-63.57248,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Tropez\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749431
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1337f917999821844b4cf0cf2b553f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694383,
+            "locality_id":1243029997,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1243029997,
+    "wof:lastmodified":1536909280,
+    "wof:name":"Tropezon",
+    "wof:parent_id":1108694383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.57248000000001,
+    10.50236,
+    -63.57248000000001,
+    10.50236
+],
+  "geometry": {"coordinates":[-63.57248000000001,10.50236],"type":"Point"}
+}

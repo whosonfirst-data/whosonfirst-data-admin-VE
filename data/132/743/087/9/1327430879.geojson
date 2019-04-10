@@ -1,0 +1,67 @@
+{
+  "id": 1327430879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.30917,10.02878,-67.30917,10.02878",
+    "geom:latitude":10.02878,
+    "geom:longitude":-67.30917,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"El Chino",
+    "gn:country_code":"VE",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643677,
+    "gn:latitude":10.02878,
+    "gn:longitude":-67.30917,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Chino",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643677
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7565743cb3e5cbbcbda10df33fd95cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":1327430879,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1327430879,
+    "wof:lastmodified":1536682943,
+    "wof:name":"El Chino",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.30917,
+    10.02878,
+    -67.30917,
+    10.02878
+],
+  "geometry": {"coordinates":[-67.30916999999999,10.02878],"type":"Point"}
+}

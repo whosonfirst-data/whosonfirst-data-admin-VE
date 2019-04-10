@@ -1,0 +1,61 @@
+{
+  "id": 1209687467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.11167,10.10333,-63.11167,10.10333",
+    "geom:latitude":10.10333,
+    "geom:longitude":-63.11167,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bello Monte",
+    "gn:country_code":"VE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777626,
+    "gn:latitude":10.10333,
+    "gn:longitude":-63.11167,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Bello Monte",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777626
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2605467cfa4a45bb65173d8066fa36ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209687467
+        }
+    ],
+    "wof:id":1209687467,
+    "wof:lastmodified":1536279361,
+    "wof:name":"Bello Monte",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.11167,
+    10.10333,
+    -63.11167,
+    10.10333
+],
+  "geometry": {"coordinates":[-63.11167,10.10333],"type":"Point"}
+}

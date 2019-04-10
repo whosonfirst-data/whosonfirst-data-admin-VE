@@ -1,0 +1,71 @@
+{
+  "id": 1259938389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72689,10.57561,-68.72689,10.57561",
+    "geom:latitude":10.57561,
+    "geom:longitude":-68.72689,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Kilometro Cuarenta y Uno",
+    "gn:country_code":"VE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746811,
+    "gn:latitude":10.57561,
+    "gn:longitude":-68.72689,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kil\u00f3metro Cuarenta y Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 41",
+        "Kil\u00f3metro Cuarenta y Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746811
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0b66d04d52f798eecc6fb1b85432dfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694273,
+            "locality_id":1259938389,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1259938389,
+    "wof:lastmodified":1537713636,
+    "wof:name":"Kilometro Cuarenta y Uno",
+    "wof:parent_id":1108694273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72689,
+    10.57561,
+    -68.72689,
+    10.57561
+],
+  "geometry": {"coordinates":[-68.72689,10.57561],"type":"Point"}
+}

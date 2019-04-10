@@ -1,0 +1,67 @@
+{
+  "id": 1344256359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.27259,10.36963,-67.27259,10.36963",
+    "geom:latitude":10.36963,
+    "geom:longitude":-67.27259,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"La Peonia",
+    "gn:country_code":"VE",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636770,
+    "gn:latitude":10.36963,
+    "gn:longitude":-67.27259,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"La Peon\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636770
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"45d11daa2d04808630654e3286f5b466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694455,
+            "locality_id":1344256359,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1344256359,
+    "wof:lastmodified":1537086936,
+    "wof:name":"La Peonia",
+    "wof:parent_id":1108694455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.27259000000001,
+    10.36963,
+    -67.27259000000001,
+    10.36963
+],
+  "geometry": {"coordinates":[-67.27259000000001,10.36963],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242654015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.48333,9.25,-67.48333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":-67.48333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Vaquira",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635008,
+    "gn:latitude":9.25,
+    "gn:longitude":-67.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La V\u00e1quira",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baquira",
+        "Vaquira",
+        "La V\u00e1quira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635008
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"711812506fba253156c77372423f85e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1242654015,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1242654015,
+    "wof:lastmodified":1537713554,
+    "wof:name":"La Vaquira",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.48333000000001,
+    9.25,
+    -67.48333000000001,
+    9.25
+],
+  "geometry": {"coordinates":[-67.48333000000001,9.25],"type":"Point"}
+}

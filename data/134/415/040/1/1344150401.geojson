@@ -1,0 +1,72 @@
+{
+  "id": 1344150401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.88333,10.1,-67.88333,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-67.88333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Siropo",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626780,
+    "gn:latitude":10.1,
+    "gn:longitude":-67.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Siropo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siporo",
+        "Siropo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626780
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c68aa62512f8b4fbb9b6997039cd3d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1344150401,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1344150401,
+    "wof:lastmodified":1537713513,
+    "wof:name":"Siropo",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.88333,
+    10.1,
+    -67.88333,
+    10.1
+],
+  "geometry": {"coordinates":[-67.88333,10.1],"type":"Point"}
+}

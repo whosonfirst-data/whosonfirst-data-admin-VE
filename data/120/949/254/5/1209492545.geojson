@@ -1,0 +1,61 @@
+{
+  "id": 1209492545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.25,11.96667,-70.25,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":-70.25,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boca Jacuque",
+    "gn:country_code":"VE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648157,
+    "gn:latitude":11.96667,
+    "gn:longitude":-70.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Boca Jacuque",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648157
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fd204cab92b4559306f33a84d98b1ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209492545
+        }
+    ],
+    "wof:id":1209492545,
+    "wof:lastmodified":1536285439,
+    "wof:name":"Boca Jacuque",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.25,
+    11.96667,
+    -70.25,
+    11.96667
+],
+  "geometry": {"coordinates":[-70.25,11.96667],"type":"Point"}
+}

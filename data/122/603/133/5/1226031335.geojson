@@ -1,0 +1,72 @@
+{
+  "id": 1226031335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.36667,9.81667,-67.36667,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":-67.36667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cotoperi",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644964,
+    "gn:latitude":9.81667,
+    "gn:longitude":-67.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cotoper\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cotopericito",
+        "Cotoper\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644964
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"708dfbb15af149914cc77ad62342aa2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694381,
+            "locality_id":1226031335,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226031335,
+    "wof:lastmodified":1537713615,
+    "wof:name":"Cotoperi",
+    "wof:parent_id":1108694381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.36667,
+    9.81667,
+    -67.36667,
+    9.81667
+],
+  "geometry": {"coordinates":[-67.36667,9.81667],"type":"Point"}
+}

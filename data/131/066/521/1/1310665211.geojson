@@ -1,0 +1,67 @@
+{
+  "id": 1310665211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.93444,7.71314,-71.93444,7.71314",
+    "geom:latitude":7.71314,
+    "geom:longitude":-71.93444,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mesa Fresca",
+    "gn:country_code":"VE",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3795300,
+    "gn:latitude":7.71314,
+    "gn:longitude":-71.93444,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Mesa Fresca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421183171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3795300
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b490139541e87d978f5f43e7689386a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183171,
+            "locality_id":1310665211,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1310665211,
+    "wof:lastmodified":1536686618,
+    "wof:name":"Mesa Fresca",
+    "wof:parent_id":421183171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.93444000000002,
+    7.71314,
+    -71.93444000000002,
+    7.71314
+],
+  "geometry": {"coordinates":[-71.93444000000002,7.71314],"type":"Point"}
+}

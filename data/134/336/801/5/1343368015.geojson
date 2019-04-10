@@ -1,0 +1,67 @@
+{
+  "id": 1343368015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58528,4.54028,-67.58528,4.54028",
+    "geom:latitude":4.54028,
+    "geom:longitude":-67.58528,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Anegadizo",
+    "gn:country_code":"VE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745831,
+    "gn:latitude":4.54028,
+    "gn:longitude":-67.58528,
+    "gn:modification_date":"1995-10-24",
+    "gn:name":"Anegadizo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680511,
+        1108694105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745831
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c6b9e8e47f0d0797e2446e87615aa91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694105,
+            "locality_id":1343368015,
+            "region_id":85680511
+        }
+    ],
+    "wof:id":1343368015,
+    "wof:lastmodified":1536878727,
+    "wof:name":"Anegadizo",
+    "wof:parent_id":1108694105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58528000000001,
+    4.54028,
+    -67.58528000000001,
+    4.54028
+],
+  "geometry": {"coordinates":[-67.58528000000001,4.54028],"type":"Point"}
+}

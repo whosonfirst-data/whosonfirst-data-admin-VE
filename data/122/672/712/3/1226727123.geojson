@@ -1,0 +1,67 @@
+{
+  "id": 1226727123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1,11.46667,-69.1,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":-69.1,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Saladillo",
+    "gn:country_code":"VE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628772,
+    "gn:latitude":11.46667,
+    "gn:longitude":-69.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Saladillo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628772
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"02f5634e4a55021645ecb87f8330df89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694353,
+            "locality_id":1226727123,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1226727123,
+    "wof:lastmodified":1536742163,
+    "wof:name":"Saladillo",
+    "wof:parent_id":1108694353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1,
+    11.46667,
+    -69.1,
+    11.46667
+],
+  "geometry": {"coordinates":[-69.09999999999999,11.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293568755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.53333,9.28333,-67.53333,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":-67.53333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Limon",
+    "gn:country_code":"VE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642845,
+    "gn:latitude":9.28333,
+    "gn:longitude":-67.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642845
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"543e1381ad9c52c8e3693af56ef166f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1293568755,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1293568755,
+    "wof:lastmodified":1536669951,
+    "wof:name":"El Limon",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.53333,
+    9.28333,
+    -67.53333,
+    9.28333
+],
+  "geometry": {"coordinates":[-67.53333000000001,9.28333],"type":"Point"}
+}

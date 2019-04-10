@@ -1,0 +1,67 @@
+{
+  "id": 1310185417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63141,10.71213,-69.63141,10.71213",
+    "geom:latitude":10.71213,
+    "geom:longitude":-69.63141,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Guaidu",
+    "gn:country_code":"VE",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3751062,
+    "gn:latitude":10.71213,
+    "gn:longitude":-69.63141,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"Guaidu",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751062
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"60f2cc1477c2aa0e89c604d399831098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694469,
+            "locality_id":1310185417,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1310185417,
+    "wof:lastmodified":1536880587,
+    "wof:name":"Guaidu",
+    "wof:parent_id":1108694469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63141,
+    10.71213,
+    -69.63141,
+    10.71213
+],
+  "geometry": {"coordinates":[-69.63141,10.71213],"type":"Point"}
+}

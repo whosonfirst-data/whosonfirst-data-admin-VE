@@ -1,0 +1,71 @@
+{
+  "id": 1293381871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22862,7.43552,-65.22862,7.43552",
+    "geom:latitude":7.43552,
+    "geom:longitude":-65.22862,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"El Cambur",
+    "gn:country_code":"VE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644004,
+    "gn:latitude":7.43552,
+    "gn:longitude":-65.22862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Cambur",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambur",
+        "El Cambur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644004
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4d68b6445dc6f29b9f309ce33c6c1781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196979,
+            "locality_id":1293381871,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1293381871,
+    "wof:lastmodified":1537713608,
+    "wof:name":"El Cambur",
+    "wof:parent_id":421196979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22861999999999,
+    7.43552,
+    -65.22861999999999,
+    7.43552
+],
+  "geometry": {"coordinates":[-65.22861999999999,7.43552],"type":"Point"}
+}

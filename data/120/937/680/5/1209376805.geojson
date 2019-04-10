@@ -1,0 +1,61 @@
+{
+  "id": 1209376805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.2634,10.63339,-63.2634,10.63339",
+    "geom:latitude":10.63339,
+    "geom:longitude":-63.2634,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Guayacan de las Flores",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796013,
+    "gn:latitude":10.63339,
+    "gn:longitude":-63.2634,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Guayac\u00e1n de las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796013
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"770b7632ea788e381e4102e558a530e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209376805
+        }
+    ],
+    "wof:id":1209376805,
+    "wof:lastmodified":1536288922,
+    "wof:name":"Guayacan de las Flores",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.2634,
+    10.63339,
+    -63.2634,
+    10.63339
+],
+  "geometry": {"coordinates":[-63.2634,10.63339],"type":"Point"}
+}

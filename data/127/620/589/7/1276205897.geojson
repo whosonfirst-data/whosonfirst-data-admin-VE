@@ -1,0 +1,67 @@
+{
+  "id": 1276205897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.53117,9.26231,-65.53117,9.26231",
+    "geom:latitude":9.26231,
+    "geom:longitude":-65.53117,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mastrantal",
+    "gn:country_code":"VE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632827,
+    "gn:latitude":9.26231,
+    "gn:longitude":-65.53117,
+    "gn:modification_date":"2002-01-31",
+    "gn:name":"Mastrantal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632827
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c676672ed2c07962a83eb7a339117c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694483,
+            "locality_id":1276205897,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1276205897,
+    "wof:lastmodified":1536950109,
+    "wof:name":"Mastrantal",
+    "wof:parent_id":1108694483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.53116999999999,
+    9.26231,
+    -65.53116999999999,
+    9.26231
+],
+  "geometry": {"coordinates":[-65.53116999999999,9.26231],"type":"Point"}
+}

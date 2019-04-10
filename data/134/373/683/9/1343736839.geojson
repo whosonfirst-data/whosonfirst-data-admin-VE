@@ -1,0 +1,67 @@
+{
+  "id": 1343736839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95278,10.345,-63.95278,10.345",
+    "geom:latitude":10.345,
+    "geom:longitude":-63.95278,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Las Laras",
+    "gn:country_code":"VE",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3749013,
+    "gn:latitude":10.345,
+    "gn:longitude":-63.95278,
+    "gn:modification_date":"1996-07-17",
+    "gn:name":"Las Laras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749013
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b4beaab36aee9b17136c6bcd22a27dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694311,
+            "locality_id":1343736839,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1343736839,
+    "wof:lastmodified":1536843946,
+    "wof:name":"Las Laras",
+    "wof:parent_id":1108694311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95278,
+    10.345,
+    -63.95278,
+    10.345
+],
+  "geometry": {"coordinates":[-63.95278,10.345],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259483855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.48333,7.35,-71.48333,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":-71.48333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uzcategui",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3625564,
+    "gn:latitude":7.35,
+    "gn:longitude":-71.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uzc\u00e1tegui",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzc\u00e1tequi",
+        "Uzc\u00e1tegui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625564
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"348f4b723b638bd97891dde3b7a66d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1259483855,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1259483855,
+    "wof:lastmodified":1537713508,
+    "wof:name":"Uzcategui",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.48333000000002,
+    7.35,
+    -71.48333000000002,
+    7.35
+],
+  "geometry": {"coordinates":[-71.48333000000002,7.35],"type":"Point"}
+}

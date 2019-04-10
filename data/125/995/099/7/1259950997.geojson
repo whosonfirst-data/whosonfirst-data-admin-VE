@@ -1,0 +1,67 @@
+{
+  "id": 1259950997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.68333,10.15,-69.68333,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-69.68333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Baragua",
+    "gn:country_code":"VE",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3648597,
+    "gn:latitude":10.15,
+    "gn:longitude":-69.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Baragua",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3648597
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"427235eaa7a74cb75ccdc75bb194c018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1259950997,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1259950997,
+    "wof:lastmodified":1536681949,
+    "wof:name":"Baragua",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.68333,
+    10.15,
+    -69.68333,
+    10.15
+],
+  "geometry": {"coordinates":[-69.68333,10.15],"type":"Point"}
+}

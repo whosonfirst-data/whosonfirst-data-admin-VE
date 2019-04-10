@@ -1,0 +1,67 @@
+{
+  "id": 1293159827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97886,8.05168,-71.97886,8.05168",
+    "geom:latitude":8.05168,
+    "geom:longitude":-71.97886,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"El Cedro",
+    "gn:country_code":"VE",
+    "gn:dem":2490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643769,
+    "gn:latitude":8.05168,
+    "gn:longitude":-71.97886,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"El Cedro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421202067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643769
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6c40bf5553bdd5da068e64e0d88be359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202067,
+            "locality_id":1293159827,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1293159827,
+    "wof:lastmodified":1536762925,
+    "wof:name":"El Cedro",
+    "wof:parent_id":421202067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97886,
+    8.05168,
+    -71.97886,
+    8.05168
+],
+  "geometry": {"coordinates":[-71.97886,8.05168],"type":"Point"}
+}

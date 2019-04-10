@@ -1,0 +1,105 @@
+{
+  "id": 421183721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.34156,10.15894,-69.34156,10.15894",
+    "geom:latitude":10.15894,
+    "geom:longitude":-69.34156,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Carora"
+    ],
+    "name:fra_x_preferred":[
+        "Carora"
+    ],
+    "name:ita_x_preferred":[
+        "Carora"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10dd\u10e0\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Carora"
+    ],
+    "name:por_x_preferred":[
+        "Carora"
+    ],
+    "name:spa_x_preferred":[
+        "Carora"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7f85\u62c9"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3646482,
+    "qs:gn_pop":0,
+    "qs:name":"Carora",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Lara",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982732,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468392,
+    "src:geom":"quattroshapes",
+    "wd:elevation":419.0,
+    "wd:latitude":10.569167,
+    "wd:longitude":-70.261667,
+    "wd:wordcount":295,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646482,
+        "gp:id":468392,
+        "qs:id":982732,
+        "wd:id":"Q1044689"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009379,
+    "wof:geomhash":"9b2f71bd548f561234234906b01e624c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":421183721,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":421183721,
+    "wof:lastmodified":1527717699,
+    "wof:name":"Carora",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.34156,
+    10.15894,
+    -69.34156,
+    10.15894
+],
+  "geometry": {"coordinates":[-69.34156,10.15894],"type":"Point"}
+}

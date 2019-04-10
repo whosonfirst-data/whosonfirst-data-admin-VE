@@ -1,0 +1,67 @@
+{
+  "id": 1226105851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.67304,10.09719,-63.67304,10.09719",
+    "geom:latitude":10.09719,
+    "geom:longitude":-63.67304,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Cachimbo",
+    "gn:country_code":"VE",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777686,
+    "gn:latitude":10.09719,
+    "gn:longitude":-63.67304,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Cachimbo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777686
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e10f0920cd44008c1e108d99f3b4c4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694059,
+            "locality_id":1226105851,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1226105851,
+    "wof:lastmodified":1536637361,
+    "wof:name":"Cachimbo",
+    "wof:parent_id":1108694059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.67304,
+    10.09719,
+    -63.67304,
+    10.09719
+],
+  "geometry": {"coordinates":[-63.67304,10.09719],"type":"Point"}
+}

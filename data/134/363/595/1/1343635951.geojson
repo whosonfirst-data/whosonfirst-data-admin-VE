@@ -1,0 +1,67 @@
+{
+  "id": 1343635951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.76582,10.60664,-62.76582,10.60664",
+    "geom:latitude":10.60664,
+    "geom:longitude":-62.76582,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cachipal",
+    "gn:country_code":"VE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3797080,
+    "gn:latitude":10.60664,
+    "gn:longitude":-62.76582,
+    "gn:modification_date":"2002-10-09",
+    "gn:name":"Cachipal",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3797080
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b442e60a4bcff5cce0681d6060b869aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694139,
+            "locality_id":1343635951,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1343635951,
+    "wof:lastmodified":1536989643,
+    "wof:name":"Cachipal",
+    "wof:parent_id":1108694139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.76582,
+    10.60664,
+    -62.76582,
+    10.60664
+],
+  "geometry": {"coordinates":[-62.76582,10.60664],"type":"Point"}
+}

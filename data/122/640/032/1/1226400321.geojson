@@ -1,0 +1,67 @@
+{
+  "id": 1226400321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.66761,11.02677,-71.66761,11.02677",
+    "geom:latitude":11.02677,
+    "geom:longitude":-71.66761,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Los Canones",
+    "gn:country_code":"VE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3788376,
+    "gn:latitude":11.02677,
+    "gn:longitude":-71.66761,
+    "gn:modification_date":"2002-05-15",
+    "gn:name":"Los Ca\u00f1ones",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3788376
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b1424255700fe431cbe810dcf6bfde98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694067,
+            "locality_id":1226400321,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1226400321,
+    "wof:lastmodified":1536711365,
+    "wof:name":"Los Canones",
+    "wof:parent_id":1108694067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.66761,
+    11.02677,
+    -71.66761,
+    11.02677
+],
+  "geometry": {"coordinates":[-71.66761,11.02677],"type":"Point"}
+}

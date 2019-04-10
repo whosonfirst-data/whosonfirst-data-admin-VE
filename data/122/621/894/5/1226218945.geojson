@@ -1,0 +1,67 @@
+{
+  "id": 1226218945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03556,9.1964,-67.03556,9.1964",
+    "geom:latitude":9.1964,
+    "geom:longitude":-67.03556,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Becerro",
+    "gn:country_code":"VE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3644158,
+    "gn:latitude":9.1964,
+    "gn:longitude":-67.03556,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"El Becerro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3644158
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"8b14e9e6ca4a952da18413ce1961ac6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1226218945,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1226218945,
+    "wof:lastmodified":1536971945,
+    "wof:name":"El Becerro",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03556,
+    9.1964,
+    -67.03556,
+    9.1964
+],
+  "geometry": {"coordinates":[-67.03556,9.1964],"type":"Point"}
+}

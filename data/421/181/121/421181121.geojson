@@ -1,0 +1,93 @@
+{
+  "id": 421181121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74186,8.46587,-70.74186,8.46587",
+    "geom:latitude":8.46587,
+    "geom:longitude":-70.74186,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Calderas"
+    ],
+    "name:fra_x_preferred":[
+        "Calderas"
+    ],
+    "name:ita_x_preferred":[
+        "Calderas"
+    ],
+    "name:por_x_preferred":[
+        "Calderas"
+    ],
+    "name:spa_x_preferred":[
+        "Calderas"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3647436,
+    "qs:gn_pop":0,
+    "qs:name":"Calderas",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Barinas",
+    "qs:photos":82,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":82,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475385,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":382109,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2698,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        421171647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647436,
+        "gp:id":382109,
+        "qs:id":475385,
+        "wd:id":"Q159954"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009286,
+    "wof:geomhash":"cb633f311ebbe213d939f26b27802462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171647,
+            "locality_id":421181121,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":421181121,
+    "wof:lastmodified":1527716326,
+    "wof:name":"Calderas",
+    "wof:parent_id":421171647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74186,
+    8.46587,
+    -70.74186,
+    8.46587
+],
+  "geometry": {"coordinates":[-70.74186,8.46587],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243044457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.16667,8.41667,-67.16667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-67.16667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cana La Vaca",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647117,
+    "gn:latitude":8.41667,
+    "gn:longitude":-67.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ca\u00f1a La Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1o La Vaca",
+        "La Vaca",
+        "Ca\u00f1a La Vaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647117
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"66abedabdd9d389c583401fd42ebd239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694293,
+            "locality_id":1243044457,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1243044457,
+    "wof:lastmodified":1537713624,
+    "wof:name":"Cana La Vaca",
+    "wof:parent_id":1108694293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.16667,
+    8.41667,
+    -67.16667,
+    8.41667
+],
+  "geometry": {"coordinates":[-67.16667,8.41667],"type":"Point"}
+}

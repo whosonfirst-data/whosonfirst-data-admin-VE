@@ -1,0 +1,67 @@
+{
+  "id": 1276852291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.54556,9.20813,-63.54556,9.20813",
+    "geom:latitude":9.20813,
+    "geom:longitude":-63.54556,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Oso",
+    "gn:country_code":"VE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642383,
+    "gn:latitude":9.20813,
+    "gn:longitude":-63.54556,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Oso",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642383
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"02394184faf8150dbaeabf50e3b362c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694065,
+            "locality_id":1276852291,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1276852291,
+    "wof:lastmodified":1537074996,
+    "wof:name":"El Oso",
+    "wof:parent_id":1108694065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.54556,
+    9.20813,
+    -63.54556,
+    9.20813
+],
+  "geometry": {"coordinates":[-63.54556,9.20813],"type":"Point"}
+}

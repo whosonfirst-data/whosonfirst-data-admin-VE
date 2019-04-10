@@ -1,0 +1,67 @@
+{
+  "id": 1209980229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.01944,10.03333,-64.01944,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":-64.01944,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"El Chivo",
+    "gn:country_code":"VE",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777800,
+    "gn:latitude":10.03333,
+    "gn:longitude":-64.01944,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"El Chivo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680547,
+        1108694155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777800
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"671ce1b62cef88d5ad3d0040dbab3fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694155,
+            "locality_id":1209980229,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":1209980229,
+    "wof:lastmodified":1536391075,
+    "wof:name":"El Chivo",
+    "wof:parent_id":1108694155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.01944,
+    10.03333,
+    -64.01944,
+    10.03333
+],
+  "geometry": {"coordinates":[-64.01944,10.03333],"type":"Point"}
+}

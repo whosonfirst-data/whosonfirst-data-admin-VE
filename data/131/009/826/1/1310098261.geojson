@@ -1,0 +1,72 @@
+{
+  "id": 1310098261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05934,7.9168,-71.05934,7.9168",
+    "geom:latitude":7.9168,
+    "geom:longitude":-71.05934,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Pedraza La Vieja",
+    "gn:country_code":"VE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3630480,
+    "gn:latitude":7.9168,
+    "gn:longitude":-71.05934,
+    "gn:modification_date":"2012-01-31",
+    "gn:name":"Pedraza La Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pedraza la Vieja",
+        "Pedraza La Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3630480
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"70de5f545b210afa90c4f68a51af52d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694181,
+            "locality_id":1310098261,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1310098261,
+    "wof:lastmodified":1537713530,
+    "wof:name":"Pedraza La Vieja",
+    "wof:parent_id":1108694181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05934,
+    7.9168,
+    -71.05934,
+    7.9168
+],
+  "geometry": {"coordinates":[-71.05934000000001,7.9168],"type":"Point"}
+}

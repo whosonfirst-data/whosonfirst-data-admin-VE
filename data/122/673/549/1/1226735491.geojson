@@ -1,0 +1,67 @@
+{
+  "id": 1226735491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.60965,9.94372,-67.60965,9.94372",
+    "geom:latitude":9.94372,
+    "geom:longitude":-67.60965,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Los Aguacates",
+    "gn:country_code":"VE",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634620,
+    "gn:latitude":9.94372,
+    "gn:longitude":-67.60965,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Los Aguacates",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421189075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634620
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b9d29fc067703efe2223c819fb5cb4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189075,
+            "locality_id":1226735491,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":1226735491,
+    "wof:lastmodified":1536730703,
+    "wof:name":"Los Aguacates",
+    "wof:parent_id":421189075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.60965,
+    9.94372,
+    -67.60965,
+    9.94372
+],
+  "geometry": {"coordinates":[-67.60965,9.94372],"type":"Point"}
+}

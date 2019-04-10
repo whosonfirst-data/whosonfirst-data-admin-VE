@@ -1,0 +1,67 @@
+{
+  "id": 1242955399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.55101,10.42127,-66.55101,10.42127",
+    "geom:latitude":10.42127,
+    "geom:longitude":-66.55101,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jerico",
+    "gn:country_code":"VE",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3803798,
+    "gn:latitude":10.42127,
+    "gn:longitude":-66.55101,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Jeric\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421202063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803798
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2a1a3f0c9f1c2c79d0c84a62426a251d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202063,
+            "locality_id":1242955399,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1242955399,
+    "wof:lastmodified":1537015864,
+    "wof:name":"Jerico",
+    "wof:parent_id":421202063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.55100999999999,
+    10.42127,
+    -66.55100999999999,
+    10.42127
+],
+  "geometry": {"coordinates":[-66.55100999999999,10.42127],"type":"Point"}
+}

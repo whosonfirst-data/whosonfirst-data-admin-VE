@@ -1,0 +1,67 @@
+{
+  "id": 1226325671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.69,8.65111,-71.69,8.65111",
+    "geom:latitude":8.65111,
+    "geom:longitude":-71.69,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Taparo",
+    "gn:country_code":"VE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3641404,
+    "gn:latitude":8.65111,
+    "gn:longitude":-71.69,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"El Taparo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421173573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3641404
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"82e6b1ca781c425c6e0594afe2b37e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421173573,
+            "locality_id":1226325671,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1226325671,
+    "wof:lastmodified":1536817623,
+    "wof:name":"El Taparo",
+    "wof:parent_id":421173573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.69,
+    8.65111,
+    -71.69,
+    8.65111
+],
+  "geometry": {"coordinates":[-71.69,8.65111],"type":"Point"}
+}

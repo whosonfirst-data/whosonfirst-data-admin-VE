@@ -1,0 +1,72 @@
+{
+  "id": 1243234769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18934,10.18167,-69.18934,10.18167",
+    "geom:latitude":10.18167,
+    "geom:longitude":-69.18934,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nonavana",
+    "gn:country_code":"VE",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631491,
+    "gn:latitude":10.18167,
+    "gn:longitude":-69.18934,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nonavana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nonabana",
+        "Norabana",
+        "Nonavana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        421180895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631491
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"08e30ef2aff25ca432bd2d369ba6f20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180895,
+            "locality_id":1243234769,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1243234769,
+    "wof:lastmodified":1537713536,
+    "wof:name":"Nonavana",
+    "wof:parent_id":421180895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18934,
+    10.18167,
+    -69.18934,
+    10.18167
+],
+  "geometry": {"coordinates":[-69.18934,10.18167],"type":"Point"}
+}

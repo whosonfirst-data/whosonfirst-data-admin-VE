@@ -1,0 +1,61 @@
+{
+  "id": 1209282737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.66325,10.47168,-71.66325,10.47168",
+    "geom:latitude":10.47168,
+    "geom:longitude":-71.66325,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"La Herradura",
+    "gn:country_code":"VE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3789263,
+    "gn:latitude":10.47168,
+    "gn:longitude":-71.66325,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"La Herradura",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3789263
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1d572e526942c43d50ac9e0526055443",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209282737
+        }
+    ],
+    "wof:id":1209282737,
+    "wof:lastmodified":1536291964,
+    "wof:name":"La Herradura",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.66325,
+    10.47168,
+    -71.66325,
+    10.47168
+],
+  "geometry": {"coordinates":[-71.66325000000001,10.47168],"type":"Point"}
+}

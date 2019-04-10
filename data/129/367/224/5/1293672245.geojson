@@ -1,0 +1,67 @@
+{
+  "id": 1293672245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33859,8.0079,-71.33859,8.0079",
+    "geom:latitude":8.0079,
+    "geom:longitude":-71.33859,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Portachuelo",
+    "gn:country_code":"VE",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629955,
+    "gn:latitude":8.0079,
+    "gn:longitude":-71.33859,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Portachuelo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421175381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629955
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"4e0644a512f35452aa92667430264a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421175381,
+            "locality_id":1293672245,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1293672245,
+    "wof:lastmodified":1537017245,
+    "wof:name":"Portachuelo",
+    "wof:parent_id":421175381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33859,
+    8.0079,
+    -71.33859,
+    8.0079
+],
+  "geometry": {"coordinates":[-71.33859,8.0079],"type":"Point"}
+}

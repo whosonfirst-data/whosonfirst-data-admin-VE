@@ -1,0 +1,67 @@
+{
+  "id": 1276520053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.61667,10.46667,-66.61667,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-66.61667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Trapichito",
+    "gn:country_code":"VE",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626028,
+    "gn:latitude":10.46667,
+    "gn:longitude":-66.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Trapichito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421189081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626028
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"b5107040d669c4c030d761a304e5b474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189081,
+            "locality_id":1276520053,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":1276520053,
+    "wof:lastmodified":1537024778,
+    "wof:name":"Trapichito",
+    "wof:parent_id":421189081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.61667,
+    10.46667,
+    -66.61667,
+    10.46667
+],
+  "geometry": {"coordinates":[-66.61667,10.46667],"type":"Point"}
+}

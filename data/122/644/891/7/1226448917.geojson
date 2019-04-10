@@ -1,0 +1,67 @@
+{
+  "id": 1226448917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.10317,7.31604,-69.10317,7.31604",
+    "geom:latitude":7.31604,
+    "geom:longitude":-69.10317,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"El Clavel",
+    "gn:country_code":"VE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3643624,
+    "gn:latitude":7.31604,
+    "gn:longitude":-69.10317,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"El Clavel",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3643624
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"54cbf0b754371cb861541fd6c142bd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1226448917,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1226448917,
+    "wof:lastmodified":1536639902,
+    "wof:name":"El Clavel",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.10316999999999,
+    7.31604,
+    -69.10316999999999,
+    7.31604
+],
+  "geometry": {"coordinates":[-69.10316999999999,7.31604],"type":"Point"}
+}

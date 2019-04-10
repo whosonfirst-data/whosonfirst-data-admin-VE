@@ -1,0 +1,67 @@
+{
+  "id": 1344014395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38333,9.98333,-68.38333,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-68.38333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"VE",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3628004,
+    "gn:latitude":9.98333,
+    "gn:longitude":-68.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        421172277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3628004
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"30338eab67b2a7b2dee456850b5f22d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172277,
+            "locality_id":1344014395,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1344014395,
+    "wof:lastmodified":1536942837,
+    "wof:name":"San Luis",
+    "wof:parent_id":421172277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38333,
+    9.98333,
+    -68.38333,
+    9.98333
+],
+  "geometry": {"coordinates":[-68.38333,9.98333],"type":"Point"}
+}

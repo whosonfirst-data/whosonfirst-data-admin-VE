@@ -1,0 +1,67 @@
+{
+  "id": 1343361115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.45755,10.07661,-64.45755,10.07661",
+    "geom:latitude":10.07661,
+    "geom:longitude":-64.45755,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Santa Juana",
+    "gn:country_code":"VE",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3484310,
+    "gn:latitude":10.07661,
+    "gn:longitude":-64.45755,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Santa Juana",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484310
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"c45873b4938d826c1c174f821af8fa0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "locality_id":1343361115,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343361115,
+    "wof:lastmodified":1536889140,
+    "wof:name":"Santa Juana",
+    "wof:parent_id":421185095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.45755,
+    10.07661,
+    -64.45755,
+    10.07661
+],
+  "geometry": {"coordinates":[-64.45755,10.07661],"type":"Point"}
+}

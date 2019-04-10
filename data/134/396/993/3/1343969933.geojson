@@ -1,0 +1,67 @@
+{
+  "id": 1343969933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53266,8.55964,-64.53266,8.55964",
+    "geom:latitude":8.55964,
+    "geom:longitude":-64.53266,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hornito",
+    "gn:country_code":"VE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3485321,
+    "gn:latitude":8.55964,
+    "gn:longitude":-64.53266,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Hornito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421184195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3485321
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"ef4d03b6045347d6846d1f00e5c86834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184195,
+            "locality_id":1343969933,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1343969933,
+    "wof:lastmodified":1537005541,
+    "wof:name":"Hornito",
+    "wof:parent_id":421184195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53265999999999,
+    8.55964,
+    -64.53265999999999,
+    8.55964
+],
+  "geometry": {"coordinates":[-64.53265999999999,8.55964],"type":"Point"}
+}

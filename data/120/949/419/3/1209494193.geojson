@@ -1,0 +1,61 @@
+{
+  "id": 1209494193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20273,10.24452,-69.20273,10.24452",
+    "geom:latitude":10.24452,
+    "geom:longitude":-69.20273,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"La Parapara",
+    "gn:country_code":"VE",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3768098,
+    "gn:latitude":10.24452,
+    "gn:longitude":-69.20273,
+    "gn:modification_date":"2002-01-24",
+    "gn:name":"La Parapara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3768098
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"95d75bff5b41298e26a196581bce9d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209494193
+        }
+    ],
+    "wof:id":1209494193,
+    "wof:lastmodified":1536285389,
+    "wof:name":"La Parapara",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20273,
+    10.24452,
+    -69.20273,
+    10.24452
+],
+  "geometry": {"coordinates":[-69.20273,10.24452],"type":"Point"}
+}

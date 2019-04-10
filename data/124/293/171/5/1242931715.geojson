@@ -1,0 +1,67 @@
+{
+  "id": 1242931715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.92111,10.30389,-68.92111,10.30389",
+    "geom:latitude":10.30389,
+    "geom:longitude":-68.92111,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Bucaral",
+    "gn:country_code":"VE",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647913,
+    "gn:latitude":10.30389,
+    "gn:longitude":-68.92111,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Bucaral",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647913
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a0b282fb462597e6ec462dccbd05b89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694129,
+            "locality_id":1242931715,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1242931715,
+    "wof:lastmodified":1537048740,
+    "wof:name":"Bucaral",
+    "wof:parent_id":1108694129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.92111,
+    10.30389,
+    -68.92111,
+    10.30389
+],
+  "geometry": {"coordinates":[-68.92111,10.30389],"type":"Point"}
+}

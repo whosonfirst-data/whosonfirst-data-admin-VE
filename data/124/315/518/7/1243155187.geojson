@@ -1,0 +1,68 @@
+{
+  "id": 1243155187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09386,8.60966,-71.09386,8.60966",
+    "geom:latitude":8.60966,
+    "geom:longitude":-71.09386,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Loma Linda",
+    "gn:country_code":"VE",
+    "gn:dem":1857,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11054697,
+    "gn:latitude":8.60966,
+    "gn:longitude":-71.09386,
+    "gn:modification_date":"2016-02-02",
+    "gn:name":"Loma Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680473,
+        421184351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054697
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"631033837fe0eb068a06567d655c84e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421184351,
+            "locality_id":1243155187,
+            "region_id":85680473
+        }
+    ],
+    "wof:id":1243155187,
+    "wof:lastmodified":1536728901,
+    "wof:name":"Loma Linda",
+    "wof:parent_id":421184351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09385999999998,
+    8.60966,
+    -71.09385999999998,
+    8.60966
+],
+  "geometry": {"coordinates":[-71.09385999999998,8.60966],"type":"Point"}
+}

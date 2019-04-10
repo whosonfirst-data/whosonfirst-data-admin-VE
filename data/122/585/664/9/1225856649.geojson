@@ -1,0 +1,73 @@
+{
+  "id": 1225856649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.38333,8.91667,-63.38333,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-63.38333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Las Curaguas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636067,
+    "gn:latitude":8.91667,
+    "gn:longitude":-63.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Curaguas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Coraguas",
+        "Las Coraguas",
+        "Las Curaguas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636067
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9f0d00fd2aa30810e4f1f2bacd7fb054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1225856649,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1225856649,
+    "wof:lastmodified":1537713561,
+    "wof:name":"Las Curaguas",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.38333000000001,
+    8.91667,
+    -63.38333000000001,
+    8.91667
+],
+  "geometry": {"coordinates":[-63.38333000000001,8.91667],"type":"Point"}
+}

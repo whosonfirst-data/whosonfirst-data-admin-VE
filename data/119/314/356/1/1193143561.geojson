@@ -1,0 +1,67 @@
+{
+  "id": 1193143561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.59167,7.39,-69.59167,7.39",
+    "geom:latitude":7.39,
+    "geom:longitude":-69.59167,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Caicara",
+    "gn:country_code":"VE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3647538,
+    "gn:latitude":7.39,
+    "gn:longitude":-69.59167,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"Caicara",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3647538
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"6b6f259256697908b903dd78756a387e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1193143561,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1193143561,
+    "wof:lastmodified":1536364231,
+    "wof:name":"Caicara",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.59167,
+    7.39,
+    -69.59167,
+    7.39
+],
+  "geometry": {"coordinates":[-69.59166999999999,7.39],"type":"Point"}
+}

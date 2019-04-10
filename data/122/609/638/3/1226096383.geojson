@@ -1,0 +1,76 @@
+{
+  "id": 1226096383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.11715,10.53233,-67.11715,10.53233",
+    "geom:latitude":10.53233,
+    "geom:longitude":-67.11715,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Carayaca",
+    "gn:country_code":"VE",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646623,
+    "gn:latitude":10.53233,
+    "gn:longitude":-67.11715,
+    "gn:modification_date":"2014-07-22",
+    "gn:name":"Carayaca",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carayaca"
+    ],
+    "name:por_x_preferred":[
+        "Carayaca"
+    ],
+    "name:spa_x_preferred":[
+        "Carayaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680533,
+        421169209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646623
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"9c432817b17b22bc54b77fe23ed4ff91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421169209,
+            "locality_id":1226096383,
+            "region_id":85680533
+        }
+    ],
+    "wof:id":1226096383,
+    "wof:lastmodified":1537560466,
+    "wof:name":"Carayaca",
+    "wof:parent_id":421169209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.11715,
+    10.53233,
+    -67.11715,
+    10.53233
+],
+  "geometry": {"coordinates":[-67.11715,10.53233],"type":"Point"}
+}

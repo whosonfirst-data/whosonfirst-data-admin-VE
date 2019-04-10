@@ -1,0 +1,161 @@
+{
+  "id": 421187417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.62443,10.47818,-66.62443,10.47818",
+    "geom:latitude":10.47818,
+    "geom:longitude":-66.62443,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "La Guaira"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u74dc\u4f0a\u62c9"
+    ],
+    "name:cze_x_preferred":[
+        "La Guaira"
+    ],
+    "name:dut_x_preferred":[
+        "La Guaira"
+    ],
+    "name:eng_x_preferred":[
+        "La Guaira"
+    ],
+    "name:epo_x_preferred":[
+        "La Guaira"
+    ],
+    "name:fin_x_preferred":[
+        "La Guaira"
+    ],
+    "name:fre_x_preferred":[
+        "La Guaira"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10d2\u10e3\u10d0\u10d8\u10e0\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Guaira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05d2\u05d5\u05d0\u05d9\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "La Guaira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30b0\u30a2\u30a4\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uacfc\uc774\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "La Gvaira"
+    ],
+    "name:nah_x_preferred":[
+        "La Guaira"
+    ],
+    "name:nob_x_preferred":[
+        "La Guaira"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u06af\u0648\u0627\u06cc\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "La Guaira"
+    ],
+    "name:por_x_preferred":[
+        "La Guaira"
+    ],
+    "name:rum_x_preferred":[
+        "La Guaira"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0413\u0443\u0430\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Guaira"
+    ],
+    "name:swe_x_preferred":[
+        "La Guaira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0413\u0443\u0430\u0439\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06af\u0648\u0627\u06cc\u0631\u0627"
+    ],
+    "name:war_x_preferred":[
+        "La Guaira"
+    ],
+    "qs:gn_country":"VE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3803719,
+    "qs:gn_pop":0,
+    "qs:name":"La Guaira",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Vargas",
+    "qs:photos":346,
+    "qs:photos_1k":70,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":346,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082801,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":468419,
+    "src:geom":"quattroshapes",
+    "wd:latitude":10.6,
+    "wd:longitude":-66.933056,
+    "wd:wordcount":525,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680553,
+        421189081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3803719,
+        "gp:id":468419,
+        "qs:id":1082801,
+        "wd:id":"Q873405"
+    },
+    "wof:country":"VE",
+    "wof:created":1459009512,
+    "wof:geomhash":"e26de0507d0b95eefc424905d303f317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189081,
+            "locality_id":421187417,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":421187417,
+    "wof:lastmodified":1527716249,
+    "wof:name":"La Guaira",
+    "wof:parent_id":421189081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.62443,
+    10.47818,
+    -66.62443,
+    10.47818
+],
+  "geometry": {"coordinates":[-66.62443,10.47818],"type":"Point"}
+}

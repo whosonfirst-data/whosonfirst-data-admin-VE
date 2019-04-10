@@ -1,0 +1,61 @@
+{
+  "id": 1209473957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.81142,7.95809,-71.81142,7.95809",
+    "geom:latitude":7.95809,
+    "geom:longitude":-71.81142,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Las Mesas",
+    "gn:country_code":"VE",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3739096,
+    "gn:latitude":7.95809,
+    "gn:longitude":-71.81142,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Las Mesas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739096
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"71ef9baf711b251261f1a8d8e12d9ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209473957
+        }
+    ],
+    "wof:id":1209473957,
+    "wof:lastmodified":1536285995,
+    "wof:name":"Las Mesas",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.81142,
+    7.9580899999999986,
+    -71.81142,
+    7.9580899999999986
+],
+  "geometry": {"coordinates":[-71.81142,7.95809],"type":"Point"}
+}

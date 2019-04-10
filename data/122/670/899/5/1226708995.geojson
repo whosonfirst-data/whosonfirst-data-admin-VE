@@ -1,0 +1,72 @@
+{
+  "id": 1226708995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.53333,7.53333,-71.53333,7.53333",
+    "geom:latitude":7.53333,
+    "geom:longitude":-71.53333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Capillas",
+    "gn:cc2":"VE",
+    "gn:country_code":"VE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3646813,
+    "gn:latitude":7.53333,
+    "gn:longitude":-71.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Capillas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Capilla",
+        "Capillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        1108694257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3646813
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a99626a63b40dbd95c8b2d696eef8838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694257,
+            "locality_id":1226708995,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1226708995,
+    "wof:lastmodified":1537713623,
+    "wof:name":"Capillas",
+    "wof:parent_id":1108694257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.53333,
+    7.53333,
+    -71.53333,
+    7.53333
+],
+  "geometry": {"coordinates":[-71.53333000000001,7.53333],"type":"Point"}
+}

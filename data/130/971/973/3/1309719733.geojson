@@ -1,0 +1,67 @@
+{
+  "id": 1309719733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.5452,8.24463,-63.5452,8.24463",
+    "geom:latitude":8.24463,
+    "geom:longitude":-63.5452,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Moriche Seco",
+    "gn:country_code":"VE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3484932,
+    "gn:latitude":8.24463,
+    "gn:longitude":-63.5452,
+    "gn:modification_date":"1998-11-20",
+    "gn:name":"Moriche Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421203571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3484932
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e4cbb867792fa79983558e9467828add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421203571,
+            "locality_id":1309719733,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1309719733,
+    "wof:lastmodified":1537052851,
+    "wof:name":"Moriche Seco",
+    "wof:parent_id":421203571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.5452,
+    8.24463,
+    -63.5452,
+    8.24463
+],
+  "geometry": {"coordinates":[-63.5452,8.24463],"type":"Point"}
+}

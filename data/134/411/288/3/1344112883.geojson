@@ -1,0 +1,67 @@
+{
+  "id": 1344112883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.87554,9.88061,-72.87554,9.88061",
+    "geom:latitude":9.88061,
+    "geom:longitude":-72.87554,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Canoguapa",
+    "gn:country_code":"VE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741489,
+    "gn:latitude":9.88061,
+    "gn:longitude":-72.87554,
+    "gn:modification_date":"1995-08-09",
+    "gn:name":"Canoguapa",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741489
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"a0d790bed3f412ea532a616e20ba4766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694269,
+            "locality_id":1344112883,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1344112883,
+    "wof:lastmodified":1536800174,
+    "wof:name":"Canoguapa",
+    "wof:parent_id":1108694269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.87554,
+    9.88061,
+    -72.87554,
+    9.88061
+],
+  "geometry": {"coordinates":[-72.87554,9.88061],"type":"Point"}
+}

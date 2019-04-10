@@ -1,0 +1,67 @@
+{
+  "id": 1344215139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17647,10.21834,-71.17647,10.21834",
+    "geom:latitude":10.21834,
+    "geom:longitude":-71.17647,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Monte Oscuro",
+    "gn:country_code":"VE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632026,
+    "gn:latitude":10.21834,
+    "gn:longitude":-71.17647,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Monte Oscuro",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        1108694239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632026
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"67eb6d447c9c8ab9cb73aef99e21c208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694239,
+            "locality_id":1344215139,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1344215139,
+    "wof:lastmodified":1536652427,
+    "wof:name":"Monte Oscuro",
+    "wof:parent_id":1108694239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17647,
+    10.21834,
+    -71.17647,
+    10.21834
+],
+  "geometry": {"coordinates":[-71.17646999999999,10.21834],"type":"Point"}
+}

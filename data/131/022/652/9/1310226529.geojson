@@ -1,0 +1,67 @@
+{
+  "id": 1310226529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.60175,8.11277,-63.60175,8.11277",
+    "geom:latitude":8.11277,
+    "geom:longitude":-63.60175,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zanjonote",
+    "gn:country_code":"VE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3809867,
+    "gn:latitude":8.11277,
+    "gn:longitude":-63.60175,
+    "gn:modification_date":"2003-01-07",
+    "gn:name":"Zanjonote",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421171639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3809867
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"d0b64ca037c1fcfef691c9523acb4308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171639,
+            "locality_id":1310226529,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":1310226529,
+    "wof:lastmodified":1536821122,
+    "wof:name":"Zanjonote",
+    "wof:parent_id":421171639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.60175,
+    8.11277,
+    -63.60175,
+    8.11277
+],
+  "geometry": {"coordinates":[-63.60175,8.11277],"type":"Point"}
+}

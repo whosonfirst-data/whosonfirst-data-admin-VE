@@ -1,0 +1,61 @@
+{
+  "id": 1209071185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21157,10.61349,-63.21157,10.61349",
+    "geom:latitude":10.61349,
+    "geom:longitude":-63.21157,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"La Cumbre",
+    "gn:country_code":"VE",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638191,
+    "gn:latitude":10.61349,
+    "gn:longitude":-63.21157,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Cumbre",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638191
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"95fee22da59a3b97ffc7e509dbf84710",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209071185
+        }
+    ],
+    "wof:id":1209071185,
+    "wof:lastmodified":1536298642,
+    "wof:name":"La Cumbre",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21157,
+    10.61349,
+    -63.21157,
+    10.61349
+],
+  "geometry": {"coordinates":[-63.21157,10.61349],"type":"Point"}
+}

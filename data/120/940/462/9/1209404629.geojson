@@ -1,0 +1,61 @@
+{
+  "id": 1209404629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.20237,9.92285,-68.20237,9.92285",
+    "geom:latitude":9.92285,
+    "geom:longitude":-68.20237,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Los Sitios",
+    "gn:country_code":"VE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633642,
+    "gn:latitude":9.92285,
+    "gn:longitude":-68.20237,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Los Sitios",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633642
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aed0d968470592404ed7005815b0273e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209404629
+        }
+    ],
+    "wof:id":1209404629,
+    "wof:lastmodified":1536288035,
+    "wof:name":"Los Sitios",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.20237,
+    9.92285,
+    -68.20237,
+    9.92285
+],
+  "geometry": {"coordinates":[-68.20237,9.92285],"type":"Point"}
+}

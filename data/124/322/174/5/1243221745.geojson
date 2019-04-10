@@ -1,0 +1,67 @@
+{
+  "id": 1243221745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.67301,10.66422,-71.67301,10.66422",
+    "geom:latitude":10.66422,
+    "geom:longitude":-71.67301,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Los Lirios",
+    "gn:country_code":"VE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3634017,
+    "gn:latitude":10.66422,
+    "gn:longitude":-71.67301,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Lirios",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680487,
+        421172589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3634017
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"1a024a977a3c47bfd10d873599fc9250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172589,
+            "locality_id":1243221745,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":1243221745,
+    "wof:lastmodified":1536631046,
+    "wof:name":"Los Lirios",
+    "wof:parent_id":421172589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.67300999999998,
+    10.66422,
+    -71.67300999999998,
+    10.66422
+],
+  "geometry": {"coordinates":[-71.67300999999998,10.66422],"type":"Point"}
+}

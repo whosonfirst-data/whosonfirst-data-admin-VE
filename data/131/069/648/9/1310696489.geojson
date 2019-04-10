@@ -1,0 +1,67 @@
+{
+  "id": 1310696489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53804,9.81658,-68.53804,9.81658",
+    "geom:latitude":9.81658,
+    "geom:longitude":-68.53804,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Quebrada Abajo",
+    "gn:country_code":"VE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3629541,
+    "gn:latitude":9.81658,
+    "gn:longitude":-68.53804,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Quebrada Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680491,
+        421200093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3629541
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"266264769a219cd2cf5297bf56f97878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421200093,
+            "locality_id":1310696489,
+            "region_id":85680491
+        }
+    ],
+    "wof:id":1310696489,
+    "wof:lastmodified":1536640484,
+    "wof:name":"Quebrada Abajo",
+    "wof:parent_id":421200093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53804000000001,
+    9.81658,
+    -68.53804000000001,
+    9.81658
+],
+  "geometry": {"coordinates":[-68.53804000000001,9.81658],"type":"Point"}
+}

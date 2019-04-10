@@ -1,0 +1,67 @@
+{
+  "id": 1260358451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.56657,9.19127,-70.56657,9.19127",
+    "geom:latitude":9.19127,
+    "geom:longitude":-70.56657,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Loma del Medio",
+    "gn:country_code":"VE",
+    "gn:dem":1887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3482398,
+    "gn:latitude":9.19127,
+    "gn:longitude":-70.56657,
+    "gn:modification_date":"1999-01-14",
+    "gn:name":"Loma del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680483,
+        421172605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3482398
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"999f4c3206b8f2ba72fbad84e2b615ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421172605,
+            "locality_id":1260358451,
+            "region_id":85680483
+        }
+    ],
+    "wof:id":1260358451,
+    "wof:lastmodified":1536608874,
+    "wof:name":"Loma del Medio",
+    "wof:parent_id":421172605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.56657,
+    9.19127,
+    -70.56657,
+    9.19127
+],
+  "geometry": {"coordinates":[-70.56657,9.19127],"type":"Point"}
+}

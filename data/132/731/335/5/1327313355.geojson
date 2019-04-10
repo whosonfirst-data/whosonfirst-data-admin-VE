@@ -1,0 +1,67 @@
+{
+  "id": 1327313355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26667,9.58333,-66.26667,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":-66.26667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Mokundas",
+    "gn:country_code":"VE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3635658,
+    "gn:latitude":9.58333,
+    "gn:longitude":-66.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Mokundas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3635658
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"266d047da47474402b03c12e3fae711b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694303,
+            "locality_id":1327313355,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1327313355,
+    "wof:lastmodified":1536851690,
+    "wof:name":"Las Mokundas",
+    "wof:parent_id":1108694303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26666999999999,
+    9.58333,
+    -66.26666999999999,
+    9.58333
+],
+  "geometry": {"coordinates":[-66.26666999999999,9.58333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226254549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17096,9.92847,-65.17096,9.92847",
+    "geom:latitude":9.92847,
+    "geom:longitude":-65.17096,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Cruz de Belen",
+    "gn:country_code":"VE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3638269,
+    "gn:latitude":9.92847,
+    "gn:longitude":-65.17096,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Cruz de Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bel\u00e9n",
+        "Cruz Bel\u00e9n",
+        "La Cruz de Bel\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        1108694127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3638269
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2de1a43ecdaffd2ea79be317a26a82b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694127,
+            "locality_id":1226254549,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1226254549,
+    "wof:lastmodified":1537713573,
+    "wof:name":"La Cruz de Belen",
+    "wof:parent_id":1108694127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17096,
+    9.92847,
+    -65.17096,
+    9.92847
+],
+  "geometry": {"coordinates":[-65.17095999999999,9.92847],"type":"Point"}
+}

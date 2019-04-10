@@ -1,0 +1,67 @@
+{
+  "id": 1343540825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.39673,8.85389,-65.39673,8.85389",
+    "geom:latitude":8.85389,
+    "geom:longitude":-65.39673,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Manguito",
+    "gn:country_code":"VE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3642687,
+    "gn:latitude":8.85389,
+    "gn:longitude":-65.39673,
+    "gn:modification_date":"1996-04-04",
+    "gn:name":"El Manguito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3642687
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f5b505c0c9ce5421088f0aacf96edf70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694413,
+            "locality_id":1343540825,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1343540825,
+    "wof:lastmodified":1536628593,
+    "wof:name":"El Manguito",
+    "wof:parent_id":1108694413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.39673,
+    8.85389,
+    -65.39673,
+    8.85389
+],
+  "geometry": {"coordinates":[-65.39673000000001,8.85389],"type":"Point"}
+}

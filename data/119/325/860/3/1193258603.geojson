@@ -1,0 +1,67 @@
+{
+  "id": 1193258603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90188,10.92757,-70.90188,10.92757",
+    "geom:latitude":10.92757,
+    "geom:longitude":-70.90188,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Las Cabeceritas",
+    "gn:country_code":"VE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3636227,
+    "gn:latitude":10.92757,
+    "gn:longitude":-70.90188,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Las Cabeceritas",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3636227
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"11885bc752629b6cc5bdf5c777091a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694281,
+            "locality_id":1193258603,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1193258603,
+    "wof:lastmodified":1536383322,
+    "wof:name":"Las Cabeceritas",
+    "wof:parent_id":1108694281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90188,
+    10.92757,
+    -70.90188,
+    10.92757
+],
+  "geometry": {"coordinates":[-70.90188000000001,10.92757],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209592911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61239,11.14509,-69.61239,11.14509",
+    "geom:latitude":11.14509,
+    "geom:longitude":-69.61239,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Las Trincheras",
+    "gn:country_code":"VE",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3784740,
+    "gn:latitude":11.14509,
+    "gn:longitude":-69.61239,
+    "gn:modification_date":"2002-04-17",
+    "gn:name":"Las Trincheras",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3784740
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f085c47a86d6bca6a3128e5b72423f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209592911
+        }
+    ],
+    "wof:id":1209592911,
+    "wof:lastmodified":1536282420,
+    "wof:name":"Las Trincheras",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61239,
+    11.14509,
+    -69.61239,
+    11.14509
+],
+  "geometry": {"coordinates":[-69.61239,11.14509],"type":"Point"}
+}

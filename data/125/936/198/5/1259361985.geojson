@@ -1,0 +1,67 @@
+{
+  "id": 1259361985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15063,10.31463,-70.15063,10.31463",
+    "geom:latitude":10.31463,
+    "geom:longitude":-70.15063,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Camay",
+    "gn:country_code":"VE",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3767234,
+    "gn:latitude":10.31463,
+    "gn:longitude":-70.15063,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Camay",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3767234
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"f4069584b871d7f1881cb5b65cf751e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "locality_id":1259361985,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":1259361985,
+    "wof:lastmodified":1537031873,
+    "wof:name":"Camay",
+    "wof:parent_id":1108694453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15063,
+    10.31463,
+    -70.15063,
+    10.31463
+],
+  "geometry": {"coordinates":[-70.15063000000001,10.31463],"type":"Point"}
+}

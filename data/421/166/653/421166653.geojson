@@ -1,0 +1,111 @@
+{
+  "id": 421166653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.485408,10.03757,-67.485408,10.03757",
+    "geom:latitude":10.03757,
+    "geom:longitude":-67.485408,
+    "gn:country":"VE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":76614,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Villa de Cura"
+    ],
+    "name:ita_x_preferred":[
+        "Villa de Cura"
+    ],
+    "name:pol_x_preferred":[
+        "Villa de Cura"
+    ],
+    "name:por_x_preferred":[
+        "Villa de Cura"
+    ],
+    "name:spa_x_preferred":[
+        "Villa de Cura"
+    ],
+    "name:swe_x_preferred":[
+        "Villa de Cura"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u62c9\u93ae"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Villa de Cura",
+    "qs:name_adm0":"Venezuela",
+    "qs:name_adm1":"Aragua",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":268874,
+    "qs:woe_adm0":23424982,
+    "qs:woe_id":395285,
+    "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680525,
+        1108694179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3625341,
+        "gp:id":395285,
+        "qs:id":268874,
+        "wd:id":"Q2721732",
+        "wk:page":"Villa de Cura"
+    },
+    "wof:concordances_alt":{
+        "qs:id":149532
+    },
+    "wof:country":"VE",
+    "wof:created":1459008698,
+    "wof:geomhash":"7335d55f66de11afcee6345be710fad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694179,
+            "locality_id":421166653,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":421166653,
+    "wof:lastmodified":1534379805,
+    "wof:name":"Villa de Cura",
+    "wof:parent_id":1108694179,
+    "wof:placetype":"locality",
+    "wof:population":76614,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890435129
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.485408,
+    10.03757,
+    -67.485408,
+    10.03757
+],
+  "geometry": {"coordinates":[-67.48540800000001,10.03757],"type":"Point"}
+}

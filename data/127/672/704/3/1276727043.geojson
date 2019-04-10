@@ -1,0 +1,67 @@
+{
+  "id": 1276727043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.30359,10.66882,-63.30359,10.66882",
+    "geom:latitude":10.66882,
+    "geom:longitude":-63.30359,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Copey",
+    "gn:country_code":"VE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3755989,
+    "gn:latitude":10.66882,
+    "gn:longitude":-63.30359,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"El Copey",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3755989
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"7131de0883cfc6f07b342fded1640737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694113,
+            "locality_id":1276727043,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1276727043,
+    "wof:lastmodified":1536748236,
+    "wof:name":"El Copey",
+    "wof:parent_id":1108694113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.30359,
+    10.66882,
+    -63.30359,
+    10.66882
+],
+  "geometry": {"coordinates":[-63.30359,10.66882],"type":"Point"}
+}

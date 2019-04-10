@@ -1,0 +1,61 @@
+{
+  "id": 1209336033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18333,4.71667,-61.18333,4.71667",
+    "geom:latitude":4.71667,
+    "geom:longitude":-61.18333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sauata",
+    "gn:country_code":"VE",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626933,
+    "gn:latitude":4.71667,
+    "gn:longitude":-61.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sauata",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626933
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"35383e19f075af617a97b6a79350ed01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632317,
+            "locality_id":1209336033
+        }
+    ],
+    "wof:id":1209336033,
+    "wof:lastmodified":1536290218,
+    "wof:name":"Sauata",
+    "wof:parent_id":85632317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18333000000001,
+    4.71667,
+    -61.18333000000001,
+    4.71667
+],
+  "geometry": {"coordinates":[-61.18333000000001,4.71667],"type":"Point"}
+}

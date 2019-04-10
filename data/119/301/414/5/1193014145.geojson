@@ -1,0 +1,67 @@
+{
+  "id": 1193014145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.93444,8.15139,-67.93444,8.15139",
+    "geom:latitude":8.15139,
+    "geom:longitude":-67.93444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Guanaparito",
+    "gn:country_code":"VE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766704,
+    "gn:latitude":8.15139,
+    "gn:longitude":-67.93444,
+    "gn:modification_date":"1999-06-17",
+    "gn:name":"Guanaparito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680469,
+        1108694099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766704
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"acf4379132d1d084cb5d09e844a521a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694099,
+            "locality_id":1193014145,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":1193014145,
+    "wof:lastmodified":1536380323,
+    "wof:name":"Guanaparito",
+    "wof:parent_id":1108694099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.93444000000001,
+    8.15139,
+    -67.93444000000001,
+    8.15139
+],
+  "geometry": {"coordinates":[-67.93444000000001,8.15139],"type":"Point"}
+}

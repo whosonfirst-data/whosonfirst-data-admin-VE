@@ -1,0 +1,67 @@
+{
+  "id": 1293884277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97842,7.00299,-70.97842,7.00299",
+    "geom:latitude":7.00299,
+    "geom:longitude":-70.97842,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Palmita",
+    "gn:country_code":"VE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756830,
+    "gn:latitude":7.00299,
+    "gn:longitude":-70.97842,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Palmita",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756830
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"905b6220cf48e67ee743b9c343622ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1293884277,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1293884277,
+    "wof:lastmodified":1536712544,
+    "wof:name":"Palmita",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97842,
+    7.00299,
+    -70.97842,
+    7.00299
+],
+  "geometry": {"coordinates":[-70.97842,7.00299],"type":"Point"}
+}

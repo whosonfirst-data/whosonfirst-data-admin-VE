@@ -1,0 +1,67 @@
+{
+  "id": 1309691701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.55341,9.65186,-67.55341,9.65186",
+    "geom:latitude":9.65186,
+    "geom:longitude":-67.55341,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Palambrota",
+    "gn:country_code":"VE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3631103,
+    "gn:latitude":9.65186,
+    "gn:longitude":-67.55341,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Palambrota",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680543,
+        1108694319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3631103
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0faebf1a4712a15f98a58f61fdd77bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694319,
+            "locality_id":1309691701,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":1309691701,
+    "wof:lastmodified":1537092405,
+    "wof:name":"Palambrota",
+    "wof:parent_id":1108694319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.55341,
+    9.65186,
+    -67.55341,
+    9.65186
+],
+  "geometry": {"coordinates":[-67.55341,9.65186],"type":"Point"}
+}

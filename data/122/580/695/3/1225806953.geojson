@@ -1,0 +1,67 @@
+{
+  "id": 1225806953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.80855,10.1683,-63.80855,10.1683",
+    "geom:latitude":10.1683,
+    "geom:longitude":-63.80855,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mayalito",
+    "gn:country_code":"VE",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3796234,
+    "gn:latitude":10.1683,
+    "gn:longitude":-63.80855,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Mayalito",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3796234
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"aed54b6844f903b804af2818b60b88c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694311,
+            "locality_id":1225806953,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":1225806953,
+    "wof:lastmodified":1537066887,
+    "wof:name":"Mayalito",
+    "wof:parent_id":1108694311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.80855,
+    10.1683,
+    -63.80855,
+    10.1683
+],
+  "geometry": {"coordinates":[-63.80855,10.1683],"type":"Point"}
+}

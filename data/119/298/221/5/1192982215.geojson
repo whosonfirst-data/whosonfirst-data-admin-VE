@@ -1,0 +1,67 @@
+{
+  "id": 1192982215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.72,9.00556,-63.72,9.00556",
+    "geom:latitude":9.00556,
+    "geom:longitude":-63.72,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mata Negra",
+    "gn:country_code":"VE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778037,
+    "gn:latitude":9.00556,
+    "gn:longitude":-63.72,
+    "gn:modification_date":"2002-03-14",
+    "gn:name":"Mata Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778037
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"e2f1485f601e11261b221c3ec68d0fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "locality_id":1192982215,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":1192982215,
+    "wof:lastmodified":1536366888,
+    "wof:name":"Mata Negra",
+    "wof:parent_id":421183227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.72,
+    9.00556,
+    -63.72,
+    9.00556
+],
+  "geometry": {"coordinates":[-63.72,9.00556],"type":"Point"}
+}

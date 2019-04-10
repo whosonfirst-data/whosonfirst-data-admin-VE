@@ -1,0 +1,67 @@
+{
+  "id": 1327114783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09432,12.00462,-70.09432,12.00462",
+    "geom:latitude":12.00462,
+    "geom:longitude":-70.09432,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sabaneta Escondida",
+    "gn:country_code":"VE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740355,
+    "gn:latitude":12.00462,
+    "gn:longitude":-70.09432,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Sabaneta Escondida",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        421180891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740355
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"232e80972e14a9ec7a9d67a117556683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421180891,
+            "locality_id":1327114783,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":1327114783,
+    "wof:lastmodified":1536640720,
+    "wof:name":"Sabaneta Escondida",
+    "wof:parent_id":421180891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09432,
+    12.00462,
+    -70.09432,
+    12.00462
+],
+  "geometry": {"coordinates":[-70.09432,12.00462],"type":"Point"}
+}

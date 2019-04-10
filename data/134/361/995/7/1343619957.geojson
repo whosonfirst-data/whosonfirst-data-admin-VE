@@ -1,0 +1,67 @@
+{
+  "id": 1343619957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.98778,10.27583,-68.98778,10.27583",
+    "geom:latitude":10.27583,
+    "geom:longitude":-68.98778,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Los Vegotes",
+    "gn:country_code":"VE",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3633583,
+    "gn:latitude":10.27583,
+    "gn:longitude":-68.98778,
+    "gn:modification_date":"1999-03-11",
+    "gn:name":"Los Vegotes",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3633583
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"23c25d94f21f4a800f93df1bf8d47be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694465,
+            "locality_id":1343619957,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":1343619957,
+    "wof:lastmodified":1537012870,
+    "wof:name":"Los Vegotes",
+    "wof:parent_id":1108694465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.98778,
+    10.27583,
+    -68.98778,
+    10.27583
+],
+  "geometry": {"coordinates":[-68.98778,10.27583],"type":"Point"}
+}

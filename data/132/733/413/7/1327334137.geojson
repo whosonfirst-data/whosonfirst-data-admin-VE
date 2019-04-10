@@ -1,0 +1,67 @@
+{
+  "id": 1327334137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.03111,6.97694,-71.03111,6.97694",
+    "geom:latitude":6.97694,
+    "geom:longitude":-71.03111,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Los Pajaros",
+    "gn:country_code":"VE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759586,
+    "gn:latitude":6.97694,
+    "gn:longitude":-71.03111,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"Los Pajaros",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759586
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"0df5eaabbbbf9a79fdf749f0d728b31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1327334137,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1327334137,
+    "wof:lastmodified":1536821823,
+    "wof:name":"Los Pajaros",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.03111,
+    6.97694,
+    -71.03111,
+    6.97694
+],
+  "geometry": {"coordinates":[-71.03111,6.97694],"type":"Point"}
+}

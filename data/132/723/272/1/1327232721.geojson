@@ -1,0 +1,67 @@
+{
+  "id": 1327232721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.53333,7.5,-69.53333,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":-69.53333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mata Despegada",
+    "gn:country_code":"VE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3632687,
+    "gn:latitude":7.5,
+    "gn:longitude":-69.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mata Despegada",
+    "gn:population":0,
+    "gn:timezone":"America/Caracas",
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421202593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3632687
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"2a2697a4876218a5277488d63120750e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202593,
+            "locality_id":1327232721,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1327232721,
+    "wof:lastmodified":1536968836,
+    "wof:name":"Mata Despegada",
+    "wof:parent_id":421202593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ve",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.53333,
+    7.5,
+    -69.53333,
+    7.5
+],
+  "geometry": {"coordinates":[-69.53333000000001,7.5],"type":"Point"}
+}
