@@ -10,6 +10,12 @@
     "geom:latitude":7.63263,
     "geom:longitude":-72.36422,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Junin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.627785,
     "lbl:longitude":-72.378887,
     "meso:admin_1":"Tachira",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421203511,
-    "wof:lastmodified":1536616158,
+    "wof:lastmodified":1554489042,
     "wof:name":"Junin",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

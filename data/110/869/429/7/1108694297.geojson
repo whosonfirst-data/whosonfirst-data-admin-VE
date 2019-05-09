@@ -10,6 +10,12 @@
     "geom:latitude":8.981022,
     "geom:longitude":-70.803813,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.976909,
     "lbl:longitude":-70.791054,
     "meso:admin_1":"Merida",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108694297,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489239,
     "wof:name":"Miranda",
     "wof:parent_id":85680473,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"MI",
     "wof:superseded_by":[],

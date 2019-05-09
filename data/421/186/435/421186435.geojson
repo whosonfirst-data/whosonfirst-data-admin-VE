@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230958,
-    "geom:area_square_m":2821490883.785563,
+    "geom:area_square_m":2821490883.786295,
     "geom:bbox":"-72.1872605589,8.58351152209,-71.6440564847,9.239861488",
     "geom:latitude":8.89497,
     "geom:longitude":-71.911816,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Colon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.895745,
     "lbl:longitude":-71.911787,
     "meso:admin_1":"Zulia",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421186435,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1555037101,
     "wof:name":"Colon",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

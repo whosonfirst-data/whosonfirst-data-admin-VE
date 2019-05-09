@@ -10,6 +10,12 @@
     "geom:latitude":7.856051,
     "geom:longitude":-72.2308,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Guasimos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.85301,
     "lbl:longitude":-72.233686,
     "meso:admin_1":"Tachira",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694209,
-    "wof:lastmodified":1536615356,
+    "wof:lastmodified":1554489237,
     "wof:name":"Guasimos",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.388725,
     "geom:longitude":-66.944848,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Los Salias Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.387338,
     "lbl:longitude":-66.950153,
     "meso:admin_1":"Miranda",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421177411,
-    "wof:lastmodified":1536615958,
+    "wof:lastmodified":1554488779,
     "wof:name":"Los Salias",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

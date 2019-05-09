@@ -10,6 +10,12 @@
     "geom:latitude":9.601718,
     "geom:longitude":-69.289576,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Araure Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.600163,
     "lbl:longitude":-69.308818,
     "meso:admin_1":"Portuguesa",
@@ -31,9 +37,10 @@
         "Araure"
     ],
     "name:eng_x_preferred":[
-        "Araure Municipality"
+        "Araure"
     ],
     "name:eng_x_variant":[
+        "Araure",
         "Araure"
     ],
     "name:fre_x_preferred":[
@@ -84,10 +91,11 @@
         }
     ],
     "wof:id":1108694093,
-    "wof:lastmodified":1536615353,
+    "wof:lastmodified":1555220364,
     "wof:name":"Araure",
     "wof:parent_id":85680503,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

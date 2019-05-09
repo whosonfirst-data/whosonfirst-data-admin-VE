@@ -10,6 +10,12 @@
     "geom:latitude":7.991657,
     "geom:longitude":-72.183399,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Michelena Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.977431,
     "lbl:longitude":-72.178354,
     "meso:admin_1":"Tachira",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694287,
-    "wof:lastmodified":1536615357,
+    "wof:lastmodified":1554489238,
     "wof:name":"Michelena",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

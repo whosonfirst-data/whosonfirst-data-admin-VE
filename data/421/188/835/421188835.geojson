@@ -10,6 +10,12 @@
     "geom:latitude":10.407996,
     "geom:longitude":-67.738316,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Mario Brice\u00f1o Iragorri Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.422867,
     "lbl:longitude":-67.726546,
     "meso:admin_1":"Aragua",
@@ -86,10 +92,11 @@
         }
     ],
     "wof:id":421188835,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1554488979,
     "wof:name":"Mario Brice\u00f1o Iragorri",
     "wof:parent_id":85680525,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"OC",
     "wof:superseded_by":[],

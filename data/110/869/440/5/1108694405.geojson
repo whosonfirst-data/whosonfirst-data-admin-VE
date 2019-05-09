@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018058,
-    "geom:area_square_m":220121262.556018,
+    "geom:area_square_m":220121262.55611,
     "geom:bbox":"-69.0837029877,9.54703371211,-68.91,9.77",
     "geom:latitude":9.661142,
     "geom:longitude":-68.993511,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Rafael De Onoto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.687144,
     "lbl:longitude":-69.009245,
     "meso:admin_1":"Portuguesa",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694405,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037551,
     "wof:name":"San Rafael De Onoto",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

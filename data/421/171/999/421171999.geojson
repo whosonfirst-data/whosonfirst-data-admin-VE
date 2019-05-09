@@ -10,6 +10,12 @@
     "geom:latitude":8.51529,
     "geom:longitude":-71.280666,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Campo Elias Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.608725,
     "lbl:longitude":-71.291042,
     "meso:admin_1":"Merida",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421171999,
-    "wof:lastmodified":1536615936,
+    "wof:lastmodified":1554488765,
     "wof:name":"Campo Elias",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

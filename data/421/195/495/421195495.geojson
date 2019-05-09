@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044288,
-    "geom:area_square_m":538537441.675208,
+    "geom:area_square_m":538537441.675185,
     "geom:bbox":"-68.3997782781,10.3012346002,-68.1395032371,10.5883096768",
     "geom:latitude":10.454134,
     "geom:longitude":-68.264338,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Juan Jose Mora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.46854,
     "lbl:longitude":-68.248853,
     "meso:admin_1":"Carabobo",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421195495,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1555037067,
     "wof:name":"Juan Jose Mora",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

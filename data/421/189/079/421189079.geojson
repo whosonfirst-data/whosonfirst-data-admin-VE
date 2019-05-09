@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173981,
-    "geom:area_square_m":2122548290.529098,
+    "geom:area_square_m":2122548290.528821,
     "geom:bbox":"-67.3987140569,9.13531981006,-66.7044760653,9.70166666667",
     "geom:latitude":9.378823,
     "geom:longitude":-67.075248,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Mellado Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.335837,
     "lbl:longitude":-67.109423,
     "meso:admin_1":"Guarico",
@@ -73,10 +79,11 @@
         }
     ],
     "wof:id":421189079,
-    "wof:lastmodified":1512517600,
+    "wof:lastmodified":1554488982,
     "wof:name":"Mellado",
     "wof:parent_id":85680543,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100774,
-    "geom:area_square_m":1224918710.128727,
+    "geom:area_square_m":1224918710.128659,
     "geom:bbox":"-67.4084293458,10.4016320816,-66.3097350252,11.873749733",
     "geom:latitude":10.573778,
     "geom:longitude":-66.892359,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Vargas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.519472,
     "lbl:longitude":-67.117687,
     "meso:admin_1":"Vargas",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":421169209,
-    "wof:lastmodified":1553816357,
+    "wof:lastmodified":1555037169,
     "wof:name":"Vargas",
     "wof:parent_id":85680533,
     "wof:placetype":"county",

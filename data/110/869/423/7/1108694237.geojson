@@ -10,6 +10,12 @@
     "geom:latitude":10.233325,
     "geom:longitude":-68.735574,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "La Trinidad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.229893,
     "lbl:longitude":-68.730361,
     "meso:admin_1":"Yaracuy",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694237,
-    "wof:lastmodified":1536615356,
+    "wof:lastmodified":1554489237,
     "wof:name":"La Trinidad",
     "wof:parent_id":85680507,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"BR",
     "wof:superseded_by":[],

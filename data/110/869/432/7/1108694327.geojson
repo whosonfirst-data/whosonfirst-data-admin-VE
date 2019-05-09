@@ -10,6 +10,12 @@
     "geom:latitude":9.987987,
     "geom:longitude":-69.233471,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Palavecino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.991211,
     "lbl:longitude":-69.235084,
     "meso:admin_1":"Lara",
@@ -31,9 +37,10 @@
         "Palavecino"
     ],
     "name:eng_x_preferred":[
-        "Palavecino Municipality"
+        "Palavecino"
     ],
     "name:eng_x_variant":[
+        "Palavecino",
         "Palavecino"
     ],
     "name:fre_x_preferred":[
@@ -81,10 +88,11 @@
         }
     ],
     "wof:id":1108694327,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1555220364,
     "wof:name":"Palavecino",
     "wof:parent_id":85680499,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"PA",
     "wof:superseded_by":[],

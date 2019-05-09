@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010157,
-    "geom:area_square_m":123571394.236044,
+    "geom:area_square_m":123571394.236073,
     "geom:bbox":"-66.1009353379,10.2075,-65.9817692148,10.3831377811",
     "geom:latitude":10.289469,
     "geom:longitude":-66.032359,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Andres Bello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.325859,
     "lbl:longitude":-66.021526,
     "meso:admin_1":"Miranda",
@@ -31,10 +37,11 @@
         "Andr\u00e9s Bello"
     ],
     "name:eng_x_preferred":[
-        "Andr\u00e9s Bello Municipality"
+        "Andr\u00e9s Bello"
     ],
     "name:eng_x_variant":[
         "Andres Bello",
+        "Andr\u00e9s Bello",
         "Andr\u00e9s Bello"
     ],
     "name:fre_x_preferred":[
@@ -85,10 +92,11 @@
         }
     ],
     "wof:id":1108694069,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555220364,
     "wof:name":"Andres Bello",
     "wof:parent_id":85680553,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AB",
     "wof:superseded_by":[],

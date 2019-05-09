@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087377,
-    "geom:area_square_m":1065101445.143485,
+    "geom:area_square_m":1065101445.14328,
     "geom:bbox":"-70.4875644839,9.42085076023,-69.9986097023,9.83412243742",
     "geom:latitude":9.66455,
     "geom:longitude":-70.234081,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Carache Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.679736,
     "lbl:longitude":-70.197105,
     "meso:admin_1":"Trujillo",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694147,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037559,
     "wof:name":"Carache",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

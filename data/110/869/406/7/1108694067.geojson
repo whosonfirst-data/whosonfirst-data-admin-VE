@@ -10,6 +10,12 @@
     "geom:latitude":11.023843,
     "geom:longitude":-71.693541,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Almirante Padilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.042301,
     "lbl:longitude":-71.739035,
     "meso:admin_1":"Zulia",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108694067,
-    "wof:lastmodified":1536615352,
+    "wof:lastmodified":1554489233,
     "wof:name":"Almirante Padilla",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

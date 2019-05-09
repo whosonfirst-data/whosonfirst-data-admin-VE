@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28382,
-    "geom:area_square_m":3472773148.391127,
+    "geom:area_square_m":3472773148.391246,
     "geom:bbox":"-70.4919810412,7.94002600583,-69.45,8.74166666667",
     "geom:latitude":8.292059,
     "geom:longitude":-70.029651,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":771756,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Barinas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.253277,
     "lbl:longitude":-70.072978,
     "meso:admin_1":"Barinas",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890429493,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1555037031,
     "wof:name":"Barinas",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

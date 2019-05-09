@@ -10,6 +10,12 @@
     "geom:latitude":7.980862,
     "geom:longitude":-70.349121,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pedraza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.903123,
     "lbl:longitude":-70.134071,
     "meso:admin_1":"Barinas",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694343,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489241,
     "wof:name":"Pedraza",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

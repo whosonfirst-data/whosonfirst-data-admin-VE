@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014954,
-    "geom:area_square_m":182485626.338232,
+    "geom:area_square_m":182485626.338216,
     "geom:bbox":"-70.8143514318,9.1971965216,-70.6259557455,9.37362273398",
     "geom:latitude":9.275538,
     "geom:longitude":-70.715809,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Escuque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.261457,
     "lbl:longitude":-70.730082,
     "meso:admin_1":"Trujillo",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421182049,
-    "wof:lastmodified":1553816371,
+    "wof:lastmodified":1555037124,
     "wof:name":"Escuque",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

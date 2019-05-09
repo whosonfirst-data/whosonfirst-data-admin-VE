@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.053798,
-    "geom:area_square_m":12851893613.554117,
+    "geom:area_square_m":12851893613.553352,
     "geom:bbox":"-63.533777061,8.74750507672,-62.2913459697,10.237916946",
     "geom:latitude":9.489287,
     "geom:longitude":-62.923814,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Maturin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.548634,
     "lbl:longitude":-62.926767,
     "meso:admin_1":"Monagas",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421186375,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555037102,
     "wof:name":"Maturin",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

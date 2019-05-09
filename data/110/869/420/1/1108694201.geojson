@@ -10,6 +10,12 @@
     "geom:latitude":10.261026,
     "geom:longitude":-67.873769,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Guacara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.262045,
     "lbl:longitude":-67.889715,
     "meso:admin_1":"Carabobo",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108694201,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489237,
     "wof:name":"Guacara",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

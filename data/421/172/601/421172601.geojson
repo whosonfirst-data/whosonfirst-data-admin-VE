@@ -10,6 +10,12 @@
     "geom:latitude":10.602977,
     "geom:longitude":-63.986381,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Cruz Salmeron Acosta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.593313,
     "lbl:longitude":-63.88496,
     "meso:admin_1":"Sucre",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421172601,
-    "wof:lastmodified":1536615944,
+    "wof:lastmodified":1554488772,
     "wof:name":"Cruz Salmeron Acosta",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

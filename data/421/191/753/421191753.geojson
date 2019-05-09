@@ -10,6 +10,12 @@
     "geom:latitude":9.247536,
     "geom:longitude":-61.675693,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Tucupita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.191523,
     "lbl:longitude":-61.686651,
     "meso:admin_1":"Delta Amacuro",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421191753,
-    "wof:lastmodified":1536616098,
+    "wof:lastmodified":1554489004,
     "wof:name":"Tucupita",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

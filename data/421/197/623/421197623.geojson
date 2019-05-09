@@ -10,6 +10,12 @@
     "geom:latitude":7.336686,
     "geom:longitude":-62.565849,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Piar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.464095,
     "lbl:longitude":-62.529444,
     "meso:admin_1":"Bolivar",
@@ -74,10 +80,11 @@
         }
     ],
     "wof:id":421197623,
-    "wof:lastmodified":1536616125,
+    "wof:lastmodified":1554489023,
     "wof:name":"Piar",
     "wof:parent_id":85680517,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"PI",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":8.263188,
     "geom:longitude":-72.040672,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Judas Tadeo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.262518,
     "lbl:longitude":-72.042592,
     "meso:admin_1":"Tachira",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694399,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489241,
     "wof:name":"San Judas Tadeo",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

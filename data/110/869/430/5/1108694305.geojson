@@ -10,6 +10,12 @@
     "geom:latitude":9.481211,
     "geom:longitude":-69.926657,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Monse\u00f1or Jose Vicente De Unda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.485764,
     "lbl:longitude":-69.935846,
     "meso:admin_1":"Portuguesa",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694305,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489239,
     "wof:name":"Monse\u00f1or Jose Vicente De Unda",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

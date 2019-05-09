@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117477,
-    "geom:area_square_m":1437772309.05297,
+    "geom:area_square_m":1437772309.053636,
     "geom:bbox":"-67.8342829671,7.89113291188,-67.3649139552,8.44541619056",
     "geom:latitude":8.1996,
     "geom:longitude":-67.555401,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Camaguan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.25262,
     "lbl:longitude":-67.555379,
     "meso:admin_1":"Guarico",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108694141,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037560,
     "wof:name":"Camaguan",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

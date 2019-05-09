@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053368,
-    "geom:area_square_m":649203057.84162,
+    "geom:area_square_m":649203057.842285,
     "geom:bbox":"-63.4959506854,10.1532079751,-63.0948386626,10.666222572",
     "geom:latitude":10.334144,
     "geom:longitude":-63.306515,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Andres Eloy Blanco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.30191,
     "lbl:longitude":-63.289846,
     "meso:admin_1":"Sucre",
@@ -31,10 +37,11 @@
         "Andr\u00e9s Eloy Blanco"
     ],
     "name:eng_x_preferred":[
-        "Andr\u00e9s Eloy Blanco Municipality"
+        "Andr\u00e9s Eloy Blanco"
     ],
     "name:eng_x_variant":[
         "Andres Eloy Blanco",
+        "Andr\u00e9s Eloy Blanco",
         "Andr\u00e9s Eloy Blanco"
     ],
     "name:fre_x_preferred":[
@@ -76,10 +83,11 @@
         }
     ],
     "wof:id":1108694075,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555220364,
     "wof:name":"Andres Eloy Blanco",
     "wof:parent_id":85680561,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AB",
     "wof:superseded_by":[],

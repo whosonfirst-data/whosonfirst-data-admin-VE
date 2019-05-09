@@ -10,6 +10,12 @@
     "geom:latitude":11.08562,
     "geom:longitude":-63.920994,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Gomez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.088441,
     "lbl:longitude":-63.924951,
     "meso:admin_1":"Nueva Esparta",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421202069,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1554489033,
     "wof:name":"Gomez",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

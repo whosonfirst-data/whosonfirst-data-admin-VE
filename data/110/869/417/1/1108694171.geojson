@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009937,
-    "geom:area_square_m":120903721.713227,
+    "geom:area_square_m":120903721.713196,
     "geom:bbox":"-67.741588999,10.1903623428,-67.6509697335,10.3447601113",
     "geom:latitude":10.274754,
     "geom:longitude":-67.698393,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Diego Ibarra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.292871,
     "lbl:longitude":-67.69753,
     "meso:admin_1":"Carabobo",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108694171,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037558,
     "wof:name":"Diego Ibarra",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

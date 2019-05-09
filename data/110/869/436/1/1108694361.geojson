@@ -10,6 +10,12 @@
     "geom:latitude":9.561505,
     "geom:longitude":-66.73193,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Rafael Urdaneta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.51591,
     "lbl:longitude":-66.728452,
     "meso:admin_1":"Aragua",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108694361,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489241,
     "wof:name":"Rafael Urdaneta",
     "wof:parent_id":85680525,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"UR",
     "wof:superseded_by":[],

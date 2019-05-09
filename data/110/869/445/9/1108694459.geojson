@@ -10,6 +10,12 @@
     "geom:latitude":9.021271,
     "geom:longitude":-71.108892,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Tulio Febres Cordero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.962296,
     "lbl:longitude":-71.109084,
     "meso:admin_1":"Merida",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108694459,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489243,
     "wof:name":"Tulio Febres Cordero",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

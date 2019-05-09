@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07767,
-    "geom:area_square_m":947760488.066569,
+    "geom:area_square_m":947760488.067059,
     "geom:bbox":"-68.8828582019,9.05948187043,-68.4061512143,9.55772141694",
     "geom:latitude":9.305176,
     "geom:longitude":-68.63496,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Ricaurte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.330316,
     "lbl:longitude":-68.6711,
     "meso:admin_1":"Cojedes",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694369,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037552,
     "wof:name":"Ricaurte",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

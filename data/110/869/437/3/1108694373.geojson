@@ -10,6 +10,12 @@
     "geom:latitude":8.241466,
     "geom:longitude":-71.827996,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Rivas Davila Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.240289,
     "lbl:longitude":-71.829223,
     "meso:admin_1":"Merida",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108694373,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489241,
     "wof:name":"Rivas Davila",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

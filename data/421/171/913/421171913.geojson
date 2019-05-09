@@ -10,6 +10,12 @@
     "geom:latitude":10.258865,
     "geom:longitude":-66.83673,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Cristobal Rojas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.26045,
     "lbl:longitude":-66.83777,
     "meso:admin_1":"Miranda",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421171913,
-    "wof:lastmodified":1536615935,
+    "wof:lastmodified":1554488765,
     "wof:name":"Cristobal Rojas",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

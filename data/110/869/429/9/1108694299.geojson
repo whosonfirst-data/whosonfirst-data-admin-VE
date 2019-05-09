@@ -10,6 +10,12 @@
     "geom:latitude":9.559628,
     "geom:longitude":-70.660071,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.498508,
     "lbl:longitude":-70.692145,
     "meso:admin_1":"Trujillo",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108694299,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489239,
     "wof:name":"Miranda",
     "wof:parent_id":85680483,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"MI",
     "wof:superseded_by":[],

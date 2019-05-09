@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005126,
-    "geom:area_square_m":62719676.941016,
+    "geom:area_square_m":62719676.940974,
     "geom:bbox":"-71.8013578214,8.24961474848,-71.6877194227,8.37",
     "geom:latitude":8.300459,
     "geom:longitude":-71.743151,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Tovar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.288727,
     "lbl:longitude":-71.739392,
     "meso:admin_1":"Merida",
@@ -32,9 +38,10 @@
         "Tovar"
     ],
     "name:eng_x_preferred":[
-        "Tovar Municipality"
+        "Tovar"
     ],
     "name:eng_x_variant":[
+        "Tovar",
         "Tovar"
     ],
     "name:fra_x_preferred":[
@@ -106,10 +113,11 @@
         }
     ],
     "wof:id":421169421,
-    "wof:lastmodified":1553816357,
+    "wof:lastmodified":1555220345,
     "wof:name":"Tovar",
     "wof:parent_id":85680473,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"TO",
     "wof:superseded_by":[],

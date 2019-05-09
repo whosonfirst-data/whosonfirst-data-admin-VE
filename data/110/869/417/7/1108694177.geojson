@@ -10,6 +10,12 @@
     "geom:latitude":9.206244,
     "geom:longitude":-69.189004,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Esteller Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.199602,
     "lbl:longitude":-69.186771,
     "meso:admin_1":"Portuguesa",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694177,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489236,
     "wof:name":"Esteller",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

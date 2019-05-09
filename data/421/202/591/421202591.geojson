@@ -10,6 +10,12 @@
     "geom:latitude":10.532078,
     "geom:longitude":-66.960909,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Libertador Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.527185,
     "lbl:longitude":-66.962102,
     "meso:admin_1":"Distrito Federal",
@@ -89,10 +95,11 @@
         }
     ],
     "wof:id":421202591,
-    "wof:lastmodified":1536616148,
+    "wof:lastmodified":1554489036,
     "wof:name":"Libertador",
     "wof:parent_id":85680535,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"LI",
     "wof:superseded_by":[],

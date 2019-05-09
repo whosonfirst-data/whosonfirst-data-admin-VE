@@ -10,6 +10,12 @@
     "geom:latitude":8.999286,
     "geom:longitude":-68.872177,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosalia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.944831,
     "lbl:longitude":-68.800455,
     "meso:admin_1":"Portuguesa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694417,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489242,
     "wof:name":"Santa Rosalia",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

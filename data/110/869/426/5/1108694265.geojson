@@ -10,6 +10,12 @@
     "geom:latitude":9.82218,
     "geom:longitude":-68.418366,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Lima Blanco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.826028,
     "lbl:longitude":-68.433539,
     "meso:admin_1":"Cojedes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694265,
-    "wof:lastmodified":1536615357,
+    "wof:lastmodified":1554489238,
     "wof:name":"Lima Blanco",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

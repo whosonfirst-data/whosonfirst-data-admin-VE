@@ -10,6 +10,12 @@
     "geom:latitude":9.786133,
     "geom:longitude":-72.602508,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Machiques De Perija Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.769772,
     "lbl:longitude":-72.593574,
     "meso:admin_1":"Zulia",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108694269,
-    "wof:lastmodified":1536615357,
+    "wof:lastmodified":1554489239,
     "wof:name":"Machiques De Perija",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

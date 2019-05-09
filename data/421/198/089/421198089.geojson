@@ -10,6 +10,12 @@
     "geom:latitude":10.413093,
     "geom:longitude":-68.027171,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Puerto Cabello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.407775,
     "lbl:longitude":-68.030079,
     "meso:admin_1":"Carabobo",
@@ -237,7 +243,7 @@
         }
     ],
     "wof:id":421198089,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1554489023,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

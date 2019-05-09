@@ -10,6 +10,12 @@
     "geom:latitude":8.864591,
     "geom:longitude":-70.248506,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Cruz Paredes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.844513,
     "lbl:longitude":-70.261089,
     "meso:admin_1":"Barinas",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421181907,
-    "wof:lastmodified":1536615978,
+    "wof:lastmodified":1554488805,
     "wof:name":"Cruz Paredes",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.066637,
     "geom:longitude":-61.945304,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Padre Pedro Chien Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.082524,
     "lbl:longitude":-61.940606,
     "meso:admin_1":"Bolivar",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694325,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489240,
     "wof:name":"Padre Pedro Chien",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

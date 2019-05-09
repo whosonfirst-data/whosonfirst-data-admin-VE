@@ -10,6 +10,12 @@
     "geom:latitude":10.486066,
     "geom:longitude":-66.764434,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Sucre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.496024,
     "lbl:longitude":-66.765853,
     "meso:admin_1":"Miranda",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":421171381,
-    "wof:lastmodified":1536615928,
+    "wof:lastmodified":1554488762,
     "wof:name":"Sucre",
     "wof:parent_id":85680553,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"SU",
     "wof:superseded_by":[],

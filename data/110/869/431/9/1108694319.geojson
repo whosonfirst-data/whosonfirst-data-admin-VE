@@ -10,6 +10,12 @@
     "geom:latitude":9.500426,
     "geom:longitude":-67.601564,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Ortiz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.474583,
     "lbl:longitude":-67.63242,
     "meso:admin_1":"Guarico",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694319,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489240,
     "wof:name":"Ortiz",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

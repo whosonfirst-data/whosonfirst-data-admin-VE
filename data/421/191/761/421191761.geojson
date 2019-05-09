@@ -10,6 +10,12 @@
     "geom:latitude":8.823626,
     "geom:longitude":-71.440566,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Obispo Ramos De Lora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.842003,
     "lbl:longitude":-71.406892,
     "meso:admin_1":"Merida",
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421191761,
-    "wof:lastmodified":1536616098,
+    "wof:lastmodified":1554489004,
     "wof:name":"Obispo Ramos De Lora",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

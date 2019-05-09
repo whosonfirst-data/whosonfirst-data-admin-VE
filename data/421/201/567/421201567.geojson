@@ -10,6 +10,12 @@
     "geom:latitude":11.308761,
     "geom:longitude":-71.978263,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Paez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.236692,
     "lbl:longitude":-72.035163,
     "meso:admin_1":"Zulia",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421201567,
-    "wof:lastmodified":1536616139,
+    "wof:lastmodified":1554489032,
     "wof:name":"Paez",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

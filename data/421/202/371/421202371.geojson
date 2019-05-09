@@ -10,6 +10,12 @@
     "geom:latitude":7.217935,
     "geom:longitude":-62.051599,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Roscio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.109514,
     "lbl:longitude":-62.092571,
     "meso:admin_1":"Bolivar",
@@ -32,9 +38,10 @@
         "Roscio"
     ],
     "name:eng_x_preferred":[
-        "Roscio Municipality"
+        "Roscio"
     ],
     "name:eng_x_variant":[
+        "Roscio",
         "Roscio"
     ],
     "name:fre_x_preferred":[
@@ -102,10 +109,11 @@
         }
     ],
     "wof:id":421202371,
-    "wof:lastmodified":1536616145,
+    "wof:lastmodified":1555220348,
     "wof:name":"Roscio",
     "wof:parent_id":85680517,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"RO",
     "wof:superseded_by":[],

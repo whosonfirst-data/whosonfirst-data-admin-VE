@@ -10,6 +10,12 @@
     "geom:latitude":8.840989,
     "geom:longitude":-69.242476,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Papelon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.862781,
     "lbl:longitude":-69.432417,
     "meso:admin_1":"Portuguesa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694339,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489240,
     "wof:name":"Papelon",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

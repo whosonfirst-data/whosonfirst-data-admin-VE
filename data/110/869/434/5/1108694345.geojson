@@ -10,6 +10,12 @@
     "geom:latitude":10.929059,
     "geom:longitude":-65.307883,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pedro Gual Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.932813,
     "lbl:longitude":-65.307862,
     "meso:admin_1":"Nueva Esparta",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694345,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489240,
     "wof:name":"Pedro Gual",
     "wof:parent_id":85680539,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"DP",
     "wof:superseded_by":[],

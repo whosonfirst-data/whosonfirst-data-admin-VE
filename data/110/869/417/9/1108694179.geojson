@@ -10,6 +10,12 @@
     "geom:latitude":10.056625,
     "geom:longitude":-67.483082,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Ezequiel Zamora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.055326,
     "lbl:longitude":-67.486165,
     "meso:admin_1":"Aragua",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108694179,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489236,
     "wof:name":"Ezequiel Zamora",
     "wof:parent_id":85680525,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"ZA",
     "wof:superseded_by":[],

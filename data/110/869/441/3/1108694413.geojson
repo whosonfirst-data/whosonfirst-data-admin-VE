@@ -10,6 +10,12 @@
     "geom:latitude":8.624301,
     "geom:longitude":-65.320124,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria De Ipire Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.579692,
     "lbl:longitude":-65.360628,
     "meso:admin_1":"Guarico",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108694413,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489242,
     "wof:name":"Santa Maria De Ipire",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

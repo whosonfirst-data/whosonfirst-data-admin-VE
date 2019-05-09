@@ -10,6 +10,12 @@
     "geom:latitude":7.6316,
     "geom:longitude":-69.291044,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Mu\u00f1oz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.623249,
     "lbl:longitude":-69.280795,
     "meso:admin_1":"Apure",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421202593,
-    "wof:lastmodified":1536616148,
+    "wof:lastmodified":1554489036,
     "wof:name":"Mu\u00f1oz",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.257373,
-    "geom:area_square_m":3124940471.471869,
+    "geom:area_square_m":3124940471.471668,
     "geom:bbox":"-72.6824423589,10.7669432576,-71.6613657679,11.0976406507",
     "geom:latitude":10.909949,
     "geom:longitude":-72.164739,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Mara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.923269,
     "lbl:longitude":-72.154992,
     "meso:admin_1":"Zulia",
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421196977,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1555037065,
     "wof:name":"Mara",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

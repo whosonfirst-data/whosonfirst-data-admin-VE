@@ -10,6 +10,12 @@
     "geom:latitude":6.871687,
     "geom:longitude":-61.398334,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Sifontes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.218652,
     "lbl:longitude":-61.168964,
     "meso:admin_1":"Bolivar",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421198671,
-    "wof:lastmodified":1536616127,
+    "wof:lastmodified":1554489024,
     "wof:name":"Sifontes",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

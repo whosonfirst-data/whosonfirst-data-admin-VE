@@ -10,6 +10,12 @@
     "geom:latitude":8.665017,
     "geom:longitude":-62.408362,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Sotillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.667955,
     "lbl:longitude":-62.41383,
     "meso:admin_1":"Monagas",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694431,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489242,
     "wof:name":"Sotillo",
     "wof:parent_id":85680547,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"UR",
     "wof:superseded_by":[],

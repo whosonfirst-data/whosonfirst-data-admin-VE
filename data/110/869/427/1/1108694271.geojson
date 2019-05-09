@@ -10,6 +10,12 @@
     "geom:latitude":4.930106,
     "geom:longitude":-65.810116,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Manapiare Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.855657,
     "lbl:longitude":-65.829992,
     "meso:admin_1":"Amazonas",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1108694271,
-    "wof:lastmodified":1536615357,
+    "wof:lastmodified":1554489239,
     "wof:name":"Manapiare",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

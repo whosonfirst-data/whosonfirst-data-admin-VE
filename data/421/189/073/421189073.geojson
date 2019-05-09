@@ -10,6 +10,12 @@
     "geom:latitude":9.933275,
     "geom:longitude":-69.612915,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Jimenez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.93144,
     "lbl:longitude":-69.615085,
     "meso:admin_1":"Lara",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421189073,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554488982,
     "wof:name":"Jimenez",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

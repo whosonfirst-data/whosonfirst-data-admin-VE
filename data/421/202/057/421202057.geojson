@@ -10,6 +10,12 @@
     "geom:latitude":9.478823,
     "geom:longitude":-69.032413,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Paez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.471041,
     "lbl:longitude":-68.964562,
     "meso:admin_1":"Portuguesa",
@@ -32,10 +38,11 @@
         "Tur\u00e9n"
     ],
     "name:eng_x_preferred":[
-        "Tur\u00e9n Municipality"
+        "Tur\u00e9n"
     ],
     "name:eng_x_variant":[
         "Turen",
+        "Tur\u00e9n",
         "Tur\u00e9n"
     ],
     "name:fre_x_preferred":[
@@ -106,10 +113,11 @@
         }
     ],
     "wof:id":421202057,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1555220347,
     "wof:name":"Paez",
     "wof:parent_id":85680503,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"TU",
     "wof:superseded_by":[],

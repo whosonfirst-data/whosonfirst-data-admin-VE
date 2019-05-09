@@ -10,6 +10,12 @@
     "geom:latitude":10.85267,
     "geom:longitude":-68.59372,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Monse\u00f1or Iturriza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.814023,
     "lbl:longitude":-68.70879,
     "meso:admin_1":"Falcon",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421193381,
-    "wof:lastmodified":1536616107,
+    "wof:lastmodified":1554489010,
     "wof:name":"Monse\u00f1or Iturriza",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

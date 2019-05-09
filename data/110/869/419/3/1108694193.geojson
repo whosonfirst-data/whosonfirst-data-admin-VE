@@ -10,6 +10,12 @@
     "geom:latitude":10.71259,
     "geom:longitude":-71.270778,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Francisco De Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.729538,
     "lbl:longitude":-71.270709,
     "meso:admin_1":"Zulia",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108694193,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489236,
     "wof:name":"Francisco De Miranda",
     "wof:parent_id":85680487,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"MI",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":9.447315,
     "geom:longitude":-70.609807,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Motatan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.39983,
     "lbl:longitude":-70.621697,
     "meso:admin_1":"Trujillo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694315,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489239,
     "wof:name":"Motatan",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

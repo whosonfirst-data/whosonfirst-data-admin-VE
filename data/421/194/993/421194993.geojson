@@ -10,6 +10,12 @@
     "geom:latitude":8.871442,
     "geom:longitude":-70.676896,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Cardenal Quintero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.853926,
     "lbl:longitude":-70.710015,
     "meso:admin_1":"Merida",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421194993,
-    "wof:lastmodified":1536616119,
+    "wof:lastmodified":1554489018,
     "wof:name":"Cardenal Quintero",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

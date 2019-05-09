@@ -10,6 +10,12 @@
     "geom:latitude":10.527253,
     "geom:longitude":-63.334143,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Andres Mata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.545557,
     "lbl:longitude":-63.324242,
     "meso:admin_1":"Sucre",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108694077,
-    "wof:lastmodified":1536615353,
+    "wof:lastmodified":1554489233,
     "wof:name":"Andres Mata",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

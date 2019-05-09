@@ -10,6 +10,12 @@
     "geom:latitude":10.170467,
     "geom:longitude":-69.417757,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Iribarren Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.158421,
     "lbl:longitude":-69.421736,
     "meso:admin_1":"Lara",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421180895,
-    "wof:lastmodified":1536615967,
+    "wof:lastmodified":1554488793,
     "wof:name":"Iribarren",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

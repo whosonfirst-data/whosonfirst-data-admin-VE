@@ -10,6 +10,12 @@
     "geom:latitude":10.427352,
     "geom:longitude":-66.8642,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Baruta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.427237,
     "lbl:longitude":-66.87176,
     "meso:admin_1":"Miranda",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421171377,
-    "wof:lastmodified":1536615928,
+    "wof:lastmodified":1554488762,
     "wof:name":"Baruta",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

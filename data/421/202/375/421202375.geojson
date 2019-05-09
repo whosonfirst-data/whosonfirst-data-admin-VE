@@ -10,6 +10,12 @@
     "geom:latitude":10.264774,
     "geom:longitude":-67.036529,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Guaicaipuro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.256883,
     "lbl:longitude":-67.033521,
     "meso:admin_1":"Miranda",
@@ -121,10 +127,11 @@
         }
     ],
     "wof:id":421202375,
-    "wof:lastmodified":1536616146,
+    "wof:lastmodified":1554489035,
     "wof:name":"Guaicaipuro",
     "wof:parent_id":85680553,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"GU",
     "wof:superseded_by":[],

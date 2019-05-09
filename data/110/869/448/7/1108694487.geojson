@@ -10,6 +10,12 @@
     "geom:latitude":3.775967,
     "geom:longitude":-66.723736,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Atabapo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.704584,
     "lbl:longitude":-66.707542,
     "meso:admin_1":"Amazonas",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108694487,
-    "wof:lastmodified":1536615362,
+    "wof:lastmodified":1554489244,
     "wof:name":"Atabapo",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

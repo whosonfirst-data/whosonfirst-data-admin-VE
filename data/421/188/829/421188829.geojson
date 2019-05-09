@@ -10,6 +10,12 @@
     "geom:latitude":9.326951,
     "geom:longitude":-70.425116,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Trujillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.320388,
     "lbl:longitude":-70.415945,
     "meso:admin_1":"Trujillo",
@@ -187,10 +193,11 @@
         }
     ],
     "wof:id":421188829,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1554488979,
     "wof:name":"Trujillo",
     "wof:parent_id":85680483,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"TR",
     "wof:superseded_by":[],

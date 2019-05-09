@@ -10,6 +10,12 @@
     "geom:latitude":8.510169,
     "geom:longitude":-69.647041,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Rojas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.53281,
     "lbl:longitude":-69.65043,
     "meso:admin_1":"Barinas",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694375,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489241,
     "wof:name":"Rojas",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.933139,
     "geom:longitude":-72.280873,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Lobatera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.935542,
     "lbl:longitude":-72.299316,
     "meso:admin_1":"Tachira",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421195115,
-    "wof:lastmodified":1536616120,
+    "wof:lastmodified":1554489019,
     "wof:name":"Lobatera",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

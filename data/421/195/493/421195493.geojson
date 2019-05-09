@@ -10,6 +10,12 @@
     "geom:latitude":7.662901,
     "geom:longitude":-72.156649,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Torbes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.654281,
     "lbl:longitude":-72.166781,
     "meso:admin_1":"Tachira",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":421195493,
-    "wof:lastmodified":1536616120,
+    "wof:lastmodified":1554489019,
     "wof:name":"Torbes",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

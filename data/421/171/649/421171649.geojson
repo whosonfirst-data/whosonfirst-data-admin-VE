@@ -10,6 +10,12 @@
     "geom:latitude":6.778591,
     "geom:longitude":-67.896132,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pedro Camejo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.911219,
     "lbl:longitude":-67.56057,
     "meso:admin_1":"Apure",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421171649,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1554488765,
     "wof:name":"Pedro Camejo",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

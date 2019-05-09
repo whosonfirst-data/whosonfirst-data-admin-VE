@@ -10,6 +10,12 @@
     "geom:latitude":7.946961,
     "geom:longitude":-72.411761,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pedro Maria Ure\u00f1a Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.933395,
     "lbl:longitude":-72.416532,
     "meso:admin_1":"Tachira",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694347,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489240,
     "wof:name":"Pedro Maria Ure\u00f1a",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

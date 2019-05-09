@@ -10,6 +10,12 @@
     "geom:latitude":9.650354,
     "geom:longitude":-70.722893,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Andres Bello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.636112,
     "lbl:longitude":-70.720907,
     "meso:admin_1":"Trujillo",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694073,
-    "wof:lastmodified":1536615352,
+    "wof:lastmodified":1554489233,
     "wof:name":"Andres Bello",
     "wof:parent_id":85680483,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AB",
     "wof:superseded_by":[],

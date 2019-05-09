@@ -10,6 +10,12 @@
     "geom:latitude":8.135386,
     "geom:longitude":-72.089764,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Seboruco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.130466,
     "lbl:longitude":-72.08445,
     "meso:admin_1":"Tachira",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694423,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489242,
     "wof:name":"Seboruco",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.647077,
     "geom:longitude":-62.234553,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Valdez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.617293,
     "lbl:longitude":-62.358861,
     "meso:admin_1":"Sucre",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694473,
-    "wof:lastmodified":1536615362,
+    "wof:lastmodified":1554489243,
     "wof:name":"Valdez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

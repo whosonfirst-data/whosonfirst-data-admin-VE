@@ -10,6 +10,12 @@
     "geom:latitude":8.522121,
     "geom:longitude":-68.926702,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Guanarito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.518019,
     "lbl:longitude":-68.919227,
     "meso:admin_1":"Portuguesa",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108694203,
-    "wof:lastmodified":1536615356,
+    "wof:lastmodified":1554489237,
     "wof:name":"Guanarito",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.986571,
     "geom:longitude":-68.547691,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Cacique Manaure Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.993096,
     "lbl:longitude":-68.549317,
     "meso:admin_1":"Falcon",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694135,
-    "wof:lastmodified":1536615354,
+    "wof:lastmodified":1554489235,
     "wof:name":"Cacique Manaure",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

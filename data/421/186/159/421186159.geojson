@@ -10,6 +10,12 @@
     "geom:latitude":8.710009,
     "geom:longitude":-71.395154,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Andres Bello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.718872,
     "lbl:longitude":-71.408917,
     "meso:admin_1":"Merida",
@@ -77,10 +83,11 @@
         }
     ],
     "wof:id":421186159,
-    "wof:lastmodified":1536616033,
+    "wof:lastmodified":1554488959,
     "wof:name":"Andres Bello",
     "wof:parent_id":85680473,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AB",
     "wof:superseded_by":[],

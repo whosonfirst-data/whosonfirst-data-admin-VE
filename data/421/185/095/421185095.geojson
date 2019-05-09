@@ -10,6 +10,12 @@
     "geom:latitude":9.990964,
     "geom:longitude":-64.651204,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Bolivar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.001096,
     "lbl:longitude":-64.657058,
     "meso:admin_1":"Anzoategui",
@@ -75,10 +81,11 @@
         }
     ],
     "wof:id":421185095,
-    "wof:lastmodified":1536616027,
+    "wof:lastmodified":1554488951,
     "wof:name":"Bolivar",
     "wof:parent_id":85680521,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"BO",
     "wof:superseded_by":[],

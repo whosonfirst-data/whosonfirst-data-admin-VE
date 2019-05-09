@@ -10,6 +10,12 @@
     "geom:latitude":10.308253,
     "geom:longitude":-71.281735,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Simon Bolivar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.311618,
     "lbl:longitude":-71.260048,
     "meso:admin_1":"Zulia",
@@ -75,10 +81,11 @@
         }
     ],
     "wof:id":421201571,
-    "wof:lastmodified":1536616140,
+    "wof:lastmodified":1554489032,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85680487,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"SB",
     "wof:superseded_by":[],

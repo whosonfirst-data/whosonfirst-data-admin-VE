@@ -10,6 +10,12 @@
     "geom:latitude":8.974545,
     "geom:longitude":-70.96553,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Justo Brice\u00f1o Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.937968,
     "lbl:longitude":-70.954415,
     "meso:admin_1":"Merida",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421172603,
-    "wof:lastmodified":1536615944,
+    "wof:lastmodified":1554488772,
     "wof:name":"Justo Brice\u00f1o",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

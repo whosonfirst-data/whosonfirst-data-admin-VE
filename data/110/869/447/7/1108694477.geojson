@@ -10,6 +10,12 @@
     "geom:latitude":9.193076,
     "geom:longitude":-70.676595,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Valera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.188271,
     "lbl:longitude":-70.675116,
     "meso:admin_1":"Trujillo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694477,
-    "wof:lastmodified":1536615362,
+    "wof:lastmodified":1554489243,
     "wof:name":"Valera",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

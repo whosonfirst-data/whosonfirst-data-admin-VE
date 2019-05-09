@@ -10,6 +10,12 @@
     "geom:latitude":9.68797,
     "geom:longitude":-62.111578,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pedernales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.674545,
     "lbl:longitude":-62.078844,
     "meso:admin_1":"Delta Amacuro",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108694489,
-    "wof:lastmodified":1536615362,
+    "wof:lastmodified":1554489244,
     "wof:name":"Pedernales",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

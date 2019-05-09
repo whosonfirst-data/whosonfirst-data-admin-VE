@@ -10,6 +10,12 @@
     "geom:latitude":10.477928,
     "geom:longitude":-66.651149,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Plaza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.477759,
     "lbl:longitude":-66.652499,
     "meso:admin_1":"Miranda",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421189081,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554488982,
     "wof:name":"Plaza",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

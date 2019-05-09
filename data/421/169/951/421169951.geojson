@@ -10,6 +10,12 @@
     "geom:latitude":11.068968,
     "geom:longitude":-69.509848,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Petit Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.07113,
     "lbl:longitude":-69.537039,
     "meso:admin_1":"Falcon",
@@ -116,10 +122,11 @@
         }
     ],
     "wof:id":421169951,
-    "wof:lastmodified":1536615902,
+    "wof:lastmodified":1554488751,
     "wof:name":"Petit",
     "wof:parent_id":85680461,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"SU",
     "wof:superseded_by":[],

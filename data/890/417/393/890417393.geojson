@@ -12,6 +12,12 @@
     "gn:country":"VE",
     "gp:adm0":23424982,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Silva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.773216,
     "lbl:longitude":-68.405675,
     "meso:admin_1":"Falcon",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890417393,
-    "wof:lastmodified":1536617371,
+    "wof:lastmodified":1554489058,
     "wof:name":"Silva",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

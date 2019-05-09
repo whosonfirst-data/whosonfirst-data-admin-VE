@@ -10,6 +10,12 @@
     "geom:latitude":8.781938,
     "geom:longitude":-64.178697,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Simon Rodriguez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.859825,
     "lbl:longitude":-64.251327,
     "meso:admin_1":"Anzoategui",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":421189069,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554488982,
     "wof:name":"Simon Rodriguez",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.747727,
-    "geom:area_square_m":46279145160.848991,
+    "geom:area_square_m":46279145160.846527,
     "geom:bbox":"-66.0692857493,1.48097105371,-63.363197,4.17269659638",
     "geom:latitude":2.901765,
     "geom:longitude":-64.906095,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":14222,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Alto Orinoco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.941409,
     "lbl:longitude":-64.885845,
     "meso:admin_1":"Amazonas",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":890420047,
-    "wof:lastmodified":1553816392,
+    "wof:lastmodified":1555037041,
     "wof:name":"Alto Orinoco",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

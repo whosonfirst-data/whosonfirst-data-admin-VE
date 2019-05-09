@@ -10,6 +10,12 @@
     "geom:latitude":7.286722,
     "geom:longitude":-70.854212,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Paez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.232275,
     "lbl:longitude":-71.341986,
     "meso:admin_1":"Apure",
@@ -75,10 +81,11 @@
         }
     ],
     "wof:id":421190785,
-    "wof:lastmodified":1536616081,
+    "wof:lastmodified":1554488989,
     "wof:name":"Paez",
     "wof:parent_id":85680465,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"PA",
     "wof:superseded_by":[],

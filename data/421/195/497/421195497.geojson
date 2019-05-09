@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.811983,
-    "geom:area_square_m":9929936458.90596,
+    "geom:area_square_m":9929936458.905724,
     "geom:bbox":"-66.3104003599,7.67892660901,-65.6104125426,9.61",
     "geom:latitude":8.491804,
     "geom:longitude":-65.988118,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Infante Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.416558,
     "lbl:longitude":-65.959796,
     "meso:admin_1":"Guarico",
@@ -174,10 +180,11 @@
         }
     ],
     "wof:id":421195497,
-    "wof:lastmodified":1527716120,
+    "wof:lastmodified":1554489020,
     "wof:name":"Infante",
     "wof:parent_id":85680543,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -10,6 +10,12 @@
     "geom:latitude":10.116718,
     "geom:longitude":-63.115743,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Bolivar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.111388,
     "lbl:longitude":-63.115749,
     "meso:admin_1":"Monagas",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694119,
-    "wof:lastmodified":1536615354,
+    "wof:lastmodified":1554489234,
     "wof:name":"Bolivar",
     "wof:parent_id":85680547,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"BO",
     "wof:superseded_by":[],

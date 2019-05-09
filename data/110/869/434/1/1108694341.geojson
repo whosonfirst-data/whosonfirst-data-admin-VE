@@ -10,6 +10,12 @@
     "geom:latitude":10.326449,
     "geom:longitude":-66.644027,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Paz Castillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.340135,
     "lbl:longitude":-66.641001,
     "meso:admin_1":"Miranda",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108694341,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489240,
     "wof:name":"Paz Castillo",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

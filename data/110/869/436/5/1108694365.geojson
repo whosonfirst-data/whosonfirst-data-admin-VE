@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183978,
-    "geom:area_square_m":2244698220.621929,
+    "geom:area_square_m":2244698220.622012,
     "geom:bbox":"-65.9502635371,8.97501187055,-65.5118631971,9.69233085972",
     "geom:latitude":9.349075,
     "geom:longitude":-65.750636,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Ribas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.324772,
     "lbl:longitude":-65.732438,
     "meso:admin_1":"Guarico",
@@ -48,10 +54,11 @@
         }
     ],
     "wof:id":1108694365,
-    "wof:lastmodified":1512516827,
+    "wof:lastmodified":1554489241,
     "wof:name":"Ribas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

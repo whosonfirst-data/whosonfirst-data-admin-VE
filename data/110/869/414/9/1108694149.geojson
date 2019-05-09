@@ -10,6 +10,12 @@
     "geom:latitude":10.353602,
     "geom:longitude":-66.994412,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Carrizal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.351886,
     "lbl:longitude":-66.991883,
     "meso:admin_1":"Miranda",
@@ -84,10 +90,11 @@
         }
     ],
     "wof:id":1108694149,
-    "wof:lastmodified":1536615354,
+    "wof:lastmodified":1554489235,
     "wof:name":"Carrizal",
     "wof:parent_id":85680553,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"GU",
     "wof:superseded_by":[],

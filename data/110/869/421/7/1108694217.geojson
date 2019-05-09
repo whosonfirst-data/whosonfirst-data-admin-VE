@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256194,
-    "geom:area_square_m":3113559212.623129,
+    "geom:area_square_m":3113559212.622917,
     "geom:bbox":"-72.900818,10.3555806808,-71.7751400259,10.7733159066",
     "geom:latitude":10.626447,
     "geom:longitude":-72.303126,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Jesus Enrique Lossada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.640811,
     "lbl:longitude":-72.217917,
     "meso:admin_1":"Zulia",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108694217,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037556,
     "wof:name":"Jesus Enrique Lossada",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

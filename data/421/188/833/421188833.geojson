@@ -10,6 +10,12 @@
     "geom:latitude":10.264159,
     "geom:longitude":-67.785623,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Joaquin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.263625,
     "lbl:longitude":-67.791936,
     "meso:admin_1":"Carabobo",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421188833,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1554488979,
     "wof:name":"San Joaquin",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

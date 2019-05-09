@@ -10,6 +10,12 @@
     "geom:latitude":8.430169,
     "geom:longitude":-71.762885,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Zea Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.42254,
     "lbl:longitude":-71.766638,
     "meso:admin_1":"Merida",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108694485,
-    "wof:lastmodified":1536615362,
+    "wof:lastmodified":1554489243,
     "wof:name":"Zea",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

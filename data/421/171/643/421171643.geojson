@@ -10,6 +10,12 @@
     "geom:latitude":10.605481,
     "geom:longitude":-66.179063,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Brion Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.538289,
     "lbl:longitude":-66.206496,
     "meso:admin_1":"Miranda",
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421171643,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1554488764,
     "wof:name":"Brion",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

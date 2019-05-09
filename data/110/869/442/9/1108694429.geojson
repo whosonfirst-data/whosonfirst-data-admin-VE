@@ -10,6 +10,12 @@
     "geom:latitude":8.331123,
     "geom:longitude":-71.848909,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Simon Rodriguez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.334789,
     "lbl:longitude":-71.84958,
     "meso:admin_1":"Tachira",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694429,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489242,
     "wof:name":"Simon Rodriguez",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

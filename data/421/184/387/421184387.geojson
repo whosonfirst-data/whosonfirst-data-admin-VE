@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084238,
-    "geom:area_square_m":1025513561.348751,
+    "geom:area_square_m":1025513561.348868,
     "geom:bbox":"-65.8885726404,9.94851786423,-65.4310090812,10.2229606993",
     "geom:latitude":10.0882,
     "geom:longitude":-65.692552,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pedro Gual Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.096194,
     "lbl:longitude":-65.692571,
     "meso:admin_1":"Miranda",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421184387,
-    "wof:lastmodified":1553816374,
+    "wof:lastmodified":1555037112,
     "wof:name":"Pedro Gual",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

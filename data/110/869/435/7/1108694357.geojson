@@ -10,6 +10,12 @@
     "geom:latitude":9.99922,
     "geom:longitude":-63.140394,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Punceres Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.988447,
     "lbl:longitude":-63.208824,
     "meso:admin_1":"Monagas",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108694357,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489240,
     "wof:name":"Punceres",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

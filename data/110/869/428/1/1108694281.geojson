@@ -10,6 +10,12 @@
     "geom:latitude":10.796995,
     "geom:longitude":-70.988906,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Mauroa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.891664,
     "lbl:longitude":-71.014159,
     "meso:admin_1":"Falcon",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694281,
-    "wof:lastmodified":1536615357,
+    "wof:lastmodified":1554489238,
     "wof:name":"Mauroa",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

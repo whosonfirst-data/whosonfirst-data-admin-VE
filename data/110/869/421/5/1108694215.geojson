@@ -10,6 +10,12 @@
     "geom:latitude":11.019458,
     "geom:longitude":-68.941529,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Jacura Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.020974,
     "lbl:longitude":-68.947365,
     "meso:admin_1":"Falcon",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694215,
-    "wof:lastmodified":1536615356,
+    "wof:lastmodified":1554489237,
     "wof:name":"Jacura",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

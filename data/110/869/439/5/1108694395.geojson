@@ -10,6 +10,12 @@
     "geom:latitude":8.015621,
     "geom:longitude":-67.085093,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Geronimo De Guayabal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.024562,
     "lbl:longitude":-67.15921,
     "meso:admin_1":"Guarico",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694395,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489242,
     "wof:name":"San Geronimo De Guayabal",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

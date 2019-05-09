@@ -10,6 +10,12 @@
     "geom:latitude":10.727877,
     "geom:longitude":-70.624605,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Dabajuro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.83024,
     "lbl:longitude":-70.614442,
     "meso:admin_1":"Falcon",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1108694165,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489236,
     "wof:name":"Dabajuro",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

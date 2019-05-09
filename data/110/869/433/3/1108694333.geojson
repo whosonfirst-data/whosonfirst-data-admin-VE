@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033697,
-    "geom:area_square_m":410935063.091604,
+    "geom:area_square_m":410935063.091587,
     "geom:bbox":"-70.6163643446,9.42338298135,-70.2888608908,9.62253439328",
     "geom:latitude":9.517925,
     "geom:longitude":-70.458846,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pampan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.5143,
     "lbl:longitude":-70.486054,
     "meso:admin_1":"Trujillo",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108694333,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037553,
     "wof:name":"Pampan",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

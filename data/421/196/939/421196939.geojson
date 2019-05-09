@@ -10,6 +10,12 @@
     "geom:latitude":7.791165,
     "geom:longitude":-72.093422,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Cardenas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.791215,
     "lbl:longitude":-72.083403,
     "meso:admin_1":"Tachira",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421196939,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1554489021,
     "wof:name":"Cardenas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

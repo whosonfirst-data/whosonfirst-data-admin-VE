@@ -10,6 +10,12 @@
     "geom:latitude":8.477801,
     "geom:longitude":-64.289797,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.447643,
     "lbl:longitude":-64.200073,
     "meso:admin_1":"Anzoategui",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":421184195,
-    "wof:lastmodified":1536616018,
+    "wof:lastmodified":1554488947,
     "wof:name":"Miranda",
     "wof:parent_id":85680521,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"MI",
     "wof:superseded_by":[],

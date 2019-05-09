@@ -10,6 +10,12 @@
     "geom:latitude":8.924064,
     "geom:longitude":-69.91982,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Genaro De Boconoito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.945174,
     "lbl:longitude":-69.972383,
     "meso:admin_1":"Portuguesa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108694393,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489241,
     "wof:name":"San Genaro De Boconoito",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.462576,
     "geom:longitude":-66.484981,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Zamora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.458385,
     "lbl:longitude":-66.500247,
     "meso:admin_1":"Miranda",
@@ -167,10 +173,11 @@
         }
     ],
     "wof:id":421202063,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1554489033,
     "wof:name":"Zamora",
     "wof:parent_id":85680553,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"ZA",
     "wof:superseded_by":[],

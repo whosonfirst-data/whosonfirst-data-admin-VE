@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.64992,
-    "geom:area_square_m":7930596870.47837,
+    "geom:area_square_m":7930596870.478348,
     "geom:bbox":"-64.4790584244,8.75992662782,-63.37,10.1218821368",
     "geom:latitude":9.301457,
     "geom:longitude":-64.030469,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Freites Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.209531,
     "lbl:longitude":-64.160621,
     "meso:admin_1":"Anzoategui",
@@ -35,10 +41,11 @@
         "Pedro Mar\u00eda Freites"
     ],
     "name:eng_x_preferred":[
-        "Pedro Mar\u00eda Freites Municipality"
+        "Pedro Mar\u00eda Freites"
     ],
     "name:eng_x_variant":[
-        "Freites"
+        "Freites",
+        "Pedro Mar\u00eda Freites"
     ],
     "name:fra_x_preferred":[
         "Pedro Mar\u00eda Freites"
@@ -122,10 +129,11 @@
         }
     ],
     "wof:id":421183227,
-    "wof:lastmodified":1514502333,
+    "wof:lastmodified":1555220346,
     "wof:name":"Freites",
     "wof:parent_id":85680521,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -10,6 +10,12 @@
     "geom:latitude":7.288835,
     "geom:longitude":-68.436293,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Achaguas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.275912,
     "lbl:longitude":-68.505995,
     "meso:admin_1":"Apure",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421171651,
-    "wof:lastmodified":1536615932,
+    "wof:lastmodified":1554488765,
     "wof:name":"Achaguas",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

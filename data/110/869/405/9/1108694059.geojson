@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038365,
-    "geom:area_square_m":467013978.45229,
+    "geom:area_square_m":467013978.45226,
     "geom:bbox":"-63.9214591804,10.0235668083,-63.5710931164,10.225364567",
     "geom:latitude":10.114188,
     "geom:longitude":-63.728179,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Acosta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.118125,
     "lbl:longitude":-63.696331,
     "meso:admin_1":"Monagas",
@@ -31,9 +37,10 @@
         "Acosta"
     ],
     "name:eng_x_preferred":[
-        "Acosta Municipality"
+        "Acosta"
     ],
     "name:eng_x_variant":[
+        "Acosta",
         "Acosta"
     ],
     "name:fre_x_preferred":[
@@ -78,10 +85,11 @@
         }
     ],
     "wof:id":1108694059,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555220364,
     "wof:name":"Acosta",
     "wof:parent_id":85680547,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AC",
     "wof:superseded_by":[],

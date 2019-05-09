@@ -10,6 +10,12 @@
     "geom:latitude":7.915444,
     "geom:longitude":-71.894934,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Francisco De Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.896812,
     "lbl:longitude":-71.879161,
     "meso:admin_1":"Tachira",
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421195505,
-    "wof:lastmodified":1536616120,
+    "wof:lastmodified":1554489020,
     "wof:name":"Francisco De Miranda",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

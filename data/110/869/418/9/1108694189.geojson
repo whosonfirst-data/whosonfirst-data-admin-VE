@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116635,
-    "geom:area_square_m":1416544688.434167,
+    "geom:area_square_m":1416544688.434304,
     "geom:bbox":"-69.9028650952,10.6911698381,-69.2639836393,10.9598262354",
     "geom:latitude":10.827377,
     "geom:longitude":-69.581771,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Federacion Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.837172,
     "lbl:longitude":-69.60763,
     "meso:admin_1":"Falcon",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694189,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037557,
     "wof:name":"Federacion",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

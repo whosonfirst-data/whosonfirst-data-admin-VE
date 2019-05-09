@@ -10,6 +10,12 @@
     "geom:latitude":9.832616,
     "geom:longitude":-69.11612,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Simon Planas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.792716,
     "lbl:longitude":-69.149334,
     "meso:admin_1":"Lara",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694427,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489242,
     "wof:name":"Simon Planas",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

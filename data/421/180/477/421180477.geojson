@@ -10,6 +10,12 @@
     "geom:latitude":10.268389,
     "geom:longitude":-67.950257,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Diego Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.272851,
     "lbl:longitude":-67.959139,
     "meso:admin_1":"Carabobo",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421180477,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1554488791,
     "wof:name":"San Diego",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

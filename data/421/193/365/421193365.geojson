@@ -10,6 +10,12 @@
     "geom:latitude":10.693695,
     "geom:longitude":-62.803812,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Arismendi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.661958,
     "lbl:longitude":-63.016077,
     "meso:admin_1":"Sucre",
@@ -97,10 +103,11 @@
         }
     ],
     "wof:id":421193365,
-    "wof:lastmodified":1536616106,
+    "wof:lastmodified":1554489009,
     "wof:name":"Arismendi",
     "wof:parent_id":85680561,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

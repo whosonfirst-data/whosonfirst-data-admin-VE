@@ -10,6 +10,12 @@
     "geom:latitude":8.158086,
     "geom:longitude":-71.688006,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Guaraque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.165002,
     "lbl:longitude":-71.711873,
     "meso:admin_1":"Merida",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421196155,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1554489021,
     "wof:name":"Guaraque",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

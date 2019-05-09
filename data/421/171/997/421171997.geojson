@@ -10,6 +10,12 @@
     "geom:latitude":8.403622,
     "geom:longitude":-71.650447,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Antonio Pinto Salinas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.389039,
     "lbl:longitude":-71.648399,
     "meso:admin_1":"Merida",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421171997,
-    "wof:lastmodified":1536615936,
+    "wof:lastmodified":1554488765,
     "wof:name":"Antonio Pinto Salinas",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

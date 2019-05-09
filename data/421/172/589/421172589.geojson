@@ -10,6 +10,12 @@
     "geom:latitude":10.681804,
     "geom:longitude":-71.690536,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Maracaibo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.676191,
     "lbl:longitude":-71.692425,
     "meso:admin_1":"Zulia",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421172589,
-    "wof:lastmodified":1536615944,
+    "wof:lastmodified":1554488769,
     "wof:name":"Maracaibo",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

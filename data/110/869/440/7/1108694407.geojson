@@ -10,6 +10,12 @@
     "geom:latitude":9.997392,
     "geom:longitude":-67.182849,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Sebastian Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.004245,
     "lbl:longitude":-67.180851,
     "meso:admin_1":"Aragua",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108694407,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489242,
     "wof:name":"San Sebastian",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

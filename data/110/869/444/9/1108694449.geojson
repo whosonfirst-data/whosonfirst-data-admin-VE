@@ -10,6 +10,12 @@
     "geom:latitude":10.253269,
     "geom:longitude":-68.798853,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Sucre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.204531,
     "lbl:longitude":-68.76903,
     "meso:admin_1":"Yaracuy",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694449,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489242,
     "wof:name":"Sucre",
     "wof:parent_id":85680507,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"BR",
     "wof:superseded_by":[],

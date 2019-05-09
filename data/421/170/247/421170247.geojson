@@ -10,6 +10,12 @@
     "geom:latitude":10.12078,
     "geom:longitude":-66.909078,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Urdaneta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.117147,
     "lbl:longitude":-66.909083,
     "meso:admin_1":"Miranda",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":421170247,
-    "wof:lastmodified":1536615908,
+    "wof:lastmodified":1554488752,
     "wof:name":"Urdaneta",
     "wof:parent_id":85680553,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"UR",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":9.829086,
     "geom:longitude":-66.877969,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Camatagua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.800453,
     "lbl:longitude":-66.881129,
     "meso:admin_1":"Aragua",
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":421193519,
-    "wof:lastmodified":1536616108,
+    "wof:lastmodified":1554489010,
     "wof:name":"Camatagua",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

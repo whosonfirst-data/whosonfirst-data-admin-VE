@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014893,
-    "geom:area_square_m":181297998.173262,
+    "geom:area_square_m":181297998.173279,
     "geom:bbox":"-68.4220101206,9.9913042717,-68.3023042376,10.2265821576",
     "geom:latitude":10.112105,
     "geom:longitude":-68.364452,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.115543,
     "lbl:longitude":-68.355388,
     "meso:admin_1":"Carabobo",
@@ -31,10 +37,11 @@
         "Nirgua"
     ],
     "name:eng_x_preferred":[
-        "Nirgua Municipality"
+        "Nirgua"
     ],
     "name:eng_x_variant":[
         "Autonomo Nirgua",
+        "Nirgua",
         "Nirgua"
     ],
     "name:fre_x_preferred":[
@@ -73,10 +80,11 @@
         }
     ],
     "wof:id":1108694289,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555220364,
     "wof:name":"Miranda",
     "wof:parent_id":85680493,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"NI",
     "wof:superseded_by":[],

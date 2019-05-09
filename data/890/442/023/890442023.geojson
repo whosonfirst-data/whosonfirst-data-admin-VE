@@ -12,6 +12,12 @@
     "gn:country":"VE",
     "gp:adm0":23424982,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Los Taques Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.830617,
     "lbl:longitude":-70.209148,
     "meso:admin_1":"Falcon",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890442023,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1554489061,
     "wof:name":"Los Taques",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

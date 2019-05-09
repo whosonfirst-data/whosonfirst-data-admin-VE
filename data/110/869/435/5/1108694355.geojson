@@ -10,6 +10,12 @@
     "geom:latitude":8.956352,
     "geom:longitude":-70.65384,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pueblo Llano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.938499,
     "lbl:longitude":-70.667151,
     "meso:admin_1":"Merida",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694355,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489240,
     "wof:name":"Pueblo Llano",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

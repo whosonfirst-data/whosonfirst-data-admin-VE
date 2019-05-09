@@ -10,6 +10,12 @@
     "geom:latitude":11.138359,
     "geom:longitude":-68.711179,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.137226,
     "lbl:longitude":-68.711206,
     "meso:admin_1":"Falcon",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":421190213,
-    "wof:lastmodified":1536616079,
+    "wof:lastmodified":1554488986,
     "wof:name":"San Francisco",
     "wof:parent_id":85680461,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"SF",
     "wof:superseded_by":[],

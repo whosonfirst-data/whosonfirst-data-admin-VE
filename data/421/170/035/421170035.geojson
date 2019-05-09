@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005614,
-    "geom:area_square_m":68158112.948419,
+    "geom:area_square_m":68158112.948402,
     "geom:bbox":"-63.9409919543,10.885389328,-63.855,11.0001250189",
     "geom:latitude":10.955389,
     "geom:longitude":-63.907151,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Garcia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.971585,
     "lbl:longitude":-63.913675,
     "meso:admin_1":"Nueva Esparta",
@@ -47,10 +53,11 @@
         "Garc\u00eda"
     ],
     "name:eng_x_preferred":[
-        "Garc\u00eda Municipality"
+        "Garc\u00eda"
     ],
     "name:eng_x_variant":[
         "Garcia",
+        "Garc\u00eda",
         "Garc\u00eda"
     ],
     "name:epo_x_preferred":[
@@ -140,10 +147,11 @@
         }
     ],
     "wof:id":421170035,
-    "wof:lastmodified":1553816358,
+    "wof:lastmodified":1555220345,
     "wof:name":"Garcia",
     "wof:parent_id":85680557,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"GA",
     "wof:superseded_by":[],

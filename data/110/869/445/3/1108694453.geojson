@@ -10,6 +10,12 @@
     "geom:latitude":10.17504,
     "geom:longitude":-70.204047,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Torres Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.20573,
     "lbl:longitude":-70.255288,
     "meso:admin_1":"Lara",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694453,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489243,
     "wof:name":"Torres",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

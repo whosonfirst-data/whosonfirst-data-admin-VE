@@ -10,6 +10,12 @@
     "geom:latitude":10.088468,
     "geom:longitude":-65.409164,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Juan De Capistrano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.089511,
     "lbl:longitude":-65.407732,
     "meso:admin_1":"Anzoategui",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421171645,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1554488764,
     "wof:name":"San Juan De Capistrano",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

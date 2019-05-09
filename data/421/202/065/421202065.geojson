@@ -10,6 +10,12 @@
     "geom:latitude":8.019386,
     "geom:longitude":-72.081287,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Jose Maria Vargas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.020272,
     "lbl:longitude":-72.080076,
     "meso:admin_1":"Tachira",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421202065,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1554489033,
     "wof:name":"Jose Maria Vargas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

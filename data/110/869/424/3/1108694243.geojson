@@ -10,6 +10,12 @@
     "geom:latitude":10.059573,
     "geom:longitude":-66.696035,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Lander Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.044881,
     "lbl:longitude":-66.693213,
     "meso:admin_1":"Miranda",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108694243,
-    "wof:lastmodified":1536615356,
+    "wof:lastmodified":1554489237,
     "wof:name":"Lander",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

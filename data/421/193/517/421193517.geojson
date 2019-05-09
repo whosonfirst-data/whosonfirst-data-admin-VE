@@ -10,6 +10,12 @@
     "geom:latitude":11.49339,
     "geom:longitude":-69.231121,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Tocopero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.487446,
     "lbl:longitude":-69.225229,
     "meso:admin_1":"Falcon",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421193517,
-    "wof:lastmodified":1536616108,
+    "wof:lastmodified":1554489010,
     "wof:name":"Tocopero",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

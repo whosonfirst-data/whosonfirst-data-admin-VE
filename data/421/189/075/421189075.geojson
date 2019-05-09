@@ -10,6 +10,12 @@
     "geom:latitude":10.014975,
     "geom:longitude":-67.738914,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Carlos Arvelo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.031892,
     "lbl:longitude":-67.777328,
     "meso:admin_1":"Carabobo",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421189075,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1555037087,
     "wof:name":"Carlos Arvelo",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

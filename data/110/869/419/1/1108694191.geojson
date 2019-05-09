@@ -10,6 +10,12 @@
     "geom:latitude":7.535423,
     "geom:longitude":-71.989964,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Fernandez Feo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.55009,
     "lbl:longitude":-71.959862,
     "meso:admin_1":"Tachira",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694191,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489236,
     "wof:name":"Fernandez Feo",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

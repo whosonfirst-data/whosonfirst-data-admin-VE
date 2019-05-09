@@ -10,6 +10,12 @@
     "geom:latitude":1.684577,
     "geom:longitude":-65.756719,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Rio Negro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.480049,
     "lbl:longitude":-66.167481,
     "meso:admin_1":"Amazonas",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1108694371,
-    "wof:lastmodified":1536615359,
+    "wof:lastmodified":1554489244,
     "wof:name":"Rio Negro",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

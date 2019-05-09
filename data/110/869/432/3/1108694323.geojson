@@ -10,6 +10,12 @@
     "geom:latitude":7.804746,
     "geom:longitude":-71.463946,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Padre Noguera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.817122,
     "lbl:longitude":-71.478464,
     "meso:admin_1":"Merida",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694323,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489239,
     "wof:name":"Padre Noguera",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

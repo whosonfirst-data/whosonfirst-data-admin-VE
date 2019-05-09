@@ -10,6 +10,12 @@
     "geom:latitude":8.628347,
     "geom:longitude":-71.684258,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Alberto Adriani Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.612389,
     "lbl:longitude":-71.684252,
     "meso:admin_1":"Merida",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421173573,
-    "wof:lastmodified":1536615945,
+    "wof:lastmodified":1554488774,
     "wof:name":"Alberto Adriani",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

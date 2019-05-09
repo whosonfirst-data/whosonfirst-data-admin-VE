@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07631,
-    "geom:area_square_m":928553957.544481,
+    "geom:area_square_m":928553957.544531,
     "geom:bbox":"-71.357971191,10.018971226,-70.82,10.4638894705",
     "geom:latitude":10.240841,
     "geom:longitude":-71.130851,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Lagunillas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.234623,
     "lbl:longitude":-71.130821,
     "meso:admin_1":"Zulia",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108694239,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037555,
     "wof:name":"Lagunillas",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

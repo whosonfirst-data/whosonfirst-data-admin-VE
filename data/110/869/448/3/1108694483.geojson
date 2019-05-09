@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251559,
-    "geom:area_square_m":3070398858.201003,
+    "geom:area_square_m":3070398858.201017,
     "geom:bbox":"-65.6298163056,8.80791689585,-64.7736931383,9.65209053601",
     "geom:latitude":9.216915,
     "geom:longitude":-65.292573,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Zaraza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.213584,
     "lbl:longitude":-65.399589,
     "meso:admin_1":"Guarico",
@@ -31,10 +37,11 @@
         "Pedro Zaraza"
     ],
     "name:eng_x_preferred":[
-        "Pedro Zaraza Municipality"
+        "Pedro Zaraza"
     ],
     "name:eng_x_variant":[
-        "Zaraza"
+        "Zaraza",
+        "Pedro Zaraza"
     ],
     "name:fre_x_preferred":[
         "Pedro Zaraza"
@@ -80,10 +87,11 @@
         }
     ],
     "wof:id":1108694483,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555220365,
     "wof:name":"Zaraza",
     "wof:parent_id":85680543,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

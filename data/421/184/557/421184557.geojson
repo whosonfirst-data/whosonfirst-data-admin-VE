@@ -10,6 +10,12 @@
     "geom:latitude":10.203843,
     "geom:longitude":-67.316736,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Jose Felix Ribas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.185071,
     "lbl:longitude":-67.334617,
     "meso:admin_1":"Aragua",
@@ -86,10 +92,11 @@
         }
     ],
     "wof:id":421184557,
-    "wof:lastmodified":1536616021,
+    "wof:lastmodified":1554488947,
     "wof:name":"Jose Felix Ribas",
     "wof:parent_id":85680525,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"JF",
     "wof:superseded_by":[],

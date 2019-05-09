@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031968,
-    "geom:area_square_m":389070969.230927,
+    "geom:area_square_m":389070969.230888,
     "geom:bbox":"-68.9882886996,10.0728494757,-68.7166875516,10.3294572152",
     "geom:latitude":10.177441,
     "geom:longitude":-68.87253,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Bruzual Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.153606,
     "lbl:longitude":-68.863274,
     "meso:admin_1":"Yaracuy",
@@ -31,10 +37,11 @@
         "Nirgua"
     ],
     "name:eng_x_preferred":[
-        "Nirgua Municipality"
+        "Nirgua"
     ],
     "name:eng_x_variant":[
         "Autonomo Nirgua",
+        "Nirgua",
         "Nirgua"
     ],
     "name:fre_x_preferred":[
@@ -73,10 +80,11 @@
         }
     ],
     "wof:id":1108694129,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555220364,
     "wof:name":"Bruzual",
     "wof:parent_id":85680507,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"NI",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":10.405889,
     "geom:longitude":-63.937208,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Bolivar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.402378,
     "lbl:longitude":-63.937173,
     "meso:admin_1":"Sucre",
@@ -75,10 +81,11 @@
         }
     ],
     "wof:id":421195503,
-    "wof:lastmodified":1536616120,
+    "wof:lastmodified":1554489019,
     "wof:name":"Bolivar",
     "wof:parent_id":85680561,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"BO",
     "wof:superseded_by":[],

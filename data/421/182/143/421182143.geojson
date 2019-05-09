@@ -10,6 +10,12 @@
     "geom:latitude":10.285038,
     "geom:longitude":-68.062817,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Naguanagua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.281021,
     "lbl:longitude":-68.062784,
     "meso:admin_1":"Carabobo",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421182143,
-    "wof:lastmodified":1536615980,
+    "wof:lastmodified":1554488810,
     "wof:name":"Naguanagua",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

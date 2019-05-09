@@ -12,6 +12,12 @@
     "gn:country":"VE",
     "gp:adm0":23424982,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Carirubana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.726012,
     "lbl:longitude":-70.01297,
     "meso:admin_1":"Falcon",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":890451975,
-    "wof:lastmodified":1536617386,
+    "wof:lastmodified":1554489062,
     "wof:name":"Carirubana",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

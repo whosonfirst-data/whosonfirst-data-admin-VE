@@ -10,6 +10,12 @@
     "geom:latitude":8.211362,
     "geom:longitude":-68.22842,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Arismendi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.256612,
     "lbl:longitude":-68.282609,
     "meso:admin_1":"Barinas",
@@ -31,9 +37,10 @@
         "Arismendi"
     ],
     "name:eng_x_preferred":[
-        "Arismendi Municipality"
+        "Arismendi"
     ],
     "name:eng_x_variant":[
+        "Arismendi",
         "Arismendi"
     ],
     "name:fre_x_preferred":[
@@ -78,10 +85,11 @@
         }
     ],
     "wof:id":1108694099,
-    "wof:lastmodified":1536615353,
+    "wof:lastmodified":1555220364,
     "wof:name":"Arismendi",
     "wof:parent_id":85680469,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

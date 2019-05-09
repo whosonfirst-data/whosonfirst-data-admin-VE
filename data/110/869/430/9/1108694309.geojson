@@ -10,6 +10,12 @@
     "geom:latitude":9.221715,
     "geom:longitude":-70.853849,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Monte Carmelo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.202128,
     "lbl:longitude":-70.842682,
     "meso:admin_1":"Trujillo",
@@ -31,9 +37,10 @@
         "Monte Carmelo"
     ],
     "name:eng_x_preferred":[
-        "Monte Carmelo Municipality"
+        "Monte Carmelo"
     ],
     "name:eng_x_variant":[
+        "Monte Carmelo",
         "Monte Carmelo"
     ],
     "name:fre_x_preferred":[
@@ -75,10 +82,11 @@
         }
     ],
     "wof:id":1108694309,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1555220364,
     "wof:name":"Monte Carmelo",
     "wof:parent_id":85680483,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"MC",
     "wof:superseded_by":[],

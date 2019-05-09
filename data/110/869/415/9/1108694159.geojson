@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190213,
-    "geom:area_square_m":2320762066.099178,
+    "geom:area_square_m":2320762066.099048,
     "geom:bbox":"-66.7163244254,9.02555068374,-65.9975,9.65562792886",
     "geom:latitude":9.350237,
     "geom:longitude":-66.291934,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Chaguaramas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.314475,
     "lbl:longitude":-66.297411,
     "meso:admin_1":"Guarico",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694159,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037559,
     "wof:name":"Chaguaramas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

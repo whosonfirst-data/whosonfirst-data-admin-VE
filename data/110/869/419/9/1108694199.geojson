@@ -10,6 +10,12 @@
     "geom:latitude":8.82782,
     "geom:longitude":-68.365615,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Girardot Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.822496,
     "lbl:longitude":-68.360186,
     "meso:admin_1":"Cojedes",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694199,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489237,
     "wof:name":"Girardot",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

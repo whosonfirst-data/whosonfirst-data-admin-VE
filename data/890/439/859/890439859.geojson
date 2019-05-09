@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":22159,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pampanito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.413127,
     "lbl:longitude":-70.508568,
     "meso:admin_1":"Trujillo",
@@ -63,10 +69,11 @@
         }
     ],
     "wof:id":890439859,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1554489061,
     "wof:name":"Pampanito",
     "wof:parent_id":85680483,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:population":22159,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ve",

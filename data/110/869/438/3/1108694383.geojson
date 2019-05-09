@@ -10,6 +10,12 @@
     "geom:latitude":10.435741,
     "geom:longitude":-63.578233,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Rubero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.423121,
     "lbl:longitude":-63.544969,
     "meso:admin_1":"Sucre",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108694383,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489241,
     "wof:name":"Rubero",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

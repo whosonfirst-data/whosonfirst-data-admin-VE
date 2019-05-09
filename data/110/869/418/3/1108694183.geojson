@@ -10,6 +10,12 @@
     "geom:latitude":9.628718,
     "geom:longitude":-63.670607,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Ezequiel Zamora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.590541,
     "lbl:longitude":-63.697897,
     "meso:admin_1":"Monagas",
@@ -31,9 +37,10 @@
         "Ezequiel Zamora"
     ],
     "name:eng_x_preferred":[
-        "Ezequiel Zamora Municipality"
+        "Ezequiel Zamora"
     ],
     "name:eng_x_variant":[
+        "Ezequiel Zamora",
         "Ezequiel Zamora"
     ],
     "name:fre_x_preferred":[
@@ -75,10 +82,11 @@
         }
     ],
     "wof:id":1108694183,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1555220364,
     "wof:name":"Ezequiel Zamora",
     "wof:parent_id":85680547,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"EZ",
     "wof:superseded_by":[],

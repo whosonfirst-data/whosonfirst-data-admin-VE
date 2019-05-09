@@ -10,6 +10,12 @@
     "geom:latitude":9.392068,
     "geom:longitude":-68.494936,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Romulo Gallegos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.397752,
     "lbl:longitude":-68.49264,
     "meso:admin_1":"Cojedes",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694377,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489241,
     "wof:name":"Romulo Gallegos",
     "wof:parent_id":85680491,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

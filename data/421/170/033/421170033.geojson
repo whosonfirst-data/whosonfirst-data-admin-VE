@@ -10,6 +10,12 @@
     "geom:latitude":10.956742,
     "geom:longitude":-63.858911,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Mari\u00f1o Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.975461,
     "lbl:longitude":-63.844215,
     "meso:admin_1":"Nueva Esparta",
@@ -95,10 +101,11 @@
         }
     ],
     "wof:id":421170033,
-    "wof:lastmodified":1536615904,
+    "wof:lastmodified":1554488751,
     "wof:name":"Mari\u00f1o",
     "wof:parent_id":85680557,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"GA",
     "wof:superseded_by":[],

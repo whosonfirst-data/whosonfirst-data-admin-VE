@@ -10,6 +10,12 @@
     "geom:latitude":10.081754,
     "geom:longitude":-68.99721,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Jose Antonio Paez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.063237,
     "lbl:longitude":-68.985616,
     "meso:admin_1":"Yaracuy",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108694225,
-    "wof:lastmodified":1536615356,
+    "wof:lastmodified":1554489237,
     "wof:name":"Jose Antonio Paez",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

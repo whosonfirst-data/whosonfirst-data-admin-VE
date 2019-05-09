@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084416,
-    "geom:area_square_m":1031629728.553123,
+    "geom:area_square_m":1031629728.553142,
     "geom:bbox":"-64.2007802716,8.57379197637,-63.61,8.93042716476",
     "geom:latitude":8.762782,
     "geom:longitude":-63.910817,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Guanipa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.745612,
     "lbl:longitude":-63.915269,
     "meso:admin_1":"Anzoategui",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":421182997,
-    "wof:lastmodified":1512517580,
+    "wof:lastmodified":1554488868,
     "wof:name":"Guanipa",
     "wof:parent_id":85680521,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

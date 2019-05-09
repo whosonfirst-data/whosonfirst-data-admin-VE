@@ -10,6 +10,12 @@
     "geom:latitude":11.17226,
     "geom:longitude":-68.555059,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Acosta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.170865,
     "lbl:longitude":-68.551776,
     "meso:admin_1":"Falcon",
@@ -41,9 +47,10 @@
         "Acosta"
     ],
     "name:eng_x_preferred":[
-        "Acosta Municipality"
+        "Acosta"
     ],
     "name:eng_x_variant":[
+        "Acosta",
         "Acosta"
     ],
     "name:fin_x_preferred":[
@@ -139,10 +146,11 @@
         }
     ],
     "wof:id":421185127,
-    "wof:lastmodified":1536616027,
+    "wof:lastmodified":1555220346,
     "wof:name":"Acosta",
     "wof:parent_id":85680461,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"AC",
     "wof:superseded_by":[],

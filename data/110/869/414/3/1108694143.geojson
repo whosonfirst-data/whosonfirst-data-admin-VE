@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038993,
-    "geom:area_square_m":475337025.816074,
+    "geom:area_square_m":475337025.816035,
     "geom:bbox":"-70.56,9.50952985783,-70.2892417627,9.80578485646",
     "geom:latitude":9.646928,
     "geom:longitude":-70.422353,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Candelaria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.591467,
     "lbl:longitude":-70.368004,
     "meso:admin_1":"Trujillo",
@@ -31,9 +37,10 @@
         "Candelaria"
     ],
     "name:eng_x_preferred":[
-        "Candelaria Municipality"
+        "Candelaria"
     ],
     "name:eng_x_variant":[
+        "Candelaria",
         "Candelaria"
     ],
     "name:fre_x_preferred":[
@@ -72,10 +79,11 @@
         }
     ],
     "wof:id":1108694143,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555220364,
     "wof:name":"Candelaria",
     "wof:parent_id":85680483,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"CN",
     "wof:superseded_by":[],

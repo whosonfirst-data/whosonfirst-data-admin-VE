@@ -10,6 +10,12 @@
     "geom:latitude":7.908588,
     "geom:longitude":-71.751125,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Uribante Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.923353,
     "lbl:longitude":-71.694228,
     "meso:admin_1":"Tachira",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421183171,
-    "wof:lastmodified":1536616007,
+    "wof:lastmodified":1554488917,
     "wof:name":"Uribante",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

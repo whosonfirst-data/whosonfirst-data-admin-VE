@@ -10,6 +10,12 @@
     "geom:latitude":10.207577,
     "geom:longitude":-67.529805,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Francisco Linares Alcantara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.204436,
     "lbl:longitude":-67.519009,
     "meso:admin_1":"Aragua",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421195501,
-    "wof:lastmodified":1536616120,
+    "wof:lastmodified":1554489019,
     "wof:name":"Francisco Linares Alcantara",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

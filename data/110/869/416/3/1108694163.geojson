@@ -10,6 +10,12 @@
     "geom:latitude":10.330916,
     "geom:longitude":-69.153992,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Crespo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.336814,
     "lbl:longitude":-69.15112,
     "meso:admin_1":"Lara",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694163,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489235,
     "wof:name":"Crespo",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

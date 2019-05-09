@@ -10,6 +10,12 @@
     "geom:latitude":10.053867,
     "geom:longitude":-69.105337,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Pe\u00f1a Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.05638,
     "lbl:longitude":-69.095457,
     "meso:admin_1":"Yaracuy",
@@ -106,10 +112,11 @@
         }
     ],
     "wof:id":421185263,
-    "wof:lastmodified":1536616027,
+    "wof:lastmodified":1554488953,
     "wof:name":"Pe\u00f1a",
     "wof:parent_id":85680507,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"PA",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":9.914013,
     "geom:longitude":-68.289735,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Falcon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.911972,
     "lbl:longitude":-68.304782,
     "meso:admin_1":"Cojedes",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108694185,
-    "wof:lastmodified":1536615355,
+    "wof:lastmodified":1554489236,
     "wof:name":"Falcon",
     "wof:parent_id":85680491,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"FA",
     "wof:superseded_by":[],

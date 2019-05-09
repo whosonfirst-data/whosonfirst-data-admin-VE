@@ -10,6 +10,12 @@
     "geom:latitude":10.390962,
     "geom:longitude":-63.766927,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Mejia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.382604,
     "lbl:longitude":-63.775085,
     "meso:admin_1":"Sucre",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108694285,
-    "wof:lastmodified":1536615357,
+    "wof:lastmodified":1554489238,
     "wof:name":"Mejia",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

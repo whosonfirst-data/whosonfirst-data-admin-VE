@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204605,
-    "geom:area_square_m":2496677350.471316,
+    "geom:area_square_m":2496677350.471467,
     "geom:bbox":"-63.9718719383,8.98530366199,-63.3194145243,9.54918635899",
     "geom:latitude":9.306728,
     "geom:longitude":-63.632548,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Aguasay Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.322567,
     "lbl:longitude":-63.600401,
     "meso:admin_1":"Monagas",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694065,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555037564,
     "wof:name":"Aguasay",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

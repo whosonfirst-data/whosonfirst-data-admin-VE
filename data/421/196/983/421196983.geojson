@@ -10,6 +10,12 @@
     "geom:latitude":11.060862,
     "geom:longitude":-63.978113,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Marcano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.054176,
     "lbl:longitude":-63.977609,
     "meso:admin_1":"Nueva Esparta",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421196983,
-    "wof:lastmodified":1536616123,
+    "wof:lastmodified":1554489021,
     "wof:name":"Marcano",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

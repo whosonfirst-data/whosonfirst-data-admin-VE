@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.811558,
-    "geom:area_square_m":9932510123.601213,
+    "geom:area_square_m":9932510123.60191,
     "geom:bbox":"-65.5022192089,7.65833333333,-64.3153973102,8.76509902549",
     "geom:latitude":8.194719,
     "geom:longitude":-64.875149,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Monagas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.187423,
     "lbl:longitude":-64.875136,
     "meso:admin_1":"Anzoategui",
@@ -48,10 +54,11 @@
         }
     ],
     "wof:id":1108694301,
-    "wof:lastmodified":1512516827,
+    "wof:lastmodified":1554489239,
     "wof:name":"Monagas",
     "wof:parent_id":85680521,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

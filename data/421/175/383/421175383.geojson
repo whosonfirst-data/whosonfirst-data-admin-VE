@@ -10,6 +10,12 @@
     "geom:latitude":5.863071,
     "geom:longitude":-64.436749,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Sucre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.608634,
     "lbl:longitude":-64.612041,
     "meso:admin_1":"Bolivar",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":421175383,
-    "wof:lastmodified":1536615951,
+    "wof:lastmodified":1554488778,
     "wof:name":"Sucre",
     "wof:parent_id":85680517,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"SU",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":8.231103,
     "geom:longitude":-62.752585,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Caroni Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.243181,
     "lbl:longitude":-62.70525,
     "meso:admin_1":"Bolivar",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421190237,
-    "wof:lastmodified":1536616079,
+    "wof:lastmodified":1554488986,
     "wof:name":"Caroni",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.636588,
     "geom:longitude":-63.26954,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Bermudez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.637459,
     "lbl:longitude":-63.24507,
     "meso:admin_1":"Sucre",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108694113,
-    "wof:lastmodified":1536615354,
+    "wof:lastmodified":1554489234,
     "wof:name":"Bermudez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

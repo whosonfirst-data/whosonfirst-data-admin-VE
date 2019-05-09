@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00944,
-    "geom:area_square_m":115172114.013882,
+    "geom:area_square_m":115172114.013911,
     "geom:bbox":"-70.8093604493,9.27060047764,-70.6563261494,9.41",
     "geom:latitude":9.351086,
     "geom:longitude":-70.726432,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Rafael Rangel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.358631,
     "lbl:longitude":-70.721172,
     "meso:admin_1":"Trujillo",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108694359,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037553,
     "wof:name":"Rafael Rangel",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.401614,
     "geom:longitude":-66.474048,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Las Mercedes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.43027,
     "lbl:longitude":-66.501093,
     "meso:admin_1":"Guarico",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108694245,
-    "wof:lastmodified":1536615356,
+    "wof:lastmodified":1554489238,
     "wof:name":"Las Mercedes",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

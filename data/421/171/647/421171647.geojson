@@ -10,6 +10,12 @@
     "geom:latitude":8.110258,
     "geom:longitude":-70.685728,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Antonio Jose De Sucre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.085465,
     "lbl:longitude":-70.68572,
     "meso:admin_1":"Barinas",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":421171647,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1554488764,
     "wof:name":"Antonio Jose De Sucre",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

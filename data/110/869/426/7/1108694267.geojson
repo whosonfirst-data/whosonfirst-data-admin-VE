@@ -10,6 +10,12 @@
     "geom:latitude":10.14749,
     "geom:longitude":-67.893253,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Los Guayos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.131618,
     "lbl:longitude":-67.88714,
     "meso:admin_1":"Carabobo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694267,
-    "wof:lastmodified":1536615357,
+    "wof:lastmodified":1554489238,
     "wof:name":"Los Guayos",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

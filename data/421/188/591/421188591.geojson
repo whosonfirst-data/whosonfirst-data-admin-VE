@@ -10,6 +10,12 @@
     "geom:latitude":10.336904,
     "geom:longitude":-66.112064,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Buroz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.338497,
     "lbl:longitude":-66.119203,
     "meso:admin_1":"Miranda",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":421188591,
-    "wof:lastmodified":1536616061,
+    "wof:lastmodified":1554488969,
     "wof:name":"Buroz",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

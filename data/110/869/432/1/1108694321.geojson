@@ -10,6 +10,12 @@
     "geom:latitude":9.294447,
     "geom:longitude":-69.43062,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Ospino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.349322,
     "lbl:longitude":-69.435017,
     "meso:admin_1":"Portuguesa",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108694321,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489240,
     "wof:name":"Ospino",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

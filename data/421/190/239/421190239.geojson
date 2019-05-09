@@ -10,6 +10,12 @@
     "geom:latitude":8.72635,
     "geom:longitude":-70.873403,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Rangel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.726107,
     "lbl:longitude":-70.886621,
     "meso:admin_1":"Merida",
@@ -32,9 +38,10 @@
         "Rangel"
     ],
     "name:eng_x_preferred":[
-        "Rangel Municipality"
+        "Rangel"
     ],
     "name:eng_x_variant":[
+        "Rangel",
         "Rangel"
     ],
     "name:fre_x_preferred":[
@@ -97,10 +104,11 @@
         }
     ],
     "wof:id":421190239,
-    "wof:lastmodified":1536616079,
+    "wof:lastmodified":1555220347,
     "wof:name":"Rangel",
     "wof:parent_id":85680473,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"RA",
     "wof:superseded_by":[],

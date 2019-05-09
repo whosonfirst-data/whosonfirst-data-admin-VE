@@ -10,6 +10,12 @@
     "geom:latitude":8.183702,
     "geom:longitude":-71.128567,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Aricagua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.193256,
     "lbl:longitude":-71.128579,
     "meso:admin_1":"Merida",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694095,
-    "wof:lastmodified":1536615353,
+    "wof:lastmodified":1554489234,
     "wof:name":"Aricagua",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

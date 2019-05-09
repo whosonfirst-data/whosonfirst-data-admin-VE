@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079526,
-    "geom:area_square_m":967080100.226752,
+    "geom:area_square_m":967080100.226922,
     "geom:bbox":"-68.6372920092,10.209345341,-68.26,10.608205625",
     "geom:latitude":10.439593,
     "geom:longitude":-68.510605,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Veroes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.445041,
     "lbl:longitude":-68.507746,
     "meso:admin_1":"Yaracuy",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108694481,
-    "wof:lastmodified":1553816463,
+    "wof:lastmodified":1555037549,
     "wof:name":"Veroes",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

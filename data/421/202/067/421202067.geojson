@@ -10,6 +10,12 @@
     "geom:latitude":8.195184,
     "geom:longitude":-71.953317,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Jauregui Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.150597,
     "lbl:longitude":-71.959469,
     "meso:admin_1":"Tachira",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421202067,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1554489033,
     "wof:name":"Jauregui",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.224621,
     "geom:longitude":-63.9225,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Montes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.21992,
     "lbl:longitude":-63.926383,
     "meso:admin_1":"Sucre",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108694311,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489239,
     "wof:name":"Montes",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.190104,
     "geom:longitude":-67.158144,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Santos Michelena Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.19486,
     "lbl:longitude":-67.159193,
     "meso:admin_1":"Aragua",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108694419,
-    "wof:lastmodified":1536615361,
+    "wof:lastmodified":1554489242,
     "wof:name":"Santos Michelena",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

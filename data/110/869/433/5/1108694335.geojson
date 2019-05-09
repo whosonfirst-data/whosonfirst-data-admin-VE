@@ -10,6 +10,12 @@
     "geom:latitude":8.479891,
     "geom:longitude":-72.066685,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Panamericano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.482639,
     "lbl:longitude":-72.066701,
     "meso:admin_1":"Tachira",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108694335,
-    "wof:lastmodified":1536615358,
+    "wof:lastmodified":1554489240,
     "wof:name":"Panamericano",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

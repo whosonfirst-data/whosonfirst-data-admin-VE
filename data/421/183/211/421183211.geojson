@@ -10,6 +10,12 @@
     "geom:latitude":8.499602,
     "geom:longitude":-71.881567,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Samuel Dario Maldonado Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.491449,
     "lbl:longitude":-71.868996,
     "meso:admin_1":"Tachira",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421183211,
-    "wof:lastmodified":1536616008,
+    "wof:lastmodified":1554488917,
     "wof:name":"Samuel Dario Maldonado",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

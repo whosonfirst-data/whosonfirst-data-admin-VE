@@ -10,6 +10,12 @@
     "geom:latitude":9.6786,
     "geom:longitude":-69.867955,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Moran Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.705694,
     "lbl:longitude":-69.86316,
     "meso:admin_1":"Lara",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":421200611,
-    "wof:lastmodified":1536616134,
+    "wof:lastmodified":1554489029,
     "wof:name":"Moran",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

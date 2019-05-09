@@ -10,6 +10,12 @@
     "geom:latitude":10.772301,
     "geom:longitude":-63.943879,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Villalba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.77014,
     "lbl:longitude":-63.928846,
     "meso:admin_1":"Nueva Esparta",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421177413,
-    "wof:lastmodified":1536615958,
+    "wof:lastmodified":1554488780,
     "wof:name":"Villalba",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

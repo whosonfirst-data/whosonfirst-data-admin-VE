@@ -10,6 +10,12 @@
     "geom:latitude":8.491469,
     "geom:longitude":-62.109644,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Casacoima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.5191,
     "lbl:longitude":-62.075894,
     "meso:admin_1":"Delta Amacuro",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421183445,
-    "wof:lastmodified":1536616013,
+    "wof:lastmodified":1554488941,
     "wof:name":"Casacoima",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

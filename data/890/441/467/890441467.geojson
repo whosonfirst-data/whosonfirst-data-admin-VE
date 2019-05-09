@@ -12,6 +12,12 @@
     "gn:country":"VE",
     "gp:adm0":23424982,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Tubores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.942729,
     "lbl:longitude":-64.071603,
     "meso:admin_1":"Nueva Esparta",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":890441467,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1554489061,
     "wof:name":"Tubores",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

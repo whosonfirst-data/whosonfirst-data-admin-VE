@@ -10,6 +10,12 @@
     "geom:latitude":10.555273,
     "geom:longitude":-71.700144,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.551392,
     "lbl:longitude":-71.701798,
     "meso:admin_1":"Zulia",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108694391,
-    "wof:lastmodified":1536615360,
+    "wof:lastmodified":1554489241,
     "wof:name":"San Francisco",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

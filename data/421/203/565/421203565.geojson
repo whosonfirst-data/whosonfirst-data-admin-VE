@@ -10,6 +10,12 @@
     "geom:latitude":8.242464,
     "geom:longitude":-69.181361,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Sosa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.246046,
     "lbl:longitude":-69.286879,
     "meso:admin_1":"Barinas",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":421203565,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489045,
     "wof:name":"Sosa",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

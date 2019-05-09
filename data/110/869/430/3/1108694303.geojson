@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287837,
-    "geom:area_square_m":3507851544.704625,
+    "geom:area_square_m":3507851544.704589,
     "geom:bbox":"-66.68,9.25473242032,-65.9581503543,10.0417498974",
     "geom:latitude":9.739738,
     "geom:longitude":-66.330635,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Monagas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.781968,
     "lbl:longitude":-66.36598,
     "meso:admin_1":"Guarico",
@@ -48,10 +54,11 @@
         }
     ],
     "wof:id":1108694303,
-    "wof:lastmodified":1512516827,
+    "wof:lastmodified":1554489240,
     "wof:name":"Monagas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
     "wof:supersedes":[],

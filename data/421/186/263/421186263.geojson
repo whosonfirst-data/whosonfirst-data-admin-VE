@@ -10,6 +10,12 @@
     "geom:latitude":10.373812,
     "geom:longitude":-67.487625,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Santiago Mari\u00f1o Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.403774,
     "lbl:longitude":-67.485965,
     "meso:admin_1":"Aragua",
@@ -44,10 +50,11 @@
         "Santiago Mari\u00f1o"
     ],
     "name:eng_x_preferred":[
-        "Santiago Mari\u00f1o Municipality"
+        "Santiago Mari\u00f1o"
     ],
     "name:eng_x_variant":[
         "Santiago Marino",
+        "Santiago Mari\u00f1o",
         "Santiago Mari\u00f1o"
     ],
     "name:epo_x_preferred":[
@@ -159,10 +166,11 @@
         }
     ],
     "wof:id":421186263,
-    "wof:lastmodified":1536616034,
+    "wof:lastmodified":1555220346,
     "wof:name":"Santiago Mari\u00f1o",
     "wof:parent_id":85680525,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"SM",
     "wof:superseded_by":[],

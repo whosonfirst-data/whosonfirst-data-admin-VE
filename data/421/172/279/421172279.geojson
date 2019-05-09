@@ -10,6 +10,12 @@
     "geom:latitude":10.241989,
     "geom:longitude":-68.257486,
     "iso:country":"VE",
+    "label:eng_x_preferred_longname":[
+        "Bejuma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.184611,
     "lbl:longitude":-68.214619,
     "meso:admin_1":"Carabobo",
@@ -101,10 +107,11 @@
         }
     ],
     "wof:id":421172279,
-    "wof:lastmodified":1536615938,
+    "wof:lastmodified":1554488767,
     "wof:name":"Bejuma",
     "wof:parent_id":85680493,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"MI",
     "wof:superseded_by":[],
