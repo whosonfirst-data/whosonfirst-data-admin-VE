@@ -37,13 +37,7 @@
     "name:ceb_x_preferred":[
         "Mu\u00f1oz"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u5c3c\u5967\u65af\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Mu\u00f1oz"
-    ],
-    "name:dut_x_preferred":[
         "Mu\u00f1oz"
     ],
     "name:eng_x_preferred":[
@@ -57,14 +51,11 @@
     "name:fra_x_preferred":[
         "Mu\u00f1oz"
     ],
-    "name:fre_x_preferred":[
-        "Mu\u00f1oz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10dc\u10d8\u10dd\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Mu\u00f1oz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10dc\u10d8\u10dd\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nan_x_preferred":[
         "Mu\u00f1oz"
@@ -89,6 +80,9 @@
     ],
     "name:vie_x_preferred":[
         "Mu\u00f1oz"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5c3c\u5967\u65af\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -150,7 +144,7 @@
         }
     ],
     "wof:id":421202593,
-    "wof:lastmodified":1554489036,
+    "wof:lastmodified":1561827236,
     "wof:name":"Mu\u00f1oz",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

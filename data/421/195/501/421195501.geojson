@@ -34,12 +34,6 @@
     "name:arg_x_preferred":[
         "Municipio Francisco Linares Alc\u00e1ntara"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u6717\u897f\u65af\u79d1\u7d0d\u96f7\u65af\u963f\u723e\u574e\u5854\u62c9\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Francisco Linares Alc\u00e1ntara"
-    ],
     "name:eng_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
@@ -51,16 +45,16 @@
     "name:fra_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
-    "name:fre_x_preferred":[
-        "Francisco Linares Alc\u00e1ntara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8\u10e1\u10d9\u10dd-\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1-\u10d0\u10da\u10d9\u10d0\u10dc\u10e2\u10d0\u10e0\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8\u10e1\u10d9\u10dd-\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1-\u10d0\u10da\u10d9\u10d0\u10dc\u10e2\u10d0\u10e0\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:nld_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
     "name:por_x_preferred":[
@@ -86,6 +80,9 @@
     ],
     "name:yor_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6717\u897f\u65af\u79d1\u7d0d\u96f7\u65af\u963f\u723e\u574e\u5854\u62c9\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -147,7 +144,7 @@
         }
     ],
     "wof:id":421195501,
-    "wof:lastmodified":1554489019,
+    "wof:lastmodified":1561827235,
     "wof:name":"Francisco Linares Alcantara",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

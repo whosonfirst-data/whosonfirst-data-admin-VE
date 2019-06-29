@@ -33,12 +33,6 @@
     "name:ast_x_preferred":[
         "Valdez"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u723e\u5fb7\u65af\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Valdez"
-    ],
     "name:eng_x_preferred":[
         "Valdez"
     ],
@@ -46,7 +40,7 @@
         "Valdez",
         "Valdez Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Valdez"
     ],
     "name:ita_x_preferred":[
@@ -55,11 +49,17 @@
     "name:nan_x_preferred":[
         "Valdez"
     ],
+    "name:nld_x_preferred":[
+        "Valdez"
+    ],
     "name:por_x_preferred":[
         "Valdez"
     ],
     "name:spa_x_preferred":[
         "Municipio Valdez"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u5fb7\u65af\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108694473,
-    "wof:lastmodified":1554489243,
+    "wof:lastmodified":1561827215,
     "wof:name":"Valdez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

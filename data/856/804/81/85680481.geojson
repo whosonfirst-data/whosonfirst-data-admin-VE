@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.874231,
-    "geom:area_square_m":10706198001.99752,
+    "geom:area_square_m":10706198001.996941,
     "geom:bbox":"-72.48739,7.36450067254,-71.3226279636,8.65989528067",
     "geom:latitude":7.941429,
     "geom:longitude":-72.026173,
@@ -47,13 +47,10 @@
     "name:cat_x_preferred":[
         "T\u00e1chira"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u5947\u62c9\u5dde"
-    ],
-    "name:cor_x_preferred":[
+    "name:ces_x_preferred":[
         "T\u00e1chira"
     ],
-    "name:cze_x_preferred":[
+    "name:cor_x_preferred":[
         "T\u00e1chira"
     ],
     "name:dan_x_preferred":[
@@ -62,8 +59,8 @@
     "name:deu_x_preferred":[
         "T\u00e1chira"
     ],
-    "name:dut_x_preferred":[
-        "T\u00e1chira"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c4\u03c3\u03af\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "T\u00e1chira"
@@ -74,20 +71,14 @@
     "name:est_x_preferred":[
         "T\u00e1chira"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0686\u06cc\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "T\u00e1chira"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de T\u00e1chira"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e9\u10d8\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00e1chira"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c4\u03c3\u03af\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0a9a\u0ac0\u0ab0\u0abe"
@@ -110,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0cbe\u0c9a\u0cbf\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e9\u10d8\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\uce58\ub77c \uc8fc"
     ],
@@ -122,19 +116,22 @@
     "name:lit_x_preferred":[
         "Ta\u010dira"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0447\u0438\u0440\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u091a\u0940\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0447\u0438\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
         "T\u00e1chira"
     ],
     "name:nah_x_preferred":[
         "T\u00e1chira"
     ],
     "name:nan_x_preferred":[
+        "T\u00e1chira"
+    ],
+    "name:nld_x_preferred":[
         "T\u00e1chira"
     ],
     "name:nno_x_preferred":[
@@ -149,9 +146,6 @@
     "name:oss_x_preferred":[
         "\u0422\u0430\u0447\u0438\u0440\u00e6"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0686\u06cc\u0631\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u0627\u0686\u0631\u0627"
     ],
@@ -164,7 +158,7 @@
     "name:que_x_preferred":[
         "T\u00e1chira suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "T\u00e1chira"
     ],
     "name:rus_x_preferred":[
@@ -176,7 +170,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dcf\u0da0\u0dd2\u0dbb\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "T\u00e1chira"
     ],
     "name:spa_x_preferred":[
@@ -218,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "T\u00e1chira"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5947\u62c9\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VEN",
@@ -343,7 +340,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814833,
+    "wof:lastmodified":1561827167,
     "wof:name":"T\u00e1chira",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

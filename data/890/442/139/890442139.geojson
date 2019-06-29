@@ -22,14 +22,11 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u0995\u09bf\u09b8"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5947\u514b\u65af"
-    ],
     "name:dan_x_preferred":[
         "Machiques"
     ],
-    "name:dut_x_preferred":[
-        "Machiques"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c4\u03c3\u03af\u03ba\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Machiques"
@@ -37,11 +34,8 @@
     "name:fin_x_preferred":[
         "Machiques"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Machiques"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c4\u03c3\u03af\u03ba\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a9a\u0abf\u0a95\u0ac7\u0ab8"
@@ -76,7 +70,10 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u091a\u093f\u0915\u0947\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Machiques"
+    ],
+    "name:nld_x_preferred":[
         "Machiques"
     ],
     "name:nob_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Machiques"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5947\u514b\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Venezuela",
@@ -251,7 +251,7 @@
         }
     ],
     "wof:id":890442139,
-    "wof:lastmodified":1527792857,
+    "wof:lastmodified":1561827252,
     "wof:name":"Machiques",
     "wof:parent_id":1108694269,
     "wof:placetype":"locality",

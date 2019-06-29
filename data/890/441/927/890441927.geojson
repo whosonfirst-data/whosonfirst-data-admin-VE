@@ -15,13 +15,7 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5716\u5361\u5361\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Tucacas"
-    ],
-    "name:dut_x_preferred":[
         "Tucacas"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +24,7 @@
     "name:fra_x_preferred":[
         "Tucacas"
     ],
-    "name:fre_x_preferred":[
-        "Tucacas"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Tucacas"
     ],
     "name:pol_x_preferred":[
@@ -84,7 +75,7 @@
         }
     ],
     "wof:id":890441927,
-    "wof:lastmodified":1534379805,
+    "wof:lastmodified":1561827251,
     "wof:name":"Tucacas",
     "wof:parent_id":890417393,
     "wof:placetype":"locality",

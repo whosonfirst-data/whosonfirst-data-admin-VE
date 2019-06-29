@@ -16,13 +16,10 @@
     "name:arg_x_preferred":[
         "La Guaira"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u74dc\u4f0a\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "La Guaira"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Guaira"
     ],
     "name:eng_x_preferred":[
@@ -31,16 +28,13 @@
     "name:epo_x_preferred":[
         "La Guaira"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u06af\u0648\u0627\u06cc\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "La Guaira"
     ],
-    "name:fre_x_preferred":[
-        "La Guaira"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10d2\u10e3\u10d0\u10d8\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "La Guaira"
     ],
     "name:heb_x_preferred":[
@@ -52,6 +46,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30b0\u30a2\u30a4\u30e9"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10d2\u10e3\u10d0\u10d8\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\uacfc\uc774\ub77c"
     ],
@@ -61,11 +58,11 @@
     "name:nah_x_preferred":[
         "La Guaira"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "La Guaira"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627 \u06af\u0648\u0627\u06cc\u0631\u0627"
+    "name:nob_x_preferred":[
+        "La Guaira"
     ],
     "name:pol_x_preferred":[
         "La Guaira"
@@ -73,7 +70,7 @@
     "name:por_x_preferred":[
         "La Guaira"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "La Guaira"
     ],
     "name:rus_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "La Guaira"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u74dc\u4f0a\u62c9"
     ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":421187417,
-    "wof:lastmodified":1527716249,
+    "wof:lastmodified":1561827238,
     "wof:name":"La Guaira",
     "wof:parent_id":421189081,
     "wof:placetype":"locality",

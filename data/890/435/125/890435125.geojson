@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09b0\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u91cc\u4e9e\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Mariara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mariara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b9\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mariara"
@@ -39,17 +39,8 @@
     "name:fin_x_preferred":[
         "Mariara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mariara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d8\u10d0\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Mariara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03b9\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0abf\u0a86\u0ab0\u0abe"
@@ -69,6 +60,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb0\u0cbf\u0caf\u0cbe\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d8\u10d0\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub9ac\uc544\ub77c"
     ],
@@ -81,7 +75,10 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u093f\u0906\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Mariara"
+    ],
+    "name:nld_x_preferred":[
         "Mariara"
     ],
     "name:nob_x_preferred":[
@@ -129,6 +126,9 @@
     "name:vol_x_preferred":[
         "Mariara"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u4e9e\u62c9"
+    ],
     "qs:name":"Mariara",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":890435125,
-    "wof:lastmodified":1527793053,
+    "wof:lastmodified":1561827254,
     "wof:name":"Mariara",
     "wof:parent_id":1108694171,
     "wof:placetype":"locality",

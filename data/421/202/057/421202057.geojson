@@ -31,12 +31,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5716\u502b\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Tur\u00e9n"
-    ],
     "name:eng_x_preferred":[
         "Tur\u00e9n"
     ],
@@ -45,11 +39,8 @@
         "Tur\u00e9n",
         "Tur\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tur\u00e9n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10e0\u10d4\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:ita_x_preferred":[
         "Tur\u00e9n"
@@ -57,7 +48,13 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30ec\u30f3"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10e0\u10d4\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "Tur\u00e9n"
+    ],
+    "name:nld_x_preferred":[
         "Tur\u00e9n"
     ],
     "name:por_x_preferred":[
@@ -65,6 +62,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio Tur\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u502b\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":421202057,
-    "wof:lastmodified":1555220347,
+    "wof:lastmodified":1561827237,
     "wof:name":"Paez",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

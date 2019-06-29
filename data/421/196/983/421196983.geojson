@@ -31,13 +31,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u99ac\u5361\u8afe\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Marcano"
-    ],
-    "name:dut_x_preferred":[
         "Marcano"
     ],
     "name:eng_x_preferred":[
@@ -50,16 +44,16 @@
     "name:fra_x_preferred":[
         "Marcano"
     ],
-    "name:fre_x_preferred":[
-        "Marcano"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d9\u10d0\u10dc\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Marcano"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d9\u10d0\u10dc\u10dd"
+    ],
     "name:nan_x_preferred":[
+        "Marcano"
+    ],
+    "name:nld_x_preferred":[
         "Marcano"
     ],
     "name:por_x_preferred":[
@@ -70,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio Marcano"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5361\u8afe\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -131,7 +128,7 @@
         }
     ],
     "wof:id":421196983,
-    "wof:lastmodified":1554489021,
+    "wof:lastmodified":1561827242,
     "wof:name":"Marcano",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

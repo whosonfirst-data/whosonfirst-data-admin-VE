@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.022029,
-    "geom:area_square_m":36989686331.122177,
+    "geom:area_square_m":36989686331.121544,
     "geom:bbox":"-71.8633757486,7.29777335329,-67.5007674849,9.06136831464",
     "geom:latitude":8.151281,
     "geom:longitude":-69.854128,
@@ -32,12 +32,6 @@
     "name:arg_x_preferred":[
         "Estato Barinas"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0580\u056b\u0576\u0561\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Barinas estatua"
-    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0411\u0430\u0440\u044b\u043d\u0430\u0441"
     ],
@@ -53,20 +47,20 @@
     "name:cat_x_preferred":[
         "Barinas"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u91cc\u7eb3\u65af\u5dde"
-    ],
-    "name:cor_x_preferred":[
+    "name:ces_x_preferred":[
         "Barinas"
     ],
-    "name:cze_x_preferred":[
+    "name:cor_x_preferred":[
         "Barinas"
     ],
     "name:dan_x_preferred":[
         "Barinas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Barinas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03af\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Barinas"
@@ -77,20 +71,17 @@
     "name:est_x_preferred":[
         "Barinase osariik"
     ],
+    "name:eus_x_preferred":[
+        "Barinas estatua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0628\u0627\u0631\u06cc\u0646\u0627\u0633"
+    ],
     "name:fin_x_preferred":[
         "Barinas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de Barinas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10d8\u10dc\u10d0\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Barinas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c1\u03af\u03bd\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab0\u0ac0\u0aa8\u0ab8"
@@ -100,6 +91,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u0930\u0940\u0928\u093e\u091c\u093c"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u056b\u0576\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Barinas"
@@ -113,6 +107,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cb0\u0cbf\u0ca8\u0cbe\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10d8\u10dc\u10d0\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\ub9ac\ub098\uc2a4 \uc8fc"
     ],
@@ -125,19 +122,22 @@
     "name:lit_x_preferred":[
         "Barinasas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0440\u0438\u043d\u0430\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0930\u093f\u0928\u093e\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0440\u0438\u043d\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
         "Barinas"
     ],
     "name:nah_x_preferred":[
         "Barinas"
     ],
     "name:nan_x_preferred":[
+        "Barinas"
+    ],
+    "name:nld_x_preferred":[
         "Barinas"
     ],
     "name:nno_x_preferred":[
@@ -152,9 +152,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0430\u0440\u0438\u043d\u0430\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0628\u0627\u0631\u06cc\u0646\u0627\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0627\u0631\u06cc\u0646\u0627\u0633"
     ],
@@ -167,7 +164,7 @@
     "name:que_x_preferred":[
         "Barinas suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Barinas"
     ],
     "name:rus_x_preferred":[
@@ -217,6 +214,9 @@
     ],
     "name:war_x_preferred":[
         "Barinas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u7eb3\u65af\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VEN",
@@ -341,7 +341,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561827166,
     "wof:name":"Barinas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

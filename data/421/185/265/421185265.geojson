@@ -31,12 +31,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u591a\u74e6\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "C\u00f3rdoba"
-    ],
     "name:eng_x_preferred":[
         "C\u00f3rdoba"
     ],
@@ -45,16 +39,19 @@
         "C\u00f3rdoba",
         "Municipio C\u00f3rdoba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "C\u00f3rdoba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:ita_x_preferred":[
         "C\u00f3rdoba"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:nld_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:por_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio C\u00f3rdoba"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u591a\u74e6\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":421185265,
-    "wof:lastmodified":1555037107,
+    "wof:lastmodified":1561827250,
     "wof:name":"Cordova",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

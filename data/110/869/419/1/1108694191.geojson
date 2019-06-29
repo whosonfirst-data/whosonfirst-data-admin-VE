@@ -30,12 +30,6 @@
     "mps:longitude":-71.959862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8cbb\u723e\u5357\u5fb7\u8332\u8cbb\u5967\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Fern\u00e1ndez Feo"
-    ],
     "name:eng_x_preferred":[
         "Fern\u00e1ndez Feo"
     ],
@@ -44,16 +38,19 @@
         "Fern\u00e1ndez Feo",
         "Fern\u00e1ndez Feo Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fern\u00e1ndez Feo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d4\u10e0\u10dc\u10d0\u10dc\u10d3\u10d4\u10e1-\u10e4\u10d4\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:ita_x_preferred":[
         "Fern\u00e1ndez Feo"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10e0\u10dc\u10d0\u10dc\u10d3\u10d4\u10e1-\u10e4\u10d4\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "Fern\u00e1ndez Feo"
+    ],
+    "name:nld_x_preferred":[
         "Fern\u00e1ndez Feo"
     ],
     "name:por_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio Fern\u00e1ndez Feo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u723e\u5357\u5fb7\u8332\u8cbb\u5967\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108694191,
-    "wof:lastmodified":1554489236,
+    "wof:lastmodified":1561827219,
     "wof:name":"Fernandez Feo",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

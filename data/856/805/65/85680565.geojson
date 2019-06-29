@@ -47,9 +47,6 @@
     "name:cat_x_preferred":[
         "Delta Amacuro"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u9a6c\u5e93\u7f57\u4e09\u89d2\u6d32\u5dde"
-    ],
     "name:cor_x_preferred":[
         "Delta Amacuro"
     ],
@@ -59,8 +56,8 @@
     "name:deu_x_preferred":[
         "Delta Amacuro"
     ],
-    "name:dut_x_preferred":[
-        "Delta Amacuro"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ad\u03bb\u03c4\u03b1 \u0391\u03bc\u03b1\u03ba\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Delta Amacuro"
@@ -76,18 +73,6 @@
     ],
     "name:fra_x_variant":[
         "Delta de l'Or\u00e9noque"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9tat de Delta Amacuro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10da\u10e2\u10d0-\u10d0\u10db\u10d0\u10d9\u10e3\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Delta Amacuro"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ad\u03bb\u03c4\u03b1 \u0391\u03bc\u03b1\u03ba\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0ab2\u0acd\u0a9f\u0abe \u0a8f\u0aae\u0ac7\u0a95\u0ac1\u0ab0\u0acb"
@@ -134,14 +119,8 @@
     "name:lit_x_preferred":[
         "Amakuro Delta"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0435\u043b\u0442\u0430 \u0410\u043c\u0430\u043a\u0443\u0440\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u0932\u094d\u091f\u093e \u0905\u092e\u093e\u0915\u0941\u0930\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Delta Amacuro"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0435\u043b\u0442\u0430 \u0410\u043c\u0430\u043a\u0443\u0440\u043e"
@@ -177,9 +156,6 @@
         "Delta Amacuro suyu"
     ],
     "name:ron_x_preferred":[
-        "Delta Amacuro"
-    ],
-    "name:rum_x_preferred":[
         "Delta Amacuro"
     ],
     "name:rus_x_preferred":[
@@ -367,7 +343,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550622,
+    "wof:lastmodified":1561827170,
     "wof:name":"Delta Amacuro",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

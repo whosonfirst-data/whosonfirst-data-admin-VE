@@ -34,13 +34,7 @@
     "name:arg_x_preferred":[
         "Municipio Pedro Camejo"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u5fb7\u7f85\u5361\u6885\u970d\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Pedro Camejo"
-    ],
-    "name:dut_x_preferred":[
         "Pedro Camejo"
     ],
     "name:eng_x_preferred":[
@@ -51,13 +45,16 @@
         "Pedro Camejo",
         "Pedro Camejo Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pedro Camejo"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10de\u10d4\u10d3\u10e0\u10dd-\u10d9\u10d0\u10db\u10d4\u10ee\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nan_x_preferred":[
+        "Pedro Camejo"
+    ],
+    "name:nld_x_preferred":[
         "Pedro Camejo"
     ],
     "name:pol_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Pedro Camejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u7f85\u5361\u6885\u970d\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":421171649,
-    "wof:lastmodified":1554488765,
+    "wof:lastmodified":1561827248,
     "wof:name":"Pedro Camejo",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

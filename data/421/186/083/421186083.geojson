@@ -13,22 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u8fed\u6208"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Diego"
     ],
     "name:eng_x_preferred":[
         "San Diego"
     ],
-    "name:fre_x_preferred":[
-        "San Diego"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Diego"
     ],
     "name:ita_x_preferred":[
+        "San Diego"
+    ],
+    "name:nld_x_preferred":[
         "San Diego"
     ],
     "name:spa_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:vie_x_preferred":[
         "San Diego"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8fed\u6208"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421186083,
-    "wof:lastmodified":1514502422,
+    "wof:lastmodified":1561827240,
     "wof:name":"San Diego",
     "wof:parent_id":421180477,
     "wof:placetype":"locality",

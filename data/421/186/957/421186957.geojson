@@ -20,14 +20,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u09a4\u09c1 \u09ab\u09bf\u099c\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u84ec\u6258\u83f2\u970d"
-    ],
     "name:dan_x_preferred":[
         "Punto Fijo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Punto Fijo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03bd\u03c4\u03bf \u03a6\u03af\u03c4\u03b6\u03bf"
     ],
     "name:eng_x_preferred":[
         "Punto Fijo"
@@ -38,17 +38,8 @@
     "name:fin_x_preferred":[
         "Punto Fijo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Punto Fijo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10dc\u10e2\u10dd-\u10e4\u10d8\u10ee\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Punto Fijo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03cd\u03bd\u03c4\u03bf \u03a6\u03af\u03c4\u03b6\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0aa8\u0acd\u0a9f\u0acb \u0aab\u0ac0\u0a9c\u0acb"
@@ -83,7 +74,10 @@
     "name:mar_x_preferred":[
         "\u092a\u0902\u091f\u0942 \u092b\u093f\u091c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Punto Fijo"
+    ],
+    "name:nld_x_preferred":[
         "Punto Fijo"
     ],
     "name:nob_x_preferred":[
@@ -281,7 +275,7 @@
         }
     ],
     "wof:id":421186957,
-    "wof:lastmodified":1527716315,
+    "wof:lastmodified":1561827240,
     "wof:name":"Punto Fijo",
     "wof:parent_id":890451975,
     "wof:placetype":"locality",

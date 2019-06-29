@@ -33,12 +33,6 @@
     "name:arg_x_preferred":[
         "Municipio San Casimiro"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5361\u897f\u7c73\u7f85\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "San Casimiro"
-    ],
     "name:eng_x_preferred":[
         "San Casimiro"
     ],
@@ -46,16 +40,19 @@
         "San Casimiro",
         "San Casimiro Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Casimiro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e1\u10d8\u10db\u10d8\u10e0\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:ita_x_preferred":[
         "San Casimiro"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e1\u10d8\u10db\u10d8\u10e0\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "San Casimiro"
+    ],
+    "name:nld_x_preferred":[
         "San Casimiro"
     ],
     "name:por_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "San Casimiro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u897f\u7c73\u7f85\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1108694387,
-    "wof:lastmodified":1554489241,
+    "wof:lastmodified":1561827219,
     "wof:name":"San Casimiro",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

@@ -32,12 +32,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5361\u8c9d\u7565\u6e2f\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Puerto Cabello Municipality"
-    ],
     "name:eng_x_preferred":[
         "Puerto Cabello"
     ],
@@ -48,17 +42,14 @@
     "name:fra_x_preferred":[
         "Puerto Cabello"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Cabello"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d9\u10d0\u10d1\u10d4\u10da\u10d8\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Puerto Cabello"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d9\u10d0\u10d1\u10d4\u10da\u10d8\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d9\u10d0\u10d1\u10d4\u10da\u10d8\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud478\uc5d0\ub974\ud1a0\uce74\ubca0\uc694"
@@ -68,6 +59,9 @@
     ],
     "name:lit_x_preferred":[
         "Puerto Kabeljas"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Cabello Municipality"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e \u041a\u0430\u0431\u0435\u043b\u043b\u043e"
@@ -89,6 +83,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u8c9d\u7565\u6e2f"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u8c9d\u7565\u6e2f\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Venezuela",
@@ -243,7 +240,7 @@
         }
     ],
     "wof:id":421198089,
-    "wof:lastmodified":1554489023,
+    "wof:lastmodified":1561827242,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

@@ -50,13 +50,7 @@
     "name:ces_x_preferred":[
         "Nueva Esparta"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u57c3\u65af\u5e15\u5854\u5dde"
-    ],
     "name:cor_x_preferred":[
-        "Nueva Esparta"
-    ],
-    "name:cze_x_preferred":[
         "Nueva Esparta"
     ],
     "name:dan_x_preferred":[
@@ -65,8 +59,8 @@
     "name:deu_x_preferred":[
         "Nueva Esparta"
     ],
-    "name:dut_x_preferred":[
-        "Nueva Esparta"
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u0395\u03c3\u03c0\u03ac\u03c1\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nueva Esparta"
@@ -82,18 +76,6 @@
     ],
     "name:fra_x_preferred":[
         "\u00c9tat de Nueva Esparta"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9tat de Nueva Esparta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10d4\u10d5\u10d0-\u10d4\u10e1\u10de\u10d0\u10e0\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nueva Esparta"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u0395\u03c3\u03c0\u03ac\u03c1\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0a8f\u0ab8\u0acd\u0aaa\u0abe\u0ab0\u0acd\u0a9f\u0abe"
@@ -131,14 +113,8 @@
     "name:lit_x_preferred":[
         "Nueva Esparta"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0443\u0435\u0432\u0430 \u0415\u0441\u043f\u0430\u0440\u0442\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0941\u090f\u0935\u094d\u0939 \u090f\u0938\u094d\u092a\u0930\u094d\u091f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Nueva Esparta"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0443\u0435\u0432\u0430 \u0415\u0441\u043f\u0430\u0440\u0442\u0430"
@@ -180,9 +156,6 @@
         "Nueva Esparta suyu"
     ],
     "name:ron_x_preferred":[
-        "Nueva Esparta"
-    ],
-    "name:rum_x_preferred":[
         "Nueva Esparta"
     ],
     "name:rus_x_preferred":[
@@ -367,7 +340,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550577,
+    "wof:lastmodified":1561827168,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

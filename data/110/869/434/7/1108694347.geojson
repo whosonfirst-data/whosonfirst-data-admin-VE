@@ -30,12 +30,6 @@
     "mps:longitude":-72.416532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u70cf\u96f7\u5c3c\u4e9e\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Pedro Mar\u00eda Ure\u00f1a"
-    ],
     "name:eng_x_preferred":[
         "Pedro Mar\u00eda Ure\u00f1a"
     ],
@@ -44,16 +38,19 @@
         "Pedro Mar\u00eda Ure\u00f1a",
         "Pedro Mar\u00eda Ure\u00f1a Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pedro Mar\u00eda Ure\u00f1a"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10d3\u10e0\u10dd-\u10db\u10d0\u10e0\u10d8\u10d0-\u10e3\u10e0\u10d4\u10dc\u10d8\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:ita_x_preferred":[
         "Pedro Mar\u00eda Ure\u00f1a"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10d3\u10e0\u10dd-\u10db\u10d0\u10e0\u10d8\u10d0-\u10e3\u10e0\u10d4\u10dc\u10d8\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "Pedro Mar\u00eda Ure\u00f1a"
+    ],
+    "name:nld_x_preferred":[
         "Pedro Mar\u00eda Ure\u00f1a"
     ],
     "name:por_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Pedro Mar\u00eda Ure\u00f1a"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u96f7\u5c3c\u4e9e\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108694347,
-    "wof:lastmodified":1554489240,
+    "wof:lastmodified":1561827222,
     "wof:name":"Pedro Maria Ure\u00f1a",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

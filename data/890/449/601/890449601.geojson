@@ -20,16 +20,10 @@
     "name:cat_x_preferred":[
         "Lecher\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u5207\u91cc\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Lecher\u00eda"
-    ],
     "name:eng_x_preferred":[
         "Lecher\u00eda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lecher\u00eda"
     ],
     "name:glg_x_preferred":[
@@ -37,6 +31,9 @@
     ],
     "name:ita_x_preferred":[
         "Lecheria"
+    ],
+    "name:nld_x_preferred":[
+        "Lecher\u00eda"
     ],
     "name:pol_x_preferred":[
         "Lecher\u00edas"
@@ -49,6 +46,9 @@
     ],
     "name:spa_x_preferred":[
         "Lecher\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u5207\u91cc\u4e9e"
     ],
     "qs:name":"Lecheria",
     "qs:name_adm0":"Venezuela",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890449601,
-    "wof:lastmodified":1514502360,
+    "wof:lastmodified":1561827250,
     "wof:name":"Lecheria",
     "wof:parent_id":85680521,
     "wof:placetype":"locality",

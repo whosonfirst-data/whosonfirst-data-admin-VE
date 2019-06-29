@@ -35,13 +35,7 @@
     "name:arg_x_preferred":[
         "Municipio Anaco"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7d0d\u79d1\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Anaco"
-    ],
-    "name:dut_x_preferred":[
         "Anaco"
     ],
     "name:eng_x_preferred":[
@@ -57,16 +51,10 @@
     "name:fas_x_preferred":[
         "\u0627\u0646\u0627\u06a9\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631 \u0627\u0646\u0627\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
-        "Anaco"
-    ],
-    "name:fre_x_preferred":[
-        "Anaco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d0\u10d9\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Anaco"
     ],
     "name:ita_x_preferred":[
@@ -75,11 +63,14 @@
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d0\u10d9\u10dd"
     ],
+    "name:kat_x_variant":[
+        "\u10d0\u10dc\u10d0\u10d9\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
         "Anaco"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631 \u0627\u0646\u0627\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Anaco"
     ],
     "name:pol_x_preferred":[
         "Anaco"
@@ -104,6 +95,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u7d0d\u79d1"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u7d0d\u79d1\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Venezuela",
@@ -261,7 +255,7 @@
         }
     ],
     "wof:id":421175071,
-    "wof:lastmodified":1554488776,
+    "wof:lastmodified":1561827241,
     "wof:name":"Anaco",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

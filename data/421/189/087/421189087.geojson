@@ -34,9 +34,6 @@
     "name:arg_x_preferred":[
         "Guanare"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u7d0d\u96f7\u5e02"
-    ],
     "name:deu_x_preferred":[
         "Guanare"
     ],
@@ -53,12 +50,6 @@
     "name:fra_x_preferred":[
         "Guanare"
     ],
-    "name:fre_x_preferred":[
-        "Guanare"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10dc\u10d0\u10e0\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:hun_x_preferred":[
         "Guanare"
     ],
@@ -70,6 +61,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d0\u10dc\u10d0\u10e0\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10e3\u10d0\u10dc\u10d0\u10e0\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uacfc\ub098\ub808"
@@ -118,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74dc\u7d0d\u96f7"
+    ],
+    "name:zho_x_variant":[
+        "\u74dc\u7d0d\u96f7\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -181,7 +178,7 @@
         }
     ],
     "wof:id":421189087,
-    "wof:lastmodified":1554488982,
+    "wof:lastmodified":1561827238,
     "wof:name":"Guanare",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

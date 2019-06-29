@@ -37,14 +37,8 @@
     "name:ceb_x_preferred":[
         "C\u00e1rdenas"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u5fb7\u7d0d\u65af\u5e02"
-    ],
     "name:deu_x_preferred":[
         "Cardenas"
-    ],
-    "name:dut_x_preferred":[
-        "C\u00e1rdenas"
     ],
     "name:eng_x_preferred":[
         "C\u00e1rdenas"
@@ -57,17 +51,14 @@
     "name:fra_x_preferred":[
         "C\u00e1rdenas"
     ],
-    "name:fre_x_preferred":[
-        "C\u00e1rdenas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d3\u10d4\u10dc\u10d0\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "C\u00e1rdenas"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30c7\u30ca\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d3\u10d4\u10dc\u10d0\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:lit_x_preferred":[
         "Kardenasas"
@@ -86,6 +77,9 @@
     ],
     "name:spa_x_preferred":[
         "C\u00e1rdenas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u5fb7\u7d0d\u65af\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -147,7 +141,7 @@
         }
     ],
     "wof:id":421196939,
-    "wof:lastmodified":1554489021,
+    "wof:lastmodified":1561827242,
     "wof:name":"Cardenas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

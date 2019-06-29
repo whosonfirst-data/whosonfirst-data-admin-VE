@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09cb\u0987\u09b0\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u572d\u91cc\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Guiria"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "G\u00fciria"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b9\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "G\u00fciria"
@@ -36,14 +36,8 @@
     "name:fin_x_preferred":[
         "G\u00fciria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "G\u00fciria"
-    ],
-    "name:ger_x_preferred":[
-        "G\u00fciria"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b9\u03c1\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0aaf\u0ac1\u0ab0\u0abf\u0aaf\u0abe"
@@ -75,8 +69,11 @@
     "name:mar_x_preferred":[
         "\u0917\u0941\u0930\u093f\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Guiria"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00fciria"
     ],
     "name:nob_x_preferred":[
         "Gurira"
@@ -123,6 +120,9 @@
     "name:vie_x_preferred":[
         "Guiria"
     ],
+    "name:zho_x_preferred":[
+        "\u572d\u91cc\u4e9e"
+    ],
     "qs:name":"G\u00fciria",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":890435143,
-    "wof:lastmodified":1527793048,
+    "wof:lastmodified":1561827254,
     "wof:name":"G\u00fciria",
     "wof:parent_id":1108694473,
     "wof:placetype":"locality",

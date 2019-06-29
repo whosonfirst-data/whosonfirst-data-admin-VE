@@ -30,12 +30,6 @@
     "mps:longitude":-68.107024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4fdd\u5fb7\u8056\u80e1\u5b89\u5305\u8482\u65af\u5854\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Pao de San Juan Bautista"
-    ],
     "name:eng_x_preferred":[
         "Pao de San Juan Bautista"
     ],
@@ -44,13 +38,16 @@
         "Pao de San Juan Bautista",
         "Pao de San Juan Bautista Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pao de San Juan Bautista"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10de\u10d0\u10dd-\u10d3\u10d4-\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10de\u10d0\u10e3\u10e2\u10d8\u10e1\u10e2\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nan_x_preferred":[
+        "Pao de San Juan Bautista"
+    ],
+    "name:nld_x_preferred":[
         "Pao de San Juan Bautista"
     ],
     "name:por_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Pao de San Juan Bautista"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u5fb7\u8056\u80e1\u5b89\u5305\u8482\u65af\u5854\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108694337,
-    "wof:lastmodified":1554489240,
+    "wof:lastmodified":1561827222,
     "wof:name":"Pao De San Juan Bautista",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

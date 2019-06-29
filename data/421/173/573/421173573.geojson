@@ -31,12 +31,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u4f2f\u6258\u963f\u5fb7\u91cc\u963f\u5c3c\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Alberto Adriani"
-    ],
     "name:eng_x_preferred":[
         "Alberto Adriani"
     ],
@@ -44,7 +38,10 @@
         "Alberto Adriani",
         "Alberto Adriani Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0627\u0644\u0628\u0631\u062a\u0648 \u0627\u062f\u0631\u06cc\u0627\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Alberto Adriani"
     ],
     "name:ita_x_preferred":[
@@ -53,8 +50,8 @@
     "name:nan_x_preferred":[
         "Alberto Adriani"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631 \u0627\u0644\u0628\u0631\u062a\u0648 \u0627\u062f\u0631\u06cc\u0627\u0646\u06cc"
+    "name:nld_x_preferred":[
+        "Alberto Adriani"
     ],
     "name:por_x_preferred":[
         "Alberto Adriani"
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Alberto Adriani"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u4f2f\u6258\u963f\u5fb7\u91cc\u963f\u5c3c\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":421173573,
-    "wof:lastmodified":1554488774,
+    "wof:lastmodified":1561827238,
     "wof:name":"Alberto Adriani",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -30,12 +30,6 @@
     "mps:longitude":-63.324242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u99ac\u5854\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Andr\u00e9s Mata"
-    ],
     "name:eng_x_preferred":[
         "Andr\u00e9s Mata"
     ],
@@ -44,10 +38,13 @@
         "Andr\u00e9s Mata",
         "Andr\u00e9s Mata Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Andr\u00e9s Mata"
     ],
     "name:nan_x_preferred":[
+        "Andr\u00e9s Mata"
+    ],
+    "name:nld_x_preferred":[
         "Andr\u00e9s Mata"
     ],
     "name:por_x_preferred":[
@@ -58,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Andr\u00e9s Mata"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5854\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108694077,
-    "wof:lastmodified":1554489233,
+    "wof:lastmodified":1561827219,
     "wof:name":"Andres Mata",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

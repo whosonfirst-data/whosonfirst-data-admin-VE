@@ -19,14 +19,11 @@
     "name:ben_x_preferred":[
         "\u098f\u099c\u09bf\u09a1\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5e0c\u591a"
-    ],
     "name:dan_x_preferred":[
         "Ejido"
     ],
-    "name:dut_x_preferred":[
-        "Ejido"
+    "name:ell_x_preferred":[
+        "\u0395\u03c4\u03b6\u03af\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ejido"
@@ -37,14 +34,8 @@
     "name:fin_x_preferred":[
         "Ejido"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ejido"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10ee\u10d8\u10d3\u10dd"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c4\u03b6\u03af\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9c\u0abf\u0aa1\u0acb"
@@ -67,6 +58,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0c9c\u0cbf\u0ca1\u0ccb"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10ee\u10d8\u10d3\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\ud788\ub3c4"
     ],
@@ -79,10 +73,13 @@
     "name:mar_x_preferred":[
         "\u090f\u091c\u093f\u0926\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ejido"
     ],
     "name:nah_x_preferred":[
+        "Ejido"
+    ],
+    "name:nld_x_preferred":[
         "Ejido"
     ],
     "name:nob_x_preferred":[
@@ -139,6 +136,9 @@
     "name:vol_x_preferred":[
         "Ejido"
     ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5e0c\u591a"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":421185957,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1561827249,
     "wof:name":"Ejido",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

@@ -24,14 +24,14 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0430\u0440\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u5854\u96f7"
-    ],
     "name:dan_x_preferred":[
         "Petare"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Petare"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03ac\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Petare"
@@ -42,17 +42,8 @@
     "name:fin_x_preferred":[
         "Petare"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Petare"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e2\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Petare"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c4\u03ac\u03c1\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0a9f\u0ab0\u0ac7"
@@ -87,7 +78,10 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u091f\u093e\u0930\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Petare"
+    ],
+    "name:nld_x_preferred":[
         "Petare"
     ],
     "name:nob_x_preferred":[
@@ -171,7 +165,7 @@
         }
     ],
     "wof:id":890435139,
-    "wof:lastmodified":1527793049,
+    "wof:lastmodified":1561827254,
     "wof:name":"Petare",
     "wof:parent_id":421171381,
     "wof:placetype":"locality",

@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u099f\u09c1\u0995\u09c1\u09af\u09bc\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u6258\u5eab\u7d04"
-    ],
     "name:dan_x_preferred":[
         "El Tocuyo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "El Tocuyo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u03a4\u03bf\u03ba\u03bf\u03cd\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "El Tocuyo"
@@ -42,14 +42,8 @@
     "name:fin_x_preferred":[
         "El Tocuyo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "El Tocuyo"
-    ],
-    "name:ger_x_preferred":[
-        "El Tocuyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u03a4\u03bf\u03ba\u03bf\u03cd\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2 \u0a9f\u0acb\u0a95\u0ac1\u0aaf\u0acb"
@@ -81,7 +75,10 @@
     "name:mar_x_preferred":[
         "\u090f\u0932 \u091f\u094b\u0915\u094b\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "El Tocuyo"
+    ],
+    "name:nld_x_preferred":[
         "El Tocuyo"
     ],
     "name:nob_x_preferred":[
@@ -171,7 +168,7 @@
         }
     ],
     "wof:id":890444891,
-    "wof:lastmodified":1527787054,
+    "wof:lastmodified":1561827251,
     "wof:name":"El Tocuyo",
     "wof:parent_id":421200611,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:cat_x_preferred":[
         "El Cobre"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u79d1\u592b\u96f7"
-    ],
     "name:deu_x_preferred":[
         "Cobre"
     ],
@@ -28,7 +25,7 @@
     "name:fra_x_preferred":[
         "Cobre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "El Cobre"
     ],
     "name:glg_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "Cobre"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u79d1\u592b\u96f7"
     ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421185677,
-    "wof:lastmodified":1527726510,
+    "wof:lastmodified":1561827249,
     "wof:name":"El Cobre",
     "wof:parent_id":421196939,
     "wof:placetype":"locality",

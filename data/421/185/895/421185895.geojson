@@ -16,19 +16,16 @@
     "name:cat_x_preferred":[
         "Lagunillas"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u53e4\u5c3c\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Lagunillas"
-    ],
     "name:eng_x_preferred":[
         "Lagunillas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lagunillas"
     ],
     "name:glg_x_preferred":[
+        "Lagunillas"
+    ],
+    "name:nld_x_preferred":[
         "Lagunillas"
     ],
     "name:por_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:spa_x_preferred":[
         "Lagunillas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u53e4\u5c3c\u4e9e\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421185895,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1561827249,
     "wof:name":"Lagunillas",
     "wof:parent_id":1108694437,
     "wof:placetype":"locality",

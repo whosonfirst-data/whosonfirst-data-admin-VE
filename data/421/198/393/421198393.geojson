@@ -22,17 +22,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ac\u09cb\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u6c83\u723e"
-    ],
     "name:dan_x_preferred":[
         "Qu\u00edbor"
     ],
     "name:deu_x_preferred":[
         "Qu\u00edbor"
     ],
-    "name:dut_x_preferred":[
-        "Qu\u00edbor"
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bc\u03c0\u03bf\u03c1"
     ],
     "name:eng_x_colloquial":[
         "Quibor"
@@ -48,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Qu\u00edbor"
-    ],
-    "name:fre_x_preferred":[
-        "Qu\u00edbor"
-    ],
-    "name:ger_x_preferred":[
-        "Qu\u00edbor"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03bc\u03c0\u03bf\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0aaf\u0ac1\u0aac\u0acb\u0ab0"
@@ -88,7 +76,10 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u092f\u0941\u0907\u092c\u094b\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Qu\u00edbor"
+    ],
+    "name:nld_x_preferred":[
         "Qu\u00edbor"
     ],
     "name:nob_x_preferred":[
@@ -201,7 +192,7 @@
         }
     ],
     "wof:id":421198393,
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1561827242,
     "wof:name":"Qu\u00edbor",
     "wof:parent_id":421189073,
     "wof:placetype":"locality",

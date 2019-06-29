@@ -20,17 +20,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09cd\u09b0\u09cb\u09aa\u09be\u09a8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u9b6f\u5e15\u8afe"
-    ],
     "name:dan_x_preferred":[
         "Car\u00fapano"
     ],
     "name:deu_x_preferred":[
         "Car\u00fapano"
     ],
-    "name:dut_x_preferred":[
-        "Car\u00fapano"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03bf\u03cd\u03c0\u03b1\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Car\u00fapano"
@@ -43,18 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Car\u00fapano"
-    ],
-    "name:fre_x_preferred":[
-        "Car\u00fapano"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10e3\u10de\u10d0\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Car\u00fapano"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03bf\u03cd\u03c0\u03b1\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0ac1\u0aaa\u0abe\u0aa8\u0acb"
@@ -95,8 +80,11 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0930\u0941\u092a\u093e\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Carupano"
+    ],
+    "name:nld_x_preferred":[
+        "Car\u00fapano"
     ],
     "name:nob_x_preferred":[
         "Carupano"
@@ -292,7 +280,7 @@
         }
     ],
     "wof:id":421172777,
-    "wof:lastmodified":1527716304,
+    "wof:lastmodified":1561827239,
     "wof:name":"Car\u00fapano",
     "wof:parent_id":1108694113,
     "wof:placetype":"locality",
