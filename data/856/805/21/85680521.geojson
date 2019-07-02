@@ -32,12 +32,6 @@
     "name:arg_x_preferred":[
         "Estato Anzo\u00e1tegui"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u057d\u0578\u0561\u057f\u0565\u0563\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Anzo\u00e1tegui"
-    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0410\u043d\u0441\u0430\u0430\u0442\u044d\u0433\u0456"
     ],
@@ -56,13 +50,7 @@
     "name:ces_x_preferred":[
         "Anzo\u00e1tegui"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u7d22\u963f\u7279\u5409\u5dde"
-    ],
     "name:cor_x_preferred":[
-        "Anzo\u00e1tegui"
-    ],
-    "name:cze_x_preferred":[
         "Anzo\u00e1tegui"
     ],
     "name:dan_x_preferred":[
@@ -71,8 +59,8 @@
     "name:deu_x_preferred":[
         "Anzo\u00e1tegui"
     ],
-    "name:dut_x_preferred":[
-        "Anzo\u00e1tegui"
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b6\u03bf\u03b1\u03c4\u03ad\u03b3\u03ba\u03bf\u03c5\u03b9"
     ],
     "name:eng_x_preferred":[
         "Anzo\u00e1tegui"
@@ -87,23 +75,20 @@
     "name:est_x_preferred":[
         "Anzo\u00e1tegui"
     ],
+    "name:eus_x_preferred":[
+        "Anzo\u00e1tegui"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0622\u0646\u0633\u0648\u0622\u062a\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Anzo\u00e1tegui"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat d'Anzo\u00e1tegui"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e1\u10dd\u10d0\u10e2\u10d4\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Anzo\u00e1tegui"
     ],
     "name:glg_x_preferred":[
         "Anzo\u00e1tegui"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03b6\u03bf\u03b1\u03c4\u03ad\u03b3\u03ba\u03bf\u03c5\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a9d\u0acb\u0a9f\u0ac7\u0a97\u0acd\u0aaf\u0ac1\u0a87"
@@ -117,6 +102,9 @@
     "name:hun_x_preferred":[
         "Anzo\u00e1tegui"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057d\u0578\u0561\u057f\u0565\u0563\u056b"
+    ],
     "name:ind_x_preferred":[
         "Anzo\u00e1tegui"
     ],
@@ -128,6 +116,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0c82\u0c9c\u0ccb\u0c9f\u0cc6\u0c97\u0cc1\u0caf\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e1\u10dd\u10d0\u10e2\u10d4\u10d2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc548\uc18c\uc544\ud14c\uae30 \uc8fc"
@@ -141,16 +132,19 @@
     "name:lit_x_preferred":[
         "Ansoategis"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043d\u0437\u043e\u0430\u0442\u0435\u0433\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0928\u091d\u094b\u091f\u0947\u0917\u094d\u092f\u0942\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0437\u043e\u0430\u0442\u0435\u0433\u0438"
+    ],
+    "name:msa_x_preferred":[
         "Anzo\u00e1tegui"
     ],
     "name:nan_x_preferred":[
+        "Anzo\u00e1tegui"
+    ],
+    "name:nld_x_preferred":[
         "Anzo\u00e1tegui"
     ],
     "name:nno_x_preferred":[
@@ -158,9 +152,6 @@
     ],
     "name:nob_x_preferred":[
         "Anzo\u00e1tegui"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0622\u0646\u0633\u0648\u0622\u062a\u06af\u06cc"
     ],
     "name:pol_x_preferred":[
         "Anzo\u00e1tegui"
@@ -171,7 +162,7 @@
     "name:que_x_preferred":[
         "Anzo\u00e1tegui suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Anzo\u00e1tegui"
     ],
     "name:rus_x_preferred":[
@@ -228,6 +219,9 @@
     ],
     "name:war_x_preferred":[
         "Anzo\u00e1tegui"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u7d22\u963f\u7279\u5409\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VEN",
@@ -353,7 +347,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550586,
+    "wof:lastmodified":1561827170,
     "wof:name":"Anzo\u00e1tegui",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

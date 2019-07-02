@@ -47,9 +47,6 @@
     "name:cat_x_preferred":[
         "Falc\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u5c14\u5b54\u5dde"
-    ],
     "name:cor_x_preferred":[
         "Falc\u00f3n"
     ],
@@ -59,8 +56,8 @@
     "name:deu_x_preferred":[
         "Falc\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Falc\u00f3n"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03bb\u03ba\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Falc\u00f3n"
@@ -75,23 +72,17 @@
     "name:est_x_preferred":[
         "Falc\u00f3ni osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0644\u06a9\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Falc\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de Falc\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10da\u10d9\u10dd\u10dc\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Falc\u00f3n"
     ],
     "name:glg_x_preferred":[
         "Falc\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03bb\u03ba\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0ab2\u0a95\u0aa8"
@@ -114,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cbe\u0cb2\u0ccd\u0c95\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10da\u10d9\u10dd\u10dc\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud314\ucf58 \uc8fc"
     ],
@@ -126,16 +120,19 @@
     "name:lit_x_preferred":[
         "Falkonas"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u0430\u043b\u043a\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092b\u093e\u0932\u094d\u0915\u0949\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0424\u0430\u043b\u043a\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Falc\u00f3n"
     ],
     "name:nan_x_preferred":[
+        "Falc\u00f3n"
+    ],
+    "name:nld_x_preferred":[
         "Falc\u00f3n"
     ],
     "name:nno_x_preferred":[
@@ -143,9 +140,6 @@
     ],
     "name:nob_x_preferred":[
         "Falc\u00f3n"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0627\u0644\u06a9\u0648\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0641\u0627\u0644\u06a9\u0646"
@@ -159,7 +153,7 @@
     "name:que_x_preferred":[
         "Falc\u00f3n suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Falc\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -211,6 +205,9 @@
     ],
     "name:war_x_preferred":[
         "Falc\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u5c14\u5b54\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VEN",
@@ -336,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550580,
+    "wof:lastmodified":1561827166,
     "wof:name":"Falc\u00f3n",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -34,9 +34,6 @@
     "name:cat_x_preferred":[
         "Matur\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5716\u6797\u5e02"
-    ],
     "name:deu_x_preferred":[
         "Maturin"
     ],
@@ -51,10 +48,10 @@
     "name:fra_x_preferred":[
         "Maturin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Matur\u00edn"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10db\u10d0\u10e2\u10e3\u10e0\u10d8\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nob_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:swe_x_preferred":[
         "Maturin"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5716\u6797\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":421186375,
-    "wof:lastmodified":1555037102,
+    "wof:lastmodified":1561827241,
     "wof:name":"Maturin",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

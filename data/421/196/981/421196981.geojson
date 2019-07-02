@@ -37,14 +37,8 @@
     "name:cat_x_preferred":[
         "Ra\u00fal Leoni"
     ],
-    "name:chi_x_preferred":[
-        "\u52de\u723e\u840a\u5967\u5c3c\u5e02"
-    ],
     "name:deu_x_preferred":[
         "Ra\u00fal Leoni"
-    ],
-    "name:dut_x_preferred":[
-        "Bolivariano Angostura"
     ],
     "name:eng_x_preferred":[
         "Angostura"
@@ -57,11 +51,8 @@
     "name:fra_x_preferred":[
         "Ra\u00fal Leoni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Bolivariano Angostura"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d2\u10dd\u10e1\u10e2\u10e3\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:glg_x_preferred":[
         "Angostura"
@@ -72,7 +63,13 @@
     "name:ita_x_preferred":[
         "Ra\u00fal Leoni"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d2\u10dd\u10e1\u10e2\u10e3\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "Bolivariano Angostura"
+    ],
+    "name:nld_x_preferred":[
         "Bolivariano Angostura"
     ],
     "name:pol_x_preferred":[
@@ -89,6 +86,9 @@
     ],
     "name:vie_x_preferred":[
         "Ra\u00fal Leoni"
+    ],
+    "name:zho_x_preferred":[
+        "\u52de\u723e\u840a\u5967\u5c3c\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":421196981,
-    "wof:lastmodified":1554489022,
+    "wof:lastmodified":1561827242,
     "wof:name":"Raul Leoni",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

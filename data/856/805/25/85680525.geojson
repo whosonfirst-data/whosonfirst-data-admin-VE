@@ -32,12 +32,6 @@
     "name:arg_x_preferred":[
         "Estato Aragua"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0561\u0563\u0578\u0582\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Aragua"
-    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0410\u0440\u0430\u0433\u0443\u0430"
     ],
@@ -56,13 +50,7 @@
     "name:ces_x_preferred":[
         "Aragua"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u74dc\u5dde"
-    ],
     "name:cor_x_preferred":[
-        "Aragua"
-    ],
-    "name:cze_x_preferred":[
         "Aragua"
     ],
     "name:dan_x_preferred":[
@@ -71,8 +59,8 @@
     "name:deu_x_preferred":[
         "Aragua"
     ],
-    "name:dut_x_preferred":[
-        "Aragua"
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b1\u03b3\u03ba\u03bf\u03cd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Aragua"
@@ -92,23 +80,14 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0622\u0631\u0627\u06af\u0648\u0622"
     ],
+    "name:fas_x_variant":[
+        "\u0622\u0631\u0627\u06af\u0648\u0622"
+    ],
     "name:fin_x_preferred":[
         "Aragua"
     ],
     "name:fra_x_preferred":[
         "\u00c9tat d'Aragua"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9tat d'Aragua"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d0\u10d2\u10e3\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Aragua"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03b1\u03b3\u03ba\u03bf\u03cd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab0\u0abe\u0a97\u0ac1\u0a86"
@@ -149,14 +128,8 @@
     "name:lit_x_preferred":[
         "Aragva"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u0430\u0433\u0432\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u093e\u0917\u0941\u0906"
-    ],
-    "name:may_x_preferred":[
-        "Aragua"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u0440\u0430\u0433\u0432\u0430"
@@ -182,9 +155,6 @@
     "name:oss_x_preferred":[
         "\u0410\u0440\u0430\u0433\u0443\u00e6"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u0627\u06af\u0648\u0622"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u0627\u06af\u0648\u0627"
     ],
@@ -201,9 +171,6 @@
         "Aragua suyu"
     ],
     "name:ron_x_preferred":[
-        "Aragua"
-    ],
-    "name:rum_x_preferred":[
         "Aragua"
     ],
     "name:rus_x_preferred":[
@@ -384,7 +351,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550576,
+    "wof:lastmodified":1561827171,
     "wof:name":"Aragua",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

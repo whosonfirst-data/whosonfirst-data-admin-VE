@@ -58,13 +58,7 @@
     "name:cat_x_preferred":[
         "Antonio Jos\u00e9 de Sucre"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6771\u5c3c\u5967\u4f55\u585e\u5fb7\u8607\u514b\u96f7\u5e02"
-    ],
     "name:dan_x_preferred":[
-        "Antonio Jos\u00e9 de Sucre"
-    ],
-    "name:dut_x_preferred":[
         "Antonio Jos\u00e9 de Sucre"
     ],
     "name:eng_x_preferred":[
@@ -74,16 +68,19 @@
         "Antonio Jose De Sucre",
         "Antonio Jos\u00e9 de Sucre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Antonio Jos\u00e9 de Sucre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10ee\u10dd\u10e1\u10d4-\u10d3\u10d4-\u10e1\u10e3\u10d9\u10e0\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:ita_x_preferred":[
         "Antonio Jos\u00e9 de Sucre"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10ee\u10dd\u10e1\u10d4-\u10d3\u10d4-\u10e1\u10e3\u10d9\u10e0\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "Antonio Jos\u00e9 de Sucre"
+    ],
+    "name:nld_x_preferred":[
         "Antonio Jos\u00e9 de Sucre"
     ],
     "name:por_x_preferred":[
@@ -94,6 +91,9 @@
     ],
     "name:vie_x_preferred":[
         "Antonio Jos\u00e9 de Sucre"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6771\u5c3c\u5967\u4f55\u585e\u5fb7\u8607\u514b\u96f7\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":421171647,
-    "wof:lastmodified":1554488764,
+    "wof:lastmodified":1561827249,
     "wof:name":"Antonio Jose De Sucre",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

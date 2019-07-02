@@ -19,14 +19,11 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0982\u099c\u09bf\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u91cc\u76ae\u6258"
-    ],
     "name:dan_x_preferred":[
         "Caripito"
     ],
-    "name:dut_x_preferred":[
-        "Caripito"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b9\u03c0\u03af\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Caripito"
@@ -36,12 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "Caripito"
-    ],
-    "name:fre_x_preferred":[
-        "Caripito"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03b9\u03c0\u03af\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab0\u0abf\u0aaa\u0abf\u0a9f\u0acb"
@@ -73,7 +64,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0930\u093f\u092a\u0940\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Caripito"
+    ],
+    "name:nld_x_preferred":[
         "Caripito"
     ],
     "name:nob_x_preferred":[
@@ -169,7 +163,7 @@
         }
     ],
     "wof:id":421183033,
-    "wof:lastmodified":1527717698,
+    "wof:lastmodified":1561827247,
     "wof:name":"Caripito",
     "wof:parent_id":1108694119,
     "wof:placetype":"locality",

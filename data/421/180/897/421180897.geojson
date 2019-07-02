@@ -34,13 +34,7 @@
     "name:ceb_x_preferred":[
         "Colina"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5229\u7d0d\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Colina"
-    ],
-    "name:dut_x_preferred":[
         "Colina"
     ],
     "name:eng_x_preferred":[
@@ -56,17 +50,11 @@
     "name:fra_x_preferred":[
         "Colina"
     ],
-    "name:fre_x_preferred":[
-        "Colina"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10d8\u10dc\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Colina"
-    ],
     "name:ita_x_preferred":[
         "Colina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10da\u10d8\u10dc\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nan_x_preferred":[
         "Colina"
@@ -91,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "Colina"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5229\u7d0d\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -152,7 +143,7 @@
         }
     ],
     "wof:id":421180897,
-    "wof:lastmodified":1555037130,
+    "wof:lastmodified":1561827238,
     "wof:name":"Colina",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

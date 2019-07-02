@@ -30,12 +30,6 @@
     "mps:longitude":-70.667151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u666e\u97cb\u5e03\u6d1b\u4e9e\u8afe\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Pueblo Llano"
-    ],
     "name:eng_x_preferred":[
         "Pueblo Llano"
     ],
@@ -43,13 +37,16 @@
         "Pueblo Llano",
         "Pueblo Llano Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pueblo Llano"
     ],
     "name:ita_x_preferred":[
         "Pueblo Llano"
     ],
     "name:nan_x_preferred":[
+        "Pueblo Llano"
+    ],
+    "name:nld_x_preferred":[
         "Pueblo Llano"
     ],
     "name:por_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Pueblo Llano"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u97cb\u5e03\u6d1b\u4e9e\u8afe\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108694355,
-    "wof:lastmodified":1554489240,
+    "wof:lastmodified":1561827223,
     "wof:name":"Pueblo Llano",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -43,13 +43,7 @@
     "name:ceb_x_preferred":[
         "Villalba"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5229\u4e9e\u723e\u74e6\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Villalba"
-    ],
-    "name:dut_x_preferred":[
         "Villalba"
     ],
     "name:eng_x_preferred":[
@@ -66,12 +60,6 @@
     "name:fra_x_preferred":[
         "Villalba"
     ],
-    "name:fre_x_preferred":[
-        "Villalba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0\u10da\u10d1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:glg_x_preferred":[
         "Villalba"
     ],
@@ -80,6 +68,9 @@
     ],
     "name:ita_x_preferred":[
         "Villalba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0\u10da\u10d1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nan_x_preferred":[
         "Villalba"
@@ -107,6 +98,9 @@
     ],
     "name:srp_x_preferred":[
         "Vilalba"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5229\u4e9e\u723e\u74e6\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -168,7 +162,7 @@
         }
     ],
     "wof:id":421177413,
-    "wof:lastmodified":1554488780,
+    "wof:lastmodified":1561827246,
     "wof:name":"Villalba",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

@@ -30,12 +30,6 @@
     "mps:longitude":-69.15112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u96f7\u65af\u6ce2\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Crespo"
-    ],
     "name:eng_x_preferred":[
         "Crespo"
     ],
@@ -43,13 +37,16 @@
         "Crespo",
         "Crespo Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Crespo"
     ],
     "name:ita_x_preferred":[
         "Crespo"
     ],
     "name:nan_x_preferred":[
+        "Crespo"
+    ],
+    "name:nld_x_preferred":[
         "Crespo"
     ],
     "name:por_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Crespo"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u96f7\u65af\u6ce2\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108694163,
-    "wof:lastmodified":1554489235,
+    "wof:lastmodified":1561827221,
     "wof:name":"Crespo",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

@@ -50,13 +50,7 @@
     "name:ces_x_preferred":[
         "Zulia"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u5229\u4e9a\u5dde"
-    ],
     "name:cor_x_preferred":[
-        "Zulia"
-    ],
-    "name:cze_x_preferred":[
         "Zulia"
     ],
     "name:dan_x_preferred":[
@@ -65,8 +59,8 @@
     "name:deu_x_preferred":[
         "Zulia"
     ],
-    "name:dut_x_preferred":[
-        "Zulia"
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03cd\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zulia"
@@ -86,20 +80,8 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Zulia"
     ],
-    "name:fre_x_preferred":[
-        "\u00c9tat de Zulia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10da\u10d8\u10d0\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zulia"
-    ],
     "name:glg_x_preferred":[
         "Zulia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03cd\u03bb\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0ab2\u0abf\u0aaf\u0abe"
@@ -144,17 +126,14 @@
     "name:lit_x_preferred":[
         "Sulija"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0443\u043b\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u0941\u0932\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Zulia"
-    ],
     "name:mkd_x_preferred":[
         "\u0417\u0443\u043b\u0438\u0458\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0443\u043b\u0438\u0458\u0430"
     ],
     "name:msa_x_preferred":[
         "Zulia"
@@ -183,9 +162,6 @@
     "name:oss_x_preferred":[
         "\u0421\u0443\u043b\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0644\u06cc\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0632\u0648\u0644\u06cc\u0627"
     ],
@@ -202,9 +178,6 @@
         "Zulia suyu"
     ],
     "name:ron_x_preferred":[
-        "Zulia"
-    ],
-    "name:rum_x_preferred":[
         "Zulia"
     ],
     "name:rus_x_preferred":[
@@ -389,7 +362,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550581,
+    "wof:lastmodified":1561827167,
     "wof:name":"Zulia",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

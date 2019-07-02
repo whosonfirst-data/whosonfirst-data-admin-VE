@@ -21,12 +21,6 @@
     "name:arg_x_preferred":[
         "Cuman\u00e1"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u0574\u0561\u0576\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Cuman\u00e1"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u043c\u0430\u043d\u0430"
     ],
@@ -42,14 +36,14 @@
     "name:cat_x_preferred":[
         "Cuman\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u99ac\u7d0d"
-    ],
     "name:dan_x_preferred":[
         "Cumana"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cuman\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bc\u03b1\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Cuman\u00e1"
@@ -57,23 +51,20 @@
     "name:epo_x_preferred":[
         "Cuman\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Cuman\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Cuman\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10db\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cuman\u00e1"
     ],
     "name:glg_x_preferred":[
         "Cuman\u00e1"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03bc\u03b1\u03bd\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac1\u0aae\u0abe\u0aa8\u0abe"
@@ -83,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u094d\u092f\u0942\u092e\u093e\u0928\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0574\u0561\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Cumana"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cae\u0cbe\u0ca8"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10db\u10d0\u10dc\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\ub9c8\ub098"
     ],
@@ -108,14 +105,14 @@
     "name:mar_x_preferred":[
         "\u0915\u092e\u093e\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cumana"
+    ],
+    "name:nld_x_preferred":[
+        "Cuman\u00e1"
     ],
     "name:nob_x_preferred":[
         "Cuman\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0645\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Cuman\u00e1"
@@ -123,7 +120,7 @@
     "name:por_x_preferred":[
         "Cuman\u00e1"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cuman\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     ],
     "name:war_x_preferred":[
         "Cuman\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u99ac\u7d0d"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":421186935,
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1561827240,
     "wof:name":"Cuman\u00e1",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

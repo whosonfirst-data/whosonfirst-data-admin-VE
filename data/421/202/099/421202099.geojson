@@ -27,17 +27,14 @@
     "name:cat_x_preferred":[
         "C\u00faa"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u963f"
-    ],
     "name:dan_x_preferred":[
         "C\u00faa"
     ],
     "name:deu_x_preferred":[
         "C\u00faa"
     ],
-    "name:dut_x_preferred":[
-        "C\u00faa"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03b1"
     ],
     "name:eng_x_preferred":[
         "C\u00faa"
@@ -50,18 +47,6 @@
     ],
     "name:fra_x_preferred":[
         "C\u00faa"
-    ],
-    "name:fre_x_preferred":[
-        "C\u00faa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "C\u00faa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a86"
@@ -96,8 +81,11 @@
     "name:mar_x_preferred":[
         "\u0915\u0942\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cua"
+    ],
+    "name:nld_x_preferred":[
+        "C\u00faa"
     ],
     "name:nob_x_preferred":[
         "Cua"
@@ -140,6 +128,9 @@
     ],
     "name:vie_x_preferred":[
         "C\u00faa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u963f"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -189,7 +180,7 @@
         }
     ],
     "wof:id":421202099,
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1561827237,
     "wof:name":"C\u00faa",
     "wof:parent_id":421170247,
     "wof:placetype":"locality",

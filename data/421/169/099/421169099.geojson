@@ -14,13 +14,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u9081\u514b\u8482\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Maiquet\u00eda"
-    ],
-    "name:dut_x_preferred":[
         "Maiquet\u00eda"
     ],
     "name:eng_x_preferred":[
@@ -32,15 +26,6 @@
     "name:fra_x_preferred":[
         "Maiquet\u00eda"
     ],
-    "name:fre_x_preferred":[
-        "Maiquet\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d8\u10d9\u10d4\u10e2\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Maiquet\u00eda"
-    ],
     "name:ita_x_preferred":[
         "Maiquet\u00eda"
     ],
@@ -50,8 +35,8 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d8\u10d9\u10d4\u10e2\u10d8\u10d0"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06cc\u06a9\u062a\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Maiquet\u00eda"
     ],
     "name:pol_x_preferred":[
         "Maiquet\u00eda"
@@ -208,7 +193,7 @@
         }
     ],
     "wof:id":421169099,
-    "wof:lastmodified":1527716168,
+    "wof:lastmodified":1561827236,
     "wof:name":"Maiquet\u00eda",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

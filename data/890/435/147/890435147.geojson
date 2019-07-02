@@ -24,14 +24,14 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u0442\u0438\u0440\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u8482\u96f7"
-    ],
     "name:dan_x_preferred":[
         "Guatire"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Guatire"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03c4\u03af\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Guatire"
@@ -42,17 +42,8 @@
     "name:fin_x_preferred":[
         "Guatire"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Guatire"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10e2\u10d8\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Guatire"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b1\u03c4\u03af\u03c1\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab5\u0abe\u0a9f\u0abf\u0ab0\u0ac7"
@@ -87,7 +78,10 @@
     "name:mar_x_preferred":[
         "\u0917\u094c\u091f\u093f\u092f\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Guatire"
+    ],
+    "name:nld_x_preferred":[
         "Guatire"
     ],
     "name:nob_x_preferred":[
@@ -174,7 +168,7 @@
         }
     ],
     "wof:id":890435147,
-    "wof:lastmodified":1527793054,
+    "wof:lastmodified":1561827254,
     "wof:name":"Guatire",
     "wof:parent_id":421202063,
     "wof:placetype":"locality",

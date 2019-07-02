@@ -21,17 +21,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09bf\u09a8\u09be\u0995\u09c1\u0987\u09b2\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u7d0d\u57fa\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Tinaquillo"
     ],
     "name:deu_x_preferred":[
         "Tinaquillo"
     ],
-    "name:dut_x_preferred":[
-        "Tinaquillo"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03bd\u03b1\u03ba\u03bf\u03c5\u03af\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
         "Tinaquillo"
@@ -41,15 +38,6 @@
     ],
     "name:fra_x_preferred":[
         "Tinaquillo"
-    ],
-    "name:fre_x_preferred":[
-        "Tinaquillo"
-    ],
-    "name:ger_x_preferred":[
-        "Tinaquillo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03bd\u03b1\u03ba\u03bf\u03c5\u03af\u03bb\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac0\u0aa8\u0abe\u0a95\u0acd\u0ab5\u0abf\u0ab2\u0acb"
@@ -81,7 +69,10 @@
     "name:mar_x_preferred":[
         "\u091f\u0940\u0928\u093e\u0915\u094d\u0935\u093f\u0932\u094d\u0932\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tinaquillo"
+    ],
+    "name:nld_x_preferred":[
         "Tinaquillo"
     ],
     "name:nob_x_preferred":[
@@ -180,7 +171,7 @@
         }
     ],
     "wof:id":421172377,
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1561827239,
     "wof:name":"Tinaquillo",
     "wof:parent_id":1108694185,
     "wof:placetype":"locality",

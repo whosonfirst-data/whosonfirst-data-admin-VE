@@ -22,14 +22,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09cb\u09b0\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7f85\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Carora"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Carora"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03cc\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Carora"
@@ -42,18 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Carora"
-    ],
-    "name:fre_x_preferred":[
-        "Carora"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10dd\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Carora"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03cc\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0acb\u0ab0\u0abe"
@@ -73,6 +61,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cb0\u0cca\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10dd\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ub85c\ub77c"
     ],
@@ -85,7 +76,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0930\u094b\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Carora"
+    ],
+    "name:nld_x_preferred":[
         "Carora"
     ],
     "name:nob_x_preferred":[
@@ -129,6 +123,9 @@
     ],
     "name:vie_x_preferred":[
         "Carora"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7f85\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Venezuela",
@@ -258,7 +255,7 @@
         }
     ],
     "wof:id":890442145,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561827252,
     "wof:name":"Carora",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

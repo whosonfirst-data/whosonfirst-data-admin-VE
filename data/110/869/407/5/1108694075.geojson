@@ -30,12 +30,6 @@
     "mps:longitude":-63.289846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e03\u862d\u79d1\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Andr\u00e9s Eloy Blanco"
-    ],
     "name:eng_x_preferred":[
         "Andr\u00e9s Eloy Blanco"
     ],
@@ -44,7 +38,7 @@
         "Andr\u00e9s Eloy Blanco",
         "Andr\u00e9s Eloy Blanco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Andr\u00e9s Eloy Blanco"
     ],
     "name:ita_x_preferred":[
@@ -53,11 +47,17 @@
     "name:nan_x_preferred":[
         "Andr\u00e9s Eloy Blanco"
     ],
+    "name:nld_x_preferred":[
+        "Andr\u00e9s Eloy Blanco"
+    ],
     "name:por_x_preferred":[
         "Andr\u00e9s Eloy Blanco"
     ],
     "name:spa_x_preferred":[
         "Municipio Andr\u00e9s Eloy Blanco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u862d\u79d1\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1108694075,
-    "wof:lastmodified":1555220364,
+    "wof:lastmodified":1561827219,
     "wof:name":"Andres Eloy Blanco",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

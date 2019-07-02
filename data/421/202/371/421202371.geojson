@@ -31,12 +31,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7f85\u65af\u897f\u5967\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Roscio"
-    ],
     "name:eng_x_preferred":[
         "Roscio"
     ],
@@ -44,13 +38,16 @@
         "Roscio",
         "Roscio"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Roscio"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10e0\u10dd\u10e1\u10d8\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nan_x_preferred":[
+        "Roscio"
+    ],
+    "name:nld_x_preferred":[
         "Roscio"
     ],
     "name:por_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Roscio"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u65af\u897f\u5967\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":421202371,
-    "wof:lastmodified":1555220348,
+    "wof:lastmodified":1561827237,
     "wof:name":"Roscio",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

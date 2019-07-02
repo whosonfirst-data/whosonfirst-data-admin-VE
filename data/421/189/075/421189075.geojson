@@ -31,10 +31,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5361\u6d1b\u65af\u963f\u97cb\u6d1b\u5e02"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Carlos Arvelo"
     ],
     "name:eng_x_preferred":[
@@ -44,19 +41,19 @@
         "Carlos Arevalo",
         "Carlos Arvelo Municipality"
     ],
-    "name:fre_x_preferred":[
-        "Carlos Arvelo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10da\u10dd\u10e1-\u10d0\u10e0\u10d5\u10d4\u10da\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Carlos Arvelo"
     ],
     "name:ita_x_preferred":[
         "Carlos Arvelo"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10da\u10dd\u10e1-\u10d0\u10e0\u10d5\u10d4\u10da\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:nan_x_preferred":[
+        "Carlos Arvelo"
+    ],
+    "name:nld_x_preferred":[
         "Carlos Arvelo"
     ],
     "name:por_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Carlos Arvelo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6d1b\u65af\u963f\u97cb\u6d1b\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":421189075,
-    "wof:lastmodified":1555037087,
+    "wof:lastmodified":1561827238,
     "wof:name":"Carlos Arvelo",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

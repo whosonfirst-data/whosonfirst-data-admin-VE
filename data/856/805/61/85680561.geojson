@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.908773,
-    "geom:area_square_m":11051992530.423662,
+    "geom:area_square_m":11051992530.424547,
     "geom:bbox":"-64.5182378726,10.0375866196,-61.851196289,10.766249657",
     "geom:latitude":10.41398,
     "geom:longitude":-63.355145,
@@ -47,17 +47,17 @@
     "name:cat_x_preferred":[
         "Estat Sucre"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u514b\u96f7\u5dde"
-    ],
     "name:cor_x_preferred":[
         "Sucre"
     ],
     "name:dan_x_preferred":[
         "Sucre"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sucre"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03ba\u03c1\u03b5"
     ],
     "name:eng_x_colloquial":[
         "State of Sucre"
@@ -75,20 +75,14 @@
     "name:est_x_preferred":[
         "Sucre osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0633\u0648\u06a9\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Sucre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de Sucre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d9\u10e0\u10d4\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sucre"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03ba\u03c1\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac2\u0a95\u0acd\u0ab0"
@@ -111,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc1\u0c95\u0ccd\u0cb0\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d9\u10e0\u10d4\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc218\ud06c\ub808 \uc8fc"
     ],
@@ -126,13 +123,16 @@
     "name:ltz_x_preferred":[
         "Sucre"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0443\u043a\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0942\u0915\u094d\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u043a\u0440\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Sucre"
+    ],
+    "name:nld_x_preferred":[
         "Sucre"
     ],
     "name:nno_x_preferred":[
@@ -140,9 +140,6 @@
     ],
     "name:nob_x_preferred":[
         "Sucre"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0633\u0648\u06a9\u0631\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u06a9\u0631\u06d2"
@@ -156,7 +153,7 @@
     "name:que_x_preferred":[
         "Sucre suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sucre"
     ],
     "name:rus_x_preferred":[
@@ -210,6 +207,9 @@
     ],
     "name:war_x_preferred":[
         "Sucre"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u514b\u96f7\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VEN",
@@ -334,7 +334,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814833,
+    "wof:lastmodified":1561827168,
     "wof:name":"Sucre",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

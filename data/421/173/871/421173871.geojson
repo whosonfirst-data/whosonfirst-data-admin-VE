@@ -16,13 +16,13 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0627 \u062f\u064a\u0644 \u0631\u064a\u0648"
     ],
-    "name:dut_x_preferred":[
-        "Boca del R\u00edo"
-    ],
     "name:eng_x_preferred":[
         "Boca del R\u00edo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Boca del R\u00edo"
+    ],
+    "name:nld_x_preferred":[
         "Boca del R\u00edo"
     ],
     "name:spa_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":421173871,
-    "wof:lastmodified":1514502232,
+    "wof:lastmodified":1561827238,
     "wof:name":"Boca del R\u00edo",
     "wof:parent_id":890440759,
     "wof:placetype":"locality",

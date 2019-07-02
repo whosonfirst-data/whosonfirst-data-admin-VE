@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.447658,
-    "geom:area_square_m":17678332771.786648,
+    "geom:area_square_m":17678332771.788078,
     "geom:bbox":"-70.1930678724,8.09606845531,-68.5133222103,9.84166666667",
     "geom:latitude":9.031213,
     "geom:longitude":-69.272556,
@@ -47,17 +47,17 @@
     "name:cat_x_preferred":[
         "Estat Portuguesa"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u56fe\u683c\u8428\u5dde"
-    ],
     "name:cor_x_preferred":[
         "Portuguesa"
     ],
     "name:dan_x_preferred":[
         "Portuguesa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Portuguesa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4\u03bf\u03c5\u03b3\u03ba\u03ad\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Portuguesa"
@@ -68,20 +68,14 @@
     "name:est_x_preferred":[
         "Portuguesa"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648\u06af\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Portuguesa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Portuguesa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10e2\u10e3\u10d2\u10d4\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Portuguesa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c1\u03c4\u03bf\u03c5\u03b3\u03ba\u03ad\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0ac1\u0a97\u0ac0\u0a9d"
@@ -104,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0ccd\u0c9a\u0cc1\u0c97\u0cc0\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2\u10e3\u10d2\u10d4\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ub974\ud22c\uac8c\uc0ac \uc8fc"
     ],
@@ -116,13 +113,16 @@
     "name:lit_x_preferred":[
         "Portugesa"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u043e\u0440\u0442\u0443\u0433\u0435\u0441\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u094d\u0924\u0941\u0917\u0941\u0938\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443\u0433\u0435\u0441\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Portuguesa"
+    ],
+    "name:nld_x_preferred":[
         "Portuguesa"
     ],
     "name:nno_x_preferred":[
@@ -130,9 +130,6 @@
     ],
     "name:nob_x_preferred":[
         "Portuguesa"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a\u0648\u06af\u0633\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u0631\u062a\u06af\u06cc\u0632\u0627"
@@ -146,7 +143,7 @@
     "name:que_x_preferred":[
         "Portuguesa suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Portuguesa"
     ],
     "name:rus_x_preferred":[
@@ -196,6 +193,9 @@
     ],
     "name:war_x_preferred":[
         "Portuguesa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u56fe\u683c\u8428\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VEN",
@@ -320,7 +320,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814833,
+    "wof:lastmodified":1561827168,
     "wof:name":"Portuguesa",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

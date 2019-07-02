@@ -43,13 +43,7 @@
     "name:ces_x_preferred":[
         "Mara"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62c9\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Mara"
-    ],
-    "name:dut_x_preferred":[
         "Mara"
     ],
     "name:eng_x_preferred":[
@@ -69,9 +63,6 @@
         "Mara"
     ],
     "name:fra_x_preferred":[
-        "Mara"
-    ],
-    "name:fre_x_preferred":[
         "Mara"
     ],
     "name:heb_x_preferred":[
@@ -137,6 +128,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0430"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u5e02"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -197,7 +191,7 @@
         }
     ],
     "wof:id":421196977,
-    "wof:lastmodified":1555037065,
+    "wof:lastmodified":1561827242,
     "wof:name":"Mara",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

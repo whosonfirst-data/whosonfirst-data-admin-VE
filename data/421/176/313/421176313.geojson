@@ -14,8 +14,8 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u91cc\u5854"
+    "name:cym_x_preferred":[
+        "Santa Rita"
     ],
     "name:eng_x_preferred":[
         "Santa Rita"
@@ -32,8 +32,8 @@
     "name:spa_x_preferred":[
         "Santa Rita"
     ],
-    "name:wel_x_preferred":[
-        "Santa Rita"
+    "name:zho_x_preferred":[
+        "\u8056\u91cc\u5854"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Venezuela",
@@ -173,7 +173,7 @@
         }
     ],
     "wof:id":421176313,
-    "wof:lastmodified":1514502428,
+    "wof:lastmodified":1561827247,
     "wof:name":"Santa Rita",
     "wof:parent_id":1108694415,
     "wof:placetype":"locality",

@@ -30,12 +30,6 @@
     "mps:longitude":-70.197105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u5207\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Carache"
-    ],
     "name:eng_x_preferred":[
         "Carache"
     ],
@@ -43,13 +37,16 @@
         "Carache",
         "Municipio Carache"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Carache"
     ],
     "name:ita_x_preferred":[
         "Carache"
     ],
     "name:nan_x_preferred":[
+        "Carache"
+    ],
+    "name:nld_x_preferred":[
         "Carache"
     ],
     "name:por_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Carache"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u5207\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108694147,
-    "wof:lastmodified":1555037559,
+    "wof:lastmodified":1561827215,
     "wof:name":"Carache",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

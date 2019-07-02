@@ -40,14 +40,8 @@
     "name:ces_x_preferred":[
         "Moran"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u862d\u5e02"
-    ],
     "name:deu_x_preferred":[
         "Moran"
-    ],
-    "name:dut_x_preferred":[
-        "Mor\u00e1n"
     ],
     "name:eng_x_preferred":[
         "Mor\u00e1n"
@@ -66,7 +60,7 @@
     "name:fra_x_preferred":[
         "Moran"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Mor\u00e1n"
     ],
     "name:hbs_x_preferred":[
@@ -80,6 +74,9 @@
     ],
     "name:nld_x_preferred":[
         "Moran"
+    ],
+    "name:nld_x_variant":[
+        "Mor\u00e1n"
     ],
     "name:pol_x_preferred":[
         "Moran"
@@ -101,6 +98,9 @@
     ],
     "name:vol_x_preferred":[
         "Moran"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u862d\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":421200611,
-    "wof:lastmodified":1554489029,
+    "wof:lastmodified":1561827244,
     "wof:name":"Moran",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

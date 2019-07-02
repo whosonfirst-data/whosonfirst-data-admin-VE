@@ -30,12 +30,6 @@
     "mps:longitude":-63.24507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c9d\u7a46\u5fb7\u65af\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Berm\u00fadez"
-    ],
     "name:eng_x_preferred":[
         "Berm\u00fadez"
     ],
@@ -44,13 +38,16 @@
         "Berm\u00fadez",
         "Berm\u00fadez Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Berm\u00fadez"
     ],
     "name:ltz_x_preferred":[
         "Berm\u00fadez"
     ],
     "name:nan_x_preferred":[
+        "Berm\u00fadez"
+    ],
+    "name:nld_x_preferred":[
         "Berm\u00fadez"
     ],
     "name:por_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Berm\u00fadez"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u7a46\u5fb7\u65af\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108694113,
-    "wof:lastmodified":1554489234,
+    "wof:lastmodified":1561827221,
     "wof:name":"Bermudez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

@@ -31,8 +31,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5df4\u502b\u5df4\u4e9e\u5e02"
+    "name:deu_x_preferred":[
+        "Valencia"
     ],
     "name:eng_x_preferred":[
         "Valencia"
@@ -41,14 +41,11 @@
         "Valencia",
         "Valencia Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Valencia"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d5\u10d0\u10da\u10d4\u10dc\u10e1\u10d8\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Valencia"
     ],
     "name:nob_x_preferred":[
         "Valencia"
@@ -58,6 +55,9 @@
     ],
     "name:spa_x_preferred":[
         "Valencia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u502b\u5df4\u4e9e\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":421202373,
-    "wof:lastmodified":1555037055,
+    "wof:lastmodified":1561827237,
     "wof:name":"Valencia",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

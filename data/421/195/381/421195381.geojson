@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u0995\u09c1\u09af\u09bc\u09bf\u09a4\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u5eab\u4f0a\u6258"
-    ],
     "name:dan_x_preferred":[
         "Tocuyito"
     ],
     "name:deu_x_preferred":[
         "Tocuyito"
     ],
-    "name:dut_x_preferred":[
-        "Tocuyito"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03ba\u03bf\u03c5\u03b3\u03af\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Tocuyito"
@@ -39,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Tocuyito"
-    ],
-    "name:fre_x_preferred":[
-        "Tocuyito"
-    ],
-    "name:ger_x_preferred":[
-        "Tocuyito"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03ba\u03bf\u03c5\u03b3\u03af\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a95\u0ac1\u0aaf\u0abf\u0a9f\u0acb"
@@ -79,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u0924\u094b\u0915\u094b\u092f\u094d\u092f\u094b\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tocuyito"
+    ],
+    "name:nld_x_preferred":[
         "Tocuyito"
     ],
     "name:nob_x_preferred":[
@@ -176,7 +167,7 @@
         }
     ],
     "wof:id":421195381,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1561827235,
     "wof:name":"Tocuyito",
     "wof:parent_id":1108694251,
     "wof:placetype":"locality",

@@ -35,9 +35,6 @@
     "name:arg_x_preferred":[
         "Estato Carabobo"
     ],
-    "name:baq_x_preferred":[
-        "Carabobo"
-    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041a\u0430\u0440\u0430\u0431\u043e\u0431\u0430"
     ],
@@ -56,13 +53,7 @@
     "name:ces_x_preferred":[
         "Carabobo"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u6c83\u6c83\u5dde"
-    ],
     "name:cor_x_preferred":[
-        "Carabobo"
-    ],
-    "name:cze_x_preferred":[
         "Carabobo"
     ],
     "name:dan_x_preferred":[
@@ -71,8 +62,8 @@
     "name:deu_x_preferred":[
         "Carabobo"
     ],
-    "name:dut_x_preferred":[
-        "Carabobo"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03bc\u03c0\u03cc\u03bc\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Carabobo"
@@ -89,23 +80,14 @@
     "name:eus_x_preferred":[
         "Carabobo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0627\u0628\u0648\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Carabobo"
     ],
     "name:fra_x_preferred":[
         "\u00c9tat de Carabobo"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9tat de Carabobo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10d1\u10dd\u10d1\u10dd\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Carabobo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03b1\u03bc\u03c0\u03cc\u03bc\u03c0\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0aac\u0acb\u0aac\u0acb"
@@ -143,14 +125,8 @@
     "name:lit_x_preferred":[
         "Karabobas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u0430\u0431\u043e\u0431\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0930\u094b\u092c\u094b\u092c\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Carabobo"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u043e\u0431\u043e"
@@ -176,9 +152,6 @@
     "name:oss_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u043e\u0431\u043e"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0631\u0627\u0628\u0648\u0628\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0627\u0631\u0627\u0628\u0648\u0628\u0648"
     ],
@@ -195,9 +168,6 @@
         "Karabubu suyu"
     ],
     "name:ron_x_preferred":[
-        "Carabobo"
-    ],
-    "name:rum_x_preferred":[
         "Carabobo"
     ],
     "name:rus_x_preferred":[
@@ -253,6 +223,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u6ce2\u6ce2\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u62c9\u6c83\u6c83\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VEN",
@@ -378,7 +351,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550571,
+    "wof:lastmodified":1561827167,
     "wof:name":"Carabobo",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
