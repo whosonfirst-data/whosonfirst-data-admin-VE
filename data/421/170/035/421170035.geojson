@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0633\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Garc\u00eda"
+    ],
     "name:ceb_x_preferred":[
         "Garc\u00eda"
     ],
@@ -48,7 +51,6 @@
     ],
     "name:eng_x_variant":[
         "Garcia",
-        "Garc\u00eda",
         "Garc\u00eda"
     ],
     "name:epo_x_preferred":[
@@ -89,6 +91,9 @@
     ],
     "name:spa_x_preferred":[
         "Garc\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Garc\u00eda"
     ],
     "name:swe_x_preferred":[
         "Garc\u00eda"
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":421170035,
-    "wof:lastmodified":1561827246,
+    "wof:lastmodified":1563241205,
     "wof:name":"Garcia",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

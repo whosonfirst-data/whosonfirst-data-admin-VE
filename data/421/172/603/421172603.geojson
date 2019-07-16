@@ -31,12 +31,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Justo Brice\u00f1o"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Justo Brice\u00f1o"
+    ],
     "name:eng_x_preferred":[
         "Justo Brice\u00f1o"
     ],
     "name:eng_x_variant":[
         "Justo Briceno",
-        "Justo Brice\u00f1o",
         "Justo Brice\u00f1o Municipality"
     ],
     "name:fra_x_preferred":[
@@ -56,6 +61,9 @@
     ],
     "name:spa_x_preferred":[
         "Justo Brice\u00f1o"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Justo Brice\u00f1o"
     ],
     "name:vie_x_preferred":[
         "Justo Brice\u00f1o"
@@ -125,7 +133,7 @@
         }
     ],
     "wof:id":421172603,
-    "wof:lastmodified":1561827239,
+    "wof:lastmodified":1563241121,
     "wof:name":"Justo Brice\u00f1o",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

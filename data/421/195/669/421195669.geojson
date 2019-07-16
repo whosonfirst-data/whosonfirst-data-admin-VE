@@ -20,6 +20,9 @@
     "name:arg_x_preferred":[
         "Puerto La Cruz"
     ],
+    "name:ast_x_preferred":[
+        "Puertu La Cruz"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09b2\u09be \u0995\u09cd\u09b0\u09c1\u099c"
     ],
@@ -27,6 +30,9 @@
         "\u041f\u0443\u0435\u0440\u0442\u043e \u041b\u0430 \u041a\u0440\u0443\u0441"
     ],
     "name:cat_x_preferred":[
+        "Puerto La Cruz"
+    ],
+    "name:ceb_x_preferred":[
         "Puerto La Cruz"
     ],
     "name:dan_x_preferred":[
@@ -45,6 +51,9 @@
         "Puerto la Cruz"
     ],
     "name:epo_x_preferred":[
+        "Puerto la Cruz"
+    ],
+    "name:eus_x_preferred":[
         "Puerto la Cruz"
     ],
     "name:fij_x_preferred":[
@@ -156,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Puerto la Cruz"
+    ],
+    "name:war_x_preferred":[
+        "Puerto La Cruz"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u514b\u9b6f\u65af\u6e2f"
@@ -302,7 +314,7 @@
         }
     ],
     "wof:id":421195669,
-    "wof:lastmodified":1561827235,
+    "wof:lastmodified":1563241053,
     "wof:name":"Puerto la Cruz",
     "wof:parent_id":421204791,
     "wof:placetype":"locality",

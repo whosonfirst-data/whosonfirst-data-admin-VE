@@ -30,6 +30,12 @@
     "mps:longitude":-66.297411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Chaguaramas"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Chaguaramas"
+    ],
     "name:deu_x_preferred":[
         "Chaguaramas"
     ],
@@ -37,7 +43,6 @@
         "Chaguaramas"
     ],
     "name:eng_x_variant":[
-        "Chaguaramas",
         "Chaguaramas Municipality"
     ],
     "name:fra_x_preferred":[
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":1108694159,
-    "wof:lastmodified":1561827216,
+    "wof:lastmodified":1563240288,
     "wof:name":"Chaguaramas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:arg_x_preferred":[
         "Colonia Tovar"
     ],
+    "name:cat_x_preferred":[
+        "Colonia Tovar"
+    ],
     "name:ces_x_preferred":[
         "Colonia Tovar"
     ],
@@ -34,8 +37,14 @@
     "name:fra_x_preferred":[
         "Colonia Tovar"
     ],
+    "name:gsw_x_preferred":[
+        "Colonia Tovar"
+    ],
     "name:hrv_x_preferred":[
         "Nijemci kolonije Tovar"
+    ],
+    "name:hun_x_preferred":[
+        "Colonia Tovar"
     ],
     "name:ind_x_preferred":[
         "Colonia Tovar"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":421201949,
-    "wof:lastmodified":1527716436,
+    "wof:lastmodified":1563241193,
     "wof:name":"Colonia Tovar",
     "wof:parent_id":1108694455,
     "wof:placetype":"locality",

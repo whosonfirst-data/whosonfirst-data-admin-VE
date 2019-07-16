@@ -31,8 +31,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Municipio Guanta"
+    ],
+    "name:ast_x_preferred":[
+        "Guanta"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Guanta"
+    ],
+    "name:eng_x_preferred":[
+        "Guanta"
+    ],
     "name:eng_x_variant":[
         "Guanipa"
+    ],
+    "name:fra_x_preferred":[
+        "Guanta"
+    ],
+    "name:ita_x_preferred":[
+        "Guanta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10dc\u10e2\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Guanta"
+    ],
+    "name:nld_x_preferred":[
+        "Guanta"
+    ],
+    "name:por_x_preferred":[
+        "Guanta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio Guanta"
+    ],
+    "name:vie_x_preferred":[
+        "Guanta"
+    ],
+    "name:zho_x_preferred":[
+        "\u95dc\u5854\u5e02"
     ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPLA2",
@@ -82,7 +124,7 @@
         }
     ],
     "wof:id":421182997,
-    "wof:lastmodified":1554488868,
+    "wof:lastmodified":1563241219,
     "wof:name":"Guanipa",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

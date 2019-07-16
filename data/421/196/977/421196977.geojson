@@ -34,11 +34,17 @@
     "name:arg_x_preferred":[
         "Mara"
     ],
+    "name:ast_x_preferred":[
+        "Mara"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0430"
     ],
     "name:ceb_x_preferred":[
         "Mara"
+    ],
+    "name:ceb_x_variant":[
+        "Municipio Mara"
     ],
     "name:ces_x_preferred":[
         "Mara"
@@ -50,7 +56,6 @@
         "Mara"
     ],
     "name:eng_x_variant":[
-        "Mara",
         "Mara Municipality"
     ],
     "name:epo_x_preferred":[
@@ -82,6 +87,9 @@
     ],
     "name:krc_x_preferred":[
         "\u041c\u0430\u0440\u0430"
+    ],
+    "name:lad_x_preferred":[
+        "Mara"
     ],
     "name:lav_x_preferred":[
         "Mara"
@@ -118,6 +126,9 @@
     ],
     "name:spa_x_preferred":[
         "Mara"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Mara"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0430"
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":421196977,
-    "wof:lastmodified":1561827242,
+    "wof:lastmodified":1563241164,
     "wof:name":"Mara",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

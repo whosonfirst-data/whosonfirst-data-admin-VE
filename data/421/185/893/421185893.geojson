@@ -20,6 +20,9 @@
     "name:arg_x_preferred":[
         "San Fernando de Apure"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ab\u09c7\u09b0\u09cd\u09a8\u09be\u09a8\u09cd\u09a6\u09cb \u09a6\u09c7 \u0986\u09aa\u09c1\u09b0\u09c7"
+    ],
     "name:deu_x_preferred":[
         "San Fernando de Apure"
     ],
@@ -35,11 +38,20 @@
     "name:fra_x_preferred":[
         "San Fernando de Apure"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0aab\u0ab0\u0acd\u0aa8\u0abe\u0aa8\u0acd\u0aa1\u0acb \u0aa1\u0ac0 \u0a93\u0aaa\u0ab0\u0ac7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092b\u0930\u094d\u0928\u093e\u0902\u0921\u094b \u0926\u0947 \u0905\u092a\u0941\u0930\u0947"
+    ],
     "name:ind_x_preferred":[
         "San Fernando de Apure"
     ],
     "name:ita_x_preferred":[
         "San Fernando de Apure"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cab\u0cc6\u0cb0\u0ccd\u0ca8\u0cbe\u0c82\u0ca1\u0ccb \u0ca1\u0cc6 \u0c85\u0caa\u0cc2\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10e4\u10d4\u10e0\u10dc\u10d0\u10dc\u10d3\u10dd-\u10d3\u10d4-\u10d0\u10de\u10e3\u10e0\u10d4"
@@ -49,6 +61,12 @@
     ],
     "name:lit_x_preferred":[
         "San Fernando de Ap\u016br\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u092b\u0930\u094d\u0928\u093e\u0902\u0921\u094b \u0921\u0940 \u0905\u092a\u0942\u0930"
+    ],
+    "name:nan_x_preferred":[
+        "San Fernando"
     ],
     "name:nld_x_preferred":[
         "San Fernando"
@@ -68,6 +86,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e-\u0434\u0435-\u0410\u043f\u0443\u0440\u0435"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0dc6\u0dbb\u0dca\u0db1\u0dd0\u0db1\u0dca\u0da9\u0ddd \u0da9\u0dd2 \u0d85\u0db4\u0dd4\u0dbb\u0dda"
+    ],
     "name:spa_x_preferred":[
         "San Fernando de Apure"
     ],
@@ -76,6 +97,12 @@
     ],
     "name:swe_x_preferred":[
         "San Fernando de Apure"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c28\u0c4d \u0c2b\u0c46\u0c30\u0c4d\u0c28\u0c3e\u0c02\u0c21\u0c4b \u0c21\u0c3f \u0c05\u0c2a\u0c41\u0c30\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e40\u0e1f\u0e2d\u0e23\u0e4c\u0e19\u0e32\u0e19\u0e42\u0e14"
     ],
     "name:unk_x_variant":[
         "San Fernando Apure"
@@ -237,7 +264,7 @@
         }
     ],
     "wof:id":421185893,
-    "wof:lastmodified":1527726504,
+    "wof:lastmodified":1563241234,
     "wof:name":"San Fernando de Apure",
     "wof:parent_id":1108694389,
     "wof:placetype":"locality",

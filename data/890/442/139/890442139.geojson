@@ -22,7 +22,13 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u0995\u09bf\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Machiques"
+    ],
     "name:dan_x_preferred":[
+        "Machiques"
+    ],
+    "name:deu_x_preferred":[
         "Machiques"
     ],
     "name:ell_x_preferred":[
@@ -98,6 +104,9 @@
         "Machiques"
     ],
     "name:swe_x_preferred":[
+        "Machiques"
+    ],
+    "name:szl_x_preferred":[
         "Machiques"
     ],
     "name:tam_x_preferred":[
@@ -251,7 +260,7 @@
         }
     ],
     "wof:id":890442139,
-    "wof:lastmodified":1561827252,
+    "wof:lastmodified":1563241251,
     "wof:name":"Machiques",
     "wof:parent_id":1108694269,
     "wof:placetype":"locality",

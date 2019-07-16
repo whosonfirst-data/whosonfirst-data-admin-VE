@@ -31,11 +31,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Roscio"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Roscio"
+    ],
     "name:eng_x_preferred":[
         "Roscio"
     ],
     "name:eng_x_variant":[
-        "Roscio",
         "Roscio"
     ],
     "name:fra_x_preferred":[
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":421202371,
-    "wof:lastmodified":1561827237,
+    "wof:lastmodified":1563241083,
     "wof:name":"Roscio",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

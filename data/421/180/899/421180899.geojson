@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0645\u0648\u0644\u0648 \u062c\u0627\u064a\u062c\u0648\u0633"
     ],
+    "name:aym_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u043e\u043c\u0443\u043b\u0430 \u0413\u0430\u043b\u044c\u0435\u0433\u0430\u0441"
     ],
@@ -46,15 +49,20 @@
     "name:ces_x_preferred":[
         "R\u00f3mulo Gallegos"
     ],
+    "name:dan_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
     "name:deu_x_preferred":[
         "R\u00f3mulo Gallegos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bc\u03bf\u03c5\u03bb\u03bf \u0393\u03ba\u03b1\u03bb\u03b9\u03ad\u03b3\u03ba\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "R\u00f3mulo Gallegos"
     ],
     "name:eng_x_variant":[
-        "Autonomo Romulo Gallegos",
-        "R\u00f3mulo Gallegos"
+        "Autonomo Romulo Gallegos"
     ],
     "name:epo_x_preferred":[
         "R\u00f3mulo Gallegos"
@@ -65,8 +73,89 @@
     "name:eus_x_preferred":[
         "R\u00f3mulo Gallegos"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0648\u0644\u0648 \u06af\u0627\u06cc\u0647\u200c\u06af\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u092e\u0941\u0932\u094b \u0917\u093e\u0932\u0947\u0917\u093e\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:ido_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30e0\u30ed\u30fb\u30ac\u30b8\u30a7\u30fc\u30b4\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10db\u10e3\u10da\u10dd \u10d2\u10d0\u10da\u10d8\u10d4\u10d2\u10dd\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:oci_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:por_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:que_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:ron_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0443\u043b\u043e \u0413\u0430\u043b\u044c\u0435\u0433\u043e\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
     "name:spa_x_preferred":[
         "R\u00f3mulo Gallegos"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u043c\u0443\u043b\u043e \u0413\u0430\u043b\u044c\u0435\u0433\u043e\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043c\u0443\u043b\u043e \u0413\u0430\u043b\u044c\u0454\u0433\u043e\u0441"
+    ],
+    "name:yor_x_preferred":[
+        "R\u00f3mulo Gallegos"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u6155\u6d1b\u00b7\u52a0\u5217\u6208\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -128,7 +217,7 @@
         }
     ],
     "wof:id":421180899,
-    "wof:lastmodified":1554488794,
+    "wof:lastmodified":1563241098,
     "wof:name":"Romulo Gallegos",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

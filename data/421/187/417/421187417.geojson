@@ -16,7 +16,25 @@
     "name:arg_x_preferred":[
         "La Guaira"
     ],
+    "name:ast_x_preferred":[
+        "La Guaira"
+    ],
+    "name:aze_x_preferred":[
+        "La-Quayra"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430-\u0413\u0443\u0430\u0439\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "La Guaira"
+    ],
+    "name:ceb_x_preferred":[
+        "La Guaira"
+    ],
     "name:ces_x_preferred":[
+        "La Guaira"
+    ],
+    "name:dan_x_preferred":[
         "La Guaira"
     ],
     "name:deu_x_preferred":[
@@ -28,6 +46,9 @@
     "name:epo_x_preferred":[
         "La Guaira"
     ],
+    "name:eus_x_preferred":[
+        "La Guaira"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0627 \u06af\u0648\u0627\u06cc\u0631\u0627"
     ],
@@ -35,6 +56,9 @@
         "La Guaira"
     ],
     "name:fra_x_preferred":[
+        "La Guaira"
+    ],
+    "name:glg_x_preferred":[
         "La Guaira"
     ],
     "name:heb_x_preferred":[
@@ -70,6 +94,9 @@
     "name:por_x_preferred":[
         "La Guaira"
     ],
+    "name:que_x_preferred":[
+        "La Guaira"
+    ],
     "name:ron_x_preferred":[
         "La Guaira"
     ],
@@ -90,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "La Guaira"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05d0 \u05d2\u05d5\u05d0\u05d9\u05e8\u05e2"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u74dc\u4f0a\u62c9"
@@ -142,7 +172,7 @@
         }
     ],
     "wof:id":421187417,
-    "wof:lastmodified":1561827238,
+    "wof:lastmodified":1563241104,
     "wof:name":"La Guaira",
     "wof:parent_id":421189081,
     "wof:placetype":"locality",

@@ -34,8 +34,14 @@
     "name:arg_x_preferred":[
         "Municipio Baruta"
     ],
+    "name:ast_x_preferred":[
+        "Baruta"
+    ],
     "name:cat_x_preferred":[
         "Baruta"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Baruta"
     ],
     "name:deu_x_preferred":[
         "Nuestra Se\u00f1ora del Rosario de Baruta"
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":421171377,
-    "wof:lastmodified":1561827248,
+    "wof:lastmodified":1563241227,
     "wof:name":"Baruta",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

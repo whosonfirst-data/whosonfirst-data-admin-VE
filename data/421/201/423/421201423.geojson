@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Los Teques"
     ],
+    "name:ceb_x_preferred":[
+        "Los Teques"
+    ],
     "name:dan_x_preferred":[
         "Los Teques"
     ],
@@ -38,6 +41,9 @@
         "Los Teques"
     ],
     "name:epo_x_preferred":[
+        "Los Teques"
+    ],
+    "name:eus_x_preferred":[
         "Los Teques"
     ],
     "name:fas_x_preferred":[
@@ -88,6 +94,9 @@
     "name:por_x_preferred":[
         "Los Teques"
     ],
+    "name:que_x_preferred":[
+        "Los Teques"
+    ],
     "name:ron_x_preferred":[
         "Los Teques"
     ],
@@ -111,6 +120,9 @@
     ],
     "name:war_x_preferred":[
         "Los Teques"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d1b\u65af\u7279\u514b\u65af"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u7279\u514b\u65af"
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":421201423,
-    "wof:lastmodified":1561827244,
+    "wof:lastmodified":1563241192,
     "wof:name":"Los Teques",
     "wof:parent_id":421170247,
     "wof:placetype":"locality",

@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "El Cobre"
+    ],
     "name:cat_x_preferred":[
         "El Cobre"
     ],
     "name:deu_x_preferred":[
         "Cobre"
+    ],
+    "name:deu_x_variant":[
+        "El Cobre"
     ],
     "name:eng_x_preferred":[
         "El Cobre"
@@ -34,8 +40,17 @@
     "name:por_x_preferred":[
         "Cobre"
     ],
+    "name:por_x_variant":[
+        "El Cobre"
+    ],
     "name:spa_x_preferred":[
         "Cobre"
+    ],
+    "name:spa_x_variant":[
+        "El Cobre"
+    ],
+    "name:swe_x_preferred":[
+        "Araya"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u79d1\u592b\u96f7"
@@ -86,7 +101,7 @@
         }
     ],
     "wof:id":421185677,
-    "wof:lastmodified":1561827249,
+    "wof:lastmodified":1563241237,
     "wof:name":"El Cobre",
     "wof:parent_id":421196939,
     "wof:placetype":"locality",

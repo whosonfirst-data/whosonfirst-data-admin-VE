@@ -13,19 +13,223 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Araya"
+    ],
+    "name:arg_x_preferred":[
+        "Araya"
+    ],
+    "name:ast_x_preferred":[
+        "Araya"
+    ],
+    "name:bar_x_preferred":[
+        "Araya"
+    ],
+    "name:bos_x_preferred":[
+        "Araya"
+    ],
+    "name:bre_x_preferred":[
+        "Araya"
+    ],
+    "name:cat_x_preferred":[
+        "Araya"
+    ],
     "name:ceb_x_preferred":[
+        "Araya"
+    ],
+    "name:ces_x_preferred":[
+        "Araya"
+    ],
+    "name:cos_x_preferred":[
+        "Araya"
+    ],
+    "name:cym_x_preferred":[
+        "Araya"
+    ],
+    "name:dan_x_preferred":[
         "Araya"
     ],
     "name:deu_x_preferred":[
         "Araya"
     ],
+    "name:eng_x_preferred":[
+        "Araya"
+    ],
+    "name:epo_x_preferred":[
+        "Araya"
+    ],
+    "name:est_x_preferred":[
+        "Araya"
+    ],
+    "name:eus_x_preferred":[
+        "Araya"
+    ],
+    "name:fin_x_preferred":[
+        "Araya"
+    ],
     "name:fra_x_preferred":[
+        "Araya"
+    ],
+    "name:frc_x_preferred":[
+        "Araya"
+    ],
+    "name:frp_x_preferred":[
+        "Araya"
+    ],
+    "name:fry_x_preferred":[
+        "Araya"
+    ],
+    "name:fur_x_preferred":[
+        "Araya"
+    ],
+    "name:gla_x_preferred":[
+        "Araya"
+    ],
+    "name:gle_x_preferred":[
+        "Araya"
+    ],
+    "name:glg_x_preferred":[
+        "Araya"
+    ],
+    "name:gsw_x_preferred":[
+        "Araya"
+    ],
+    "name:hrv_x_preferred":[
+        "Araya"
+    ],
+    "name:hun_x_preferred":[
+        "Araya"
+    ],
+    "name:ile_x_preferred":[
+        "Araya"
+    ],
+    "name:ina_x_preferred":[
+        "Araya"
+    ],
+    "name:ind_x_preferred":[
+        "Araya"
+    ],
+    "name:isl_x_preferred":[
+        "Araya"
+    ],
+    "name:ita_x_preferred":[
+        "Araya"
+    ],
+    "name:jam_x_preferred":[
+        "Araya"
+    ],
+    "name:kon_x_preferred":[
+        "Araya"
+    ],
+    "name:lat_x_preferred":[
+        "Araya"
+    ],
+    "name:lij_x_preferred":[
+        "Araya"
+    ],
+    "name:lim_x_preferred":[
+        "Araya"
+    ],
+    "name:ltz_x_preferred":[
+        "Araya"
+    ],
+    "name:min_x_preferred":[
+        "Araya"
+    ],
+    "name:mlg_x_preferred":[
+        "Araya"
+    ],
+    "name:mlt_x_preferred":[
+        "Araya"
+    ],
+    "name:msa_x_preferred":[
+        "Araya"
+    ],
+    "name:nap_x_preferred":[
+        "Araya"
+    ],
+    "name:nds_x_preferred":[
+        "Araya"
+    ],
+    "name:nld_x_preferred":[
+        "Araya"
+    ],
+    "name:nno_x_preferred":[
+        "Araya"
+    ],
+    "name:nob_x_preferred":[
+        "Araya"
+    ],
+    "name:nrm_x_preferred":[
+        "Araya"
+    ],
+    "name:oci_x_preferred":[
+        "Araya"
+    ],
+    "name:pcd_x_preferred":[
+        "Araya"
+    ],
+    "name:pms_x_preferred":[
+        "Araya"
+    ],
+    "name:pol_x_preferred":[
+        "Araya"
+    ],
+    "name:por_x_preferred":[
+        "Araya"
+    ],
+    "name:roh_x_preferred":[
+        "Araya"
+    ],
+    "name:ron_x_preferred":[
         "Araya"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u044f"
     ],
+    "name:scn_x_preferred":[
+        "Araya"
+    ],
+    "name:sco_x_preferred":[
+        "Araya"
+    ],
+    "name:slk_x_preferred":[
+        "Araya"
+    ],
+    "name:slv_x_preferred":[
+        "Araya"
+    ],
     "name:spa_x_preferred":[
+        "Araya"
+    ],
+    "name:srd_x_preferred":[
+        "Araya"
+    ],
+    "name:swa_x_preferred":[
+        "Araya"
+    ],
+    "name:swe_x_preferred":[
+        "Araya"
+    ],
+    "name:vec_x_preferred":[
+        "Araya"
+    ],
+    "name:vie_x_preferred":[
+        "Araya"
+    ],
+    "name:vls_x_preferred":[
+        "Araya"
+    ],
+    "name:vol_x_preferred":[
+        "Araya"
+    ],
+    "name:wln_x_preferred":[
+        "Araya"
+    ],
+    "name:wol_x_preferred":[
+        "Araya"
+    ],
+    "name:zul_x_preferred":[
         "Araya"
     ],
     "qs:gn_country":"VE",
@@ -74,7 +278,7 @@
         }
     ],
     "wof:id":421185679,
-    "wof:lastmodified":1527726510,
+    "wof:lastmodified":1563241236,
     "wof:name":"Araya",
     "wof:parent_id":1108694383,
     "wof:placetype":"locality",

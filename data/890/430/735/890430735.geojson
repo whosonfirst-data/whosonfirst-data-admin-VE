@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627"
     ],
+    "name:ast_x_preferred":[
+        "C\u00faa"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09be"
     ],
@@ -25,6 +28,9 @@
         "\u041a\u0443\u0430"
     ],
     "name:cat_x_preferred":[
+        "C\u00faa"
+    ],
+    "name:ceb_x_preferred":[
         "C\u00faa"
     ],
     "name:dan_x_preferred":[
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890430735,
-    "wof:lastmodified":1561827251,
+    "wof:lastmodified":1563241244,
     "wof:name":"C\u00faa",
     "wof:parent_id":421170247,
     "wof:placetype":"locality",

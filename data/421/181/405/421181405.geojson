@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Caraballeda"
+    ],
     "name:deu_x_preferred":[
+        "Caraballeda"
+    ],
+    "name:eng_x_preferred":[
         "Caraballeda"
     ],
     "name:fra_x_preferred":[
@@ -22,11 +28,17 @@
     "name:ita_x_preferred":[
         "Caraballeda"
     ],
+    "name:pol_x_preferred":[
+        "Caraballeda"
+    ],
     "name:por_x_preferred":[
         "Caraballeda"
     ],
     "name:spa_x_preferred":[
         "Caraballeda"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u5df4\u963f\u840a\u9054"
     ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":421181405,
-    "wof:lastmodified":1527716331,
+    "wof:lastmodified":1563241152,
     "wof:name":"Caraballeda",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

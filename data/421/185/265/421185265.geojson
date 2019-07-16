@@ -31,12 +31,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio C\u00f3rdoba"
+    ],
     "name:eng_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:eng_x_variant":[
         "Cordoba",
-        "C\u00f3rdoba",
         "Municipio C\u00f3rdoba"
     ],
     "name:fra_x_preferred":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":421185265,
-    "wof:lastmodified":1561827250,
+    "wof:lastmodified":1563241237,
     "wof:name":"Cordova",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

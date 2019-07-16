@@ -30,17 +30,25 @@
     "mps:longitude":-71.128579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Aricagua"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Aricagua"
+    ],
     "name:eng_x_preferred":[
         "Aricagua"
     ],
     "name:eng_x_variant":[
-        "Aricagua",
         "Aricagua Municipality"
     ],
     "name:fra_x_preferred":[
         "Aricagua"
     ],
     "name:ita_x_preferred":[
+        "Aricagua"
+    ],
+    "name:lad_x_preferred":[
         "Aricagua"
     ],
     "name:nan_x_preferred":[
@@ -97,7 +105,7 @@
         }
     ],
     "wof:id":1108694095,
-    "wof:lastmodified":1561827218,
+    "wof:lastmodified":1563240305,
     "wof:name":"Aricagua",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

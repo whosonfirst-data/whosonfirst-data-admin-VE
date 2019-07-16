@@ -31,11 +31,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Plaza"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Plaza"
+    ],
     "name:eng_x_preferred":[
         "Plaza"
     ],
     "name:eng_x_variant":[
-        "Plaza",
         "Plaza Municipality"
     ],
     "name:fin_x_preferred":[
@@ -52,6 +57,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30e9\u30b6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30f3\u30d6\u30ed\u30b7\u30aa\u30fb\u30d7\u30e9\u30b5"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10da\u10d0\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":421189081,
-    "wof:lastmodified":1561827238,
+    "wof:lastmodified":1563241114,
     "wof:name":"Plaza",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

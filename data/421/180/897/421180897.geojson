@@ -31,8 +31,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Colina"
+    ],
     "name:ceb_x_preferred":[
         "Colina"
+    ],
+    "name:ceb_x_variant":[
+        "Municipio Colina"
     ],
     "name:deu_x_preferred":[
         "Colina"
@@ -41,7 +47,6 @@
         "Colina"
     ],
     "name:eng_x_variant":[
-        "Colina",
         "Municipio Colina"
     ],
     "name:eus_x_preferred":[
@@ -73,6 +78,9 @@
     ],
     "name:spa_x_preferred":[
         "Colina"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Colina"
     ],
     "name:swe_x_preferred":[
         "Colina"
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":421180897,
-    "wof:lastmodified":1561827238,
+    "wof:lastmodified":1563241099,
     "wof:name":"Colina",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

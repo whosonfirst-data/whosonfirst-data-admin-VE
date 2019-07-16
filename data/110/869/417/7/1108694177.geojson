@@ -30,11 +30,16 @@
     "mps:longitude":-69.186771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Esteller"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Esteller"
+    ],
     "name:eng_x_preferred":[
         "Esteller"
     ],
     "name:eng_x_variant":[
-        "Esteller",
         "Esteller Municipality"
     ],
     "name:fra_x_preferred":[
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":1108694177,
-    "wof:lastmodified":1561827220,
+    "wof:lastmodified":1563240316,
     "wof:name":"Esteller",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

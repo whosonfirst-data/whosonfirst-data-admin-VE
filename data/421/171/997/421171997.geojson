@@ -31,11 +31,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Antonio Pinto Salinas"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Antonio Pinto Salinas"
+    ],
     "name:eng_x_preferred":[
         "Antonio Pinto Salinas"
     ],
     "name:eng_x_variant":[
-        "Antonio Pinto Salinas",
         "Antonio Pinto Salinas Municipality"
     ],
     "name:fra_x_preferred":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":421171997,
-    "wof:lastmodified":1561827247,
+    "wof:lastmodified":1563241223,
     "wof:name":"Antonio Pinto Salinas",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

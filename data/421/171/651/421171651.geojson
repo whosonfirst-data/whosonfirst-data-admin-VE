@@ -34,15 +34,20 @@
     "name:arg_x_preferred":[
         "Municipio Achaguas"
     ],
+    "name:ast_x_preferred":[
+        "Achaguas"
+    ],
     "name:cat_x_preferred":[
         "Achaguas"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Achaguas"
     ],
     "name:eng_x_preferred":[
         "Achaguas"
     ],
     "name:eng_x_variant":[
         "Autonomo Achaguas",
-        "Achaguas",
         "Achaguas Municipality"
     ],
     "name:fas_x_preferred":[
@@ -68,6 +73,9 @@
     ],
     "name:spa_x_preferred":[
         "Achaguas"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Achaguas"
     ],
     "name:swe_x_preferred":[
         "Achaguas"
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":421171651,
-    "wof:lastmodified":1561827248,
+    "wof:lastmodified":1563241225,
     "wof:name":"Achaguas",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

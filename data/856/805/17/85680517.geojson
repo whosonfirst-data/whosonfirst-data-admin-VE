@@ -32,6 +32,12 @@
     "name:arg_x_preferred":[
         "Estato Bol\u00edvar"
     ],
+    "name:ast_x_preferred":[
+        "Bol\u00edvar"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0644\u06cc\u0648\u0627\u0631 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0411\u0430\u043b\u0456\u0432\u0430\u0440"
     ],
@@ -46,6 +52,12 @@
     ],
     "name:cat_x_preferred":[
         "Estat Bol\u00edvar"
+    ],
+    "name:cat_x_variant":[
+        "estat Bol\u00edvar"
+    ],
+    "name:ceb_x_preferred":[
+        "Estado Bol\u00edvar"
     ],
     "name:ckb_x_preferred":[
         "\u0648\u06cc\u0644\u0627\u06cc\u06d5\u062a\u06cc \u0628\u06c6\u0644\u06cc\u06a4\u0627\u0631"
@@ -73,6 +85,9 @@
     "name:epo_x_preferred":[
         "Bolivaro"
     ],
+    "name:epo_x_variant":[
+        "Bol\u00edvar"
+    ],
     "name:est_x_preferred":[
         "Bol\u00edvari osariik"
     ],
@@ -88,6 +103,9 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Bol\u00edvar"
     ],
+    "name:fra_x_variant":[
+        "Bol\u00edvar"
+    ],
     "name:glg_x_preferred":[
         "Estado Bol\u00edvar"
     ],
@@ -102,6 +120,9 @@
     ],
     "name:hrv_x_preferred":[
         "Bolivar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056c\u056b\u057e\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Bol\u00edvar"
@@ -120,6 +141,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcfc\ub9ac\ubc14\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcfc\ub9ac\ubc14\ub974\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Bolivar"
@@ -157,11 +181,17 @@
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0648\u0644\u06cc\u0648\u0627\u0631"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0648\u0644\u06cc\u0648\u0627\u0631(\u0648\u06cc\u0646\u0632\u0648\u06cc\u0644\u0627)"
+    ],
     "name:pol_x_preferred":[
         "Bol\u00edvar"
     ],
     "name:por_x_preferred":[
         "Estado Bol\u00edvar"
+    ],
+    "name:por_x_variant":[
+        "Bol\u00edvar"
     ],
     "name:que_x_preferred":[
         "Bol\u00edvar suyu"
@@ -347,7 +377,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561827169,
+    "wof:lastmodified":1563238433,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

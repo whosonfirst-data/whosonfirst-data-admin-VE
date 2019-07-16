@@ -30,11 +30,16 @@
     "mps:longitude":-69.887667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Obispos"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Obispos"
+    ],
     "name:eng_x_preferred":[
         "Obispos"
     ],
     "name:eng_x_variant":[
-        "Obispos",
         "Obispos Municipality"
     ],
     "name:fra_x_preferred":[
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":1108694317,
-    "wof:lastmodified":1561827219,
+    "wof:lastmodified":1563240306,
     "wof:name":"Obispos",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

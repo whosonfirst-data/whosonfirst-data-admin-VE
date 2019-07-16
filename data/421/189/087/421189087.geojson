@@ -34,6 +34,12 @@
     "name:arg_x_preferred":[
         "Guanare"
     ],
+    "name:ast_x_preferred":[
+        "Guanare"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Guanare"
+    ],
     "name:deu_x_preferred":[
         "Guanare"
     ],
@@ -41,7 +47,6 @@
         "Guanare"
     ],
     "name:eng_x_variant":[
-        "Guanare",
         "Guanare Municipality"
     ],
     "name:epo_x_preferred":[
@@ -88,6 +93,9 @@
     ],
     "name:spa_x_preferred":[
         "Guanare"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Guanare"
     ],
     "name:swe_x_preferred":[
         "Guanare"
@@ -178,7 +186,7 @@
         }
     ],
     "wof:id":421189087,
-    "wof:lastmodified":1561827238,
+    "wof:lastmodified":1563241114,
     "wof:name":"Guanare",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

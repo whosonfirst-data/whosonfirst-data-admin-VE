@@ -30,12 +30,17 @@
     "mps:longitude":-68.507746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Veroes"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Veroes"
+    ],
     "name:eng_x_preferred":[
         "Veroes"
     ],
     "name:eng_x_variant":[
         "Autonomo San Felipe",
-        "Veroes",
         "Veroes Municipality"
     ],
     "name:fra_x_preferred":[
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1108694481,
-    "wof:lastmodified":1561827216,
+    "wof:lastmodified":1563240282,
     "wof:name":"Veroes",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

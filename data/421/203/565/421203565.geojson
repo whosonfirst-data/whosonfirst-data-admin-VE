@@ -31,11 +31,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sosa"
+    ],
     "name:cat_x_preferred":[
         "Sosa"
     ],
     "name:ceb_x_preferred":[
         "Sosa"
+    ],
+    "name:ceb_x_variant":[
+        "Municipio Sosa"
     ],
     "name:deu_x_preferred":[
         "Sosa"
@@ -44,7 +50,6 @@
         "Sosa"
     ],
     "name:eng_x_variant":[
-        "Sosa",
         "Sosa Municipality"
     ],
     "name:est_x_preferred":[
@@ -88,6 +93,9 @@
     ],
     "name:spa_x_preferred":[
         "Sosa"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Sosa"
     ],
     "name:swa_x_preferred":[
         "Sosa"
@@ -158,7 +166,7 @@
         }
     ],
     "wof:id":421203565,
-    "wof:lastmodified":1561827236,
+    "wof:lastmodified":1563241077,
     "wof:name":"Sosa",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

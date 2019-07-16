@@ -21,6 +21,12 @@
     "name:ben_x_preferred":[
         "\u09a4\u09bf\u09a8\u09be\u0995\u09c1\u0987\u09b2\u09cb"
     ],
+    "name:cat_x_preferred":[
+        "Tinaquillo"
+    ],
+    "name:ceb_x_preferred":[
+        "Tinaquillo"
+    ],
     "name:dan_x_preferred":[
         "Tinaquillo"
     ],
@@ -37,6 +43,9 @@
         "Tinaquillo"
     ],
     "name:fra_x_preferred":[
+        "Tinaquillo"
+    ],
+    "name:glg_x_preferred":[
         "Tinaquillo"
     ],
     "name:guj_x_preferred":[
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":890435131,
-    "wof:lastmodified":1561827254,
+    "wof:lastmodified":1563241263,
     "wof:name":"Tinaquillo",
     "wof:parent_id":1108694185,
     "wof:placetype":"locality",

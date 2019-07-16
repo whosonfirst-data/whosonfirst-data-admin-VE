@@ -30,6 +30,12 @@
     "mps:longitude":-62.078844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pedernales"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Pedernales"
+    ],
     "name:deu_x_preferred":[
         "Municipio Pedernales"
     ],
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108694489,
-    "wof:lastmodified":1561827215,
+    "wof:lastmodified":1563240282,
     "wof:name":"Pedernales",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

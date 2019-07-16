@@ -34,6 +34,12 @@
     "name:arg_x_preferred":[
         "Municipio Santiago Mari\u00f1o"
     ],
+    "name:ast_x_preferred":[
+        "Santiago Mari\u00f1o"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Santiago Mari\u00f1o"
+    ],
     "name:deu_x_historical":[
         "Municipio Santiago Mari\u00f1o"
     ],
@@ -48,7 +54,6 @@
     ],
     "name:eng_x_variant":[
         "Santiago Marino",
-        "Santiago Mari\u00f1o",
         "Santiago Mari\u00f1o"
     ],
     "name:epo_x_preferred":[
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":421186263,
-    "wof:lastmodified":1561827240,
+    "wof:lastmodified":1563241144,
     "wof:name":"Santiago Mari\u00f1o",
     "wof:parent_id":85680525,
     "wof:placetype":"county",
