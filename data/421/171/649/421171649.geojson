@@ -34,6 +34,12 @@
     "name:arg_x_preferred":[
         "Municipio Pedro Camejo"
     ],
+    "name:ast_x_preferred":[
+        "Pedro Camejo"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Pedro Camejo"
+    ],
     "name:deu_x_preferred":[
         "Pedro Camejo"
     ],
@@ -42,7 +48,6 @@
     ],
     "name:eng_x_variant":[
         "Autonomo Pedro Camejo",
-        "Pedro Camejo",
         "Pedro Camejo Municipality"
     ],
     "name:fra_x_preferred":[
@@ -65,6 +70,9 @@
     ],
     "name:spa_x_preferred":[
         "Pedro Camejo"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Pedro Camejo"
     ],
     "name:vie_x_preferred":[
         "Pedro Camejo"
@@ -132,7 +140,7 @@
         }
     ],
     "wof:id":421171649,
-    "wof:lastmodified":1561827248,
+    "wof:lastmodified":1563241228,
     "wof:name":"Pedro Camejo",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

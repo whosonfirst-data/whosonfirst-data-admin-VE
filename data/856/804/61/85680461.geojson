@@ -29,8 +29,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0643\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0641\u0627\u0644\u0643\u0648\u0646"
+    ],
     "name:arg_x_preferred":[
         "Estato Falc\u00f3n"
+    ],
+    "name:ast_x_preferred":[
+        "Falc\u00f3n"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0627\u0644\u06a9\u0648\u0646"
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0424\u0430\u043b\u044c\u043a\u043e\u043d"
@@ -46,6 +55,9 @@
     ],
     "name:cat_x_preferred":[
         "Falc\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
+        "Estado Falc\u00f3n"
     ],
     "name:cor_x_preferred":[
         "Falc\u00f3n"
@@ -63,14 +75,19 @@
         "Falc\u00f3n"
     ],
     "name:eng_x_variant":[
-        "Estado Falc\u00f3n",
-        "Falc\u00f3n"
+        "Estado Falc\u00f3n"
     ],
     "name:epo_x_preferred":[
         "Falc\u00f3n"
     ],
     "name:est_x_preferred":[
         "Falc\u00f3ni osariik"
+    ],
+    "name:est_x_variant":[
+        "Falc\u00f3n"
+    ],
+    "name:eus_x_preferred":[
+        "Falc\u00f3n"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u0644\u06a9\u0648\u0646"
@@ -80,6 +97,9 @@
     ],
     "name:fra_x_preferred":[
         "\u00c9tat de Falc\u00f3n"
+    ],
+    "name:fra_x_variant":[
+        "Falc\u00f3n"
     ],
     "name:glg_x_preferred":[
         "Falc\u00f3n"
@@ -110,6 +130,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud314\ucf58 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud314\ucf58\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Falkon"
@@ -149,6 +172,9 @@
     ],
     "name:por_x_preferred":[
         "Estado Falc\u00f3n"
+    ],
+    "name:por_x_variant":[
+        "Falc\u00f3n"
     ],
     "name:que_x_preferred":[
         "Falc\u00f3n suyu"
@@ -333,7 +359,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561827166,
+    "wof:lastmodified":1563238413,
     "wof:name":"Falc\u00f3n",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

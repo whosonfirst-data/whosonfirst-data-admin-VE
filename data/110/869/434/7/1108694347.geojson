@@ -30,12 +30,17 @@
     "mps:longitude":-72.416532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pedro Mar\u00eda Ure\u00f1a"
+    ],
+    "name:cat_x_preferred":[
+        "Pedro Mar\u00eda Ure\u00f1a"
+    ],
     "name:eng_x_preferred":[
         "Pedro Mar\u00eda Ure\u00f1a"
     ],
     "name:eng_x_variant":[
         "Pedro Maria Urena",
-        "Pedro Mar\u00eda Ure\u00f1a",
         "Pedro Mar\u00eda Ure\u00f1a Municipality"
     ],
     "name:fra_x_preferred":[
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1108694347,
-    "wof:lastmodified":1561827222,
+    "wof:lastmodified":1563240347,
     "wof:name":"Pedro Maria Ure\u00f1a",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

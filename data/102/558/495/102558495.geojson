@@ -12,6 +12,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Santa Rosa De Guanare Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Santa Rosa De Guanare"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Santa Rosa De Guanare"
+    ],
     "oa:elevation_ft":"429",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":102558495,
-    "wof:lastmodified":1543846096,
+    "wof:lastmodified":1563237882,
     "wof:name":"Santa Rosa de Guanare Airport",
     "wof:parent_id":85680503,
     "wof:placetype":"campus",

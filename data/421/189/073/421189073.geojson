@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Jim\u00e9nez"
+    ],
     "name:cat_x_preferred":[
         "Jim\u00e9nez"
     ],
@@ -42,7 +45,6 @@
     ],
     "name:eng_x_variant":[
         "Jimenez",
-        "Jim\u00e9nez",
         "Jim\u00e9nez Municipality"
     ],
     "name:epo_x_preferred":[
@@ -77,6 +79,9 @@
     ],
     "name:spa_x_preferred":[
         "Jim\u00e9nez"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Jim\u00e9nez"
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u6885\u5167\u65af\u5e02"
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":421189073,
-    "wof:lastmodified":1561827238,
+    "wof:lastmodified":1563241114,
     "wof:name":"Jimenez",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

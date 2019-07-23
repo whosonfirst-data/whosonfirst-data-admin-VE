@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "La Asunci\u00f3n"
     ],
+    "name:epo_x_preferred":[
+        "La Asunci\u00f3n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0622\u0633\u0648\u0646\u0633\u06cc\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "La Asunci\u00f3n"
     ],
@@ -57,6 +63,9 @@
         "La Asunci\u00f3n"
     ],
     "name:por_x_preferred":[
+        "La Asunci\u00f3n"
+    ],
+    "name:que_x_preferred":[
         "La Asunci\u00f3n"
     ],
     "name:ron_x_preferred":[
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":421181407,
-    "wof:lastmodified":1561827241,
+    "wof:lastmodified":1563241148,
     "wof:name":"La Asunci\u00f3n",
     "wof:parent_id":421170157,
     "wof:placetype":"locality",

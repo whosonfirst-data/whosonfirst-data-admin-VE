@@ -30,11 +30,16 @@
     "mps:longitude":-69.009245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Agua Blanca"
+    ],
     "name:eng_x_preferred":[
         "Agua Blanca"
     ],
     "name:eng_x_variant":[
-        "Agua Blanca",
         "Agua Blanca Municipality"
     ],
     "name:fra_x_preferred":[
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":1108694405,
-    "wof:lastmodified":1561827214,
+    "wof:lastmodified":1563240275,
     "wof:name":"San Rafael De Onoto",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

@@ -31,11 +31,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Iribarren"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Iribarren"
+    ],
     "name:eng_x_preferred":[
         "Iribarren"
     ],
     "name:eng_x_variant":[
-        "Iribarren",
         "Iribarren Municipality"
     ],
     "name:eus_x_preferred":[
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":421180895,
-    "wof:lastmodified":1561827238,
+    "wof:lastmodified":1563241096,
     "wof:name":"Iribarren",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

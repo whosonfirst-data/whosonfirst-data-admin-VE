@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Juan Jos\u00e9 Mora"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Juan Jos\u00e9 Mora"
+    ],
     "name:deu_x_preferred":[
         "Juan Jos\u00e9 Mora"
     ],
@@ -39,7 +45,6 @@
     ],
     "name:eng_x_variant":[
         "Juan Jose Mora",
-        "Juan Jos\u00e9 Mora",
         "Juan Jos\u00e9 Mora Municipality"
     ],
     "name:fra_x_preferred":[
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":421195495,
-    "wof:lastmodified":1561827235,
+    "wof:lastmodified":1563241057,
     "wof:name":"Juan Jose Mora",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

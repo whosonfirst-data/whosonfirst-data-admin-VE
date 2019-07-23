@@ -31,8 +31,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bri\u00f3n"
+    ],
     "name:ceb_x_preferred":[
         "Brion"
+    ],
+    "name:ceb_x_variant":[
+        "Municipio Bri\u00f3n"
     ],
     "name:deu_x_preferred":[
         "Brion"
@@ -42,7 +48,6 @@
     ],
     "name:eng_x_variant":[
         "Brion",
-        "Bri\u00f3n",
         "Bri\u00f3n Municipality"
     ],
     "name:fra_x_preferred":[
@@ -56,6 +61,9 @@
     ],
     "name:ita_x_preferred":[
         "Brion"
+    ],
+    "name:ita_x_variant":[
+        "Bri\u00f3n"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ea\u30aa\u30f3\u5e02"
@@ -90,6 +98,9 @@
     "name:por_x_preferred":[
         "Brion"
     ],
+    "name:por_x_variant":[
+        "Bri\u00f3n"
+    ],
     "name:ron_x_preferred":[
         "Brion"
     ],
@@ -101,6 +112,9 @@
     ],
     "name:spa_x_preferred":[
         "Brion"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Bri\u00f3n"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0438\u043e\u043d"
@@ -180,7 +194,7 @@
         }
     ],
     "wof:id":421171643,
-    "wof:lastmodified":1561827248,
+    "wof:lastmodified":1563241224,
     "wof:name":"Brion",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

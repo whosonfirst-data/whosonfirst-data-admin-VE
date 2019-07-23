@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0624\u0648\u0644 \u0644\u064a\u0648\u0646\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Bolivariano Angostura"
+    ],
     "name:cat_x_preferred":[
         "Ra\u00fal Leoni"
     ],
@@ -45,8 +48,8 @@
     ],
     "name:eng_x_variant":[
         "Raul Leoni",
-        "Angostura",
-        "Ra\u00fal Leoni Municipality"
+        "Ra\u00fal Leoni Municipality",
+        "Bolivariano Angostura"
     ],
     "name:fra_x_preferred":[
         "Ra\u00fal Leoni"
@@ -62,6 +65,9 @@
     ],
     "name:ita_x_preferred":[
         "Ra\u00fal Leoni"
+    ],
+    "name:ita_x_variant":[
+        "Angostura"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d2\u10dd\u10e1\u10e2\u10e3\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
@@ -83,6 +89,9 @@
     ],
     "name:spa_x_preferred":[
         "Ra\u00fal Leoni"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Bolivariano Angostura"
     ],
     "name:vie_x_preferred":[
         "Ra\u00fal Leoni"
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":421196981,
-    "wof:lastmodified":1561827242,
+    "wof:lastmodified":1563241169,
     "wof:name":"Raul Leoni",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

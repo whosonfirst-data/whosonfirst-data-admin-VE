@@ -15,11 +15,23 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Tur\u00e9n"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Tur\u00e9n"
+    ],
     "name:eng_x_preferred":[
         "Tur\u00e9n Municipality"
     ],
+    "name:eng_x_variant":[
+        "Tur\u00e9n"
+    ],
     "name:fra_x_preferred":[
         "Tur\u00e9n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05df"
     ],
     "name:ita_x_preferred":[
         "Tur\u00e9n"
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":890434707,
-    "wof:lastmodified":1561827253,
+    "wof:lastmodified":1563241259,
     "wof:name":"Villa Bruzual",
     "wof:parent_id":1108694461,
     "wof:placetype":"locality",

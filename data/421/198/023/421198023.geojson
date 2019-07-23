@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0989\u09a6\u09be\u09a6"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09bf\u0989\u09a6\u09be\u09a6 \u0993\u09b9\u09c7\u09a6\u09be"
+    ],
     "name:dan_x_preferred":[
         "Ciudad Ojeda"
     ],
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421198023,
-    "wof:lastmodified":1561827241,
+    "wof:lastmodified":1563241161,
     "wof:name":"Ciudad Ojeda",
     "wof:parent_id":1108694239,
     "wof:placetype":"locality",

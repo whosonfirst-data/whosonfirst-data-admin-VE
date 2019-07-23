@@ -34,8 +34,14 @@
     "name:arg_x_preferred":[
         "Municipio Mu\u00f1oz"
     ],
+    "name:ast_x_preferred":[
+        "Mu\u00f1oz"
+    ],
     "name:ceb_x_preferred":[
         "Mu\u00f1oz"
+    ],
+    "name:ceb_x_variant":[
+        "Municipio Mu\u00f1oz"
     ],
     "name:deu_x_preferred":[
         "Mu\u00f1oz"
@@ -45,7 +51,6 @@
     ],
     "name:eng_x_variant":[
         "Autonomo Munoz",
-        "Mu\u00f1oz",
         "Mu\u00f1oz Municipality"
     ],
     "name:fra_x_preferred":[
@@ -71,6 +76,9 @@
     ],
     "name:spa_x_preferred":[
         "Mu\u00f1oz"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Mu\u00f1oz"
     ],
     "name:swe_x_preferred":[
         "Mu\u00f1oz"
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":421202593,
-    "wof:lastmodified":1561827236,
+    "wof:lastmodified":1563241080,
     "wof:name":"Mu\u00f1oz",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

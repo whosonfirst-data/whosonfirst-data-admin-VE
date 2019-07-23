@@ -12,6 +12,33 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paraguana / Josefa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062e\u0648\u0632\u0641\u0627 \u06a9\u0627\u0645\u062e\u0648"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Josefa Camejo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30bb\u30d5\u30a1\u30fb\u30ab\u30e1\u30db\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Josefa Camejo"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Josefa Camejo"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Josefa Camejo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Josefa Camejo"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0445\u0443\u0437\u0444\u043e \u043a\u043e\u043c\u0445\u0443"
+    ],
     "oa:elevation_ft":"75",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -45,7 +72,7 @@
         }
     ],
     "wof:id":102558637,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563237882,
     "wof:name":"Josefa Camejo Airport",
     "wof:parent_id":85680461,
     "wof:placetype":"campus",

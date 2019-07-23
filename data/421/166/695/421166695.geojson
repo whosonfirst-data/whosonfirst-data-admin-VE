@@ -31,13 +31,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Antonio D\u00edaz"
+    ],
     "name:eng_x_preferred":[
         "D\u00edaz"
     ],
     "name:eng_x_variant":[
         "Diaz",
-        "D\u00edaz",
-        "Antonio D\u00edaz Municipality"
+        "Antonio D\u00edaz Municipality",
+        "Antonio D\u00edaz"
     ],
     "name:fra_x_preferred":[
         "Antonio D\u00edaz"
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421166695,
-    "wof:lastmodified":1561827234,
+    "wof:lastmodified":1563241041,
     "wof:name":"Diaz",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

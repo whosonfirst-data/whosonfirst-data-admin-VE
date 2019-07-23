@@ -14,16 +14,88 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0643\u0648\u0628\u064a\u062a\u0627"
+    ],
     "name:arg_x_preferred":[
         "Tucupita"
     ],
+    "name:aym_x_preferred":[
+        "Tucupita"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09c1\u0995\u09cb\u09aa\u09bf\u09a4\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Tucupita"
+    ],
+    "name:ceb_x_preferred":[
+        "Tucupita"
+    ],
+    "name:dan_x_preferred":[
+        "Tucupita"
+    ],
+    "name:deu_x_preferred":[
+        "Tucupita"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03ba\u03bf\u03c5\u03c0\u03af\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Tucupita"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u067e\u06cc\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
         "Tucupita"
     ],
     "name:fra_x_preferred":[
         "Tucupita"
     ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0ac1\u0a95\u0ac1\u0aaa\u0abf\u0a9f\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0941\u0915\u0941\u092a\u093f\u0924\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Tucupita"
+    ],
+    "name:ind_x_preferred":[
+        "Tucupita"
+    ],
+    "name:ita_x_preferred":[
+        "Tucupita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30af\u30d4\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cc1\u0c95\u0cc1\u0caa\u0cbf\u0c9f\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10d9\u10e3\u10de\u10d8\u10e2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\ucfe0\ud53c\ud0c0"
+    ],
+    "name:lav_x_preferred":[
+        "Tukupita"
+    ],
+    "name:lit_x_preferred":[
+        "Tukupita"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0941\u0915\u092a\u093f\u091f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Tucupita"
+    ],
     "name:nld_x_preferred":[
+        "Tucupita"
+    ],
+    "name:nob_x_preferred":[
         "Tucupita"
     ],
     "name:nor_x_preferred":[
@@ -35,11 +107,50 @@
     "name:por_x_preferred":[
         "Tucupita"
     ],
+    "name:que_x_preferred":[
+        "Tucupita"
+    ],
+    "name:ron_x_preferred":[
+        "Tucupita"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u043a\u0443\u043f\u0438\u0442\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dd4\u0d9a\u0dd4\u0db4\u0dd2\u0da7\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Tucupita"
+    ],
+    "name:swe_x_preferred":[
+        "Tucupita"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc1\u0b95\u0bc1\u0baa\u0bbf\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c41\u0c38\u0c41\u0c2a\u0c3f\u0c24\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e39\u0e04\u0e39\u0e1e\u0e34\u0e15\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Tucupita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u043f\u0456\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u067e\u06cc\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Tucupita"
+    ],
+    "name:war_x_preferred":[
+        "Tucupita"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u5eab\u76ae\u5854"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Venezuela",
@@ -183,7 +294,7 @@
         }
     ],
     "wof:id":421174831,
-    "wof:lastmodified":1527716230,
+    "wof:lastmodified":1563241093,
     "wof:name":"Tucupita",
     "wof:parent_id":421191753,
     "wof:placetype":"locality",

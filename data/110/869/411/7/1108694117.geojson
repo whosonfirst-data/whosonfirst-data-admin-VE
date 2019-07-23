@@ -30,12 +30,17 @@
     "mps:longitude":-67.691667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Arismendi"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Arismendi"
+    ],
     "name:eng_x_preferred":[
         "Arismendi"
     ],
     "name:eng_x_variant":[
         "Autonomo Biruaca",
-        "Arismendi",
         "Arismendi"
     ],
     "name:fra_x_preferred":[
@@ -46,6 +51,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10d8\u10e1\u10db\u10d4\u10dc\u10d3\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:lad_x_preferred":[
+        "Arismendi"
     ],
     "name:nan_x_preferred":[
         "Arismendi"
@@ -86,7 +94,7 @@
         }
     ],
     "wof:id":1108694117,
-    "wof:lastmodified":1561827221,
+    "wof:lastmodified":1563240333,
     "wof:name":"Biruaca",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

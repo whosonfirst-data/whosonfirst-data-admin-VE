@@ -34,11 +34,16 @@
     "name:arg_x_preferred":[
         "Municipio Camatagua"
     ],
+    "name:ast_x_preferred":[
+        "Camatagua"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Camatagua"
+    ],
     "name:eng_x_preferred":[
         "Camatagua"
     ],
     "name:eng_x_variant":[
-        "Camatagua",
         "Camatagua Municipality"
     ],
     "name:fra_x_preferred":[
@@ -59,8 +64,14 @@
     "name:sco_x_preferred":[
         "Camatagua"
     ],
+    "name:sco_x_variant":[
+        "Camatagua Municipality"
+    ],
     "name:spa_x_preferred":[
         "Camatagua"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Camatagua"
     ],
     "name:vie_x_preferred":[
         "Camatagua"
@@ -132,7 +143,7 @@
         }
     ],
     "wof:id":421193519,
-    "wof:lastmodified":1561827236,
+    "wof:lastmodified":1563241066,
     "wof:name":"Camatagua",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

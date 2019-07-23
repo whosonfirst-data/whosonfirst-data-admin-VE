@@ -33,14 +33,19 @@
     "name:arg_x_preferred":[
         "Municipio Santos Michelena"
     ],
+    "name:ast_x_preferred":[
+        "Santos Michelena"
+    ],
     "name:cat_x_preferred":[
         "Santos Michelena"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Santos Michelena"
     ],
     "name:eng_x_preferred":[
         "Santos Michelena"
     ],
     "name:eng_x_variant":[
-        "Santos Michelena",
         "Santos Michelena Municipality"
     ],
     "name:fra_x_preferred":[
@@ -112,7 +117,7 @@
         }
     ],
     "wof:id":1108694419,
-    "wof:lastmodified":1561827216,
+    "wof:lastmodified":1563240285,
     "wof:name":"Santos Michelena",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

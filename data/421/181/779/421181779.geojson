@@ -34,12 +34,14 @@
     "name:arg_x_preferred":[
         "Municipio P\u00edritu"
     ],
+    "name:ast_x_preferred":[
+        "P\u00edritu"
+    ],
     "name:eng_x_preferred":[
         "P\u00edritu"
     ],
     "name:eng_x_variant":[
         "Piritu",
-        "P\u00edritu",
         "P\u00edritu"
     ],
     "name:fra_x_preferred":[
@@ -62,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "Isletas de P\u00edritu"
+    ],
+    "name:spa_x_variant":[
+        "Municipio P\u00edritu"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u91cc\u5716\u5e02"
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":421181779,
-    "wof:lastmodified":1561827241,
+    "wof:lastmodified":1563241150,
     "wof:name":"Piritu",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

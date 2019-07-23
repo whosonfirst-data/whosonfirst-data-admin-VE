@@ -33,11 +33,16 @@
     "name:arg_x_preferred":[
         "Municipio San Casimiro"
     ],
+    "name:ast_x_preferred":[
+        "San Casimiro"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio San Casimiro"
+    ],
     "name:eng_x_preferred":[
         "San Casimiro"
     ],
     "name:eng_x_variant":[
-        "San Casimiro",
         "San Casimiro Municipality"
     ],
     "name:fra_x_preferred":[
@@ -106,7 +111,7 @@
         }
     ],
     "wof:id":1108694387,
-    "wof:lastmodified":1561827219,
+    "wof:lastmodified":1563240308,
     "wof:name":"San Casimiro",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

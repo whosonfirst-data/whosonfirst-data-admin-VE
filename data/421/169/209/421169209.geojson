@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Vargas Municipality"
+    ],
     "name:bre_x_preferred":[
         "Vargas"
     ],
@@ -50,7 +53,6 @@
         "Vargas"
     ],
     "name:eng_x_variant":[
-        "Vargas",
         "Vargas Municipality"
     ],
     "name:epo_x_preferred":[
@@ -92,8 +94,15 @@
     "name:sco_x_preferred":[
         "Vargas"
     ],
+    "name:sco_x_variant":[
+        "Tovar",
+        "Vargas Municipality"
+    ],
     "name:spa_x_preferred":[
         "Vargas"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Vargas"
     ],
     "name:swe_x_preferred":[
         "Vargas"
@@ -161,7 +170,7 @@
         }
     ],
     "wof:id":421169209,
-    "wof:lastmodified":1561827236,
+    "wof:lastmodified":1563241072,
     "wof:name":"Vargas",
     "wof:parent_id":85680533,
     "wof:placetype":"county",

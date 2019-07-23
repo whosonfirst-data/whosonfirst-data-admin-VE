@@ -31,16 +31,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tur\u00e9n"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Tur\u00e9n"
+    ],
     "name:eng_x_preferred":[
         "Tur\u00e9n"
     ],
     "name:eng_x_variant":[
         "Turen",
-        "Tur\u00e9n",
         "Tur\u00e9n"
     ],
     "name:fra_x_preferred":[
         "Tur\u00e9n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05df"
     ],
     "name:ita_x_preferred":[
         "Tur\u00e9n"
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":421202057,
-    "wof:lastmodified":1561827237,
+    "wof:lastmodified":1563241086,
     "wof:name":"Paez",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

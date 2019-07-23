@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Marcano"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Marcano"
+    ],
     "name:deu_x_preferred":[
         "Marcano"
     ],
@@ -38,7 +44,6 @@
         "Marcano"
     ],
     "name:eng_x_variant":[
-        "Marcano",
         "Marcano Municipality"
     ],
     "name:fra_x_preferred":[
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":421196983,
-    "wof:lastmodified":1561827242,
+    "wof:lastmodified":1563241165,
     "wof:name":"Marcano",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

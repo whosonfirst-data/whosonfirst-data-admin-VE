@@ -32,6 +32,12 @@
     "name:arg_x_preferred":[
         "Estato Zulia"
     ],
+    "name:ast_x_preferred":[
+        "Zulia"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0644\u06cc\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0421\u0443\u043b\u0456\u044f"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:cat_x_preferred":[
         "Zulia"
+    ],
+    "name:ceb_x_preferred":[
+        "Estado Zulia"
     ],
     "name:ces_x_preferred":[
         "Zulia"
@@ -71,6 +80,12 @@
     "name:est_x_preferred":[
         "Zulia osariik"
     ],
+    "name:est_x_variant":[
+        "Zulia"
+    ],
+    "name:eus_x_preferred":[
+        "Zulia"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0644\u06cc\u0627"
     ],
@@ -79,6 +94,9 @@
     ],
     "name:fra_x_preferred":[
         "\u00c9tat de Zulia"
+    ],
+    "name:fra_x_variant":[
+        "Zulia"
     ],
     "name:glg_x_preferred":[
         "Zulia"
@@ -116,6 +134,9 @@
     "name:kor_x_preferred":[
         "\uc220\ub9ac\uc544",
         "\uc220\ub9ac\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc220\ub9ac\uc544\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Zulia"
@@ -362,7 +383,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561827167,
+    "wof:lastmodified":1563238418,
     "wof:name":"Zulia",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

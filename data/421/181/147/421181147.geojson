@@ -61,6 +61,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06af\u0648\u0627\u0631\u062f\u06cc\u0627\u060c \u0627\u0633\u0644\u0627 \u0645\u0627\u0631\u06af\u0627\u0631\u06cc\u062a\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u06af\u0648\u0627\u0631\u062f\u06cc\u0627"
+    ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3637702,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421181147,
-    "wof:lastmodified":1561827241,
+    "wof:lastmodified":1563241155,
     "wof:name":"La Guardia",
     "wof:parent_id":421166695,
     "wof:placetype":"locality",

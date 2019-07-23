@@ -15,14 +15,23 @@
     "name:ceb_x_preferred":[
         "Gale\u00e3o"
     ],
+    "name:eng_x_preferred":[
+        "Rio De Agua Airport"
+    ],
     "name:fra_x_preferred":[
         "Gale\u00e3o"
     ],
     "name:ita_x_preferred":[
         "Gale\u00e3o"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Rio De Agua"
+    ],
     "name:por_x_preferred":[
         "Gale\u00e3o"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Rio De Agua"
     ],
     "name:swe_x_preferred":[
         "Gale\u00e3o"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":102558607,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563237883,
     "wof:name":"Rio de Agua Airport",
     "wof:parent_id":85680561,
     "wof:placetype":"campus",

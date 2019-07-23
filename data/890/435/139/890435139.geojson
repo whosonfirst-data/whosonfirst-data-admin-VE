@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0430\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Petare"
+    ],
     "name:dan_x_preferred":[
         "Petare"
     ],
@@ -37,6 +40,9 @@
         "Petare"
     ],
     "name:epo_x_preferred":[
+        "Petare"
+    ],
+    "name:eus_x_preferred":[
         "Petare"
     ],
     "name:fin_x_preferred":[
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890435139,
-    "wof:lastmodified":1561827254,
+    "wof:lastmodified":1563241263,
     "wof:name":"Petare",
     "wof:parent_id":421171381,
     "wof:placetype":"locality",

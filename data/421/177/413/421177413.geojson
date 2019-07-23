@@ -34,6 +34,9 @@
     "name:arg_x_preferred":[
         "Villalba"
     ],
+    "name:ast_x_preferred":[
+        "Villalba"
+    ],
     "name:bre_x_preferred":[
         "Villalba"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ceb_x_preferred":[
         "Villalba"
+    ],
+    "name:ceb_x_variant":[
+        "Municipio Villalba"
     ],
     "name:deu_x_preferred":[
         "Villalba"
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421177413,
-    "wof:lastmodified":1561827246,
+    "wof:lastmodified":1563241209,
     "wof:name":"Villalba",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

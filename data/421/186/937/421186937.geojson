@@ -35,6 +35,9 @@
     "name:ast_x_preferred":[
         "M\u00e9rida"
     ],
+    "name:aym_x_preferred":[
+        "M\u00e9rida"
+    ],
     "name:aze_x_preferred":[
         "Merida"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0435\u0440\u044b\u0434\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0435\u0440\u044b\u0434\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b0\u09bf\u09a1\u09be"
@@ -63,6 +69,9 @@
         "\u041c\u0435\u0440\u0438\u0434\u0430"
     ],
     "name:cat_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:ceb_x_preferred":[
         "M\u00e9rida"
     ],
     "name:ces_x_preferred":[
@@ -332,8 +341,14 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0456\u0434\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0435\u0440\u0438\u0434\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0631\u06cc\u062f\u0627\u060c \u0645\u06cc\u0631\u06cc\u062f\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u0631\u06cc\u062f\u0627"
     ],
     "name:vec_x_preferred":[
         "M\u00e9rida"
@@ -506,7 +521,7 @@
         }
     ],
     "wof:id":421186937,
-    "wof:lastmodified":1561827240,
+    "wof:lastmodified":1563241133,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

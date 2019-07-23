@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Santa Ana de Coro"
     ],
+    "name:ceb_x_preferred":[
+        "Coro"
+    ],
     "name:ces_x_preferred":[
         "Coro"
     ],
@@ -99,6 +102,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ed"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b3\u30ed\u3068\u305d\u306e\u6e2f"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb0\u0cca"
@@ -334,7 +340,7 @@
         }
     ],
     "wof:id":890442143,
-    "wof:lastmodified":1561827252,
+    "wof:lastmodified":1563241251,
     "wof:name":"Coro",
     "wof:parent_id":1108694291,
     "wof:placetype":"locality",

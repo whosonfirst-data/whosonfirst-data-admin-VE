@@ -19,7 +19,13 @@
     "name:eng_x_preferred":[
         "Choroni"
     ],
+    "name:eng_x_variant":[
+        "Choron\u00ed"
+    ],
     "name:fra_x_preferred":[
+        "Choron\u00ed"
+    ],
+    "name:nld_x_preferred":[
         "Choron\u00ed"
     ],
     "name:por_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421202929,
-    "wof:lastmodified":1527716212,
+    "wof:lastmodified":1563241088,
     "wof:name":"Choron\u00ed",
     "wof:parent_id":421171995,
     "wof:placetype":"locality",

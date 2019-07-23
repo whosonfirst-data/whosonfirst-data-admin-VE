@@ -22,6 +22,9 @@
     "name:ces_x_preferred":[
         "Rubio"
     ],
+    "name:dan_x_preferred":[
+        "Rubio"
+    ],
     "name:deu_x_preferred":[
         "Rubio"
     ],
@@ -72,6 +75,12 @@
     ],
     "name:spa_x_preferred":[
         "Rubi\u00f3"
+    ],
+    "name:spa_x_variant":[
+        "Rubio"
+    ],
+    "name:swe_x_preferred":[
+        "Rubio"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u6bd4\u5967"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":421202093,
-    "wof:lastmodified":1561827237,
+    "wof:lastmodified":1563241087,
     "wof:name":"Rubio",
     "wof:parent_id":421203511,
     "wof:placetype":"locality",

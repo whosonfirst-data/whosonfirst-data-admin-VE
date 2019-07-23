@@ -37,7 +37,13 @@
     "name:cat_x_preferred":[
         "Petit"
     ],
+    "name:ces_x_preferred":[
+        "Petit"
+    ],
     "name:deu_x_preferred":[
+        "Petit"
+    ],
+    "name:eng_x_preferred":[
         "Petit"
     ],
     "name:eng_x_variant":[
@@ -73,6 +79,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u514b\u8482\u4e9e"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":421169951,
-    "wof:lastmodified":1554488751,
+    "wof:lastmodified":1563241070,
     "wof:name":"Petit",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

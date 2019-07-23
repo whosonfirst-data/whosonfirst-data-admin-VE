@@ -50,6 +50,9 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0ab2\u0ac7\u0ab0\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0932\u0947\u0930\u093e"
     ],
@@ -111,6 +114,9 @@
         "Valera"
     ],
     "name:swe_x_preferred":[
+        "Valera"
+    ],
+    "name:szl_x_preferred":[
         "Valera"
     ],
     "name:tam_x_preferred":[
@@ -286,7 +292,7 @@
         }
     ],
     "wof:id":421172767,
-    "wof:lastmodified":1561827239,
+    "wof:lastmodified":1563241126,
     "wof:name":"Valera",
     "wof:parent_id":1108694477,
     "wof:placetype":"locality",

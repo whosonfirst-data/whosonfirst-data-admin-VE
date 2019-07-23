@@ -30,12 +30,17 @@
     "mps:longitude":-63.775085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Mej\u00eda"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Mej\u00eda"
+    ],
     "name:eng_x_preferred":[
         "Mej\u00eda"
     ],
     "name:eng_x_variant":[
         "Mejia",
-        "Mej\u00eda",
         "Mej\u00eda Municipality"
     ],
     "name:fra_x_preferred":[
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1108694285,
-    "wof:lastmodified":1561827220,
+    "wof:lastmodified":1563240315,
     "wof:name":"Mejia",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

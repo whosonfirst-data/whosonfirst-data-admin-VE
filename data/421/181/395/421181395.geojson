@@ -23,6 +23,9 @@
     "name:arg_x_preferred":[
         "Maracay"
     ],
+    "name:aym_x_preferred":[
+        "Marakay"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0439"
     ],
@@ -33,6 +36,9 @@
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0439"
     ],
     "name:cat_x_preferred":[
+        "Maracay"
+    ],
+    "name:ceb_x_preferred":[
         "Maracay"
     ],
     "name:ces_x_preferred":[
@@ -335,7 +341,7 @@
         }
     ],
     "wof:id":421181395,
-    "wof:lastmodified":1561827241,
+    "wof:lastmodified":1563241151,
     "wof:name":"Maracay",
     "wof:parent_id":421171995,
     "wof:placetype":"locality",

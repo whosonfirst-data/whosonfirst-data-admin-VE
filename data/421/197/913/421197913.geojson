@@ -25,11 +25,17 @@
     "name:arg_x_preferred":[
         "Ciudat Guayana"
     ],
+    "name:ast_x_preferred":[
+        "Ciudad Guayana"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09bf\u0989\u09a6\u09be\u09a6 \u0997\u09af\u09bc\u09be\u09a8\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u0443\u0434\u0430\u0434 \u0413\u0443\u0430\u044f\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ciudad Guayana"
     ],
     "name:dan_x_preferred":[
         "Ciudad Guayana"
@@ -45,6 +51,12 @@
     ],
     "name:epo_x_preferred":[
         "Guayana"
+    ],
+    "name:epo_x_variant":[
+        "Ciudad Guayana"
+    ],
+    "name:eus_x_preferred":[
+        "Ciudad Guayana"
     ],
     "name:fin_x_preferred":[
         "Ciudad Guayana"
@@ -220,7 +232,7 @@
         }
     ],
     "wof:id":421197913,
-    "wof:lastmodified":1561827244,
+    "wof:lastmodified":1563241182,
     "wof:name":"Ciudad Guayana",
     "wof:parent_id":421190237,
     "wof:placetype":"locality",

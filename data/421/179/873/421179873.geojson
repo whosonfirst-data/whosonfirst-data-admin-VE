@@ -17,17 +17,86 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u064a\u0645\u0627\u0633"
     ],
+    "name:arg_x_preferred":[
+        "Cabimas"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09be\u09ac\u09bf\u09ae\u09be\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0431\u0438\u043c\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Cabimas"
+    ],
+    "name:dan_x_preferred":[
+        "Cabimas"
+    ],
+    "name:deu_x_preferred":[
+        "Cabimas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03af\u03bc\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Cabimas"
     ],
+    "name:epo_x_preferred":[
+        "Cabimas"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0628\u06cc\u0645\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Cabimas"
+    ],
+    "name:fra_x_preferred":[
+        "Cabimas"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0aac\u0abf\u0aae\u0abe\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u092c\u0940\u092e\u093e\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Cabimas"
+    ],
+    "name:ita_x_preferred":[
+        "Cabimas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d3\u30de\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cbe\u0cac\u0cbf\u0cae\u0cbe\u0cb8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10d1\u10d8\u10db\u10d0\u10e1\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\uce74\ube44\ub9c8\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Kabimasa"
+    ],
     "name:lit_x_preferred":[
         "Kabimasas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0945\u092c\u093f\u092e\u093e\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Cabimas"
+    ],
+    "name:nld_x_preferred":[
+        "Cabimas"
+    ],
+    "name:nno_x_preferred":[
+        "Cabimas"
+    ],
+    "name:nob_x_preferred":[
+        "Cabimas"
     ],
     "name:pol_x_preferred":[
         "Cabimas"
@@ -38,11 +107,44 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0431\u0438\u043c\u0430\u0441"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0db6\u0dd2\u0db8\u0dcf\u0dc3\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Cabimas"
     ],
+    "name:swe_x_preferred":[
+        "Cabimas"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0baa\u0bc0\u0bae\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c2c\u0c3f\u0c2e\u0c3e\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e32\u0e1a\u0e34\u0e21\u0e32\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Cabimas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0431\u0456\u043c\u0430\u0441"
+    ],
     "name:unk_x_variant":[
         "Caramas"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0628\u06cc\u0645\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Cabimas"
+    ],
+    "name:vol_x_preferred":[
+        "Cabimas"
+    ],
+    "name:war_x_preferred":[
+        "Cabimas"
     ],
     "name:zho_x_preferred":[
         "\u5361\u7dad\u99ac\u65af"
@@ -190,7 +292,7 @@
         }
     ],
     "wof:id":421179873,
-    "wof:lastmodified":1527717703,
+    "wof:lastmodified":1563241217,
     "wof:name":"Cabimas",
     "wof:parent_id":421202059,
     "wof:placetype":"locality",

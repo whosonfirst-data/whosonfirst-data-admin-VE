@@ -32,11 +32,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Puerto Cabello"
+    ],
     "name:eng_x_preferred":[
         "Puerto Cabello"
     ],
     "name:eng_x_variant":[
-        "Puerto Cabello",
         "Puerto Cabello Municipality"
     ],
     "name:fra_x_preferred":[
@@ -240,7 +245,7 @@
         }
     ],
     "wof:id":421198089,
-    "wof:lastmodified":1561827242,
+    "wof:lastmodified":1563241162,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

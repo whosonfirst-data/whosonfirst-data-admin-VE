@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Acosta"
+    ],
     "name:cat_x_preferred":[
         "Acosta"
     ],
@@ -44,11 +47,13 @@
         "Acosta"
     ],
     "name:eng_x_variant":[
-        "Acosta",
         "Acosta"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631 \u0627\u06a9\u0648\u0633\u062a\u0627\u060c \u0641\u0627\u0644\u06a9\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631 \u0627\u06a9\u0648\u0633\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Acosta"
@@ -85,6 +90,9 @@
     ],
     "name:spa_x_preferred":[
         "Acosta"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Acosta"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u6d6a\u535a\u5ba2"
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":421185127,
-    "wof:lastmodified":1561827249,
+    "wof:lastmodified":1563241235,
     "wof:name":"Acosta",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

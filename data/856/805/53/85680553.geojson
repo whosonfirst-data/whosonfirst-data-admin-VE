@@ -32,6 +32,12 @@
     "name:arg_x_preferred":[
         "Estato Miranda"
     ],
+    "name:ast_x_preferred":[
+        "Miranda"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0631\u0627\u0646\u062f\u0627 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041c\u0456\u0440\u0430\u043d\u0434\u0430"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat de Miranda"
+    ],
+    "name:ceb_x_preferred":[
+        "Miranda"
     ],
     "name:ces_x_preferred":[
         "Miranda"
@@ -74,6 +83,9 @@
     "name:est_x_preferred":[
         "Miranda osariik"
     ],
+    "name:eus_x_preferred":[
+        "Miranda"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0645\u06cc\u0631\u0627\u0646\u062f\u0627"
     ],
@@ -82,6 +94,9 @@
     ],
     "name:fra_x_preferred":[
         "\u00c9tat de Miranda"
+    ],
+    "name:fra_x_variant":[
+        "Miranda"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab0\u0abe\u0aa8\u0acd\u0aa1\u0abe"
@@ -112,6 +127,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubbf8\ub780\ub2e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbf8\ub780\ub2e4\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Miranda"
@@ -154,6 +172,9 @@
     ],
     "name:por_x_preferred":[
         "Estado Miranda"
+    ],
+    "name:por_x_variant":[
+        "Miranda"
     ],
     "name:que_x_preferred":[
         "Miranda suyu"
@@ -338,7 +359,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561827171,
+    "wof:lastmodified":1563238440,
     "wof:name":"Miranda",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
