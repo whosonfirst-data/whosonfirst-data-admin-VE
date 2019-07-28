@@ -25,6 +25,27 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Guacharaca"
+    ],
+    "name:cat_x_preferred":[
+        "Guacharaca"
+    ],
+    "name:deu_x_preferred":[
+        "Guacharaca"
+    ],
+    "name:glg_x_preferred":[
+        "Guacharaca"
+    ],
+    "name:ita_x_preferred":[
+        "Guacharaca"
+    ],
+    "name:por_x_preferred":[
+        "Guacharaca"
+    ],
+    "name:spa_x_preferred":[
+        "Guacharaca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1292915243,
-    "wof:lastmodified":1536615548,
+    "wof:lastmodified":1564303732,
     "wof:name":"Guacharaca",
     "wof:parent_id":421172597,
     "wof:placetype":"locality",

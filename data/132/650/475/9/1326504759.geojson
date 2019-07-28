@@ -26,8 +26,17 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Irapa"
+    ],
+    "name:por_x_preferred":[
+        "Irapa"
+    ],
     "name:spa_x_preferred":[
         "Irapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u62c9\u5e15"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326504759,
-    "wof:lastmodified":1537713581,
+    "wof:lastmodified":1564302334,
     "wof:name":"Irapa",
     "wof:parent_id":1108694275,
     "wof:placetype":"locality",

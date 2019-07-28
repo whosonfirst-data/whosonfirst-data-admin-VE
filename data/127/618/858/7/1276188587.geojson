@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saladero"
+    ],
+    "name:por_x_preferred":[
+        "Charqueada"
+    ],
+    "name:spa_x_preferred":[
+        "Saladero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276188587,
-    "wof:lastmodified":1536972574,
+    "wof:lastmodified":1564304095,
     "wof:name":"Saladero",
     "wof:parent_id":1108694431,
     "wof:placetype":"locality",

@@ -30,9 +30,72 @@
     "mps:longitude":-62.41383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Sotillo"
+    ],
+    "name:ceb_x_preferred":[
+        "Sotillo"
+    ],
+    "name:deu_x_preferred":[
+        "Sotillo"
+    ],
     "name:eng_x_variant":[
         "Sotillo",
         "Uracoa"
+    ],
+    "name:eus_x_preferred":[
+        "Sotillo"
+    ],
+    "name:fra_x_preferred":[
+        "Sotillo"
+    ],
+    "name:hun_x_preferred":[
+        "Sotillo"
+    ],
+    "name:ina_x_preferred":[
+        "Sotillo"
+    ],
+    "name:ita_x_preferred":[
+        "Sotillo"
+    ],
+    "name:msa_x_preferred":[
+        "Sotillo"
+    ],
+    "name:nld_x_preferred":[
+        "Sotillo"
+    ],
+    "name:oci_x_preferred":[
+        "Sotillo"
+    ],
+    "name:pol_x_preferred":[
+        "Sotillo"
+    ],
+    "name:por_x_preferred":[
+        "Sotillo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0442\u0438\u043b\u044c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Sotillo"
+    ],
+    "name:swe_x_preferred":[
+        "Sotillo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0442\u0456\u043b\u044c\u0439\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Sotillo"
+    ],
+    "name:vie_x_preferred":[
+        "Sotillo"
+    ],
+    "name:war_x_preferred":[
+        "Sotillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u8482\u7565"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -57,7 +120,7 @@
         }
     ],
     "wof:id":1108694431,
-    "wof:lastmodified":1554489242,
+    "wof:lastmodified":1564305521,
     "wof:name":"Sotillo",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

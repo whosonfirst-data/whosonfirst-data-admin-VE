@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Apisa"
+    ],
+    "name:ron_x_preferred":[
+        "Apisa"
+    ],
+    "name:swe_x_preferred":[
+        "Apisa"
+    ],
+    "name:vie_x_preferred":[
+        "Apisa"
+    ],
+    "name:war_x_preferred":[
+        "Apisa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243520077,
-    "wof:lastmodified":1536699770,
+    "wof:lastmodified":1564306542,
     "wof:name":"Apisa",
     "wof:parent_id":1108694063,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Obispo"
+    ],
+    "name:deu_x_preferred":[
+        "Obispo"
+    ],
+    "name:fra_x_preferred":[
+        "Obispo"
+    ],
+    "name:ita_x_preferred":[
+        "Obispo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0438\u0441\u043f\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Obispo"
+    ],
+    "name:tgl_x_preferred":[
+        "Obispo"
+    ],
     "name:und_x_variant":[
         "Obispos",
         "Obispo"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1226119793,
-    "wof:lastmodified":1537713535,
+    "wof:lastmodified":1564307654,
     "wof:name":"Obispo",
     "wof:parent_id":1108694189,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30a2\u30c9\u30d5\u30f3\u30bf\u30b9\u99c5"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Las Adjuntas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +40,7 @@
         "gn:id":3794872
     },
     "wof:country":"VE",
-    "wof:geomhash":"2e00d85ca36d09d3f873f203de620229",
+    "wof:geomhash":"fc6aad2acb74c0fa5e29d1a03bc00b7d",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209273367,
-    "wof:lastmodified":1536292281,
+    "wof:lastmodified":1564304946,
     "wof:name":"Las Adjuntas",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
 },
   "bbox": [
     -72.42005,
-    7.770939999999999,
+    7.77094,
     -72.42005,
-    7.770939999999999
+    7.77094
 ],
   "geometry": {"coordinates":[-72.42005,7.77094],"type":"Point"}
 }

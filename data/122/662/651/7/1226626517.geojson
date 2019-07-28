@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Adaro"
+    ],
+    "name:fra_x_preferred":[
+        "Adaro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1226626517,
-    "wof:lastmodified":1536886783,
+    "wof:lastmodified":1564308016,
     "wof:name":"Adaro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

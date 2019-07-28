@@ -34,10 +34,16 @@
     "name:ast_x_preferred":[
         "Eres"
     ],
+    "name:deu_x_preferred":[
+        "Heres"
+    ],
     "name:eng_x_preferred":[
         "Heres"
     ],
     "name:eng_x_variant":[
+        "Heres"
+    ],
+    "name:fra_x_preferred":[
         "Heres"
     ],
     "name:spa_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421171639,
-    "wof:lastmodified":1554488764,
+    "wof:lastmodified":1564306461,
     "wof:name":"Heres",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

@@ -30,6 +30,9 @@
         "Punta de Mota",
         "Punta de Mata"
     ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u5fb7\u99ac\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1344228587,
-    "wof:lastmodified":1537713526,
+    "wof:lastmodified":1564302805,
     "wof:name":"Punta de Mata",
     "wof:parent_id":1108694183,
     "wof:placetype":"locality",

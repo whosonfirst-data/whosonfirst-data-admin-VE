@@ -25,6 +25,24 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:deu_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:fra_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:por_x_preferred":[
+        "Novo Mundo"
+    ],
+    "name:spa_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:swe_x_preferred":[
+        "Nuevo Mundo"
+    ],
     "name:und_x_variant":[
         "Mundo Nuevo",
         "Nuevo Mundo"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276963701,
-    "wof:lastmodified":1537713536,
+    "wof:lastmodified":1564304489,
     "wof:name":"Nuevo Mundo",
     "wof:parent_id":421200093,
     "wof:placetype":"locality",

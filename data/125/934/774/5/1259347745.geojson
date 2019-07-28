@@ -25,6 +25,51 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0440\u0430\u044f\u0432\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Charallave"
+    ],
+    "name:deu_x_preferred":[
+        "Charallave"
+    ],
+    "name:epo_x_preferred":[
+        "Charallave"
+    ],
+    "name:fra_x_preferred":[
+        "Charallave"
+    ],
+    "name:ita_x_preferred":[
+        "Charallave"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30e9\u30b8\u30e3\u30d9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10e0\u10d0\u10da\u10d8\u10d0\u10d5\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\ub77c\uc57c\ubca0"
+    ],
+    "name:pol_x_preferred":[
+        "Charallave"
+    ],
+    "name:por_x_preferred":[
+        "Charallave"
+    ],
+    "name:spa_x_preferred":[
+        "Charallave"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0430\u0440\u0430\u043b\u044c\u044f\u0432\u0435"
+    ],
+    "name:vol_x_preferred":[
+        "Charallave"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u62c9\u4e9e\u97cb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1259347745,
-    "wof:lastmodified":1537051654,
+    "wof:lastmodified":1564307394,
     "wof:name":"Charallave",
     "wof:parent_id":1108694113,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Muerto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293485829,
-    "wof:lastmodified":1536789874,
+    "wof:lastmodified":1564303503,
     "wof:name":"El Muerto",
     "wof:parent_id":1108694099,
     "wof:placetype":"locality",

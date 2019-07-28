@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Carate"
+    ],
+    "name:lat_x_preferred":[
+        "Carate"
+    ],
+    "name:por_x_preferred":[
+        "Carate"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1360249843,
-    "wof:lastmodified":1536708378,
+    "wof:lastmodified":1564306007,
     "wof:name":"Carate",
     "wof:parent_id":1108694113,
     "wof:placetype":"locality",

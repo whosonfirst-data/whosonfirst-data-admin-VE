@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gavilan"
+    ],
+    "name:ita_x_preferred":[
+        "Gavilan"
+    ],
+    "name:swe_x_preferred":[
+        "Gavilan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1243376645,
-    "wof:lastmodified":1536906410,
+    "wof:lastmodified":1564306528,
     "wof:name":"Gavilan",
     "wof:parent_id":85680511,
     "wof:placetype":"locality",

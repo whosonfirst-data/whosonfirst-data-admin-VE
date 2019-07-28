@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u043f\u0438\u043e"
+    ],
     "name:und_x_variant":[
         "Monte P\u00edo",
         "Montepio"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1225803101,
-    "wof:lastmodified":1537713537,
+    "wof:lastmodified":1564307799,
     "wof:name":"Montepio",
     "wof:parent_id":1108694415,
     "wof:placetype":"locality",

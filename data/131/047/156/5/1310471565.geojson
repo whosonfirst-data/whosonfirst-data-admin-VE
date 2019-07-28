@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Capaya"
     ],
+    "name:fra_x_preferred":[
+        "Capaya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d1\u30b8\u30e3"
+    ],
     "name:por_x_preferred":[
         "Capaya"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1310471565,
-    "wof:lastmodified":1537575818,
+    "wof:lastmodified":1564305609,
     "wof:name":"Capaya",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",

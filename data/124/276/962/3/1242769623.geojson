@@ -26,6 +26,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Caroni"
+    ],
+    "name:est_x_preferred":[
+        "Caroni"
+    ],
+    "name:fra_x_preferred":[
+        "Caroni"
+    ],
+    "name:spa_x_preferred":[
+        "Caron\u00ed"
+    ],
     "name:und_x_variant":[
         "Rancho Caroni",
         "Caron\u00ed"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1242769623,
-    "wof:lastmodified":1537713622,
+    "wof:lastmodified":1564306912,
     "wof:name":"Caroni",
     "wof:parent_id":421190237,
     "wof:placetype":"locality",

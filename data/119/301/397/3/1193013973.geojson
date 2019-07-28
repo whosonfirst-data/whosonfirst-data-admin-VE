@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Los Laureles"
+    ],
+    "name:spa_x_preferred":[
+        "Los Laureles"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1193013973,
-    "wof:lastmodified":1536380500,
+    "wof:lastmodified":1564305124,
     "wof:name":"Los Laureles",
     "wof:parent_id":421203565,
     "wof:placetype":"locality",

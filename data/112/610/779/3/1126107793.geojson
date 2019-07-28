@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "La Carlota"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041a\u0430\u0440\u043b\u043e\u0442\u0430"
+    ],
     "name:spa_x_colloquial":[
         "Urbanizacion la Carlota"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:spa_x_variant":[
         "Urbanizaci\u00f3n la Carlota"
+    ],
+    "name:swe_x_preferred":[
+        "La Carlota"
     ],
     "name:unk_x_variant":[
         "Urbanizaci\u00f3n La Carlota",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1126107793,
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1564306471,
     "wof:name":"La Carlota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

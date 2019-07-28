@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "T\u00e1cata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30ab\u30bf"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia T\u00e1cata"
+    ],
     "name:und_x_variant":[
         "T\u00e1cata"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1292983231,
-    "wof:lastmodified":1537713512,
+    "wof:lastmodified":1564303712,
     "wof:name":"Tacata",
     "wof:parent_id":421202375,
     "wof:placetype":"locality",

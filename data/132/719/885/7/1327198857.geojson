@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La S\u00e1bana"
+    ],
+    "name:spa_x_preferred":[
+        "La Sabana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0633\u0627\u0628\u0627\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327198857,
-    "wof:lastmodified":1537017431,
+    "wof:lastmodified":1564302620,
     "wof:name":"La Sabana",
     "wof:parent_id":1108694311,
     "wof:placetype":"locality",

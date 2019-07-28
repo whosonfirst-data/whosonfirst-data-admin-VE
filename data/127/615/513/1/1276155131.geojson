@@ -25,6 +25,24 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Trincheras"
+    ],
+    "name:epo_x_preferred":[
+        "Trincheras"
+    ],
+    "name:ita_x_preferred":[
+        "Trincheras"
+    ],
+    "name:ron_x_preferred":[
+        "Trincheras"
+    ],
+    "name:spa_x_preferred":[
+        "Trincheras"
+    ],
+    "name:vie_x_preferred":[
+        "Trincheras"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276155131,
-    "wof:lastmodified":1537016842,
+    "wof:lastmodified":1564304364,
     "wof:name":"Trincheras",
     "wof:parent_id":1108694361,
     "wof:placetype":"locality",

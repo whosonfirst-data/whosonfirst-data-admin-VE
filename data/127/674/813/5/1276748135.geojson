@@ -25,6 +25,27 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mujica"
+    ],
+    "name:fra_x_preferred":[
+        "Mujica"
+    ],
+    "name:hrv_x_preferred":[
+        "Mujica"
+    ],
+    "name:por_x_preferred":[
+        "Mujica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0438\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mujica"
+    ],
+    "name:spa_x_preferred":[
+        "Mujica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276748135,
-    "wof:lastmodified":1536720465,
+    "wof:lastmodified":1564304052,
     "wof:name":"Mujica",
     "wof:parent_id":1108694337,
     "wof:placetype":"locality",

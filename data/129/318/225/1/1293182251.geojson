@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Ranchos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Ranchos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293182251,
-    "wof:lastmodified":1536730561,
+    "wof:lastmodified":1564303768,
     "wof:name":"Los Ranchos",
     "wof:parent_id":421186265,
     "wof:placetype":"locality",

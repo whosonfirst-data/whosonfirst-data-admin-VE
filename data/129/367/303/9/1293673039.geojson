@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Geina"
+    ],
+    "name:swe_x_preferred":[
+        "Geina"
+    ],
+    "name:vie_x_preferred":[
+        "Geina"
+    ],
+    "name:war_x_preferred":[
+        "Geina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293673039,
-    "wof:lastmodified":1537016112,
+    "wof:lastmodified":1564303675,
     "wof:name":"Geina",
     "wof:parent_id":421191753,
     "wof:placetype":"locality",

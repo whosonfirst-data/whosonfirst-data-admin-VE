@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":55179945.10881,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.906731,10.541334,-66.906731,10.541334",
     "geom:latitude":10.541334,
     "geom:longitude":-66.906731,
@@ -25,11 +25,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:eus_x_preferred":[
+        "La Pastora"
+    ],
+    "name:ita_x_preferred":[
+        "La Pastora"
+    ],
+    "name:por_x_preferred":[
+        "La Pastora"
+    ],
     "name:spa_x_preferred":[
         "La Pastora"
     ],
     "name:unk_x_variant":[
         "La Pastora"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0633\u0679\u0648\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e15\u65af\u6258\u62c9"
     ],
     "qs:gn_adm0_cc":"VE",
     "qs:gn_fcode":"PPLX",
@@ -62,10 +77,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85680535,
         102191577,
         85632317,
-        1108694107,
-        85680535
+        1108694107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858984,
+    "wof:lastmodified":1564303315,
     "wof:name":"La Pastora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

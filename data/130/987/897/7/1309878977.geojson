@@ -26,9 +26,30 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:fra_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:ita_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:pol_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:por_x_preferred":[
+        "Mucuchies"
+    ],
+    "name:spa_x_preferred":[
+        "Mucuch\u00edes"
+    ],
     "name:und_x_variant":[
         "Mucuhies",
         "Mucuch\u00edes"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5eab\u5207\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1309878977,
-    "wof:lastmodified":1537713536,
+    "wof:lastmodified":1564306310,
     "wof:name":"Mucuchies",
     "wof:parent_id":421190239,
     "wof:placetype":"locality",

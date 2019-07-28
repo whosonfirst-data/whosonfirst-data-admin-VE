@@ -25,6 +25,33 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Brito"
+    ],
+    "name:ceb_x_preferred":[
+        "Brito"
+    ],
+    "name:deu_x_preferred":[
+        "Brito"
+    ],
+    "name:fin_x_preferred":[
+        "Brito"
+    ],
+    "name:fra_x_preferred":[
+        "Brito"
+    ],
+    "name:ita_x_preferred":[
+        "Brito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30c8\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Brito"
+    ],
+    "name:por_x_preferred":[
+        "Brito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1343236661,
-    "wof:lastmodified":1537066472,
+    "wof:lastmodified":1564302973,
     "wof:name":"Brito",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

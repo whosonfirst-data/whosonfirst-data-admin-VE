@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Curiepe"
+    ],
+    "name:fra_x_preferred":[
+        "Curiepe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30a8\u30da"
+    ],
+    "name:spa_x_preferred":[
+        "Curiepe"
+    ],
     "name:und_x_variant":[
         "Hacienda Curiepe",
         "Curiepe"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326853403,
-    "wof:lastmodified":1537713613,
+    "wof:lastmodified":1564302492,
     "wof:name":"Curiepe",
     "wof:parent_id":1108694419,
     "wof:placetype":"locality",

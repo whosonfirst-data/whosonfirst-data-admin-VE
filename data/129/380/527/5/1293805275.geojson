@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Inaria"
+    ],
+    "name:ita_x_preferred":[
+        "Inaria karli"
+    ],
+    "name:pol_x_preferred":[
+        "Inaria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0430\u0440\u0438\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0430\u0440\u0456\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293805275,
-    "wof:lastmodified":1536825147,
+    "wof:lastmodified":1564303830,
     "wof:name":"Inaria",
     "wof:parent_id":421196979,
     "wof:placetype":"locality",

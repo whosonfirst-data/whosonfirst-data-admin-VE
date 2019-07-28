@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manina"
+    ],
+    "name:deu_x_preferred":[
+        "Manina"
+    ],
+    "name:swe_x_preferred":[
+        "Manina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259971525,
-    "wof:lastmodified":1536652252,
+    "wof:lastmodified":1564307148,
     "wof:name":"Manina",
     "wof:parent_id":421175383,
     "wof:placetype":"locality",

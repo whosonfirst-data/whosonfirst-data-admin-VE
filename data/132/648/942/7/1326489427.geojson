@@ -25,6 +25,45 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:deu_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:fra_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:ind_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:ita_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u0441\u043a\u0438\u0441"
+    ],
+    "name:nor_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:pol_x_preferred":[
+        "Quisquis"
+    ],
+    "name:que_x_preferred":[
+        "Kiskis"
+    ],
+    "name:spa_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:swe_x_preferred":[
+        "Quizquiz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0441\u043a\u0456\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u65af\u57fa\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1326489427,
-    "wof:lastmodified":1537044035,
+    "wof:lastmodified":1564302539,
     "wof:name":"Quizquiz",
     "wof:parent_id":1108694261,
     "wof:placetype":"locality",

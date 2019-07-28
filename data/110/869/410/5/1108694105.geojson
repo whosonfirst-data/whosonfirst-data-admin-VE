@@ -37,6 +37,15 @@
         "D. Atures",
         "Autana"
     ],
+    "name:fra_x_preferred":[
+        "Autana"
+    ],
+    "name:nld_x_preferred":[
+        "Autana"
+    ],
+    "name:spa_x_preferred":[
+        "Autana"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1108694105,
-    "wof:lastmodified":1554489234,
+    "wof:lastmodified":1564305509,
     "wof:name":"Autana",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

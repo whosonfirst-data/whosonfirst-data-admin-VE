@@ -26,6 +26,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Socorro"
+    ],
+    "name:fra_x_preferred":[
+        "El Socorro"
+    ],
+    "name:spa_x_preferred":[
+        "El Socorro"
+    ],
+    "name:swe_x_preferred":[
+        "El Socorro"
+    ],
     "name:und_x_variant":[
         "Socorro",
         "El Socorro"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293694511,
-    "wof:lastmodified":1537713592,
+    "wof:lastmodified":1564303643,
     "wof:name":"El Socorro",
     "wof:parent_id":421185095,
     "wof:placetype":"locality",

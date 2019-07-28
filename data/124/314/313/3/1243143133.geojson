@@ -25,6 +25,27 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cueva del Viento"
+    ],
+    "name:fra_x_preferred":[
+        "Cueva del Viento"
+    ],
+    "name:ita_x_preferred":[
+        "Cueva del Viento"
+    ],
+    "name:pol_x_preferred":[
+        "Cueva del Viento"
+    ],
+    "name:por_x_preferred":[
+        "Cueva del Viento"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0449\u0435\u0440\u0430 \u0412\u0435\u0442\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cueva del Viento"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1243143133,
-    "wof:lastmodified":1536745697,
+    "wof:lastmodified":1564306756,
     "wof:name":"Cueva del Viento",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

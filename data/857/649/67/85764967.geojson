@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":67196068.070061,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.922609,10.500919,-66.922609,10.500919",
     "geom:latitude":10.500919,
     "geom:longitude":-66.922609,
@@ -28,9 +28,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "El Silencio"
+    ],
     "name:spa_x_preferred":[
         "El Silencio",
         "El silencio"
+    ],
+    "name:swe_x_preferred":[
+        "El Silencio"
     ],
     "name:unk_x_variant":[
         "El Silencio"
@@ -114,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1564303314,
     "wof:name":"El Silencio",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hormiguero"
+    ],
+    "name:hun_x_preferred":[
+        "Hormiguero"
+    ],
+    "name:spa_x_preferred":[
+        "Hormiguero"
+    ],
+    "name:swe_x_preferred":[
+        "Hormiguero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310419023,
-    "wof:lastmodified":1537039998,
+    "wof:lastmodified":1564305549,
     "wof:name":"Hormiguero",
     "wof:parent_id":1108694105,
     "wof:placetype":"locality",

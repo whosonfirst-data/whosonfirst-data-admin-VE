@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cabruta"
+    ],
+    "name:fra_x_preferred":[
+        "Cabruta"
+    ],
+    "name:spa_x_preferred":[
+        "Cabruta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u592b\u9b6f\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209294017,
-    "wof:lastmodified":1537575819,
+    "wof:lastmodified":1564304926,
     "wof:name":"Cabruta",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

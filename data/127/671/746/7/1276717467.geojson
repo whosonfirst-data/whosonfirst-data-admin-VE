@@ -29,6 +29,9 @@
         "La Cabecera",
         "Las Cabeceras"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u06a9\u0627\u0628\u06cc\u06a9\u06cc\u0631\u0627\u0633"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1276717467,
-    "wof:lastmodified":1537713562,
+    "wof:lastmodified":1564304333,
     "wof:name":"Las Cabeceras",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

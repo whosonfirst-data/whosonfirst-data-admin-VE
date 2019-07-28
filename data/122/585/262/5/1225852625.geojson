@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Irama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225852625,
-    "wof:lastmodified":1537002945,
+    "wof:lastmodified":1564308091,
     "wof:name":"Irama",
     "wof:parent_id":421183227,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maravillas"
+    ],
+    "name:deu_x_preferred":[
+        "Maravillas"
+    ],
     "name:spa_x_preferred":[
+        "Maravillas"
+    ],
+    "name:swe_x_preferred":[
         "Maravillas"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226754121,
-    "wof:lastmodified":1537713652,
+    "wof:lastmodified":1564307523,
     "wof:name":"Maravillas",
     "wof:parent_id":421180899,
     "wof:placetype":"locality",

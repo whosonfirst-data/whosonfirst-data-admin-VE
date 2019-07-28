@@ -25,8 +25,20 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ciudad Piar"
+    ],
     "name:por_x_preferred":[
         "Cidade Pilar"
+    ],
+    "name:por_x_variant":[
+        "Ciudad Piar"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Piar"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u4e9e\u723e\u57ce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293904985,
-    "wof:lastmodified":1537713618,
+    "wof:lastmodified":1564303451,
     "wof:name":"Ciudad Piar",
     "wof:parent_id":421196981,
     "wof:placetype":"locality",

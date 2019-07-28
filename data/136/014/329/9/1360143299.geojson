@@ -25,6 +25,33 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Toro"
+    ],
+    "name:deu_x_preferred":[
+        "El Toro"
+    ],
+    "name:fra_x_preferred":[
+        "El Toro"
+    ],
+    "name:ita_x_preferred":[
+        "El Toro"
+    ],
+    "name:nld_x_preferred":[
+        "El Toro"
+    ],
+    "name:pol_x_preferred":[
+        "El Toro"
+    ],
+    "name:spa_x_preferred":[
+        "El Toro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0422\u043e\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "El Toro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1360143299,
-    "wof:lastmodified":1536860413,
+    "wof:lastmodified":1564306030,
     "wof:name":"El Toro",
     "wof:parent_id":1108694109,
     "wof:placetype":"locality",

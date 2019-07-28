@@ -26,8 +26,20 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maurica"
+    ],
+    "name:ron_x_preferred":[
+        "Maurica"
+    ],
+    "name:swe_x_preferred":[
+        "Maurica"
+    ],
     "name:und_x_variant":[
         "Maujica",
+        "Maurica"
+    ],
+    "name:war_x_preferred":[
         "Maurica"
     ],
     "src:geom":"geonames",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1344068803,
-    "wof:lastmodified":1537713539,
+    "wof:lastmodified":1564302895,
     "wof:name":"Maurica",
     "wof:parent_id":421185095,
     "wof:placetype":"locality",

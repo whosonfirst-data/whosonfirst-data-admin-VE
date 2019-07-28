@@ -26,6 +26,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bruzual"
+    ],
+    "name:lit_x_preferred":[
+        "Brusualis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0443\u0441\u0443\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Bruzual"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9b6f\u8607\u4e9e\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1343864681,
-    "wof:lastmodified":1537575819,
+    "wof:lastmodified":1564303286,
     "wof:name":"Bruzual",
     "wof:parent_id":421202593,
     "wof:placetype":"locality",

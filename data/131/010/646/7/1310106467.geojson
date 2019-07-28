@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Palmarito"
     ],
+    "name:spa_x_preferred":[
+        "Palmarito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310106467,
-    "wof:lastmodified":1537713650,
+    "wof:lastmodified":1564305864,
     "wof:name":"Palmarito",
     "wof:parent_id":421190785,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Cascavillo"
+    ],
+    "name:ita_x_preferred":[
+        "Cascabel"
+    ],
+    "name:que_x_preferred":[
+        "Kaskawil"
+    ],
+    "name:spa_x_preferred":[
+        "Cascabel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293647261,
-    "wof:lastmodified":1537051884,
+    "wof:lastmodified":1564303446,
     "wof:name":"Cascabel",
     "wof:parent_id":1108694193,
     "wof:placetype":"locality",

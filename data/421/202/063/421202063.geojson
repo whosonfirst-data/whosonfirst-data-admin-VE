@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0645\u0648\u0631\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0440\u0430"
+    ],
     "name:bre_x_preferred":[
         "Zamora"
     ],
@@ -41,6 +44,12 @@
         "Zamora"
     ],
     "name:ceb_x_preferred":[
+        "Zamora"
+    ],
+    "name:ces_x_preferred":[
+        "Zamora"
+    ],
+    "name:dan_x_preferred":[
         "Zamora"
     ],
     "name:deu_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:eus_x_preferred":[
         "Zamora"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0645\u0648\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Zamora"
@@ -73,6 +85,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0574\u0578\u0580\u0561"
     ],
+    "name:ina_x_preferred":[
+        "Zamora"
+    ],
     "name:ita_x_preferred":[
         "Zamora"
     ],
@@ -83,6 +98,9 @@
         "\uc0ac\ubaa8\ub77c"
     ],
     "name:ltz_x_preferred":[
+        "Zamora"
+    ],
+    "name:mlg_x_preferred":[
         "Zamora"
     ],
     "name:nld_x_preferred":[
@@ -126,6 +144,12 @@
     ],
     "name:vie_x_preferred":[
         "Zamora"
+    ],
+    "name:war_x_preferred":[
+        "Zamora"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u83ab\u62c9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -173,7 +197,7 @@
         }
     ],
     "wof:id":421202063,
-    "wof:lastmodified":1554489033,
+    "wof:lastmodified":1564306385,
     "wof:name":"Zamora",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

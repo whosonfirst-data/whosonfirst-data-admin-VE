@@ -26,6 +26,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5a1c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343327991,
-    "wof:lastmodified":1537575801,
+    "wof:lastmodified":1564303075,
     "wof:name":"Santa Ana",
     "wof:parent_id":421202069,
     "wof:placetype":"locality",

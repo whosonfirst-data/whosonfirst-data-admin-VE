@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Mina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259678455,
-    "wof:lastmodified":1537071208,
+    "wof:lastmodified":1564307347,
     "wof:name":"La Mina",
     "wof:parent_id":1108694185,
     "wof:placetype":"locality",

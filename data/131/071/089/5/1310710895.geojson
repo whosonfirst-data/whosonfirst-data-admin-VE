@@ -25,6 +25,30 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Lucero"
+    ],
+    "name:ceb_x_preferred":[
+        "Lucero"
+    ],
+    "name:deu_x_preferred":[
+        "Lucero"
+    ],
+    "name:ita_x_preferred":[
+        "Lucero"
+    ],
+    "name:por_x_preferred":[
+        "Lucero"
+    ],
+    "name:sco_x_preferred":[
+        "Lucero"
+    ],
+    "name:spa_x_preferred":[
+        "Lucero"
+    ],
+    "name:swe_x_preferred":[
+        "Lucero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1310710895,
-    "wof:lastmodified":1536618350,
+    "wof:lastmodified":1564305576,
     "wof:name":"Lucero",
     "wof:parent_id":85680511,
     "wof:placetype":"locality",

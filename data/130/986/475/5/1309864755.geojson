@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palo Seco"
+    ],
+    "name:nld_x_preferred":[
+        "Palo Seco"
+    ],
+    "name:spa_x_preferred":[
+        "Palo Seco"
+    ],
+    "name:swe_x_preferred":[
+        "Palo Seco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309864755,
-    "wof:lastmodified":1536845217,
+    "wof:lastmodified":1564306352,
     "wof:name":"Palo Seco",
     "wof:parent_id":421189269,
     "wof:placetype":"locality",

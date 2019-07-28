@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Caris"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1344258969,
-    "wof:lastmodified":1537083139,
+    "wof:lastmodified":1564302818,
     "wof:name":"Caris",
     "wof:parent_id":421203571,
     "wof:placetype":"locality",

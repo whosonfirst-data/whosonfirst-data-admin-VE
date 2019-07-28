@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Majagual"
+    ],
+    "name:sco_x_preferred":[
+        "Majagual"
+    ],
+    "name:swe_x_preferred":[
+        "Majagual"
+    ],
+    "name:vie_x_preferred":[
+        "Majagual"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310082891,
-    "wof:lastmodified":1537028001,
+    "wof:lastmodified":1564305723,
     "wof:name":"Majagual",
     "wof:parent_id":1108694291,
     "wof:placetype":"locality",

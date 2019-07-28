@@ -25,10 +25,25 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Congo"
+    ],
+    "name:ita_x_preferred":[
+        "El Congo"
+    ],
+    "name:por_x_preferred":[
+        "El Congo"
+    ],
+    "name:spa_x_preferred":[
+        "El Congo"
+    ],
     "name:und_x_variant":[
         "Congo-Mirador",
         "Congo",
         "El Congo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5b54\u6208"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310470279,
-    "wof:lastmodified":1537713606,
+    "wof:lastmodified":1564305623,
     "wof:name":"El Congo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

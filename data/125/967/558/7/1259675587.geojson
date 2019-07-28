@@ -26,6 +26,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maripa"
+    ],
+    "name:por_x_preferred":[
+        "Maripa"
+    ],
+    "name:spa_x_preferred":[
+        "Maripa"
+    ],
     "name:und_x_variant":[
         "Mariapa",
         "Maripa"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259675587,
-    "wof:lastmodified":1537713541,
+    "wof:lastmodified":1564307344,
     "wof:name":"Maripa",
     "wof:parent_id":421175383,
     "wof:placetype":"locality",

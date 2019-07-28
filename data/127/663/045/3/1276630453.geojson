@@ -25,7 +25,19 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Ba\u00f1os"
+    ],
+    "name:deu_x_preferred":[
+        "Los Ba\u00f1os"
+    ],
+    "name:fra_x_preferred":[
+        "Los Banos"
+    ],
     "name:spa_x_preferred":[
+        "Los Ba\u00f1os"
+    ],
+    "name:swe_x_preferred":[
         "Los Ba\u00f1os"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276630453,
-    "wof:lastmodified":1537713640,
+    "wof:lastmodified":1564304449,
     "wof:name":"Los Banos",
     "wof:parent_id":421189087,
     "wof:placetype":"locality",

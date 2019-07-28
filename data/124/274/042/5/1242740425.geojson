@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Kortijo"
+    ],
+    "name:por_x_preferred":[
+        "Cortijo"
+    ],
     "name:spa_x_preferred":[
         "Cortijo"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1242740425,
-    "wof:lastmodified":1537713642,
+    "wof:lastmodified":1564306562,
     "wof:name":"Cortijo",
     "wof:parent_id":421189087,
     "wof:placetype":"locality",

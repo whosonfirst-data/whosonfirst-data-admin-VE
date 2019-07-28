@@ -25,11 +25,23 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jaj\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Jaj\u00ed"
     ],
     "name:eng_x_variant":[
         "Jaji"
+    ],
+    "name:fra_x_preferred":[
+        "Jaj\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Jaj\u00ed"
+    ],
+    "name:mlt_x_preferred":[
+        "Jaj\u00ed"
     ],
     "name:por_x_preferred":[
         "Jaj\u00ed"
@@ -37,11 +49,17 @@
     "name:por_x_variant":[
         "Jaji"
     ],
+    "name:scn_x_preferred":[
+        "Jaj\u00ed"
+    ],
     "name:spa_x_preferred":[
         "Jaj\u00ed"
     ],
     "name:spa_x_variant":[
         "Jaji"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u062e\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":1193110419,
-    "wof:lastmodified":1537575811,
+    "wof:lastmodified":1564305223,
     "wof:name":"Jaji",
     "wof:parent_id":421171999,
     "wof:placetype":"locality",

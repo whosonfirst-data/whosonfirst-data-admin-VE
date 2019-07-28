@@ -25,6 +25,30 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Barloventu"
+    ],
+    "name:ceb_x_preferred":[
+        "Barlovento"
+    ],
+    "name:deu_x_preferred":[
+        "Barlovento"
+    ],
+    "name:eus_x_preferred":[
+        "Barlovento"
+    ],
+    "name:glg_x_preferred":[
+        "Barlovento"
+    ],
+    "name:nld_x_preferred":[
+        "Barlovento"
+    ],
+    "name:spa_x_preferred":[
+        "Barlovento"
+    ],
+    "name:swe_x_preferred":[
+        "Barlovento"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1226306631,
-    "wof:lastmodified":1536844941,
+    "wof:lastmodified":1564307998,
     "wof:name":"Barlovento",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

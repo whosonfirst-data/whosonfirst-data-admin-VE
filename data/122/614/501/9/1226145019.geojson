@@ -25,6 +25,36 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Golofa"
+    ],
+    "name:fra_x_preferred":[
+        "Golofa"
+    ],
+    "name:ita_x_preferred":[
+        "Golofa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30c6\u30c5\u30ce\u30ab\u30d6\u30c8\u5c5e"
+    ],
+    "name:nor_x_preferred":[
+        "Golofa"
+    ],
+    "name:rus_x_preferred":[
+        "Golofa"
+    ],
+    "name:swe_x_preferred":[
+        "Golofa"
+    ],
+    "name:vie_x_preferred":[
+        "Golofa"
+    ],
+    "name:war_x_preferred":[
+        "Golofa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c4e\u89d2\u515c\u87f2\u5c6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1226145019,
-    "wof:lastmodified":1537075652,
+    "wof:lastmodified":1564307829,
     "wof:name":"Golofa",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",
