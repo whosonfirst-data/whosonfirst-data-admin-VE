@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Curiapo"
+    ],
+    "name:fra_x_preferred":[
+        "Curiapo"
+    ],
+    "name:por_x_preferred":[
+        "Curiapo"
+    ],
+    "name:spa_x_preferred":[
+        "Curiapo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5c3c\u4e9e\u6ce2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326851935,
-    "wof:lastmodified":1537019576,
+    "wof:lastmodified":1564302492,
     "wof:name":"Curiapo",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

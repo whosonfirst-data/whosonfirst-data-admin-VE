@@ -25,6 +25,69 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Rodezno"
+    ],
+    "name:cat_x_preferred":[
+        "Rodezno"
+    ],
+    "name:ceb_x_preferred":[
+        "Rodezno"
+    ],
+    "name:eus_x_preferred":[
+        "Rodezno"
+    ],
+    "name:fra_x_preferred":[
+        "Rodezno"
+    ],
+    "name:hun_x_preferred":[
+        "Rodezno"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0564\u0565\u0576\u057d\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Rodezno"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u0441\u043d\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Rodezno"
+    ],
+    "name:oci_x_preferred":[
+        "Rodezno"
+    ],
+    "name:pol_x_preferred":[
+        "Rodezno"
+    ],
+    "name:por_x_preferred":[
+        "Rodezno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u0441\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Rodezno"
+    ],
+    "name:swe_x_preferred":[
+        "Rodezno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u0441\u043d\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Rodezno"
+    ],
+    "name:vie_x_preferred":[
+        "Rodezno"
+    ],
+    "name:war_x_preferred":[
+        "Rodezno"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5fb7\u65af\u8bfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +111,7 @@
         }
     ],
     "wof:id":1293559493,
-    "wof:lastmodified":1536683363,
+    "wof:lastmodified":1564303433,
     "wof:name":"Rodezno",
     "wof:parent_id":421172603,
     "wof:placetype":"locality",

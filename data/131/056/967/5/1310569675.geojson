@@ -25,6 +25,24 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Macana"
+    ],
+    "name:fra_x_preferred":[
+        "Macana"
+    ],
+    "name:ita_x_preferred":[
+        "Macana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ab\u30ca"
+    ],
+    "name:lat_x_preferred":[
+        "Macana"
+    ],
+    "name:spa_x_preferred":[
+        "Macana"
+    ],
     "name:und_x_variant":[
         "Macano",
         "Macanas",
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1310569675,
-    "wof:lastmodified":1537713545,
+    "wof:lastmodified":1564305957,
     "wof:name":"Macana",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

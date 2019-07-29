@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barbacoas"
+    ],
+    "name:fra_x_preferred":[
+        "Barbacoas"
+    ],
+    "name:ita_x_preferred":[
+        "Barbacoas"
+    ],
+    "name:swe_x_preferred":[
+        "Barbacoas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310070415,
-    "wof:lastmodified":1537045371,
+    "wof:lastmodified":1564305653,
     "wof:name":"Barbacoas",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

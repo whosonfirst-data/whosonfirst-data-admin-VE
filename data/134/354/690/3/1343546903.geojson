@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Borburata"
+    ],
+    "name:epo_x_preferred":[
+        "Borburata"
+    ],
+    "name:fra_x_preferred":[
+        "Borburata"
+    ],
+    "name:spa_x_preferred":[
+        "Borburata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343546903,
-    "wof:lastmodified":1537575819,
+    "wof:lastmodified":1564302747,
     "wof:name":"Borburata",
     "wof:parent_id":421198089,
     "wof:placetype":"locality",

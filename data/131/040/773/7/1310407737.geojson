@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Algarrobos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Algarrobos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Algarrobos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Algarrobos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310407737,
-    "wof:lastmodified":1537055636,
+    "wof:lastmodified":1564305605,
     "wof:name":"Los Algarrobos",
     "wof:parent_id":421190215,
     "wof:placetype":"locality",

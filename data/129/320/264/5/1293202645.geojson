@@ -25,6 +25,114 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Schweineartige"
+    ],
+    "name:ara_x_preferred":[
+        "\u062e\u0646\u0627\u0632\u064a\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u0624\u0648\u0634\u0647\u200c\u0645\u0647\u200c\u06cc\u0647\u200c\u0646\u0644\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Su\u00efns"
+    ],
+    "name:ces_x_preferred":[
+        "Nep\u0159e\u017ev\u00fdkav\u00ed"
+    ],
+    "name:chv_x_preferred":[
+        "\u0421\u044b\u0441\u043d\u0430 \u0439\u044b\u0448\u0448\u0438\u0441\u0435\u043c"
+    ],
+    "name:dan_x_preferred":[
+        "Svin"
+    ],
+    "name:deu_x_preferred":[
+        "Schweineartige"
+    ],
+    "name:epo_x_preferred":[
+        "Nerema\u0109uloj"
+    ],
+    "name:eus_x_preferred":[
+        "Suina"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0627\u0632\u0633\u0627\u0646\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Sikael\u00e4imet"
+    ],
+    "name:fra_x_preferred":[
+        "Suina"
+    ],
+    "name:frr_x_preferred":[
+        "Suina"
+    ],
+    "name:fry_x_preferred":[
+        "Baarcheftigen"
+    ],
+    "name:glg_x_preferred":[
+        "Su\u00ednos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05d5\u05d9\u05d9 \u05d7\u05d6\u05d9\u05e8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0580\u0578\u0573\u0578\u0572\u0576\u0565\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Suiformes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ce\u30b7\u30b7\u4e9c\u76ee"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10db\u10ea\u10dd\u10ee\u10dc\u10d4\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u04af\u0439\u0456\u0441 \u049b\u0430\u0439\u044b\u0440\u043c\u0430\u0439\u0442\u044b\u043d\u0434\u0430\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3fc\uc9c0\uc544\ubaa9"
+    ],
+    "name:lav_x_preferred":[
+        "Neatgremot\u0101ji"
+    ],
+    "name:nav_x_preferred":[
+        "Bis\u00f3odi Danil\u00edn\u00edg\u00ed\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Varkenachtigen"
+    ],
+    "name:nor_x_preferred":[
+        "Svinedyr"
+    ],
+    "name:pol_x_preferred":[
+        "\u015awiniokszta\u0142tne"
+    ],
+    "name:por_x_preferred":[
+        "Suina"
+    ],
+    "name:ron_x_preferred":[
+        "Suiforme"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0436\u0432\u0430\u0447\u043d\u044b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Suina"
+    ],
+    "name:swe_x_preferred":[
+        "Suina"
+    ],
+    "name:tur_x_preferred":[
+        "Domuzumsular"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0438\u043d\u043e\u0432\u0438\u0434\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u732a\u5f62\u4e9a\u76ee"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +156,7 @@
         }
     ],
     "wof:id":1293202645,
-    "wof:lastmodified":1536700983,
+    "wof:lastmodified":1564303762,
     "wof:name":"Suina",
     "wof:parent_id":1108694271,
     "wof:placetype":"locality",

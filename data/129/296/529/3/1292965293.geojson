@@ -29,11 +29,17 @@
     "name:eng_x_preferred":[
         "Pregonero"
     ],
+    "name:fra_x_preferred":[
+        "Pregonero"
+    ],
     "name:por_x_preferred":[
         "Pregonero"
     ],
     "name:spa_x_preferred":[
         "Pregonero"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u96f7\u6208\u5167\u7f85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1292965293,
-    "wof:lastmodified":1537575803,
+    "wof:lastmodified":1564303726,
     "wof:name":"Pregonero",
     "wof:parent_id":421183171,
     "wof:placetype":"locality",

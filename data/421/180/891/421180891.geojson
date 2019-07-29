@@ -43,6 +43,9 @@
     "name:arg_x_preferred":[
         "Falco"
     ],
+    "name:ast_x_preferred":[
+        "Falco"
+    ],
     "name:aym_x_preferred":[
         "Mamani"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u0435\u0447\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0634\u06d5\u06be\u06ce\u0646"
     ],
     "name:dan_x_preferred":[
         "Falk"
@@ -113,6 +119,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05d6"
     ],
+    "name:hin_x_preferred":[
+        "\u0936\u094d\u092f\u0947\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Falco"
     ],
@@ -128,14 +137,29 @@
     "name:iku_x_preferred":[
         "\u146d\u14a1\u1490\u1555\u1483"
     ],
+    "name:ina_x_preferred":[
+        "Falco"
+    ],
     "name:ind_x_preferred":[
         "Falkon"
+    ],
+    "name:inh_x_preferred":[
+        "\u041b\u0430\u044c\u0447\u0430"
+    ],
+    "name:isl_x_preferred":[
+        "F\u00e1lkar"
     ],
     "name:ita_x_preferred":[
         "Falco"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30e4\u30d6\u30b5\u5c5e"
+    ],
+    "name:kab_x_preferred":[
+        "Aseflay"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cbf\u0ca1\u0cc1\u0c97"
     ],
     "name:kat_x_preferred":[
         "\u10e8\u10d0\u10d5\u10d0\u10e0\u10d3\u10d4\u10dc\u10d8"
@@ -164,6 +188,12 @@
     "name:lit_x_preferred":[
         "Tikrieji sakalai"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2b\u0d3e\u0d7d\u0d15\u0d4d\u0d15\u0d7a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b"
+    ],
     "name:mon_x_preferred":[
         "\u0428\u043e\u043d\u0445\u043e\u0440"
     ],
@@ -172,6 +202,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1016\u101a\u103a(\u101c\u103a)\u1000\u1004\u103a\u101e\u102d\u1019\u103a\u1038"
+    ],
+    "name:nah_x_preferred":[
+        "Cuauhtohtli"
     ],
     "name:nap_x_preferred":[
         "Farcone"
@@ -188,6 +221,9 @@
     "name:nor_x_preferred":[
         "Falker"
     ],
+    "name:nor_x_variant":[
+        "Langvingefalker"
+    ],
     "name:oss_x_preferred":[
         "\u0423\u0430\u0440\u0438"
     ],
@@ -196,6 +232,9 @@
     ],
     "name:pcd_x_preferred":[
         "Feucon"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0627\u06c1\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Falco"
@@ -220,6 +259,12 @@
     ],
     "name:sco_x_preferred":[
         "Faucon"
+    ],
+    "name:slk_x_preferred":[
+        "Sokol"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0627\u0632"
     ],
     "name:spa_x_preferred":[
         "Falco"
@@ -312,7 +357,7 @@
         }
     ],
     "wof:id":421180891,
-    "wof:lastmodified":1554488793,
+    "wof:lastmodified":1564306391,
     "wof:name":"Falcon",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

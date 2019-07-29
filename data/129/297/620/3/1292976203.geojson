@@ -25,6 +25,30 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Calceta"
+    ],
+    "name:deu_x_preferred":[
+        "Calceta"
+    ],
+    "name:fra_x_preferred":[
+        "Calceta"
+    ],
+    "name:lit_x_preferred":[
+        "Kalseta"
+    ],
+    "name:pol_x_preferred":[
+        "Calceta"
+    ],
+    "name:que_x_preferred":[
+        "Calceta"
+    ],
+    "name:spa_x_preferred":[
+        "Calceta"
+    ],
+    "name:swe_x_preferred":[
+        "Calceta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1292976203,
-    "wof:lastmodified":1537025999,
+    "wof:lastmodified":1564303744,
     "wof:name":"Calceta",
     "wof:parent_id":1108694203,
     "wof:placetype":"locality",

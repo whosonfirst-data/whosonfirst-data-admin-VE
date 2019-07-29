@@ -34,6 +34,12 @@
         "Isla La Tortuga",
         "Dependencias Federales"
     ],
+    "name:nld_x_preferred":[
+        "Pedro Gual"
+    ],
+    "name:por_x_preferred":[
+        "Pedro Gual"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108694345,
-    "wof:lastmodified":1554489240,
+    "wof:lastmodified":1564305533,
     "wof:name":"Pedro Gual",
     "wof:parent_id":85680539,
     "wof:placetype":"county",

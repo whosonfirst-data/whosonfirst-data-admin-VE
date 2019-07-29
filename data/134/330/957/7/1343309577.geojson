@@ -25,10 +25,34 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Arrecifes"
+    ],
+    "name:nld_x_preferred":[
+        "Arrecifes"
+    ],
+    "name:pol_x_preferred":[
+        "Arrecifes"
+    ],
+    "name:por_x_preferred":[
+        "Arrecifes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u0435\u0441\u0438\u0444\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Arrecifes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0440\u0435\u0441\u0456\u0444\u0435\u0441"
+    ],
     "name:und_x_variant":[
         "Puerto Arrecifes",
         "Arrecife",
         "Arrecifes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0631\u06cc\u0633\u06cc\u0641\u06cc\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343309577,
-    "wof:lastmodified":1537713631,
+    "wof:lastmodified":1564302759,
     "wof:name":"Arrecifes",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

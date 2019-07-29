@@ -25,6 +25,81 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0643\u0627\u0628\u064a\u0644\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:ast_x_preferred":[
+        "Puertu Pelo"
+    ],
+    "name:ceb_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:epo_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:eus_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d9\u10d0\u10d1\u10d4\u10da\u10d8\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\uce74\ubca0\uc694"
+    ],
+    "name:lat_x_preferred":[
+        "Portus Cabellensis"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Kabeljas"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:nor_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u041a\u0430\u0431\u0435\u043b\u044c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0432\u0435\u0440\u0442\u043e-\u041a\u0430\u0431\u0435\u043b\u044c\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u041a\u0430\u0431\u0435\u043b\u044c\u0439\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Cabello"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8c9d\u7565\u6e2f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +123,7 @@
         }
     ],
     "wof:id":1243068819,
-    "wof:lastmodified":1536851811,
+    "wof:lastmodified":1564306530,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":1108694389,
     "wof:placetype":"locality",

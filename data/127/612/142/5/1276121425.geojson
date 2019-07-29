@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Coromoto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276121425,
-    "wof:lastmodified":1537059881,
+    "wof:lastmodified":1564304362,
     "wof:name":"Coromoto",
     "wof:parent_id":1108694279,
     "wof:placetype":"locality",

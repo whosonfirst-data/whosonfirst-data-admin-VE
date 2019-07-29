@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Macarao"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia Macarao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225902193,
-    "wof:lastmodified":1536933235,
+    "wof:lastmodified":1564307802,
     "wof:name":"Macarao",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",

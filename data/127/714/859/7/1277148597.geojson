@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pueblo Libre"
+    ],
+    "name:que_x_preferred":[
+        "Pueblo Libre distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u81ea\u7531\u90e8\u843d\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1277148597,
-    "wof:lastmodified":1536672782,
+    "wof:lastmodified":1564304237,
     "wof:name":"Pueblo Libre",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oruza"
+    ],
+    "name:swe_x_preferred":[
+        "Oruza"
+    ],
+    "name:vie_x_preferred":[
+        "Oruza"
+    ],
+    "name:war_x_preferred":[
+        "Oruza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310377911,
-    "wof:lastmodified":1536600406,
+    "wof:lastmodified":1564305739,
     "wof:name":"Oruza",
     "wof:parent_id":421202063,
     "wof:placetype":"locality",

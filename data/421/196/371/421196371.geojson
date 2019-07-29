@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "La Laja"
+    ],
     "name:spa_x_preferred":[
         "La Laja"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u62c9\u54c8"
     ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":421196371,
-    "wof:lastmodified":1527716364,
+    "wof:lastmodified":1564306419,
     "wof:name":"La Laja",
     "wof:parent_id":421202369,
     "wof:placetype":"locality",

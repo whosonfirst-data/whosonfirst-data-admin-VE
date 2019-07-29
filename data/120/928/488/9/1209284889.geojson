@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Lindero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +37,7 @@
         "gn:id":3799226
     },
     "wof:country":"VE",
-    "wof:geomhash":"68b0b9104e5a862893e51be04ec77548",
+    "wof:geomhash":"4e782005baef94f02143849e7ef296a2",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209284889,
-    "wof:lastmodified":1536291894,
+    "wof:lastmodified":1564305045,
     "wof:name":"El Lindero",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     -71.64514,
-    8.077810000000001,
+    8.07781,
     -71.64514,
-    8.077810000000001
+    8.07781
 ],
   "geometry": {"coordinates":[-71.64514,8.07781],"type":"Point"}
 }

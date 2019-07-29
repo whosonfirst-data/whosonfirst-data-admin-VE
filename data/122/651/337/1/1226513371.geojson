@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bejuco"
+    ],
+    "name:ita_x_preferred":[
+        "Bejuco"
+    ],
+    "name:spa_x_preferred":[
+        "Bejuco"
+    ],
+    "name:swe_x_preferred":[
+        "Bejuco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226513371,
-    "wof:lastmodified":1537043038,
+    "wof:lastmodified":1564307691,
     "wof:name":"Bejuco",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",

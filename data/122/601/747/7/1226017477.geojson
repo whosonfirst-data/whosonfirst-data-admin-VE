@@ -26,6 +26,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:deu_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:spa_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:swe_x_preferred":[
+        "Las Mercedes"
+    ],
     "name:und_x_variant":[
         "Hacienda Las Mercedes",
         "Las Mercedes"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226017477,
-    "wof:lastmodified":1537713558,
+    "wof:lastmodified":1564308010,
     "wof:name":"Las Mercedes",
     "wof:parent_id":1108694341,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tuja"
+    ],
+    "name:hun_x_preferred":[
+        "Tuja"
+    ],
+    "name:pol_x_preferred":[
+        "Tuja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343261161,
-    "wof:lastmodified":1537032469,
+    "wof:lastmodified":1564303267,
     "wof:name":"Tuja",
     "wof:parent_id":421186263,
     "wof:placetype":"locality",

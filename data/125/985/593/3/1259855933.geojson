@@ -25,6 +25,24 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Churuguara"
+    ],
+    "name:deu_x_preferred":[
+        "Churuguara"
+    ],
+    "name:fra_x_preferred":[
+        "Churuguara"
+    ],
+    "name:por_x_preferred":[
+        "Churuguara"
+    ],
+    "name:spa_x_preferred":[
+        "Churuguara"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u9b6f\u74dc\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259855933,
-    "wof:lastmodified":1536818042,
+    "wof:lastmodified":1564307243,
     "wof:name":"Churuguara",
     "wof:parent_id":1108694319,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24859046.146959,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-62.650268,8.37257,-62.650268,8.37257",
     "geom:latitude":8.37257,
     "geom:longitude":-62.650268,
@@ -28,7 +28,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:bre_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:ceb_x_preferred":[
+        "San F\u00e9lix"
+    ],
     "name:eng_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:fra_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:slk_x_preferred":[
         "San F\u00e9lix"
     ],
     "name:spa_x_colloquial":[
@@ -51,6 +63,9 @@
         "Las Tablas",
         "S. Felis",
         "Seccion S. Felix"
+    ],
+    "name:swe_x_preferred":[
+        "San F\u00e9lix"
     ],
     "name:unk_x_variant":[
         "Las Tablas",
@@ -133,7 +148,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1564303315,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

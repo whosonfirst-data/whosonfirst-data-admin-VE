@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Cristo"
+    ],
+    "name:glg_x_preferred":[
+        "O Cristo"
+    ],
+    "name:spa_x_preferred":[
+        "El Cristo"
+    ],
+    "name:swe_x_preferred":[
+        "El Cristo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1326488451,
-    "wof:lastmodified":1537045364,
+    "wof:lastmodified":1564302535,
     "wof:name":"El Cristo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

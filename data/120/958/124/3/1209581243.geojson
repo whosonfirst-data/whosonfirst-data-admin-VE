@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pimpinela"
+    ],
+    "name:fra_x_preferred":[
+        "Pimpinela"
+    ],
+    "name:glg_x_preferred":[
+        "Pimpinela"
+    ],
+    "name:spa_x_preferred":[
+        "Pimpinela"
+    ],
+    "name:ukr_x_preferred":[
+        "Pimpinela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209581243,
-    "wof:lastmodified":1536282781,
+    "wof:lastmodified":1564304890,
     "wof:name":"Pimpinela",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Caracara"
+    ],
+    "name:fra_x_preferred":[
+        "Caracara"
+    ],
     "name:und_x_variant":[
         "La Caracara",
         "Los Caracaras",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276124651,
-    "wof:lastmodified":1537713623,
+    "wof:lastmodified":1564304361,
     "wof:name":"Caracara",
     "wof:parent_id":421201569,
     "wof:placetype":"locality",

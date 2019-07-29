@@ -29,11 +29,20 @@
     "name:eng_x_preferred":[
         "Araya"
     ],
+    "name:fra_x_preferred":[
+        "Araya"
+    ],
     "name:por_x_preferred":[
+        "Araya"
+    ],
+    "name:sco_x_preferred":[
         "Araya"
     ],
     "name:spa_x_preferred":[
         "Araya"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1293175495,
-    "wof:lastmodified":1537575820,
+    "wof:lastmodified":1564303854,
     "wof:name":"Araya",
     "wof:parent_id":421172601,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Joropo"
+    ],
+    "name:deu_x_preferred":[
+        "Joropo"
+    ],
+    "name:fin_x_preferred":[
+        "Joropo"
+    ],
+    "name:fra_x_preferred":[
+        "Joropo"
+    ],
+    "name:glg_x_preferred":[
+        "Joropo"
+    ],
+    "name:ita_x_preferred":[
+        "Joropo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30ed\u30fc\u30dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ub85c\ud3ec"
+    ],
+    "name:por_x_preferred":[
+        "Joropo"
+    ],
+    "name:spa_x_preferred":[
+        "Joropo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1260371739,
-    "wof:lastmodified":1537087475,
+    "wof:lastmodified":1564305357,
     "wof:name":"Joropo",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

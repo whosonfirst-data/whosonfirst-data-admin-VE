@@ -26,6 +26,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "San Sebastianas"
+    ],
+    "name:sco_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u585e\u74e6\u65af\u8482\u5b89"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209105403,
-    "wof:lastmodified":1537575825,
+    "wof:lastmodified":1564305056,
     "wof:name":"San Sebastian",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

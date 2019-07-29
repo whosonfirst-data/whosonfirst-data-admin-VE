@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Perdomo"
+    ],
+    "name:fra_x_preferred":[
+        "Perdomo"
+    ],
+    "name:nds_x_preferred":[
+        "Perdomo"
+    ],
+    "name:pol_x_preferred":[
+        "Perdomo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0434\u043e\u043c\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343538651,
-    "wof:lastmodified":1536631972,
+    "wof:lastmodified":1564302754,
     "wof:name":"Perdomo",
     "wof:parent_id":421184293,
     "wof:placetype":"locality",

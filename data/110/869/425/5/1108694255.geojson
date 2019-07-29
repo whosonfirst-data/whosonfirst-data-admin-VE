@@ -33,6 +33,21 @@
     "name:eng_x_variant":[
         "Libertador"
     ],
+    "name:fra_x_preferred":[
+        "Libertador"
+    ],
+    "name:ita_x_preferred":[
+        "Libertador"
+    ],
+    "name:nld_x_preferred":[
+        "Libertador"
+    ],
+    "name:por_x_preferred":[
+        "Libertador"
+    ],
+    "name:spa_x_preferred":[
+        "Libertador"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1108694255,
-    "wof:lastmodified":1554489238,
+    "wof:lastmodified":1564305490,
     "wof:name":"Libertador",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

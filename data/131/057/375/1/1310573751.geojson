@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tapipa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310573751,
-    "wof:lastmodified":1537575800,
+    "wof:lastmodified":1564305935,
     "wof:name":"Tapipa",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",

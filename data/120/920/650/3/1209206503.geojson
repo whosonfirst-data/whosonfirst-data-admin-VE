@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palmarejo"
+    ],
+    "name:pol_x_preferred":[
+        "Palmarejo"
+    ],
+    "name:swe_x_preferred":[
+        "Palmarejo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +43,7 @@
         "gn:id":3808854
     },
     "wof:country":"VE",
-    "wof:geomhash":"946b9b61d206653893565e4a13cda59e",
+    "wof:geomhash":"c7a8d22d1c8a8500b0f7a70ff0bcadab",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209206503,
-    "wof:lastmodified":1536294437,
+    "wof:lastmodified":1564304936,
     "wof:name":"Palmarejo",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     -64.26592,
-    7.812639999999999,
+    7.81264,
     -64.26592,
-    7.812639999999999
+    7.81264
 ],
   "geometry": {"coordinates":[-64.26591999999999,7.81264],"type":"Point"}
 }

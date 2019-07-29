@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cerro Pelado"
+    ],
+    "name:deu_x_preferred":[
+        "Cerro Pelado"
+    ],
+    "name:fra_x_preferred":[
+        "Cerro Pelado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326817649,
-    "wof:lastmodified":1537066891,
+    "wof:lastmodified":1564302198,
     "wof:name":"Cerro Pelado",
     "wof:parent_id":1108694167,
     "wof:placetype":"locality",

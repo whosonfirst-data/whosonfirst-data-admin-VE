@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Limoncito"
+    ],
+    "name:deu_x_preferred":[
+        "Limoncito"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8499\u897f\u6258"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310059969,
-    "wof:lastmodified":1537059678,
+    "wof:lastmodified":1564305946,
     "wof:name":"Limoncito",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

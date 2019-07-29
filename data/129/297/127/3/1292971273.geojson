@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Amparo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292971273,
-    "wof:lastmodified":1537032889,
+    "wof:lastmodified":1564303744,
     "wof:name":"El Amparo",
     "wof:parent_id":421196155,
     "wof:placetype":"locality",

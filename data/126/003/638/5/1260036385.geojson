@@ -29,11 +29,17 @@
     "name:eng_x_preferred":[
         "La Quebrada"
     ],
+    "name:fra_x_preferred":[
+        "La Quebrada"
+    ],
     "name:por_x_preferred":[
         "La Quebrada"
     ],
     "name:spa_x_preferred":[
         "La Quebrada"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0648\u06cc\u0628\u0631\u0627\u0688\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1260036385,
-    "wof:lastmodified":1537575808,
+    "wof:lastmodified":1564305456,
     "wof:name":"La Quebrada",
     "wof:parent_id":421172605,
     "wof:placetype":"locality",

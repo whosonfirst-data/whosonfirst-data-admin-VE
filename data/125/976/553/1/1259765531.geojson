@@ -26,6 +26,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maturin"
+    ],
+    "name:fra_x_preferred":[
+        "Maturin"
+    ],
+    "name:swe_x_preferred":[
+        "Maturin"
+    ],
     "name:und_x_variant":[
         "Oficina Maturin",
         "Matur\u00edn"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259765531,
-    "wof:lastmodified":1537713540,
+    "wof:lastmodified":1564307263,
     "wof:name":"Maturin",
     "wof:parent_id":421171381,
     "wof:placetype":"locality",

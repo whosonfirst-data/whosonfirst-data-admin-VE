@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Surama Village"
+    ],
+    "name:ces_x_preferred":[
+        "Surama"
+    ],
+    "name:fra_x_preferred":[
+        "Surama"
+    ],
+    "name:swe_x_preferred":[
+        "Surama Village"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242965235,
-    "wof:lastmodified":1537001631,
+    "wof:lastmodified":1564306940,
     "wof:name":"Surama",
     "wof:parent_id":421197623,
     "wof:placetype":"locality",

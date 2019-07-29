@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Los Aposentos"
+    ],
+    "name:spa_x_preferred":[
+        "Parque nacional Los Aposentos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1344140561,
-    "wof:lastmodified":1536760259,
+    "wof:lastmodified":1564302841,
     "wof:name":"Los Aposentos",
     "wof:parent_id":421200611,
     "wof:placetype":"locality",

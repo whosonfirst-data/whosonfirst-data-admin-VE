@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Colinas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310092801,
-    "wof:lastmodified":1537014141,
+    "wof:lastmodified":1564305674,
     "wof:name":"Las Colinas",
     "wof:parent_id":1108694189,
     "wof:placetype":"locality",

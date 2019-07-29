@@ -25,6 +25,24 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bastian"
+    ],
+    "name:fra_x_preferred":[
+        "Bastian"
+    ],
+    "name:nno_x_preferred":[
+        "Bastian"
+    ],
+    "name:nor_x_preferred":[
+        "Bastian"
+    ],
+    "name:por_x_preferred":[
+        "Bastian"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0438\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1326809267,
-    "wof:lastmodified":1537078792,
+    "wof:lastmodified":1564302241,
     "wof:name":"Bastian",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El Remolino"
+    ],
+    "name:spa_x_preferred":[
+        "El Remolino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310079783,
-    "wof:lastmodified":1537032303,
+    "wof:lastmodified":1564305659,
     "wof:name":"El Remolino",
     "wof:parent_id":421183171,
     "wof:placetype":"locality",

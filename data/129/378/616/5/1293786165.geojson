@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441 \u0422\u0430\u0431\u043b\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Las Tablas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293786165,
-    "wof:lastmodified":1536852428,
+    "wof:lastmodified":1564303566,
     "wof:name":"Las Tablas",
     "wof:parent_id":421166905,
     "wof:placetype":"locality",

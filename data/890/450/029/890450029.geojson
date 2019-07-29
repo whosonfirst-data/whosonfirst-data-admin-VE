@@ -33,8 +33,44 @@
     "mps:longitude":-65.668598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Carvajal"
+    ],
+    "name:ceb_x_preferred":[
+        "Carvajal"
+    ],
+    "name:deu_x_preferred":[
+        "Carvajal"
+    ],
     "name:eng_x_variant":[
         "Carvajal"
+    ],
+    "name:fra_x_preferred":[
+        "Carvajal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05d5\u05d7\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Carvajal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30d0\u30cf\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Carvajal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0432\u0430\u0445\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Carvajal"
+    ],
+    "name:swe_x_preferred":[
+        "Carvajal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0432\u0430\u0445\u0430\u043b\u044c"
     ],
     "qs:name":"Municipio San Rafael de Carvajal",
     "qs:photos_9r":0,
@@ -68,7 +104,7 @@
         }
     ],
     "wof:id":890450029,
-    "wof:lastmodified":1554489062,
+    "wof:lastmodified":1564306468,
     "wof:name":"Carvajal",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

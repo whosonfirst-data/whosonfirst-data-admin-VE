@@ -32,6 +32,21 @@
     "name:eng_x_variant":[
         "Cupira"
     ],
+    "name:fra_x_preferred":[
+        "C\u00fapira"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00fapira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d4\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ud53c\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "C\u00fapira"
+    ],
     "name:por_x_preferred":[
         "C\u00fapira"
     ],
@@ -43,6 +58,9 @@
     ],
     "name:spa_x_variant":[
         "Cupira"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u76ae\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +86,7 @@
         }
     ],
     "wof:id":1310075387,
-    "wof:lastmodified":1537575817,
+    "wof:lastmodified":1564305661,
     "wof:name":"Cupira",
     "wof:parent_id":421184387,
     "wof:placetype":"locality",

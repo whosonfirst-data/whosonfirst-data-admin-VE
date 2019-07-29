@@ -25,6 +25,24 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Molina"
+    ],
+    "name:deu_x_preferred":[
+        "La Molina"
+    ],
+    "name:glg_x_preferred":[
+        "La Molina"
+    ],
+    "name:por_x_preferred":[
+        "La Molina"
+    ],
+    "name:spa_x_preferred":[
+        "La Molina"
+    ],
+    "name:swe_x_preferred":[
+        "La Molina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1310064755,
-    "wof:lastmodified":1537053151,
+    "wof:lastmodified":1564305773,
     "wof:name":"La Molina",
     "wof:parent_id":421195115,
     "wof:placetype":"locality",

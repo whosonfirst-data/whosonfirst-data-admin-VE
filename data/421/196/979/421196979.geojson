@@ -34,6 +34,9 @@
     "name:aze_x_preferred":[
         "Marqarita Fernandez"
     ],
+    "name:deu_x_preferred":[
+        "Cede\u00f1o"
+    ],
     "name:eng_x_variant":[
         "Cedeno",
         "Cede\u00f1o"
@@ -44,8 +47,26 @@
     "name:fra_x_preferred":[
         "Margarita Cede\u00f1o de Fern\u00e1ndez"
     ],
+    "name:fra_x_variant":[
+        "Cede\u00f1o"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d3\u05e0\u05d9\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30c7\u30fc\u30cb\u30e7"
+    ],
+    "name:nld_x_preferred":[
+        "Cede\u00f1o"
+    ],
+    "name:pol_x_preferred":[
+        "Cede\u00f1o"
+    ],
     "name:spa_x_preferred":[
         "Margarita Cede\u00f1o"
+    ],
+    "name:spa_x_variant":[
+        "Cede\u00f1o"
     ],
     "name:tur_x_preferred":[
         "Margarita Cede\u00f1o de Fern\u00e1ndez"
@@ -96,7 +117,7 @@
         }
     ],
     "wof:id":421196979,
-    "wof:lastmodified":1554489021,
+    "wof:lastmodified":1564306419,
     "wof:name":"Cede\u00f1o",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

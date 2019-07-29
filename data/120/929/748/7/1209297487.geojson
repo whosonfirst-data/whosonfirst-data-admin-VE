@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Hato"
+    ],
+    "name:spa_x_preferred":[
+        "El Hato"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u6258"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209297487,
-    "wof:lastmodified":1536291473,
+    "wof:lastmodified":1564304931,
     "wof:name":"El Hato",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

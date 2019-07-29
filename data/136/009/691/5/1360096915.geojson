@@ -25,6 +25,12 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chucho"
+    ],
+    "name:spa_x_preferred":[
+        "Chucho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1360096915,
-    "wof:lastmodified":1536929265,
+    "wof:lastmodified":1564306058,
     "wof:name":"Chucho",
     "wof:parent_id":421185095,
     "wof:placetype":"locality",

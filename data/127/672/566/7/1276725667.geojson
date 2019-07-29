@@ -25,6 +25,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Curiepe"
+    ],
+    "name:fra_x_preferred":[
+        "Curiepe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30a8\u30da"
+    ],
+    "name:spa_x_preferred":[
+        "Curiepe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276725667,
-    "wof:lastmodified":1536750164,
+    "wof:lastmodified":1564303968,
     "wof:name":"Curiepe",
     "wof:parent_id":1108694059,
     "wof:placetype":"locality",

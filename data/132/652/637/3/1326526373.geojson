@@ -25,6 +25,141 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u063a\u0627\u0633"
+    ],
+    "name:arg_x_preferred":[
+        "Estato Monagas"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u0642\u0627\u0633 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0433\u0430\u0441"
+    ],
+    "name:bre_x_preferred":[
+        "Monagas"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0433\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Monagas"
+    ],
+    "name:ceb_x_preferred":[
+        "Estado Monagas"
+    ],
+    "name:cor_x_preferred":[
+        "Monagas"
+    ],
+    "name:dan_x_preferred":[
+        "Monagas"
+    ],
+    "name:deu_x_preferred":[
+        "Monagas"
+    ],
+    "name:est_x_preferred":[
+        "Monagase osariik"
+    ],
+    "name:eus_x_preferred":[
+        "Monagas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06af\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Monagas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d2\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Monagas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ca\u30ac\u30b9\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10d0\u10d2\u10d0\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub098\uac00\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Monagas"
+    ],
+    "name:lit_x_preferred":[
+        "Monagasas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0433\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Monagas"
+    ],
+    "name:nld_x_preferred":[
+        "Monagas"
+    ],
+    "name:nno_x_preferred":[
+        "Monagas"
+    ],
+    "name:nor_x_preferred":[
+        "Monagas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0645\u0648\u0646\u0627\u06af\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Monagas"
+    ],
+    "name:por_x_preferred":[
+        "Monagas"
+    ],
+    "name:que_x_preferred":[
+        "Monagas suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Monagas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0433\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Monagas"
+    ],
+    "name:spa_x_preferred":[
+        "Estado Monagas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0433\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Monagas"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0451\u043b\u043e\u0442\u0438 \u041c\u043e\u043d\u0430\u0433\u0430\u0441"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e42\u0e21\u0e19\u0e32\u0e01\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Monagas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0433\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06af\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Monagas"
+    ],
+    "name:war_x_preferred":[
+        "Monagas"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u7d0d\u52a0\u65af\u5dde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +183,7 @@
         }
     ],
     "wof:id":1326526373,
-    "wof:lastmodified":1536991741,
+    "wof:lastmodified":1564302552,
     "wof:name":"Monagas",
     "wof:parent_id":1108694265,
     "wof:placetype":"locality",

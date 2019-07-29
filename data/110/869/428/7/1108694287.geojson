@@ -36,6 +36,18 @@
     "name:eng_x_variant":[
         "Michelena"
     ],
+    "name:fra_x_preferred":[
+        "Michelena"
+    ],
+    "name:por_x_preferred":[
+        "Michelena"
+    ],
+    "name:spa_x_preferred":[
+        "Michelena"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5207\u840a\u7d0d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":1108694287,
-    "wof:lastmodified":1554489238,
+    "wof:lastmodified":1564305508,
     "wof:name":"Michelena",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

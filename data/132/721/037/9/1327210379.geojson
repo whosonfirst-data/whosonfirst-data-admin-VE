@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Negra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041d\u0435\u0433\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Negra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327210379,
-    "wof:lastmodified":1537000754,
+    "wof:lastmodified":1564302627,
     "wof:name":"La Negra",
     "wof:parent_id":1108694141,
     "wof:placetype":"locality",

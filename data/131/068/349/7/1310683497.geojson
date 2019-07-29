@@ -25,6 +25,45 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ibarra"
+    ],
+    "name:deu_x_preferred":[
+        "Ibarra"
+    ],
+    "name:eus_x_preferred":[
+        "Ibarra"
+    ],
+    "name:fra_x_preferred":[
+        "Ibarra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d1\u05d0\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Ibarra"
+    ],
+    "name:nld_x_preferred":[
+        "Ibarra"
+    ],
+    "name:por_x_preferred":[
+        "Ibarra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0431\u0430\u0440\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Ibarra"
+    ],
+    "name:slk_x_preferred":[
+        "Ibarra"
+    ],
+    "name:spa_x_preferred":[
+        "Ibarra"
+    ],
+    "name:swe_x_preferred":[
+        "Ibarra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1310683497,
-    "wof:lastmodified":1536660203,
+    "wof:lastmodified":1564305938,
     "wof:name":"Ibarra",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",

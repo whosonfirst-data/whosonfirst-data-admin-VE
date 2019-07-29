@@ -25,6 +25,9 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rosado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293594211,
-    "wof:lastmodified":1536631708,
+    "wof:lastmodified":1564303588,
     "wof:name":"Rosado",
     "wof:parent_id":421188835,
     "wof:placetype":"locality",

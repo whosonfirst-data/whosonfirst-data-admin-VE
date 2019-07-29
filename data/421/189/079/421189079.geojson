@@ -34,6 +34,12 @@
     "name:eng_x_variant":[
         "Mellado"
     ],
+    "name:fra_x_preferred":[
+        "Mellado"
+    ],
+    "name:spa_x_preferred":[
+        "Mellado"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421189079,
-    "wof:lastmodified":1554488982,
+    "wof:lastmodified":1564306401,
     "wof:name":"Mellado",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

@@ -25,6 +25,24 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Tonono"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u0622\u0641\u0648\u0646\u0633\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Tonono"
+    ],
+    "name:pol_x_preferred":[
+        "Tonono"
+    ],
+    "name:spa_x_preferred":[
+        "Tonono Afonso"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u043e\u043d\u043e\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276952387,
-    "wof:lastmodified":1536944682,
+    "wof:lastmodified":1564304213,
     "wof:name":"Tonono",
     "wof:parent_id":1108694261,
     "wof:placetype":"locality",

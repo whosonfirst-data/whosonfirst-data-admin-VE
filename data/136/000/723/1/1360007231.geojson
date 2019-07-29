@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Illa Bacalao"
+    ],
+    "name:deu_x_preferred":[
+        "Bacalao"
+    ],
+    "name:fra_x_preferred":[
+        "Bacalao"
+    ],
+    "name:ita_x_preferred":[
+        "Bacalao"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Bacalao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1360007231,
-    "wof:lastmodified":1537055600,
+    "wof:lastmodified":1564306050,
     "wof:name":"Bacalao",
     "wof:parent_id":421196981,
     "wof:placetype":"locality",

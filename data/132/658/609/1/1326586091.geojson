@@ -26,7 +26,22 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aroa"
+    ],
+    "name:por_x_preferred":[
+        "Aroa"
+    ],
+    "name:ron_x_preferred":[
+        "Aroa"
+    ],
     "name:spa_x_preferred":[
+        "Aroa"
+    ],
+    "name:swe_x_preferred":[
+        "Aroa"
+    ],
+    "name:war_x_preferred":[
         "Aroa"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326586091,
-    "wof:lastmodified":1537713631,
+    "wof:lastmodified":1564302287,
     "wof:name":"Aroa",
     "wof:parent_id":1108694125,
     "wof:placetype":"locality",

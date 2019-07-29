@@ -26,6 +26,18 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sierra Imataca"
+    ],
+    "name:fra_x_preferred":[
+        "Sierra Imataca"
+    ],
+    "name:pol_x_preferred":[
+        "Sierra Imataca"
+    ],
+    "name:por_x_preferred":[
+        "Sierra Imataca"
+    ],
     "name:spa_x_preferred":[
         "Sierra Imataca"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1260177357,
-    "wof:lastmodified":1537713638,
+    "wof:lastmodified":1564305420,
     "wof:name":"Sierra Imataca",
     "wof:parent_id":421183445,
     "wof:placetype":"locality",

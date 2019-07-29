@@ -25,6 +25,57 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Petare"
+    ],
+    "name:deu_x_preferred":[
+        "Petare"
+    ],
+    "name:epo_x_preferred":[
+        "Petare"
+    ],
+    "name:eus_x_preferred":[
+        "Petare"
+    ],
+    "name:fra_x_preferred":[
+        "Petare"
+    ],
+    "name:ita_x_preferred":[
+        "Petare"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30bf\u30ec"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e2\u10d0\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ud0c0\ub808"
+    ],
+    "name:lit_x_preferred":[
+        "Petar\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Petare"
+    ],
+    "name:por_x_preferred":[
+        "Petare"
+    ],
+    "name:spa_x_preferred":[
+        "Petare"
+    ],
+    "name:swe_x_preferred":[
+        "Petare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0430\u0440\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Petare"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5854\u96f7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +99,7 @@
         }
     ],
     "wof:id":1293063085,
-    "wof:lastmodified":1536902226,
+    "wof:lastmodified":1564303416,
     "wof:name":"Petare",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

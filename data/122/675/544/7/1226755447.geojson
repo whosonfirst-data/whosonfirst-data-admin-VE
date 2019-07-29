@@ -25,6 +25,15 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Capaya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d1\u30b8\u30e3"
+    ],
+    "name:spa_x_preferred":[
+        "Capaya"
+    ],
     "name:und_x_variant":[
         "San Antonio",
         "Capalla",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226755447,
-    "wof:lastmodified":1537713521,
+    "wof:lastmodified":1564307528,
     "wof:name":"Capaya",
     "wof:parent_id":421190215,
     "wof:placetype":"locality",

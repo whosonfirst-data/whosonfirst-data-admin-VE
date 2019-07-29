@@ -25,6 +25,36 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Carorita"
+    ],
+    "name:fra_x_preferred":[
+        "Carorita"
+    ],
+    "name:ita_x_preferred":[
+        "Carorita"
+    ],
+    "name:nld_x_preferred":[
+        "Carorita"
+    ],
+    "name:por_x_preferred":[
+        "Carorita"
+    ],
+    "name:ron_x_preferred":[
+        "Carorita"
+    ],
+    "name:spa_x_preferred":[
+        "Carorita"
+    ],
+    "name:swe_x_preferred":[
+        "Carorita"
+    ],
+    "name:vie_x_preferred":[
+        "Carorita"
+    ],
+    "name:war_x_preferred":[
+        "Carorita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1226614735,
-    "wof:lastmodified":1536903860,
+    "wof:lastmodified":1564307765,
     "wof:name":"Carorita",
     "wof:parent_id":1108694477,
     "wof:placetype":"locality",

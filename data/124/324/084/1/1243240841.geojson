@@ -25,6 +25,21 @@
     "iso:country":"VE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mazuca"
+    ],
+    "name:por_x_preferred":[
+        "Mazuca"
+    ],
+    "name:swe_x_preferred":[
+        "Mazuca"
+    ],
+    "name:vie_x_preferred":[
+        "Mazuca"
+    ],
+    "name:war_x_preferred":[
+        "Mazuca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243240841,
-    "wof:lastmodified":1536601880,
+    "wof:lastmodified":1564306709,
     "wof:name":"Mazuca",
     "wof:parent_id":1108694131,
     "wof:placetype":"locality",
