@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":8.494073,
     "lbl:longitude":-71.308093,
     "meso:name_local":"M\u00e9rida",
@@ -350,16 +353,13 @@
         }
     ],
     "wof:id":85680473,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238417,
+    "wof:lastmodified":1565738723,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":7.846016,
     "lbl:longitude":-72.034959,
     "meso:name_local":"T\u00e1chira",
@@ -358,16 +361,13 @@
         }
     ],
     "wof:id":85680481,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238420,
+    "wof:lastmodified":1565738724,
     "wof:name":"T\u00e1chira",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

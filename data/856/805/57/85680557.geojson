@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NE"
+    ],
     "lbl:latitude":11.012171,
     "lbl:longitude":-63.924189,
     "meso:name_local":"Nueva Esparta",
@@ -355,16 +358,13 @@
         }
     ],
     "wof:id":85680557,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238427,
+    "wof:lastmodified":1565738725,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "federal dependencies"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DP"
+    ],
     "lbl:latitude":10.930269,
     "lbl:longitude":-65.309573,
     "meso:name_local":"Dependencias Federales",
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85680539,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238440,
+    "wof:lastmodified":1565738728,
     "wof:name":"Dependencias Federales",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

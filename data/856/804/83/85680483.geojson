@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":9.417653,
     "lbl:longitude":-70.504369,
     "meso:name_local":"Trujillo",
@@ -344,16 +347,13 @@
         }
     ],
     "wof:id":85680483,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238424,
+    "wof:lastmodified":1565738725,
     "wof:name":"Trujillo",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

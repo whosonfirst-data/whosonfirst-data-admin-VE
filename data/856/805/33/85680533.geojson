@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
     "lbl:latitude":10.519472,
     "lbl:longitude":-67.117687,
     "meso:name_local":"Vargas",
@@ -346,16 +349,13 @@
         }
     ],
     "wof:id":85680533,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238430,
+    "wof:lastmodified":1565738726,
     "wof:name":"Vargas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "capital district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DF"
+    ],
     "lbl:latitude":10.486633,
     "lbl:longitude":-66.982247,
     "meso:name_local":"Distrito Capital",
@@ -320,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238429,
+    "wof:lastmodified":1565738726,
     "wof:name":"Distrito Capital",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

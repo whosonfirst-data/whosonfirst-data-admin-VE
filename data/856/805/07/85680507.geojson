@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YA"
+    ],
     "lbl:latitude":10.27477,
     "lbl:longitude":-68.705487,
     "meso:name_local":"Yaracuy",
@@ -336,16 +339,13 @@
         }
     ],
     "wof:id":85680507,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238437,
+    "wof:lastmodified":1565738728,
     "wof:name":"Yaracuy",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

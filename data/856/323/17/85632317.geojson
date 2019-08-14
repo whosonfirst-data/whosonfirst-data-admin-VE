@@ -14,6 +14,9 @@
     "itu:country_code":[
         "58"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VE"
+    ],
     "lbl:latitude":7.18646,
     "lbl:longitude":-64.568705,
     "mps:latitude":7.18646,
@@ -1071,16 +1074,13 @@
         }
     ],
     "wof:id":85632317,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238447,
+    "wof:lastmodified":1565738729,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

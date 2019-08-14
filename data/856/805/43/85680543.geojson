@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":8.625438,
     "lbl:longitude":-66.173099,
     "meso:name_local":"Gu\u00e1rico",
@@ -337,16 +340,13 @@
         }
     ],
     "wof:id":85680543,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238436,
+    "wof:lastmodified":1565738728,
     "wof:name":"Gu\u00e1rico",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

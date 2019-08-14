@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":9.459118,
     "lbl:longitude":-68.335131,
     "meso:name_local":"Cojedes",
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85680491,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238421,
+    "wof:lastmodified":1565738724,
     "wof:name":"Cojedes",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

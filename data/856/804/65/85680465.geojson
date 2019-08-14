@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AP"
+    ],
     "lbl:latitude":7.041144,
     "lbl:longitude":-68.854446,
     "meso:name_local":"Apure",
@@ -372,16 +375,13 @@
         }
     ],
     "wof:id":85680465,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238422,
+    "wof:lastmodified":1565738724,
     "wof:name":"Apure",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

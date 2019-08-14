@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":8.71246,
     "lbl:longitude":-64.193859,
     "meso:name_local":"Anzo\u00e1tegui",
@@ -361,16 +364,13 @@
         }
     ],
     "wof:id":85680521,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238435,
+    "wof:lastmodified":1565738727,
     "wof:name":"Anzo\u00e1tegui",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

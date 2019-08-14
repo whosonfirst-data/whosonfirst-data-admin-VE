@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":8.93853,
     "lbl:longitude":-61.466273,
     "meso:name_local":"Delta Amacuro",
@@ -362,16 +365,13 @@
         }
     ],
     "wof:id":85680565,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238438,
+    "wof:lastmodified":1565738728,
     "wof:name":"Delta Amacuro",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

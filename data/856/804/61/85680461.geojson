@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FA"
+    ],
     "lbl:latitude":11.090107,
     "lbl:longitude":-69.772823,
     "meso:name_local":"Falc\u00f3n",
@@ -350,16 +353,13 @@
         }
     ],
     "wof:id":85680461,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238413,
+    "wof:lastmodified":1565738722,
     "wof:name":"Falc\u00f3n",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

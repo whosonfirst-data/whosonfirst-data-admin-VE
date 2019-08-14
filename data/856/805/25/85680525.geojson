@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":10.204217,
     "lbl:longitude":-67.420832,
     "meso:name_local":"Aragua",
@@ -375,16 +378,13 @@
         }
     ],
     "wof:id":85680525,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238443,
+    "wof:lastmodified":1565738729,
     "wof:name":"Aragua",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

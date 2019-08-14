@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":10.186328,
     "lbl:longitude":-69.785768,
     "meso:name_local":"Lara",
@@ -342,16 +345,13 @@
         }
     ],
     "wof:id":85680499,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238423,
+    "wof:lastmodified":1565738725,
     "wof:name":"Lara",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":3.027488,
     "lbl:longitude":-65.792541,
     "meso:name_local":"Amazonas",
@@ -380,16 +383,13 @@
         }
     ],
     "wof:id":85680511,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238431,
+    "wof:lastmodified":1565738726,
     "wof:name":"Amazonas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

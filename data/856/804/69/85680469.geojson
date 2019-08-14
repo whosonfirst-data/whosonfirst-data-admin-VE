@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":8.326867,
     "lbl:longitude":-70.249338,
     "meso:name_local":"Barinas",
@@ -359,16 +362,13 @@
         }
     ],
     "wof:id":85680469,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238415,
+    "wof:lastmodified":1565738722,
     "wof:name":"Barinas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

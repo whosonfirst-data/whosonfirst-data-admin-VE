@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZU"
+    ],
     "lbl:latitude":9.578507,
     "lbl:longitude":-72.562312,
     "meso:name_local":"Zulia",
@@ -374,16 +377,13 @@
         }
     ],
     "wof:id":85680487,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238418,
+    "wof:lastmodified":1565738724,
     "wof:name":"Zulia",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

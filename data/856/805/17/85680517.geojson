@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":6.125139,
     "lbl:longitude":-63.2397,
     "meso:name_local":"Bol\u00edvar",
@@ -368,16 +371,13 @@
         }
     ],
     "wof:id":85680517,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238433,
+    "wof:lastmodified":1565738727,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

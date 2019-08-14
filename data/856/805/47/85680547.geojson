@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":9.443451,
     "lbl:longitude":-63.024255,
     "meso:name_local":"Monagas",
@@ -337,16 +340,13 @@
         }
     ],
     "wof:id":85680547,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238441,
+    "wof:lastmodified":1565738729,
     "wof:name":"Monagas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

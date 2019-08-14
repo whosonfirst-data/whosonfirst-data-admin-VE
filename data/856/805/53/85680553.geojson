@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
     "lbl:latitude":10.290358,
     "lbl:longitude":-66.395494,
     "meso:name_local":"Miranda",
@@ -350,16 +353,13 @@
         }
     ],
     "wof:id":85680553,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238440,
+    "wof:lastmodified":1565738728,
     "wof:name":"Miranda",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

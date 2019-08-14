@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PO"
+    ],
     "lbl:latitude":9.116784,
     "lbl:longitude":-69.259874,
     "meso:name_local":"Portuguesa",
@@ -335,16 +338,13 @@
         }
     ],
     "wof:id":85680503,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238428,
+    "wof:lastmodified":1565738725,
     "wof:name":"Portuguesa",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

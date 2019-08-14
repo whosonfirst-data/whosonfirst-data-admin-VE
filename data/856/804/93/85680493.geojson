@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "lbl:latitude":10.131433,
     "lbl:longitude":-67.962972,
     "meso:name_local":"Carabobo",
@@ -363,16 +366,13 @@
         }
     ],
     "wof:id":85680493,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563238416,
+    "wof:lastmodified":1565738723,
     "wof:name":"Carabobo",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
