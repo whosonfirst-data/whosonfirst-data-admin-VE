@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.12133,10.19432,-69.08133,10.23432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09cd\u09b0\u09cb \u0986\u099c\u09c1\u09b2"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1326901453,
-    "wof:lastmodified":1564302559,
+    "wof:lastmodified":1566644310,
     "wof:name":"Cerro Azul",
     "wof:parent_id":1108694163,
     "wof:placetype":"locality",

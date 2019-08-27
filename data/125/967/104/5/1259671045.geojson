@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.12525,10.91894,-71.08525,10.95894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Fernando"
     ],
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1259671045,
-    "wof:lastmodified":1564307344,
+    "wof:lastmodified":1566646762,
     "wof:name":"San Fernando",
     "wof:parent_id":1108694281,
     "wof:placetype":"locality",

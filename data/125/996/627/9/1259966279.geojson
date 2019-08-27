@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.99588,7.83318,-65.95588,7.87318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Huerta"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259966279,
-    "wof:lastmodified":1564307124,
+    "wof:lastmodified":1566646656,
     "wof:name":"La Huerta",
     "wof:parent_id":421195497,
     "wof:placetype":"locality",

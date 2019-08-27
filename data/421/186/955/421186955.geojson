@@ -10,8 +10,12 @@
     "geom:latitude":10.474236,
     "geom:longitude":-68.01165,
     "iso:country":"VE",
+    "lbl:bbox":"-68.03165,10.4542365,-67.99165,10.4942365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0643\u0627\u0628\u064a\u0644\u0648"
@@ -188,7 +192,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468427,
-        "qs:id":1077541,
+        "qs_pg:id":1077541,
         "wd:id":"Q995695"
     },
     "wof:country":"VE",
@@ -204,7 +208,7 @@
         }
     ],
     "wof:id":421186955,
-    "wof:lastmodified":1563241134,
+    "wof:lastmodified":1566646258,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":421198089,
     "wof:placetype":"locality",

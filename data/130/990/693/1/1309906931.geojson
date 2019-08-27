@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.44788,7.01985,-71.40788,7.05985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Victoria"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1309906931,
-    "wof:lastmodified":1564306198,
+    "wof:lastmodified":1566646130,
     "wof:name":"La Victoria",
     "wof:parent_id":421190785,
     "wof:placetype":"locality",

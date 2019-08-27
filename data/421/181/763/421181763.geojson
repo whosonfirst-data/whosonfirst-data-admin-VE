@@ -10,8 +10,12 @@
     "geom:latitude":10.35782,
     "geom:longitude":-66.80252,
     "iso:country":"VE",
+    "lbl:bbox":"-66.82252,10.33782,-66.78252,10.37782",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Caucagua"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3803515,
         "gp:id":468408,
-        "qs:id":501655,
+        "qs_pg:id":501655,
         "wd:id":"Q1028164"
     },
     "wof:country":"VE",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421181763,
-    "wof:lastmodified":1563241146,
+    "wof:lastmodified":1566646262,
     "wof:name":"Caucagua",
     "wof:parent_id":421194073,
     "wof:placetype":"locality",

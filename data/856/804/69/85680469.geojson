@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.326867,
     "lbl:longitude":-70.249338,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Barinas",
     "mps:latitude":8.312786,
     "mps:longitude":-70.282462,
@@ -230,7 +231,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0456\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estado Zamora"
     ],
     "name:urd_x_preferred":[
@@ -320,9 +321,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"35,200",
     "statoids:area_mi":"13,590",
     "statoids:as_of_date":"2011-09-01",
@@ -347,7 +348,7 @@
         "gp:id":2347681,
         "hasc:id":"VE.BA",
         "iso:id":"VE-E",
-        "qs:id":1083882,
+        "qs_pg:id":1083882,
         "unlc:id":"VE-E",
         "wd:id":"Q43271",
         "wk:page":"Barinas (state)"
@@ -368,11 +369,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738722,
+    "wof:lastmodified":1566644698,
     "wof:name":"Barinas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":816264,
     "wof:population_rank":11,

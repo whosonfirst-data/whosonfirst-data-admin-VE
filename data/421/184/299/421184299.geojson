@@ -10,8 +10,12 @@
     "geom:latitude":8.922189,
     "geom:longitude":-67.428421,
     "iso:country":"VE",
+    "lbl:bbox":"-67.528421,8.822189,-67.328421,9.022189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Calabozo"
@@ -86,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805418,
-        "qs:id":993290,
         "qs_pg:id":993290
     },
     "wof:country":"VE",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421184299,
-    "wof:lastmodified":1564306444,
+    "wof:lastmodified":1566646287,
     "wof:name":"Calabozo",
     "wof:parent_id":1108694293,
     "wof:placetype":"localadmin",

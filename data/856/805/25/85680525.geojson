@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.204217,
     "lbl:longitude":-67.420832,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Aragua",
     "mps:latitude":10.201981,
     "mps:longitude":-67.436045,
@@ -335,9 +336,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"7,014",
     "statoids:area_mi":"2,710",
     "statoids:as_of_date":"2011-09-01",
@@ -363,7 +364,7 @@
         "gp:id":2347680,
         "hasc:id":"VE.AR",
         "iso:id":"VE-D",
-        "qs:id":1047609,
+        "qs_pg:id":1047609,
         "unlc:id":"VE-D",
         "wd:id":"Q190687",
         "wk:page":"Aragua"
@@ -384,11 +385,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738729,
+    "wof:lastmodified":1566644709,
     "wof:name":"Aragua",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1630308,
     "wof:population_rank":12,

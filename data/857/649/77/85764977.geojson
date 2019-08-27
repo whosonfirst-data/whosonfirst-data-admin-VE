@@ -12,8 +12,10 @@
     "gn:latitude":10.52278,
     "gn:longitude":-66.925,
     "iso:country":"VE",
+    "lbl:bbox":"-66.911731,10.536334,-66.901731,10.546334",
     "lbl:latitude":10.541334,
     "lbl:longitude":-66.906731,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.54726,
     "mps:longitude":-66.894663,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "La Pastora"
     ],
     "name:spa_x_preferred":[
-        "La Pastora"
-    ],
-    "name:unk_x_variant":[
         "La Pastora"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85680535,
         102191577,
@@ -86,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3481140,
         "gp:id":388407,
-        "qs:id":1082767
+        "qs_pg:id":1082767
     },
     "wof:country":"VE",
     "wof:geomhash":"218c389da1002ab4611eb04fda7ccb2e",
@@ -104,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564303315,
+    "wof:lastmodified":1566644697,
     "wof:name":"La Pastora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

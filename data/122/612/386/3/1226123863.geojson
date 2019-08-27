@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.02,9.31333,-62.98,9.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paso El Jobal",
         "Paso El Jabal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226123863,
-    "wof:lastmodified":1537713531,
+    "wof:lastmodified":1566647060,
     "wof:name":"Paso El Jabal",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

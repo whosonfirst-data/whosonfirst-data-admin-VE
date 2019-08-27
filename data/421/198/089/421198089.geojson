@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.407775,
     "lbl:longitude":-68.030079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Carabobo",
     "meso:gadm_admin":"Puerto Cabello",
     "meso:gaul_admin":"Puerto Cabello",
@@ -206,9 +208,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"434",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Puerto Cabello",
@@ -229,7 +231,7 @@
         "gn:id":3629706,
         "gp:id":26804618,
         "hasc:id":"VE.CA.PC",
-        "qs:id":957425,
+        "qs_pg:id":957425,
         "wd:id":"Q3410570",
         "wk:page":"Puerto Cabello"
     },
@@ -245,7 +247,7 @@
         }
     ],
     "wof:id":421198089,
-    "wof:lastmodified":1563241162,
+    "wof:lastmodified":1566646268,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

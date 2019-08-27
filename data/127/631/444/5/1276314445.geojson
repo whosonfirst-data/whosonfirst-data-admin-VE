@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.58433,10.15873,-63.54433,10.19873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276314445,
-    "wof:lastmodified":1536803926,
+    "wof:lastmodified":1566645298,
     "wof:name":"Bolivar",
     "wof:parent_id":421186265,
     "wof:placetype":"locality",

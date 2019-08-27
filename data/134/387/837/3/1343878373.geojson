@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.3268,10.31613,-68.2868,10.35613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La S\u00e1bana"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343878373,
-    "wof:lastmodified":1564303251,
+    "wof:lastmodified":1566644658,
     "wof:name":"La Sabana",
     "wof:parent_id":421172279,
     "wof:placetype":"locality",

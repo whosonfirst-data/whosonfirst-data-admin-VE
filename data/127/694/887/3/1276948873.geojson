@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.82,9.89667,-69.78,9.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Calera"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1276948873,
-    "wof:lastmodified":1564304149,
+    "wof:lastmodified":1566645115,
     "wof:name":"Calera",
     "wof:parent_id":421200611,
     "wof:placetype":"locality",

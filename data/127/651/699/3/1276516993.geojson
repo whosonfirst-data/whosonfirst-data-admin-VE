@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.63017,10.26148,-66.59017,10.30148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Vega"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1276516993,
-    "wof:lastmodified":1564304146,
+    "wof:lastmodified":1566645114,
     "wof:name":"La Vega",
     "wof:parent_id":1108694341,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.06441,10.16313,-71.02441,10.20313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293156733,
-    "wof:lastmodified":1536767507,
+    "wof:lastmodified":1566644822,
     "wof:name":"Singapur",
     "wof:parent_id":1108694239,
     "wof:placetype":"locality",

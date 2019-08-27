@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.59837,7.64488,-65.55837,7.68488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226039783,
-    "wof:lastmodified":1536733999,
+    "wof:lastmodified":1566646966,
     "wof:name":"El Pailon",
     "wof:parent_id":421196979,
     "wof:placetype":"locality",

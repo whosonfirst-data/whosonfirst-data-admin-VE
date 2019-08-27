@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.97895,9.51888,-71.93895,9.55888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lagunitas",
         "Lagunetas"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344114813,
-    "wof:lastmodified":1537713568,
+    "wof:lastmodified":1566644614,
     "wof:name":"Lagunetas",
     "wof:parent_id":1108694269,
     "wof:placetype":"locality",

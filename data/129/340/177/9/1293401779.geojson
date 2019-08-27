@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.03688,9.13177,-64.99688,9.17177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Chaparro"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293401779,
-    "wof:lastmodified":1537713505,
+    "wof:lastmodified":1566644837,
     "wof:name":"El Chaparro",
     "wof:parent_id":1108694283,
     "wof:placetype":"locality",

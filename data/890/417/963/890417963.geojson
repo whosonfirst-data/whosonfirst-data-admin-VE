@@ -11,10 +11,14 @@
     "geom:longitude":-68.7328,
     "gn:country":"VE",
     "gn:fcode":"PPL",
-    "gn:pop":74,
+    "gn:population":74,
     "iso:country":"VE",
+    "lbl:bbox":"-68.7528,10.32169,-68.7128,10.36169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"El Diario de Yaracuy",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6301912,
         "gp:id":468434,
-        "qs:id":621284
+        "qs_pg:id":621284
     },
     "wof:country":"VE",
     "wof:created":1469051228,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890417963,
-    "wof:lastmodified":1505343441,
+    "wof:lastmodified":1566646310,
     "wof:name":"El Diario de Yaracuy",
     "wof:parent_id":421204789,
     "wof:placetype":"locality",

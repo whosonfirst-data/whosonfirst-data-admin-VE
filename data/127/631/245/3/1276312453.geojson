@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.66519,9.37265,-65.62519,9.41265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0415\u043b \u0414\u0435\u0441\u0442\u0438\u043d\u043e"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276312453,
-    "wof:lastmodified":1564304544,
+    "wof:lastmodified":1566645296,
     "wof:name":"El Destino",
     "wof:parent_id":1108694365,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.81443,9.43367,-65.77443,9.47367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242654019,
-    "wof:lastmodified":1536953900,
+    "wof:lastmodified":1566646568,
     "wof:name":"Piedra Azul",
     "wof:parent_id":1108694365,
     "wof:placetype":"locality",

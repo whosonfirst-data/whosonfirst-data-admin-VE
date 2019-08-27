@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.530281,
     "lbl:longitude":-64.857209,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Aragua",
     "meso:gaul_admin":"Aragua",
@@ -30,6 +32,7 @@
     "mps:longitude":-64.857209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Municipio Aragua"
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -109,7 +112,7 @@
         "gn:id":3648916,
         "gp:id":26804736,
         "hasc:id":"VE.AN.AR",
-        "qs:id":43625,
+        "qs_pg:id":43625,
         "wd:id":"Q606975"
     },
     "wof:country":"VE",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421166905,
-    "wof:lastmodified":1563241043,
+    "wof:lastmodified":1566646214,
     "wof:name":"Aragua",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.73509,8.1391,-64.69509,8.1791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277076475,
-    "wof:lastmodified":1536777202,
+    "wof:lastmodified":1566645023,
     "wof:name":"La Calceta",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

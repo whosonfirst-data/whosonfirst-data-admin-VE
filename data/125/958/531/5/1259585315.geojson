@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.87,8.41333,-63.83,8.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Posura",
         "Pasura"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259585315,
-    "wof:lastmodified":1537713530,
+    "wof:lastmodified":1566646768,
     "wof:name":"Pasura",
     "wof:parent_id":421203571,
     "wof:placetype":"locality",

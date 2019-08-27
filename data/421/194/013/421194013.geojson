@@ -11,10 +11,14 @@
     "geom:longitude":-67.47319,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":344700,
+    "gn:population":344700,
     "iso:country":"VE",
+    "lbl:bbox":"-67.49319,10.21262,-67.45319,10.25262",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0645\u064a\u0631\u0648"
@@ -173,13 +177,13 @@
     "wof:concordances":{
         "gn:id":3806880,
         "gp:id":395277,
-        "qs:id":887622,
+        "qs_pg:id":887622,
         "wd:id":"Q997084",
         "wk:page":"Turmero"
     },
     "wof:concordances_alt":{
         "gn:id":3625829,
-        "qs:id":149536
+        "qs_pg:id":149536
     },
     "wof:country":"VE",
     "wof:created":1459009790,
@@ -194,7 +198,7 @@
         }
     ],
     "wof:id":421194013,
-    "wof:lastmodified":1563241062,
+    "wof:lastmodified":1566646224,
     "wof:name":"Turmero",
     "wof:parent_id":421186263,
     "wof:placetype":"locality",

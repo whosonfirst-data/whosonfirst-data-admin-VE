@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.56044,9.60979,-69.52044,9.64979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309777105,
-    "wof:lastmodified":1536972149,
+    "wof:lastmodified":1566646141,
     "wof:name":"La Hacienda",
     "wof:parent_id":421183169,
     "wof:placetype":"locality",

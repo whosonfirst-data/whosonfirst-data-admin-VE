@@ -10,8 +10,12 @@
     "geom:latitude":6.38333,
     "geom:longitude":-62.91667,
     "iso:country":"VE",
+    "lbl:bbox":"-62.93667,6.36333,-62.89667,6.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3646930,
         "gp:id":395408,
-        "qs:id":899761
+        "qs_pg:id":899761
     },
     "wof:country":"VE",
     "wof:created":1459009451,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421185673,
-    "wof:lastmodified":1500034326,
+    "wof:lastmodified":1566646303,
     "wof:name":"Ca\u00f1o Negro",
     "wof:parent_id":421197623,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.27885,
     "geom:longitude":-62.786693,
     "iso:country":"VE",
+    "lbl:bbox":"-62.886693,8.17885,-62.686693,8.37885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805725,
-        "qs:id":959195,
         "qs_pg:id":959195
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421183021,
-    "wof:lastmodified":1497047077,
+    "wof:lastmodified":1566646293,
     "wof:name":"Mamo",
     "wof:parent_id":421190237,
     "wof:placetype":"localadmin",

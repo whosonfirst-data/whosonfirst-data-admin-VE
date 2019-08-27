@@ -10,8 +10,12 @@
     "geom:latitude":10.669042,
     "geom:longitude":-63.246316,
     "iso:country":"VE",
+    "lbl:bbox":"-63.346316,10.569042,-63.146316,10.769042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09be"
@@ -101,7 +105,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805061,
-        "qs:id":114723,
         "qs_pg:id":114723
     },
     "wof:country":"VE",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421195007,
-    "wof:lastmodified":1564306366,
+    "wof:lastmodified":1566646219,
     "wof:name":"Santa Teresa",
     "wof:parent_id":1108694113,
     "wof:placetype":"localadmin",

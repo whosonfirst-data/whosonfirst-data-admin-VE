@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.70611,9.94444,-66.66611,9.98444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242582587,
-    "wof:lastmodified":1537054073,
+    "wof:lastmodified":1566646423,
     "wof:name":"El Jobito",
     "wof:parent_id":1108694361,
     "wof:placetype":"locality",

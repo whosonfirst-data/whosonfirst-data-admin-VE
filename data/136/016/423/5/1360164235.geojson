@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.38572,9.1151,-66.34572,9.1551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360164235,
-    "wof:lastmodified":1536830550,
+    "wof:lastmodified":1566646069,
     "wof:name":"La Morrocoya",
     "wof:parent_id":1108694159,
     "wof:placetype":"locality",

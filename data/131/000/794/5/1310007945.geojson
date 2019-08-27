@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.26725,9.70792,-64.22725,9.74792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pirepire",
         "Piripire"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310007945,
-    "wof:lastmodified":1537713528,
+    "wof:lastmodified":1566645873,
     "wof:name":"Piripire",
     "wof:parent_id":421183227,
     "wof:placetype":"locality",

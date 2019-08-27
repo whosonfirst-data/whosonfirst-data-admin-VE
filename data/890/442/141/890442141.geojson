@@ -11,8 +11,11 @@
     "geom:longitude":-64.1775,
     "gn:country":"VE",
     "gn:fcode":"PPLA",
-    "gn:pop":257783,
+    "gn:population":257783,
     "iso:country":"VE",
+    "lbl:bbox":"-64.1975,10.44354,-64.1575,10.48354",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -292,12 +295,12 @@
     "wof:concordances":{
         "gn:id":3644768,
         "gp:id":468383,
-        "qs:id":274471,
+        "qs_pg:id":274471,
         "wd:id":"Q319476",
         "wk:page":"Cuman\u00e1"
     },
     "wof:concordances_alt":{
-        "qs:id":1077525
+        "qs_pg:id":1077525
     },
     "wof:country":"VE",
     "wof:created":1469052351,
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":890442141,
-    "wof:lastmodified":1563241254,
+    "wof:lastmodified":1566646313,
     "wof:name":"Cuman\u00e1",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

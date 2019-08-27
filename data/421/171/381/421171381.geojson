@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.496024,
     "lbl:longitude":-66.765853,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Sucre",
     "meso:gaul_admin":"Sucre",
@@ -30,6 +32,7 @@
     "mps:longitude":-66.765853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
@@ -410,7 +413,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1751,
     "wof:belongsto":[
         102191577,
@@ -421,7 +424,7 @@
     "wof:concordances":{
         "gp:id":26804636,
         "hasc:id":"VE.AR.SU",
-        "qs:id":1263775,
+        "qs_pg:id":1263775,
         "wd:id":"Q2907"
     },
     "wof:country":"VE",
@@ -436,7 +439,7 @@
         }
     ],
     "wof:id":421171381,
-    "wof:lastmodified":1563241232,
+    "wof:lastmodified":1566646303,
     "wof:name":"Sucre",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

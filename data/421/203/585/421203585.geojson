@@ -10,8 +10,12 @@
     "geom:latitude":8.458109,
     "geom:longitude":-71.528549,
     "iso:country":"VE",
+    "lbl:bbox":"-71.628549,8.358109,-71.428549,8.558109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805251,
-        "qs:id":233702
+        "qs_pg:id":233702
     },
     "wof:country":"VE",
     "wof:created":1459010157,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421203585,
-    "wof:lastmodified":1500034068,
+    "wof:lastmodified":1566646232,
     "wof:name":"Capital Antonio Pinto Salinas",
     "wof:parent_id":1108694437,
     "wof:placetype":"localadmin",

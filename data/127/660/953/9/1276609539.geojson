@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.04322,10.06967,-71.00322,10.10967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "El Remolino"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276609539,
-    "wof:lastmodified":1564304163,
+    "wof:lastmodified":1566645120,
     "wof:name":"El Remolino",
     "wof:parent_id":1108694479,
     "wof:placetype":"locality",

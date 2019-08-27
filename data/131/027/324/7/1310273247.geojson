@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.78974,10.66818,-71.74974,10.70818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Rafael"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1310273247,
-    "wof:lastmodified":1564305794,
+    "wof:lastmodified":1566645924,
     "wof:name":"San Rafael",
     "wof:parent_id":421172589,
     "wof:placetype":"locality",

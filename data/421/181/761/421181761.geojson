@@ -10,8 +10,12 @@
     "geom:latitude":10.19233,
     "geom:longitude":-64.63376,
     "iso:country":"VE",
+    "lbl:bbox":"-64.65376,10.17233,-64.61376,10.21233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633 \u0628\u0648\u0632\u0648\u064a\u0644\u0648\u0633 \u062f\u064a \u0643\u0627\u0644\u0627\u062a\u0631\u0627\u0641\u0627"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3629847,
         "gp:id":468310,
-        "qs:id":501629
+        "qs_pg:id":501629
     },
     "wof:country":"VE",
     "wof:created":1459009306,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421181761,
-    "wof:lastmodified":1527716327,
+    "wof:lastmodified":1566646264,
     "wof:name":"Pozuelos",
     "wof:parent_id":421204791,
     "wof:placetype":"locality",

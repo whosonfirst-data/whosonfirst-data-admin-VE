@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.74238,8.90173,-64.70238,8.94173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Santa Juana"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1310407735,
-    "wof:lastmodified":1564305606,
+    "wof:lastmodified":1566645848,
     "wof:name":"Santa Juana",
     "wof:parent_id":421184195,
     "wof:placetype":"locality",

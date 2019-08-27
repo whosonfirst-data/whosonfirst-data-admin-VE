@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.25333,7.86333,-71.21333,7.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ca\u00f1o Rafade\u00f1o",
         "Ca\u00f1o Rafaele\u00f1o",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226135445,
-    "wof:lastmodified":1537713524,
+    "wof:lastmodified":1566647016,
     "wof:name":"Rafaeleno",
     "wof:parent_id":1108694181,
     "wof:placetype":"locality",

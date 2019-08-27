@@ -10,8 +10,12 @@
     "geom:latitude":10.91399,
     "geom:longitude":-64.02826,
     "iso:country":"VE",
+    "lbl:bbox":"-64.04826,10.89399,-64.00826,10.93399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "R\u00edo Orinoco"
@@ -274,7 +278,7 @@
     "wof:concordances":{
         "gn:id":3631300,
         "gp:id":468297,
-        "qs:id":267373
+        "qs_pg:id":267373
     },
     "wof:country":"VE",
     "wof:created":1459008694,
@@ -289,7 +293,7 @@
         }
     ],
     "wof:id":421166557,
-    "wof:lastmodified":1564306357,
+    "wof:lastmodified":1566646213,
     "wof:name":"Orinoco",
     "wof:parent_id":890441467,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.099135,
     "lbl:longitude":-70.516532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Falcon",
     "meso:gadm_admin":"Buchivacoa",
     "meso:gaul_admin":"Buchivacoa",
@@ -30,6 +32,7 @@
     "mps:longitude":-70.516532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Buchivacoa"
     ],
@@ -37,9 +40,9 @@
         "Buchivacoa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"2657",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Capat\u00e1rida",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108694131,
-    "wof:lastmodified":1554489236,
+    "wof:lastmodified":1566645792,
     "wof:name":"Buchivacoa",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

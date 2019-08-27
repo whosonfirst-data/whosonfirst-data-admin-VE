@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.17775,8.24307,-65.13775,8.28307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276880763,
-    "wof:lastmodified":1537038229,
+    "wof:lastmodified":1566645040,
     "wof:name":"Moriche Solo",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

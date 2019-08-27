@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.60763,9.87725,-68.56763,9.91725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Sierra"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1260178077,
-    "wof:lastmodified":1564305420,
+    "wof:lastmodified":1566645753,
     "wof:name":"La Sierra",
     "wof:parent_id":421200093,
     "wof:placetype":"locality",

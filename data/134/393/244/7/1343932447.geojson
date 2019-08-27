@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.18045,10.33187,-64.14045,10.37187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343932447,
-    "wof:lastmodified":1537057947,
+    "wof:lastmodified":1566644582,
     "wof:name":"Mochimita",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

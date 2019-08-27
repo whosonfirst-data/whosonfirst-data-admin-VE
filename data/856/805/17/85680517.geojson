@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.125139,
     "lbl:longitude":-63.2397,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bol\u00edvar",
     "mps:latitude":6.084719,
     "mps:longitude":-63.2826,
@@ -329,9 +330,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"238,000",
     "statoids:area_mi":"91,890",
     "statoids:as_of_date":"2011-09-01",
@@ -356,7 +357,7 @@
         "gp:id":2347682,
         "hasc:id":"VE.BO",
         "iso:id":"VE-F",
-        "qs:id":895016,
+        "qs_pg:id":895016,
         "unlc:id":"VE-F",
         "wd:id":"Q191164",
         "wk:page":"Bol\u00edvar (state)"
@@ -377,11 +378,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738727,
+    "wof:lastmodified":1566644704,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1413115,
     "wof:population_rank":12,

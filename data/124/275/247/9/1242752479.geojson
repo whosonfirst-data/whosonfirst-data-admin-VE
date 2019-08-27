@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.75792,10.21082,-63.71792,10.25082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Trampa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242752479,
-    "wof:lastmodified":1564306605,
+    "wof:lastmodified":1566646386,
     "wof:name":"La Trampa",
     "wof:parent_id":1108694311,
     "wof:placetype":"locality",

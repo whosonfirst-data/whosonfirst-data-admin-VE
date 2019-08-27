@@ -11,8 +11,11 @@
     "geom:longitude":-63.17667,
     "gn:country":"VE",
     "gn:fcode":"PPLA",
-    "gn:pop":410972,
+    "gn:population":410972,
     "iso:country":"VE",
+    "lbl:bbox":"-63.19667,9.73,-63.15667,9.77",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -283,7 +286,7 @@
     "wof:concordances":{
         "gn:id":3778045,
         "gp:id":468384,
-        "qs:id":274516,
+        "qs_pg:id":274516,
         "wd:id":"Q842779",
         "wk:page":"Matur\u00edn"
     },
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":890442167,
-    "wof:lastmodified":1563241249,
+    "wof:lastmodified":1566646312,
     "wof:name":"Matur\u00edn",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

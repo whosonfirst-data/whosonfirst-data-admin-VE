@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.65288,7.89116,-66.61288,7.93116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243243029,
-    "wof:lastmodified":1537095520,
+    "wof:lastmodified":1566646442,
     "wof:name":"Galapagos",
     "wof:parent_id":1108694245,
     "wof:placetype":"locality",

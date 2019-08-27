@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.03485,3.86633,-66.99485,3.90633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3763850
     },
     "wof:country":"VE",
-    "wof:geomhash":"3eb372782c3cea0070577d81f8b6eace",
+    "wof:geomhash":"2f2b5d90b0889ca6ba08277e59d0ad7c",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209428173,
-    "wof:lastmodified":1536287316,
+    "wof:lastmodified":1566645538,
     "wof:name":"Isla Puerco Espin",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -67.01485,
-    3.886330000000001,
+    3.88633,
     -67.01485,
-    3.886330000000001
+    3.88633
 ],
   "geometry": {"coordinates":[-67.01485,3.88633],"type":"Point"}
 }

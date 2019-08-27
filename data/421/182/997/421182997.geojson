@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.745612,
     "lbl:longitude":-63.915269,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Guanipa",
     "meso:gaul_admin":"Guanipa",
@@ -30,6 +32,7 @@
     "mps:longitude":-63.915269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Municipio Guanta"
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3640179,
         "gp:id":26804654,
-        "qs:id":957431,
+        "qs_pg:id":957431,
         "wd:id":"Q2381428",
         "wk:page":"Guanta Municipality"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182997,
-    "wof:lastmodified":1563241219,
+    "wof:lastmodified":1566646295,
     "wof:name":"Guanipa",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

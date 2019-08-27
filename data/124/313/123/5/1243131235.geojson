@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.14762,8.36712,-72.10762,8.40712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":1243131235,
-    "wof:lastmodified":1564306749,
+    "wof:lastmodified":1566646461,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108694335,
     "wof:placetype":"locality",

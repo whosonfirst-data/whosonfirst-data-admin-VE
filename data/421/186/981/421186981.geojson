@@ -10,8 +10,12 @@
     "geom:latitude":11.086039,
     "geom:longitude":-71.844772,
     "iso:country":"VE",
+    "lbl:bbox":"-71.864772,11.066039,-71.824772,11.106039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sinamaica"
@@ -60,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468674,
-        "qs:id":1077573,
+        "qs_pg:id":1077573,
         "wd:id":"Q3880178"
     },
     "wof:country":"VE",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421186981,
-    "wof:lastmodified":1563241146,
+    "wof:lastmodified":1566646261,
     "wof:name":"Sinamaica",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",

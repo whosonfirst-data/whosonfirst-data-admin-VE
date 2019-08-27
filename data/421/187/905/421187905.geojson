@@ -10,8 +10,12 @@
     "geom:latitude":11.407136,
     "geom:longitude":-69.672975,
     "iso:country":"VE",
+    "lbl:bbox":"-69.772975,11.307136,-69.572975,11.507136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Gabriel"
@@ -95,7 +99,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805460,
-        "qs:id":1086753,
         "qs_pg:id":1086753
     },
     "wof:country":"VE",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421187905,
-    "wof:lastmodified":1564306395,
+    "wof:lastmodified":1566646242,
     "wof:name":"San Gabriel",
     "wof:parent_id":1108694291,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.41224,5.95327,-67.37224,5.99327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lucero"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1310710895,
-    "wof:lastmodified":1564305576,
+    "wof:lastmodified":1566645842,
     "wof:name":"Lucero",
     "wof:parent_id":85680511,
     "wof:placetype":"locality",

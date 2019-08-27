@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.191523,
     "lbl:longitude":-61.686651,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Delta Amacuro",
     "meso:gadm_admin":"Tucupita",
     "meso:gaul_admin":"Tucupita",
@@ -30,6 +32,7 @@
     "mps:longitude":-61.686651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tucupita"
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"10996",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Tucupita",
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":26804441,
         "hasc:id":"VE.DA.TU",
-        "qs:id":1154665,
+        "qs_pg:id":1154665,
         "wd:id":"Q2092931"
     },
     "wof:country":"VE",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421191753,
-    "wof:lastmodified":1563241170,
+    "wof:lastmodified":1566646274,
     "wof:name":"Tucupita",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

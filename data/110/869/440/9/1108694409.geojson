@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.254387,
     "lbl:longitude":-64.64374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Santa Ana",
     "meso:gaul_admin":"Aragua",
@@ -30,6 +32,7 @@
     "mps:longitude":-64.64374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Santa Ana"
     ],
@@ -152,9 +155,9 @@
         "Santa Ana"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1184",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Santa Ana",
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1108694409,
-    "wof:lastmodified":1564305488,
+    "wof:lastmodified":1566645788,
     "wof:name":"Santa Ana",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

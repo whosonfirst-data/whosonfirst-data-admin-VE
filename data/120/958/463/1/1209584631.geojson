@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.53274,9.26008,-70.49274,9.30008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San L\u00e1zaro"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1209584631,
-    "wof:lastmodified":1564304882,
+    "wof:lastmodified":1566645478,
     "wof:name":"San Lazaro",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

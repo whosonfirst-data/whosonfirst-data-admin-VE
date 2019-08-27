@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.538289,
     "lbl:longitude":-66.206496,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Bri\u00f3n",
     "meso:gaul_admin":"Brion",
@@ -30,6 +32,7 @@
     "mps:longitude":-66.206496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Bri\u00f3n"
@@ -156,9 +159,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"531",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Higuerote",
@@ -179,7 +182,7 @@
     "wof:concordances":{
         "gp:id":26804641,
         "hasc:id":"VE.MI.BR",
-        "qs:id":1263784,
+        "qs_pg:id":1263784,
         "wd:id":"Q260682"
     },
     "wof:country":"VE",
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":421171643,
-    "wof:lastmodified":1563241224,
+    "wof:lastmodified":1566646298,
     "wof:name":"Brion",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

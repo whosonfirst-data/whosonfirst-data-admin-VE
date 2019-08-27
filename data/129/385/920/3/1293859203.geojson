@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.06056,9.58278,-69.02056,9.62278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1293859203,
-    "wof:lastmodified":1564303532,
+    "wof:lastmodified":1566644827,
     "wof:name":"La Esperanza",
     "wof:parent_id":1108694063,
     "wof:placetype":"locality",

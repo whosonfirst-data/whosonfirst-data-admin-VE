@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.40886,7.61195,-66.36886,7.65195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327313351,
-    "wof:lastmodified":1536851697,
+    "wof:lastmodified":1566644116,
     "wof:name":"La Rompia",
     "wof:parent_id":1108694389,
     "wof:placetype":"locality",

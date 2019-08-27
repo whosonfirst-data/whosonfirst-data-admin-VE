@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.336814,
     "lbl:longitude":-69.15112,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lara",
     "meso:gadm_admin":"Crespo",
     "meso:gaul_admin":"Crespo",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.15112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Crespo"
     ],
@@ -67,9 +70,9 @@
         "\u514b\u96f7\u65af\u6ce2\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"776",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Duaca",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108694163,
-    "wof:lastmodified":1563240338,
+    "wof:lastmodified":1566645817,
     "wof:name":"Crespo",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

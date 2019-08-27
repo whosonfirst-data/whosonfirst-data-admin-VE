@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.15475,8.56534,-71.11475,8.60534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Perla"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1344140049,
-    "wof:lastmodified":1564302840,
+    "wof:lastmodified":1566644453,
     "wof:name":"La Perla",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

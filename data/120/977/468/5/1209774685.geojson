@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.29798,7.62175,-72.25798,7.66175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Ana del Tachira"
     ],
@@ -44,8 +48,7 @@
         "Santa Ana del T\u00e1chira"
     ],
     "name:und_x_variant":[
-        "Santa Ana",
-        "Santa Ana del Tachira"
+        "Santa Ana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1209774685,
-    "wof:lastmodified":1564304729,
+    "wof:lastmodified":1566645396,
     "wof:name":"Santa Ana del Tachira",
     "wof:parent_id":421185265,
     "wof:placetype":"locality",

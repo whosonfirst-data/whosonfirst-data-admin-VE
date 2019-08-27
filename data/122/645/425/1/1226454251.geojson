@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.4359,8.45334,-64.3959,8.49334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1226454251,
-    "wof:lastmodified":1564307587,
+    "wof:lastmodified":1566646895,
     "wof:name":"Santa Elena",
     "wof:parent_id":421184195,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.57629,8.98365,-65.53629,9.02365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Agua Blanca"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1344243455,
-    "wof:lastmodified":1564302872,
+    "wof:lastmodified":1566644468,
     "wof:name":"Agua Blanca",
     "wof:parent_id":1108694175,
     "wof:placetype":"locality",

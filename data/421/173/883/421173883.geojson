@@ -10,10 +10,14 @@
     "geom:latitude":10.21306,
     "geom:longitude":-67.96333,
     "iso:country":"VE",
+    "lbl:bbox":"-67.98333,10.19306,-67.94333,10.23306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Harales"
     ],
     "qs:gn_country":"VE",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3634105,
         "gp:id":469022,
-        "qs:id":301553
+        "qs_pg:id":301553
     },
     "wof:country":"VE",
     "wof:created":1459009009,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421173883,
-    "wof:lastmodified":1501268327,
+    "wof:lastmodified":1566646245,
     "wof:name":"Los Jarales",
     "wof:parent_id":421180477,
     "wof:placetype":"locality",

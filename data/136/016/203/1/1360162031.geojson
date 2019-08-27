@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.06395,11.38788,-69.02395,11.42788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loma Grande"
     ],
@@ -38,8 +42,7 @@
         "Loma Grande"
     ],
     "name:und_x_variant":[
-        "Lomo Grande",
-        "Loma Grande"
+        "Lomo Grande"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1360162031,
-    "wof:lastmodified":1564306095,
+    "wof:lastmodified":1566646070,
     "wof:name":"Loma Grande",
     "wof:parent_id":1108694353,
     "wof:placetype":"locality",

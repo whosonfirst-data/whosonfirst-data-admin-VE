@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.461517,
     "lbl:longitude":-68.877442,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yaracuy",
     "meso:gadm_admin":"Bol\u00edvar",
     "meso:gaul_admin":"Autonomo Bolivar",
@@ -30,12 +32,13 @@
     "mps:longitude":-68.877442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Autonomo Bolivar",
         "Bol\u00edvar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108694125,
-    "wof:lastmodified":1554489235,
+    "wof:lastmodified":1566645797,
     "wof:name":"Bolivar",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.290358,
     "lbl:longitude":-66.395494,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Miranda",
     "mps:latitude":10.28035,
     "mps:longitude":-66.392688,
@@ -224,7 +225,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0430\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estado Bolivariano de Miranda"
     ],
     "name:urd_x_preferred":[
@@ -311,9 +312,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"7,950",
     "statoids:area_mi":"3,070",
     "statoids:as_of_date":"2011-09-01",
@@ -338,7 +339,7 @@
         "gp:id":2347691,
         "hasc:id":"VE.MI",
         "iso:id":"VE-M",
-        "qs:id":219633,
+        "qs_pg:id":219633,
         "unlc:id":"VE-M",
         "wd:id":"Q191174",
         "wk:page":"Miranda (state)"
@@ -359,11 +360,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738728,
+    "wof:lastmodified":1566644708,
     "wof:name":"Miranda",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2675165,
     "wof:population_rank":12,

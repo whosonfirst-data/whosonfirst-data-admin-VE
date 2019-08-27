@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-61.87,5.11333,-61.83,5.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guama",
         "La Guama",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259504987,
-    "wof:lastmodified":1537713625,
+    "wof:lastmodified":1566646731,
     "wof:name":"Camadacata",
     "wof:parent_id":421202369,
     "wof:placetype":"locality",

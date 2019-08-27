@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.70333,9.13,-64.66333,9.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paradero",
         "El Paradero"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343273779,
-    "wof:lastmodified":1537713596,
+    "wof:lastmodified":1566644640,
     "wof:name":"El Paradero",
     "wof:parent_id":421166905,
     "wof:placetype":"locality",

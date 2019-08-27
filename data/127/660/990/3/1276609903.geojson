@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.93083,10.25521,-68.89083,10.29521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Cumbre"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1276609903,
-    "wof:lastmodified":1564304165,
+    "wof:lastmodified":1566645121,
     "wof:name":"La Cumbre",
     "wof:parent_id":1108694129,
     "wof:placetype":"locality",

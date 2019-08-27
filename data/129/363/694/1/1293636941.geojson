@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.84028,10.57958,-66.80028,10.61958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La California"
     ],
@@ -38,8 +42,7 @@
         "\u041b\u0430 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0458\u0430"
     ],
     "name:und_x_variant":[
-        "Oficina la California",
-        "La California"
+        "Oficina la California"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293636941,
-    "wof:lastmodified":1564303437,
+    "wof:lastmodified":1566644783,
     "wof:name":"La California",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.97237,10.49169,-66.93237,10.53169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catia"
     ],
@@ -32,8 +36,7 @@
         "Catia"
     ],
     "name:und_x_variant":[
-        "Planta Catia",
-        "Catia"
+        "Planta Catia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226704395,
-    "wof:lastmodified":1564307950,
+    "wof:lastmodified":1566647073,
     "wof:name":"Catia",
     "wof:parent_id":421202591,
     "wof:placetype":"locality",

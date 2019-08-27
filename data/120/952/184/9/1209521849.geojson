@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.27819,8.03106,-69.23819,8.07106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3642434
     },
     "wof:country":"VE",
-    "wof:geomhash":"15b96a3a6b3fefde3722bb7a0170624d",
+    "wof:geomhash":"926409c9c3c0da3f7aaceba6126882a5",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209521849,
-    "wof:lastmodified":1536284554,
+    "wof:lastmodified":1566645377,
     "wof:name":"El Navero",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -69.25819,
-    8.051060000000001,
+    8.05106,
     -69.25819,
-    8.051060000000001
+    8.05106
 ],
   "geometry": {"coordinates":[-69.25819,8.05106],"type":"Point"}
 }

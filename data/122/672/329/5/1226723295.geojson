@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.60644,8.3981,-71.56644,8.4381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mesade de Las Palmas",
         "Mesa de Las Palmas"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226723295,
-    "wof:lastmodified":1537713538,
+    "wof:lastmodified":1566646858,
     "wof:name":"Mesa de Las Palmas",
     "wof:parent_id":421171997,
     "wof:placetype":"locality",

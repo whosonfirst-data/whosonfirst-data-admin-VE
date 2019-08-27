@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.05678,10.66156,-71.01678,10.70156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Mene",
         "Mene Mauroa",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193117455,
-    "wof:lastmodified":1537713539,
+    "wof:lastmodified":1566645663,
     "wof:name":"Mene de Mauroa",
     "wof:parent_id":1108694281,
     "wof:placetype":"locality",

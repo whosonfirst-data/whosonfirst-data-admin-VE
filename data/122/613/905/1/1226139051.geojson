@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.70333,9.91333,-68.66333,9.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Capo El\u00edas",
         "Campo El\u00edas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226139051,
-    "wof:lastmodified":1537713624,
+    "wof:lastmodified":1566647016,
     "wof:name":"Campo Elias",
     "wof:parent_id":421200093,
     "wof:placetype":"locality",

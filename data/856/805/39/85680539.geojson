@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.930269,
     "lbl:longitude":-65.309573,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Dependencias Federales",
     "mps:latitude":10.933872,
     "mps:longitude":-65.31294,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0456 \u0432\u043e\u043b\u043e\u0434\u0456\u043d\u043d\u044f \u0412\u0435\u043d\u0435\u0441\u0443\u0435\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dependencias Federales de Alta Mar"
     ],
     "name:urd_x_preferred":[
@@ -248,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"120",
     "statoids:area_mi":"50",
     "statoids:as_of_date":"2011-09-01",
@@ -264,7 +265,6 @@
     "statoids:timezone":"-4:30",
     "statoids:type":"federal dependencies",
     "unlc:subdivision":"VE-W",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85632317
@@ -276,7 +276,7 @@
         "gp:id":2347700,
         "hasc:id":"VE.DP",
         "iso:id":"VE-W",
-        "qs:id":219637,
+        "qs_pg:id":219637,
         "unlc:id":"VE-W",
         "wd:id":"Q130343",
         "wk:page":"Federal Dependencies of Venezuela"
@@ -297,11 +297,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738728,
+    "wof:lastmodified":1566644708,
     "wof:name":"Dependencias Federales",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"federal dependencies",
     "wof:population":2155,
     "wof:population_rank":4,

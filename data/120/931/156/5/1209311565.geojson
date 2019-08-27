@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.1706,7.60693,-66.1306,7.64693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3747862
     },
     "wof:country":"VE",
-    "wof:geomhash":"e2025574862ae0f13a8a93677b3a56cd",
+    "wof:geomhash":"94e7b23972cf9ba897dea348ba0c3f74",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209311565,
-    "wof:lastmodified":1536291011,
+    "wof:lastmodified":1566645310,
     "wof:name":"Castillero",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -66.1506,
-    7.6269300000000015,
+    7.62693,
     -66.1506,
-    7.6269300000000015
+    7.62693
 ],
   "geometry": {"coordinates":[-66.1506,7.62693],"type":"Point"}
 }

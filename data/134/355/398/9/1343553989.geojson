@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.04703,7.95091,-71.00703,7.99091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Curito",
         "Curito"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343553989,
-    "wof:lastmodified":1537713604,
+    "wof:lastmodified":1566644413,
     "wof:name":"Curito",
     "wof:parent_id":1108694181,
     "wof:placetype":"locality",

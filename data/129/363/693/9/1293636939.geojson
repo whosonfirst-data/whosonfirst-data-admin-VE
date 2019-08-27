@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.49695,10.60619,-66.45695,10.64619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oritapo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293636939,
-    "wof:lastmodified":1537560439,
+    "wof:lastmodified":1566644783,
     "wof:name":"Oritapo",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

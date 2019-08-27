@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.25333,7.79667,-68.21333,7.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -525,7 +529,7 @@
         }
     ],
     "wof:id":1310406451,
-    "wof:lastmodified":1564305596,
+    "wof:lastmodified":1566645846,
     "wof:name":"San Francisco",
     "wof:parent_id":421171651,
     "wof:placetype":"locality",

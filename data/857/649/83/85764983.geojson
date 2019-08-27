@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":42144594.380988,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-67.017247,10.357177,-67.017247,10.357177",
     "geom:latitude":10.357177,
     "geom:longitude":-67.017247,
     "gn:latitude":10.35,
     "gn:longitude":-67.03333,
     "iso:country":"VE",
+    "lbl:bbox":"-67.022247,10.352177,-67.012247,10.362177",
     "lbl:latitude":10.357177,
     "lbl:longitude":-67.017247,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.349554,
     "mps:longitude":-67.035038,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Llano de Miquilen"
     ],
     "name:spa_x_preferred":[
-        "Llano de Miquil\u00e9n"
-    ],
-    "name:unk_x_variant":[
         "Llano de Miquil\u00e9n"
     ],
     "qs:gn_adm0_cc":"VE",
@@ -63,18 +62,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85680553,
         102191577,
         85632317,
-        421202375,
-        85680553
+        421202375
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3634711,
         "gp:id":390072,
-        "qs:id":211193
+        "qs_pg:id":211193
     },
     "wof:country":"VE",
     "wof:geomhash":"1cf17837025b8a166699fe6598730f6d",
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858985,
+    "wof:lastmodified":1566644697,
     "wof:name":"Llano de Miquil\u00e9n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

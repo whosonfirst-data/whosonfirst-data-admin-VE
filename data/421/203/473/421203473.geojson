@@ -10,8 +10,12 @@
     "geom:latitude":10.23265,
     "geom:longitude":-67.529911,
     "iso:country":"VE",
+    "lbl:bbox":"-67.629911,10.13265,-67.429911,10.33265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805771,
-        "qs:id":231700
+        "qs_pg:id":231700
     },
     "wof:country":"VE",
     "wof:created":1459010153,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421203473,
-    "wof:lastmodified":1500034347,
+    "wof:lastmodified":1566646232,
     "wof:name":"Francisco Linares Alcantara",
     "wof:parent_id":421186263,
     "wof:placetype":"localadmin",

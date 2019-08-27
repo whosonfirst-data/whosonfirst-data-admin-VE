@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.89814,11.00957,-70.85814,11.04957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Derramadero",
         "Desparramadero",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226122825,
-    "wof:lastmodified":1537713604,
+    "wof:lastmodified":1566647059,
     "wof:name":"El Derramadero",
     "wof:parent_id":1108694131,
     "wof:placetype":"locality",

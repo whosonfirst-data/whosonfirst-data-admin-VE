@@ -10,8 +10,12 @@
     "geom:latitude":10.60671,
     "geom:longitude":-66.89177,
     "iso:country":"VE",
+    "lbl:bbox":"-66.91177,10.58671,-66.87177,10.62671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Macuto"
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3633412,
         "gp:id":468274,
-        "qs:id":238594,
+        "qs_pg:id":238594,
         "wd:id":"Q515240",
         "wk:page":"Macuto, Vargas"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421204187,
-    "wof:lastmodified":1563241074,
+    "wof:lastmodified":1566646229,
     "wof:name":"Macuto",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

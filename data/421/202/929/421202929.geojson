@@ -10,8 +10,12 @@
     "geom:latitude":10.492,
     "geom:longitude":-67.60971,
     "iso:country":"VE",
+    "lbl:bbox":"-67.62971,10.472,-67.58971,10.512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_colloquial":[
         "Choroni"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3645646,
         "gp:id":382990,
-        "qs:id":228670,
+        "qs_pg:id":228670,
         "wd:id":"Q2964518"
     },
     "wof:country":"VE",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421202929,
-    "wof:lastmodified":1563241088,
+    "wof:lastmodified":1566646237,
     "wof:name":"Choron\u00ed",
     "wof:parent_id":421171995,
     "wof:placetype":"locality",

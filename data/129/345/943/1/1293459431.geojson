@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.38667,10.18,-66.34667,10.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marcos"
     ],
@@ -75,8 +79,7 @@
         "Marcos"
     ],
     "name:und_x_variant":[
-        "San Marcos",
-        "Marcos"
+        "San Marcos"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u79d1\u65af"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1293459431,
-    "wof:lastmodified":1564303818,
+    "wof:lastmodified":1566644956,
     "wof:name":"Marcos",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",

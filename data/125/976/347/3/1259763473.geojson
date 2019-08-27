@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.35333,10.99667,-68.31333,11.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cruz de Caimoa",
         "Cruz de Caim\u00e1n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259763473,
-    "wof:lastmodified":1537713615,
+    "wof:lastmodified":1566646726,
     "wof:name":"Cruz de Caiman",
     "wof:parent_id":421193381,
     "wof:placetype":"locality",

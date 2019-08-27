@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.98399,9.35143,-69.94399,9.39143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Santo Domingo"
     ],
@@ -351,7 +355,7 @@
         }
     ],
     "wof:id":1277142565,
-    "wof:lastmodified":1564304240,
+    "wof:lastmodified":1566645156,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108694441,
     "wof:placetype":"locality",

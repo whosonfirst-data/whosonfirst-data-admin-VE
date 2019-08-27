@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.08667,10.63278,-69.04667,10.67278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326516019,
-    "wof:lastmodified":1537006733,
+    "wof:lastmodified":1566644162,
     "wof:name":"Las Guabinas",
     "wof:parent_id":1108694469,
     "wof:placetype":"locality",

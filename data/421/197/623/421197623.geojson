@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.464095,
     "lbl:longitude":-62.529444,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bolivar",
     "meso:gadm_admin":"Piar",
     "meso:gaul_admin":"Piar",
@@ -30,6 +32,7 @@
     "mps:longitude":-62.529444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_variant":[
         "Piar"
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gp:id":26804699,
         "hasc:id":"VE.BO.PI",
-        "qs:id":368893
+        "qs_pg:id":368893
     },
     "wof:country":"VE",
     "wof:created":1459009919,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421197623,
-    "wof:lastmodified":1554489023,
+    "wof:lastmodified":1566646279,
     "wof:name":"Piar",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

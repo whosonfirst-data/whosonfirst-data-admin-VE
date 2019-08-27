@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.458385,
     "lbl:longitude":-66.500247,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Zamora",
     "meso:gaul_admin":"Zamora",
@@ -30,6 +32,7 @@
     "mps:longitude":-66.500247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0632\u0627\u0645\u0648\u0631\u0627"
@@ -173,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -183,7 +186,7 @@
     "wof:concordances":{
         "gp:id":26804638,
         "hasc:id":"VE.AR.ZA",
-        "qs:id":219080
+        "qs_pg:id":219080
     },
     "wof:country":"VE",
     "wof:created":1459010103,
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421202063,
-    "wof:lastmodified":1564306385,
+    "wof:lastmodified":1566646235,
     "wof:name":"Zamora",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

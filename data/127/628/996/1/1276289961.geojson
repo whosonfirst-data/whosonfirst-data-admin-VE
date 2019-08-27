@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.45689,9.33797,-70.41689,9.37797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276289961,
-    "wof:lastmodified":1536835840,
+    "wof:lastmodified":1566645046,
     "wof:name":"Musaba",
     "wof:parent_id":421188829,
     "wof:placetype":"locality",

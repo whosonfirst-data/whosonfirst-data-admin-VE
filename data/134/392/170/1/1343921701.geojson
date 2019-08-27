@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.535,9.72278,-63.495,9.76278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343921701,
-    "wof:lastmodified":1537072968,
+    "wof:lastmodified":1566644562,
     "wof:name":"La Alcantarilla",
     "wof:parent_id":1108694155,
     "wof:placetype":"locality",

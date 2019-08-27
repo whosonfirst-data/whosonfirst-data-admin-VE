@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.041144,
     "lbl:longitude":-68.854446,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Apure",
     "mps:latitude":7.044155,
     "mps:longitude":-68.803209,
@@ -332,9 +333,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"76,500",
     "statoids:area_mi":"29,540",
     "statoids:as_of_date":"2011-09-01",
@@ -360,7 +361,7 @@
         "gp:id":2347679,
         "hasc:id":"VE.AP",
         "iso:id":"VE-C",
-        "qs:id":895015,
+        "qs_pg:id":895015,
         "unlc:id":"VE-C",
         "wd:id":"Q41146",
         "wk:page":"Apure"
@@ -381,11 +382,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738724,
+    "wof:lastmodified":1566644700,
     "wof:name":"Apure",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":459025,
     "wof:population_rank":10,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.13209,8.03909,-72.09209,8.07909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633 \u0645\u064a\u0633\u0627\u0633"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1277151117,
-    "wof:lastmodified":1564304257,
+    "wof:lastmodified":1566645165,
     "wof:name":"Las Mesas",
     "wof:parent_id":421202065,
     "wof:placetype":"locality",

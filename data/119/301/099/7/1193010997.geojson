@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.58667,8.23,-69.54667,8.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Quirobetia",
         "Quirobe\u00f1a"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193010997,
-    "wof:lastmodified":1537713524,
+    "wof:lastmodified":1566645601,
     "wof:name":"Quirobena",
     "wof:parent_id":1108694375,
     "wof:placetype":"locality",

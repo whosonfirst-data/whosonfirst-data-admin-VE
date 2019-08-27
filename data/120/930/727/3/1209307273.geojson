@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.3281,7.44216,-71.2881,7.48216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3487827
     },
     "wof:country":"VE",
-    "wof:geomhash":"470a13a13a18a7a799cba0b09e95e579",
+    "wof:geomhash":"3f73bb2a0320fa16a1ee4a8267dab20e",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209307273,
-    "wof:lastmodified":1536291151,
+    "wof:lastmodified":1566645355,
     "wof:name":"Banco las Pinas",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -71.3081,
-    7.462160000000001,
+    7.46216,
     -71.3081,
-    7.462160000000001
+    7.46216
 ],
   "geometry": {"coordinates":[-71.3081,7.46216],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.57404,8.21055,-69.53404,8.25055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guasimal"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276332443,
-    "wof:lastmodified":1564304129,
+    "wof:lastmodified":1566645105,
     "wof:name":"Guasimal",
     "wof:parent_id":1108694375,
     "wof:placetype":"locality",

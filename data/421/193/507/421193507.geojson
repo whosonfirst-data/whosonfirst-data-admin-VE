@@ -10,8 +10,12 @@
     "geom:latitude":10.64588,
     "geom:longitude":-64.2808,
     "iso:country":"VE",
+    "lbl:bbox":"-64.3008,10.62588,-64.2608,10.66588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3629612,
         "gp:id":392792,
-        "qs:id":910243
+        "qs_pg:id":910243
     },
     "wof:country":"VE",
     "wof:created":1459009773,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421193507,
-    "wof:lastmodified":1500034420,
+    "wof:lastmodified":1566646226,
     "wof:name":"Punta de Araya",
     "wof:parent_id":421172601,
     "wof:placetype":"locality",

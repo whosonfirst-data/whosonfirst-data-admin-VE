@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.52448,10.38556,-66.48448,10.42556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kempis"
     ],
     "name:und_x_variant":[
-        "Oficina Kempis",
-        "Kempis"
+        "Oficina Kempis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293571529,
-    "wof:lastmodified":1564303629,
+    "wof:lastmodified":1566644872,
     "wof:name":"Kempis",
     "wof:parent_id":421202063,
     "wof:placetype":"locality",

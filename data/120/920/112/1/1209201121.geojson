@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.80338,7.85538,-65.76338,7.89538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3773888
     },
     "wof:country":"VE",
-    "wof:geomhash":"e298e9aad313ce3b3bee9f1fb3f3d0c0",
+    "wof:geomhash":"1235e5d0b08c2cdac49278e786dd8a6d",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209201121,
-    "wof:lastmodified":1536294607,
+    "wof:lastmodified":1566645511,
     "wof:name":"Puno de Moriche",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -65.78338000000001,
-    7.875380000000002,
+    7.87538,
     -65.78338000000001,
-    7.875380000000002
+    7.87538
 ],
   "geometry": {"coordinates":[-65.78338000000001,7.87538],"type":"Point"}
 }

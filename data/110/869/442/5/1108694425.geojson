@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.190229,
     "lbl:longitude":-66.726711,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Sim\u00f3n Bol\u00edvar",
     "meso:gaul_admin":"Simon Bolivar",
@@ -30,12 +32,13 @@
     "mps:longitude":-66.726711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Simon Bolivar",
         "Sim\u00f3n Bol\u00edvar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108694425,
-    "wof:lastmodified":1554489242,
+    "wof:lastmodified":1566645819,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

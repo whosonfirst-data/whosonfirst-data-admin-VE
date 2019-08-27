@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.21197,9.89252,-65.17197,9.93252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Arag\u00fcita"
     ],
@@ -32,9 +36,6 @@
         "\u30a2\u30e9\u30b0\u30a4\u30bf"
     ],
     "name:spa_x_preferred":[
-        "Arag\u00fcita"
-    ],
-    "name:und_x_variant":[
         "Arag\u00fcita"
     ],
     "src:geom":"geonames",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1209316643,
-    "wof:lastmodified":1564304575,
+    "wof:lastmodified":1566645312,
     "wof:name":"Araguita",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

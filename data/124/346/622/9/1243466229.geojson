@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.83594,9.88484,-64.79594,9.92484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243466229,
-    "wof:lastmodified":1536777508,
+    "wof:lastmodified":1566646429,
     "wof:name":"Piritucual",
     "wof:parent_id":421185095,
     "wof:placetype":"locality",

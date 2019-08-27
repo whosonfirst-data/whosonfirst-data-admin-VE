@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.65778,9.21889,-63.61778,9.25889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326911759,
-    "wof:lastmodified":1536935066,
+    "wof:lastmodified":1566644321,
     "wof:name":"El Nato",
     "wof:parent_id":1108694065,
     "wof:placetype":"locality",

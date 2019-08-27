@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.590541,
     "lbl:longitude":-63.697897,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Monagas",
     "meso:gadm_admin":"Ezequiel Zamora",
     "meso:gaul_admin":"Ezequiel Zamora",
@@ -30,6 +32,7 @@
     "mps:longitude":-63.697897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Ezequiel Zamora"
     ],
@@ -64,7 +67,7 @@
         "\u85a9\u83ab\u62c9\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108694183,
-    "wof:lastmodified":1563240341,
+    "wof:lastmodified":1566645818,
     "wof:name":"Ezequiel Zamora",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.35333,10.24667,-71.31333,10.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226300783,
-    "wof:lastmodified":1536853358,
+    "wof:lastmodified":1566647097,
     "wof:name":"Los Conuquitos",
     "wof:parent_id":421201571,
     "wof:placetype":"locality",

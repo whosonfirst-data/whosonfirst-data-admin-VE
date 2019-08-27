@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.53196,8.39509,-71.49196,8.43509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mocochope",
         "Mocochopo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225914575,
-    "wof:lastmodified":1537713538,
+    "wof:lastmodified":1566647010,
     "wof:name":"Mocochopo",
     "wof:parent_id":1108694437,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.63005,7.74823,-65.59005,7.78823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225839669,
-    "wof:lastmodified":1537021518,
+    "wof:lastmodified":1566647157,
     "wof:name":"Buen Pastor",
     "wof:parent_id":421196979,
     "wof:placetype":"locality",

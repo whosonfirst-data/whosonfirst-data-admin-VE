@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.923269,
     "lbl:longitude":-72.154992,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Zulia",
     "meso:gadm_admin":"Mara",
     "meso:gaul_admin":"Mara",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.154992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Mara"
@@ -164,9 +167,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"3588",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"San Rafael del Moj\u00e1n",
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gp:id":26804479,
         "hasc:id":"VE.ZU.MA",
-        "qs:id":1263754,
+        "qs_pg:id":1263754,
         "wd:id":"Q1820462"
     },
     "wof:country":"VE",
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421196977,
-    "wof:lastmodified":1563241164,
+    "wof:lastmodified":1566646270,
     "wof:name":"Mara",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

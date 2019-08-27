@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.204531,
     "lbl:longitude":-68.76903,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yaracuy",
     "meso:gadm_admin":"Bruzual",
     "meso:gaul_admin":"Autonomo Bruzual",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.76903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
     ],
@@ -353,7 +356,7 @@
         "\u82cf\u514b\u96f7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -375,7 +378,7 @@
         }
     ],
     "wof:id":1108694449,
-    "wof:lastmodified":1564305511,
+    "wof:lastmodified":1566645814,
     "wof:name":"Sucre",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

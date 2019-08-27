@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.71418,10.40258,-66.67418,10.44258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Carmen"
     ],
@@ -65,8 +69,7 @@
         "El Carmen"
     ],
     "name:und_x_variant":[
-        "Hacienda El Carmen",
-        "El Carmen"
+        "Hacienda El Carmen"
     ],
     "name:vie_x_preferred":[
         "El Carmen"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1209487891,
-    "wof:lastmodified":1564304718,
+    "wof:lastmodified":1566645390,
     "wof:name":"El Carmen",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

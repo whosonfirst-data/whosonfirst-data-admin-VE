@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.73511,10.34812,-68.69511,10.38812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260048593,
-    "wof:lastmodified":1537036841,
+    "wof:lastmodified":1566645772,
     "wof:name":"El Corozo",
     "wof:parent_id":421204789,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.78667,4.16333,-63.74667,4.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Guana"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1225866363,
-    "wof:lastmodified":1564307774,
+    "wof:lastmodified":1566646989,
     "wof:name":"Guana",
     "wof:parent_id":421175383,
     "wof:placetype":"locality",

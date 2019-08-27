@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.623249,
     "lbl:longitude":-69.280795,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Apure",
     "meso:gadm_admin":"Mu\u00f1oz",
     "meso:gaul_admin":"Autonomo Munoz",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.280795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Municipio Mu\u00f1oz"
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"7925",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Bruzual",
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gp:id":26804740,
         "hasc:id":"VE.AP.MU",
-        "qs:id":224834,
+        "qs_pg:id":224834,
         "wd:id":"Q2537345"
     },
     "wof:country":"VE",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421202593,
-    "wof:lastmodified":1563241080,
+    "wof:lastmodified":1566646234,
     "wof:name":"Mu\u00f1oz",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.27419,9.28579,-66.23419,9.32579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327220355,
-    "wof:lastmodified":1536986258,
+    "wof:lastmodified":1566644215,
     "wof:name":"Las Dos Quebradas",
     "wof:parent_id":1108694159,
     "wof:placetype":"locality",

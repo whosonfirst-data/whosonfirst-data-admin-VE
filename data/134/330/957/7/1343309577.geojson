@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.09417,10.56583,-67.05417,10.60583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Arrecifes"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Puerto Arrecifes",
-        "Arrecife",
-        "Arrecifes"
+        "Arrecife"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u06cc\u0633\u06cc\u0641\u06cc\u0633"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343309577,
-    "wof:lastmodified":1564302759,
+    "wof:lastmodified":1566644408,
     "wof:name":"Arrecifes",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.15333,9.08,-63.11333,9.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Piedras Negras"
     ],
@@ -48,8 +52,7 @@
         "Piedras Negras"
     ],
     "name:und_x_variant":[
-        "Pe\u00f1as Negras",
-        "Piedras Negras"
+        "Pe\u00f1as Negras"
     ],
     "name:vie_x_preferred":[
         "Piedras Negras"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1259665185,
-    "wof:lastmodified":1564307304,
+    "wof:lastmodified":1566646748,
     "wof:name":"Piedras Negras",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

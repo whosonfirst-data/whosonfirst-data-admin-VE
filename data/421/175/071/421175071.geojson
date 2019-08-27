@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.453866,
     "lbl:longitude":-64.468999,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Anaco",
     "meso:gaul_admin":"Anaco",
@@ -221,9 +223,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"795",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Anaco",
@@ -248,7 +250,7 @@
         "gn:id":3486270,
         "gp:id":26804544,
         "hasc:id":"VE.AN.AN",
-        "qs:id":919261,
+        "qs_pg:id":919261,
         "wd:id":"Q943822"
     },
     "wof:country":"VE",
@@ -263,7 +265,7 @@
         }
     ],
     "wof:id":421175071,
-    "wof:lastmodified":1563241156,
+    "wof:lastmodified":1566646266,
     "wof:name":"Anaco",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

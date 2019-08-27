@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.90552,
     "lbl:longitude":-62.407754,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Monagas",
     "meso:gadm_admin":"Uracoa",
     "meso:gaul_admin":"Sotillo",
@@ -30,12 +32,13 @@
     "mps:longitude":-62.407754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Sotillo",
         "Uracoa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108694467,
-    "wof:lastmodified":1554489243,
+    "wof:lastmodified":1566645794,
     "wof:name":"Uracoa",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

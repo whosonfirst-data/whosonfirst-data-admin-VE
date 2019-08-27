@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.054176,
     "lbl:longitude":-63.977609,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nueva Esparta",
     "meso:gadm_admin":"Marcano",
     "meso:gaul_admin":"Marcano",
@@ -30,6 +32,7 @@
     "mps:longitude":-63.977609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Marcano"
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"43",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Juan Griego",
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":26804681,
         "hasc:id":"VE.NE.MC",
-        "qs:id":1263800,
+        "qs_pg:id":1263800,
         "wd:id":"Q748134"
     },
     "wof:country":"VE",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421196983,
-    "wof:lastmodified":1563241165,
+    "wof:lastmodified":1566646271,
     "wof:name":"Marcano",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

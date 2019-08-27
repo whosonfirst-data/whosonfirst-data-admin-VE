@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.49058,10.99779,-70.45058,11.03779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260158241,
-    "wof:lastmodified":1536881983,
+    "wof:lastmodified":1566645683,
     "wof:name":"El Saladillo",
     "wof:parent_id":1108694131,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.03636,9.6041,-62.99636,9.6441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260043643,
-    "wof:lastmodified":1537043761,
+    "wof:lastmodified":1566645772,
     "wof:name":"Las Bestias",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

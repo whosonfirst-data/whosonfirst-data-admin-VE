@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":10.942729,
     "lbl:longitude":-64.071603,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nueva Esparta",
     "meso:gadm_admin":"Peninsula de Macanao",
     "meso:gaul_admin":"Peninsula De Macanao",
@@ -32,6 +34,7 @@
     "mps:longitude":-64.071603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Tubores"
     ],
@@ -85,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"207",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Punta de Piedras",
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gp:id":26804676,
         "hasc:id":"VE.NE.TU",
-        "qs:id":1263788,
+        "qs_pg:id":1263788,
         "wd:id":"Q2102962",
         "wk:page":"Tubores Municipality"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890441467,
-    "wof:lastmodified":1563241242,
+    "wof:lastmodified":1566646308,
     "wof:name":"Tubores",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

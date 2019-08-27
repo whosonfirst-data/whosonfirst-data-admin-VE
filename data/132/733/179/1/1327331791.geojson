@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.47,8.28,-68.43,8.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guarique\u00f1a",
         "La Guarique\u00f1a"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327331791,
-    "wof:lastmodified":1537713569,
+    "wof:lastmodified":1566644260,
     "wof:name":"La Guariquena",
     "wof:parent_id":1108694099,
     "wof:placetype":"locality",

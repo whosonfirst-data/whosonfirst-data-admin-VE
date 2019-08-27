@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.88667,9.18,-63.84667,9.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Penunal",
         "Penunal",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259791307,
-    "wof:lastmodified":1537713529,
+    "wof:lastmodified":1566646697,
     "wof:name":"Pinonal",
     "wof:parent_id":421183227,
     "wof:placetype":"locality",

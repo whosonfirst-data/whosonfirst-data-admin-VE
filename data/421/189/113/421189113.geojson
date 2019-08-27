@@ -10,8 +10,12 @@
     "geom:latitude":10.255169,
     "geom:longitude":-67.167749,
     "iso:country":"VE",
+    "lbl:bbox":"-67.267749,10.1551695,-67.067749,10.3551695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805659,
-        "qs:id":1110171,
         "qs_pg:id":1110171
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421189113,
-    "wof:lastmodified":1497044475,
+    "wof:lastmodified":1566646250,
     "wof:name":"Capital Santos Michelena",
     "wof:parent_id":1108694419,
     "wof:placetype":"localadmin",

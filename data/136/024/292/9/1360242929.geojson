@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.62888,8.94454,-71.58888,8.98454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
     ],
@@ -72,8 +76,7 @@
         "Pueblo Nuevo"
     ],
     "name:und_x_variant":[
-        "El Chivo",
-        "Pueblo Nuevo"
+        "El Chivo"
     ],
     "name:vie_x_preferred":[
         "Pueblo Nuevo"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1360242929,
-    "wof:lastmodified":1564306005,
+    "wof:lastmodified":1566646024,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":1108694195,
     "wof:placetype":"locality",

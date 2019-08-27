@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.8379,9.01344,-63.7979,9.05344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buena Vista",
         "Buena Vista de Chive"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210018585,
-    "wof:lastmodified":1537713626,
+    "wof:lastmodified":1566645582,
     "wof:name":"Buena Vista de Chive",
     "wof:parent_id":421183227,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.4018,9.2946,-69.3618,9.3346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Yauno"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326495777,
-    "wof:lastmodified":1537713649,
+    "wof:lastmodified":1566644278,
     "wof:name":"Yauno",
     "wof:parent_id":1108694321,
     "wof:placetype":"locality",

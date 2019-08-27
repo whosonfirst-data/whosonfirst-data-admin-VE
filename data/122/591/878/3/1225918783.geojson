@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.42347,10.254,-64.38347,10.294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225918783,
-    "wof:lastmodified":1536908735,
+    "wof:lastmodified":1566647009,
     "wof:name":"Chuparin",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

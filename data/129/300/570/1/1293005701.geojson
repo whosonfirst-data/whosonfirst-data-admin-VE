@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.78885,9.32682,-66.74885,9.36682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u0440\u0435\u0430\u043b\u044c\u0431\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293005701,
-    "wof:lastmodified":1564303344,
+    "wof:lastmodified":1566644729,
     "wof:name":"Torrealba",
     "wof:parent_id":1108694361,
     "wof:placetype":"locality",

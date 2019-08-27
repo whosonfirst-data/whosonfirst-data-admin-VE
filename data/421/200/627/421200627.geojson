@@ -10,8 +10,12 @@
     "geom:latitude":10.46127,
     "geom:longitude":-67.76872,
     "iso:country":"VE",
+    "lbl:bbox":"-67.78872,10.44127,-67.74872,10.48127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ocumare de la Costa"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3631413,
         "gp:id":391795,
-        "qs:id":889980,
+        "qs_pg:id":889980,
         "wd:id":"Q3349025",
         "wk:page":"Ocumare de la Costa"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421200627,
-    "wof:lastmodified":1561827244,
+    "wof:lastmodified":1566646281,
     "wof:name":"Ocumare de la Costa",
     "wof:parent_id":421188835,
     "wof:placetype":"locality",

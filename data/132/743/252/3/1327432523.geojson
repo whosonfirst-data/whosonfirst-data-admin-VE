@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.21092,7.33488,-70.17092,7.37488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327432523,
-    "wof:lastmodified":1536680600,
+    "wof:lastmodified":1566644335,
     "wof:name":"El Guamito",
     "wof:parent_id":421190785,
     "wof:placetype":"locality",

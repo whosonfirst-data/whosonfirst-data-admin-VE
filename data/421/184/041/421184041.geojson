@@ -10,8 +10,12 @@
     "geom:latitude":8.58291,
     "geom:longitude":-71.13609,
     "iso:country":"VE",
+    "lbl:bbox":"-71.15609,8.56291,-71.11609,8.60291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jacinto"
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3753612,
         "gp:id":468338,
-        "qs:id":988334
+        "qs_pg:id":988334
     },
     "wof:country":"VE",
     "wof:created":1459009398,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421184041,
-    "wof:lastmodified":1564306441,
+    "wof:lastmodified":1566646285,
     "wof:name":"San Jacinto",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

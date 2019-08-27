@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.72,10.78,-71.68,10.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Mandocas",
         "Las Manos Locas",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310262793,
-    "wof:lastmodified":1537713559,
+    "wof:lastmodified":1566645960,
     "wof:name":"Las Mandocas",
     "wof:parent_id":421196977,
     "wof:placetype":"locality",

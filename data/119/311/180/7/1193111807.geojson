@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.02428,10.3662,-63.98428,10.4062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193111807,
-    "wof:lastmodified":1536372438,
+    "wof:lastmodified":1566645659,
     "wof:name":"El Codastre",
     "wof:parent_id":421195503,
     "wof:placetype":"locality",

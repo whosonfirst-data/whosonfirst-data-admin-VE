@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.94583,9.99278,-67.90583,10.03278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Paso Ancho"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276327455,
-    "wof:lastmodified":1564304190,
+    "wof:lastmodified":1566645133,
     "wof:name":"Paso Ancho",
     "wof:parent_id":421189075,
     "wof:placetype":"locality",

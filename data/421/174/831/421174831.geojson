@@ -10,6 +10,9 @@
     "geom:latitude":9.06222,
     "geom:longitude":-62.05102,
     "iso:country":"VE",
+    "lbl:bbox":"-62.07102,9.04222,-62.03102,9.08222",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -277,7 +280,7 @@
     "wof:concordances":{
         "gn:id":3625929,
         "gp:id":468440,
-        "qs:id":899973,
+        "qs_pg:id":899973,
         "wd:id":"Q179007",
         "wk:page":"Tucupita"
     },
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421174831,
-    "wof:lastmodified":1563241093,
+    "wof:lastmodified":1566646239,
     "wof:name":"Tucupita",
     "wof:parent_id":421191753,
     "wof:placetype":"locality",

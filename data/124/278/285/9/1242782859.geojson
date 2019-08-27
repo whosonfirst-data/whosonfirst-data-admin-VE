@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.79286,10.46213,-67.75286,10.50213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Independ\u00e8ncia"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1242782859,
-    "wof:lastmodified":1564306911,
+    "wof:lastmodified":1566646546,
     "wof:name":"Independencia",
     "wof:parent_id":421188835,
     "wof:placetype":"locality",

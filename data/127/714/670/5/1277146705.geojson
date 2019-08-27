@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.03861,10.25111,-65.99861,10.29111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Burguillos"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1277146705,
-    "wof:lastmodified":1564304245,
+    "wof:lastmodified":1566645160,
     "wof:name":"Burguillos",
     "wof:parent_id":1108694069,
     "wof:placetype":"locality",

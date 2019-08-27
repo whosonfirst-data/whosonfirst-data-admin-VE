@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.10114,9.30481,-69.06114,9.34481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Isla"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293176215,
-    "wof:lastmodified":1564303847,
+    "wof:lastmodified":1566644970,
     "wof:name":"La Isla",
     "wof:parent_id":1108694461,
     "wof:placetype":"locality",

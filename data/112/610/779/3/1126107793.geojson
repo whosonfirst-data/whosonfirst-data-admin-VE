@@ -9,16 +9,19 @@
     "geom:bbox":"-66.8457,10.48087,-66.8457,10.48087",
     "geom:latitude":10.48087,
     "geom:longitude":-66.8457,
-    "gn:gn_country":"VE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"VE",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.48087,
     "gn:longitude":-66.8457,
+    "gn:population":0,
     "iso:country":"VE",
+    "lbl:bbox":"-66.8507,10.47587,-66.8407,10.48587",
     "lbl:latitude":10.48087,
     "lbl:longitude":-66.8457,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "La Carlota"
@@ -56,9 +59,8 @@
     "name:swe_x_preferred":[
         "La Carlota"
     ],
-    "name:unk_x_variant":[
-        "Urbanizaci\u00f3n La Carlota",
-        "La Carlota"
+    "name:und_x_variant":[
+        "Urbanizaci\u00f3n La Carlota"
     ],
     "name:war_x_preferred":[
         "La Carlota"
@@ -87,7 +89,7 @@
     "qs_pg:woe_adm0":23424982,
     "qs_pg:woe_id":387151,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424982,
     "woe:name_adm0":"Venezuela",
     "woe:name_adm1":"Miranda",
@@ -102,7 +104,6 @@
     "wof:concordances":{
         "gn:id":3638637,
         "gp:id":387151,
-        "qs:id":489670,
         "qs_pg:id":489670
     },
     "wof:country":"VE",
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1126107793,
-    "wof:lastmodified":1564306471,
+    "wof:lastmodified":1566646318,
     "wof:name":"La Carlota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

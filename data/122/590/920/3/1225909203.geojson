@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.16605,10.3083,-64.12605,10.3483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225909203,
-    "wof:lastmodified":1536923051,
+    "wof:lastmodified":1566647004,
     "wof:name":"Pie del Salto",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

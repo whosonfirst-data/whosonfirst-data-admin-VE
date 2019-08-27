@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.09671,7.27076,-66.05671,7.31076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3765728
     },
     "wof:country":"VE",
-    "wof:geomhash":"c3b32e33f2defc235226d80468bdd1d6",
+    "wof:geomhash":"8da1b06648eaccfac4a283446c4e06ec",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209311573,
-    "wof:lastmodified":1536291010,
+    "wof:lastmodified":1566645309,
     "wof:name":"San Juan Piriteno",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -66.07670999999999,
-    7.2907600000000015,
+    7.29076,
     -66.07670999999999,
-    7.2907600000000015
+    7.29076
 ],
   "geometry": {"coordinates":[-66.07670999999999,7.29076],"type":"Point"}
 }

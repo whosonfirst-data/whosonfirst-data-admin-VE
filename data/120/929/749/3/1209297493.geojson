@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.03938,9.21008,-70.99938,9.25008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Puerto Rico"
     ],
@@ -477,7 +481,7 @@
         }
     ],
     "wof:id":1209297493,
-    "wof:lastmodified":1564304930,
+    "wof:lastmodified":1566645504,
     "wof:name":"Puerto Rico",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

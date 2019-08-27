@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.33928,10.39887,-71.29928,10.43887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Sarria"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1259948183,
-    "wof:lastmodified":1564307365,
+    "wof:lastmodified":1566646773,
     "wof:name":"Sarria",
     "wof:parent_id":421202059,
     "wof:placetype":"locality",

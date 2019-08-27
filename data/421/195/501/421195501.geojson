@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.204436,
     "lbl:longitude":-67.519009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aragua",
     "meso:gadm_admin":"Francisco Linares",
     "meso:gaul_admin":"Santiago Marino",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.519009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Municipio Francisco Linares Alc\u00e1ntara"
@@ -112,9 +115,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"24",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Santa Rita",
@@ -135,7 +138,7 @@
     "wof:concordances":{
         "gp:id":26804693,
         "hasc:id":"VE.AR.FA",
-        "qs:id":114619,
+        "qs_pg:id":114619,
         "wd:id":"Q2843795"
     },
     "wof:country":"VE",
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421195501,
-    "wof:lastmodified":1563241055,
+    "wof:lastmodified":1566646221,
     "wof:name":"Francisco Linares Alcantara",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

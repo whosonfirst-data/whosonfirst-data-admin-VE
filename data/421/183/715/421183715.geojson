@@ -10,8 +10,12 @@
     "geom:latitude":10.86233,
     "geom:longitude":-68.23672,
     "iso:country":"VE",
+    "lbl:bbox":"-68.25672,10.84233,-68.21672,10.88233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3634721,
         "gp:id":468262,
-        "qs:id":982729
+        "qs_pg:id":982729
     },
     "wof:country":"VE",
     "wof:created":1459009379,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421183715,
-    "wof:lastmodified":1500033974,
+    "wof:lastmodified":1566646292,
     "wof:name":"Lizardo",
     "wof:parent_id":890417393,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.608634,
     "lbl:longitude":-64.612041,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bolivar",
     "meso:gadm_admin":"Sucre",
     "meso:gaul_admin":"Sucre",
@@ -30,6 +32,7 @@
     "mps:longitude":-64.612041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
@@ -410,7 +413,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1751,
     "wof:belongsto":[
         102191577,
@@ -421,7 +424,7 @@
     "wof:concordances":{
         "gp:id":26804722,
         "hasc:id":"VE.AR.SU",
-        "qs:id":368895,
+        "qs_pg:id":368895,
         "wd:id":"Q2907"
     },
     "wof:country":"VE",
@@ -436,7 +439,7 @@
         }
     ],
     "wof:id":421175383,
-    "wof:lastmodified":1563241158,
+    "wof:lastmodified":1566646266,
     "wof:name":"Sucre",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

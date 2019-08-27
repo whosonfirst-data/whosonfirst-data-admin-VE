@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.96907,10.17938,-65.92907,10.21938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Fernando"
     ],
@@ -125,8 +129,7 @@
         "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e"
     ],
     "name:und_x_variant":[
-        "San Fernando del Guapo",
-        "San Fernando"
+        "San Fernando del Guapo"
     ],
     "name:vie_x_preferred":[
         "San Fernando"
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1193250997,
-    "wof:lastmodified":1564305172,
+    "wof:lastmodified":1566645627,
     "wof:name":"San Fernando",
     "wof:parent_id":421204299,
     "wof:placetype":"locality",

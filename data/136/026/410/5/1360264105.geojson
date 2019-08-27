@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.60671,10.33333,-69.56671,10.37333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360264105,
-    "wof:lastmodified":1536687480,
+    "wof:lastmodified":1566646096,
     "wof:name":"El Sierral",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",

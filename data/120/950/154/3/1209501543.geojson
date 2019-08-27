@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.83657,9.1615,-65.79657,9.2015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cenicero"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1209501543,
-    "wof:lastmodified":1564304821,
+    "wof:lastmodified":1566645445,
     "wof:name":"Cenicero",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.552503,
     "geom:longitude":-71.00876,
     "iso:country":"VE",
+    "lbl:bbox":"-71.02876,8.532503,-70.98876,8.572503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Humboldt"
@@ -137,7 +141,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26806887,
-        "qs:id":1182905
+        "qs_pg:id":1182905
     },
     "wof:country":"VE",
     "wof:created":1459009753,
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":421192903,
-    "wof:lastmodified":1564306362,
+    "wof:lastmodified":1566646217,
     "wof:name":"Humboldt",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

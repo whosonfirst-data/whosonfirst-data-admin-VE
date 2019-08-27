@@ -10,10 +10,14 @@
     "geom:latitude":10.79269,
     "geom:longitude":-71.68505,
     "iso:country":"VE",
+    "lbl:bbox":"-71.70505,10.77269,-71.66505,10.81269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz"
     ],
     "qs:gn_country":"VE",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3627420,
         "gp:id":468361,
-        "qs:id":959459
+        "qs_pg:id":959459
     },
     "wof:country":"VE",
     "wof:created":1459009356,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421183031,
-    "wof:lastmodified":1527716490,
+    "wof:lastmodified":1566646292,
     "wof:name":"Santa Cruz de Mara",
     "wof:parent_id":421196977,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.34168,7.45223,-65.30168,7.49223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Soledad"
     ],
@@ -65,8 +69,7 @@
         "Soledad"
     ],
     "name:und_x_variant":[
-        "La Soledad",
-        "Soledad"
+        "La Soledad"
     ],
     "name:vol_x_preferred":[
         "Soledad"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1225938779,
-    "wof:lastmodified":1564307475,
+    "wof:lastmodified":1566646838,
     "wof:name":"Soledad",
     "wof:parent_id":421196979,
     "wof:placetype":"locality",

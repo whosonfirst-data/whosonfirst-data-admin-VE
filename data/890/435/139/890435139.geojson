@@ -11,10 +11,14 @@
     "geom:longitude":-66.80155,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":364684,
+    "gn:population":364684,
     "iso:country":"VE",
+    "lbl:bbox":"-66.82155,10.45226,-66.78155,10.49226",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0627\u0631\u064a"
     ],
@@ -154,7 +158,7 @@
     "wof:concordances":{
         "gn:id":3630297,
         "gp:id":392358,
-        "qs:id":149590,
+        "qs_pg:id":149590,
         "wd:id":"Q983946",
         "wk:page":"Petare"
     },
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":890435139,
-    "wof:lastmodified":1563241263,
+    "wof:lastmodified":1566646317,
     "wof:name":"Petare",
     "wof:parent_id":421171381,
     "wof:placetype":"locality",

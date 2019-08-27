@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.02837,7.8525,-71.98837,7.8925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cuchilla Grande"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1260347839,
-    "wof:lastmodified":1564305470,
+    "wof:lastmodified":1566645780,
     "wof:name":"Cuchilla Grande",
     "wof:parent_id":1108694445,
     "wof:placetype":"locality",

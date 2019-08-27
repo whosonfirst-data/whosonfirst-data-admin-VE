@@ -10,8 +10,12 @@
     "geom:latitude":10.61996,
     "geom:longitude":-66.73925,
     "iso:country":"VE",
+    "lbl:bbox":"-66.75925,10.59996,-66.71925,10.63996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pico Naiguat\u00e1"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3631612,
         "gp:id":468483,
-        "qs:id":1082802,
+        "qs_pg:id":1082802,
         "wd:id":"Q7191016"
     },
     "wof:country":"VE",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421187419,
-    "wof:lastmodified":1563241103,
+    "wof:lastmodified":1566646243,
     "wof:name":"Naiguat\u00e1",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.031892,
     "lbl:longitude":-67.777328,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Carabobo",
     "meso:gadm_admin":"Carlos Arevalo",
     "meso:gaul_admin":"Carlos Arevalo",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.777328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Carlos Arvelo"
@@ -96,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"835",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Guigue",
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":26804593,
         "hasc:id":"VE.CA.CA",
-        "qs:id":1110092,
+        "qs_pg:id":1110092,
         "wd:id":"Q1042713"
     },
     "wof:country":"VE",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421189075,
-    "wof:lastmodified":1563241115,
+    "wof:lastmodified":1566646249,
     "wof:name":"Carlos Arvelo",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

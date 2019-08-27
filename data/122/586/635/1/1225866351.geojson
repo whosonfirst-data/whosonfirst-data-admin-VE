@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.49,8.08583,-63.45,8.12583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225866351,
-    "wof:lastmodified":1536983290,
+    "wof:lastmodified":1566646988,
     "wof:name":"Marhuanta",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.232275,
     "lbl:longitude":-71.341986,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Apure",
     "meso:gadm_admin":"P\u00e1ez",
     "meso:gaul_admin":"Autonomo Paez",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.341986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_variant":[
         "Autonomo Paez",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gp:id":26804529,
         "hasc:id":"VE.AP.PA",
-        "qs:id":1120993
+        "qs_pg:id":1120993
     },
     "wof:country":"VE",
     "wof:created":1459009669,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421190785,
-    "wof:lastmodified":1554488989,
+    "wof:lastmodified":1566646277,
     "wof:name":"Paez",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

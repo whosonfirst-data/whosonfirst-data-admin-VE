@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.83245,9.82613,-72.79245,9.86613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Misi\u00f3n de Los Angles de Tokuku"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209383187,
-    "wof:lastmodified":1537713636,
+    "wof:lastmodified":1566645317,
     "wof:name":"El Tucuco",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

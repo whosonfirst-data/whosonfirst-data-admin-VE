@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.9634,8.73236,-70.9234,8.77236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Los Aposentos"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276305791,
-    "wof:lastmodified":1564304463,
+    "wof:lastmodified":1566645262,
     "wof:name":"Los Aposentos",
     "wof:parent_id":421190239,
     "wof:placetype":"locality",

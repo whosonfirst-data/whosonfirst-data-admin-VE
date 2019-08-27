@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.24181,7.77904,-72.20181,7.81904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310079781,
-    "wof:lastmodified":1537032307,
+    "wof:lastmodified":1566645867,
     "wof:name":"Los Quioscos",
     "wof:parent_id":421171375,
     "wof:placetype":"locality",

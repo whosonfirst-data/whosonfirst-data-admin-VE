@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.316,8.7619,-67.276,8.8019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hato La Becerra",
         "La Becerra",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209494693,
-    "wof:lastmodified":1537713582,
+    "wof:lastmodified":1566645435,
     "wof:name":"Hato Becerra",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.29289,10.58328,-62.25289,10.62328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Salina"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Salina",
-        "Las Salinas",
-        "La Salina"
+        "Las Salinas"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0633\u0627\u0644\u06cc\u0646\u0627"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1277050231,
-    "wof:lastmodified":1564304266,
+    "wof:lastmodified":1566645170,
     "wof:name":"La Salina",
     "wof:parent_id":1108694473,
     "wof:placetype":"locality",

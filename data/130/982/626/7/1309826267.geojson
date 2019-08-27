@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.02,10.34667,-67.98,10.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pozo Hondo"
     ],
@@ -45,8 +49,7 @@
         "Pozo Hondo"
     ],
     "name:und_x_variant":[
-        "Piso Hondo",
-        "Pozo Hondo"
+        "Piso Hondo"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u7d22\u7fc1\u591a"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1309826267,
-    "wof:lastmodified":1564306255,
+    "wof:lastmodified":1566646162,
     "wof:name":"Pozo Hondo",
     "wof:parent_id":421198089,
     "wof:placetype":"locality",

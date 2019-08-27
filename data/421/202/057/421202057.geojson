@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.471041,
     "lbl:longitude":-68.964562,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Portuguesa",
     "meso:gadm_admin":"Tur\u00e9n",
     "meso:gaul_admin":"Turen",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.964562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tur\u00e9n"
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":26804498,
         "hasc:id":"VE.PO.TU",
-        "qs:id":219077,
+        "qs_pg:id":219077,
         "wd:id":"Q3038839"
     },
     "wof:country":"VE",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421202057,
-    "wof:lastmodified":1563241086,
+    "wof:lastmodified":1566646237,
     "wof:name":"Paez",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

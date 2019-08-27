@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.7168,7.83501,-65.6768,7.87501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3807015
     },
     "wof:country":"VE",
-    "wof:geomhash":"aaac4822bf809b19669c63bfd0456066",
+    "wof:geomhash":"327aed5a6d74d1260e18593907fcce3c",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209606985,
-    "wof:lastmodified":1536281978,
+    "wof:lastmodified":1566645484,
     "wof:name":"El Almacen",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -65.6968,
-    7.855010000000001,
+    7.85501,
     -65.6968,
-    7.855010000000001
+    7.85501
 ],
   "geometry": {"coordinates":[-65.6968,7.85501],"type":"Point"}
 }

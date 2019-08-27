@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.82,10.26333,-71.78,10.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Cristo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326488451,
-    "wof:lastmodified":1564302535,
+    "wof:lastmodified":1566644298,
     "wof:name":"El Cristo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

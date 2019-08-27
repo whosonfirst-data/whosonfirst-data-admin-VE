@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.389039,
     "lbl:longitude":-71.648399,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Merida",
     "meso:gadm_admin":"Antonio Pinto Salinas",
     "meso:gaul_admin":"Antonio Pinto Salinas",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.648399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Antonio Pinto Salinas"
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"348",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Santa Cruz de Mora",
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gp:id":26804723,
         "hasc:id":"VE.ME.AS",
-        "qs:id":1289852,
+        "qs_pg:id":1289852,
         "wd:id":"Q2146204"
     },
     "wof:country":"VE",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421171997,
-    "wof:lastmodified":1563241223,
+    "wof:lastmodified":1566646297,
     "wof:name":"Antonio Pinto Salinas",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.66889,10.41556,-70.62889,10.45556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276957537,
-    "wof:lastmodified":1536938057,
+    "wof:lastmodified":1566645140,
     "wof:name":"El Pajuatal",
     "wof:parent_id":1108694165,
     "wof:placetype":"locality",

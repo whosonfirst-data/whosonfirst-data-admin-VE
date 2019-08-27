@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-61.71333,8.42444,-61.67333,8.46444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Hermanas"
     ],
@@ -33,8 +37,7 @@
         "Las Hermanas"
     ],
     "name:und_x_variant":[
-        "Hermanas",
-        "Las Hermanas"
+        "Hermanas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209403903,
-    "wof:lastmodified":1564304763,
+    "wof:lastmodified":1566645414,
     "wof:name":"Las Hermanas",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

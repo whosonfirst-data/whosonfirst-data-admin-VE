@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.94493,9.81553,-67.90493,9.85553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276327453,
-    "wof:lastmodified":1536787002,
+    "wof:lastmodified":1566645133,
     "wof:name":"Carabito",
     "wof:parent_id":421202373,
     "wof:placetype":"locality",

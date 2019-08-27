@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.373901,
     "lbl:longitude":-69.327784,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Falcon",
     "meso:gadm_admin":"Zamora",
     "meso:gaul_admin":"Zamora",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.327784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0632\u0627\u0645\u0648\u0631\u0627"
@@ -167,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -177,7 +180,7 @@
     "wof:concordances":{
         "gp:id":26804530,
         "hasc:id":"VE.AR.ZA",
-        "qs:id":993184
+        "qs_pg:id":993184
     },
     "wof:country":"VE",
     "wof:created":1459009406,
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":421184293,
-    "wof:lastmodified":1564306442,
+    "wof:lastmodified":1566646285,
     "wof:name":"Zamora",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

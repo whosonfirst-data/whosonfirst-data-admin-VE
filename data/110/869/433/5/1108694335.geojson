@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.482639,
     "lbl:longitude":-72.066701,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tachira",
     "meso:gadm_admin":"Panamericano",
     "meso:gaul_admin":"Panamericano",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.066701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Panamericano"
     ],
@@ -67,9 +70,9 @@
         "\u5e15\u7d0d\u6885\u91cc\u5361\u8afe\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"569",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Coloncito",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108694335,
-    "wof:lastmodified":1563240349,
+    "wof:lastmodified":1566645821,
     "wof:name":"Panamericano",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

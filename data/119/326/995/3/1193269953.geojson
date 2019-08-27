@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.21889,7.065,-63.17889,7.105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Salvaci\u00f3n",
         "La Salvaci\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193269953,
-    "wof:lastmodified":1537713651,
+    "wof:lastmodified":1566645669,
     "wof:name":"La Salvacion",
     "wof:parent_id":421196981,
     "wof:placetype":"locality",

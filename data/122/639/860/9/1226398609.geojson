@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.7582,10.14088,-68.7182,10.18088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226398609,
-    "wof:lastmodified":1536713831,
+    "wof:lastmodified":1566647101,
     "wof:name":"Baquira",
     "wof:parent_id":1108694129,
     "wof:placetype":"locality",

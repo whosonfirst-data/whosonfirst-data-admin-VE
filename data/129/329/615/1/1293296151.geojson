@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.86578,1.2194,-66.82578,1.2594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Sim\u00f3n de Cocuy",
         "San Sim\u00f3n del Cocuy"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293296151,
-    "wof:lastmodified":1537713517,
+    "wof:lastmodified":1566644947,
     "wof:name":"San Simon del Cocuy",
     "wof:parent_id":1108694371,
     "wof:placetype":"locality",

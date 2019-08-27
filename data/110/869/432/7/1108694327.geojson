@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.991211,
     "lbl:longitude":-69.235084,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lara",
     "meso:gadm_admin":"Palavecino",
     "meso:gaul_admin":"Palavecino",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.235084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Palavecino"
     ],
@@ -70,7 +73,7 @@
         "\u5e15\u62c9\u97cb\u897f\u8afe\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108694327,
-    "wof:lastmodified":1563240350,
+    "wof:lastmodified":1566645821,
     "wof:name":"Palavecino",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

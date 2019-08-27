@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.43667,8.28,-69.39667,8.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Mapocita",
         "La Maporita"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310403927,
-    "wof:lastmodified":1537713567,
+    "wof:lastmodified":1566645847,
     "wof:name":"La Maporita",
     "wof:parent_id":421203565,
     "wof:placetype":"locality",

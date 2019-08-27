@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.13634,10.83771,-69.09634,10.87771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "El Pantano"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243243805,
-    "wof:lastmodified":1564306718,
+    "wof:lastmodified":1566646444,
     "wof:name":"El Pantano",
     "wof:parent_id":1108694463,
     "wof:placetype":"locality",

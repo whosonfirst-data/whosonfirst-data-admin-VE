@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.477759,
     "lbl:longitude":-66.652499,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Plaza",
     "meso:gaul_admin":"Plaza",
@@ -30,6 +32,7 @@
     "mps:longitude":-66.652499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Plaza"
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"180",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Guarenas",
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gp:id":26804639,
         "hasc:id":"VE.MI.PL",
-        "qs:id":1110095,
+        "qs_pg:id":1110095,
         "wd:id":"Q1149242"
     },
     "wof:country":"VE",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":421189081,
-    "wof:lastmodified":1563241114,
+    "wof:lastmodified":1566646249,
     "wof:name":"Plaza",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

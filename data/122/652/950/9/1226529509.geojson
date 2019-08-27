@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.10333,11.14667,-70.06333,11.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Zorro"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226529509,
-    "wof:lastmodified":1564307964,
+    "wof:lastmodified":1566647082,
     "wof:name":"El Zorro",
     "wof:parent_id":1108694291,
     "wof:placetype":"locality",

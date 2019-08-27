@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.140316,
     "lbl:longitude":-64.564248,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"NO DATA",
     "meso:gaul_admin":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":-64.564248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sotillo"
@@ -56,9 +59,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1263",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Barrancas del Orinoco",
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gp:id":26804653,
         "hasc:id":"VE.MO.SO",
-        "qs:id":248848,
+        "qs_pg:id":248848,
         "wd:id":"Q6298891"
     },
     "wof:country":"VE",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421204791,
-    "wof:lastmodified":1554489051,
+    "wof:lastmodified":1566646228,
     "wof:name":"Sotillo",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

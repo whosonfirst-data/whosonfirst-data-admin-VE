@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.07113,
     "lbl:longitude":-69.537039,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Falcon",
     "meso:gadm_admin":"Sucre",
     "meso:gaul_admin":"Bolivar",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.537039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0438"
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":327,
     "wof:belongsto":[
         102191577,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":26804528,
         "hasc:id":"VE.AR.SU",
-        "qs:id":772404,
+        "qs_pg:id":772404,
         "wd:id":"Q281921"
     },
     "wof:country":"VE",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421169951,
-    "wof:lastmodified":1563241070,
+    "wof:lastmodified":1566646228,
     "wof:name":"Petit",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

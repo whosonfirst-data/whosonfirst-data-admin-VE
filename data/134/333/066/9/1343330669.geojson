@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.005,9.65278,-70.965,9.69278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343330669,
-    "wof:lastmodified":1536934482,
+    "wof:lastmodified":1566644603,
     "wof:name":"Caujuarito",
     "wof:parent_id":1108694109,
     "wof:placetype":"locality",

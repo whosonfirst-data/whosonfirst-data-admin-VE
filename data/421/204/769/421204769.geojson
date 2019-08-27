@@ -10,8 +10,12 @@
     "geom:latitude":8.75,
     "geom:longitude":-70.916702,
     "iso:country":"VE",
+    "lbl:bbox":"-71.016702,8.65,-70.816702,8.85",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805303,
-        "qs:id":247726
+        "qs_pg:id":247726
     },
     "wof:country":"VE",
     "wof:created":1459010197,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421204769,
-    "wof:lastmodified":1500034071,
+    "wof:lastmodified":1566646229,
     "wof:name":"Mucuruba",
     "wof:parent_id":421190239,
     "wof:placetype":"localadmin",

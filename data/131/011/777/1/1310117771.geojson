@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.41701,8.01568,-64.37701,8.05568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310117771,
-    "wof:lastmodified":1536978155,
+    "wof:lastmodified":1566645934,
     "wof:name":"El Bote",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.65333,10.19667,-64.61333,10.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Guaraguao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343568899,
-    "wof:lastmodified":1564303091,
+    "wof:lastmodified":1566644576,
     "wof:name":"Guaraguao",
     "wof:parent_id":421204791,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.77,8.11333,-69.73,8.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243547149,
-    "wof:lastmodified":1536660500,
+    "wof:lastmodified":1566646334,
     "wof:name":"Laguna Hermosa",
     "wof:parent_id":890429493,
     "wof:placetype":"locality",

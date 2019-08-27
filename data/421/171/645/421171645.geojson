@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.089511,
     "lbl:longitude":-65.407732,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"San Juan de Capistrano",
     "meso:gaul_admin":"Penalver",
@@ -30,6 +32,7 @@
     "mps:longitude":-65.407732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Municipio San Juan de Capistrano"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"123",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Boca de Uchire",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":26804652,
         "hasc:id":"VE.AN.SC",
-        "qs:id":1263786,
+        "qs_pg:id":1263786,
         "wd:id":"Q2674109"
     },
     "wof:country":"VE",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421171645,
-    "wof:lastmodified":1561827248,
+    "wof:lastmodified":1566646298,
     "wof:name":"San Juan De Capistrano",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

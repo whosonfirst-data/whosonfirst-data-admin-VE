@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.74809,8.79777,-63.70809,8.83777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293688767,
-    "wof:lastmodified":1536993326,
+    "wof:lastmodified":1566644868,
     "wof:name":"Paso de la Fundacion",
     "wof:parent_id":421182997,
     "wof:placetype":"locality",

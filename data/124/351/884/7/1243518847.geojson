@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.97341,7.90263,-71.93341,7.94263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "El T\u00f3pon"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:spa_x_variant":[
         "El Topon"
-    ],
-    "name:und_x_variant":[
-        "El T\u00f3pon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1243518847,
-    "wof:lastmodified":1537713639,
+    "wof:lastmodified":1566646503,
     "wof:name":"El Topon",
     "wof:parent_id":421195505,
     "wof:placetype":"locality",

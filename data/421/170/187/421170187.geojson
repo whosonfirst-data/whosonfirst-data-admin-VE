@@ -10,8 +10,12 @@
     "geom:latitude":8.891516,
     "geom:longitude":-64.255531,
     "iso:country":"VE",
+    "lbl:bbox":"-64.355531,8.791516,-64.155531,8.991516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805003,
-        "qs:id":224849,
+        "qs_pg:id":224849
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1263832
     },
     "wof:country":"VE",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":421170187,
-    "wof:lastmodified":1507751322,
+    "wof:lastmodified":1566646288,
     "wof:name":"Simon Rodriguez",
     "wof:parent_id":421189069,
     "wof:placetype":"localadmin",

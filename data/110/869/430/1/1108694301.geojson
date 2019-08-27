@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.187423,
     "lbl:longitude":-64.875136,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Monagas",
     "meso:gaul_admin":"Monagas",
@@ -30,6 +32,7 @@
     "mps:longitude":-64.875136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0627\u063a\u0627\u0633"
     ],
@@ -169,7 +172,7 @@
         "\u83ab\u7d0d\u52a0\u65af\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1108694301,
-    "wof:lastmodified":1564305500,
+    "wof:lastmodified":1566645802,
     "wof:name":"Monagas",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

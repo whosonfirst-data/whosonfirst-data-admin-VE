@@ -10,8 +10,12 @@
     "geom:latitude":8.03125,
     "geom:longitude":-72.26053,
     "iso:country":"VE",
+    "lbl:bbox":"-72.28053,8.01125,-72.24053,8.05125",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_colloquial":[
         "San Juan De Colon"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3628060,
         "gp:id":468807,
-        "qs:id":149560,
+        "qs_pg:id":149560,
         "wd:id":"Q3072164",
         "wk:page":"Col\u00f3n, Venezuela"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421197703,
-    "wof:lastmodified":1561827244,
+    "wof:lastmodified":1566646279,
     "wof:name":"San Juan de Col\u00f3n",
     "wof:parent_id":421189269,
     "wof:placetype":"locality",

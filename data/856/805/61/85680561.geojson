@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.461084,
     "lbl:longitude":-63.119298,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Sucre",
     "mps:latitude":10.442936,
     "mps:longitude":-63.233467,
@@ -223,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estada Sucre"
     ],
     "name:urd_x_preferred":[
@@ -313,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"11,800",
     "statoids:area_mi":"4,560",
     "statoids:as_of_date":"2011-09-01",
@@ -340,7 +341,7 @@
         "gp:id":2347695,
         "hasc:id":"VE.SU",
         "iso:id":"VE-R",
-        "qs:id":1047658,
+        "qs_pg:id":1047658,
         "unlc:id":"VE-R",
         "wd:id":"Q205824",
         "wk:page":"Sucre (state)"
@@ -361,11 +362,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738725,
+    "wof:lastmodified":1566644702,
     "wof:name":"Sucre",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":896291,
     "wof:population_rank":11,

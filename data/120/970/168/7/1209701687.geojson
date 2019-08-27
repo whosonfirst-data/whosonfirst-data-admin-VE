@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.73722,9.43611,-69.69722,9.47611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u0631\u064a\u0646\u0632\u0648"
     ],
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1209701687,
-    "wof:lastmodified":1564304733,
+    "wof:lastmodified":1566645397,
     "wof:name":"San Lorenzo",
     "wof:parent_id":421200611,
     "wof:placetype":"locality",

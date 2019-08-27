@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.50622,11.27271,-69.46622,11.31271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327007289,
-    "wof:lastmodified":1536796966,
+    "wof:lastmodified":1566644126,
     "wof:name":"El Candado",
     "wof:parent_id":421180897,
     "wof:placetype":"locality",

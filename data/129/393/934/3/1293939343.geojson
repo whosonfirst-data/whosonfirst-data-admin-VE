@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.47316,9.64055,-72.43316,9.68055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Barranquilla"
     ],
@@ -273,7 +277,7 @@
         }
     ],
     "wof:id":1293939343,
-    "wof:lastmodified":1564303684,
+    "wof:lastmodified":1566644896,
     "wof:name":"Barranquilla",
     "wof:parent_id":1108694269,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":7.18646,
     "lbl:longitude":-64.568705,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.18646,
     "mps:longitude":-64.568705,
     "mz:hierarchy_label":1,
@@ -842,14 +844,8 @@
     "name:und_x_colloquial":[
         "Venesuela"
     ],
-    "name:und_x_preferred":[
-        "Venes\u00faela"
-    ],
     "name:und_x_variant":[
         "Republika Venezuela"
-    ],
-    "name:unk_x_variant":[
-        "Rep\u00fablica Bolivariana de Venezuela"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627"
@@ -1013,7 +1009,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"58",
     "statoids:ds":"YV",
@@ -1058,7 +1054,7 @@
         "mzb:id":"venezuela",
         "ne:adm0_a3":"VEN",
         "nyt:id":"63723441165873404131",
-        "qs:id":223916,
+        "qs_pg:id":223916,
         "uncrt:id":"YV",
         "wd:id":"Q717",
         "wk:page":"Venezuela",
@@ -1080,7 +1076,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738729,
+    "wof:lastmodified":1566644710,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

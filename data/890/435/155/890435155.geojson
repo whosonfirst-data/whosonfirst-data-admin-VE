@@ -11,10 +11,14 @@
     "geom:longitude":-64.35841,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":33040,
+    "gn:population":33040,
     "iso:country":"VE",
+    "lbl:bbox":"-64.37841,9.28571,-64.33841,9.32571",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Cantaura"
     ],
@@ -57,7 +61,7 @@
     "name:spa_x_preferred":[
         "Cantaura"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cantura"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3646869,
         "gp:id":468405,
-        "qs:id":149648,
+        "qs_pg:id":149648,
         "wd:id":"Q2919593",
         "wk:page":"Cantaura"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890435155,
-    "wof:lastmodified":1563241263,
+    "wof:lastmodified":1566646316,
     "wof:name":"Cantaura",
     "wof:parent_id":421183227,
     "wof:placetype":"locality",

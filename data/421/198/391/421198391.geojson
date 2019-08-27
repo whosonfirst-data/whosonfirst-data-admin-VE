@@ -11,10 +11,14 @@
     "geom:longitude":-67.631835,
     "gn:country":"VE",
     "gn:fcode":"PPLA",
-    "gn:pop":52526,
+    "gn:population":52526,
     "iso:country":"VE",
+    "lbl:bbox":"-67.651835,5.644074,-67.611835,5.684074",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Puerto Ayacucho"
@@ -162,12 +166,12 @@
     "wof:concordances":{
         "gn:id":3629710,
         "gp:id":468426,
-        "qs:id":422687,
+        "qs_pg:id":422687,
         "wd:id":"Q372920",
         "wk:page":"Puerto Ayacucho"
     },
     "wof:concordances_alt":{
-        "qs:id":274465
+        "qs_pg:id":274465
     },
     "wof:country":"VE",
     "wof:created":1459009946,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":421198391,
-    "wof:lastmodified":1563241160,
+    "wof:lastmodified":1566646268,
     "wof:name":"Puerto Ayacucho",
     "wof:parent_id":85680511,
     "wof:placetype":"locality",

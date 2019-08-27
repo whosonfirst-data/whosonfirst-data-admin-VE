@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.14143,9.09018,-71.10143,9.13018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campo Alegre"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1209989737,
-    "wof:lastmodified":1564304609,
+    "wof:lastmodified":1566645331,
     "wof:name":"Campo Alegre",
     "wof:parent_id":1108694459,
     "wof:placetype":"locality",

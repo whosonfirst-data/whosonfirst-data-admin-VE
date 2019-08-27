@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.8407,10.26076,-69.8007,10.30076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0430\u0442\u0435\u043e"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1242956811,
-    "wof:lastmodified":1564306633,
+    "wof:lastmodified":1566646402,
     "wof:name":"San Mateo",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

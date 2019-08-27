@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.18054,8.34334,-70.14054,8.38334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293290741,
-    "wof:lastmodified":1537067709,
+    "wof:lastmodified":1566644947,
     "wof:name":"Hato Viejo",
     "wof:parent_id":890429493,
     "wof:placetype":"locality",

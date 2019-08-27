@@ -10,8 +10,12 @@
     "geom:latitude":10.89435,
     "geom:longitude":-63.92845,
     "iso:country":"VE",
+    "lbl:bbox":"-63.94845,10.87435,-63.90845,10.91435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3637510,
         "gp:id":468235,
-        "qs:id":238593
+        "qs_pg:id":238593
     },
     "wof:country":"VE",
     "wof:created":1459010176,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421204183,
-    "wof:lastmodified":1500034414,
+    "wof:lastmodified":1566646230,
     "wof:name":"La Isleta",
     "wof:parent_id":421170035,
     "wof:placetype":"locality",

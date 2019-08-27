@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.22307,9.99574,-65.18307,10.03574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309714221,
-    "wof:lastmodified":1537060484,
+    "wof:lastmodified":1566646156,
     "wof:name":"Guaramaco",
     "wof:parent_id":421172597,
     "wof:placetype":"locality",

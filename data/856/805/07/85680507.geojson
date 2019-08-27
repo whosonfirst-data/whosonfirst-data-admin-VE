@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.27477,
     "lbl:longitude":-68.705487,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Yaracuy",
     "mps:latitude":10.305771,
     "mps:longitude":-68.697889,
@@ -296,9 +297,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"7,100",
     "statoids:area_mi":"2,740",
     "statoids:as_of_date":"2011-09-01",
@@ -324,7 +325,7 @@
         "gp:id":2347698,
         "hasc:id":"VE.YA",
         "iso:id":"VE-U",
-        "qs:id":219635,
+        "qs_pg:id":219635,
         "unlc:id":"VE-U",
         "wd:id":"Q201121",
         "wk:page":"Yaracuy"
@@ -345,11 +346,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738728,
+    "wof:lastmodified":1566644707,
     "wof:name":"Yaracuy",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":600852,
     "wof:population_rank":11,

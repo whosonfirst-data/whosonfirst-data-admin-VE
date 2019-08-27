@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.73667,9.46333,-70.69667,9.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310174261,
-    "wof:lastmodified":1536897395,
+    "wof:lastmodified":1566645945,
     "wof:name":"Las Coeuizas",
     "wof:parent_id":1108694299,
     "wof:placetype":"locality",

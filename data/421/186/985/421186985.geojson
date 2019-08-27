@@ -10,8 +10,12 @@
     "geom:latitude":10.786599,
     "geom:longitude":-63.995018,
     "iso:country":"VE",
+    "lbl:bbox":"-64.015018,10.766599,-63.975018,10.806599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Pedro de Coche"
@@ -60,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468724,
-        "qs:id":1077575,
+        "qs_pg:id":1077575,
         "wd:id":"Q3471597"
     },
     "wof:country":"VE",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421186985,
-    "wof:lastmodified":1561827240,
+    "wof:lastmodified":1566646259,
     "wof:name":"San Pedro de Coche",
     "wof:parent_id":421177413,
     "wof:placetype":"locality",

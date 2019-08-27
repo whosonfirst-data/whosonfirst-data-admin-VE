@@ -10,8 +10,12 @@
     "geom:latitude":7.784727,
     "geom:longitude":-72.210388,
     "iso:country":"VE",
+    "lbl:bbox":"-72.310388,7.684727,-72.110388,7.884727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Juan Bautista"
@@ -92,7 +96,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804966,
-        "qs:id":1137263,
         "qs_pg:id":1137263
     },
     "wof:country":"VE",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421191427,
-    "wof:lastmodified":1564306424,
+    "wof:lastmodified":1566646275,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":421171375,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.49467,10.1213,-69.45467,10.1613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0430-\u0412\u0435\u043d\u0442\u0430"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1226513365,
-    "wof:lastmodified":1564307688,
+    "wof:lastmodified":1566646943,
     "wof:name":"La Venta",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",

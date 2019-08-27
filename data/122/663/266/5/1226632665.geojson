@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.60333,9.64667,-67.56333,9.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Papayos",
         "El Papayo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226632665,
-    "wof:lastmodified":1537713596,
+    "wof:lastmodified":1566647094,
     "wof:name":"El Papayo",
     "wof:parent_id":1108694319,
     "wof:placetype":"locality",

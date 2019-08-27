@@ -11,10 +11,14 @@
     "geom:longitude":-66.88575,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":182558,
+    "gn:population":182558,
     "iso:country":"VE",
+    "lbl:bbox":"-66.90575,10.13892,-66.86575,10.17892",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627"
     ],
@@ -157,12 +161,12 @@
     "wof:concordances":{
         "gn:id":3644918,
         "gp:id":468459,
-        "qs:id":149636,
+        "qs_pg:id":149636,
         "wd:id":"Q770309",
         "wk:page":"C\u00faa"
     },
     "wof:concordances_alt":{
-        "qs:id":219335
+        "qs_pg:id":219335
     },
     "wof:country":"VE",
     "wof:created":1469051864,
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":890430735,
-    "wof:lastmodified":1563241244,
+    "wof:lastmodified":1566646309,
     "wof:name":"C\u00faa",
     "wof:parent_id":421170247,
     "wof:placetype":"locality",

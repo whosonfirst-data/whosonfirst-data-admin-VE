@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.93869,9.13369,-65.89869,9.17369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293376519,
-    "wof:lastmodified":1536947405,
+    "wof:lastmodified":1566644754,
     "wof:name":"El Jobal",
     "wof:parent_id":1108694365,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.88667,7.84667,-67.84667,7.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "La Reforma"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209521851,
-    "wof:lastmodified":1564304690,
+    "wof:lastmodified":1566645378,
     "wof:name":"La Reforma",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

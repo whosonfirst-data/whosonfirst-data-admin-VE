@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.12091,9.38061,-67.08091,9.42061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vallecito"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344143347,
-    "wof:lastmodified":1564302836,
+    "wof:lastmodified":1566644450,
     "wof:name":"Vallecito",
     "wof:parent_id":421189079,
     "wof:placetype":"locality",

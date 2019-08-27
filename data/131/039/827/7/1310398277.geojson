@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.05621,7.33666,-71.01621,7.37666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310398277,
-    "wof:lastmodified":1537068702,
+    "wof:lastmodified":1566645908,
     "wof:name":"El Merecure",
     "wof:parent_id":1108694181,
     "wof:placetype":"locality",

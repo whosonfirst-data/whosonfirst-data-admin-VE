@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.53056,9.30778,-63.49056,9.34778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Ceiba"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1293570547,
-    "wof:lastmodified":1564303626,
+    "wof:lastmodified":1566644870,
     "wof:name":"La Ceiba",
     "wof:parent_id":1108694065,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.13778,10.34614,-69.09778,10.38614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Florida"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1343245749,
-    "wof:lastmodified":1564302963,
+    "wof:lastmodified":1566644513,
     "wof:name":"La Florida",
     "wof:parent_id":1108694163,
     "wof:placetype":"locality",

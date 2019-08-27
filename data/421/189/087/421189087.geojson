@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.093527,
     "lbl:longitude":-69.722046,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Portuguesa",
     "meso:gadm_admin":"Guanare",
     "meso:gaul_admin":"Guanare",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.722046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Guanare"
@@ -146,9 +149,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"2008",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Guanare",
@@ -171,7 +174,7 @@
     "wof:concordances":{
         "gp:id":26804765,
         "hasc:id":"VE.PO.GE",
-        "qs:id":1110107,
+        "qs_pg:id":1110107,
         "wd:id":"Q3118730"
     },
     "wof:country":"VE",
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":421189087,
-    "wof:lastmodified":1563241114,
+    "wof:lastmodified":1566646249,
     "wof:name":"Guanare",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

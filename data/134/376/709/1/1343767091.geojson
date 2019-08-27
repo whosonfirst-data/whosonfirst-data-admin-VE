@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.59641,10.11713,-67.55641,10.15713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Hu\u00e9rtana",
         "La Hu\u00e9rfana"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343767091,
-    "wof:lastmodified":1537713568,
+    "wof:lastmodified":1566644530,
     "wof:name":"La Huerfana",
     "wof:parent_id":1108694179,
     "wof:placetype":"locality",

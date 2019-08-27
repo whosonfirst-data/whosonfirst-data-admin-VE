@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-61.12,4.91333,-61.08,4.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aman-tepu\u00ed",
         "Aman-tepu\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243355435,
-    "wof:lastmodified":1537713633,
+    "wof:lastmodified":1566646495,
     "wof:name":"Amantepuy",
     "wof:parent_id":421202369,
     "wof:placetype":"locality",

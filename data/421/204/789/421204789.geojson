@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.396093,
     "lbl:longitude":-68.696857,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yaracuy",
     "meso:gadm_admin":"Independencia",
     "meso:gaul_admin":"Autonomo San Felipe",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.696857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_variant":[
         "Autonomo San Felipe",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gp:id":26804536,
         "hasc:id":"VE.AN.IN",
-        "qs:id":248847
+        "qs_pg:id":248847
     },
     "wof:country":"VE",
     "wof:created":1459010198,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421204789,
-    "wof:lastmodified":1554489051,
+    "wof:lastmodified":1566646230,
     "wof:name":"San Felipe",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

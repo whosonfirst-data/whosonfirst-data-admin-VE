@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.519472,
     "lbl:longitude":-67.117687,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Vargas",
     "mps:latitude":10.522175,
     "mps:longitude":-67.119751,
@@ -305,9 +306,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1,497",
     "statoids:area_mi":"580",
     "statoids:as_of_date":"2011-09-01",
@@ -334,7 +335,7 @@
         "gp:id":20069993,
         "hasc:id":"VE.VA",
         "iso:id":"VE-X",
-        "qs:id":1118081,
+        "qs_pg:id":1118081,
         "unlc:id":"VE-X",
         "wd:id":"Q205843",
         "wk:page":"Vargas (state)"
@@ -355,11 +356,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738726,
+    "wof:lastmodified":1566644703,
     "wof:name":"Vargas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":352920,
     "wof:population_rank":10,

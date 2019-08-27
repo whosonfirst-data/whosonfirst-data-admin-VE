@@ -11,10 +11,14 @@
     "geom:longitude":-68.169994,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":44308,
+    "gn:population":44308,
     "iso:country":"VE",
+    "lbl:bbox":"-68.189994,10.460819,-68.149994,10.500819",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mor\u00f3n"
@@ -79,11 +83,11 @@
     "wof:concordances":{
         "gn:id":3631878,
         "gp:id":468422,
-        "qs:id":1077531,
+        "qs_pg:id":1077531,
         "wd:id":"Q452706"
     },
     "wof:concordances_alt":{
-        "qs:id":149598
+        "qs_pg:id":149598
     },
     "wof:country":"VE",
     "wof:created":1459009497,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421186945,
-    "wof:lastmodified":1563241145,
+    "wof:lastmodified":1566646261,
     "wof:name":"Mor\u00f3n",
     "wof:parent_id":421195495,
     "wof:placetype":"locality",

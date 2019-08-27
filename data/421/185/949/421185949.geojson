@@ -10,8 +10,12 @@
     "geom:latitude":10.981915,
     "geom:longitude":-63.886131,
     "iso:country":"VE",
+    "lbl:bbox":"-63.906131,10.9619145,-63.866131,11.0019145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "El Valle del Esp\u00edritu Santo"
@@ -66,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468213,
-        "qs:id":1055479,
+        "qs_pg:id":1055479,
         "wd:id":"Q3050296"
     },
     "wof:country":"VE",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421185949,
-    "wof:lastmodified":1561827249,
+    "wof:lastmodified":1566646305,
     "wof:name":"El Valle del Esp\u00edritu Santo",
     "wof:parent_id":421170035,
     "wof:placetype":"locality",

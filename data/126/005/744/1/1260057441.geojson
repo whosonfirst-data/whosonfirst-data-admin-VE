@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.19972,10.86083,-69.15972,10.90083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "La Carretera"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260057441,
-    "wof:lastmodified":1564305484,
+    "wof:lastmodified":1566645787,
     "wof:name":"La Carretera",
     "wof:parent_id":1108694463,
     "wof:placetype":"locality",

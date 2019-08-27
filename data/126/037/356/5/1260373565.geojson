@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.74348,8.33167,-71.70348,8.37167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260373565,
-    "wof:lastmodified":1537085040,
+    "wof:lastmodified":1566645721,
     "wof:name":"El Penoncito",
     "wof:parent_id":421171997,
     "wof:placetype":"locality",

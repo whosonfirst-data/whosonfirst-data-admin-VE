@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.46702,9.7427,-65.42702,9.7827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1259981741,
-    "wof:lastmodified":1564307103,
+    "wof:lastmodified":1566646647,
     "wof:name":"Las Lajas",
     "wof:parent_id":1108694137,
     "wof:placetype":"locality",

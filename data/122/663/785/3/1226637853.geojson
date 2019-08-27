@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.1906,7.9074,-64.1506,7.9474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Rosario"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1226637853,
-    "wof:lastmodified":1564307991,
+    "wof:lastmodified":1566647095,
     "wof:name":"El Rosario",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

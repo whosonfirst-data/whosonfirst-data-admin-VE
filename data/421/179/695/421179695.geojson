@@ -10,8 +10,12 @@
     "geom:latitude":10.50808,
     "geom:longitude":-67.60626,
     "iso:country":"VE",
+    "lbl:bbox":"-67.62626,10.48808,-67.58626,10.52808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Colombia"
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":3629698,
         "gp:id":468317,
-        "qs:id":433574
+        "qs_pg:id":433574
     },
     "wof:country":"VE",
     "wof:created":1459009230,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421179695,
-    "wof:lastmodified":1564306455,
+    "wof:lastmodified":1566646294,
     "wof:name":"Puerto Colombia",
     "wof:parent_id":421171995,
     "wof:placetype":"locality",

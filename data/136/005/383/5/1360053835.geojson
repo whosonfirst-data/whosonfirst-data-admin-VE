@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.06632,9.25365,-71.02632,9.29365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360053835,
-    "wof:lastmodified":1536990069,
+    "wof:lastmodified":1566646108,
     "wof:name":"Las Veritas",
     "wof:parent_id":1108694085,
     "wof:placetype":"locality",

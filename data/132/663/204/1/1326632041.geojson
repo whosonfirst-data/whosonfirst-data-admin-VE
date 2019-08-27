@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.49401,9.37112,-64.45401,9.41112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326632041,
-    "wof:lastmodified":1536839049,
+    "wof:lastmodified":1566644314,
     "wof:name":"Campo Naico de Venezuela",
     "wof:parent_id":421175071,
     "wof:placetype":"locality",

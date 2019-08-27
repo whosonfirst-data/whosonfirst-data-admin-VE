@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.69405,9.88999,-65.65405,9.92999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Valle de Guanape",
         "Valle de Guanape"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343563139,
-    "wof:lastmodified":1537713507,
+    "wof:lastmodified":1566644576,
     "wof:name":"Valle de Guanape",
     "wof:parent_id":890450029,
     "wof:placetype":"locality",

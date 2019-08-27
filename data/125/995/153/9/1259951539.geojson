@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.81833,9.94444,-63.77833,9.98444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259951539,
-    "wof:lastmodified":1536681192,
+    "wof:lastmodified":1566646742,
     "wof:name":"Cambural",
     "wof:parent_id":1108694155,
     "wof:placetype":"locality",

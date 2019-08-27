@@ -10,8 +10,12 @@
     "geom:latitude":9.13573,
     "geom:longitude":-70.70144,
     "iso:country":"VE",
+    "lbl:bbox":"-70.72144,9.11573,-70.68144,9.15573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Puerta"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3636596,
         "gp:id":395302,
-        "qs:id":1082771
+        "qs_pg:id":1082771
     },
     "wof:country":"VE",
     "wof:created":1459009511,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421187371,
-    "wof:lastmodified":1564306393,
+    "wof:lastmodified":1566646242,
     "wof:name":"La Puerta",
     "wof:parent_id":1108694477,
     "wof:placetype":"locality",

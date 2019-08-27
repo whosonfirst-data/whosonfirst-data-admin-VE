@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.97873,9.56357,-65.93873,9.60357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343844601,
-    "wof:lastmodified":1536689616,
+    "wof:lastmodified":1566644507,
     "wof:name":"Zamurito Nuevo",
     "wof:parent_id":421195497,
     "wof:placetype":"locality",

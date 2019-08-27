@@ -10,8 +10,12 @@
     "geom:latitude":8.56639,
     "geom:longitude":-62.22111,
     "iso:country":"VE",
+    "lbl:bbox":"-62.32111,8.46639,-62.12111,8.66639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3762897,
         "gp:id":26804781,
-        "qs:id":911167
+        "qs_pg:id":911167
     },
     "wof:country":"VE",
     "wof:created":1459009774,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421193521,
-    "wof:lastmodified":1500034437,
+    "wof:lastmodified":1566646226,
     "wof:name":"Casacoima",
     "wof:parent_id":421183445,
     "wof:placetype":"localadmin",

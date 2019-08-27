@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.1239,7.51253,-67.0839,7.55253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243270363,
-    "wof:lastmodified":1537056829,
+    "wof:lastmodified":1566646588,
     "wof:name":"La Chorrerosa",
     "wof:parent_id":1108694389,
     "wof:placetype":"locality",

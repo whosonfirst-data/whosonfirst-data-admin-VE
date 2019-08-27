@@ -10,8 +10,12 @@
     "geom:latitude":10.982144,
     "geom:longitude":-64.12685,
     "iso:country":"VE",
+    "lbl:bbox":"-64.22685,10.882144,-64.02685,11.082144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805112,
-        "qs:id":1263857
+        "qs_pg:id":1263857
     },
     "wof:country":"VE",
     "wof:created":1459008902,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421171663,
-    "wof:lastmodified":1500034411,
+    "wof:lastmodified":1566646302,
     "wof:name":"Tubores",
     "wof:parent_id":890441467,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.74833,9.10833,-63.70833,9.14833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310077141,
-    "wof:lastmodified":1537035959,
+    "wof:lastmodified":1566645867,
     "wof:name":"Mata el Oripopo",
     "wof:parent_id":421183227,
     "wof:placetype":"locality",

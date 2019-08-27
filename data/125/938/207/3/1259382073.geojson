@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.53272,10.20512,-67.49272,10.24512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Joaquin"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1259382073,
-    "wof:lastmodified":1564307084,
+    "wof:lastmodified":1566646638,
     "wof:name":"San Joaquin",
     "wof:parent_id":421186263,
     "wof:placetype":"locality",

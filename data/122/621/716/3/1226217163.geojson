@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.65403,10.29767,-63.61403,10.33767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Portada"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226217163,
-    "wof:lastmodified":1564307579,
+    "wof:lastmodified":1566646890,
     "wof:name":"La Portada",
     "wof:parent_id":1108694383,
     "wof:placetype":"locality",

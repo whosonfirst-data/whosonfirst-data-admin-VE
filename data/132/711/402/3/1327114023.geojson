@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.38001,9.77007,-67.34001,9.81007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Juncalito Abajo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327114023,
-    "wof:lastmodified":1564302673,
+    "wof:lastmodified":1566644363,
     "wof:name":"Juncalito",
     "wof:parent_id":1108694381,
     "wof:placetype":"locality",

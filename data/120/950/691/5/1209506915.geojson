@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.06579,7.04949,-66.02579,7.08949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3765812
     },
     "wof:country":"VE",
-    "wof:geomhash":"319ad1af7f277622d017f049133efc14",
+    "wof:geomhash":"23c5fccf85adb710c8cef2660f8e6c6f",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209506915,
-    "wof:lastmodified":1536285006,
+    "wof:lastmodified":1566645447,
     "wof:name":"El Leon",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -66.04579,
-    7.069489999999999,
+    7.06949,
     -66.04579,
-    7.069489999999999
+    7.06949
 ],
   "geometry": {"coordinates":[-66.04579,7.06949],"type":"Point"}
 }

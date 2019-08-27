@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.55223,8.69494,-68.51223,8.73494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Canote Tristire\u00f1o",
         "Ca\u00f1aote Tristire\u00f1o",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343557597,
-    "wof:lastmodified":1537713624,
+    "wof:lastmodified":1566644415,
     "wof:name":"Canaote",
     "wof:parent_id":1108694199,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.91556,10.28167,-63.87556,10.32167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Maracas"
     ],
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1310675533,
-    "wof:lastmodified":1564305980,
+    "wof:lastmodified":1566646012,
     "wof:name":"Maraca",
     "wof:parent_id":1108694311,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.240289,
     "lbl:longitude":-71.829223,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Merida",
     "meso:gadm_admin":"Rivas Davila",
     "meso:gaul_admin":"Rivas Davila",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.829223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Rivas D\u00e1vila"
     ],
@@ -65,9 +68,9 @@
         "\u91cc\u74e6\u65af\u9054\u7dad\u62c9\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"182",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Bailadores",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108694373,
-    "wof:lastmodified":1563240301,
+    "wof:lastmodified":1566645804,
     "wof:name":"Rivas Davila",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

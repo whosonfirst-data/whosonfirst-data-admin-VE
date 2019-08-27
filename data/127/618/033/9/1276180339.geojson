@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.30352,10.31374,-71.26352,10.35374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276180339,
-    "wof:lastmodified":1536983257,
+    "wof:lastmodified":1566645089,
     "wof:name":"Sabana de la Plata",
     "wof:parent_id":421201571,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.351924,
     "geom:longitude":-66.990509,
     "iso:country":"VE",
+    "lbl:bbox":"-67.090509,10.251924,-66.890509,10.451924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Carrizal"
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805212,
-        "qs:id":239108
+        "qs_pg:id":239108
     },
     "wof:country":"VE",
     "wof:created":1459010180,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421204301,
-    "wof:lastmodified":1564306379,
+    "wof:lastmodified":1566646229,
     "wof:name":"Carrizal",
     "wof:parent_id":1108694149,
     "wof:placetype":"localadmin",

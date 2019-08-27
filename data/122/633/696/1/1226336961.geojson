@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-61.57,6.23,-61.53,6.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226336961,
-    "wof:lastmodified":1536802153,
+    "wof:lastmodified":1566646931,
     "wof:name":"Corocoro",
     "wof:parent_id":421198671,
     "wof:placetype":"locality",

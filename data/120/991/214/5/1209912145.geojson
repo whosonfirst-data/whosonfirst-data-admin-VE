@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.34056,8.57708,-70.30056,8.61708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Caramuca",
         "Coramuca",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209912145,
-    "wof:lastmodified":1537713576,
+    "wof:lastmodified":1566645335,
     "wof:name":"Caramuca",
     "wof:parent_id":890429493,
     "wof:placetype":"locality",

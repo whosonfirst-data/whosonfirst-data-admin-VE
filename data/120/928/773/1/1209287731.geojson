@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.70151,8.25756,-71.66151,8.29756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3629539
     },
     "wof:country":"VE",
-    "wof:geomhash":"a561646b03e6582673736ec03f6bdfc1",
+    "wof:geomhash":"84303b3588df46f9755baaa7439fbdb6",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209287731,
-    "wof:lastmodified":1536291802,
+    "wof:lastmodified":1566645561,
     "wof:name":"Quebrada Arriba",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -71.68151,
-    8.277560000000001,
+    8.27756,
     -71.68151,
-    8.277560000000001
+    8.27756
 ],
   "geometry": {"coordinates":[-71.68151,8.27756],"type":"Point"}
 }

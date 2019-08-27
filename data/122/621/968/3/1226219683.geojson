@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.21215,11.1368,-70.17215,11.1768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Represa"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226219683,
-    "wof:lastmodified":1564307575,
+    "wof:lastmodified":1566646886,
     "wof:name":"La Represa",
     "wof:parent_id":1108694471,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.22875,
     "geom:longitude":-67.49281,
     "iso:country":"VE",
+    "lbl:bbox":"-67.51281,10.20875,-67.47281,10.24875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3806513,
         "gp:id":384746,
-        "qs:id":982704
+        "qs_pg:id":982704
     },
     "wof:country":"VE",
     "wof:created":1459009378,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421183679,
-    "wof:lastmodified":1500034347,
+    "wof:lastmodified":1566646293,
     "wof:name":"El M\u00e1caro",
     "wof:parent_id":421186263,
     "wof:placetype":"locality",

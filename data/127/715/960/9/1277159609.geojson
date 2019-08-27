@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.68667,10.18,-66.64667,10.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Vizceino",
         "El Vizca\u00edno"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277159609,
-    "wof:lastmodified":1537713589,
+    "wof:lastmodified":1566645167,
     "wof:name":"El Vizcaino",
     "wof:parent_id":1108694211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.33667,10.48,-67.29667,10.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Los Rastrojos"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293337869,
-    "wof:lastmodified":1564303697,
+    "wof:lastmodified":1566644902,
     "wof:name":"Los Rastrojos",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

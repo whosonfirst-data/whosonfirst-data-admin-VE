@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.82,10.74667,-71.78,10.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Ca\u00f1adones",
         "El Ca\u00f1ad\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260250545,
-    "wof:lastmodified":1537713608,
+    "wof:lastmodified":1566645695,
     "wof:name":"El Canadon",
     "wof:parent_id":1108694217,
     "wof:placetype":"locality",

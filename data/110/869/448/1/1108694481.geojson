@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.445041,
     "lbl:longitude":-68.507746,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yaracuy",
     "meso:gadm_admin":"Veroes",
     "meso:gaul_admin":"Autonomo San Felipe",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.507746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Veroes"
     ],
@@ -65,9 +68,9 @@
         "\u97cb\u7f85\u57c3\u65af\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1059",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Farriar",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108694481,
-    "wof:lastmodified":1563240282,
+    "wof:lastmodified":1566645794,
     "wof:name":"Veroes",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

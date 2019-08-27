@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.50768,7.41638,-67.46768,7.45638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Toninas"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1344057535,
-    "wof:lastmodified":1564303179,
+    "wof:lastmodified":1566644620,
     "wof:name":"Las Toninas",
     "wof:parent_id":421171649,
     "wof:placetype":"locality",

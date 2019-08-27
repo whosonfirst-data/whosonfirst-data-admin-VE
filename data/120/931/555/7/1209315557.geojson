@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.76023,6.32297,-67.72023,6.36297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3637669
     },
     "wof:country":"VE",
-    "wof:geomhash":"0f45e123e29419ae0c1007d67303f5d0",
+    "wof:geomhash":"bf661a9d9613e001b07bdcd03b94cbab",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209315557,
-    "wof:lastmodified":1536290878,
+    "wof:lastmodified":1566645311,
     "wof:name":"Laguna de Baba",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -67.74023000000001,
-    6.342969999999998,
+    6.34297,
     -67.74023000000001,
-    6.342969999999998
+    6.34297
 ],
   "geometry": {"coordinates":[-67.74023000000001,6.34297],"type":"Point"}
 }

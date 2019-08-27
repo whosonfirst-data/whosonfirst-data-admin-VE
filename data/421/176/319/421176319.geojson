@@ -10,8 +10,12 @@
     "geom:latitude":10.60383,
     "geom:longitude":-67.03034,
     "iso:country":"VE",
+    "lbl:bbox":"-67.05034,10.58383,-67.01034,10.62383",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Catia La Mar"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3646190,
         "gp:id":468168,
-        "qs:id":1045831,
+        "qs_pg:id":1045831,
         "wd:id":"Q2725457",
         "wk:page":"Catia La Mar"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421176319,
-    "wof:lastmodified":1563241223,
+    "wof:lastmodified":1566646297,
     "wof:name":"Catia la Mar",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

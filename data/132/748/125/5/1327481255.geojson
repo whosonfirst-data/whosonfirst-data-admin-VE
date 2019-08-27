@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.93667,10.51333,-66.89667,10.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cumare"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327481255,
-    "wof:lastmodified":1564302399,
+    "wof:lastmodified":1566644241,
     "wof:name":"Cumare",
     "wof:parent_id":421202591,
     "wof:placetype":"locality",

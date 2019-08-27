@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.05167,10.07423,-69.01167,10.11423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Blanquera"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310261075,
-    "wof:lastmodified":1564305871,
+    "wof:lastmodified":1566645959,
     "wof:name":"La Blanquera",
     "wof:parent_id":1108694225,
     "wof:placetype":"locality",

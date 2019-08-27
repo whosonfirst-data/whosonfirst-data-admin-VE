@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.10536,10.32035,-64.06536,10.36035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226404249,
-    "wof:lastmodified":1536705679,
+    "wof:lastmodified":1566647043,
     "wof:name":"Tataracual",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

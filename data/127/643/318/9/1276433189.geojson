@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.22611,7.13722,-62.18611,7.17722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1276433189,
-    "wof:lastmodified":1564303984,
+    "wof:lastmodified":1566645039,
     "wof:name":"San Pedro",
     "wof:parent_id":421202371,
     "wof:placetype":"locality",

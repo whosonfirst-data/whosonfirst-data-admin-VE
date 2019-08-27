@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.23128,7.88053,-72.19128,7.92053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3759168
     },
     "wof:country":"VE",
-    "wof:geomhash":"242dec0465a212f52003bb1a10e48eae",
+    "wof:geomhash":"3268380b9b195fbc0789b1e2c7596821",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209580045,
-    "wof:lastmodified":1536282817,
+    "wof:lastmodified":1566645480,
     "wof:name":"La Cuchilla",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -72.21128,
-    7.900530000000002,
+    7.90053,
     -72.21128,
-    7.900530000000002
+    7.90053
 ],
   "geometry": {"coordinates":[-72.21128,7.90053],"type":"Point"}
 }

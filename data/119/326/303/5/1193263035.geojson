@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.71177,9.33562,-68.67177,9.37562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Libertad"
     ],
@@ -84,8 +88,7 @@
         "\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
     "name:und_x_variant":[
-        "Lagun\u00edtas",
-        "Libertad"
+        "Lagun\u00edtas"
     ],
     "name:war_x_preferred":[
         "Libertad"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1193263035,
-    "wof:lastmodified":1564305252,
+    "wof:lastmodified":1566645670,
     "wof:name":"Libertad",
     "wof:parent_id":1108694369,
     "wof:placetype":"locality",

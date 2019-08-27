@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.36722,10.78667,-68.32722,10.82667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Lomas"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1293370397,
-    "wof:lastmodified":1564303384,
+    "wof:lastmodified":1566644755,
     "wof:name":"Las Lomas",
     "wof:parent_id":890417393,
     "wof:placetype":"locality",

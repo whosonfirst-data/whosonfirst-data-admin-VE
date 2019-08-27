@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.459118,
     "lbl:longitude":-68.335131,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Cojedes",
     "mps:latitude":9.528143,
     "mps:longitude":-68.347862,
@@ -299,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"14,800",
     "statoids:area_mi":"5,710",
     "statoids:as_of_date":"2011-09-01",
@@ -326,7 +327,7 @@
         "gp:id":2347684,
         "hasc:id":"VE.CO",
         "iso:id":"VE-H",
-        "qs:id":895018,
+        "qs_pg:id":895018,
         "unlc:id":"VE-H",
         "wd:id":"Q205460",
         "wk:page":"Cojedes (state)"
@@ -347,11 +348,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738724,
+    "wof:lastmodified":1566644700,
     "wof:name":"Cojedes",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":323165,
     "wof:population_rank":10,

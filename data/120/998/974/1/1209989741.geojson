@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.66998,8.19706,-71.62998,8.23706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30e9\u30b9\u30fb\u30a2\u30c9\u30d5\u30f3\u30bf\u30b9\u99c5"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209989741,
-    "wof:lastmodified":1564304609,
+    "wof:lastmodified":1566645331,
     "wof:name":"Las Adjuntas",
     "wof:parent_id":421196155,
     "wof:placetype":"locality",

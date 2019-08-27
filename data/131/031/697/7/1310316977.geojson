@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.48667,9.78,-65.44667,9.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Lecheras",
         "Las Lechozas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310316977,
-    "wof:lastmodified":1537713559,
+    "wof:lastmodified":1566645883,
     "wof:name":"Las Lechozas",
     "wof:parent_id":1108694127,
     "wof:placetype":"locality",

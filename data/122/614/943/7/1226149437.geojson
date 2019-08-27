@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.82,7.21333,-69.78,7.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Los Carpinteros"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226149437,
-    "wof:lastmodified":1564307830,
+    "wof:lastmodified":1566647014,
     "wof:name":"Los Carpinteros",
     "wof:parent_id":421180899,
     "wof:placetype":"locality",

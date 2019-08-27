@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.109514,
     "lbl:longitude":-62.092571,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bolivar",
     "meso:gadm_admin":"Roscio",
     "meso:gaul_admin":"Roscio",
@@ -30,6 +32,7 @@
     "mps:longitude":-62.092571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Roscio"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gp:id":26804590,
         "hasc:id":"VE.BO.RO",
-        "qs:id":221563,
+        "qs_pg:id":221563,
         "wd:id":"Q2100029"
     },
     "wof:country":"VE",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421202371,
-    "wof:lastmodified":1563241083,
+    "wof:lastmodified":1566646235,
     "wof:name":"Roscio",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

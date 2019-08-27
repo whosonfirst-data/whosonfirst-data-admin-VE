@@ -10,8 +10,12 @@
     "geom:latitude":7.909121,
     "geom:longitude":-71.29157,
     "iso:country":"VE",
+    "lbl:bbox":"-71.39157,7.809121,-71.19157,8.009121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805239,
-        "qs:id":774161
+        "qs_pg:id":774161
     },
     "wof:country":"VE",
     "wof:created":1459009885,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421196551,
-    "wof:lastmodified":1500034070,
+    "wof:lastmodified":1566646270,
     "wof:name":"Mucuchachi",
     "wof:parent_id":421175381,
     "wof:placetype":"localadmin",

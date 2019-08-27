@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.91702,10.26668,-63.87702,10.30668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carrizal"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1242752485,
-    "wof:lastmodified":1564306605,
+    "wof:lastmodified":1566646386,
     "wof:name":"Carrizal",
     "wof:parent_id":1108694311,
     "wof:placetype":"locality",

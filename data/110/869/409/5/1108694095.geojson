@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.193256,
     "lbl:longitude":-71.128579,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Merida",
     "meso:gadm_admin":"Aricagua",
     "meso:gaul_admin":"Aricagua",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.128579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Aricagua"
     ],
@@ -70,9 +73,9 @@
         "\u963f\u91cc\u5361\u52a0\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"790",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Aricagua",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108694095,
-    "wof:lastmodified":1563240305,
+    "wof:lastmodified":1566645806,
     "wof:name":"Aricagua",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

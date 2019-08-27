@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.01419,10.20302,-68.97419,10.24302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Lucia"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1293057383,
-    "wof:lastmodified":1564303702,
+    "wof:lastmodified":1566644903,
     "wof:name":"Santa Lucia",
     "wof:parent_id":1108694465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.56,9.11056,-63.52,9.15056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1192989977,
-    "wof:lastmodified":1536381957,
+    "wof:lastmodified":1566645637,
     "wof:name":"Canote La Canoa",
     "wof:parent_id":1108694065,
     "wof:placetype":"locality",

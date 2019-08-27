@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.46839,10.33397,-66.42839,10.37397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226615561,
-    "wof:lastmodified":1536902690,
+    "wof:lastmodified":1566646979,
     "wof:name":"Capayita",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",

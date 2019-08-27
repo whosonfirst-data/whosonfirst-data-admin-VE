@@ -10,8 +10,12 @@
     "geom:latitude":10.181723,
     "geom:longitude":-70.078525,
     "iso:country":"VE",
+    "lbl:bbox":"-70.178525,10.081723,-69.978525,10.281723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805341,
-        "qs:id":288287
+        "qs_pg:id":288287
     },
     "wof:country":"VE",
     "wof:created":1459008982,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421173455,
-    "wof:lastmodified":1500034183,
+    "wof:lastmodified":1566646244,
     "wof:name":"Trinidad Samuel",
     "wof:parent_id":1108694453,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.93552,6.23619,-67.89552,6.27619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Parag\u00fcitos",
         "Paraquito",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310211391,
-    "wof:lastmodified":1537713650,
+    "wof:lastmodified":1566645969,
     "wof:name":"Paraguito",
     "wof:parent_id":421171649,
     "wof:placetype":"locality",

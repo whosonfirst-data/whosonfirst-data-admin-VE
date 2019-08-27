@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.63046,7.98891,-71.59046,8.02891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243136589,
-    "wof:lastmodified":1536755493,
+    "wof:lastmodified":1566646458,
     "wof:name":"Los Loros",
     "wof:parent_id":421183171,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.33667,9.44667,-68.29667,9.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "La Galera"
     ],
@@ -93,8 +97,7 @@
         "La Galera"
     ],
     "name:und_x_variant":[
-        "Las Galeras",
-        "La Galera"
+        "Las Galeras"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06af\u0627\u0644\u06cc\u0631\u0627"
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1243544465,
-    "wof:lastmodified":1564306500,
+    "wof:lastmodified":1566646334,
     "wof:name":"La Galera",
     "wof:parent_id":1108694451,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.47685,10.754,-70.43685,10.794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mira"
     ],
@@ -198,7 +202,7 @@
         }
     ],
     "wof:id":1226522617,
-    "wof:lastmodified":1564307962,
+    "wof:lastmodified":1566647081,
     "wof:name":"Mira",
     "wof:parent_id":1108694167,
     "wof:placetype":"locality",

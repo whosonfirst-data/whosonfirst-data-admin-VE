@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.335837,
     "lbl:longitude":-67.109423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guarico",
     "meso:gadm_admin":"Mellado",
     "meso:gaul_admin":"Mellado",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.109423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_variant":[
         "Mellado"
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804589,
-        "qs:id":1110094
+        "qs_pg:id":1110094
     },
     "wof:country":"VE",
     "wof:created":1459009604,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421189079,
-    "wof:lastmodified":1564306401,
+    "wof:lastmodified":1566646247,
     "wof:name":"Mellado",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

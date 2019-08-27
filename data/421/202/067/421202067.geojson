@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.150597,
     "lbl:longitude":-71.959469,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tachira",
     "meso:gadm_admin":"Jauregui",
     "meso:gaul_admin":"Jauregui",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.959469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "J\u00e1uregui"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"480",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"La Grita",
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gp:id":26804705,
         "hasc:id":"VE.TA.JA",
-        "qs:id":219082,
+        "qs_pg:id":219082,
         "wd:id":"Q2608254"
     },
     "wof:country":"VE",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421202067,
-    "wof:lastmodified":1563241088,
+    "wof:lastmodified":1566646237,
     "wof:name":"Jauregui",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

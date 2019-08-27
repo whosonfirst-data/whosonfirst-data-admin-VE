@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.66406,10.15844,-68.62406,10.19844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u063a\u064a\u0631\u064a\u0631\u0648"
     ],
@@ -267,7 +271,7 @@
         }
     ],
     "wof:id":1276300783,
-    "wof:lastmodified":1564304454,
+    "wof:lastmodified":1566645259,
     "wof:name":"Guerrero",
     "wof:parent_id":421172277,
     "wof:placetype":"locality",

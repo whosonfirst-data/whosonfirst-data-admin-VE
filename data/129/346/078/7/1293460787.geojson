@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.32,10.16333,-69.28,10.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Puente"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293460787,
-    "wof:lastmodified":1564303468,
+    "wof:lastmodified":1566644797,
     "wof:name":"El Puente",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",

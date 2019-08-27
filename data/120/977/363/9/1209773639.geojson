@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.92513,10.21171,-71.88513,10.25171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041b\u043e\u0441-\u0410\u043d\u045f\u044c\u0435\u043b\u0435\u0441"
     ],
@@ -636,7 +640,7 @@
         }
     ],
     "wof:id":1209773639,
-    "wof:lastmodified":1564304723,
+    "wof:lastmodified":1566645392,
     "wof:name":"Los Angeles",
     "wof:parent_id":1108694233,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.33507,7.58222,-72.29507,7.62222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327208171,
-    "wof:lastmodified":1537003927,
+    "wof:lastmodified":1566644369,
     "wof:name":"Mesa de Tigre",
     "wof:parent_id":421185265,
     "wof:placetype":"locality",

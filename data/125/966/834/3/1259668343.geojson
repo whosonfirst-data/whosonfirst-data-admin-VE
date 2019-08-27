@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.67001,9.43287,-68.63001,9.47287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259668343,
-    "wof:lastmodified":1537085668,
+    "wof:lastmodified":1566646747,
     "wof:name":"El Guasimo",
     "wof:parent_id":1108694377,
     "wof:placetype":"locality",

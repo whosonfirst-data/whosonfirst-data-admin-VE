@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.44651,8.93732,-71.40651,8.97732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327302299,
-    "wof:lastmodified":1536867554,
+    "wof:lastmodified":1566644103,
     "wof:name":"La Providencia",
     "wof:parent_id":1108694195,
     "wof:placetype":"locality",

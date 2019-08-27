@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.338497,
     "lbl:longitude":-66.119203,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Buroz",
     "meso:gaul_admin":"Buroz",
@@ -30,6 +32,7 @@
     "mps:longitude":-66.119203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Buroz"
@@ -98,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"198",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Mamporal",
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gp:id":26804623,
         "hasc:id":"VE.MI.BU",
-        "qs:id":1104448,
+        "qs_pg:id":1104448,
         "wd:id":"Q751150"
     },
     "wof:country":"VE",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421188591,
-    "wof:lastmodified":1563241120,
+    "wof:lastmodified":1566646252,
     "wof:name":"Buroz",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

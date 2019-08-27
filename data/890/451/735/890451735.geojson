@@ -11,10 +11,14 @@
     "geom:longitude":-66.60663,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":181612,
+    "gn:population":181612,
     "iso:country":"VE",
+    "lbl:bbox":"-66.62663,10.44736,-66.58663,10.48736",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u0631\u064a\u0646\u0627\u0633"
     ],
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":3640049,
         "gp:id":468219,
-        "qs:id":149632,
+        "qs_pg:id":149632,
         "wd:id":"Q996478",
         "wk:page":"Guarenas"
     },
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":890451735,
-    "wof:lastmodified":1563241258,
+    "wof:lastmodified":1566646314,
     "wof:name":"Guarenas",
     "wof:parent_id":421189081,
     "wof:placetype":"locality",

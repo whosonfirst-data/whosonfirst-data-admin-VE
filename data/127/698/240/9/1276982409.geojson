@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.12878,8.21326,-65.08878,8.25326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Palacios"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1276982409,
-    "wof:lastmodified":1564304518,
+    "wof:lastmodified":1566645282,
     "wof:name":"Palacios",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

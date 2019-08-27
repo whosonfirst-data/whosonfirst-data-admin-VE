@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.55333,2.03,-66.51333,2.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guayabal"
     ],
@@ -54,8 +58,7 @@
         "Guayabal"
     ],
     "name:und_x_variant":[
-        "Gayabal",
-        "Guayabal"
+        "Gayabal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1326933761,
-    "wof:lastmodified":1564302294,
+    "wof:lastmodified":1566644184,
     "wof:name":"Guayabal",
     "wof:parent_id":1108694279,
     "wof:placetype":"locality",

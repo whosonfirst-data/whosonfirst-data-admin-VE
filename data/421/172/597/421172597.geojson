@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.907441,
     "lbl:longitude":-64.981885,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Fernando de Pe\u00f1alver",
     "meso:gaul_admin":"Penalver",
@@ -30,6 +32,7 @@
     "mps:longitude":-64.981885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Municipio Fernando de Pe\u00f1alver"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"643",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Puerto P\u00edritu",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":26804647,
         "hasc:id":"VE.AN.FP",
-        "qs:id":1314619,
+        "qs_pg:id":1314619,
         "wd:id":"Q2310580"
     },
     "wof:country":"VE",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421172597,
-    "wof:lastmodified":1561827239,
+    "wof:lastmodified":1566646255,
     "wof:name":"Pe\u00f1alver",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

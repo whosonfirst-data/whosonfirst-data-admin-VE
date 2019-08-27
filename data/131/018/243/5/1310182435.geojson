@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.19215,10.82503,-69.15215,10.86503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310182435,
-    "wof:lastmodified":1536885129,
+    "wof:lastmodified":1566645927,
     "wof:name":"La Taza",
     "wof:parent_id":1108694463,
     "wof:placetype":"locality",

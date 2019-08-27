@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.92682,11.02873,-63.88682,11.06873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326593117,
-    "wof:lastmodified":1536896217,
+    "wof:lastmodified":1566644191,
     "wof:name":"San Sebastian",
     "wof:parent_id":421202069,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-67.42929,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":117132,
+    "gn:population":117132,
     "iso:country":"VE",
+    "lbl:bbox":"-67.44929,8.90416,-67.40929,8.94416",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -243,12 +246,12 @@
     "wof:concordances":{
         "gn:id":3647444,
         "gp:id":468391,
-        "qs:id":274477,
+        "qs_pg:id":274477,
         "wd:id":"Q1026185",
         "wk:page":"Calabozo"
     },
     "wof:concordances_alt":{
-        "qs:id":1077529
+        "qs_pg:id":1077529
     },
     "wof:country":"VE",
     "wof:created":1469052351,
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":890442149,
-    "wof:lastmodified":1563241258,
+    "wof:lastmodified":1566646314,
     "wof:name":"Calabozo",
     "wof:parent_id":1108694293,
     "wof:placetype":"locality",
