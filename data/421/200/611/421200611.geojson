@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.705694,
     "lbl:longitude":-69.86316,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lara",
     "meso:gadm_admin":"Mor\u00e1n",
     "meso:gaul_admin":"Moran",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.86316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Mor\u00e1n"
@@ -132,9 +135,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"2305",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"El Tocuyo",
@@ -154,7 +157,7 @@
     "wof:concordances":{
         "gp:id":26804450,
         "hasc:id":"VE.LA.MO",
-        "qs:id":209356,
+        "qs_pg:id":209356,
         "wd:id":"Q2511946"
     },
     "wof:country":"VE",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421200611,
-    "wof:lastmodified":1563241189,
+    "wof:lastmodified":1566646281,
     "wof:name":"Moran",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

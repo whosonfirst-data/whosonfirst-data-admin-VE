@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.23325,10.50849,-64.19325,10.54849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242642265,
-    "wof:lastmodified":1536970465,
+    "wof:lastmodified":1566646573,
     "wof:name":"Pariche",
     "wof:parent_id":421172601,
     "wof:placetype":"locality",

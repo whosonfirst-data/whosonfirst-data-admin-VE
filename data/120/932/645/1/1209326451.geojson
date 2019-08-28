@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.02407,8.41182,-62.98407,8.45182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Amparo"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209326451,
-    "wof:lastmodified":1564304865,
+    "wof:lastmodified":1566645469,
     "wof:name":"El Amparo",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

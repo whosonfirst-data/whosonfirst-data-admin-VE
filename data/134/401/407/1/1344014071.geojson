@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.60333,11.68,-71.56333,11.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guegue Keip",
         "Guegekeip",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344014071,
-    "wof:lastmodified":1537713583,
+    "wof:lastmodified":1566644475,
     "wof:name":"Gueque Keip",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",

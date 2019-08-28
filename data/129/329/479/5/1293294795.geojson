@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.43283,8.88404,-63.39283,8.92404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mereycito",
         "Merecito",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293294795,
-    "wof:lastmodified":1537713539,
+    "wof:lastmodified":1566644946,
     "wof:name":"Mereicito",
     "wof:parent_id":421203571,
     "wof:placetype":"locality",

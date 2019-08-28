@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.89609,11.20784,-68.85609,11.24784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259460163,
-    "wof:lastmodified":1536892028,
+    "wof:lastmodified":1566646704,
     "wof:name":"Togogo",
     "wof:parent_id":1108694215,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.475,7.15889,-63.435,7.19889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Punta de Laja",
         "Laja Negra"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293284179,
-    "wof:lastmodified":1537713650,
+    "wof:lastmodified":1566644966,
     "wof:name":"Laja Negra",
     "wof:parent_id":421196981,
     "wof:placetype":"locality",

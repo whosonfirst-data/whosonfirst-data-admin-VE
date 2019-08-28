@@ -10,8 +10,12 @@
     "geom:latitude":10.997547,
     "geom:longitude":-63.798637,
     "iso:country":"VE",
+    "lbl:bbox":"-63.818637,10.977547,-63.778637,11.017547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0430\u043c\u043f\u0430\u0442\u0430\u0440"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Pampatar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pompatar"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3630893,
         "gp:id":468486,
-        "qs:id":1077552,
+        "qs_pg:id":1077552,
         "wd:id":"Q3041568"
     },
     "wof:country":"VE",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421186967,
-    "wof:lastmodified":1563241141,
+    "wof:lastmodified":1566646260,
     "wof:name":"Pampatar",
     "wof:parent_id":421172599,
     "wof:placetype":"locality",

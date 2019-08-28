@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.82816,7.99653,-71.78816,8.03653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293748079,
-    "wof:lastmodified":1536908947,
+    "wof:lastmodified":1566644962,
     "wof:name":"San Jose",
     "wof:parent_id":421183171,
     "wof:placetype":"locality",

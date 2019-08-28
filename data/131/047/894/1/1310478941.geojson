@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.41182,11.08502,-70.37182,11.12502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310478941,
-    "wof:lastmodified":1536955328,
+    "wof:lastmodified":1566645852,
     "wof:name":"El Desengano",
     "wof:parent_id":1108694131,
     "wof:placetype":"locality",

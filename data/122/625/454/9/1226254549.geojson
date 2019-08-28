@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.19096,9.90847,-65.15096,9.94847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bel\u00e9n",
         "Cruz Bel\u00e9n",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226254549,
-    "wof:lastmodified":1537713573,
+    "wof:lastmodified":1566647018,
     "wof:name":"La Cruz de Belen",
     "wof:parent_id":1108694127,
     "wof:placetype":"locality",

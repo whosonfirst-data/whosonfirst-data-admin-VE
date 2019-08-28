@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.38667,8.83,-72.34667,8.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Manuales",
         "Los Manueles"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326986075,
-    "wof:lastmodified":1537713547,
+    "wof:lastmodified":1566644328,
     "wof:name":"Los Manueles",
     "wof:parent_id":1108694219,
     "wof:placetype":"locality",

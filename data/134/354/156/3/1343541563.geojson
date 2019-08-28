@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.84234,11.05072,-70.80234,11.09072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Haticos"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343541563,
-    "wof:lastmodified":1564302736,
+    "wof:lastmodified":1566644397,
     "wof:name":"Los Haticos",
     "wof:parent_id":1108694131,
     "wof:placetype":"locality",

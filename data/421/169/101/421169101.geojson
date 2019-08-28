@@ -10,6 +10,9 @@
     "geom:latitude":8.12923,
     "geom:longitude":-63.54086,
     "iso:country":"VE",
+    "lbl:bbox":"-63.56086,8.10923,-63.52086,8.14923",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -210,7 +213,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u044e\u0434\u0430\u0434-\u0411\u043e\u043b\u0456\u0432\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Angostura"
     ],
     "name:urd_x_preferred":[
@@ -354,7 +357,7 @@
     "wof:concordances":{
         "gn:id":3645532,
         "gp:id":468393,
-        "qs:id":489785,
+        "qs_pg:id":489785,
         "wd:id":"Q26906",
         "wk:page":"Ciudad Bol\u00edvar"
     },
@@ -371,7 +374,7 @@
         }
     ],
     "wof:id":421169101,
-    "wof:lastmodified":1563241071,
+    "wof:lastmodified":1566646228,
     "wof:name":"Ciudad Bol\u00edvar",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

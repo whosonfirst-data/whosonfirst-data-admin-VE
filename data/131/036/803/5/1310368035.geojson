@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.00414,9.29301,-69.96414,9.33301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Sabanita"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310368035,
-    "wof:lastmodified":1537713647,
+    "wof:lastmodified":1566645878,
     "wof:name":"La Sabanita",
     "wof:parent_id":1108694441,
     "wof:placetype":"locality",

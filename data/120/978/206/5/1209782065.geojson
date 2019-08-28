@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.01675,10.76131,-63.97675,10.80131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -122,8 +126,7 @@
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "San Pedro de Coche",
-        "San Pedro"
+        "San Pedro de Coche"
     ],
     "name:war_x_preferred":[
         "San Pedro"
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1209782065,
-    "wof:lastmodified":1564304777,
+    "wof:lastmodified":1566645420,
     "wof:name":"San Pedro",
     "wof:parent_id":421177413,
     "wof:placetype":"locality",

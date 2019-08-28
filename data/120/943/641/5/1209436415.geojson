@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.99278,7.45444,-63.95278,7.49444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3807193
     },
     "wof:country":"VE",
-    "wof:geomhash":"7be289525eecbeffafeccabbcfdd9e24",
+    "wof:geomhash":"0e4b2680e4dc3d3d6e49cf743b27e666",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209436415,
-    "wof:lastmodified":1536287091,
+    "wof:lastmodified":1566645571,
     "wof:name":"Las Bombitas",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -63.97278000000001,
-    7.474439999999999,
+    7.47444,
     -63.97278000000001,
-    7.474439999999999
+    7.47444
 ],
   "geometry": {"coordinates":[-63.97278000000001,7.47444],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.27826,10.55973,-64.23826,10.59973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Araya"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293175495,
-    "wof:lastmodified":1564303854,
+    "wof:lastmodified":1566644974,
     "wof:name":"Araya",
     "wof:parent_id":421172601,
     "wof:placetype":"locality",

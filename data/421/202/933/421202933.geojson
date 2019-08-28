@@ -10,8 +10,12 @@
     "geom:latitude":10.34926,
     "geom:longitude":-67.68452,
     "iso:country":"VE",
+    "lbl:bbox":"-67.70452,10.32926,-67.66452,10.36926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Rancho Grande"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3629284,
         "gp:id":392981,
-        "qs:id":228672
+        "qs_pg:id":228672
     },
     "wof:country":"VE",
     "wof:created":1459010134,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421202933,
-    "wof:lastmodified":1564306387,
+    "wof:lastmodified":1566646236,
     "wof:name":"Rancho Grande",
     "wof:parent_id":421188835,
     "wof:placetype":"locality",

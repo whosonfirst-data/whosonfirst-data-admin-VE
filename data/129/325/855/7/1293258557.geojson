@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.99726,10.95201,-63.95726,10.99201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "L'Espinal"
     ],
@@ -44,8 +48,7 @@
         "El Espinal"
     ],
     "name:und_x_variant":[
-        "Espinal",
-        "El Espinal"
+        "Espinal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293258557,
-    "wof:lastmodified":1564303583,
+    "wof:lastmodified":1566644851,
     "wof:name":"El Espinal",
     "wof:parent_id":421166695,
     "wof:placetype":"locality",

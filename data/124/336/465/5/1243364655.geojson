@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.73667,6.93,-68.69667,6.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sol y sombra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243364655,
-    "wof:lastmodified":1564306489,
+    "wof:lastmodified":1566646328,
     "wof:name":"Sol y Sombra",
     "wof:parent_id":421171651,
     "wof:placetype":"locality",

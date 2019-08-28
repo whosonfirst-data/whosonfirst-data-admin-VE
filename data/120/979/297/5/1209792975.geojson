@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.02273,11.90672,-69.98273,11.94672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "San Carlos"
     ],
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1209792975,
-    "wof:lastmodified":1564304752,
+    "wof:lastmodified":1566645408,
     "wof:name":"San Carlos",
     "wof:parent_id":421180891,
     "wof:placetype":"locality",

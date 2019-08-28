@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.65333,10.24667,-66.61333,10.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Virginia"
     ],
@@ -66,8 +70,7 @@
         "La Virginia"
     ],
     "name:und_x_variant":[
-        "Hacienda Virginia",
-        "La Virginia"
+        "Hacienda Virginia"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0648\u0631\u062c\u06cc\u0646\u06cc\u0627"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1343430669,
-    "wof:lastmodified":1564303311,
+    "wof:lastmodified":1566644694,
     "wof:name":"La Virginia",
     "wof:parent_id":1108694211,
     "wof:placetype":"locality",

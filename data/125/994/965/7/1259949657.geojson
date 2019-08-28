@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.01053,10.28125,-65.97053,10.32125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Jos\u00e9"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259949657,
-    "wof:lastmodified":1537713519,
+    "wof:lastmodified":1566646771,
     "wof:name":"San Jose de Barlovento",
     "wof:parent_id":1108694069,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.10085,8.88943,-72.06085,8.92943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Guadalajara"
     ],
@@ -318,7 +322,7 @@
         }
     ],
     "wof:id":1276932651,
-    "wof:lastmodified":1564304175,
+    "wof:lastmodified":1566645126,
     "wof:name":"Guadalajara",
     "wof:parent_id":421186435,
     "wof:placetype":"locality",

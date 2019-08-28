@@ -10,8 +10,12 @@
     "geom:latitude":8.88724,
     "geom:longitude":-64.16512,
     "iso:country":"VE",
+    "lbl:bbox":"-64.26512,8.78724,-64.06512,8.98724",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "San Jos\u00e9 de Guanipa"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "San Jos\u00e9 de Guanipa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Tigrito"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3628142,
         "gp:id":26805756,
-        "qs:id":1182305,
         "qs_pg:id":1182305,
         "wd:id":"Q3067441",
         "wk:page":"San Jos\u00e9 de Guanipa"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421177379,
-    "wof:lastmodified":1527716481,
+    "wof:lastmodified":1566646290,
     "wof:name":"San Jose de Guanipa",
     "wof:parent_id":421182997,
     "wof:placetype":"localadmin",

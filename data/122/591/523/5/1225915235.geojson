@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.79232,10.39648,-69.75232,10.43648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225915235,
-    "wof:lastmodified":1536914028,
+    "wof:lastmodified":1566647012,
     "wof:name":"El Bubal",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

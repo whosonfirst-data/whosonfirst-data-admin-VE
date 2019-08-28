@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.43418,7.88657,-67.39418,7.92657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3765358
     },
     "wof:country":"VE",
-    "wof:geomhash":"7f582c5797fcadcc52ccd711438b430c",
+    "wof:geomhash":"aa537bd4682eed05b15d0203242b0fdf",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209515993,
-    "wof:lastmodified":1536284731,
+    "wof:lastmodified":1566645494,
     "wof:name":"La Manga de Apurito",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -67.41418,
-    7.9065699999999985,
+    7.90657,
     -67.41418,
-    7.9065699999999985
+    7.90657
 ],
   "geometry": {"coordinates":[-67.41418,7.90657],"type":"Point"}
 }

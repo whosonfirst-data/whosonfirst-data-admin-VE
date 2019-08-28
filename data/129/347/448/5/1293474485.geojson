@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.16251,9.04755,-68.12251,9.08755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Barbasco"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293474485,
-    "wof:lastmodified":1564303555,
+    "wof:lastmodified":1566644838,
     "wof:name":"Barbasco",
     "wof:parent_id":1108694337,
     "wof:placetype":"locality",

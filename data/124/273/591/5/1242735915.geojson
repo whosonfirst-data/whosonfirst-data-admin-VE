@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.65678,10.46745,-71.61678,10.50745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palmarejo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242735915,
-    "wof:lastmodified":1564306571,
+    "wof:lastmodified":1566646365,
     "wof:name":"Palmarejo",
     "wof:parent_id":1108694233,
     "wof:placetype":"locality",

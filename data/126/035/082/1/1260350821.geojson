@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.55582,10.71095,-62.51582,10.75095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puerto Nuevo"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1260350821,
-    "wof:lastmodified":1564305463,
+    "wof:lastmodified":1566645776,
     "wof:name":"Puerto Nuevo",
     "wof:parent_id":421193365,
     "wof:placetype":"locality",

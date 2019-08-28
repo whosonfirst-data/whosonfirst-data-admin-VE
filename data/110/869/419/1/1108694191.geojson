@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.55009,
     "lbl:longitude":-71.959862,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tachira",
     "meso:gadm_admin":"Fern\u00e1ndez Feo",
     "meso:gaul_admin":"Fernandez Feo",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.959862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Fern\u00e1ndez Feo"
     ],
@@ -68,9 +71,9 @@
         "\u8cbb\u723e\u5357\u5fb7\u8332\u8cbb\u5967\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1130",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"San Rafael del Pi\u00f1al",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108694191,
-    "wof:lastmodified":1563240310,
+    "wof:lastmodified":1566645809,
     "wof:name":"Fernandez Feo",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

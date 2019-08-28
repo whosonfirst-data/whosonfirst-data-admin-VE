@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.60163,10.61339,-68.56163,10.65339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poblado 22"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276851171,
-    "wof:lastmodified":1537713639,
+    "wof:lastmodified":1566645205,
     "wof:name":"Poblado Veintidos",
     "wof:parent_id":1108694329,
     "wof:placetype":"locality",

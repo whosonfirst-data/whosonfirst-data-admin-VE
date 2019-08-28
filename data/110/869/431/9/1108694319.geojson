@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.474583,
     "lbl:longitude":-67.63242,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guarico",
     "meso:gadm_admin":"Ort\u00edz",
     "meso:gaul_admin":"Ortiz",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.63242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Ortiz"
     ],
@@ -70,9 +73,9 @@
         "\u5967\u8482\u8332\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"4129",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Ort\u00edz",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108694319,
-    "wof:lastmodified":1563240305,
+    "wof:lastmodified":1566645807,
     "wof:name":"Ortiz",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

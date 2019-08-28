@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.05096,10.37748,-67.01096,10.41748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209971683,
-    "wof:lastmodified":1536394746,
+    "wof:lastmodified":1566645368,
     "wof:name":"Los Tres Puentes",
     "wof:parent_id":1108694091,
     "wof:placetype":"locality",

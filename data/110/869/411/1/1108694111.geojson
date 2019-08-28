@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.237835,
     "lbl:longitude":-62.922693,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sucre",
     "meso:gadm_admin":"Ben\u00edtez",
     "meso:gaul_admin":"Isla",
@@ -30,6 +32,7 @@
     "mps:longitude":-62.922693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Ben\u00edtez"
     ],
@@ -62,9 +65,9 @@
         "\u8c9d\u5c3c\u7279\u65af\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"2733",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"El Pilar",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108694111,
-    "wof:lastmodified":1563240334,
+    "wof:lastmodified":1566645815,
     "wof:name":"Benitez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

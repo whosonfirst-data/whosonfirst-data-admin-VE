@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.19528,10.25028,-66.15528,10.29028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Santa Rosalia de Urape",
         "Santa Rosal\u00eda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260372779,
-    "wof:lastmodified":1537713515,
+    "wof:lastmodified":1566645721,
     "wof:name":"Santa Rosalia",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.05058,8.6532,-66.01058,8.6932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344136313,
-    "wof:lastmodified":1536766578,
+    "wof:lastmodified":1566644446,
     "wof:name":"El Perro",
     "wof:parent_id":421195497,
     "wof:placetype":"locality",

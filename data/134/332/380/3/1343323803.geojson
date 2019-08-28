@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.92449,10.42716,-63.88449,10.46716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Marig\u00fcitar"
     ],
@@ -36,8 +40,7 @@
         "Marig\u00fcitar"
     ],
     "name:und_x_variant":[
-        "Marig\u00fcita",
-        "Marig\u00fcitar"
+        "Marig\u00fcita"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u91cc\u572d\u5854\u723e"
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1343323803,
-    "wof:lastmodified":1564303080,
+    "wof:lastmodified":1566644571,
     "wof:name":"Mariguitar",
     "wof:parent_id":421195503,
     "wof:placetype":"locality",

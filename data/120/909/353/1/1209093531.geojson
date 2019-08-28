@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.11895,11.2432,-69.07895,11.2832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209093531,
-    "wof:lastmodified":1536297961,
+    "wof:lastmodified":1566645305,
     "wof:name":"Los Juncales",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.259517,
     "lbl:longitude":-68.893678,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Portuguesa",
     "meso:gadm_admin":"Tur\u00e9n",
     "meso:gaul_admin":"Turen",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.893678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Tur\u00e9n"
     ],
@@ -74,7 +77,7 @@
         "\u5716\u502b\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108694461,
-    "wof:lastmodified":1563240284,
+    "wof:lastmodified":1566645795,
     "wof:name":"Turen",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.95333,10.39667,-66.91333,10.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Lechozos",
         "Los Lechosos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310655621,
-    "wof:lastmodified":1537713548,
+    "wof:lastmodified":1566645856,
     "wof:name":"Los Lechosos",
     "wof:parent_id":421177411,
     "wof:placetype":"locality",

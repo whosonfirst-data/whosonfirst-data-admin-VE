@@ -10,8 +10,12 @@
     "geom:latitude":10.57695,
     "geom:longitude":-67.10191,
     "iso:country":"VE",
+    "lbl:bbox":"-67.12191,10.55695,-67.08191,10.59695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3626534,
         "gp:id":468372,
-        "qs:id":1095808
+        "qs_pg:id":1095808
     },
     "wof:country":"VE",
     "wof:created":1459009554,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421188395,
-    "wof:lastmodified":1500034356,
+    "wof:lastmodified":1566646251,
     "wof:name":"Taguao",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

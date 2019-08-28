@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.92,10.11333,-71.88,10.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Alonzo",
         "Don Alonzo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276717471,
-    "wof:lastmodified":1537713612,
+    "wof:lastmodified":1566645208,
     "wof:name":"Don Alonzo",
     "wof:parent_id":1108694233,
     "wof:placetype":"locality",

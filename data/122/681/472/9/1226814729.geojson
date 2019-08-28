@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.31273,9.03016,-69.27273,9.07016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Corocito"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226814729,
-    "wof:lastmodified":1537713642,
+    "wof:lastmodified":1566646869,
     "wof:name":"Corocito",
     "wof:parent_id":1108694321,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.96237,10.53111,-66.92237,10.57111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Gato Negro"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343408957,
-    "wof:lastmodified":1564303016,
+    "wof:lastmodified":1566644540,
     "wof:name":"Gato Negro",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

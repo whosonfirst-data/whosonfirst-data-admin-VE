@@ -10,6 +10,9 @@
     "geom:latitude":9.31778,
     "geom:longitude":-70.60361,
     "iso:country":"VE",
+    "lbl:bbox":"-70.62361,9.29778,-70.58361,9.33778",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -275,7 +278,7 @@
     "wof:concordances":{
         "gn:id":3625542,
         "gp:id":468401,
-        "qs:id":274458,
+        "qs_pg:id":274458,
         "wd:id":"Q1010367",
         "wk:page":"Valera"
     },
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421172767,
-    "wof:lastmodified":1563241126,
+    "wof:lastmodified":1566646254,
     "wof:name":"Valera",
     "wof:parent_id":1108694477,
     "wof:placetype":"locality",

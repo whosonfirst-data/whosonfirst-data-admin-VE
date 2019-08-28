@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.34115,8.00769,-72.30115,8.04769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226416715,
-    "wof:lastmodified":1536687437,
+    "wof:lastmodified":1566647068,
     "wof:name":"Quebrada Grande",
     "wof:parent_id":421189269,
     "wof:placetype":"locality",

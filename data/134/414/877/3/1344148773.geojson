@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.91955,7.45064,-65.87955,7.49064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Palo Grande"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344148773,
-    "wof:lastmodified":1564302838,
+    "wof:lastmodified":1566644451,
     "wof:name":"Palo Grande",
     "wof:parent_id":421196979,
     "wof:placetype":"locality",

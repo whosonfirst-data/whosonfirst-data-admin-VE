@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.30463,10.62335,-63.26463,10.66335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343336237,
-    "wof:lastmodified":1536926342,
+    "wof:lastmodified":1566644602,
     "wof:name":"Playa Grande Arriba",
     "wof:parent_id":1108694113,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.60146,10.06727,-67.56146,10.10727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Casa Amarilla"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309928781,
-    "wof:lastmodified":1564306280,
+    "wof:lastmodified":1566646174,
     "wof:name":"Casa Amarilla",
     "wof:parent_id":1108694179,
     "wof:placetype":"locality",

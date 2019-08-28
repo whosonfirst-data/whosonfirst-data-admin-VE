@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.46144,9.80307,-69.42144,9.84307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243038979,
-    "wof:lastmodified":1536895848,
+    "wof:lastmodified":1566646482,
     "wof:name":"Bucaralito",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",

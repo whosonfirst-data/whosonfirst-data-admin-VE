@@ -9,16 +9,19 @@
     "geom:bbox":"-72.21667,7.76194,-72.21667,7.76194",
     "geom:latitude":7.76194,
     "geom:longitude":-72.21667,
-    "gn:gn_country":"VE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"VE",
+    "gn:fcode":"PPLX",
     "gn:latitude":7.76194,
     "gn:longitude":-72.21667,
+    "gn:population":0,
     "iso:country":"VE",
+    "lbl:bbox":"-72.22167,7.75694,-72.21167,7.76694",
     "lbl:latitude":7.76194,
     "lbl:longitude":-72.21667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Las Flores"
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0441-\u0424\u043b\u043e\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Las Flores"
-    ],
     "qs_pg:aaroncc":"VE",
     "qs_pg:gn_country":"VE",
     "qs_pg:gn_fcode":"PPLX",
@@ -80,7 +80,7 @@
     "qs_pg:woe_adm0":23424982,
     "qs_pg:woe_id":389478,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424982,
     "woe:name_adm0":"Venezuela",
     "woe:name_adm1":"Tachira",
@@ -95,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3759376,
         "gp:id":389478,
-        "qs:id":1082769,
         "qs_pg:id":1082769
     },
     "wof:country":"VE",
@@ -112,7 +111,7 @@
         }
     ],
     "wof:id":1126090525,
-    "wof:lastmodified":1564306473,
+    "wof:lastmodified":1566646320,
     "wof:name":"Las Flores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

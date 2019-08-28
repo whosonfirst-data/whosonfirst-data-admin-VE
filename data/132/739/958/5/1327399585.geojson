@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.89511,9.37846,-69.85511,9.41846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Monta\u00f1a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327399585,
-    "wof:lastmodified":1537713645,
+    "wof:lastmodified":1566644101,
     "wof:name":"La Montana",
     "wof:parent_id":421189087,
     "wof:placetype":"locality",

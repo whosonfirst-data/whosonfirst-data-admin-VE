@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.9261,9.24292,-64.8861,9.28292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0628\u0629 \u062d\u0631\u0634\u064a\u0629"
     ],
@@ -104,8 +108,7 @@
         "\u0427\u0430\u043f\u0430\u0440\u0430\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Chaparra",
-        "Chaparral"
+        "Chaparra"
     ],
     "name:zho_x_preferred":[
         "\u6d53\u5bc6\u5e38\u7eff\u9614\u53f6\u704c\u4e1b"
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1259791301,
-    "wof:lastmodified":1564307208,
+    "wof:lastmodified":1566646697,
     "wof:name":"Chaparral",
     "wof:parent_id":421166905,
     "wof:placetype":"locality",

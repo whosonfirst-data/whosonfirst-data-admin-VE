@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.93667,8.96333,-71.89667,9.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Rivera"
     ],
@@ -42,8 +46,7 @@
         "La Rivera"
     ],
     "name:und_x_variant":[
-        "Rivera",
-        "La Rivera"
+        "Rivera"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0631\u06cc\u0648\u06cc\u0631\u0627"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1277145283,
-    "wof:lastmodified":1564304241,
+    "wof:lastmodified":1566645157,
     "wof:name":"La Rivera",
     "wof:parent_id":421186435,
     "wof:placetype":"locality",

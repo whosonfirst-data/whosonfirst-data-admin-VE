@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.02445,12.11774,-69.98445,12.15774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327311181,
-    "wof:lastmodified":1536854770,
+    "wof:lastmodified":1566644115,
     "wof:name":"El Imujo",
     "wof:parent_id":421180891,
     "wof:placetype":"locality",

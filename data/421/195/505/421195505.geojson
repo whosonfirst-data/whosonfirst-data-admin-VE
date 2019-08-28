@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.896812,
     "lbl:longitude":-71.879161,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tachira",
     "meso:gadm_admin":"Francisco de Miranda",
     "meso:gaul_admin":"Jauregui",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.879161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0631\u0646\u0633\u064a\u0633\u0643\u0648 \u0645\u064a\u0631\u0627\u0646\u062f\u0627"
@@ -177,9 +180,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"5334",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Pariagu\u00e1n",
@@ -200,7 +203,7 @@
     "wof:concordances":{
         "gp:id":26804703,
         "hasc:id":"VE.AN.FM",
-        "qs:id":114621,
+        "qs_pg:id":114621,
         "wd:id":"Q311447"
     },
     "wof:country":"VE",
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":421195505,
-    "wof:lastmodified":1563241051,
+    "wof:lastmodified":1566646218,
     "wof:name":"Francisco De Miranda",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

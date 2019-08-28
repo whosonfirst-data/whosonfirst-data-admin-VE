@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.443451,
     "lbl:longitude":-63.024255,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Monagas",
     "mps:latitude":9.44246,
     "mps:longitude":-63.010022,
@@ -297,9 +298,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"28,900",
     "statoids:area_mi":"11,160",
     "statoids:as_of_date":"2011-09-01",
@@ -325,7 +326,7 @@
         "gp:id":2347692,
         "hasc:id":"VE.MO",
         "iso:id":"VE-N",
-        "qs:id":235660,
+        "qs_pg:id":235660,
         "unlc:id":"VE-N",
         "wd:id":"Q205776",
         "wk:page":"Monagas"
@@ -346,11 +347,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738729,
+    "wof:lastmodified":1566644708,
     "wof:name":"Monagas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":905443,
     "wof:population_rank":11,

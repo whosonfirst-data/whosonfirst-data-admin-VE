@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.99537,7.93659,-71.95537,7.97659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3795125
     },
     "wof:country":"VE",
-    "wof:geomhash":"dc7c8f4734b70d51d682b7ecd3b144ce",
+    "wof:geomhash":"91364446faa5404d101f0edc053a5ac1",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209173017,
-    "wof:lastmodified":1536295517,
+    "wof:lastmodified":1566645550,
     "wof:name":"El Encierro",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -71.97537,
-    7.9565899999999985,
+    7.95659,
     -71.97537,
-    7.9565899999999985
+    7.95659
 ],
   "geometry": {"coordinates":[-71.97537,7.95659],"type":"Point"}
 }

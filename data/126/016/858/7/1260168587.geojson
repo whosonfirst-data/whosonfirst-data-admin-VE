@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.55333,10.71333,-69.51333,10.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saga"
     ],
@@ -183,8 +187,7 @@
         "\u0421\u0430\u0433\u0430"
     ],
     "name:und_x_variant":[
-        "Saoa",
-        "Saga"
+        "Saoa"
     ],
     "name:wuu_x_preferred":[
         "\u8428\u8fe6"
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":1260168587,
-    "wof:lastmodified":1564305403,
+    "wof:lastmodified":1566645742,
     "wof:name":"Saga",
     "wof:parent_id":1108694469,
     "wof:placetype":"locality",

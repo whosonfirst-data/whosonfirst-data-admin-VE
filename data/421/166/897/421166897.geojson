@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.202936,
     "lbl:longitude":-66.314415,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Acevedo",
     "meso:gaul_admin":"Acevedo",
@@ -30,6 +32,7 @@
     "mps:longitude":-66.314415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Acevedo"
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1879",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Caucagua",
@@ -148,7 +151,7 @@
     "wof:concordances":{
         "gp:id":26804605,
         "hasc:id":"VE.MI.AC",
-        "qs:id":19940,
+        "qs_pg:id":19940,
         "wd:id":"Q2625145"
     },
     "wof:country":"VE",
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421166897,
-    "wof:lastmodified":1563241044,
+    "wof:lastmodified":1566646215,
     "wof:name":"Acevedo",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

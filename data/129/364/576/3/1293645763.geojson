@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.97514,9.38867,-70.93514,9.42867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Luis"
     ],
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1293645763,
-    "wof:lastmodified":1564303446,
+    "wof:lastmodified":1566644786,
     "wof:name":"San Luis",
     "wof:parent_id":1108694235,
     "wof:placetype":"locality",

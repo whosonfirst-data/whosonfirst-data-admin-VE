@@ -12,8 +12,12 @@
     "gn:country":"VE",
     "gp:adm0":23424982,
     "iso:country":"VE",
+    "lbl:bbox":"-71.707502,10.89316,-71.507502,11.09316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0627\u063a\u0627\u0633"
     ],
@@ -167,7 +171,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804790,
-        "qs:id":1313039,
+        "qs_pg:id":1313039,
         "wk:page":"Monagas"
     },
     "wof:country":"VE",
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":890442011,
-    "wof:lastmodified":1564306467,
+    "wof:lastmodified":1566646313,
     "wof:name":"Monagas",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.158421,
     "lbl:longitude":-69.421736,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lara",
     "meso:gadm_admin":"Iribarren",
     "meso:gaul_admin":"Iribarren",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.421736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Iribarren"
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"2763",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Barquisimeto",
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":26804501,
         "hasc:id":"VE.LA.IR",
-        "qs:id":467182,
+        "qs_pg:id":467182,
         "wd:id":"Q2435584"
     },
     "wof:country":"VE",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421180895,
-    "wof:lastmodified":1563241096,
+    "wof:lastmodified":1566646240,
     "wof:name":"Iribarren",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

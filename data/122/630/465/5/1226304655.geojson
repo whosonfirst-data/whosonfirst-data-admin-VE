@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.38719,10.33624,-63.34719,10.37624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u0646 \u0623\u0646\u062a\u0648\u0646\u064a\u0648 \u0623\u0644\u0628\u0627\u0633\u064a\u062a\u064a \u0623\u0646\u062c\u064a\u0644\u0627"
     ],
@@ -41,8 +45,7 @@
         "\u0425\u0443\u0430\u043d \u0410\u043d\u0442\u043e\u043d\u0438\u043e"
     ],
     "name:und_x_variant":[
-        "San Antonio",
-        "Juan Antonio"
+        "San Antonio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226304655,
-    "wof:lastmodified":1564307996,
+    "wof:lastmodified":1566647098,
     "wof:name":"Juan Antonio",
     "wof:parent_id":1108694383,
     "wof:placetype":"locality",

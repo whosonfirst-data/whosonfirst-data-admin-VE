@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.62093,10.61385,-69.58093,10.65385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Abra"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1309977249,
-    "wof:lastmodified":1564306191,
+    "wof:lastmodified":1566646124,
     "wof:name":"El Abra",
     "wof:parent_id":1108694469,
     "wof:placetype":"locality",

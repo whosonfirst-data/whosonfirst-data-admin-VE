@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.06614,8.62938,-67.02614,8.66938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293860299,
-    "wof:lastmodified":1536746551,
+    "wof:lastmodified":1566645001,
     "wof:name":"El Draguito",
     "wof:parent_id":1108694293,
     "wof:placetype":"locality",

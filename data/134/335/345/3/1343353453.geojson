@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.77579,7.69262,-63.73579,7.73262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Fe"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343353453,
-    "wof:lastmodified":1564303085,
+    "wof:lastmodified":1566644574,
     "wof:name":"La Fe",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

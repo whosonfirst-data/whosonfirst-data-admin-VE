@@ -10,8 +10,12 @@
     "geom:latitude":10.23409,
     "geom:longitude":-66.66308,
     "iso:country":"VE",
+    "lbl:bbox":"-66.68308,10.21409,-66.64308,10.25409",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Teresa"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3627047,
         "gp:id":394442,
-        "qs:id":489672,
+        "qs_pg:id":489672,
         "wd:id":"Q1390081",
         "wk:page":"Santa Teresa del Tuy"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421173113,
-    "wof:lastmodified":1563241110,
+    "wof:lastmodified":1566646246,
     "wof:name":"Santa Teresa",
     "wof:parent_id":1108694211,
     "wof:placetype":"locality",

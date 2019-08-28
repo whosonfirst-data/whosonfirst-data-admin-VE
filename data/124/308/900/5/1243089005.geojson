@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-61.50611,7.29111,-61.46611,7.33111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Las Tejas"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243089005,
-    "wof:lastmodified":1564306528,
+    "wof:lastmodified":1566646345,
     "wof:name":"Las Tejas",
     "wof:parent_id":421198671,
     "wof:placetype":"locality",

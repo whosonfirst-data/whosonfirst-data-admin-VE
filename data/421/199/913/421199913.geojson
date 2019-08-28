@@ -10,8 +10,12 @@
     "geom:latitude":10.229112,
     "geom:longitude":-67.474594,
     "iso:country":"VE",
+    "lbl:bbox":"-67.574594,10.129112,-67.374594,10.329112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805770,
-        "qs:id":510730,
         "qs_pg:id":510730
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421199913,
-    "wof:lastmodified":1497043608,
+    "wof:lastmodified":1566646280,
     "wof:name":"Capital Santiago Mari\u00f1o",
     "wof:parent_id":421186263,
     "wof:placetype":"localadmin",

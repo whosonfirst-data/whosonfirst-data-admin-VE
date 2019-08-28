@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.137226,
     "lbl:longitude":-68.711206,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Falcon",
     "meso:gadm_admin":"San Francisco",
     "meso:gaul_admin":"San Francisco",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.711206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "San Francisco"
@@ -533,7 +536,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":17799,
     "wof:belongsto":[
         102191577,
@@ -545,7 +548,7 @@
         "gn:id":3628374,
         "gp:id":26804471,
         "hasc:id":"VE.FA.SF",
-        "qs:id":1118977
+        "qs_pg:id":1118977
     },
     "wof:country":"VE",
     "wof:created":1459009650,
@@ -559,7 +562,7 @@
         }
     ],
     "wof:id":421190213,
-    "wof:lastmodified":1564306429,
+    "wof:lastmodified":1566646278,
     "wof:name":"San Francisco",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

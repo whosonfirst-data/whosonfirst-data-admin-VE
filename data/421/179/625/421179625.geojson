@@ -10,8 +10,12 @@
     "geom:latitude":8.22027,
     "geom:longitude":-72.2439,
     "iso:country":"VE",
+    "lbl:bbox":"-72.2639,8.20027,-72.2239,8.24027",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Fr\u00eda"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3795152,
         "gp:id":468417,
-        "qs:id":150329,
+        "qs_pg:id":150329,
         "wd:id":"Q525112",
         "wk:page":"La Fr\u00eda"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421179625,
-    "wof:lastmodified":1563241218,
+    "wof:lastmodified":1566646294,
     "wof:name":"La Fr\u00eda",
     "wof:parent_id":1108694197,
     "wof:placetype":"locality",

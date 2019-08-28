@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.66015,10.38665,-63.62015,10.42665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293858453,
-    "wof:lastmodified":1536749322,
+    "wof:lastmodified":1566644824,
     "wof:name":"Quebrada Seca",
     "wof:parent_id":1108694383,
     "wof:placetype":"locality",

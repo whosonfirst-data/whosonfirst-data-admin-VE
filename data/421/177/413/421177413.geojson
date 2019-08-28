@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.77014,
     "lbl:longitude":-63.928846,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nueva Esparta",
     "meso:gadm_admin":"Isla de Coche",
     "meso:gaul_admin":"Isla De Coche",
@@ -30,6 +32,7 @@
     "mps:longitude":-63.928846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Villalba"
@@ -130,9 +133,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"61",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"San Pedro de Coche",
@@ -153,7 +156,7 @@
     "wof:concordances":{
         "gp:id":26804674,
         "hasc:id":"VE.NE.VI",
-        "qs:id":421479,
+        "qs_pg:id":421479,
         "wd:id":"Q2208173"
     },
     "wof:country":"VE",
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421177413,
-    "wof:lastmodified":1563241209,
+    "wof:lastmodified":1566646289,
     "wof:name":"Villalba",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

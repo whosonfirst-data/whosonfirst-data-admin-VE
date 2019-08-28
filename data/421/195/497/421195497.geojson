@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.416558,
     "lbl:longitude":-65.959796,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guarico",
     "meso:gadm_admin":"Infante",
     "meso:gaul_admin":"Infante",
@@ -30,6 +32,7 @@
     "mps:longitude":-65.959796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u0646\u0641\u0627\u0646\u062a\u064a"
@@ -203,7 +206,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1083,
     "wof:belongsto":[
         102191577,
@@ -213,7 +216,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804559,
-        "qs:id":114594,
+        "qs_pg:id":114594,
         "wd:id":"Q213594"
     },
     "wof:country":"VE",
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421195497,
-    "wof:lastmodified":1563241052,
+    "wof:lastmodified":1566646219,
     "wof:name":"Infante",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.92167,10.94333,-70.88167,10.98333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309883109,
-    "wof:lastmodified":1536818886,
+    "wof:lastmodified":1566646206,
     "wof:name":"La Sibucara",
     "wof:parent_id":1108694281,
     "wof:placetype":"locality",

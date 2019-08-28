@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.64179,10.66702,-70.60179,10.70702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293088355,
-    "wof:lastmodified":1536864184,
+    "wof:lastmodified":1566644763,
     "wof:name":"Tupurito",
     "wof:parent_id":1108694165,
     "wof:placetype":"locality",

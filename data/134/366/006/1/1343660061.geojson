@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.95516,8.73326,-69.91516,8.77326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0431\u0430\u043d\u0435\u0442\u0430"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1343660061,
-    "wof:lastmodified":1564303065,
+    "wof:lastmodified":1566644564,
     "wof:name":"Sabaneta",
     "wof:parent_id":1108694103,
     "wof:placetype":"locality",

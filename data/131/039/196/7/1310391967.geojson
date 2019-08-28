@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.60944,9.605,-67.56944,9.645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Carrizalito",
         "Asentamiento Carrizalito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310391967,
-    "wof:lastmodified":1537713621,
+    "wof:lastmodified":1566645910,
     "wof:name":"Asentamiento Carrizalito",
     "wof:parent_id":1108694319,
     "wof:placetype":"locality",

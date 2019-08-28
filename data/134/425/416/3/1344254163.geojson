@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.44704,8.0509,-62.40704,8.0909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Altagracia"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1344254163,
-    "wof:lastmodified":1564302818,
+    "wof:lastmodified":1566644440,
     "wof:name":"Altagracia",
     "wof:parent_id":421197623,
     "wof:placetype":"locality",

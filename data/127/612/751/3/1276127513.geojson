@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.55333,3.13,-65.51333,3.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amauca",
         "Amauaca"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276127513,
-    "wof:lastmodified":1537713633,
+    "wof:lastmodified":1566645220,
     "wof:name":"Amauaca",
     "wof:parent_id":890420047,
     "wof:placetype":"locality",

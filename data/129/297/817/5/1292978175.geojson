@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.00333,11.08,-69.96333,11.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pedregoza",
         "Pedregosa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292978175,
-    "wof:lastmodified":1537713530,
+    "wof:lastmodified":1566644922,
     "wof:name":"Pedregosa",
     "wof:parent_id":1108694167,
     "wof:placetype":"locality",

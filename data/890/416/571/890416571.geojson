@@ -11,10 +11,14 @@
     "geom:longitude":-63.96549,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":28256,
+    "gn:population":28256,
     "iso:country":"VE",
+    "lbl:bbox":"-63.98549,11.06172,-63.94549,11.10172",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Juan Griegu"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3639107,
         "gp:id":468474,
-        "qs:id":584398,
+        "qs_pg:id":584398,
         "wd:id":"Q3131511",
         "wk:page":"Juan Griego"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890416571,
-    "wof:lastmodified":1563241248,
+    "wof:lastmodified":1566646311,
     "wof:name":"Juan Griego",
     "wof:parent_id":421196983,
     "wof:placetype":"locality",

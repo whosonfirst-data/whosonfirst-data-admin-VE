@@ -10,8 +10,12 @@
     "geom:latitude":10.460669,
     "geom:longitude":-66.833472,
     "iso:country":"VE",
+    "lbl:bbox":"-66.933472,10.3606685,-66.733472,10.5606685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "El Cafetal"
@@ -47,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805203,
-        "qs:id":1110154,
         "qs_pg:id":1110154
     },
     "wof:country":"VE",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421177403,
-    "wof:lastmodified":1564306451,
+    "wof:lastmodified":1566646290,
     "wof:name":"El Cafetal",
     "wof:parent_id":421171377,
     "wof:placetype":"localadmin",

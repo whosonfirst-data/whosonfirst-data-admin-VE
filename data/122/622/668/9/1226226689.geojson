@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.36223,9.41444,-68.32223,9.45444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226226689,
-    "wof:lastmodified":1536961047,
+    "wof:lastmodified":1566647020,
     "wof:name":"La Joba",
     "wof:parent_id":1108694451,
     "wof:placetype":"locality",

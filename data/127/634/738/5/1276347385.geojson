@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.34278,8.34167,-63.30278,8.38167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276347385,
-    "wof:lastmodified":1536759793,
+    "wof:lastmodified":1566645108,
     "wof:name":"Mata las Guacharacas",
     "wof:parent_id":421203571,
     "wof:placetype":"locality",

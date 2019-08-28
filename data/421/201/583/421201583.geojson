@@ -10,8 +10,12 @@
     "geom:latitude":10.17189,
     "geom:longitude":-63.50249,
     "iso:country":"VE",
+    "lbl:bbox":"-63.60249,10.07189,-63.40249,10.27189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805176,
-        "qs:id":1263870
+        "qs_pg:id":1263870
     },
     "wof:country":"VE",
     "wof:created":1459010077,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421201583,
-    "wof:lastmodified":1500034390,
+    "wof:lastmodified":1566646284,
     "wof:name":"San Agustin",
     "wof:parent_id":421186265,
     "wof:placetype":"localadmin",

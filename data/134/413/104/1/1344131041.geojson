@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.03846,7.42998,-71.99846,7.46998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Socorro"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344131041,
-    "wof:lastmodified":1564302823,
+    "wof:lastmodified":1566644442,
     "wof:name":"El Socorro",
     "wof:parent_id":1108694191,
     "wof:placetype":"locality",

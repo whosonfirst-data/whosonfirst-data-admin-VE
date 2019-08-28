@@ -10,8 +10,12 @@
     "geom:latitude":9.544922,
     "geom:longitude":-62.655645,
     "iso:country":"VE",
+    "lbl:bbox":"-62.755645,9.444922,-62.555645,9.644922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805139,
-        "qs:id":1263878
+        "qs_pg:id":1263878
     },
     "wof:country":"VE",
     "wof:created":1459008902,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421171665,
-    "wof:lastmodified":1500034389,
+    "wof:lastmodified":1566646302,
     "wof:name":"Capital Maturin",
     "wof:parent_id":421186375,
     "wof:placetype":"localadmin",

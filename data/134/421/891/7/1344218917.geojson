@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.56068,10.5798,-62.52068,10.6198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Campo Alegre",
         "Campo Claro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344218917,
-    "wof:lastmodified":1537713624,
+    "wof:lastmodified":1566644608,
     "wof:name":"Campo Claro",
     "wof:parent_id":1108694275,
     "wof:placetype":"locality",

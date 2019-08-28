@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.4944,10.71549,-68.4544,10.75549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1209802639,
-    "wof:lastmodified":1564304979,
+    "wof:lastmodified":1566645529,
     "wof:name":"Santa Barbara",
     "wof:parent_id":890417393,
     "wof:placetype":"locality",

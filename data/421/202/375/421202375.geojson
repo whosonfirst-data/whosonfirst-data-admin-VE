@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.256883,
     "lbl:longitude":-67.033521,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Miranda",
     "meso:gadm_admin":"Guaicaipuro",
     "meso:gaul_admin":"Guaicaipuro",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.033521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Guaicaipuro"
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":687,
     "wof:belongsto":[
         102191577,
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":26804602,
         "hasc:id":"VE.MI.GU",
-        "qs:id":221565,
+        "qs_pg:id":221565,
         "wd:id":"Q1090454"
     },
     "wof:country":"VE",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421202375,
-    "wof:lastmodified":1563241091,
+    "wof:lastmodified":1566646238,
     "wof:name":"Guaicaipuro",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

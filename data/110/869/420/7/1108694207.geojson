@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.213682,
     "lbl:longitude":-64.555126,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Guanta",
     "meso:gaul_admin":"Guanta",
@@ -30,6 +32,7 @@
     "mps:longitude":-64.555126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Municipio Guanta"
     ],
@@ -76,9 +79,9 @@
         "\u95dc\u5854\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"67",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Guanta",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108694207,
-    "wof:lastmodified":1563240339,
+    "wof:lastmodified":1566645817,
     "wof:name":"Guanta",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.51369,9.43464,-70.47369,9.47464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Raya"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293059769,
-    "wof:lastmodified":1564303703,
+    "wof:lastmodified":1566644903,
     "wof:name":"La Raya",
     "wof:parent_id":1108694333,
     "wof:placetype":"locality",

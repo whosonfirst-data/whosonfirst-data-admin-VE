@@ -10,8 +10,12 @@
     "geom:latitude":5.717795,
     "geom:longitude":-62.782058,
     "iso:country":"VE",
+    "lbl:bbox":"-62.882058,5.617795,-62.682058,5.817795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805588,
-        "qs:id":224845,
         "qs_pg:id":224845
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421170179,
-    "wof:lastmodified":1497043369,
+    "wof:lastmodified":1566646289,
     "wof:name":"Capital Gran Sabana",
     "wof:parent_id":421202369,
     "wof:placetype":"localadmin",

@@ -11,10 +11,14 @@
     "geom:longitude":-63.849449,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":87120,
+    "gn:population":87120,
     "iso:country":"VE",
+    "lbl:bbox":"-63.869449,10.93815,-63.829449,10.97815",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0644\u0627\u0645\u0627\u0631"
@@ -176,12 +180,12 @@
     "wof:concordances":{
         "gn:id":3629965,
         "gp:id":468425,
-        "qs:id":1077540,
+        "qs_pg:id":1077540,
         "wd:id":"Q953449",
         "wk:page":"Porlamar"
     },
     "wof:concordances_alt":{
-        "qs:id":274467
+        "qs_pg:id":274467
     },
     "wof:country":"VE",
     "wof:created":1459009497,
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":421186953,
-    "wof:lastmodified":1563241131,
+    "wof:lastmodified":1566646257,
     "wof:name":"Porlamar",
     "wof:parent_id":421170033,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.96678,11.76347,-69.92678,11.80347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Santa Ana"
     ],
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1225931151,
-    "wof:lastmodified":1564307478,
+    "wof:lastmodified":1566646839,
     "wof:name":"Santa Ana",
     "wof:parent_id":890451975,
     "wof:placetype":"locality",

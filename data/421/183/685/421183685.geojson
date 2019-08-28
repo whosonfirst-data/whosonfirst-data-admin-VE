@@ -10,8 +10,12 @@
     "geom:latitude":10.23317,
     "geom:longitude":-66.9538,
     "iso:country":"VE",
+    "lbl:bbox":"-66.9738,10.21317,-66.9338,10.25317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Las Tejer\u00edas"
@@ -111,9 +115,11 @@
     "wof:concordances":{
         "gn:id":3635325,
         "gp:id":389911,
-        "qs:id":982706,
-        "qs_pg:id":1045787,
+        "qs_pg:id":982706,
         "wd:id":"Q3218244"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045787
     },
     "wof:country":"VE",
     "wof:created":1459009378,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421183685,
-    "wof:lastmodified":1563241214,
+    "wof:lastmodified":1566646292,
     "wof:name":"Las Tejer\u00edas",
     "wof:parent_id":421202375,
     "wof:placetype":"locality",

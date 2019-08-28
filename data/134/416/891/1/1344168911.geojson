@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.07764,9.26526,-65.03764,9.30526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Coronel",
         "El Coronel"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344168911,
-    "wof:lastmodified":1537713606,
+    "wof:lastmodified":1566644618,
     "wof:name":"El Coronel",
     "wof:parent_id":1108694283,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.60333,8.31333,-69.56333,8.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Macagua",
         "La Macagua"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293198643,
-    "wof:lastmodified":1537713567,
+    "wof:lastmodified":1566644982,
     "wof:name":"La Macagua",
     "wof:parent_id":1108694375,
     "wof:placetype":"locality",

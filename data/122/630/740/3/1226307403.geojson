@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.10168,8.11919,-72.06168,8.15919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Filomena"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1226307403,
-    "wof:lastmodified":1564307997,
+    "wof:lastmodified":1566647098,
     "wof:name":"Santa Filomena",
     "wof:parent_id":1108694423,
     "wof:placetype":"locality",

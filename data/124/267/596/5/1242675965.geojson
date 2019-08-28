@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.39477,8.39138,-70.35477,8.43138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Marcos"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1242675965,
-    "wof:lastmodified":1564306661,
+    "wof:lastmodified":1566646416,
     "wof:name":"San Marcos",
     "wof:parent_id":1108694343,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.4426,
     "geom:longitude":-71.18832,
     "iso:country":"VE",
+    "lbl:bbox":"-71.20832,8.4226,-71.16832,8.4626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Morro"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3642506,
         "gp:id":395483,
-        "qs:id":1165411
+        "qs_pg:id":1165411
     },
     "wof:country":"VE",
     "wof:created":1459008761,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421168327,
-    "wof:lastmodified":1564306356,
+    "wof:lastmodified":1566646213,
     "wof:name":"El Morro",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

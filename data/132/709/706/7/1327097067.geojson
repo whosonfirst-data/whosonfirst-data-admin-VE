@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.89889,8.75694,-69.85889,8.79694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Barronero",
         "El Baronero",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327097067,
-    "wof:lastmodified":1537713610,
+    "wof:lastmodified":1566644108,
     "wof:name":"Baronero",
     "wof:parent_id":1108694393,
     "wof:placetype":"locality",

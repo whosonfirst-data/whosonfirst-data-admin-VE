@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.877,10.9455,-63.837,10.9855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "El Poblado"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226518261,
-    "wof:lastmodified":1564307693,
+    "wof:lastmodified":1566646945,
     "wof:name":"El Poblado",
     "wof:parent_id":421170033,
     "wof:placetype":"locality",

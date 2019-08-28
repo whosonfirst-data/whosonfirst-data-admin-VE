@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.78476,8.84911,-71.74476,8.88911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3788878
     },
     "wof:country":"VE",
-    "wof:geomhash":"e6434b83f856087a3854eeb75db72a65",
+    "wof:geomhash":"4cb1d0003f96c181804e28fb740b4cef",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209472905,
-    "wof:lastmodified":1536286025,
+    "wof:lastmodified":1566645426,
     "wof:name":"La Curva",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -71.76476,
-    8.869110000000003,
+    8.86911,
     -71.76476,
-    8.869110000000003
+    8.86911
 ],
   "geometry": {"coordinates":[-71.76476,8.86911],"type":"Point"}
 }

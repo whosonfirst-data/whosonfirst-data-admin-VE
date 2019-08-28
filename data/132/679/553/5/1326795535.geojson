@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.00336,10.66577,-62.96336,10.70577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_colloquial":[
         "Pui Pui"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1326795535,
-    "wof:lastmodified":1537713526,
+    "wof:lastmodified":1566644289,
     "wof:name":"Pui Puy",
     "wof:parent_id":421193365,
     "wof:placetype":"locality",

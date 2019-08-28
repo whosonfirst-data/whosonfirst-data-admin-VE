@@ -10,6 +10,9 @@
     "geom:latitude":10.59621,
     "geom:longitude":-66.95485,
     "iso:country":"VE",
+    "lbl:bbox":"-66.97485,10.57621,-66.93485,10.61621",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -179,7 +182,7 @@
     "wof:concordances":{
         "gn:id":3633341,
         "gp:id":468397,
-        "qs:id":489784,
+        "qs_pg:id":489784,
         "wd:id":"Q1677956",
         "wk:page":"Maiquet\u00eda"
     },
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421169099,
-    "wof:lastmodified":1563241069,
+    "wof:lastmodified":1566646227,
     "wof:name":"Maiquet\u00eda",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.47548,10.20293,-64.43548,10.24293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Silleta"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209680651,
-    "wof:lastmodified":1564304834,
+    "wof:lastmodified":1566645452,
     "wof:name":"La Silleta",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

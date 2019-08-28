@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.314475,
     "lbl:longitude":-66.297411,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guarico",
     "meso:gadm_admin":"Chaguaramas",
     "meso:gaul_admin":"Chaguaramas",
@@ -30,6 +32,7 @@
     "mps:longitude":-66.297411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Chaguaramas"
     ],
@@ -70,9 +73,9 @@
         "\u4e18\u74dc\u62c9\u99ac\u65af\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"2069",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Chaguaramas",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108694159,
-    "wof:lastmodified":1563240288,
+    "wof:lastmodified":1566645796,
     "wof:name":"Chaguaramas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

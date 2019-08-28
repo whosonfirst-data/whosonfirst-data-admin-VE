@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.33477,10.31574,-64.29477,10.35574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bella Vista"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1293162733,
-    "wof:lastmodified":1564303799,
+    "wof:lastmodified":1566644948,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",

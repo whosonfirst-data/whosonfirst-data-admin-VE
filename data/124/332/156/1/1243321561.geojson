@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.13667,10.83,-72.09667,10.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Ceiba",
         "Medell\u00edn",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243321561,
-    "wof:lastmodified":1537713607,
+    "wof:lastmodified":1566646490,
     "wof:name":"El Ceibote",
     "wof:parent_id":421196977,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.545557,
     "lbl:longitude":-63.324242,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sucre",
     "meso:gadm_admin":"Andr\u00e9s Mata",
     "meso:gaul_admin":"Andres Mata",
@@ -30,6 +32,7 @@
     "mps:longitude":-63.324242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Andr\u00e9s Mata"
     ],
@@ -65,9 +68,9 @@
         "\u99ac\u5854\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"454",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"San Jos\u00e9 de Aerocuar",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108694077,
-    "wof:lastmodified":1563240307,
+    "wof:lastmodified":1566645807,
     "wof:name":"Andres Mata",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

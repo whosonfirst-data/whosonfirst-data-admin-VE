@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.14884,9.61752,-68.10884,9.65752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Pao"
     ],
@@ -39,8 +43,7 @@
         "El Pao"
     ],
     "name:und_x_variant":[
-        "Pao",
-        "El Pao"
+        "Pao"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u5e15\u5967"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1225841081,
-    "wof:lastmodified":1564308098,
+    "wof:lastmodified":1566647154,
     "wof:name":"El Pao",
     "wof:parent_id":1108694337,
     "wof:placetype":"locality",

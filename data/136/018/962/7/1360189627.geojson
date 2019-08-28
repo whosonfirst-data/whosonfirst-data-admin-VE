@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.92021,9.81854,-66.88021,9.85854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360189627,
-    "wof:lastmodified":1536795056,
+    "wof:lastmodified":1566646065,
     "wof:name":"Pegoncito",
     "wof:parent_id":421193519,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.67447,8.22961,-64.63447,8.26961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Potrero"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276549359,
-    "wof:lastmodified":1564304536,
+    "wof:lastmodified":1566645292,
     "wof:name":"El Potrero",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

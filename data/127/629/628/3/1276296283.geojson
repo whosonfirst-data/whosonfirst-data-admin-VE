@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.78954,7.52939,-71.74954,7.56939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Coloradas"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276296283,
-    "wof:lastmodified":1564304114,
+    "wof:lastmodified":1566645098,
     "wof:name":"Las Coloradas",
     "wof:parent_id":1108694257,
     "wof:placetype":"locality",

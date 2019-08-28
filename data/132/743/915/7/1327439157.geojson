@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.6028,9.0847,-64.5628,9.1247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Meria"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1327439157,
-    "wof:lastmodified":1564302607,
+    "wof:lastmodified":1566644333,
     "wof:name":"Meria",
     "wof:parent_id":1108694409,
     "wof:placetype":"locality",

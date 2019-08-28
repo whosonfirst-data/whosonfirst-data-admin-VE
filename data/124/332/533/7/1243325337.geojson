@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.91385,10.25687,-63.87385,10.29687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Caldera"
     ],
@@ -240,7 +244,7 @@
         }
     ],
     "wof:id":1243325337,
-    "wof:lastmodified":1564306804,
+    "wof:lastmodified":1566646489,
     "wof:name":"Caldera",
     "wof:parent_id":1108694311,
     "wof:placetype":"locality",

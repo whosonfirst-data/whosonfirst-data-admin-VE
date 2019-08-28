@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.51056,9.86833,-67.47056,9.90833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Llanada"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1343637971,
-    "wof:lastmodified":1564302779,
+    "wof:lastmodified":1566644417,
     "wof:name":"La Llanada",
     "wof:parent_id":1108694381,
     "wof:placetype":"locality",

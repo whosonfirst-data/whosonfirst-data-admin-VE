@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.88667,8.29667,-63.84667,8.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Carisito",
         "Caricito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276992991,
-    "wof:lastmodified":1537713622,
+    "wof:lastmodified":1566645241,
     "wof:name":"Caricito",
     "wof:parent_id":421203571,
     "wof:placetype":"locality",

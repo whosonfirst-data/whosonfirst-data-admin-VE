@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.38551,10.59412,-62.34551,10.63412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344121781,
-    "wof:lastmodified":1536787701,
+    "wof:lastmodified":1566644465,
     "wof:name":"Guaraguarita",
     "wof:parent_id":1108694473,
     "wof:placetype":"locality",

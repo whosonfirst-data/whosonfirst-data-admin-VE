@@ -10,10 +10,14 @@
     "geom:latitude":11.02974,
     "geom:longitude":-64.3715,
     "iso:country":"VE",
+    "lbl:bbox":"-64.3915,11.00974,-64.3515,11.04974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Robledar"
     ],
     "qs:gn_country":"VE",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3629023,
         "gp:id":468323,
-        "qs:id":495628
+        "qs_pg:id":495628
     },
     "wof:country":"VE",
     "wof:created":1459009302,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421181625,
-    "wof:lastmodified":1501268323,
+    "wof:lastmodified":1566646264,
     "wof:name":"Robledal",
     "wof:parent_id":890440759,
     "wof:placetype":"locality",

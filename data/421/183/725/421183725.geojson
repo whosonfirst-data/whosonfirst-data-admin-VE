@@ -10,8 +10,12 @@
     "geom:latitude":8.80057,
     "geom:longitude":-70.84472,
     "iso:country":"VE",
+    "lbl:bbox":"-70.86472,8.78057,-70.82472,8.82057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Apartaderos"
@@ -34,7 +38,7 @@
     "name:spa_x_preferred":[
         "Apartaderos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Apartadero"
     ],
     "qs:gn_country":"VE",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3649169,
         "gp:id":468566,
-        "qs:id":982735,
+        "qs_pg:id":982735,
         "wd:id":"Q2858134"
     },
     "wof:country":"VE",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421183725,
-    "wof:lastmodified":1563241213,
+    "wof:lastmodified":1566646292,
     "wof:name":"Apartaderos",
     "wof:parent_id":421190239,
     "wof:placetype":"locality",

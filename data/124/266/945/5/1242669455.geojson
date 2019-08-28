@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.86056,7.61611,-63.82056,7.65611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242669455,
-    "wof:lastmodified":1536932245,
+    "wof:lastmodified":1566646401,
     "wof:name":"Jabonero",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

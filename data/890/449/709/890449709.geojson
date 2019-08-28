@@ -12,8 +12,12 @@
     "gn:country":"VE",
     "gp:adm0":23424982,
     "iso:country":"VE",
+    "lbl:bbox":"-64.0750885,10.986317,-63.8750885,11.186317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Adrian"
     ],
@@ -721,7 +725,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805123,
-        "qs:id":1119660,
+        "qs_pg:id":1119660,
         "wd:id":"Q372250",
         "wk:page":"Adrian"
     },
@@ -737,7 +741,7 @@
         }
     ],
     "wof:id":890449709,
-    "wof:lastmodified":1563241240,
+    "wof:lastmodified":1566646306,
     "wof:name":"Adrian",
     "wof:parent_id":85680557,
     "wof:placetype":"localadmin",

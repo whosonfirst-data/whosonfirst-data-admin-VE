@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.45076,10.32524,-68.41076,10.36524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Volc\u00e1n El Escondido"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293647623,
-    "wof:lastmodified":1564303438,
+    "wof:lastmodified":1566644783,
     "wof:name":"El Escondido",
     "wof:parent_id":421172277,
     "wof:placetype":"locality",

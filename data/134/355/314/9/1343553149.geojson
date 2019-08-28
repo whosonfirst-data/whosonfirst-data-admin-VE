@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-61.62,4.83,-61.58,4.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343553149,
-    "wof:lastmodified":1536609850,
+    "wof:lastmodified":1566644415,
     "wof:name":"Uaichoroden",
     "wof:parent_id":421202369,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.59901,
     "geom:longitude":-66.9346,
     "iso:country":"VE",
+    "lbl:bbox":"-67.0346,10.49901,-66.8346,10.69901",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "La Guaira"
@@ -112,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0413\u0443\u0430\u0439\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Guayra"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":3637721,
         "gp:id":26804967,
-        "qs:id":62367,
+        "qs_pg:id":62367,
         "wd:id":"Q873405",
         "wk:page":"La Guaira"
     },
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":421191317,
-    "wof:lastmodified":1563241173,
+    "wof:lastmodified":1566646276,
     "wof:name":"La Guaira",
     "wof:parent_id":421169209,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.13576,10.21818,-67.09576,10.25818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276584261,
-    "wof:lastmodified":1536940780,
+    "wof:lastmodified":1566645122,
     "wof:name":"El Sapo",
     "wof:parent_id":1108694419,
     "wof:placetype":"locality",

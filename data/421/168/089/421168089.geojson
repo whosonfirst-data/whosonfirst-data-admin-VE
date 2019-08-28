@@ -10,8 +10,12 @@
     "geom:latitude":10.521906,
     "geom:longitude":-66.954666,
     "iso:country":"VE",
+    "lbl:bbox":"-67.054666,10.421906,-66.854666,10.621906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
@@ -359,7 +363,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805552,
-        "qs:id":1029688
+        "qs_pg:id":1029688
     },
     "wof:country":"VE",
     "wof:created":1459008754,
@@ -374,7 +378,7 @@
         }
     ],
     "wof:id":421168089,
-    "wof:lastmodified":1564306356,
+    "wof:lastmodified":1566646213,
     "wof:name":"Sucre",
     "wof:parent_id":421202591,
     "wof:placetype":"localadmin",

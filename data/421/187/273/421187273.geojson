@@ -10,8 +10,12 @@
     "geom:latitude":11.43333,
     "geom:longitude":-68.83333,
     "iso:country":"VE",
+    "lbl:bbox":"-68.85333,11.41333,-68.81333,11.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "San Jose"
@@ -225,7 +229,7 @@
     "wof:concordances":{
         "gn:id":3628195,
         "gp:id":151994,
-        "qs:id":1082638
+        "qs_pg:id":1082638
     },
     "wof:country":"VE",
     "wof:created":1459009507,
@@ -240,7 +244,7 @@
         }
     ],
     "wof:id":421187273,
-    "wof:lastmodified":1564306393,
+    "wof:lastmodified":1566646242,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":1108694353,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.28667,7.66333,-72.24667,7.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Polonia",
         "La Polonia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276720783,
-    "wof:lastmodified":1537713564,
+    "wof:lastmodified":1566645030,
     "wof:name":"La Polonia",
     "wof:parent_id":421185265,
     "wof:placetype":"locality",

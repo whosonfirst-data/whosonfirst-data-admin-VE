@@ -10,6 +10,9 @@
     "geom:latitude":8.00861,
     "geom:longitude":-62.39889,
     "iso:country":"VE",
+    "lbl:bbox":"-62.41889,7.98861,-62.37889,8.02861",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -179,7 +182,7 @@
     "wof:concordances":{
         "gn:id":3625710,
         "gp:id":468441,
-        "qs:id":53859,
+        "qs_pg:id":53859,
         "wd:id":"Q940082",
         "wk:page":"Upata"
     },
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421203023,
-    "wof:lastmodified":1563241075,
+    "wof:lastmodified":1566646230,
     "wof:name":"Upata",
     "wof:parent_id":421197623,
     "wof:placetype":"locality",

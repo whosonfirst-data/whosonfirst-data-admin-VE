@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.14423,10.28832,-66.10423,10.32832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Libertad"
     ],
@@ -86,8 +90,7 @@
         "\u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
     "name:und_x_variant":[
-        "Libertad",
-        "La Libertad"
+        "Libertad"
     ],
     "name:war_x_preferred":[
         "La Libertad"
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1326702821,
-    "wof:lastmodified":1564302523,
+    "wof:lastmodified":1566644294,
     "wof:name":"La Libertad",
     "wof:parent_id":421188591,
     "wof:placetype":"locality",

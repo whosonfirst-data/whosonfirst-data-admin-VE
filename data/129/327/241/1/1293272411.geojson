@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.63578,11.22129,-69.59578,11.26129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Ci\u00e9nega",
         "La Ci\u00e9naga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293272411,
-    "wof:lastmodified":1537713639,
+    "wof:lastmodified":1566644941,
     "wof:name":"La Cienaga",
     "wof:parent_id":1108694291,
     "wof:placetype":"locality",

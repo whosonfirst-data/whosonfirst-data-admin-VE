@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.26976,11.29863,-69.22976,11.33863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209693243,
-    "wof:lastmodified":1536279166,
+    "wof:lastmodified":1566645489,
     "wof:name":"Zazarita",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

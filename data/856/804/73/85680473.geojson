@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.494073,
     "lbl:longitude":-71.308093,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"M\u00e9rida",
     "mps:latitude":8.510595,
     "mps:longitude":-71.389342,
@@ -311,9 +312,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"11,300",
     "statoids:area_mi":"4,360",
     "statoids:as_of_date":"2011-09-01",
@@ -338,7 +339,7 @@
         "gp:id":2347690,
         "hasc:id":"VE.ME",
         "iso:id":"VE-L",
-        "qs:id":219632,
+        "qs_pg:id":219632,
         "unlc:id":"VE-L",
         "wd:id":"Q165582",
         "wk:page":"M\u00e9rida (state)"
@@ -359,11 +360,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738723,
+    "wof:lastmodified":1566644698,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":828592,
     "wof:population_rank":11,

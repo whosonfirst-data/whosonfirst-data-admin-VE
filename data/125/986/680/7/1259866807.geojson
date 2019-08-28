@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.17003,10.8408,-69.13003,10.8808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259866807,
-    "wof:lastmodified":1536803196,
+    "wof:lastmodified":1566646826,
     "wof:name":"El Tigrito",
     "wof:parent_id":1108694463,
     "wof:placetype":"locality",

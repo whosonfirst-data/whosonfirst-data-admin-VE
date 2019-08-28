@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.60735,8.70268,-72.56735,8.74268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259751471,
-    "wof:lastmodified":1536969081,
+    "wof:lastmodified":1566646826,
     "wof:name":"Playa de La Cienaga",
     "wof:parent_id":1108694219,
     "wof:placetype":"locality",

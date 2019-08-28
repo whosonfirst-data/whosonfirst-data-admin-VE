@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.36159,10.2579,-67.32159,10.2979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Estancia"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226645313,
-    "wof:lastmodified":1564307982,
+    "wof:lastmodified":1566647090,
     "wof:name":"La Estancia",
     "wof:parent_id":421184557,
     "wof:placetype":"locality",

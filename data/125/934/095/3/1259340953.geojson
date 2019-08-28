@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.02478,10.66674,-71.98478,10.70674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Santa Maria"
     ],
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1259340953,
-    "wof:lastmodified":1564307393,
+    "wof:lastmodified":1566646788,
     "wof:name":"Santa Maria",
     "wof:parent_id":1108694217,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.92481,9.83487,-64.88481,9.87487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
     ],
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":1343466407,
-    "wof:lastmodified":1564302907,
+    "wof:lastmodified":1566644482,
     "wof:name":"San Juan",
     "wof:parent_id":421185095,
     "wof:placetype":"locality",

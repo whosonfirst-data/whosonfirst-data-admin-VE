@@ -10,8 +10,12 @@
     "geom:latitude":10.62215,
     "geom:longitude":-66.7148,
     "iso:country":"VE",
+    "lbl:bbox":"-66.7348,10.60215,-66.6948,10.64215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Universidad Sim\u00f3n Bol\u00edvar"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3647160,
         "gp:id":468160,
-        "qs:id":475505
+        "qs_pg:id":475505
     },
     "wof:country":"VE",
     "wof:created":1459009810,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421194517,
-    "wof:lastmodified":1500034357,
+    "wof:lastmodified":1566646224,
     "wof:name":"Camur\u00ed Grande",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

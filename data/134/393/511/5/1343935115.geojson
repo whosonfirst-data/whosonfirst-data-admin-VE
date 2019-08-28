@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.62219,11.31914,-69.58219,11.35914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarum\u00e3"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Tarima",
-        "Taruna",
-        "Taruma"
+        "Taruna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1343935115,
-    "wof:lastmodified":1564303108,
+    "wof:lastmodified":1566644585,
     "wof:name":"Taruma",
     "wof:parent_id":1108694291,
     "wof:placetype":"locality",

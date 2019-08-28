@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.53222,9.29667,-68.49222,9.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259377871,
-    "wof:lastmodified":1537009663,
+    "wof:lastmodified":1566646665,
     "wof:name":"La Nigua",
     "wof:parent_id":1108694377,
     "wof:placetype":"locality",

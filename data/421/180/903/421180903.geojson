@@ -10,8 +10,12 @@
     "geom:latitude":10.06567,
     "geom:longitude":-69.324159,
     "iso:country":"VE",
+    "lbl:bbox":"-69.424159,9.96567,-69.224159,10.16567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805372,
-        "qs:id":467228,
         "qs_pg:id":467228
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421180903,
-    "wof:lastmodified":1497043588,
+    "wof:lastmodified":1566646240,
     "wof:name":"Concepcion",
     "wof:parent_id":421180895,
     "wof:placetype":"localadmin",

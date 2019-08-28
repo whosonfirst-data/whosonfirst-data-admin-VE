@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.33667,8.83,-68.29667,8.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293479701,
-    "wof:lastmodified":1536798437,
+    "wof:lastmodified":1566644839,
     "wof:name":"El Rocio",
     "wof:parent_id":1108694199,
     "wof:placetype":"locality",

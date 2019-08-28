@@ -10,8 +10,12 @@
     "geom:latitude":9.56359,
     "geom:longitude":-69.205451,
     "iso:country":"VE",
+    "lbl:bbox":"-69.305451,9.46359,-69.105451,9.66359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805101,
-        "qs:id":1263835
+        "qs_pg:id":1263835
     },
     "wof:country":"VE",
     "wof:created":1459008902,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421171655,
-    "wof:lastmodified":1500034192,
+    "wof:lastmodified":1566646302,
     "wof:name":"Capital Paez",
     "wof:parent_id":421202057,
     "wof:placetype":"localadmin",

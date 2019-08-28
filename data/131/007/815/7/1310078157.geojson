@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.10667,10.37556,-66.06667,10.41556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sotillo"
     ],
@@ -79,8 +83,7 @@
     ],
     "name:und_x_variant":[
         "Pedro Sotillo",
-        "Puerto Sotillo",
-        "Sotillo"
+        "Puerto Sotillo"
     ],
     "name:uzb_x_preferred":[
         "Sotillo"
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1310078157,
-    "wof:lastmodified":1564305663,
+    "wof:lastmodified":1566645869,
     "wof:name":"Sotillo",
     "wof:parent_id":421188591,
     "wof:placetype":"locality",

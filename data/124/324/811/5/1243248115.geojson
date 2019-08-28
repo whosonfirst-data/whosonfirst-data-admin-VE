@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.39554,9.76785,-68.35554,9.80785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
     ],
@@ -98,8 +102,7 @@
         "\u041b\u0430\u0441-\u041f\u0430\u043b\u044c\u043c\u0430\u0441-\u0434\u0435-\u0413\u0440\u0430\u043d-\u041a\u0430\u043d\u0430\u0440\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Palmas",
-        "Las Palmas"
+        "Palmas"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1243248115,
-    "wof:lastmodified":1564306708,
+    "wof:lastmodified":1566646438,
     "wof:name":"Las Palmas",
     "wof:parent_id":1108694265,
     "wof:placetype":"locality",

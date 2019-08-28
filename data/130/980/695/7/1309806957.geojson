@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.81634,5.22121,-67.77634,5.26121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sanariapo",
         "Samariapo"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309806957,
-    "wof:lastmodified":1537713521,
+    "wof:lastmodified":1566646192,
     "wof:name":"Samariapo",
     "wof:parent_id":85680511,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.0,
     "geom:longitude":-66.53333,
     "iso:country":"VE",
+    "lbl:bbox":"-66.55333,9.98,-66.51333,10.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Higuerote"
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3639536,
         "gp:id":468471,
-        "qs:id":901625,
+        "qs_pg:id":901625,
         "wd:id":"Q519026"
     },
     "wof:country":"VE",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421200959,
-    "wof:lastmodified":1563241190,
+    "wof:lastmodified":1566646281,
     "wof:name":"Higuerote",
     "wof:parent_id":1108694243,
     "wof:placetype":"locality",

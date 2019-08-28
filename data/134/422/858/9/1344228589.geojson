@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.35333,8.69667,-62.31333,8.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guarguapo",
         "Hato Guaraguapo",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344228589,
-    "wof:lastmodified":1537713585,
+    "wof:lastmodified":1566644432,
     "wof:name":"Hato Guarguapo",
     "wof:parent_id":1108694431,
     "wof:placetype":"locality",

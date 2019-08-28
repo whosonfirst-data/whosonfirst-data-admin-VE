@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.75601,
     "lbl:longitude":-68.645582,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cojedes",
     "meso:gadm_admin":"Ezequiel Zomora",
     "meso:gaul_admin":"San Carlos",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.645582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "San Carlos"
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":508,
     "wof:belongsto":[
         102191577,
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":26804509,
         "hasc:id":"VE.CO.SC",
-        "qs:id":772411
+        "qs_pg:id":772411
     },
     "wof:country":"VE",
     "wof:created":1459010011,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421200093,
-    "wof:lastmodified":1564306437,
+    "wof:lastmodified":1566646281,
     "wof:name":"San Carlos",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

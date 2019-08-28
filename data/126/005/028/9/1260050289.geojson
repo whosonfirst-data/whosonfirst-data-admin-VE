@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.64238,8.6062,-71.60238,8.6462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Blanca"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260050289,
-    "wof:lastmodified":1564305480,
+    "wof:lastmodified":1566645785,
     "wof:name":"La Blanca",
     "wof:parent_id":421173573,
     "wof:placetype":"locality",

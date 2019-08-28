@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.94158,10.43893,-66.90158,10.47893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30ed\u30b9\u30fb\u30b8\u30e3\u30eb\u30c7\u30a3\u30f3\u8af8\u5cf6"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327089163,
-    "wof:lastmodified":1564302157,
+    "wof:lastmodified":1566644107,
     "wof:name":"Los Jardines",
     "wof:parent_id":1108694107,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.987582,
     "lbl:longitude":-70.014836,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Falcon",
     "meso:gadm_admin":"Falc\u00f3n",
     "meso:gaul_admin":"Falcon",
@@ -30,6 +32,7 @@
     "mps:longitude":-70.014836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Falco"
@@ -333,7 +336,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -343,7 +346,7 @@
     "wof:concordances":{
         "gp:id":26804488,
         "hasc:id":"VE.FA.FA",
-        "qs:id":467180
+        "qs_pg:id":467180
     },
     "wof:country":"VE",
     "wof:created":1459009274,
@@ -357,7 +360,7 @@
         }
     ],
     "wof:id":421180891,
-    "wof:lastmodified":1564306391,
+    "wof:lastmodified":1566646240,
     "wof:name":"Falcon",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

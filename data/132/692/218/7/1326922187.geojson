@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.83509,4.30057,-63.79509,4.34057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urirantari\u00f1a",
         "Uriranteri\u00f1a"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326922187,
-    "wof:lastmodified":1537713508,
+    "wof:lastmodified":1566644192,
     "wof:name":"Uriranterina",
     "wof:parent_id":421175383,
     "wof:placetype":"locality",

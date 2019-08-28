@@ -9,14 +9,16 @@
     "geom:bbox":"-66.922609,10.500919,-66.922609,10.500919",
     "geom:latitude":10.500919,
     "geom:longitude":-66.922609,
-    "gn:gn_country":"VE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"VE",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.5,
     "gn:longitude":-66.91667,
+    "gn:population":0,
     "iso:country":"VE",
+    "lbl:bbox":"-66.927609,10.495919,-66.917609,10.505919",
     "lbl:latitude":10.500919,
     "lbl:longitude":-66.922609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.489838,
     "mps:longitude":-66.933272,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "El silencio"
     ],
     "name:swe_x_preferred":[
-        "El Silencio"
-    ],
-    "name:unk_x_variant":[
         "El Silencio"
     ],
     "qs:gn_adm0_cc":"VE",
@@ -90,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85680535,
         102191577,
@@ -101,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3641481,
         "gp:id":385702,
-        "qs:id":235289,
         "qs_pg:id":235289
     },
     "wof:country":"VE",
@@ -120,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564303314,
+    "wof:lastmodified":1566644696,
     "wof:name":"El Silencio",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

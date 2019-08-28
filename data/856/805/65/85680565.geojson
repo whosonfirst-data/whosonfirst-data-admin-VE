@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.93853,
     "lbl:longitude":-61.466273,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Delta Amacuro",
     "mps:latitude":9.082382,
     "mps:longitude":-61.581893,
@@ -215,7 +216,7 @@
         "Delta Amacuro"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc6\u0bb2\u0bcd\u0b9f\u0bbe  \u0b85\u0bae\u0b95\u0bc1\u0bb0\u0bcb"
+        "\u0b9f\u0bc6\u0bb2\u0bcd\u0b9f\u0bbe \u0b85\u0bae\u0b95\u0bc1\u0bb0\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c46\u0c32\u0c4d\u0c1f\u0c3e \u0c05\u0c2e\u0c3e\u0c15\u0c4d\u0c2f\u0c41\u0c30\u0c4b"
@@ -232,7 +233,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u044c\u0442\u0430-\u0410\u043c\u0430\u043a\u0443\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estado Delta Amacuro"
     ],
     "name:urd_x_preferred":[
@@ -322,9 +323,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"40,200",
     "statoids:area_mi":"15,520",
     "statoids:as_of_date":"2011-09-01",
@@ -350,7 +351,7 @@
         "gp:id":2347685,
         "hasc:id":"VE.DA",
         "iso:id":"VE-Y",
-        "qs:id":1285591,
+        "qs_pg:id":1285591,
         "unlc:id":"VE-Y",
         "wd:id":"Q201137",
         "wk:page":"Delta Amacuro"
@@ -371,11 +372,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738728,
+    "wof:lastmodified":1566644707,
     "wof:name":"Delta Amacuro",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":165525,
     "wof:population_rank":9,

@@ -10,8 +10,12 @@
     "geom:latitude":10.03757,
     "geom:longitude":-67.485408,
     "iso:country":"VE",
+    "lbl:bbox":"-67.585408,9.93757,-67.385408,10.13757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805638,
-        "qs:id":115113,
         "qs_pg:id":115113
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421195011,
-    "wof:lastmodified":1497042362,
+    "wof:lastmodified":1566646221,
     "wof:name":"Capital Zamora",
     "wof:parent_id":1108694179,
     "wof:placetype":"localadmin",

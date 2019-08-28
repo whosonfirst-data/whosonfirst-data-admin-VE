@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.20057,8.64531,-66.16057,8.68531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276631813,
-    "wof:lastmodified":1536875210,
+    "wof:lastmodified":1566645256,
     "wof:name":"Merecural",
     "wof:parent_id":421195497,
     "wof:placetype":"locality",

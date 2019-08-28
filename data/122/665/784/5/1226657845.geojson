@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.32345,8.40541,-64.28345,8.44541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226657845,
-    "wof:lastmodified":1536840924,
+    "wof:lastmodified":1566647116,
     "wof:name":"Cabeceras de Manasma",
     "wof:parent_id":421184195,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.26129,9.71433,-69.22129,9.75433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326813963,
-    "wof:lastmodified":1537072025,
+    "wof:lastmodified":1566644134,
     "wof:name":"Sabana Alta",
     "wof:parent_id":1108694427,
     "wof:placetype":"locality",

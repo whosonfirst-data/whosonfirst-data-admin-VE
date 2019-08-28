@@ -11,7 +11,7 @@
     "geom:longitude":-70.512599,
     "gn:country":"VE",
     "gn:fcode":"ADM2",
-    "gn:pop":22159,
+    "gn:population":22159,
     "iso:country":"VE",
     "label:eng_x_preferred_longname":[
         "Pampanito Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":9.413127,
     "lbl:longitude":-70.508568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Trujillo",
     "meso:gadm_admin":"Trujillo",
     "meso:gaul_admin":"Trujillo",
@@ -33,6 +35,7 @@
     "mps:longitude":-70.508568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Trujillo"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":8131505,
         "hasc:id":"VE.TR.TR",
-        "qs:id":757580
+        "qs_pg:id":757580
     },
     "wof:country":"VE",
     "wof:created":1469052252,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890439859,
-    "wof:lastmodified":1554489061,
+    "wof:lastmodified":1566646308,
     "wof:name":"Pampanito",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.07253,7.82838,-70.03253,7.86838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Catalina"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1209513403,
-    "wof:lastmodified":1564304907,
+    "wof:lastmodified":1566645493,
     "wof:name":"Catalina",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

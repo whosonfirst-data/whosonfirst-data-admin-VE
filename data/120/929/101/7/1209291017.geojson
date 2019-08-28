@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.98329,7.96974,-65.94329,8.00974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3774220
     },
     "wof:country":"VE",
-    "wof:geomhash":"5cdc05e6feb03059bee6492be3b9de82",
+    "wof:geomhash":"5c43e6ac9bed03d073b9bd2774f4b6b5",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209291017,
-    "wof:lastmodified":1536291694,
+    "wof:lastmodified":1566645505,
     "wof:name":"Sesteadero",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -65.96329,
-    7.9897399999999985,
+    7.98974,
     -65.96329,
-    7.9897399999999985
+    7.98974
 ],
   "geometry": {"coordinates":[-65.96329,7.98974],"type":"Point"}
 }

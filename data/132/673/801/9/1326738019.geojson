@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.57724,8.92147,-63.53724,8.96147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guita Fr\u00edo",
         "Quita Fr\u00edo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326738019,
-    "wof:lastmodified":1537713583,
+    "wof:lastmodified":1566644159,
     "wof:name":"Quita Frio",
     "wof:parent_id":421183227,
     "wof:placetype":"locality",

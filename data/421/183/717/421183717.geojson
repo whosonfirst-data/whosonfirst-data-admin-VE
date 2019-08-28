@@ -10,8 +10,12 @@
     "geom:latitude":10.30369,
     "geom:longitude":-65.87673,
     "iso:country":"VE",
+    "lbl:bbox":"-65.89673,10.28369,-65.85673,10.32369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tacarigua de la Laguna"
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3626562,
         "gp:id":468370,
-        "qs:id":982730,
+        "qs_pg:id":982730,
         "wd:id":"Q5665904"
     },
     "wof:country":"VE",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421183717,
-    "wof:lastmodified":1514502445,
+    "wof:lastmodified":1566646294,
     "wof:name":"Tacarigua de la laguna",
     "wof:parent_id":421204299,
     "wof:placetype":"locality",

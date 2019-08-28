@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.48148,9.52109,-70.44148,9.56109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0627\u064a"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1242929969,
-    "wof:lastmodified":1564306623,
+    "wof:lastmodified":1566646395,
     "wof:name":"Monay",
     "wof:parent_id":1108694333,
     "wof:placetype":"locality",

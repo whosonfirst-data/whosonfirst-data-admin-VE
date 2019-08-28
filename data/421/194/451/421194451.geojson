@@ -11,10 +11,14 @@
     "geom:longitude":-68.279986,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":12500,
+    "gn:population":12500,
     "iso:country":"VE",
+    "lbl:bbox":"-68.299986,10.90858,-68.259986,10.94858",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0427\u0438\u0447\u0438\u0440\u0438\u0432\u0438\u0447\u0435"
@@ -80,12 +84,12 @@
     "wof:concordances":{
         "gn:id":3645806,
         "gp:id":468455,
-        "qs:id":422686,
+        "qs_pg:id":422686,
         "wd:id":"Q2963374",
         "wk:page":"Chichiriviche"
     },
     "wof:concordances_alt":{
-        "qs:id":149641
+        "qs_pg:id":149641
     },
     "wof:country":"VE",
     "wof:created":1459009806,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421194451,
-    "wof:lastmodified":1563241063,
+    "wof:lastmodified":1566646225,
     "wof:name":"Chichiriviche",
     "wof:parent_id":421193381,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.87157,9.95904,-64.83157,9.99904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226244729,
-    "wof:lastmodified":1536935835,
+    "wof:lastmodified":1566647052,
     "wof:name":"Piedra Redonda",
     "wof:parent_id":421185095,
     "wof:placetype":"locality",

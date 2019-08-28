@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.65526,7.6241,-67.61526,7.6641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259886329,
-    "wof:lastmodified":1536775604,
+    "wof:lastmodified":1566646816,
     "wof:name":"Zamorita",
     "wof:parent_id":421171649,
     "wof:placetype":"locality",

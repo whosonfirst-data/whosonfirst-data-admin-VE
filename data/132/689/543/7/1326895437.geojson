@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.61141,10.25815,-63.57141,10.29815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Viejo"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1326895437,
-    "wof:lastmodified":1564302221,
+    "wof:lastmodified":1566644144,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":1108694383,
     "wof:placetype":"locality",

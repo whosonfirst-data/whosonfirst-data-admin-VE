@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.89926,11.14744,-71.85926,11.18744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09be"
     ],
@@ -77,8 +81,7 @@
         "Santa Teresa"
     ],
     "name:und_x_variant":[
-        "Santa Teresita",
-        "Santa Teresa"
+        "Santa Teresita"
     ],
     "name:vie_x_preferred":[
         "Santa Teresa"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1243422631,
-    "wof:lastmodified":1564307008,
+    "wof:lastmodified":1566646600,
     "wof:name":"Santa Teresa",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",

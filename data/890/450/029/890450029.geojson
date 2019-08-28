@@ -11,7 +11,7 @@
     "geom:longitude":-65.66972,
     "gn:country":"VE",
     "gn:fcode":"ADM2",
-    "gn:pop":70000,
+    "gn:population":70000,
     "iso:country":"VE",
     "label:eng_x_preferred_longname":[
         "Carvajal Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":9.889771,
     "lbl:longitude":-65.668598,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anzoategui",
     "meso:gadm_admin":"Carvajal",
     "meso:gaul_admin":"Carvajal",
@@ -33,6 +35,7 @@
     "mps:longitude":-65.668598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Carvajal"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8131506,
-        "qs:id":757581
+        "qs_pg:id":757581
     },
     "wof:country":"VE",
     "wof:created":1469052721,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890450029,
-    "wof:lastmodified":1564306468,
+    "wof:lastmodified":1566646315,
     "wof:name":"Carvajal",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

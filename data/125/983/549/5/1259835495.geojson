@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.95333,11.19667,-71.91333,11.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c-\u041c\u0456\u0440\u0430\u0434\u043e\u0440"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1259835495,
-    "wof:lastmodified":1564307193,
+    "wof:lastmodified":1566646689,
     "wof:name":"El Mirador",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",

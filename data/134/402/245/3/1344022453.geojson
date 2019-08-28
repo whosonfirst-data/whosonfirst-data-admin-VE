@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.00337,8.11219,-71.96337,8.15219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "La Grita"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1344022453,
-    "wof:lastmodified":1564303187,
+    "wof:lastmodified":1566644624,
     "wof:name":"La Grita",
     "wof:parent_id":421202067,
     "wof:placetype":"locality",

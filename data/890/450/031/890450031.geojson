@@ -11,7 +11,7 @@
     "geom:longitude":-68.726502,
     "gn:country":"VE",
     "gn:fcode":"ADM2",
-    "gn:pop":46191,
+    "gn:population":46191,
     "iso:country":"VE",
     "label:eng_x_preferred_longname":[
         "Independencia Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":10.298727,
     "lbl:longitude":-68.720287,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yaracuy",
     "meso:gadm_admin":"Sucre",
     "meso:gaul_admin":"Autonomo Sucre",
@@ -33,6 +35,7 @@
     "mps:longitude":-68.720287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Municipio Independencia"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":8131510,
         "hasc:id":"VE.AR.SU",
-        "qs:id":757582,
+        "qs_pg:id":757582,
         "wd:id":"Q607774",
         "wk:page":"Independencia, Venezuela"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890450031,
-    "wof:lastmodified":1563241260,
+    "wof:lastmodified":1566646315,
     "wof:name":"Independencia",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

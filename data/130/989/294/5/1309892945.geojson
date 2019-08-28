@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.02,11.41333,-68.98,11.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Playita",
         "Las Playitas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309892945,
-    "wof:lastmodified":1537713556,
+    "wof:lastmodified":1566646198,
     "wof:name":"Las Playitas",
     "wof:parent_id":1108694353,
     "wof:placetype":"locality",

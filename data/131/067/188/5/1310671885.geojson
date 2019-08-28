@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.89398,10.35674,-69.85398,10.39674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guayana",
         "La Guayana"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310671885,
-    "wof:lastmodified":1537713569,
+    "wof:lastmodified":1566646011,
     "wof:name":"La Guayana",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

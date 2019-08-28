@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.07917,9.61028,-71.03917,9.65028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tomoporo",
         "Tomoporo del Lago",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243512447,
-    "wof:lastmodified":1537713511,
+    "wof:lastmodified":1566646501,
     "wof:name":"Tomoporo de Agua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

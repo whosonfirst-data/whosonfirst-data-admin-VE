@@ -10,8 +10,12 @@
     "geom:latitude":8.36055,
     "geom:longitude":-71.318342,
     "iso:country":"VE",
+    "lbl:bbox":"-71.418342,8.26055,-71.218342,8.46055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805266,
-        "qs:id":224839,
         "qs_pg:id":224839
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421202603,
-    "wof:lastmodified":1497048913,
+    "wof:lastmodified":1566646234,
     "wof:name":"Pueblo Nuevo del Sur",
     "wof:parent_id":421171999,
     "wof:placetype":"localadmin",

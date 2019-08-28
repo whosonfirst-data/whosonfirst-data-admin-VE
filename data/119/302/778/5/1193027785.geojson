@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.39349,7.88815,-65.35349,7.92815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193027785,
-    "wof:lastmodified":1536366464,
+    "wof:lastmodified":1566645634,
     "wof:name":"Las Penitas",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

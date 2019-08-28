@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.256612,
     "lbl:longitude":-68.282609,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Barinas",
     "meso:gadm_admin":"Arismendi",
     "meso:gaul_admin":"Arismendi",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.282609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Arismendi"
     ],
@@ -70,7 +73,7 @@
         "\u963f\u91cc\u65af\u9580\u8fea\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108694099,
-    "wof:lastmodified":1563240304,
+    "wof:lastmodified":1566645806,
     "wof:name":"Arismendi",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

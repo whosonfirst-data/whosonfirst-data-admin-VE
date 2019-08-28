@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.89229,10.92517,-63.85229,10.96517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1225808463,
-    "wof:lastmodified":1537064759,
+    "wof:lastmodified":1566646998,
     "wof:name":"El Cuarto",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

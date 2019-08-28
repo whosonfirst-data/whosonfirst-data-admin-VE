@@ -10,8 +10,12 @@
     "geom:latitude":10.157688,
     "geom:longitude":-68.56842,
     "iso:country":"VE",
+    "lbl:bbox":"-68.66842,10.057688,-68.46842,10.257688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804825,
-        "qs:id":469410
+        "qs_pg:id":469410
     },
     "wof:country":"VE",
     "wof:created":1459009277,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421180969,
-    "wof:lastmodified":1500034194,
+    "wof:lastmodified":1566646240,
     "wof:name":"Capital Nirgua",
     "wof:parent_id":421172277,
     "wof:placetype":"localadmin",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.027488,
     "lbl:longitude":-65.792541,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Amazonas",
     "mps:latitude":3.285858,
     "mps:longitude":-65.910053,
@@ -341,9 +342,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"180,145",
     "statoids:area_mi":"69,550",
     "statoids:as_of_date":"2011-09-01",
@@ -368,7 +369,7 @@
         "gp:id":2347677,
         "hasc:id":"VE.AM",
         "iso:id":"VE-Z",
-        "qs:id":1083881,
+        "qs_pg:id":1083881,
         "unlc:id":"VE-Z",
         "wd:id":"Q170453",
         "wk:page":"Amazonas (Venezuelan state)"
@@ -389,11 +390,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738726,
+    "wof:lastmodified":1566644703,
     "wof:name":"Amazonas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":146480,
     "wof:population_rank":9,

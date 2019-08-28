@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.18667,11.21333,-69.14667,11.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Espinal"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1343838273,
-    "wof:lastmodified":1564302923,
+    "wof:lastmodified":1566644491,
     "wof:name":"Espinal",
     "wof:parent_id":1108694353,
     "wof:placetype":"locality",

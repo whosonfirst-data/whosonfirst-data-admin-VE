@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.291232,
     "lbl:longitude":-69.986744,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Portuguesa",
     "meso:gadm_admin":"Sucre",
     "meso:gaul_admin":"Sucre",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.986744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
     ],
@@ -352,7 +355,7 @@
         "\u82cf\u514b\u96f7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -374,7 +377,7 @@
         }
     ],
     "wof:id":1108694441,
-    "wof:lastmodified":1564305514,
+    "wof:lastmodified":1566645814,
     "wof:name":"Sucre",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

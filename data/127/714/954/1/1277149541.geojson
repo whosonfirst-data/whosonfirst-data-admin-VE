@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.47,10.36333,-66.43,10.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pato Gacho",
         "Palo Gacho"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277149541,
-    "wof:lastmodified":1537713532,
+    "wof:lastmodified":1566645154,
     "wof:name":"Palo Gacho",
     "wof:parent_id":421202063,
     "wof:placetype":"locality",

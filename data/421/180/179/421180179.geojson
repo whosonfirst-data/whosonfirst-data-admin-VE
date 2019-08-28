@@ -10,10 +10,14 @@
     "geom:latitude":8.56667,
     "geom:longitude":-71.2,
     "iso:country":"VE",
+    "lbl:bbox":"-71.22,8.54667,-71.18,8.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parroquia"
     ],
     "qs:gn_country":"VE",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3636855,
         "gp:id":468239,
-        "qs:id":419057
+        "qs_pg:id":419057
     },
     "wof:country":"VE",
     "wof:created":1459009247,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421180179,
-    "wof:lastmodified":1501268328,
+    "wof:lastmodified":1566646241,
     "wof:name":"La Parroquia",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-67.485408,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":76614,
+    "gn:population":76614,
     "iso:country":"VE",
+    "lbl:bbox":"-67.505408,10.01757,-67.465408,10.05757",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Villa de Cura"
@@ -71,12 +75,12 @@
     "wof:concordances":{
         "gn:id":3625341,
         "gp:id":395285,
-        "qs:id":268874,
+        "qs_pg:id":268874,
         "wd:id":"Q2721732",
         "wk:page":"Villa de Cura"
     },
     "wof:concordances_alt":{
-        "qs:id":149532
+        "qs_pg:id":149532
     },
     "wof:country":"VE",
     "wof:created":1459008698,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421166653,
-    "wof:lastmodified":1563241044,
+    "wof:lastmodified":1566646215,
     "wof:name":"Villa de Cura",
     "wof:parent_id":1108694179,
     "wof:placetype":"locality",

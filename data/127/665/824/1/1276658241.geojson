@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.47,7.84667,-67.43,7.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Engleterra",
         "Inglaterra"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276658241,
-    "wof:lastmodified":1537713581,
+    "wof:lastmodified":1566645279,
     "wof:name":"Inglaterra",
     "wof:parent_id":1108694389,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.03667,11.06333,-70.99667,11.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0641\u0631\u0627\u0646\u0643\u0648"
     ],
@@ -102,8 +106,7 @@
         "\u0415\u043b\u044c-\u0424\u0440\u0430\u043d\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "Puerto Franco",
-        "El Franco"
+        "Puerto Franco"
     ],
     "name:uzb_x_preferred":[
         "El Franco"
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1243350703,
-    "wof:lastmodified":1564306814,
+    "wof:lastmodified":1566646494,
     "wof:name":"El Franco",
     "wof:parent_id":1108694281,
     "wof:placetype":"locality",

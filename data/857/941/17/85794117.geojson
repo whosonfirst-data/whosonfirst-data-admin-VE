@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":53869796.532241,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.201744,11.703694,-70.201744,11.703694",
     "geom:latitude":11.703694,
     "geom:longitude":-70.201744,
-    "gn:gn_country":"VE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"VE",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.68333,
     "gn:longitude":-70.2,
+    "gn:population":0,
     "iso:country":"VE",
+    "lbl:bbox":"-70.206744,11.698694,-70.196744,11.708694",
     "lbl:latitude":11.703694,
     "lbl:longitude":-70.201744,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.704522,
     "mps:longitude":-70.203148,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Barrio Andres Eloy Blanco"
     ],
     "name:spa_x_preferred":[
-        "Barrio Andr\u00e9s Eloy Blanco"
-    ],
-    "name:unk_x_variant":[
         "Barrio Andr\u00e9s Eloy Blanco"
     ],
     "qs:gn_adm0_cc":"VE",
@@ -85,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85680461,
         102191577,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3648463,
         "gp:id":381559,
-        "qs:id":277839,
         "qs_pg:id":277839
     },
     "wof:country":"VE",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1566644696,
     "wof:name":"Barrio Andr\u00e9s Eloy Blanco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

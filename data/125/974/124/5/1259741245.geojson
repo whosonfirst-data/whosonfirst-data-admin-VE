@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.995,11.36278,-71.955,11.40278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Gloria"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1259741245,
-    "wof:lastmodified":1564307410,
+    "wof:lastmodified":1566646799,
     "wof:name":"La Gloria",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",

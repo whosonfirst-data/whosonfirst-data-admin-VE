@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.82,9.98,-67.78,10.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0633\u064a\u0644\u064a\u0627"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1209026589,
-    "wof:lastmodified":1564304913,
+    "wof:lastmodified":1566645496,
     "wof:name":"Cecilia",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

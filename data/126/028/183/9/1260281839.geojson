@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.64977,8.30651,-69.60977,8.34651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Libertad"
     ],
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":1260281839,
-    "wof:lastmodified":1564305428,
+    "wof:lastmodified":1566645757,
     "wof:name":"Libertad",
     "wof:parent_id":1108694375,
     "wof:placetype":"locality",

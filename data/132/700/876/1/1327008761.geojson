@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.10333,9.83,-70.06333,9.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327008761,
-    "wof:lastmodified":1536794910,
+    "wof:lastmodified":1566644124,
     "wof:name":"La Culebrita",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

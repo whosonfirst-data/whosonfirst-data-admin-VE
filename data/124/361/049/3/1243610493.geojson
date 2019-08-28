@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.82601,9.90606,-68.78601,9.94606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243610493,
-    "wof:lastmodified":1537063412,
+    "wof:lastmodified":1566646475,
     "wof:name":"Las Mulas",
     "wof:parent_id":421172277,
     "wof:placetype":"locality",

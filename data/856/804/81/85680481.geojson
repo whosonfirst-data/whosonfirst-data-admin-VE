@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.846016,
     "lbl:longitude":-72.034959,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"T\u00e1chira",
     "mps:latitude":7.821414,
     "mps:longitude":-72.059483,
@@ -318,9 +319,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"11,100",
     "statoids:area_mi":"4,290",
     "statoids:as_of_date":"2011-09-01",
@@ -346,7 +347,7 @@
         "gp:id":2347696,
         "hasc:id":"VE.TA",
         "iso:id":"VE-S",
-        "qs:id":235661,
+        "qs_pg:id":235661,
         "unlc:id":"VE-S",
         "wd:id":"Q41144",
         "wk:page":"T\u00e1chira"
@@ -367,11 +368,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738724,
+    "wof:lastmodified":1566644699,
     "wof:name":"T\u00e1chira",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1168908,
     "wof:population_rank":12,

@@ -10,8 +10,12 @@
     "geom:latitude":9.29744,
     "geom:longitude":-70.67156,
     "iso:country":"VE",
+    "lbl:bbox":"-70.77156,9.19744,-70.57156,9.39744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3640956,
         "gp:id":26804860,
-        "qs:id":957435
+        "qs_pg:id":957435
     },
     "wof:country":"VE",
     "wof:created":1459009063,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421175321,
-    "wof:lastmodified":1500034089,
+    "wof:lastmodified":1566646267,
     "wof:name":"Escuque",
     "wof:parent_id":421182049,
     "wof:placetype":"localadmin",

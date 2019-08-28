@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.00465,9.37452,-69.96465,9.41452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Palmares"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276845717,
-    "wof:lastmodified":1537713645,
+    "wof:lastmodified":1566645230,
     "wof:name":"Los Palmares",
     "wof:parent_id":1108694441,
     "wof:placetype":"locality",

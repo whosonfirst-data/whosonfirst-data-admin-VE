@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.450218,
     "lbl:longitude":-67.008397,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Distrito Federal",
     "meso:gadm_admin":"Libertador",
     "meso:gaul_admin":"Libertador",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.008397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cym_x_preferred":[
         "Aquiles Nazoa"
     ],
@@ -46,7 +49,7 @@
         "Aquiles Nazoa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694091,
-    "wof:lastmodified":1564305504,
+    "wof:lastmodified":1566645806,
     "wof:name":"Aquiles Nazoa",
     "wof:parent_id":85680535,
     "wof:placetype":"county",

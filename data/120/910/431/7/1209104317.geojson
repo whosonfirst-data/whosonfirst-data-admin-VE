@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.00333,8.33,-70.96333,8.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Llinu"
     ],
@@ -72,8 +76,7 @@
         "\u041b\u0456\u043d\u043e"
     ],
     "name:und_x_variant":[
-        "Tino",
-        "Lino"
+        "Tino"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1209104317,
-    "wof:lastmodified":1564305053,
+    "wof:lastmodified":1566645563,
     "wof:name":"Lino",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

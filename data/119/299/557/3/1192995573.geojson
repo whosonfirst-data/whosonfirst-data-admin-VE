@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.79587,10.85937,-69.75587,10.89937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1192995573,
-    "wof:lastmodified":1536376223,
+    "wof:lastmodified":1566645646,
     "wof:name":"Balcon",
     "wof:parent_id":1108694189,
     "wof:placetype":"locality",

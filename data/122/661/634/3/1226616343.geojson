@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.60889,8.44037,-71.56889,8.48037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b0\u09cd\u09ae\u09c7\u09b2\u09cb"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1226616343,
-    "wof:lastmodified":1564307762,
+    "wof:lastmodified":1566646981,
     "wof:name":"Monte Carmelo",
     "wof:parent_id":421171997,
     "wof:placetype":"locality",

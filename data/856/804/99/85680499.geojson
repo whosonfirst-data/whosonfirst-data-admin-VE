@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.186328,
     "lbl:longitude":-69.785768,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Lara",
     "mps:latitude":10.153734,
     "mps:longitude":-69.764755,
@@ -303,9 +304,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"19,800",
     "statoids:area_mi":"7,640",
     "statoids:as_of_date":"2011-09-01",
@@ -330,7 +331,7 @@
         "gp:id":2347689,
         "hasc:id":"VE.LA",
         "iso:id":"VE-K",
-        "qs:id":1285595,
+        "qs_pg:id":1285595,
         "unlc:id":"VE-K",
         "wd:id":"Q205796",
         "wk:page":"Lara (state)"
@@ -351,11 +352,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738725,
+    "wof:lastmodified":1566644701,
     "wof:name":"Lara",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1774867,
     "wof:population_rank":12,

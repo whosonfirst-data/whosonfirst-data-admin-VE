@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.177154,
     "lbl:longitude":-63.393449,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Monagas",
     "meso:gadm_admin":"Caripe",
     "meso:gaul_admin":"Caripe",
@@ -30,6 +32,7 @@
     "mps:longitude":-63.393449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Caripe"
@@ -96,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"947",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Caripe",
@@ -120,7 +123,7 @@
         "gn:id":3646536,
         "gp:id":26804663,
         "hasc:id":"VE.MO.CA",
-        "qs:id":1063002,
+        "qs_pg:id":1063002,
         "wd:id":"Q2938835"
     },
     "wof:country":"VE",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421186265,
-    "wof:lastmodified":1563241143,
+    "wof:lastmodified":1566646260,
     "wof:name":"Caripe",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

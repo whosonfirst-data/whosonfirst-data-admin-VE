@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.185071,
     "lbl:longitude":-67.334617,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aragua",
     "meso:gadm_admin":"Jos\u00e9 F\u00e9lix Ribas",
     "meso:gaul_admin":"Jose Felix Ribas",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.334617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jos\u00e9 F\u00e9lix Ribas"
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":679,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gp:id":26804613,
         "hasc:id":"VE.AR.JF",
-        "qs:id":1001535,
+        "qs_pg:id":1001535,
         "wd:id":"Q3624022"
     },
     "wof:country":"VE",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421184557,
-    "wof:lastmodified":1563241198,
+    "wof:lastmodified":1566646285,
     "wof:name":"Jose Felix Ribas",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

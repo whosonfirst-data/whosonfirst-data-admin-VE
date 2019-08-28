@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.72063,9.46802,-63.68063,9.50802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343929381,
-    "wof:lastmodified":1537062155,
+    "wof:lastmodified":1566644556,
     "wof:name":"Boca de Solosa",
     "wof:parent_id":1108694065,
     "wof:placetype":"locality",

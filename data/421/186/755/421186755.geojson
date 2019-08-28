@@ -11,10 +11,14 @@
     "geom:longitude":-66.010391,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":89080,
+    "gn:population":89080,
     "iso:country":"VE",
+    "lbl:bbox":"-66.030391,9.192625,-65.990391,9.232625",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u064a \u062f\u064a \u0644\u0627 \u0628\u0627\u0633\u0643\u0648\u0627"
@@ -101,7 +105,7 @@
         "Valle de la Pascua"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bb2\u0bcd\u0bb2\u0bc7  \u0b9f\u0bc7  \u0bb2\u0bbe  \u0baa\u0bb8\u0bcd\u0b95\u0bc1\u0bb5\u0bbe"
+        "\u0bb5\u0bb2\u0bcd\u0bb2\u0bc7 \u0b9f\u0bc7 \u0bb2\u0bbe \u0baa\u0bb8\u0bcd\u0b95\u0bc1\u0bb5\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c32\u0c4d\u0c32\u0c47 \u0c21\u0c3f \u0c32\u0c3e \u0c2a\u0c38\u0c4d\u0c15\u0c41 \u0c06"
@@ -115,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0435-\u0434\u0435-\u041b\u0430-\u041f\u0430\u0441\u043a\u0443\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valle de Pascua"
     ],
     "name:urd_x_preferred":[
@@ -161,12 +165,12 @@
     "wof:concordances":{
         "gn:id":3625515,
         "gp:id":395284,
-        "qs:id":1075908,
+        "qs_pg:id":1075908,
         "wd:id":"Q1308292",
         "wk:page":"Valle de la Pascua"
     },
     "wof:concordances_alt":{
-        "qs:id":274457
+        "qs_pg:id":274457
     },
     "wof:country":"VE",
     "wof:created":1459009490,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":421186755,
-    "wof:lastmodified":1561827239,
+    "wof:lastmodified":1566646257,
     "wof:name":"Valle de la Pascua",
     "wof:parent_id":421195497,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.792716,
     "lbl:longitude":-69.149334,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lara",
     "meso:gadm_admin":"Sim\u00f3n Planas",
     "meso:gaul_admin":"Simon Planas",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.149334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sim\u00f3n Planas"
     ],
@@ -63,9 +66,9 @@
         "\u897f\u8499\u666e\u62c9\u7d0d\u65af\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"873",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Sarare",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108694427,
-    "wof:lastmodified":1561827222,
+    "wof:lastmodified":1566645819,
     "wof:name":"Simon Planas",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

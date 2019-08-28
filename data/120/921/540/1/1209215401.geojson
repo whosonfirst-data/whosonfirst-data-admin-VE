@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.22,7.74667,-68.18,7.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3646910
     },
     "wof:country":"VE",
-    "wof:geomhash":"2ed6118061ff5d45c51edf8d45b6073e",
+    "wof:geomhash":"26d8663c268e54154607586f5c783d29",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209215401,
-    "wof:lastmodified":1536294149,
+    "wof:lastmodified":1566645549,
     "wof:name":"Cano Seco",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -68.2,
-    7.766669999999999,
+    7.76667,
     -68.2,
-    7.766669999999999
+    7.76667
 ],
   "geometry": {"coordinates":[-68.2,7.76667],"type":"Point"}
 }

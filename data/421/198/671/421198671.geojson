@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.218652,
     "lbl:longitude":-61.168964,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bolivar",
     "meso:gadm_admin":"El Callao",
     "meso:gaul_admin":"El Callao",
@@ -30,6 +32,7 @@
     "mps:longitude":-61.168964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "El Callao"
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"2223",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"El Callao",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":26804569,
         "hasc:id":"VE.BO.EC",
-        "qs:id":430284,
+        "qs_pg:id":430284,
         "wd:id":"Q2450334"
     },
     "wof:country":"VE",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421198671,
-    "wof:lastmodified":1561827242,
+    "wof:lastmodified":1566646269,
     "wof:name":"Sifontes",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

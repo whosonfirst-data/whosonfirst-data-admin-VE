@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.042301,
     "lbl:longitude":-71.739035,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Zulia",
     "meso:gadm_admin":"Almirante Padilla",
     "meso:gaul_admin":"Almirante Padilla",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.739035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Municipality Almirante Padilla"
     ],
@@ -65,9 +68,9 @@
         "\u5e15\u8fea\u62c9\u6d77\u8ecd\u4e0a\u5c07\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"151",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"El Toro",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108694067,
-    "wof:lastmodified":1563240293,
+    "wof:lastmodified":1566645800,
     "wof:name":"Almirante Padilla",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

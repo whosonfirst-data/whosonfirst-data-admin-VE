@@ -10,8 +10,12 @@
     "geom:latitude":9.742794,
     "geom:longitude":-69.65229,
     "iso:country":"VE",
+    "lbl:bbox":"-69.75229,9.642794,-69.55229,9.842794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805334,
-        "qs:id":907423,
         "qs_pg:id":907423
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421193015,
-    "wof:lastmodified":1497047457,
+    "wof:lastmodified":1566646226,
     "wof:name":"Pio Tamayo",
     "wof:parent_id":421183169,
     "wof:placetype":"localadmin",

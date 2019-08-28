@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.68356,9.25912,-64.64356,9.29912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Manuel"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1277076473,
-    "wof:lastmodified":1564303956,
+    "wof:lastmodified":1566645023,
     "wof:name":"San Manuel",
     "wof:parent_id":1108694409,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.22492,11.16879,-70.18492,11.20879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cucurulla"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1259363221,
-    "wof:lastmodified":1564307068,
+    "wof:lastmodified":1566646632,
     "wof:name":"Capirote",
     "wof:parent_id":1108694471,
     "wof:placetype":"locality",

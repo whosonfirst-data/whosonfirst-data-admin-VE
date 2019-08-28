@@ -10,8 +10,12 @@
     "geom:latitude":10.132215,
     "geom:longitude":-66.791381,
     "iso:country":"VE",
+    "lbl:bbox":"-66.891381,10.032215,-66.691381,10.232215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ocumare del Tuy"
@@ -77,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805224,
-        "qs:id":1113799,
         "qs_pg:id":1113799
     },
     "wof:country":"VE",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421189485,
-    "wof:lastmodified":1564306400,
+    "wof:lastmodified":1566646247,
     "wof:name":"Ocumare del Tuy",
     "wof:parent_id":1108694243,
     "wof:placetype":"localadmin",

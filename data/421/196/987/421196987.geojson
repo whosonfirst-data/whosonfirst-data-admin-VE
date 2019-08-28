@@ -10,8 +10,12 @@
     "geom:latitude":7.955622,
     "geom:longitude":-72.174339,
     "iso:country":"VE",
+    "lbl:bbox":"-72.274339,7.855622,-72.074339,8.055622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804996,
-        "qs:id":1263818,
         "qs_pg:id":1263818
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421196987,
-    "wof:lastmodified":1497042683,
+    "wof:lastmodified":1566646272,
     "wof:name":"Capital Michelena",
     "wof:parent_id":1108694287,
     "wof:placetype":"localadmin",

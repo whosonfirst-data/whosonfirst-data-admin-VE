@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.57667,10.84111,-69.53667,10.88111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Obispo"
     ],
@@ -48,8 +52,7 @@
         "Obispo"
     ],
     "name:und_x_variant":[
-        "Obispos",
-        "Obispo"
+        "Obispos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226119793,
-    "wof:lastmodified":1564307654,
+    "wof:lastmodified":1566646925,
     "wof:name":"Obispo",
     "wof:parent_id":1108694189,
     "wof:placetype":"locality",

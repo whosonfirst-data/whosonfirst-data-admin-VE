@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.48466,7.69412,-71.44466,7.73412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Mar\u00eda de Caparo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209899309,
-    "wof:lastmodified":1537713515,
+    "wof:lastmodified":1566645530,
     "wof:name":"Santa Maria de Caparo",
     "wof:parent_id":1108694323,
     "wof:placetype":"locality",

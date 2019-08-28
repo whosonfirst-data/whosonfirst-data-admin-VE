@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.9467,10.03819,-66.9067,10.07819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Palacio"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243426991,
-    "wof:lastmodified":1564307003,
+    "wof:lastmodified":1566646597,
     "wof:name":"Palacio",
     "wof:parent_id":421170247,
     "wof:placetype":"locality",

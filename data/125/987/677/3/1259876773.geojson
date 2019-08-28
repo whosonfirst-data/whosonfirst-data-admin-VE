@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-64.28333,7.90278,-64.24333,7.94278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "La-Manqa dili"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1259876773,
-    "wof:lastmodified":1564307399,
+    "wof:lastmodified":1566646792,
     "wof:name":"La Manga",
     "wof:parent_id":421175383,
     "wof:placetype":"locality",

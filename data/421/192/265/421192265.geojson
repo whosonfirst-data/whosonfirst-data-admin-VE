@@ -10,8 +10,12 @@
     "geom:latitude":9.42716,
     "geom:longitude":-70.48355,
     "iso:country":"VE",
+    "lbl:bbox":"-70.50355,9.40716,-70.46355,9.44716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Mucuch\u00edes"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3631753,
         "gp:id":468291,
-        "qs:id":1165504,
+        "qs_pg:id":1165504,
         "wd:id":"Q1951681"
     },
     "wof:country":"VE",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421192265,
-    "wof:lastmodified":1563241049,
+    "wof:lastmodified":1566646217,
     "wof:name":"Mucuch\u00edes",
     "wof:parent_id":890439859,
     "wof:placetype":"locality",

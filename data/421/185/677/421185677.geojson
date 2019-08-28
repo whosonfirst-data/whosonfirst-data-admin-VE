@@ -10,8 +10,12 @@
     "geom:latitude":7.80679,
     "geom:longitude":-72.07042,
     "iso:country":"VE",
+    "lbl:bbox":"-72.09042,7.78679,-72.05042,7.82679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "El Cobre"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3759286,
         "gp:id":468194,
-        "qs:id":899935,
+        "qs_pg:id":899935,
         "wd:id":"Q10271130"
     },
     "wof:country":"VE",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421185677,
-    "wof:lastmodified":1563241237,
+    "wof:lastmodified":1566646305,
     "wof:name":"El Cobre",
     "wof:parent_id":421196939,
     "wof:placetype":"locality",

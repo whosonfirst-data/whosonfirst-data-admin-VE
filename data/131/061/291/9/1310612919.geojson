@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.40605,8.90184,-63.36605,8.94184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310612919,
-    "wof:lastmodified":1536762217,
+    "wof:lastmodified":1566645972,
     "wof:name":"Las Piraguas",
     "wof:parent_id":421203571,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":7.456432,
     "geom:longitude":-72.344455,
     "iso:country":"VE",
+    "lbl:bbox":"-72.444455,7.356432,-72.244455,7.556432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Delicias"
@@ -77,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805007,
-        "qs:id":1110138,
         "qs_pg:id":1110138
     },
     "wof:country":"VE",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421189099,
-    "wof:lastmodified":1564306402,
+    "wof:lastmodified":1566646247,
     "wof:name":"Delicias",
     "wof:parent_id":421185265,
     "wof:placetype":"localadmin",

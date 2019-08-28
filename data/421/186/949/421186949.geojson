@@ -10,8 +10,12 @@
     "geom:latitude":8.3153,
     "geom:longitude":-62.705326,
     "iso:country":"VE",
+    "lbl:bbox":"-62.725326,8.2953,-62.685326,8.3353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468399,
-        "qs:id":1077536
+        "qs_pg:id":1077536
     },
     "wof:country":"VE",
     "wof:created":1459009497,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186949,
-    "wof:lastmodified":1500034327,
+    "wof:lastmodified":1566646259,
     "wof:name":"Puerto Ordaz",
     "wof:parent_id":421190237,
     "wof:placetype":"locality",

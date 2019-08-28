@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.80576,10.99277,-70.76576,11.03277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293078369,
-    "wof:lastmodified":1536879195,
+    "wof:lastmodified":1566644720,
     "wof:name":"El Yabito",
     "wof:parent_id":1108694131,
     "wof:placetype":"locality",

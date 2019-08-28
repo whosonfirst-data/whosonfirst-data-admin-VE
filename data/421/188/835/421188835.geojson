@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.422867,
     "lbl:longitude":-67.726546,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Aragua",
     "meso:gadm_admin":"Ocumare de la Costa de Oro",
     "meso:gaul_admin":"Mario Briceno Iragorry",
@@ -30,6 +32,7 @@
     "mps:longitude":-67.726546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Mario Brice\u00f1o Iragorry"
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":165,
     "wof:belongsto":[
         102191577,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gp:id":26804619,
         "hasc:id":"VE.AR.OC",
-        "qs:id":1104443,
+        "qs_pg:id":1104443,
         "wd:id":"Q9291717"
     },
     "wof:country":"VE",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421188835,
-    "wof:lastmodified":1563241118,
+    "wof:lastmodified":1566646251,
     "wof:name":"Mario Brice\u00f1o Iragorri",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

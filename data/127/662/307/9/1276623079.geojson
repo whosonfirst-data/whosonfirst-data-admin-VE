@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.505,10.15765,-68.465,10.19765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Salon",
         "Salom"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276623079,
-    "wof:lastmodified":1537713521,
+    "wof:lastmodified":1566645265,
     "wof:name":"Salom",
     "wof:parent_id":421172277,
     "wof:placetype":"locality",

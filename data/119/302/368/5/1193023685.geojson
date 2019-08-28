@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.16455,7.86727,-65.12455,7.90727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193023685,
-    "wof:lastmodified":1536370460,
+    "wof:lastmodified":1566645635,
     "wof:name":"Puerto Anache",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

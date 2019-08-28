@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.27265,9.02402,-63.23265,9.06402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293560693,
-    "wof:lastmodified":1536681628,
+    "wof:lastmodified":1566644886,
     "wof:name":"Caratal del Tigre",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

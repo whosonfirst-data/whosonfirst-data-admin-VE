@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.26556,11.13341,-70.22556,11.17341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "La Pastora"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1293377219,
-    "wof:lastmodified":1564303392,
+    "wof:lastmodified":1566644759,
     "wof:name":"La Pastora",
     "wof:parent_id":1108694471,
     "wof:placetype":"locality",

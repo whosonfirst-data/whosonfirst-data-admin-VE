@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.42711,11.19819,-69.38711,11.23819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Guadalupe"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1243541795,
-    "wof:lastmodified":1564306506,
+    "wof:lastmodified":1566646335,
     "wof:name":"La Guadalupe",
     "wof:parent_id":421180897,
     "wof:placetype":"locality",

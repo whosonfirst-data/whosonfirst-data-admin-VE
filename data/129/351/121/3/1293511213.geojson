@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.28509,7.16156,-66.24509,7.20156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293511213,
-    "wof:lastmodified":1536752857,
+    "wof:lastmodified":1566644887,
     "wof:name":"El Chorizo",
     "wof:parent_id":421196979,
     "wof:placetype":"locality",

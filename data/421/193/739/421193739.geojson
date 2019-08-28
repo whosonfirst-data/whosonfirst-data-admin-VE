@@ -10,8 +10,12 @@
     "geom:latitude":11.914944,
     "geom:longitude":-69.919601,
     "iso:country":"VE",
+    "lbl:bbox":"-70.0196015,11.814944,-69.8196015,12.014944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
@@ -86,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805463,
-        "qs:id":1184617
+        "qs_pg:id":1184617
     },
     "wof:country":"VE",
     "wof:created":1459009781,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421193739,
-    "wof:lastmodified":1564306375,
+    "wof:lastmodified":1566646225,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421180891,
     "wof:placetype":"localadmin",

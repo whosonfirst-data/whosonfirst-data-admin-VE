@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.59143,10.19876,-67.55143,10.23876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guaruto",
         "Garuto",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193049845,
-    "wof:lastmodified":1537713584,
+    "wof:lastmodified":1566645633,
     "wof:name":"El Guaruto",
     "wof:parent_id":421171995,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.464654,
     "geom:longitude":-66.969909,
     "iso:country":"VE",
+    "lbl:bbox":"-67.069909,10.364654,-66.869909,10.564654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "La Vega"
@@ -77,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804813,
-        "qs:id":114649
+        "qs_pg:id":114649
     },
     "wof:country":"VE",
     "wof:created":1459009850,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421195507,
-    "wof:lastmodified":1564306369,
+    "wof:lastmodified":1566646221,
     "wof:name":"La Vega",
     "wof:parent_id":1108694091,
     "wof:placetype":"localadmin",

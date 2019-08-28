@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.5409,6.96268,-68.5009,7.00268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fundo Las Pi\u00f1as",
         "Las Pi\u00f1as"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209321021,
-    "wof:lastmodified":1537713557,
+    "wof:lastmodified":1566645468,
     "wof:name":"Fundo Las Pinas",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

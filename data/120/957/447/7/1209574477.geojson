@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.2599,7.64949,-72.2199,7.68949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Tambo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209574477,
-    "wof:lastmodified":1564304830,
+    "wof:lastmodified":1566645449,
     "wof:name":"El Tambo",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

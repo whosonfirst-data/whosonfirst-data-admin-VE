@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.090107,
     "lbl:longitude":-69.772823,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Falc\u00f3n",
     "mps:latitude":11.077222,
     "mps:longitude":-69.817523,
@@ -310,9 +311,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"24,800",
     "statoids:area_mi":"9,580",
     "statoids:as_of_date":"2011-09-01",
@@ -338,7 +339,7 @@
         "gp:id":2347687,
         "hasc:id":"VE.FA",
         "iso:id":"VE-I",
-        "qs:id":1285594,
+        "qs_pg:id":1285594,
         "unlc:id":"VE-I",
         "wd:id":"Q202071",
         "wk:page":"Falc\u00f3n"
@@ -359,11 +360,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738722,
+    "wof:lastmodified":1566644697,
     "wof:name":"Falc\u00f3n",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":902847,
     "wof:population_rank":11,

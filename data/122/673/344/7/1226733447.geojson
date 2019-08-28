@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.82749,10.62794,-69.78749,10.66794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Panama"
     ],
@@ -630,7 +634,7 @@
         }
     ],
     "wof:id":1226733447,
-    "wof:lastmodified":1564307634,
+    "wof:lastmodified":1566646915,
     "wof:name":"Panama",
     "wof:parent_id":1108694469,
     "wof:placetype":"locality",

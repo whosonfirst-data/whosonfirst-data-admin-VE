@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.36207,8.17397,-65.32207,8.21397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309805621,
-    "wof:lastmodified":1536932021,
+    "wof:lastmodified":1566646193,
     "wof:name":"Roncador",
     "wof:parent_id":1108694301,
     "wof:placetype":"locality",

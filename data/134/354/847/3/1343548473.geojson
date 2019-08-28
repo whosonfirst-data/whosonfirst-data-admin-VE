@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.60201,11.38397,-69.56201,11.42397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saladillo"
     ],
@@ -44,8 +48,7 @@
         "Saladillo"
     ],
     "name:und_x_variant":[
-        "El Saladillo",
-        "Saladillo"
+        "El Saladillo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343548473,
-    "wof:lastmodified":1564302746,
+    "wof:lastmodified":1566644402,
     "wof:name":"Saladillo",
     "wof:parent_id":421180897,
     "wof:placetype":"locality",

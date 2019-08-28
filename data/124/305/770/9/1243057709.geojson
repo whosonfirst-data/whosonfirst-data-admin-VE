@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.33667,9.23,-68.29667,9.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Corcova",
         "La Corcoba"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243057709,
-    "wof:lastmodified":1537713573,
+    "wof:lastmodified":1566646519,
     "wof:name":"La Corcoba",
     "wof:parent_id":1108694337,
     "wof:placetype":"locality",

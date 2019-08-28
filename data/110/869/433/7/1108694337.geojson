@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.400861,
     "lbl:longitude":-68.107024,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cojedes",
     "meso:gadm_admin":"Pao de San Juan Bautista",
     "meso:gaul_admin":"Pao De San Juan Bautista",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.107024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pao de San Juan Bautista"
     ],
@@ -63,9 +66,9 @@
         "\u4fdd\u5fb7\u8056\u80e1\u5b89\u5305\u8482\u65af\u5854\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"5269",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"El Pao",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108694337,
-    "wof:lastmodified":1561827222,
+    "wof:lastmodified":1566645821,
     "wof:name":"Pao De San Juan Bautista",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

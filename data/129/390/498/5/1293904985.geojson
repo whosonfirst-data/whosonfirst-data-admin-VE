@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.33992,7.43209,-63.29992,7.47209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ciudad Piar"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293904985,
-    "wof:lastmodified":1564303451,
+    "wof:lastmodified":1566644788,
     "wof:name":"Ciudad Piar",
     "wof:parent_id":421196981,
     "wof:placetype":"locality",

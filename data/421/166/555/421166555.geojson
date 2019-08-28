@@ -10,8 +10,12 @@
     "geom:latitude":11.06667,
     "geom:longitude":-63.98333,
     "iso:country":"VE",
+    "lbl:bbox":"-64.00333,11.04667,-63.96333,11.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441 \u041f\u0438\u0435\u0434\u0440\u0430\u0441"
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3635465,
         "gp:id":468255,
-        "qs:id":267372
+        "qs_pg:id":267372
     },
     "wof:country":"VE",
     "wof:created":1459008694,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421166555,
-    "wof:lastmodified":1564306358,
+    "wof:lastmodified":1566646214,
     "wof:name":"Las Piedras",
     "wof:parent_id":421196983,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.06291,9.25116,-69.02291,9.29116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Micro del Este"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327495987,
-    "wof:lastmodified":1537713645,
+    "wof:lastmodified":1566644229,
     "wof:name":"Micro del Este",
     "wof:parent_id":1108694461,
     "wof:placetype":"locality",

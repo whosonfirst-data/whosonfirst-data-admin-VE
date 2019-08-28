@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.28607,10.09987,-70.24607,10.13987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327113533,
-    "wof:lastmodified":1536642657,
+    "wof:lastmodified":1566644358,
     "wof:name":"Cristobal",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

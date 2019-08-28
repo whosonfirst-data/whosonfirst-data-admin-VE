@@ -10,8 +10,12 @@
     "geom:latitude":8.93527,
     "geom:longitude":-71.873931,
     "iso:country":"VE",
+    "lbl:bbox":"-71.973931,8.83527,-71.773931,9.03527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Santa Barbara"
@@ -155,7 +159,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805120,
-        "qs:id":213575,
         "qs_pg:id":213575
     },
     "wof:country":"VE",
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421201655,
-    "wof:lastmodified":1564306439,
+    "wof:lastmodified":1566646283,
     "wof:name":"Santa Barbara",
     "wof:parent_id":421186435,
     "wof:placetype":"localadmin",

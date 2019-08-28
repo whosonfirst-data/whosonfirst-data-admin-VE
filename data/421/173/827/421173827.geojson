@@ -10,8 +10,12 @@
     "geom:latitude":7.58785,
     "geom:longitude":-72.3361,
     "iso:country":"VE",
+    "lbl:bbox":"-72.3561,7.56785,-72.3161,7.60785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Libertad"
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3795254,
         "gp:id":390033,
-        "qs:id":300442
+        "qs_pg:id":300442
     },
     "wof:country":"VE",
     "wof:created":1459009007,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421173827,
-    "wof:lastmodified":1564306396,
+    "wof:lastmodified":1566646243,
     "wof:name":"Libertad",
     "wof:parent_id":421185265,
     "wof:placetype":"locality",

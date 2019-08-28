@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.41076,10.29058,-72.37076,10.33058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aripia",
         "Arimpia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360142761,
-    "wof:lastmodified":1537713631,
+    "wof:lastmodified":1566646034,
     "wof:name":"Arimpia",
     "wof:parent_id":1108694379,
     "wof:placetype":"locality",

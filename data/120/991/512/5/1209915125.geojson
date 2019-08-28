@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.4475,7.87167,-67.4075,7.91167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boca de Apurito",
         "Boca Apurito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209915125,
-    "wof:lastmodified":1537713629,
+    "wof:lastmodified":1566645336,
     "wof:name":"Boca Apurito",
     "wof:parent_id":1108694389,
     "wof:placetype":"locality",

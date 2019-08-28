@@ -10,8 +10,12 @@
     "geom:latitude":8.619079,
     "geom:longitude":-71.009277,
     "iso:country":"VE",
+    "lbl:bbox":"-71.029277,8.599079,-70.989277,8.639079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tabay"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468675,
-        "qs:id":1077574,
+        "qs_pg:id":1077574,
         "wd:id":"Q1998750"
     },
     "wof:country":"VE",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421186983,
-    "wof:lastmodified":1561827240,
+    "wof:lastmodified":1566646258,
     "wof:name":"Tabay",
     "wof:parent_id":421184351,
     "wof:placetype":"locality",

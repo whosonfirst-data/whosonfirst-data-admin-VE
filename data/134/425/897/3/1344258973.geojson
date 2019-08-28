@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.37213,9.70113,-65.33213,9.74113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344258973,
-    "wof:lastmodified":1537083132,
+    "wof:lastmodified":1566644441,
     "wof:name":"Palosano",
     "wof:parent_id":1108694127,
     "wof:placetype":"locality",

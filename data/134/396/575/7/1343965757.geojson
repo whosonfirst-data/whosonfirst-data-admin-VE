@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.32428,9.60491,-65.28428,9.64491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Granadillo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343965757,
-    "wof:lastmodified":1564302730,
+    "wof:lastmodified":1566644395,
     "wof:name":"Granadillo",
     "wof:parent_id":1108694137,
     "wof:placetype":"locality",

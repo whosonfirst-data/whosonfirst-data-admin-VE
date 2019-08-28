@@ -10,8 +10,12 @@
     "geom:latitude":10.46642,
     "geom:longitude":-66.97426,
     "iso:country":"VE",
+    "lbl:bbox":"-66.99426,10.44642,-66.95426,10.48642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ant\u00edmano"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3649212,
         "gp:id":395278,
-        "qs:id":475417,
+        "qs_pg:id":475417,
         "wd:id":"Q4777516"
     },
     "wof:country":"VE",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421181129,
-    "wof:lastmodified":1563241148,
+    "wof:lastmodified":1566646263,
     "wof:name":"Ant\u00edmano",
     "wof:parent_id":1108694091,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.97011,7.78503,-71.93011,7.82503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Los Patios"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1293060221,
-    "wof:lastmodified":1564303417,
+    "wof:lastmodified":1566644771,
     "wof:name":"Los Patios",
     "wof:parent_id":1108694445,
     "wof:placetype":"locality",

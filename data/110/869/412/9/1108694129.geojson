@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.153606,
     "lbl:longitude":-68.863274,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yaracuy",
     "meso:gadm_admin":"Nirgua",
     "meso:gaul_admin":"Autonomo Nirgua",
@@ -30,6 +32,7 @@
     "mps:longitude":-68.863274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Nirgua"
     ],
@@ -65,7 +68,7 @@
         "\u5c3c\u723e\u74dc\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108694129,
-    "wof:lastmodified":1563240289,
+    "wof:lastmodified":1566645797,
     "wof:name":"Bruzual",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

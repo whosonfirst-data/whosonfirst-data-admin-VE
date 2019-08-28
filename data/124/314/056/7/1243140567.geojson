@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.33371,10.15008,-72.29371,10.19008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Macho"
     ],
@@ -32,8 +36,7 @@
         "El macho"
     ],
     "name:und_x_variant":[
-        "El Macao",
-        "El Macho"
+        "El Macao"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243140567,
-    "wof:lastmodified":1564306761,
+    "wof:lastmodified":1566646467,
     "wof:name":"El Macho",
     "wof:parent_id":1108694379,
     "wof:placetype":"locality",

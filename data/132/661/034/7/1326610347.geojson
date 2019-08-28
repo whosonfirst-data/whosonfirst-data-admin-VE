@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.60123,11.29817,-69.56123,11.33817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siburea",
         "Sibur\u00faa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326610347,
-    "wof:lastmodified":1537713513,
+    "wof:lastmodified":1566644199,
     "wof:name":"Siburua",
     "wof:parent_id":1108694291,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-70.08274,
     "gn:country":"VE",
     "gn:fcode":"PPLA2",
-    "gn:pop":93788,
+    "gn:population":93788,
     "iso:country":"VE",
+    "lbl:bbox":"-70.10274,10.15554,-70.06274,10.19554",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -241,7 +244,7 @@
     "wof:concordances":{
         "gn:id":3646487,
         "gp:id":468392,
-        "qs:id":274475,
+        "qs_pg:id":274475,
         "wd:id":"Q1044689",
         "wk:page":"Carora"
     },
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":890442145,
-    "wof:lastmodified":1563241250,
+    "wof:lastmodified":1566646312,
     "wof:name":"Carora",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

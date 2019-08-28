@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.8118,9.95358,-68.7718,9.99358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242832673,
-    "wof:lastmodified":1536696630,
+    "wof:lastmodified":1566646535,
     "wof:name":"Cerro de Paja",
     "wof:parent_id":421172277,
     "wof:placetype":"locality",

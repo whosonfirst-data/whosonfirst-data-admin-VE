@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.77727,11.09162,-69.73727,11.13162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310185427,
-    "wof:lastmodified":1536880570,
+    "wof:lastmodified":1566645929,
     "wof:name":"Francisquito",
     "wof:parent_id":421169951,
     "wof:placetype":"locality",

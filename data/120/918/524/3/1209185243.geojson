@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.78931,10.32908,-69.74931,10.36908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209185243,
-    "wof:lastmodified":1536295123,
+    "wof:lastmodified":1566645522,
     "wof:name":"Zumbador",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

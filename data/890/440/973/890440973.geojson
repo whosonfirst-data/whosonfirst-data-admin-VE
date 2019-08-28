@@ -12,7 +12,12 @@
     "gn:country":"VE",
     "gp:adm0":23424982,
     "iso:country":"VE",
+    "lbl:bbox":"-64.000947,10.38798,-63.800947,10.58798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"San Jose de Aerocuar",
     "qs:name_adm0":"Venezuela",
     "qs:name_adm1":"Sucre",
@@ -30,11 +35,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805044,
-        "qs:id":1206505
+        "qs_pg:id":1206505
     },
     "wof:country":"VE",
     "wof:created":1469052304,
-    "wof:geomhash":"85898b611c3b3c34ce31a0ebada6ed67",
+    "wof:geomhash":"7812ee170a97130cc2ce04900e91f36f",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +47,7 @@
         }
     ],
     "wof:id":890440973,
-    "wof:lastmodified":1470255678,
+    "wof:lastmodified":1566646306,
     "wof:name":"San Jose de Aerocuar",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

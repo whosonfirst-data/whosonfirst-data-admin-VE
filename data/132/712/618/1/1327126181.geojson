@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.3844,8.17939,-63.3444,8.21939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palmarito"
     ],
     "name:und_x_variant":[
-        "Palmarita",
-        "Palmarito"
+        "Palmarita"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327126181,
-    "wof:lastmodified":1564302378,
+    "wof:lastmodified":1566644232,
     "wof:name":"Palmarito",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

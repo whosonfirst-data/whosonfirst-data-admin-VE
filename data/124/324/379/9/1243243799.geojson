@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.70132,10.84374,-70.66132,10.88374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043d\u0442\u0443\u0440\u0430"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1243243799,
-    "wof:lastmodified":1564306713,
+    "wof:lastmodified":1566646440,
     "wof:name":"Ventura",
     "wof:parent_id":1108694165,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.60015,9.10719,-65.56015,9.14719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Arenal"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1226228693,
-    "wof:lastmodified":1564307842,
+    "wof:lastmodified":1566647020,
     "wof:name":"El Arenal",
     "wof:parent_id":1108694175,
     "wof:placetype":"locality",

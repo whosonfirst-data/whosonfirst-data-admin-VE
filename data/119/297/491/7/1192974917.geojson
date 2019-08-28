@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.69561,9.30603,-70.65561,9.34603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "El Alto"
     ],
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":1192974917,
-    "wof:lastmodified":1564305200,
+    "wof:lastmodified":1566645645,
     "wof:name":"El Alto",
     "wof:parent_id":421182049,
     "wof:placetype":"locality",

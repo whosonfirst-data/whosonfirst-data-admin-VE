@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.39543,10.56575,-69.35543,10.60575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Turiqu\u00eda",
         "La Turiqu\u00eda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226028377,
-    "wof:lastmodified":1537713555,
+    "wof:lastmodified":1566646940,
     "wof:name":"La Turiquia",
     "wof:parent_id":1108694469,
     "wof:placetype":"locality",

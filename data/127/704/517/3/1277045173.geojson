@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-65.67363,10.18307,-65.63363,10.22307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Machurucuto"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1277045173,
-    "wof:lastmodified":1564304287,
+    "wof:lastmodified":1566645182,
     "wof:name":"Machurucuto",
     "wof:parent_id":421184387,
     "wof:placetype":"locality",

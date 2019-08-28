@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.4233,10.69494,-71.3833,10.73494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293839771,
-    "wof:lastmodified":1536777048,
+    "wof:lastmodified":1566644806,
     "wof:name":"El Crespo",
     "wof:parent_id":1108694193,
     "wof:placetype":"locality",

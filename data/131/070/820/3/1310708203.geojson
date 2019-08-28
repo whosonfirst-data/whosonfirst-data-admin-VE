@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.96764,7.61765,-68.92764,7.65765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310708203,
-    "wof:lastmodified":1536622388,
+    "wof:lastmodified":1566645836,
     "wof:name":"Manirito",
     "wof:parent_id":421202593,
     "wof:placetype":"locality",

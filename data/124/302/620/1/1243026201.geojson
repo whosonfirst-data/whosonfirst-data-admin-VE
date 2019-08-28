@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.65307,9.00591,-71.61307,9.04591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243026201,
-    "wof:lastmodified":1536914937,
+    "wof:lastmodified":1566646523,
     "wof:name":"El Saco",
     "wof:parent_id":1108694195,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.149131,
     "geom:longitude":-63.602203,
     "iso:country":"VE",
+    "lbl:bbox":"-63.622203,8.129131,-63.582203,8.169131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Soledad"
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":395313,
-        "qs:id":463046
+        "qs_pg:id":463046
     },
     "wof:country":"VE",
     "wof:created":1459009273,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421180853,
-    "wof:lastmodified":1564306391,
+    "wof:lastmodified":1566646240,
     "wof:name":"Soledad",
     "wof:parent_id":421171639,
     "wof:placetype":"locality",

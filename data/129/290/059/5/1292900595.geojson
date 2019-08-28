@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-60.82,6.93,-60.78,6.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -378,7 +382,7 @@
         }
     ],
     "wof:id":1292900595,
-    "wof:lastmodified":1564303741,
+    "wof:lastmodified":1566644920,
     "wof:name":"San Antonio",
     "wof:parent_id":421198671,
     "wof:placetype":"locality",

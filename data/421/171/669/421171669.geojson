@@ -10,8 +10,12 @@
     "geom:latitude":8.861835,
     "geom:longitude":-70.694274,
     "iso:country":"VE",
+    "lbl:bbox":"-70.794274,8.761835,-70.594274,8.961835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805307,
-        "qs:id":1263886,
         "qs_pg:id":1263886
     },
     "wof:country":"VE",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421171669,
-    "wof:lastmodified":1497044798,
+    "wof:lastmodified":1566646299,
     "wof:name":"Capital Cardenal Quintero",
     "wof:parent_id":421194993,
     "wof:placetype":"localadmin",

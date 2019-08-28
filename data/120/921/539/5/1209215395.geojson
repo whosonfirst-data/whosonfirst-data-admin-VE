@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.30535,6.56433,-67.26535,6.60433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1209215395,
-    "wof:lastmodified":1564305016,
+    "wof:lastmodified":1566645546,
     "wof:name":"San Miguel",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

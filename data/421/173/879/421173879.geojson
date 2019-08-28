@@ -10,8 +10,12 @@
     "geom:latitude":7.64176,
     "geom:longitude":-72.27798,
     "iso:country":"VE",
+    "lbl:bbox":"-72.29798,7.62176,-72.25798,7.66176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Ana del Tachira"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Santa Ana del T\u00e1chira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Ana"
     ],
     "name:zho_x_preferred":[
@@ -79,10 +83,12 @@
     "wof:concordances":{
         "gn:id":3628549,
         "gp:id":468432,
-        "qs:id":301449,
         "qs_pg:id":149571,
         "wd:id":"Q3472567",
         "wk:page":"Santa Ana del T\u00e1chira"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":301449
     },
     "wof:country":"VE",
     "wof:created":1459009009,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421173879,
-    "wof:lastmodified":1563241107,
+    "wof:lastmodified":1566646245,
     "wof:name":"San Antonio del T\u00e1chira",
     "wof:parent_id":421185265,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.53484,9.186,-67.49484,9.226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Charco"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1226118977,
-    "wof:lastmodified":1564307661,
+    "wof:lastmodified":1566646928,
     "wof:name":"El Charco",
     "wof:parent_id":1108694293,
     "wof:placetype":"locality",

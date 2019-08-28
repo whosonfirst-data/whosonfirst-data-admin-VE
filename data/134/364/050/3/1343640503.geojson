@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.68894,10.30348,-69.64894,10.34348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343640503,
-    "wof:lastmodified":1536983142,
+    "wof:lastmodified":1566644429,
     "wof:name":"Jabillal",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

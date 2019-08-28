@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.82658,10.991,-68.78658,11.031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Marsillalito",
         "Marcillalito",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260370607,
-    "wof:lastmodified":1537713541,
+    "wof:lastmodified":1566645723,
     "wof:name":"Marsillalita",
     "wof:parent_id":1108694215,
     "wof:placetype":"locality",

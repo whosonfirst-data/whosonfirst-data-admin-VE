@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.39434,7.29413,-69.35434,7.33413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Llanero",
         "La Llanera"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226754123,
-    "wof:lastmodified":1537713567,
+    "wof:lastmodified":1566646859,
     "wof:name":"La Llanera",
     "wof:parent_id":421202593,
     "wof:placetype":"locality",

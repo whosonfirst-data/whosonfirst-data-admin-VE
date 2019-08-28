@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.012171,
     "lbl:longitude":-63.924189,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Nueva Esparta",
     "mps:latitude":11.011402,
     "mps:longitude":-63.926093,
@@ -315,9 +316,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1,150",
     "statoids:area_mi":"440",
     "statoids:as_of_date":"2011-09-01",
@@ -343,7 +344,7 @@
         "gp:id":2347693,
         "hasc:id":"VE.NE",
         "iso:id":"VE-O",
-        "qs:id":1047656,
+        "qs_pg:id":1047656,
         "unlc:id":"VE-O",
         "wd:id":"Q204876",
         "wk:page":"Nueva Esparta"
@@ -364,11 +365,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738725,
+    "wof:lastmodified":1566644702,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":491610,
     "wof:population_rank":10,

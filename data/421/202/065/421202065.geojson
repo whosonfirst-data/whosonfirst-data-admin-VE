@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.020272,
     "lbl:longitude":-72.080076,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tachira",
     "meso:gadm_admin":"Jos\u00e9 Mar\u00eda Vargas",
     "meso:gaul_admin":"Jauregui",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.080076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Jos\u00e9 Mar\u00eda Vargas"
@@ -309,9 +312,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"229",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"EL Cobre",
@@ -332,7 +335,7 @@
     "wof:concordances":{
         "gp:id":26804702,
         "hasc:id":"VE.TA.JV",
-        "qs:id":219081,
+        "qs_pg:id":219081,
         "wd:id":"Q2358589"
     },
     "wof:country":"VE",
@@ -347,7 +350,7 @@
         }
     ],
     "wof:id":421202065,
-    "wof:lastmodified":1563241081,
+    "wof:lastmodified":1566646234,
     "wof:name":"Jose Maria Vargas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

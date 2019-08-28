@@ -10,6 +10,9 @@
     "geom:latitude":10.38828,
     "geom:longitude":-71.43992,
     "iso:country":"VE",
+    "lbl:bbox":"-71.45992,10.36828,-71.41992,10.40828",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0431\u0456\u043c\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caramas"
     ],
     "name:urd_x_preferred":[
@@ -275,7 +278,7 @@
     "wof:concordances":{
         "gn:id":3647651,
         "gp:id":468390,
-        "qs:id":228689,
+        "qs_pg:id":228689,
         "wd:id":"Q723588",
         "wk:page":"Cabimas"
     },
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421179873,
-    "wof:lastmodified":1563241217,
+    "wof:lastmodified":1566646294,
     "wof:name":"Cabimas",
     "wof:parent_id":421202059,
     "wof:placetype":"locality",

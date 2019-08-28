@@ -10,8 +10,12 @@
     "geom:latitude":10.157688,
     "geom:longitude":-68.56842,
     "iso:country":"VE",
+    "lbl:bbox":"-68.58842,10.137688,-68.54842,10.177688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041d\u0438\u0440\u0433\u0443\u0430"
@@ -74,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468423,
-        "qs:id":268908,
+        "qs_pg:id":268908,
         "wd:id":"Q1409152"
     },
     "wof:country":"VE",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421166659,
-    "wof:lastmodified":1563241041,
+    "wof:lastmodified":1566646214,
     "wof:name":"Nirgua",
     "wof:parent_id":421172277,
     "wof:placetype":"locality",

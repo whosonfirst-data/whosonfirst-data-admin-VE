@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.02473,9.38556,-69.98473,9.42556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Jos\u00e9 de Saguas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327209233,
-    "wof:lastmodified":1537713648,
+    "wof:lastmodified":1566644371,
     "wof:name":"San Jose de Saguas",
     "wof:parent_id":1108694441,
     "wof:placetype":"locality",

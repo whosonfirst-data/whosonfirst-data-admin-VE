@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.07934,7.8968,-71.03934,7.9368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pedraza la Vieja",
         "Pedraza La Vieja"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310098261,
-    "wof:lastmodified":1537713530,
+    "wof:lastmodified":1566645875,
     "wof:name":"Pedraza La Vieja",
     "wof:parent_id":1108694181,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-71.72,7.81333,-71.68,7.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pared\u00f3n del Raiz\u00f3n",
         "Raiz\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276414445,
-    "wof:lastmodified":1537713524,
+    "wof:lastmodified":1566645222,
     "wof:name":"Raizon",
     "wof:parent_id":421183171,
     "wof:placetype":"locality",

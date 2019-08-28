@@ -10,8 +10,12 @@
     "geom:latitude":8.25014,
     "geom:longitude":-62.81538,
     "iso:country":"VE",
+    "lbl:bbox":"-62.83538,8.23014,-62.79538,8.27014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0627\u0646\u0632\u0627\u0633"
@@ -124,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matanza"
     ],
     "name:urd_x_preferred":[
@@ -177,7 +181,7 @@
     "wof:concordances":{
         "gn:id":3632629,
         "gp:id":468282,
-        "qs:id":495605
+        "qs_pg:id":495605
     },
     "wof:country":"VE",
     "wof:created":1459010002,
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":421199839,
-    "wof:lastmodified":1564306433,
+    "wof:lastmodified":1566646280,
     "wof:name":"Matanzas",
     "wof:parent_id":421190237,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.39716,8.98953,-69.35716,9.02953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Tubos"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243033663,
-    "wof:lastmodified":1537713649,
+    "wof:lastmodified":1566646480,
     "wof:name":"Los Tubos",
     "wof:parent_id":1108694339,
     "wof:placetype":"locality",

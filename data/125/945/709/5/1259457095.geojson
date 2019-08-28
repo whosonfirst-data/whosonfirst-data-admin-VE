@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-72.08071,7.66276,-72.04071,7.70276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259457095,
-    "wof:lastmodified":1536896640,
+    "wof:lastmodified":1566646804,
     "wof:name":"La Valeria",
     "wof:parent_id":1108694191,
     "wof:placetype":"locality",

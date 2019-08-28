@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.395336,
     "lbl:longitude":-69.887667,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Barinas",
     "meso:gadm_admin":"Obispos",
     "meso:gaul_admin":"Obispos",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.887667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Obispos"
     ],
@@ -70,9 +73,9 @@
         "\u5967\u7dad\u65af\u6ce2\u65af\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"1753",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Obispos",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108694317,
-    "wof:lastmodified":1563240306,
+    "wof:lastmodified":1566645807,
     "wof:name":"Obispos",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

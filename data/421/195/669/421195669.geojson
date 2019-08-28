@@ -10,6 +10,9 @@
     "geom:latitude":10.21667,
     "geom:longitude":-64.61667,
     "iso:country":"VE",
+    "lbl:bbox":"-64.63667,10.19667,-64.59667,10.23667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -297,7 +300,7 @@
     "wof:concordances":{
         "gn:id":3629672,
         "gp:id":468398,
-        "qs:id":489783,
+        "qs_pg:id":489783,
         "wd:id":"Q379509",
         "wk:page":"Puerto la Cruz"
     },
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":421195669,
-    "wof:lastmodified":1563241053,
+    "wof:lastmodified":1566646219,
     "wof:name":"Puerto la Cruz",
     "wof:parent_id":421204791,
     "wof:placetype":"locality",

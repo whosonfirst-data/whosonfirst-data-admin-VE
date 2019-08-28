@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-68.55765,7.50053,-68.51765,7.54053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343464997,
-    "wof:lastmodified":1536739412,
+    "wof:lastmodified":1566644481,
     "wof:name":"Totumal",
     "wof:parent_id":421171651,
     "wof:placetype":"locality",

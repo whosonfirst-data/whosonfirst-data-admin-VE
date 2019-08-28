@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-67.97,9.26333,-67.93,9.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Galeritas",
         "La Galarita",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293090929,
-    "wof:lastmodified":1537713570,
+    "wof:lastmodified":1566644742,
     "wof:name":"La Galerita",
     "wof:parent_id":1108694337,
     "wof:placetype":"locality",

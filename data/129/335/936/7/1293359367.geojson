@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.70675,9.09486,-70.66675,9.13486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293359367,
-    "wof:lastmodified":1536971484,
+    "wof:lastmodified":1566644874,
     "wof:name":"La Cortado",
     "wof:parent_id":1108694477,
     "wof:placetype":"locality",

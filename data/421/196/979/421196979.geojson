@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.89396,
     "lbl:longitude":-65.893792,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bolivar",
     "meso:gadm_admin":"Cede\u00f1o",
     "meso:gaul_admin":"Cedeno",
@@ -30,6 +32,7 @@
     "mps:longitude":-65.893792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Marqarita Fernandez"
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gp:id":26804546,
         "hasc:id":"VE.BO.CE",
-        "qs:id":1263768
+        "qs_pg:id":1263768
     },
     "wof:country":"VE",
     "wof:created":1459009899,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421196979,
-    "wof:lastmodified":1564306419,
+    "wof:lastmodified":1566646271,
     "wof:name":"Cede\u00f1o",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

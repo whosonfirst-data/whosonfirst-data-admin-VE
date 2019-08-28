@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.86833,9.25611,-63.82833,9.29611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193100771,
-    "wof:lastmodified":1536383733,
+    "wof:lastmodified":1566645665,
     "wof:name":"Carpintero",
     "wof:parent_id":1108694065,
     "wof:placetype":"locality",

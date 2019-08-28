@@ -23,16 +23,19 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.05541,10.23233,-66.01541,10.27233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Huizi"
     ],
     "name:und_x_variant":[
         "Huise",
         "Huisi",
-        "Huice",
-        "Huizi"
+        "Huice"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326812603,
-    "wof:lastmodified":1564302208,
+    "wof:lastmodified":1566644137,
     "wof:name":"Huizi",
     "wof:parent_id":1108694069,
     "wof:placetype":"locality",

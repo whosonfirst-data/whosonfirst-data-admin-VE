@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.05333,11.16333,-69.01333,11.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carorita"
     ],
@@ -51,8 +55,7 @@
         "Carorita"
     ],
     "name:und_x_variant":[
-        "Cardrita",
-        "Carorita"
+        "Cardrita"
     ],
     "name:vie_x_preferred":[
         "Carorita"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1260158231,
-    "wof:lastmodified":1564305277,
+    "wof:lastmodified":1566645683,
     "wof:name":"Carorita",
     "wof:parent_id":1108694215,
     "wof:placetype":"locality",

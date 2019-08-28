@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.51944,8.62646,-66.47944,8.66646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209795109,
-    "wof:lastmodified":1536393247,
+    "wof:lastmodified":1566645403,
     "wof:name":"Los Chorros de Mejo",
     "wof:parent_id":1108694245,
     "wof:placetype":"locality",

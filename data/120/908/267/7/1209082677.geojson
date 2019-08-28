@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.90227,7.81486,-66.86227,7.85486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3774401
     },
     "wof:country":"VE",
-    "wof:geomhash":"62fe65027e93248623951d4dc017ac0b",
+    "wof:geomhash":"bd2b4b8953f544850127b9504525c7ae",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209082677,
-    "wof:lastmodified":1536298287,
+    "wof:lastmodified":1566645358,
     "wof:name":"El Troncon",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -66.88226999999999,
-    7.834860000000001,
+    7.83486,
     -66.88226999999999,
-    7.834860000000001
+    7.83486
 ],
   "geometry": {"coordinates":[-66.88226999999999,7.83486],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.25444,11.21833,-70.21444,11.25833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Refugio"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1293864181,
-    "wof:lastmodified":1564303911,
+    "wof:lastmodified":1566645003,
     "wof:name":"El Refugio",
     "wof:parent_id":1108694471,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.625438,
     "lbl:longitude":-66.173099,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Gu\u00e1rico",
     "mps:latitude":8.62457,
     "mps:longitude":-66.173245,
@@ -297,9 +298,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"64,986",
     "statoids:area_mi":"25,090",
     "statoids:as_of_date":"2011-09-01",
@@ -325,7 +326,7 @@
         "gp:id":2347688,
         "hasc:id":"VE.GU",
         "iso:id":"VE-J",
-        "qs:id":222854,
+        "qs_pg:id":222854,
         "unlc:id":"VE-J",
         "wd:id":"Q202075",
         "wk:page":"Gu\u00e1rico"
@@ -346,11 +347,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738728,
+    "wof:lastmodified":1566644707,
     "wof:name":"Gu\u00e1rico",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":747739,
     "wof:population_rank":11,

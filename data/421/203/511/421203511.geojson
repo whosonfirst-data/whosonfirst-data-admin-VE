@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.627785,
     "lbl:longitude":-72.378887,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tachira",
     "meso:gadm_admin":"Jun\u00edn",
     "meso:gaul_admin":"Junin",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.378887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jun\u00edn"
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"326",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Rubio",
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gp:id":26804507,
         "hasc:id":"VE.TA.JU",
-        "qs:id":232495,
+        "qs_pg:id":232495,
         "wd:id":"Q591314"
     },
     "wof:country":"VE",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421203511,
-    "wof:lastmodified":1563241076,
+    "wof:lastmodified":1566646231,
     "wof:name":"Junin",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

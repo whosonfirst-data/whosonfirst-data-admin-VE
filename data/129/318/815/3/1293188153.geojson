@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.62217,11.37677,-69.58217,11.41677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293188153,
-    "wof:lastmodified":1536722001,
+    "wof:lastmodified":1566644935,
     "wof:name":"El Carmelo",
     "wof:parent_id":421180897,
     "wof:placetype":"locality",

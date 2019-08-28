@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.83482,10.99873,-63.79482,11.03873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293850267,
-    "wof:lastmodified":1536761543,
+    "wof:lastmodified":1566644826,
     "wof:name":"Apostadero",
     "wof:parent_id":421172599,
     "wof:placetype":"locality",

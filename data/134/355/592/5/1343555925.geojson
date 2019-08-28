@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.64667,6.26833,-63.60667,6.30833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Uraima"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343555925,
-    "wof:lastmodified":1537560477,
+    "wof:lastmodified":1566644414,
     "wof:name":"Uraima",
     "wof:parent_id":421196981,
     "wof:placetype":"locality",

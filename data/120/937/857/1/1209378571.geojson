@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-62.48873,8.78288,-62.44873,8.82288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Paso Nuevo",
         "Paso Nuevo"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209378571,
-    "wof:lastmodified":1537713531,
+    "wof:lastmodified":1566645364,
     "wof:name":"Paso Nuevo",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-63.4377,10.45586,-63.3977,10.49586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arenas"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1309676867,
-    "wof:lastmodified":1564306282,
+    "wof:lastmodified":1566646175,
     "wof:name":"Arenas",
     "wof:parent_id":1108694075,
     "wof:placetype":"locality",

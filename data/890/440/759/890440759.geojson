@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":11.006134,
     "lbl:longitude":-64.273753,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nueva Esparta",
     "meso:gadm_admin":"Peninsula de Macanao",
     "meso:gaul_admin":"Peninsula De Macanao",
@@ -32,6 +34,7 @@
     "mps:longitude":-64.273753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Peninsula De Macanao",
         "Peninsula de Macanao"
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632317,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gp:id":26804677,
         "hasc:id":"VE.DP.DP",
-        "qs:id":1263797
+        "qs_pg:id":1263797
     },
     "wof:country":"VE",
     "wof:created":1469052296,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890440759,
-    "wof:lastmodified":1554489061,
+    "wof:lastmodified":1566646306,
     "wof:name":"Peninsula De Macanao",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

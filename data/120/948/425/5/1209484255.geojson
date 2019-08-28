@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.51096,9.69056,-70.47096,9.73056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bonilla"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209484255,
-    "wof:lastmodified":1564304705,
+    "wof:lastmodified":1566645385,
     "wof:name":"Bonilla",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

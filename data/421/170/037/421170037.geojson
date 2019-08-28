@@ -10,8 +10,12 @@
     "geom:latitude":9.321359,
     "geom:longitude":-70.615997,
     "iso:country":"VE",
+    "lbl:bbox":"-70.715997,9.221359,-70.515997,9.421359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804856,
-        "qs:id":1263813
+        "qs_pg:id":1263813
     },
     "wof:country":"VE",
     "wof:created":1459008834,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421170037,
-    "wof:lastmodified":1500034089,
+    "wof:lastmodified":1566646288,
     "wof:name":"Mercedes Diaz",
     "wof:parent_id":1108694477,
     "wof:placetype":"localadmin",

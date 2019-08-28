@@ -11,10 +11,14 @@
     "geom:longitude":-68.00312,
     "gn:country":"VE",
     "gn:fcode":"PPLA",
-    "gn:pop":1385083,
+    "gn:population":1385083,
     "iso:country":"VE",
+    "lbl:bbox":"-68.02312,10.158219,-67.98312,10.198219",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Valencia"
@@ -265,12 +269,12 @@
     "wof:concordances":{
         "gn:id":3625549,
         "gp:id":395272,
-        "qs:id":1075904,
+        "qs_pg:id":1075904,
         "wd:id":"Q54880",
         "wk:page":"Valencia"
     },
     "wof:concordances_alt":{
-        "qs:id":274459,
+        "qs_pg:id":274459,
         "wd:id":"Q8818"
     },
     "wof:country":"VE",
@@ -286,7 +290,7 @@
         }
     ],
     "wof:id":421186751,
-    "wof:lastmodified":1563241141,
+    "wof:lastmodified":1566646260,
     "wof:name":"Valencia",
     "wof:parent_id":421202373,
     "wof:placetype":"locality",

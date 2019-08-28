@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-70.00333,12.14667,-69.96333,12.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Galera"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1277164635,
-    "wof:lastmodified":1564304556,
+    "wof:lastmodified":1566645302,
     "wof:name":"Galera",
     "wof:parent_id":421180891,
     "wof:placetype":"locality",

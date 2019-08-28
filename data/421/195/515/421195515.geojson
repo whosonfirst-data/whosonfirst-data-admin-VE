@@ -10,8 +10,12 @@
     "geom:latitude":11.49897,
     "geom:longitude":-69.25892,
     "iso:country":"VE",
+    "lbl:bbox":"-69.35892,11.39897,-69.15892,11.59897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26805484,
-        "qs:id":114986
+        "qs_pg:id":114986
     },
     "wof:country":"VE",
     "wof:created":1459009850,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421195515,
-    "wof:lastmodified":1500033972,
+    "wof:lastmodified":1566646223,
     "wof:name":"Tocopero",
     "wof:parent_id":421193517,
     "wof:placetype":"localadmin",

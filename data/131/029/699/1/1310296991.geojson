@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-66.55365,6.98985,-66.51365,7.02985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Emilia"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310296991,
-    "wof:lastmodified":1564305826,
+    "wof:lastmodified":1566645941,
     "wof:name":"La Emilia",
     "wof:parent_id":421196979,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.541151,
     "lbl:longitude":-72.235921,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tachira",
     "meso:gadm_admin":"C\u00f3rdoba",
     "meso:gaul_admin":"Cordoba",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.235921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "C\u00f3rdoba"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"618",
     "statoids:as_of_date":"2011-09-01",
     "statoids:capital":"Santa Ana del T\u00e1chira",
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gp:id":26804539,
         "hasc:id":"VE.TA.CO",
-        "qs:id":1020139,
+        "qs_pg:id":1020139,
         "wd:id":"Q2664224"
     },
     "wof:country":"VE",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421185265,
-    "wof:lastmodified":1563241237,
+    "wof:lastmodified":1566646306,
     "wof:name":"Cordova",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

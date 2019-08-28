@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Caracas",
     "iso:country":"VE",
+    "lbl:bbox":"-69.63604,7.36626,-69.59604,7.40626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632317
@@ -34,7 +38,7 @@
         "gn:id":3637659
     },
     "wof:country":"VE",
-    "wof:geomhash":"b9410d6228b3f55c07c7c1cab86987b8",
+    "wof:geomhash":"dadd96cd9660553455ab95a61a7ff29f",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209107111,
-    "wof:lastmodified":1536297532,
+    "wof:lastmodified":1566645565,
     "wof:name":"Laguna Hermosa",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -69.61604,
-    7.386260000000001,
+    7.38626,
     -69.61604,
-    7.386260000000001
+    7.38626
 ],
   "geometry": {"coordinates":[-69.61604,7.38626],"type":"Point"}
 }
