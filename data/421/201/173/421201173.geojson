@@ -42,7 +42,8 @@
     "wof:belongsto":[
         102191577,
         85632317,
-        85680511
+        85680511,
+        1511838383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,15 @@
         {
             "continent_id":102191577,
             "country_id":85632317,
+            "county_id":1511838383,
             "localadmin_id":421201173,
             "region_id":85680511
         }
     ],
     "wof:id":421201173,
-    "wof:lastmodified":1566646282,
+    "wof:lastmodified":1578434366,
     "wof:name":"Atures",
-    "wof:parent_id":85680511,
+    "wof:parent_id":1511838383,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
