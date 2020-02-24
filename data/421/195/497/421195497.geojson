@@ -221,6 +221,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009850,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"95af5190357dcc9fe8476de6a7a24b19",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421195497,
-    "wof:lastmodified":1566646219,
+    "wof:lastmodified":1582393016,
     "wof:name":"Infante",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

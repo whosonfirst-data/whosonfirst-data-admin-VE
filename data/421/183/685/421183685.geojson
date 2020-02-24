@@ -123,6 +123,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009378,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f403bdace1289c093e900f78ab80f9c1",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421183685,
-    "wof:lastmodified":1566646292,
+    "wof:lastmodified":1582393026,
     "wof:name":"Las Tejer\u00edas",
     "wof:parent_id":421202375,
     "wof:placetype":"locality",

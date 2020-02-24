@@ -102,6 +102,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009360,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a4eb28c27f0c42366e4f415bf832656f",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421183169,
-    "wof:lastmodified":1566646291,
+    "wof:lastmodified":1582393026,
     "wof:name":"Andres Eloy Blanco",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

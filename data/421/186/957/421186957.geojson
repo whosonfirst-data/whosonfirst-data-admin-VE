@@ -272,6 +272,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009497,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c965988f532ca1860052deb92dd39a25",
     "wof:hierarchy":[
         {
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421186957,
-    "wof:lastmodified":1566646259,
+    "wof:lastmodified":1582393021,
     "wof:name":"Punto Fijo",
     "wof:parent_id":890451975,
     "wof:placetype":"locality",

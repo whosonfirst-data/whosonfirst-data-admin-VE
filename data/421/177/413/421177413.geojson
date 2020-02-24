@@ -161,6 +161,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009143,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97f40bb1ba96a8620cf2b5824e689c40",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421177413,
-    "wof:lastmodified":1566646289,
+    "wof:lastmodified":1582393026,
     "wof:name":"Villalba",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

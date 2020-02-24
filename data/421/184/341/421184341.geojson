@@ -71,6 +71,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009408,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d6b871dd3f041d5f3ebff63c43e683f",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421184341,
-    "wof:lastmodified":1566646285,
+    "wof:lastmodified":1582393025,
     "wof:name":"San Silvestre",
     "wof:parent_id":890429493,
     "wof:placetype":"localadmin",

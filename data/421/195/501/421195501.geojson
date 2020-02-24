@@ -143,6 +143,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009850,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ea702ffafe90e0ec8f52e9c725502c3",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421195501,
-    "wof:lastmodified":1566646221,
+    "wof:lastmodified":1582393016,
     "wof:name":"Francisco Linares Alcantara",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

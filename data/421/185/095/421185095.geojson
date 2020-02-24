@@ -74,6 +74,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009432,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d85558a0d8cb5a05c0d7ad4fbf20906",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421185095,
-    "wof:lastmodified":1566646305,
+    "wof:lastmodified":1582393027,
     "wof:name":"Bolivar",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

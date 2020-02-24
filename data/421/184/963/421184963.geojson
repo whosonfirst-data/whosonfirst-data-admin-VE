@@ -79,6 +79,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009428,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d256e19eab5bad8fce20123e65aa13da",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421184963,
-    "wof:lastmodified":1566646285,
+    "wof:lastmodified":1582393025,
     "wof:name":"Ortiz",
     "wof:parent_id":1108694319,
     "wof:placetype":"localadmin",

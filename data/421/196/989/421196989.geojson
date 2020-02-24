@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1147b54b37e56be64231fc448657caad",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421196989,
-    "wof:lastmodified":1566646273,
+    "wof:lastmodified":1582393023,
     "wof:name":"Capital Libertad",
     "wof:parent_id":1108694213,
     "wof:placetype":"localadmin",

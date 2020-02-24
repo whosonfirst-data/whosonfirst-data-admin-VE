@@ -352,6 +352,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009850,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7a2d9747e95012ccfbc89d30ee31b4e",
     "wof:hierarchy":[
         {
@@ -362,7 +365,7 @@
         }
     ],
     "wof:id":421195493,
-    "wof:lastmodified":1566646221,
+    "wof:lastmodified":1582393016,
     "wof:name":"Torbes",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

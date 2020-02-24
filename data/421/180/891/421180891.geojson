@@ -350,6 +350,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009274,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8dc9ce3f0ace2ad3bf1ad82d25ec28c",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
         }
     ],
     "wof:id":421180891,
-    "wof:lastmodified":1566646240,
+    "wof:lastmodified":1582393018,
     "wof:name":"Falcon",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

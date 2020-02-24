@@ -142,6 +142,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008834,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb87638dc3465ebda26c54496c06812d",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421170035,
-    "wof:lastmodified":1566646289,
+    "wof:lastmodified":1582393025,
     "wof:name":"Garcia",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

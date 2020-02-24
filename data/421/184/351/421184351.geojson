@@ -107,6 +107,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009408,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e67e87813a7108c3ac9060545c706ce",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421184351,
-    "wof:lastmodified":1566646286,
+    "wof:lastmodified":1582393025,
     "wof:name":"Santos Marquina",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

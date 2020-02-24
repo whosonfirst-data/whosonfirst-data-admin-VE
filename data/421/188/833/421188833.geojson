@@ -147,6 +147,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009581,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ddb79ee97fa4dd9fe664da478ef81f9d",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421188833,
-    "wof:lastmodified":1566646251,
+    "wof:lastmodified":1582393020,
     "wof:name":"San Joaquin",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

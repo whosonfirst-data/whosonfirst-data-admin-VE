@@ -144,6 +144,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009275,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd166657475b19e5b0400ee7641384a4",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421180897,
-    "wof:lastmodified":1566646241,
+    "wof:lastmodified":1582393019,
     "wof:name":"Colina",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

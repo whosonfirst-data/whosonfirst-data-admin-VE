@@ -111,6 +111,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009414,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2272b6929f73287718c2cddc8026cd81",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421184557,
-    "wof:lastmodified":1566646285,
+    "wof:lastmodified":1582393025,
     "wof:name":"Jose Felix Ribas",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

@@ -133,6 +133,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008911,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"222a57538253044257c7fb6501c875c2",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421171913,
-    "wof:lastmodified":1566646300,
+    "wof:lastmodified":1582393027,
     "wof:name":"Cristobal Rojas",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

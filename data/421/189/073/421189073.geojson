@@ -139,6 +139,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0666bc5ae35b82e1424ccc885a0803a5",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421189073,
-    "wof:lastmodified":1566646249,
+    "wof:lastmodified":1582393019,
     "wof:name":"Jimenez",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

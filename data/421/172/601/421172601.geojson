@@ -121,6 +121,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008948,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"95f02c517ee91e0597b254fc76546862",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421172601,
-    "wof:lastmodified":1566646256,
+    "wof:lastmodified":1582393020,
     "wof:name":"Cruz Salmeron Acosta",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

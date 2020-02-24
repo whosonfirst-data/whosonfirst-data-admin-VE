@@ -109,6 +109,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009828,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2df37e96744b2ca95d433c130529296",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421195007,
-    "wof:lastmodified":1566646219,
+    "wof:lastmodified":1582393016,
     "wof:name":"Santa Teresa",
     "wof:parent_id":1108694113,
     "wof:placetype":"localadmin",

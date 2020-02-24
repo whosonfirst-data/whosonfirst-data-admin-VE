@@ -114,6 +114,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052721,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e45fe664f0053bd03243243c9ea3fa7",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890450031,
-    "wof:lastmodified":1566646315,
+    "wof:lastmodified":1582393028,
     "wof:name":"Independencia",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

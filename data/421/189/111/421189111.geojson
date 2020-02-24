@@ -73,6 +73,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cdeeed44744b6fd0a1ab8a4c0b5ebb14",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421189111,
-    "wof:lastmodified":1566646248,
+    "wof:lastmodified":1582393019,
     "wof:name":"Chacao",
     "wof:parent_id":1108694157,
     "wof:placetype":"localadmin",

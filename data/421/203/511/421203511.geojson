@@ -145,6 +145,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010155,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1768efd2e34bdb661de0a6df1d00ff91",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421203511,
-    "wof:lastmodified":1566646231,
+    "wof:lastmodified":1582393017,
     "wof:name":"Junin",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

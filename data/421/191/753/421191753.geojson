@@ -113,6 +113,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009706,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b02431b9162aad4c7410af894bce390",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421191753,
-    "wof:lastmodified":1566646274,
+    "wof:lastmodified":1582393023,
     "wof:name":"Tucupita",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

@@ -133,6 +133,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f67254b4047f5aaab56f81385579ce6",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421171649,
-    "wof:lastmodified":1566646301,
+    "wof:lastmodified":1582393027,
     "wof:name":"Pedro Camejo",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

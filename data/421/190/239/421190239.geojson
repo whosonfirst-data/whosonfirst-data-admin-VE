@@ -108,6 +108,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009651,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5b381b9218cbc9baebcf6c8ffa08403",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421190239,
-    "wof:lastmodified":1566646279,
+    "wof:lastmodified":1582393024,
     "wof:name":"Rangel",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

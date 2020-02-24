@@ -119,6 +119,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008948,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c688edf7160c98f02cfca6f94a0be6d",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421172599,
-    "wof:lastmodified":1566646255,
+    "wof:lastmodified":1582393020,
     "wof:name":"Maneiro",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

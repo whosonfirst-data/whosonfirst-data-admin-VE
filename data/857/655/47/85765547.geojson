@@ -75,6 +75,9 @@
         "qs:id":1165495
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4467f3178621389eb37a2afdf5733cb4",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1582392987,
     "wof:name":"La Concordia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008841,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d17147bd769c68b770f913f69b4e326",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421170185,
-    "wof:lastmodified":1566646289,
+    "wof:lastmodified":1582393026,
     "wof:name":"Urbana Elorza",
     "wof:parent_id":421180899,
     "wof:placetype":"localadmin",

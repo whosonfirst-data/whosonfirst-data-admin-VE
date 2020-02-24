@@ -330,6 +330,9 @@
         "wk:page":"Portuguesa (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d60a4834028c2e23406359d575496db9",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644702,
+    "wof:lastmodified":1582392990,
     "wof:name":"Portuguesa",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

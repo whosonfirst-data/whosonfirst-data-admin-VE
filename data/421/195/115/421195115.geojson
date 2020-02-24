@@ -123,6 +123,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009832,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9eb8c9b4783335440271d453df7025df",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421195115,
-    "wof:lastmodified":1566646222,
+    "wof:lastmodified":1582393016,
     "wof:name":"Lobatera",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

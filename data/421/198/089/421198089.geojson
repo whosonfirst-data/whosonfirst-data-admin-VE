@@ -237,6 +237,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009936,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e1e31c855b29214299dd8ec377dc3a9",
     "wof:hierarchy":[
         {
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":421198089,
-    "wof:lastmodified":1566646268,
+    "wof:lastmodified":1582393022,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

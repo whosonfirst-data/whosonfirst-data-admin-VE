@@ -53,6 +53,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009833,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0005ac67de7c55012543139db6480f3b",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421195121,
-    "wof:lastmodified":1566646221,
+    "wof:lastmodified":1582393016,
     "wof:name":"Calderas",
     "wof:parent_id":421194991,
     "wof:placetype":"localadmin",

@@ -116,6 +116,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ce65b315d8f02f8d1c13abd5991e4a0d",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890451975,
-    "wof:lastmodified":1566646314,
+    "wof:lastmodified":1582393028,
     "wof:name":"Carirubana",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

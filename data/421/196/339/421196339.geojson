@@ -53,6 +53,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009878,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"832b57c7441925c6e3c34592f423edd2",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421196339,
-    "wof:lastmodified":1566646270,
+    "wof:lastmodified":1582393022,
     "wof:name":"Santa Maria de Ipire",
     "wof:parent_id":1108694413,
     "wof:placetype":"localadmin",

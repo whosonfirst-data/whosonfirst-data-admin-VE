@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008841,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3e037f14b338ad8cd16e0bc5f66fa64",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421170181,
-    "wof:lastmodified":1566646288,
+    "wof:lastmodified":1582393025,
     "wof:name":"Capital Girardot",
     "wof:parent_id":421171995,
     "wof:placetype":"localadmin",

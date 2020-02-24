@@ -208,6 +208,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009850,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29896640bb9fc6e38ef62faeebf0b247",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":421195505,
-    "wof:lastmodified":1566646218,
+    "wof:lastmodified":1582393015,
     "wof:name":"Francisco De Miranda",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

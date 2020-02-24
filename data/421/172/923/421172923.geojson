@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008959,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc2eb734fd2b7d89301c670275df3998",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421172923,
-    "wof:lastmodified":1566646253,
+    "wof:lastmodified":1582393020,
     "wof:name":"Rio Chico",
     "wof:parent_id":421204299,
     "wof:placetype":"localadmin",

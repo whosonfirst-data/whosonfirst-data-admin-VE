@@ -128,6 +128,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009533,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76125e7e198634b16823146bde0a3759",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421188083,
-    "wof:lastmodified":1566646251,
+    "wof:lastmodified":1582393020,
     "wof:name":"Bocono",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

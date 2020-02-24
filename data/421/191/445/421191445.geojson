@@ -88,6 +88,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009692,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06a8829137c5749ffdc507593bc01582",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421191445,
-    "wof:lastmodified":1566646276,
+    "wof:lastmodified":1582393023,
     "wof:name":"Norte",
     "wof:parent_id":890451975,
     "wof:placetype":"localadmin",

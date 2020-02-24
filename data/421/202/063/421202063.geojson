@@ -190,6 +190,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010103,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"783feab62b41df3153117fc001754327",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":421202063,
-    "wof:lastmodified":1566646235,
+    "wof:lastmodified":1582393017,
     "wof:name":"Zamora",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

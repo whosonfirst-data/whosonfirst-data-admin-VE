@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008902,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c592fc341c294f556fd17062ab78b9eb",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171669,
-    "wof:lastmodified":1566646299,
+    "wof:lastmodified":1582393027,
     "wof:name":"Capital Cardenal Quintero",
     "wof:parent_id":421194993,
     "wof:placetype":"localadmin",

@@ -125,6 +125,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0f3d23852c5f53e89221bf23a406c7f",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421173573,
-    "wof:lastmodified":1566646245,
+    "wof:lastmodified":1582393019,
     "wof:name":"Alberto Adriani",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -104,6 +104,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009774,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"297e0897d5a2476b1bf1df1e688d1c69",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421193517,
-    "wof:lastmodified":1566646226,
+    "wof:lastmodified":1582393016,
     "wof:name":"Tocopero",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

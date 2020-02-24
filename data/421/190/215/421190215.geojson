@@ -160,6 +160,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009650,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2777374956ae139a737a4ff42f35935",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421190215,
-    "wof:lastmodified":1566646278,
+    "wof:lastmodified":1582393024,
     "wof:name":"Libertad",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

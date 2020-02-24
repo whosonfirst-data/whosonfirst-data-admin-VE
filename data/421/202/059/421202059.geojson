@@ -113,6 +113,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010103,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4cfee455c0fc25a2c76e692cd23cc3b1",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421202059,
-    "wof:lastmodified":1566646236,
+    "wof:lastmodified":1582393018,
     "wof:name":"Cabimas",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

@@ -56,6 +56,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009144,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e05be35b85fa42944530634e7c60de3f",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421177421,
-    "wof:lastmodified":1566646290,
+    "wof:lastmodified":1582393026,
     "wof:name":"Aguasay",
     "wof:parent_id":1108694065,
     "wof:placetype":"localadmin",

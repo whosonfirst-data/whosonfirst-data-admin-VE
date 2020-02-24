@@ -89,6 +89,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009369,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e349150e5d268439aad65003c463cf7c",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421183445,
-    "wof:lastmodified":1566646293,
+    "wof:lastmodified":1582393026,
     "wof:name":"Casacoima",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

@@ -80,6 +80,9 @@
         "qs:id":1082765
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78cb7dbbeb3bffea036d68376f6e9058",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379807,
+    "wof:lastmodified":1582392986,
     "wof:name":"Cotorrera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

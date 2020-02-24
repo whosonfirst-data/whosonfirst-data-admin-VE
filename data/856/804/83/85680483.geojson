@@ -339,6 +339,9 @@
         "wk:page":"Trujillo (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f4325263382b3e661eb06ddadedfb8c",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644701,
+    "wof:lastmodified":1582392989,
     "wof:name":"Trujillo",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

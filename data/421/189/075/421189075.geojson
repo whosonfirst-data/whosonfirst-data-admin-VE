@@ -126,6 +126,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"05f54de5e8564105ae1526ef23cd53ec",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421189075,
-    "wof:lastmodified":1566646249,
+    "wof:lastmodified":1582393020,
     "wof:name":"Carlos Arvelo",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

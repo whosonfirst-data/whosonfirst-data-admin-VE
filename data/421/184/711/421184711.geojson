@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009419,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec9ae5ee8226f333b4a4bf6557066d78",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421184711,
-    "wof:lastmodified":1566646288,
+    "wof:lastmodified":1582393025,
     "wof:name":"Santos Marquina",
     "wof:parent_id":421184351,
     "wof:placetype":"localadmin",

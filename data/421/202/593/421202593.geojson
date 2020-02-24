@@ -145,6 +145,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010123,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f10f05c670fc8d8b435adb3db69fb9d",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421202593,
-    "wof:lastmodified":1566646234,
+    "wof:lastmodified":1582393017,
     "wof:name":"Mu\u00f1oz",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

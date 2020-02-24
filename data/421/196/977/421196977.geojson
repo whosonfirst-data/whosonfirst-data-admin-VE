@@ -195,6 +195,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02d6ec6db86e72e629322d83dff00033",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421196977,
-    "wof:lastmodified":1566646270,
+    "wof:lastmodified":1582393022,
     "wof:name":"Mara",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

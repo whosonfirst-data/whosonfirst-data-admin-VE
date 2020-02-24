@@ -55,6 +55,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009626,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f0ace5af82421460a01b736e2aa4187",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421189483,
-    "wof:lastmodified":1566646247,
+    "wof:lastmodified":1582393019,
     "wof:name":"San Francisco de Yare",
     "wof:parent_id":1108694425,
     "wof:placetype":"localadmin",

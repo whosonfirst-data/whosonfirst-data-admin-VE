@@ -337,6 +337,9 @@
         "wk:page":"Lara (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b77ee2a4d659dc38edabb91c3ffc19b",
     "wof:hierarchy":[
         {
@@ -352,7 +355,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644701,
+    "wof:lastmodified":1582392989,
     "wof:name":"Lara",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

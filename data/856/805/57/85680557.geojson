@@ -350,6 +350,9 @@
         "wk:page":"Nueva Esparta"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a198824fba9841ff8b2cc4b1970ec85f",
     "wof:hierarchy":[
         {
@@ -365,7 +368,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644702,
+    "wof:lastmodified":1582392990,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -78,6 +78,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14e09892948d7679b8e1ef05069d35ae",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421189079,
-    "wof:lastmodified":1566646247,
+    "wof:lastmodified":1582393019,
     "wof:name":"Mellado",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

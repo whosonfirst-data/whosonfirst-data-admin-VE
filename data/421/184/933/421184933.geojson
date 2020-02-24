@@ -58,6 +58,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009427,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a801272601709771daa44e2076ad215",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421184933,
-    "wof:lastmodified":1566646287,
+    "wof:lastmodified":1582393025,
     "wof:name":"Macarao",
     "wof:parent_id":1108694091,
     "wof:placetype":"localadmin",

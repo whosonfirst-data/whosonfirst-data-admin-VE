@@ -128,6 +128,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009320,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a89654fcdd9b22c4dbd7e203e28b3387",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421182143,
-    "wof:lastmodified":1566646296,
+    "wof:lastmodified":1582393026,
     "wof:name":"Naguanagua",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

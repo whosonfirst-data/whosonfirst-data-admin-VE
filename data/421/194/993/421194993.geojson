@@ -119,6 +119,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009827,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13507a0a9ae8964f1e38c79b369b3716",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421194993,
-    "wof:lastmodified":1566646225,
+    "wof:lastmodified":1582393016,
     "wof:name":"Cardenal Quintero",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

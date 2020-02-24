@@ -152,6 +152,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4dc19b86b282b596df8107a6d280ea72",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421196981,
-    "wof:lastmodified":1566646273,
+    "wof:lastmodified":1582393023,
     "wof:name":"Raul Leoni",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

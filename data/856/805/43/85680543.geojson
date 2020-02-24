@@ -332,6 +332,9 @@
         "wk:page":"Gu\u00e1rico"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e51a98ca1a904d401edfa3bbd9f9826b",
     "wof:hierarchy":[
         {
@@ -347,7 +350,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644707,
+    "wof:lastmodified":1582392992,
     "wof:name":"Gu\u00e1rico",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

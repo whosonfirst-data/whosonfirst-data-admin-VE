@@ -345,6 +345,9 @@
         "wk:page":"M\u00e9rida (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc84460692b1d2b5cbfc438dd9866355",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644698,
+    "wof:lastmodified":1582392988,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

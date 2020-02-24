@@ -331,6 +331,9 @@
         "wk:page":"Yaracuy"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c22e86c1a1bec54e372c73cddf0f94ec",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644707,
+    "wof:lastmodified":1582392992,
     "wof:name":"Yaracuy",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

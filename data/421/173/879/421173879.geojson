@@ -92,6 +92,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009009,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02719968d10fd6ecb47c381c20133612",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421173879,
-    "wof:lastmodified":1566646245,
+    "wof:lastmodified":1582393019,
     "wof:name":"San Antonio del T\u00e1chira",
     "wof:parent_id":421185265,
     "wof:placetype":"locality",

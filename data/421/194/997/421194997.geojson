@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009828,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c56dd15881715ff342f9bb4b17e6a774",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421194997,
-    "wof:lastmodified":1566646223,
+    "wof:lastmodified":1582393016,
     "wof:name":"Jose Cenobio",
     "wof:parent_id":1108694415,
     "wof:placetype":"localadmin",

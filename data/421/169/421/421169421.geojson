@@ -114,6 +114,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008809,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a078c0ea2283565f410c3dcebdc592eb",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421169421,
-    "wof:lastmodified":1566646228,
+    "wof:lastmodified":1582393017,
     "wof:name":"Tovar",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -179,6 +179,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5c263860d81798199a63051eeae7201",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421189087,
-    "wof:lastmodified":1566646249,
+    "wof:lastmodified":1582393019,
     "wof:name":"Guanare",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

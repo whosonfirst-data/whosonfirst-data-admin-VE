@@ -79,6 +79,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bd553295d14982a6cda5e99707667d7",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421196991,
-    "wof:lastmodified":1566646270,
+    "wof:lastmodified":1582393022,
     "wof:name":"Caucagua",
     "wof:parent_id":421166897,
     "wof:placetype":"localadmin",

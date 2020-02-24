@@ -144,6 +144,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c633d0e5b1b15531a7dcf17882ea4f1a",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421171651,
-    "wof:lastmodified":1566646299,
+    "wof:lastmodified":1582393027,
     "wof:name":"Achaguas",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

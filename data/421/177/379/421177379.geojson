@@ -77,6 +77,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009142,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ae06ba3710ccbece393d390843fd0bb",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421177379,
-    "wof:lastmodified":1566646290,
+    "wof:lastmodified":1582393026,
     "wof:name":"San Jose de Guanipa",
     "wof:parent_id":421182997,
     "wof:placetype":"localadmin",

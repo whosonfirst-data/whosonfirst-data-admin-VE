@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009692,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3740bf9dbb47bd89279cecbdcf3d1037",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421191439,
-    "wof:lastmodified":1566646274,
+    "wof:lastmodified":1582393023,
     "wof:name":"Alto de Los Godos",
     "wof:parent_id":421186375,
     "wof:placetype":"localadmin",

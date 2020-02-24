@@ -136,6 +136,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009774,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a594f4b574dad33fe1846d68ad956ec",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421193519,
-    "wof:lastmodified":1566646226,
+    "wof:lastmodified":1582393016,
     "wof:name":"Camatagua",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

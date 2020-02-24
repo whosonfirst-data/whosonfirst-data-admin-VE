@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008902,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf554e3163befc4b5450d1f27a379f40",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171673,
-    "wof:lastmodified":1566646299,
+    "wof:lastmodified":1582393027,
     "wof:name":"Urbana Juan Jose Flores",
     "wof:parent_id":421198089,
     "wof:placetype":"localadmin",

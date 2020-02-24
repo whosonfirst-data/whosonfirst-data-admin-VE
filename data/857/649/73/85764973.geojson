@@ -111,6 +111,9 @@
         "qs:id":489670
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b9c43f1e895f7532b50890e774977fd",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1582392986,
     "wof:name":"La Carlota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

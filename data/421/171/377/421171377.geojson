@@ -153,6 +153,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008891,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7087e6274b719f8f6c79ab3c8be4c81",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421171377,
-    "wof:lastmodified":1566646300,
+    "wof:lastmodified":1582393027,
     "wof:name":"Baruta",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

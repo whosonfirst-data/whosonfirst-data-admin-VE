@@ -1007,7 +1007,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1062,6 +1063,11 @@
     },
     "wof:country":"VE",
     "wof:country_alpha3":"VEN",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"646b2b95f5542d527961379040dddc41",
     "wof:hierarchy":[
         {
@@ -1076,7 +1082,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644710,
+    "wof:lastmodified":1582392994,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

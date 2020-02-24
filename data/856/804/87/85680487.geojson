@@ -369,6 +369,9 @@
         "wk:page":"Zulia"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f832c3e642977663e087200ed755de12",
     "wof:hierarchy":[
         {
@@ -384,7 +387,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644699,
+    "wof:lastmodified":1582392988,
     "wof:name":"Zulia",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

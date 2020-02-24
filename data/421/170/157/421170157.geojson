@@ -102,6 +102,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008840,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d5bae4a91ada6877ff1a2da671a9d5b",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421170157,
-    "wof:lastmodified":1566646288,
+    "wof:lastmodified":1582393025,
     "wof:name":"Arismendi",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

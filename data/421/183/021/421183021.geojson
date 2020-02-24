@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009355,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3944577740bf3044bf1f7bc279f4f136",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421183021,
-    "wof:lastmodified":1566646293,
+    "wof:lastmodified":1582393026,
     "wof:name":"Mamo",
     "wof:parent_id":421190237,
     "wof:placetype":"localadmin",

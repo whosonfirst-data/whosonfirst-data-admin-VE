@@ -151,6 +151,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010104,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"922989933927b67deced9395b92cfb2f",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421202069,
-    "wof:lastmodified":1566646237,
+    "wof:lastmodified":1582393018,
     "wof:name":"Gomez",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

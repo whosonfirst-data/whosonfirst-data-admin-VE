@@ -138,6 +138,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009143,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c037cb6487a785a11af8ccf4805aae1",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421177411,
-    "wof:lastmodified":1566646290,
+    "wof:lastmodified":1582393026,
     "wof:name":"Los Salias",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009904,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9897ce0b58839aca79677dc7abcfe34",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421197139,
-    "wof:lastmodified":1566646279,
+    "wof:lastmodified":1582393024,
     "wof:name":"Ocumare de la Costa",
     "wof:parent_id":421188835,
     "wof:placetype":"localadmin",

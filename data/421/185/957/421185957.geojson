@@ -190,6 +190,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009460,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f17cf283deb18bf1bff92ceab6ccd9d7",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421185957,
-    "wof:lastmodified":1566646305,
+    "wof:lastmodified":1582393027,
     "wof:name":"Ejido",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

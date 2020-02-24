@@ -126,6 +126,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45c95be9ae2d849c0d75114bd497baa9",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421196983,
-    "wof:lastmodified":1566646271,
+    "wof:lastmodified":1582393022,
     "wof:name":"Marcano",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

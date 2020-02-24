@@ -80,6 +80,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009402,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0804c5ff173cb223316dc9895415a7a5",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421184145,
-    "wof:lastmodified":1566646286,
+    "wof:lastmodified":1582393025,
     "wof:name":"Altagracia",
     "wof:parent_id":1108694139,
     "wof:placetype":"localadmin",

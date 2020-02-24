@@ -429,6 +429,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba80442efe132e257643fee0bafcddfb",
     "wof:hierarchy":[
         {
@@ -439,7 +442,7 @@
         }
     ],
     "wof:id":421175383,
-    "wof:lastmodified":1566646266,
+    "wof:lastmodified":1582393021,
     "wof:name":"Sucre",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

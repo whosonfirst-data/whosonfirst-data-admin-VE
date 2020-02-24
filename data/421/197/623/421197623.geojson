@@ -73,6 +73,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009919,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0502e6d65d3c55aee4ee1b40dead28e3",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421197623,
-    "wof:lastmodified":1566646279,
+    "wof:lastmodified":1582393024,
     "wof:name":"Piar",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009143,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66f2a79168253b2943c681a0f0894314",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421177403,
-    "wof:lastmodified":1566646290,
+    "wof:lastmodified":1582393026,
     "wof:name":"El Cafetal",
     "wof:parent_id":421171377,
     "wof:placetype":"localadmin",

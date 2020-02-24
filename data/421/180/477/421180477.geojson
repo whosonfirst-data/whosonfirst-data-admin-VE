@@ -479,6 +479,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009260,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4779f1e14baee071eaf2a2329b8a313",
     "wof:hierarchy":[
         {
@@ -489,7 +492,7 @@
         }
     ],
     "wof:id":421180477,
-    "wof:lastmodified":1566646239,
+    "wof:lastmodified":1582393018,
     "wof:name":"San Diego",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

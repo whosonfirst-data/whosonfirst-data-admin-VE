@@ -85,6 +85,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba51f93749138c108b7af59b72434f6e",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421189099,
-    "wof:lastmodified":1566646247,
+    "wof:lastmodified":1582393019,
     "wof:name":"Delicias",
     "wof:parent_id":421185265,
     "wof:placetype":"localadmin",

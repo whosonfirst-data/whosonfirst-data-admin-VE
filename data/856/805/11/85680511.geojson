@@ -375,6 +375,9 @@
         "wk:page":"Amazonas (Venezuelan state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f2e75046ebf061cac91d4f3c6b9191e",
     "wof:hierarchy":[
         {
@@ -390,7 +393,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644703,
+    "wof:lastmodified":1582392990,
     "wof:name":"Amazonas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

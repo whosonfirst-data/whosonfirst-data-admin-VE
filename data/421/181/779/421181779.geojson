@@ -111,6 +111,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009306,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e918c50a96d900a159dfaa2d6084e393",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421181779,
-    "wof:lastmodified":1566646263,
+    "wof:lastmodified":1582393021,
     "wof:name":"Piritu",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

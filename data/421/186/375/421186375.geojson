@@ -130,6 +130,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009479,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67e0daa8cb5f5b2991a55a5e822bcb78",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421186375,
-    "wof:lastmodified":1566646261,
+    "wof:lastmodified":1582393021,
     "wof:name":"Maturin",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

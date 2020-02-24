@@ -125,6 +125,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ca0f07a5ad8835263afeeac73bd1693",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421171645,
-    "wof:lastmodified":1566646298,
+    "wof:lastmodified":1582393026,
     "wof:name":"San Juan De Capistrano",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

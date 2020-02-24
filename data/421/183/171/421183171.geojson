@@ -116,6 +116,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009360,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"171fb5176a1c7e8f960d4e878b2a83d0",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421183171,
-    "wof:lastmodified":1566646294,
+    "wof:lastmodified":1582393026,
     "wof:name":"Uribante",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -144,6 +144,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e17279f781cb25ebe036a9add8e24d9",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421189081,
-    "wof:lastmodified":1566646249,
+    "wof:lastmodified":1582393019,
     "wof:name":"Plaza",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

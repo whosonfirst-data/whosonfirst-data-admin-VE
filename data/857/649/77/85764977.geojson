@@ -88,6 +88,9 @@
         "qs_pg:id":1082767
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"218c389da1002ab4611eb04fda7ccb2e",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644697,
+    "wof:lastmodified":1582392987,
     "wof:name":"La Pastora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

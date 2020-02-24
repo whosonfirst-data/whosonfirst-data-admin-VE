@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a8b21cbacffd976c23bd8fd45000fcf",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189113,
-    "wof:lastmodified":1566646250,
+    "wof:lastmodified":1582393020,
     "wof:name":"Capital Santos Michelena",
     "wof:parent_id":1108694419,
     "wof:placetype":"localadmin",

@@ -124,6 +124,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008830,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7910cd34d5d15eba2501fee83966c85b",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421169951,
-    "wof:lastmodified":1566646228,
+    "wof:lastmodified":1582393017,
     "wof:name":"Petit",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

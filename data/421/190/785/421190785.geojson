@@ -74,6 +74,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009669,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65f86b896405c0a6c5833ab165b08d7d",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421190785,
-    "wof:lastmodified":1566646277,
+    "wof:lastmodified":1582393024,
     "wof:name":"Paez",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

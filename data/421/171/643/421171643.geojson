@@ -187,6 +187,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e7c9472ae535164965bb74f782f17ae",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421171643,
-    "wof:lastmodified":1566646298,
+    "wof:lastmodified":1582393026,
     "wof:name":"Brion",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

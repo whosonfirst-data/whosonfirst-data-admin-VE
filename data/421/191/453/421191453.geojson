@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009693,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e650c8322ff0cc99e53f800d6d84f03",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421191453,
-    "wof:lastmodified":1566646275,
+    "wof:lastmodified":1582393023,
     "wof:name":"Bolivar",
     "wof:parent_id":421200611,
     "wof:placetype":"localadmin",

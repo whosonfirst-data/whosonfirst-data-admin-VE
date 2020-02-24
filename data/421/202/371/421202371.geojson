@@ -107,6 +107,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"43311f3bbf831ee9d989c80f0b49e725",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421202371,
-    "wof:lastmodified":1566646235,
+    "wof:lastmodified":1582393018,
     "wof:name":"Roscio",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

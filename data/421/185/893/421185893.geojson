@@ -258,6 +258,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009457,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8c75355201c43448d8e92c87822a6d6",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":421185893,
-    "wof:lastmodified":1566646304,
+    "wof:lastmodified":1582393027,
     "wof:name":"San Fernando de Apure",
     "wof:parent_id":1108694389,
     "wof:placetype":"locality",
