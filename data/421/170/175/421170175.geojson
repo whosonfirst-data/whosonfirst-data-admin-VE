@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008841,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe2df3e30227c4d978df25e8c5e4914e",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421170175,
-    "wof:lastmodified":1566646288,
+    "wof:lastmodified":1582393025,
     "wof:name":"Urbana Fraternidad",
     "wof:parent_id":421198089,
     "wof:placetype":"localadmin",

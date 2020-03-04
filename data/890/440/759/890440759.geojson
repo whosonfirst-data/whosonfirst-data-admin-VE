@@ -68,6 +68,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052296,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5018e96f1c2c9c342f1471b0c315500",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890440759,
-    "wof:lastmodified":1566646306,
+    "wof:lastmodified":1582393028,
     "wof:name":"Peninsula De Macanao",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

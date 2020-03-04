@@ -161,6 +161,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009475,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1113c5718f13cd97d8cff0dfa615557",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421186263,
-    "wof:lastmodified":1566646260,
+    "wof:lastmodified":1582393021,
     "wof:name":"Santiago Mari\u00f1o",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

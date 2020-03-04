@@ -168,6 +168,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010011,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f790dc2a6a20494f588c99b85721fa6",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421200093,
-    "wof:lastmodified":1566646281,
+    "wof:lastmodified":1582393024,
     "wof:name":"San Carlos",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

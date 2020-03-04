@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009275,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0b4186e815c287e2ac6c8424ca70e0b",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421180901,
-    "wof:lastmodified":1566646239,
+    "wof:lastmodified":1582393018,
     "wof:name":"Antolin del Campo",
     "wof:parent_id":1108694081,
     "wof:placetype":"localadmin",

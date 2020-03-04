@@ -113,6 +113,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008915,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d81f2fbb4f764642550b332bb51b557f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421171999,
-    "wof:lastmodified":1566646298,
+    "wof:lastmodified":1582393026,
     "wof:name":"Campo Elias",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

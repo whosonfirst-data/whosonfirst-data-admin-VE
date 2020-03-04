@@ -367,6 +367,9 @@
         "wk:page":"Apure"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d06017f3b95e897700da84bc3ef4987",
     "wof:hierarchy":[
         {
@@ -382,7 +385,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644700,
+    "wof:lastmodified":1582392989,
     "wof:name":"Apure",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

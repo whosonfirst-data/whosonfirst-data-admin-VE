@@ -111,6 +111,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23dc5880cf8d9b3732d0fef2a65e720f",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421189269,
-    "wof:lastmodified":1566646248,
+    "wof:lastmodified":1582393019,
     "wof:name":"Ayacucho",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

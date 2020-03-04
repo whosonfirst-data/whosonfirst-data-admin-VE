@@ -333,6 +333,9 @@
         "wk:page":"Cojedes (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ecdc182de40910a93795b8fedcdb63e",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644700,
+    "wof:lastmodified":1582392989,
     "wof:name":"Cojedes",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

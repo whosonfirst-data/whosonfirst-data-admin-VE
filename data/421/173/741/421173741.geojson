@@ -65,6 +65,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eae2e7da8f39781e1d385a51dfe53dce",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421173741,
-    "wof:lastmodified":1504913332,
+    "wof:lastmodified":1582393019,
     "wof:name":"Atures",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

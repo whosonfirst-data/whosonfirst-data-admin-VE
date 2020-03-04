@@ -119,6 +119,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009481,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2af79cc15efe34b2f38cbd4384cb9b05",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421186435,
-    "wof:lastmodified":1566646260,
+    "wof:lastmodified":1582393021,
     "wof:name":"Colon",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

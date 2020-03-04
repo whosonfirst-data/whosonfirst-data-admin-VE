@@ -55,6 +55,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010127,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"651b993c19140c6de4ad90ae53853c5c",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421202707,
-    "wof:lastmodified":1566646234,
+    "wof:lastmodified":1582393017,
     "wof:name":"Capital Sucre",
     "wof:parent_id":1108694433,
     "wof:placetype":"localadmin",

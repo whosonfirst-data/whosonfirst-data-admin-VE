@@ -141,6 +141,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009433,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae44b8af73db6809ea1dbbbc3106149c",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":421185127,
-    "wof:lastmodified":1566646304,
+    "wof:lastmodified":1582393027,
     "wof:name":"Acosta",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

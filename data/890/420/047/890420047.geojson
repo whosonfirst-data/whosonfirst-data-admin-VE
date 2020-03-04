@@ -123,6 +123,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469051314,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f9b2db472ef539295d40faa01f6a9ab",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890420047,
-    "wof:lastmodified":1566646311,
+    "wof:lastmodified":1582393028,
     "wof:name":"Alto Orinoco",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

@@ -712,6 +712,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469051199,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efc15ea98d1d38f9ebff55f3d03eed46",
     "wof:hierarchy":[
         {
@@ -722,7 +725,7 @@
         }
     ],
     "wof:id":890417393,
-    "wof:lastmodified":1566646310,
+    "wof:lastmodified":1582393028,
     "wof:name":"Silva",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

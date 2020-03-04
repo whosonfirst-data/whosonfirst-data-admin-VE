@@ -55,6 +55,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008816,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"897b0ca6482cf4e0bcaa060722601785",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421169577,
-    "wof:lastmodified":1566646228,
+    "wof:lastmodified":1582393017,
     "wof:name":"San Antonio de Los Altos",
     "wof:parent_id":421177411,
     "wof:placetype":"localadmin",

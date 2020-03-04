@@ -163,6 +163,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010080,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"358b4296d096856e26ba5586f12a03c3",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421201655,
-    "wof:lastmodified":1566646283,
+    "wof:lastmodified":1582393024,
     "wof:name":"Santa Barbara",
     "wof:parent_id":421186435,
     "wof:placetype":"localadmin",

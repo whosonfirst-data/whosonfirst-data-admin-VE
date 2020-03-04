@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009885,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a383988e25736be5dd2d6b6e85a94e56",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421196555,
-    "wof:lastmodified":1566646271,
+    "wof:lastmodified":1582393023,
     "wof:name":"Chacanta",
     "wof:parent_id":421175381,
     "wof:placetype":"localadmin",

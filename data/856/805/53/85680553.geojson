@@ -345,6 +345,9 @@
         "wk:page":"Miranda (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f5f86a5a1b9709f7b5b8cb3a4bd4751",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644708,
+    "wof:lastmodified":1582392992,
     "wof:name":"Miranda",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -117,6 +117,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009956,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a224ad3cd947428978eaf641c68a3c44",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421198671,
-    "wof:lastmodified":1566646269,
+    "wof:lastmodified":1582393022,
     "wof:name":"Sifontes",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

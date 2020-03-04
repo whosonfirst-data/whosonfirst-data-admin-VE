@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dde0a739cc66bb0bc6a33b0f1fc2dbee",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421196987,
-    "wof:lastmodified":1566646272,
+    "wof:lastmodified":1582393023,
     "wof:name":"Capital Michelena",
     "wof:parent_id":1108694287,
     "wof:placetype":"localadmin",

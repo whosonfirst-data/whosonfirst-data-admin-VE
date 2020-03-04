@@ -129,6 +129,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009570,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4305d26e72b49f2769a966198ee7dcab",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421188591,
-    "wof:lastmodified":1566646252,
+    "wof:lastmodified":1582393020,
     "wof:name":"Buroz",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

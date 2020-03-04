@@ -123,6 +123,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010103,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5458885804ef7da38e3095cc5402d46",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421202067,
-    "wof:lastmodified":1566646237,
+    "wof:lastmodified":1582393018,
     "wof:name":"Jauregui",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

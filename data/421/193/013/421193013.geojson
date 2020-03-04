@@ -97,6 +97,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009757,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a461bc05665ef478d51be0513b7716dc",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421193013,
-    "wof:lastmodified":1566646226,
+    "wof:lastmodified":1582393016,
     "wof:name":"Anaco",
     "wof:parent_id":421175071,
     "wof:placetype":"localadmin",

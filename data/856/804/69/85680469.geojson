@@ -354,6 +354,9 @@
         "wk:page":"Barinas (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"deebd4ef9f546d4dae0d1e255385e3b1",
     "wof:hierarchy":[
         {
@@ -369,7 +372,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644698,
+    "wof:lastmodified":1582392987,
     "wof:name":"Barinas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -306,6 +306,9 @@
         "wk:page":"Capital District (Venezuela)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03fdb20863219db8351adf114fa3b250",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644703,
+    "wof:lastmodified":1582392990,
     "wof:name":"Distrito Capital",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

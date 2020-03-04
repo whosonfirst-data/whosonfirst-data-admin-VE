@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009885,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7bc38b9b894705be7da203d5998c747",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421196543,
-    "wof:lastmodified":1566646271,
+    "wof:lastmodified":1582393023,
     "wof:name":"Antonio Diaz",
     "wof:parent_id":1108694453,
     "wof:placetype":"localadmin",

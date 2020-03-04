@@ -125,6 +125,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009707,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4284757daf3a485d9f3630b9fb94ebf",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421191761,
-    "wof:lastmodified":1566646275,
+    "wof:lastmodified":1582393023,
     "wof:name":"Obispo Ramos De Lora",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

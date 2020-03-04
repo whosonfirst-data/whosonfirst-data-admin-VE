@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009828,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e40e76624856c48a50d746cc2c908cdd",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421195003,
-    "wof:lastmodified":1566646221,
+    "wof:lastmodified":1582393016,
     "wof:name":"Monsenor Jauregui",
     "wof:parent_id":421188083,
     "wof:placetype":"localadmin",

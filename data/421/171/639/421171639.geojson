@@ -100,6 +100,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"741b0b972f0bba1c75d6cdcaa7fa057d",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421171639,
-    "wof:lastmodified":1566646302,
+    "wof:lastmodified":1582393027,
     "wof:name":"Heres",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

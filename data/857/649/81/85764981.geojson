@@ -75,6 +75,9 @@
         "qs:id":1082769
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a42a1337450cf7bca76a6543173e4546",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379806,
+    "wof:lastmodified":1582392986,
     "wof:name":"Las Flores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

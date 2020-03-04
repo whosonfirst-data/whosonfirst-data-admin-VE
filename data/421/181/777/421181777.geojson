@@ -97,6 +97,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009306,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5da413783a590ceb1566902f5d4374dc",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421181777,
-    "wof:lastmodified":1566646263,
+    "wof:lastmodified":1582393021,
     "wof:name":"Jose Rafael Revenga",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

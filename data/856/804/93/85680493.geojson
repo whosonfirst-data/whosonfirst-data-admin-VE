@@ -358,6 +358,9 @@
         "wk:page":"Carabobo"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d504b3a71575ed8c9f04195d500ec85c",
     "wof:hierarchy":[
         {
@@ -373,7 +376,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644698,
+    "wof:lastmodified":1582392988,
     "wof:name":"Carabobo",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

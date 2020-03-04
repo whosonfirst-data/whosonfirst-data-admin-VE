@@ -87,6 +87,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010198,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08c9dee17f705fd5fd18686b952034ee",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421204791,
-    "wof:lastmodified":1566646228,
+    "wof:lastmodified":1582393017,
     "wof:name":"Sotillo",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

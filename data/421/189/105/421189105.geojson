@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fdedf05364195beef49913ec75ee60a8",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189105,
-    "wof:lastmodified":1566646246,
+    "wof:lastmodified":1582393019,
     "wof:name":"La Dolorita",
     "wof:parent_id":421171381,
     "wof:placetype":"localadmin",

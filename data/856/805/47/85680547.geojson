@@ -332,6 +332,9 @@
         "wk:page":"Monagas"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97a741ebac38a4e3484603dc32e973e7",
     "wof:hierarchy":[
         {
@@ -347,7 +350,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644708,
+    "wof:lastmodified":1582392993,
     "wof:name":"Monagas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -109,6 +109,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008929,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1fbdf70f80af1c3f59556536b5b48529",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421172279,
-    "wof:lastmodified":1566646255,
+    "wof:lastmodified":1582393020,
     "wof:name":"Bejuma",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

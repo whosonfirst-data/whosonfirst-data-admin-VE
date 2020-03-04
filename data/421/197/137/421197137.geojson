@@ -88,6 +88,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009904,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4723a42fab37a63dbe543d620958c7a7",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421197137,
-    "wof:lastmodified":1566646279,
+    "wof:lastmodified":1582393024,
     "wof:name":"Cabudare",
     "wof:parent_id":1108694327,
     "wof:placetype":"localadmin",

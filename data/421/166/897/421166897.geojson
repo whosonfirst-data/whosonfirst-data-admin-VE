@@ -156,6 +156,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008706,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"917d03e469579e4099b8a6cf756f4b54",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421166897,
-    "wof:lastmodified":1566646215,
+    "wof:lastmodified":1582393015,
     "wof:name":"Acevedo",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

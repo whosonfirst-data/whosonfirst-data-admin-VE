@@ -111,6 +111,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008948,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"361de17f74a3c40e6834bbc9c496218d",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421172605,
-    "wof:lastmodified":1566646252,
+    "wof:lastmodified":1582393020,
     "wof:name":"Urdaneta",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

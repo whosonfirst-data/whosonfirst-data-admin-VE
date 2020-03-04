@@ -129,6 +129,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009850,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4197636f557e1a41d714c819507424cc",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421195495,
-    "wof:lastmodified":1566646222,
+    "wof:lastmodified":1582393016,
     "wof:name":"Juan Jose Mora",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

@@ -76,6 +76,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009693,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c71ed117ae30718f0fd814fb11faac2",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421191455,
-    "wof:lastmodified":1566646275,
+    "wof:lastmodified":1582393023,
     "wof:name":"El Consejo",
     "wof:parent_id":421181777,
     "wof:placetype":"localadmin",

@@ -70,6 +70,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010123,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6839875256e8a0e93e037ded037cfb9b",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421202605,
-    "wof:lastmodified":1566646234,
+    "wof:lastmodified":1582393017,
     "wof:name":"Chichiriviche",
     "wof:parent_id":421193381,
     "wof:placetype":"localadmin",

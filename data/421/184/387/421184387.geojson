@@ -126,6 +126,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f6633c3b8e627f138d6d3f408049c241",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421184387,
-    "wof:lastmodified":1566646287,
+    "wof:lastmodified":1582393025,
     "wof:name":"Pedro Gual",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

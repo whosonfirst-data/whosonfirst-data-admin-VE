@@ -94,6 +94,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009406,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d79ece57ae8284f5ce215552206b809",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421184299,
-    "wof:lastmodified":1566646287,
+    "wof:lastmodified":1582393025,
     "wof:name":"Calabozo",
     "wof:parent_id":1108694293,
     "wof:placetype":"localadmin",

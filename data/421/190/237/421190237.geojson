@@ -139,6 +139,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009651,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"991b2f2dbbb37b313c7e64c18690f681",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421190237,
-    "wof:lastmodified":1566646279,
+    "wof:lastmodified":1582393024,
     "wof:name":"Caroni",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

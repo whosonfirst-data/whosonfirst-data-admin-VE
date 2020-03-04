@@ -150,6 +150,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e063ff76e60186fcc57cd4b06a6eea3b",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421189069,
-    "wof:lastmodified":1566646250,
+    "wof:lastmodified":1582393020,
     "wof:name":"Simon Rodriguez",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

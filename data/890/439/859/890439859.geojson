@@ -62,6 +62,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052252,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9b09a199478f483011ca0183ebb74c2",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890439859,
-    "wof:lastmodified":1566646308,
+    "wof:lastmodified":1582393028,
     "wof:name":"Pampanito",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

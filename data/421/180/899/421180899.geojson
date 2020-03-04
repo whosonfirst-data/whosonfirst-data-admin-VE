@@ -210,6 +210,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009275,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"438a12238408ebaeee5b15808e551654",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421180899,
-    "wof:lastmodified":1566646241,
+    "wof:lastmodified":1582393019,
     "wof:name":"Romulo Gallegos",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

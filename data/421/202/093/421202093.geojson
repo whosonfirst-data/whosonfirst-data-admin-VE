@@ -130,6 +130,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010105,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc5fe877de8600c74d7fa97802ff512f",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421202093,
-    "wof:lastmodified":1566646237,
+    "wof:lastmodified":1582393018,
     "wof:name":"Rubio",
     "wof:parent_id":421203511,
     "wof:placetype":"locality",

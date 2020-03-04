@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010123,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b1cd2a7d257f37ac065026c47f192ac",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421202595,
-    "wof:lastmodified":1566646234,
+    "wof:lastmodified":1582393017,
     "wof:name":"Idelfonso Vasquez",
     "wof:parent_id":421172589,
     "wof:placetype":"localadmin",

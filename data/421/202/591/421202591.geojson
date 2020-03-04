@@ -88,6 +88,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010123,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72d435d9ffb32f09baca443a96ebaf7a",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421202591,
-    "wof:lastmodified":1566646236,
+    "wof:lastmodified":1582393018,
     "wof:name":"Libertador",
     "wof:parent_id":85680535,
     "wof:placetype":"county",

@@ -82,6 +82,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009403,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba5b51d20254612acce600943ff19e98",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421184197,
-    "wof:lastmodified":1566646286,
+    "wof:lastmodified":1582393025,
     "wof:name":"Ricaurte",
     "wof:parent_id":421196977,
     "wof:placetype":"localadmin",

@@ -287,6 +287,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052351,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9054355773bfbf9ba5e2639c2e7a6f02",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":890442127,
-    "wof:lastmodified":1566646312,
+    "wof:lastmodified":1582393028,
     "wof:name":"San Felipe",
     "wof:parent_id":890450031,
     "wof:placetype":"locality",

@@ -73,6 +73,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"887ff35ca77d68bac2f02f6cc2c0a218",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421189091,
-    "wof:lastmodified":1566646247,
+    "wof:lastmodified":1582393019,
     "wof:name":"Carmen Herrera",
     "wof:parent_id":421202059,
     "wof:placetype":"localadmin",

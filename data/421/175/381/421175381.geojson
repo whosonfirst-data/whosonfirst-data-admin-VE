@@ -123,6 +123,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec17d6e251249f5faaeb686f3341955b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421175381,
-    "wof:lastmodified":1566646267,
+    "wof:lastmodified":1582393022,
     "wof:name":"Arzobispo Chacon",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

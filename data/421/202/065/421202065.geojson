@@ -340,6 +340,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010103,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"839242a8b82f03613da0c4485c00befb",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
         }
     ],
     "wof:id":421202065,
-    "wof:lastmodified":1566646234,
+    "wof:lastmodified":1582393017,
     "wof:name":"Jose Maria Vargas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

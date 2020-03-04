@@ -159,6 +159,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010156,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"220201e8a1f6fd7af53070f7f5ff1188",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421203565,
-    "wof:lastmodified":1566646231,
+    "wof:lastmodified":1582393017,
     "wof:name":"Sosa",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

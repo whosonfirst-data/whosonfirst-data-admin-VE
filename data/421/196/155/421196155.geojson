@@ -123,6 +123,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009871,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f17c00e492f6cb075752544479ce863d",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421196155,
-    "wof:lastmodified":1566646272,
+    "wof:lastmodified":1582393023,
     "wof:name":"Guaraque",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -115,6 +115,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469051816,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e62ba1169c82210bf20f86ad10d8af54",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890429493,
-    "wof:lastmodified":1566646310,
+    "wof:lastmodified":1582393028,
     "wof:name":"Barinas",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

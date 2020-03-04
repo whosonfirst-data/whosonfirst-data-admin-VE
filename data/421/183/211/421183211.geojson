@@ -88,6 +88,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009362,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e4ccfa0ca948c51ff49a0c47720b28d",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421183211,
-    "wof:lastmodified":1566646291,
+    "wof:lastmodified":1582393026,
     "wof:name":"Samuel Dario Maldonado",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

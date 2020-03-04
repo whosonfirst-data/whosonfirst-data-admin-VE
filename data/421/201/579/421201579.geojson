@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010077,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca5b091002c44491756fe4761bd28ec8",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421201579,
-    "wof:lastmodified":1566646284,
+    "wof:lastmodified":1582393025,
     "wof:name":"Rio Caribe",
     "wof:parent_id":421193365,
     "wof:placetype":"localadmin",

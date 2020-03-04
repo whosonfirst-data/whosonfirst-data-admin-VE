@@ -110,6 +110,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009575,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b7c848a3e6a47f9e03e62b8a383e159",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421188709,
-    "wof:lastmodified":1566646250,
+    "wof:lastmodified":1582393020,
     "wof:name":"Monte Carmelo",
     "wof:parent_id":1108694309,
     "wof:placetype":"localadmin",

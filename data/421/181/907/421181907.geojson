@@ -122,6 +122,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009312,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae6c3d84dbbe33bf774c3ead9ef2847b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421181907,
-    "wof:lastmodified":1566646262,
+    "wof:lastmodified":1582393021,
     "wof:name":"Cruz Paredes",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

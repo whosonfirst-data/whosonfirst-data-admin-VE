@@ -515,6 +515,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009496,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"402dfb20e7d6b69149af9a2f659563d0",
     "wof:hierarchy":[
         {
@@ -526,7 +529,7 @@
         }
     ],
     "wof:id":421186937,
-    "wof:lastmodified":1566646258,
+    "wof:lastmodified":1582393021,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":1108694253,
     "wof:placetype":"locality",

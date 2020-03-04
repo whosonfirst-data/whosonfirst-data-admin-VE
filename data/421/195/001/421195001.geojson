@@ -67,6 +67,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009828,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59ae40406f8e59cd8f6efea599302300",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421195001,
-    "wof:lastmodified":1566646219,
+    "wof:lastmodified":1582393016,
     "wof:name":"Cocorote",
     "wof:parent_id":421172277,
     "wof:placetype":"localadmin",

@@ -345,6 +345,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009581,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8039c21e91b1081b2b4d4d394c9c109",
     "wof:hierarchy":[
         {
@@ -355,7 +358,7 @@
         }
     ],
     "wof:id":421188829,
-    "wof:lastmodified":1566646250,
+    "wof:lastmodified":1582393020,
     "wof:name":"Trujillo",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

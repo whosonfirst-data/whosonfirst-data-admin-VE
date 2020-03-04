@@ -298,6 +298,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008947,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"378748586de803d40674476ed26b8a73",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":421172589,
-    "wof:lastmodified":1566646254,
+    "wof:lastmodified":1582393020,
     "wof:name":"Maracaibo",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

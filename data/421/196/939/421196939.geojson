@@ -139,6 +139,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009898,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d6947ff7d59af5f8d69b17e60b2cb262",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421196939,
-    "wof:lastmodified":1566646270,
+    "wof:lastmodified":1582393022,
     "wof:name":"Cardenas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

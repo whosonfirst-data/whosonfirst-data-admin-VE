@@ -103,6 +103,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009604,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb2f401dde1112679108e2cd0d67dc8a",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421189103,
-    "wof:lastmodified":1566646246,
+    "wof:lastmodified":1582393019,
     "wof:name":"Petare",
     "wof:parent_id":421171381,
     "wof:placetype":"localadmin",

@@ -109,6 +109,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008915,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa8276c1391152d81167b31b1947a7d0",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421171995,
-    "wof:lastmodified":1566646301,
+    "wof:lastmodified":1582393027,
     "wof:name":"Girardot",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

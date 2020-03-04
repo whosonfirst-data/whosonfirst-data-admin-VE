@@ -117,6 +117,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008706,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a399ac326b074dd0b9b2cd011fb91d16",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421166905,
-    "wof:lastmodified":1566646214,
+    "wof:lastmodified":1582393015,
     "wof:name":"Aragua",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

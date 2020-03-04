@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008902,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1a748d746fbaad75edc774486d25d3c",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171667,
-    "wof:lastmodified":1566646300,
+    "wof:lastmodified":1582393027,
     "wof:name":"Leoncio Martinez",
     "wof:parent_id":421171381,
     "wof:placetype":"localadmin",

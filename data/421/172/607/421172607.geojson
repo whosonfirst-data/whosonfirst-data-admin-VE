@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008948,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e7f4f0d4bfde9dbbc8f2da58f5b4fb0",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421172607,
-    "wof:lastmodified":1566646256,
+    "wof:lastmodified":1582393021,
     "wof:name":"Lasso de la Vega",
     "wof:parent_id":1108694253,
     "wof:placetype":"localadmin",

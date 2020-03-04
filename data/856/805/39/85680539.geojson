@@ -282,6 +282,9 @@
         "wk:page":"Federal Dependencies of Venezuela"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ec588f1c0e614d891dc85afa33d1536",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644708,
+    "wof:lastmodified":1582392993,
     "wof:name":"Dependencias Federales",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

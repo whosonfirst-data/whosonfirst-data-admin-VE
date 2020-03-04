@@ -85,6 +85,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009626,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f94be62a5de8e1bfad2d39652d075ced",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421189485,
-    "wof:lastmodified":1566646247,
+    "wof:lastmodified":1582393019,
     "wof:name":"Ocumare del Tuy",
     "wof:parent_id":1108694243,
     "wof:placetype":"localadmin",

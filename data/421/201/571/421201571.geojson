@@ -74,6 +74,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010077,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bda44d7289aaed30bafeac7861172cad",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421201571,
-    "wof:lastmodified":1566646284,
+    "wof:lastmodified":1582393025,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

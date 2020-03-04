@@ -107,6 +107,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008929,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9a9249cd0fadd6e20d63fcbc2dea260b",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421172277,
-    "wof:lastmodified":1566646255,
+    "wof:lastmodified":1582393020,
     "wof:name":"Nirgua",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

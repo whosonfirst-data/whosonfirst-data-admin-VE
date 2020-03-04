@@ -315,6 +315,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009437,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d7eb472fe6b27a20a346eb602a7c838",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
         }
     ],
     "wof:id":421185263,
-    "wof:lastmodified":1566646306,
+    "wof:lastmodified":1582393027,
     "wof:name":"Pe\u00f1a",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

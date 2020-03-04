@@ -255,6 +255,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009054,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"000fb995962dc37f5349a15d961c0617",
     "wof:hierarchy":[
         {
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":421175071,
-    "wof:lastmodified":1566646266,
+    "wof:lastmodified":1582393021,
     "wof:name":"Anaco",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

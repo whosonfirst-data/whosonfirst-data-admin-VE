@@ -117,6 +117,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009354,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b12750ed2d8d9913bea809d04dba699",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421182997,
-    "wof:lastmodified":1566646295,
+    "wof:lastmodified":1582393026,
     "wof:name":"Guanipa",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

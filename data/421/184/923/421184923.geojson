@@ -67,6 +67,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009426,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67e58c1cf876cd7ac3151879434fe51e",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421184923,
-    "wof:lastmodified":1566646286,
+    "wof:lastmodified":1582393025,
     "wof:name":"El Morro",
     "wof:parent_id":1108694253,
     "wof:placetype":"localadmin",

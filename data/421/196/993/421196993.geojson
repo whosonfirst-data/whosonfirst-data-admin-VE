@@ -70,6 +70,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18d267918579c1ef8db10f0089b6419a",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421196993,
-    "wof:lastmodified":1566646272,
+    "wof:lastmodified":1582393023,
     "wof:name":"Matriz",
     "wof:parent_id":1108694253,
     "wof:placetype":"localadmin",

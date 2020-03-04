@@ -128,6 +128,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009475,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20befeb2aa2c8c5f138dd995d0fc5109",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421186265,
-    "wof:lastmodified":1566646260,
+    "wof:lastmodified":1582393021,
     "wof:name":"Caripe",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

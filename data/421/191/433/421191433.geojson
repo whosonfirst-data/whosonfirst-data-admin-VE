@@ -100,6 +100,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009692,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da6a5d0dd2181ab332b0e421d06bb334",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421191433,
-    "wof:lastmodified":1566646276,
+    "wof:lastmodified":1582393023,
     "wof:name":"Villalba",
     "wof:parent_id":421177413,
     "wof:placetype":"localadmin",

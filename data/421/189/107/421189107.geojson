@@ -103,6 +103,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af329f7f35455d404c03ee97d69e4ea4",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421189107,
-    "wof:lastmodified":1566646248,
+    "wof:lastmodified":1582393019,
     "wof:name":"Guarenas",
     "wof:parent_id":421189081,
     "wof:placetype":"localadmin",

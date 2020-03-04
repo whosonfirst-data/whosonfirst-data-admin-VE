@@ -148,6 +148,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"641b48f8722ffc490f4a995764d02480",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421171647,
-    "wof:lastmodified":1566646301,
+    "wof:lastmodified":1582393027,
     "wof:name":"Antonio Jose De Sucre",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

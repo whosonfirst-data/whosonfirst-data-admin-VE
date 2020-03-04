@@ -357,6 +357,9 @@
         "wk:page":"Delta Amacuro"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3061287a5f5f38238f45dc17ffcf66d",
     "wof:hierarchy":[
         {
@@ -372,7 +375,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644707,
+    "wof:lastmodified":1582392992,
     "wof:name":"Delta Amacuro",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

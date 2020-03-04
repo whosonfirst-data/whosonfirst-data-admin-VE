@@ -163,6 +163,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008799,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e170ef8ec1fbf3858fa9cdae4c3a5cc",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421169209,
-    "wof:lastmodified":1566646228,
+    "wof:lastmodified":1582393017,
     "wof:name":"Vargas",
     "wof:parent_id":85680533,
     "wof:placetype":"county",

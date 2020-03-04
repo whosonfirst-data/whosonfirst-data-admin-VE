@@ -301,6 +301,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008834,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7ebd7272b0408fca9007b40157ceb5f",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":421170033,
-    "wof:lastmodified":1566646289,
+    "wof:lastmodified":1582393025,
     "wof:name":"Mari\u00f1o",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

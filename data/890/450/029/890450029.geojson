@@ -97,6 +97,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052721,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"846ad23bb83bab03d1b6fc23b2d5c895",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890450029,
-    "wof:lastmodified":1566646315,
+    "wof:lastmodified":1582393028,
     "wof:name":"Carvajal",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

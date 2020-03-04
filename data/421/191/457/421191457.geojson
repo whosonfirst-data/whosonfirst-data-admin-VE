@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009693,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d68c678c4b850c64bf0e5462721108e0",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421191457,
-    "wof:lastmodified":1566646276,
+    "wof:lastmodified":1582393023,
     "wof:name":"San Cristobal",
     "wof:parent_id":421185095,
     "wof:placetype":"localadmin",

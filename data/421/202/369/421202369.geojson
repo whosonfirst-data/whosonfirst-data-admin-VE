@@ -123,6 +123,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4d9a7c1fa85fadac5c10bb6b665c167",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421202369,
-    "wof:lastmodified":1566646235,
+    "wof:lastmodified":1582393018,
     "wof:name":"Gran Sabana",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

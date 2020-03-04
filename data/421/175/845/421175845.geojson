@@ -205,6 +205,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009081,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"516ec8f7821fa00abfe0bb516d70de58",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421175845,
-    "wof:lastmodified":1566646266,
+    "wof:lastmodified":1582393021,
     "wof:name":"El Lim\u00f3n",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

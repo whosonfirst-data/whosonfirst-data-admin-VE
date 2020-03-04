@@ -82,6 +82,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052347,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c5b978e00e61bc1975d892a80695b75",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890442023,
-    "wof:lastmodified":1566646312,
+    "wof:lastmodified":1582393028,
     "wof:name":"Los Taques",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

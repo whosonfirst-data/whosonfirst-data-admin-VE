@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008902,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6517330d61d6b8e444879f3eb0ba73f1",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171671,
-    "wof:lastmodified":1566646301,
+    "wof:lastmodified":1582393027,
     "wof:name":"Urbana San Jose",
     "wof:parent_id":421202373,
     "wof:placetype":"localadmin",

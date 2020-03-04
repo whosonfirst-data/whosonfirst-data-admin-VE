@@ -162,6 +162,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010031,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"903ae1700b0c208b96400b799cecafcb",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421200611,
-    "wof:lastmodified":1566646281,
+    "wof:lastmodified":1582393024,
     "wof:name":"Moran",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

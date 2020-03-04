@@ -126,6 +126,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010116,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34fa59609d400eb9ac539b5f3542a564",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421202375,
-    "wof:lastmodified":1566646238,
+    "wof:lastmodified":1582393018,
     "wof:name":"Guaicaipuro",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

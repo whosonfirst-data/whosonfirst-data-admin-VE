@@ -111,6 +111,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459010115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c879d9ca6dbeb653878a3add0c4b9d6f",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421202373,
-    "wof:lastmodified":1566646237,
+    "wof:lastmodified":1582393018,
     "wof:name":"Valencia",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

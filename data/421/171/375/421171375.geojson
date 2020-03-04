@@ -118,6 +118,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008891,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"89f2165d13c761d3c4b0cd4ba5f819e1",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421171375,
-    "wof:lastmodified":1566646303,
+    "wof:lastmodified":1582393027,
     "wof:name":"San Cristobal",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

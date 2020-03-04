@@ -110,6 +110,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009362,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"125646d4d0318e73220559298c2ea50d",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421183227,
-    "wof:lastmodified":1566646291,
+    "wof:lastmodified":1582393026,
     "wof:name":"Freites",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

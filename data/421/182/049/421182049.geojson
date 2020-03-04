@@ -116,6 +116,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009317,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3122cca4955f62449f0e3558630d73c",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182049,
-    "wof:lastmodified":1566646295,
+    "wof:lastmodified":1582393026,
     "wof:name":"Escuque",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

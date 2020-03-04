@@ -647,6 +647,9 @@
     },
     "wof:country":"VE",
     "wof:created":1469052351,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"9c0870f73b1c024ff1a8c0f4425fe4c9",
     "wof:hierarchy":[
         {
@@ -658,7 +661,7 @@
         }
     ],
     "wof:id":890442147,
-    "wof:lastmodified":1566646314,
+    "wof:lastmodified":1582393028,
     "wof:name":"Caracas",
     "wof:parent_id":1108694107,
     "wof:placetype":"locality",

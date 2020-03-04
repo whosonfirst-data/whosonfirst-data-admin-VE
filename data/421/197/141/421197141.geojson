@@ -61,6 +61,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009904,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fee3d1e6c8f903b271aa2c008a61fcd9",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421197141,
-    "wof:lastmodified":1566646280,
+    "wof:lastmodified":1582393024,
     "wof:name":"Chuao",
     "wof:parent_id":421186263,
     "wof:placetype":"localadmin",

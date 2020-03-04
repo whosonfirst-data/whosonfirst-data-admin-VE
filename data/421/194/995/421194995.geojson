@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009828,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d28b2dd09516300f726ec1dcd98ef21b",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421194995,
-    "wof:lastmodified":1566646224,
+    "wof:lastmodified":1582393016,
     "wof:name":"Capital San Felipe",
     "wof:parent_id":890450031,
     "wof:placetype":"localadmin",

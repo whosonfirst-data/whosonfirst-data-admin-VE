@@ -116,6 +116,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459008699,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c08fa20a3115f24c78c6d801f8dbf81a",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421166695,
-    "wof:lastmodified":1566646214,
+    "wof:lastmodified":1582393015,
     "wof:name":"Diaz",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

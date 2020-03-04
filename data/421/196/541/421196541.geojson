@@ -52,6 +52,9 @@
     },
     "wof:country":"VE",
     "wof:created":1459009885,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db69711d7749d41a35dab29f24c3174e",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421196541,
-    "wof:lastmodified":1566646273,
+    "wof:lastmodified":1582393023,
     "wof:name":"Chiguara",
     "wof:parent_id":1108694437,
     "wof:placetype":"localadmin",

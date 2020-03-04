@@ -347,6 +347,9 @@
         "wk:page":"Sucre (state)"
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"201142bcb9d001be9d84800318f58796",
     "wof:hierarchy":[
         {
@@ -362,7 +365,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644702,
+    "wof:lastmodified":1582392989,
     "wof:name":"Sucre",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

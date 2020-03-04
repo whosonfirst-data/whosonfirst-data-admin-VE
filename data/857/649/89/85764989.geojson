@@ -80,6 +80,9 @@
         "qs:id":489671
     },
     "wof:country":"VE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37f0243880ed542581deaacf3f4fa62e",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379807,
+    "wof:lastmodified":1582392986,
     "wof:name":"Los Caobas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
