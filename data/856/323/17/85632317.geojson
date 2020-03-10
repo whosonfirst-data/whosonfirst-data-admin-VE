@@ -1038,9 +1038,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Venezuela",
-        "digitalenvoy:country_code":[
-            862
-        ],
+        "digitalenvoy:country_code":862,
         "fb:id":"en.venezuela",
         "fifa:id":"VEN",
         "fips:code":"VE",
@@ -1084,7 +1082,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529244,
+    "wof:lastmodified":1583797454,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
