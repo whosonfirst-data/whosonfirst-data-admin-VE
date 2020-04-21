@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":74.764141,
-    "geom:area_square_m":916447469563.174561,
+    "geom:area_square_m":916447464024.27356,
     "geom:bbox":"-73.351558,0.647529,-59.805666,12.499056",
     "geom:latitude":7.133888,
     "geom:longitude":-66.150128,
@@ -62,6 +62,9 @@
     ],
     "name:arg_x_variant":[
         "Benezuela"
+    ],
+    "name:ary_x_preferred":[
+        "\u06a4\u064a\u0646\u064a\u0632\u0648\u064a\u0644\u0627"
     ],
     "name:arz_x_preferred":[
         "\u06a4\u064a\u0646\u064a\u0632\u0648\u064a\u0644\u0627"
@@ -181,6 +184,9 @@
     "name:crh_x_preferred":[
         "Venesuela"
     ],
+    "name:csb_x_preferred":[
+        "Wenezuelsk\u00f4"
+    ],
     "name:cym_x_preferred":[
         "Feneswela"
     ],
@@ -188,6 +194,12 @@
         "Venezuela"
     ],
     "name:dan_x_preferred":[
+        "Venezuela"
+    ],
+    "name:deu_at_x_preferred":[
+        "Venezuela"
+    ],
+    "name:deu_ch_x_preferred":[
         "Venezuela"
     ],
     "name:deu_x_preferred":[
@@ -210,6 +222,12 @@
     ],
     "name:eml_x_preferred":[
         "Venes\u00fcela"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Venezuela"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Venezuela"
     ],
     "name:eng_x_preferred":[
         "Venezuela"
@@ -285,6 +303,9 @@
     "name:gag_x_preferred":[
         "Venesuela"
     ],
+    "name:gcr_x_preferred":[
+        "V\u00e9n\u00e9zw\u00e9la"
+    ],
     "name:ger_x_variant":[
         "Bolivarische Republik Venezuela"
     ],
@@ -306,6 +327,9 @@
     "name:gom_x_preferred":[
         "\u0935\u094d\u0939\u0947\u0928\u0947\u091d\u0941\u090f\u0932\u093e"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf46\ud800\udf30\ud800\udf3d\ud800\udf3e\ud800\udf30\ud800\udf45\ud800\udf34\ud800\udf39\ud800\udf3d\ud800\udf43"
+    ],
     "name:grn_x_preferred":[
         "Venesu\u00e9la"
     ],
@@ -323,6 +347,12 @@
     ],
     "name:hau_x_preferred":[
         "Benezuwela"
+    ],
+    "name:hau_x_variant":[
+        "Venezuela"
+    ],
+    "name:haw_x_preferred":[
+        "Wenekola"
     ],
     "name:hbs_x_preferred":[
         "Venezuela"
@@ -557,6 +587,9 @@
     "name:mon_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b"
     ],
+    "name:mri_x_preferred":[
+        "Weneh\u016bera"
+    ],
     "name:mrj_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
     ],
@@ -568,6 +601,9 @@
     ],
     "name:mya_x_variant":[
         "\u1017\u1004\u103a\u1014\u102e\u1007\u103d\u1032\u101c\u102c\u1038"
+    ],
+    "name:myv_x_preferred":[
+        "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
     ],
     "name:mzn_x_preferred":[
         "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
@@ -661,6 +697,9 @@
     ],
     "name:pol_x_preferred":[
         "Wenezuela"
+    ],
+    "name:por_br_x_preferred":[
+        "Venezuela"
     ],
     "name:por_x_preferred":[
         "Venezuela"
@@ -765,6 +804,12 @@
     ],
     "name:srn_x_preferred":[
         "Venswelikondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0412\u0435\u043d\u0435\u0446\u0443\u0435\u043b\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Venecuela"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0446\u0443\u0435\u043b\u0430"
@@ -914,8 +959,26 @@
     "name:zha_x_preferred":[
         "Venezuela"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u59d4\u5185\u745e\u62c9"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u59d4\u5167\u745e\u62c9"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Venezuela"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u59d4\u5167\u745e\u62c9"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u59d4\u5185\u745e\u62c9"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u59d4\u5185\u745e\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u59d4\u5167\u745e\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u59d4\u5167\u745e\u62c9"
@@ -1082,7 +1145,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583797454,
+    "wof:lastmodified":1587428709,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
