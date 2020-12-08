@@ -664,7 +664,9 @@
         85680535
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632317,
+    "wof:capital_of":[
+        85632317
+    ],
     "wof:concordances":{
         "gn:id":3646738,
         "gp:id":395269,
@@ -691,7 +693,7 @@
         }
     ],
     "wof:id":890442147,
-    "wof:lastmodified":1587428712,
+    "wof:lastmodified":1607390885,
     "wof:name":"Caracas",
     "wof:parent_id":1108694107,
     "wof:placetype":"locality",
