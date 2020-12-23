@@ -325,13 +325,14 @@
     "wof:belongsto":[
         102191577,
         85632317,
-        85680499,
-        421180895
+        421180895,
+        85680499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3648522,
         "gp:id":468382,
+        "ne:id":1159146253,
         "qs_pg:id":274478,
         "wd:id":"Q4709",
         "wk:page":"Barquisimeto"
@@ -352,7 +353,8 @@
         }
     ],
     "wof:id":890440177,
-    "wof:lastmodified":1566646306,
+    "wof:lastmodified":1608688162,
+    "wof:megacity":1,
     "wof:name":"Barquisimeto",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",

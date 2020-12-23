@@ -18,7 +18,7 @@
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":4.0,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Valencia"
@@ -284,6 +284,7 @@
     "wof:concordances":{
         "gn:id":3625549,
         "gp:id":395272,
+        "ne:id":1159150507,
         "qs_pg:id":1075904,
         "wd:id":"Q54880",
         "wk:page":"Valencia"
@@ -305,7 +306,8 @@
         }
     ],
     "wof:id":421186751,
-    "wof:lastmodified":1587428710,
+    "wof:lastmodified":1608688175,
+    "wof:megacity":1,
     "wof:name":"Valencia",
     "wof:parent_id":421202373,
     "wof:placetype":"locality",

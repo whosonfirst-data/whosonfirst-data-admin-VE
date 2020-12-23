@@ -402,6 +402,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3633009,
+        "ne:id":1159151237,
         "qs_pg:id":274469,
         "wd:id":"Q171632",
         "wk:page":"Maracaibo"
@@ -419,7 +420,8 @@
         }
     ],
     "wof:id":890442137,
-    "wof:lastmodified":1587428711,
+    "wof:lastmodified":1608688182,
+    "wof:megacity":1,
     "wof:name":"Maracaibo",
     "wof:parent_id":421172589,
     "wof:placetype":"locality",
