@@ -1135,7 +1135,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1196,7 +1197,8 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso",
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"dd27a732f447943f754d6c3b6f7ac005",
     "wof:hierarchy":[
@@ -1212,7 +1214,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617827743,
+    "wof:lastmodified":1618362905,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
