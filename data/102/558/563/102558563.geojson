@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.27111111,8.23916667,-72.27111111,8.23916667",
+    "geom:bbox":"-72.271111,8.239167,-72.271111,8.239167",
     "geom:latitude":8.239167,
     "geom:longitude":-72.271111,
     "iso:country":"VE",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "La Fr\u00eda Airport"
+    ],
+    "name:eng_x_variant":[
+        "LFR",
+        "SVLF"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627 \u0641\u0631\u06cc\u0627"
@@ -65,7 +69,7 @@
         "wd:id":"Q6462671"
     },
     "wof:country":"VE",
-    "wof:geomhash":"55503d6d8a0edf55d781e21cd98156e7",
+    "wof:geomhash":"b8a473a2615ecc38dd820eb42b3b87cf",
     "wof:hierarchy":[
         {
             "campus_id":102558563,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":102558563,
-    "wof:lastmodified":1566644374,
+    "wof:lastmodified":1631757065,
     "wof:name":"La Fria Airport",
     "wof:parent_id":85680481,
     "wof:placetype":"campus",
@@ -86,10 +90,10 @@
     ]
 },
   "bbox": [
-    -72.27111111,
-    8.23916667,
-    -72.27111111,
-    8.23916667
+    -72.271111,
+    8.239167,
+    -72.271111,
+    8.239167
 ],
-  "geometry": {"coordinates":[-72.27111111000001,8.23916667],"type":"Point"}
+  "geometry": {"coordinates":[-72.271111,8.239167],"type":"Point"}
 }

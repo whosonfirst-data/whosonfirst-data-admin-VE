@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Santa Rosa De Guanare Airport"
     ],
+    "name:eng_x_variant":[
+        "SVQU"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Santa Rosa De Guanare"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102558495,
-    "wof:lastmodified":1566644374,
+    "wof:lastmodified":1631757065,
     "wof:name":"Santa Rosa de Guanare Airport",
     "wof:parent_id":85680503,
     "wof:placetype":"campus",

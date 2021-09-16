@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Santa Barbara De Monagas Airport"
     ],
+    "name:eng_x_variant":[
+        "SVOF"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Santa Barbara De Monagas"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102558567,
-    "wof:lastmodified":1566644374,
+    "wof:lastmodified":1631757065,
     "wof:name":"Santa Barbara de Monagas Airport",
     "wof:parent_id":85680547,
     "wof:placetype":"campus",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Rio De Agua Airport"
     ],
+    "name:eng_x_variant":[
+        "SVRA"
+    ],
     "name:fra_x_preferred":[
         "Gale\u00e3o"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102558607,
-    "wof:lastmodified":1566644374,
+    "wof:lastmodified":1631757065,
     "wof:name":"Rio de Agua Airport",
     "wof:parent_id":85680561,
     "wof:placetype":"campus",
