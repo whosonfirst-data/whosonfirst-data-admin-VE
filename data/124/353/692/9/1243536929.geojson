@@ -39,6 +39,9 @@
         "Lira"
     ],
     "name:fas_x_preferred":[
+        "\u0644\u06cc\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
         "\u0644\u06cc\u0631\u0647"
     ],
     "name:fin_x_preferred":[
@@ -49,6 +52,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Lira"
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0580\u0561"
@@ -98,7 +104,7 @@
         "gn:id":3634723
     },
     "wof:country":"VE",
-    "wof:geomhash":"1e9533b5f5b896713e0f37c8b89a01f7",
+    "wof:geomhash":"d4f6ff810149b3906b96fb0838f65245",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1243536929,
-    "wof:lastmodified":1566646337,
+    "wof:lastmodified":1636506279,
     "wof:name":"Lira",
     "wof:parent_id":421171381,
     "wof:placetype":"locality",
@@ -119,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.76413000000001,
+    -66.76413,
     10.4373,
-    -66.76413000000001,
+    -66.76413,
     10.4373
 ],
-  "geometry": {"coordinates":[-66.76413000000001,10.4373],"type":"Point"}
+  "geometry": {"coordinates":[-66.76412999999999,10.4373],"type":"Point"}
 }

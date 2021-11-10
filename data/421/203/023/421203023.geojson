@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0628\u0627\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09aa\u09be\u099f\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u043f\u0430\u0442\u0430"
     ],
@@ -26,13 +32,31 @@
     "name:deu_x_preferred":[
         "Upata"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03c0\u03b1\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Upata"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u067e\u0627\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Upata"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05d0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u092a\u093e\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Upata"
+    ],
     "name:ina_x_preferred":[
+        "Upata"
+    ],
+    "name:ind_x_preferred":[
         "Upata"
     ],
     "name:ita_x_preferred":[
@@ -40,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30d1\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ud30c\ud0c0"
     ],
     "name:nld_x_preferred":[
         "Upata"
@@ -50,7 +77,25 @@
     "name:por_x_preferred":[
         "Upata"
     ],
+    "name:rus_x_preferred":[
+        "\u0423\u043f\u0430\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Upata"
+    ],
+    "name:swe_x_preferred":[
+        "Upata"
+    ],
+    "name:tur_x_preferred":[
+        "Upata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043f\u0430\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u067e\u0627\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Upata"
     ],
     "name:vol_x_preferred":[
@@ -199,7 +244,7 @@
         }
     ],
     "wof:id":421203023,
-    "wof:lastmodified":1566646230,
+    "wof:lastmodified":1636506261,
     "wof:name":"Upata",
     "wof:parent_id":421197623,
     "wof:placetype":"locality",

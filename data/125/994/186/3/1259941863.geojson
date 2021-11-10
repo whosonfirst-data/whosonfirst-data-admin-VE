@@ -276,6 +276,9 @@
         "Koloradoo"
     ],
     "name:kor_x_preferred":[
+        "\ucf5c\ub85c\ub77c\ub3c4"
+    ],
+    "name:kor_x_variant":[
         "\ucf5c\ub85c\ub77c\ub3c4\uc8fc"
     ],
     "name:kur_x_preferred":[
@@ -462,6 +465,9 @@
         "Colorado"
     ],
     "name:swe_x_preferred":[
+        "Colorado River"
+    ],
+    "name:swe_x_variant":[
         "Colorado"
     ],
     "name:szl_x_preferred":[
@@ -507,6 +513,9 @@
         "Co\u0142orado"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Colorado"
+    ],
+    "name:vie_x_variant":[
         "Colorado"
     ],
     "name:vol_x_preferred":[
@@ -554,7 +563,7 @@
         "gn:id":3795902
     },
     "wof:country":"VE",
-    "wof:geomhash":"f52f6def18b9d3bdc8b2fe970325c18f",
+    "wof:geomhash":"5de1f466501b7f2735184c64874ccef7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -565,7 +574,7 @@
         }
     ],
     "wof:id":1259941863,
-    "wof:lastmodified":1566646774,
+    "wof:lastmodified":1636506330,
     "wof:name":"Colorado",
     "wof:parent_id":1108694443,
     "wof:placetype":"locality",
@@ -575,10 +584,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.09841999999999,
+    -64.09842,
     10.34068,
-    -64.09841999999999,
+    -64.09842,
     10.34068
 ],
-  "geometry": {"coordinates":[-64.09841999999999,10.34068],"type":"Point"}
+  "geometry": {"coordinates":[-64.09842,10.34068],"type":"Point"}
 }

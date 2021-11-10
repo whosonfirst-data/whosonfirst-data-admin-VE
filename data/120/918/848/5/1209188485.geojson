@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Azua"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d6\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Azua"
+    ],
     "name:ita_x_preferred":[
         "Azua"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1209188485,
-    "wof:lastmodified":1566645519,
+    "wof:lastmodified":1636506173,
     "wof:name":"Azua",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

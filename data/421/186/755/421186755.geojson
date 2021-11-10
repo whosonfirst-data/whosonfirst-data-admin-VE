@@ -47,8 +47,14 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0ab2\u0ac7 \u0aa6\u0ac7 \u0ab2\u0abe \u0aaa\u0abe\u0ab8\u0acd\u0a95\u0ac1\u0a86"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05dc\u05d4 \u05d3\u05d4 \u05dc\u05d4 \u05e4\u05e1\u05e7\u05d5\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0932\u0940 \u0926\u0947 \u0932\u093e \u092a\u093e\u0938\u094d\u0915\u0941\u0906"
+    ],
+    "name:hun_x_preferred":[
+        "Valle de la Pascua"
     ],
     "name:ind_x_preferred":[
         "Valle de la Pascua"
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":421186755,
-    "wof:lastmodified":1566646257,
+    "wof:lastmodified":1636506266,
     "wof:name":"Valle de la Pascua",
     "wof:parent_id":421195497,
     "wof:placetype":"locality",

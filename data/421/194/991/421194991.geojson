@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Bol\u00edvar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421194991,
-    "wof:lastmodified":1628266632,
+    "wof:lastmodified":1636506260,
     "wof:name":"Bolivar",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

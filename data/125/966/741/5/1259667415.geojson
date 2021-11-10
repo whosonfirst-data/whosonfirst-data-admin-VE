@@ -138,6 +138,9 @@
         "\u05dc\u05d4 \u05e4\u05d0\u05e1"
     ],
     "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u091c\u093c"
+    ],
+    "name:hin_x_variant":[
         "\u0932\u093e \u092a\u093e\u0938"
     ],
     "name:hrv_x_preferred":[
@@ -368,6 +371,12 @@
     "name:yor_x_preferred":[
         "La Paz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u5df4\u65af"
     ],
@@ -383,7 +392,7 @@
         "gn:id":3768121
     },
     "wof:country":"VE",
-    "wof:geomhash":"760102257a10c0912a496f7d2d748328",
+    "wof:geomhash":"7a721a63a3ee785ac87388036554cad3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -394,7 +403,7 @@
         }
     ],
     "wof:id":1259667415,
-    "wof:lastmodified":1566646748,
+    "wof:lastmodified":1636506327,
     "wof:name":"La Paz",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",
@@ -404,10 +413,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.38221999999999,
+    -69.38222,
     10.03222,
-    -69.38221999999999,
+    -69.38222,
     10.03222
 ],
-  "geometry": {"coordinates":[-69.38221999999999,10.03222],"type":"Point"}
+  "geometry": {"coordinates":[-69.38222,10.03222],"type":"Point"}
 }

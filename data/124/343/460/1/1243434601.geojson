@@ -32,6 +32,12 @@
     "name:ces_x_preferred":[
         "Rojas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d7\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Rojas"
+    ],
     "name:nld_x_preferred":[
         "Rojas"
     ],
@@ -50,7 +56,7 @@
         "gn:id":3628999
     },
     "wof:country":"VE",
-    "wof:geomhash":"e4e8dbf1c6cb294192994d232b87ae9e",
+    "wof:geomhash":"60730c2e48bdb7c5e91afc7cf0dbd8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1243434601,
-    "wof:lastmodified":1566646627,
+    "wof:lastmodified":1636506312,
     "wof:name":"Rojas",
     "wof:parent_id":1108694167,
     "wof:placetype":"locality",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.24689000000001,
+    -70.24689,
     11.00135,
-    -70.24689000000001,
+    -70.24689,
     11.00135
 ],
-  "geometry": {"coordinates":[-70.24689000000001,11.00135],"type":"Point"}
+  "geometry": {"coordinates":[-70.24688999999999,11.00135],"type":"Point"}
 }

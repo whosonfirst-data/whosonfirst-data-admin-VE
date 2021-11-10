@@ -78,9 +78,18 @@
         "Trujillo"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d5\u05d7\u05d9\u05dc\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05d8\u05e8\u05d5\u05d7\u05d9\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u0942\u091c\u093f\u0932\u094b"
+    ],
     "name:hun_x_preferred":[
+        "Trujillo"
+    ],
+    "name:ind_x_preferred":[
         "Trujillo"
     ],
     "name:ita_x_preferred":[
@@ -131,8 +140,14 @@
     "name:swe_x_preferred":[
         "Trujillo"
     ],
+    "name:tur_x_preferred":[
+        "Trujillo"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0456\u043b\u044c\u0439\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Trujillo"
     ],
     "name:war_x_preferred":[
         "Trujillo"
@@ -152,7 +167,7 @@
         "gn:id":3625977
     },
     "wof:country":"VE",
-    "wof:geomhash":"d59cc31117d4862a6a9576891bb41015",
+    "wof:geomhash":"89af8f8b504aa9e209998350d9a49865",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":1343826151,
-    "wof:lastmodified":1566644538,
+    "wof:lastmodified":1636506055,
     "wof:name":"Trujillo",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",
@@ -173,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.01666999999998,
+    -72.01667,
     11.15,
-    -72.01666999999998,
+    -72.01667,
     11.15
 ],
-  "geometry": {"coordinates":[-72.01666999999998,11.15],"type":"Point"}
+  "geometry": {"coordinates":[-72.01667,11.15],"type":"Point"}
 }

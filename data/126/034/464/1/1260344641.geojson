@@ -79,10 +79,16 @@
         "Socorro"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0440\u0440\u043e"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u043e\u043a\u043e\u0440\u0440\u0443"
     ],
     "name:und_x_variant":[
         "El Socorro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0631\u0648"
     ],
     "name:vol_x_preferred":[
         "Socorro"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1260344641,
-    "wof:lastmodified":1566645780,
+    "wof:lastmodified":1636506202,
     "wof:name":"Socorro",
     "wof:parent_id":1108694219,
     "wof:placetype":"locality",

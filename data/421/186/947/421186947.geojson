@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.234909,8.6135245,-70.234909,8.6135245",
+    "geom:bbox":"-70.234909,8.613525,-70.234909,8.613525",
     "geom:latitude":8.613525,
     "geom:longitude":-70.234909,
     "iso:country":"VE",
@@ -90,6 +90,9 @@
         "Barinas"
     ],
     "name:hrv_x_preferred":[
+        "Barinas"
+    ],
+    "name:hun_x_preferred":[
         "Barinas"
     ],
     "name:ido_x_preferred":[
@@ -252,7 +255,7 @@
     },
     "wof:country":"VE",
     "wof:created":1459009497,
-    "wof:geomhash":"da817fe17ccdf4f27ba579a9f69bb75d",
+    "wof:geomhash":"7b38f4ba0568697e5cd88cc81e331447",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":421186947,
-    "wof:lastmodified":1566646259,
+    "wof:lastmodified":1636506266,
     "wof:name":"Barinas",
     "wof:parent_id":890429493,
     "wof:placetype":"locality",
@@ -274,9 +277,9 @@
 },
   "bbox": [
     -70.234909,
-    8.6135245,
+    8.613525,
     -70.234909,
-    8.6135245
+    8.613525
 ],
-  "geometry": {"coordinates":[-70.234909,8.6135245],"type":"Point"}
+  "geometry": {"coordinates":[-70.234909,8.613525],"type":"Point"}
 }

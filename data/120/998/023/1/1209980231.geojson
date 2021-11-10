@@ -56,6 +56,9 @@
     "name:glg_x_preferred":[
         "Altamira"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d8\u05de\u05d9\u05e8\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u057f\u0561\u0574\u056b\u0580\u0561"
     ],
@@ -125,7 +128,7 @@
         "gn:id":3777558
     },
     "wof:country":"VE",
-    "wof:geomhash":"f6ed5850c3d4373123587a6745f644b8",
+    "wof:geomhash":"2f96f56fe3b25a32fdeddd0e997aac45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1209980231,
-    "wof:lastmodified":1566645325,
+    "wof:lastmodified":1636506151,
     "wof:name":"Altamira",
     "wof:parent_id":421186265,
     "wof:placetype":"locality",
@@ -146,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.50796999999999,
+    -63.50797,
     10.23546,
-    -63.50796999999999,
+    -63.50797,
     10.23546
 ],
-  "geometry": {"coordinates":[-63.50796999999999,10.23546],"type":"Point"}
+  "geometry": {"coordinates":[-63.50797,10.23546],"type":"Point"}
 }

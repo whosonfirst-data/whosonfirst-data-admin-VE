@@ -198,6 +198,9 @@
         "\u05e1\u05df \u05e4\u05e8\u05e0\u05e1\u05d9\u05e1\u05e7\u05d5"
     ],
     "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092b\u093c\u094d\u0930\u0948\u0928\u094d\u0938\u093f\u0938\u094d\u0915\u094b"
+    ],
+    "name:hin_x_variant":[
         "\u0938\u0948\u0928 \u092b\u093c\u094d\u0930\u093e\u0902\u0938\u093f\u0938\u094d\u0915\u094b"
     ],
     "name:hrv_x_preferred":[
@@ -518,7 +521,7 @@
         "gn:id":3790510
     },
     "wof:country":"VE",
-    "wof:geomhash":"bb93b809f08f0ac122cdaaf2ea68c09d",
+    "wof:geomhash":"710ccdc625fe1ee9ecace33046848c72",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -529,7 +532,7 @@
         }
     ],
     "wof:id":1277134795,
-    "wof:lastmodified":1566645151,
+    "wof:lastmodified":1636506127,
     "wof:name":"San Francisco",
     "wof:parent_id":1108694193,
     "wof:placetype":"locality",
@@ -539,10 +542,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.27365999999998,
+    -71.27366,
     10.82123,
-    -71.27365999999998,
+    -71.27366,
     10.82123
 ],
-  "geometry": {"coordinates":[-71.27365999999998,10.82123],"type":"Point"}
+  "geometry": {"coordinates":[-71.27366000000001,10.82123],"type":"Point"}
 }

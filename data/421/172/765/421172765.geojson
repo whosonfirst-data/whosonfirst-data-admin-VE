@@ -50,8 +50,14 @@
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0ab0\u0a9d\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e8\u05d6\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u093e\u0930\u091c\u093c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Zaraza"
     ],
     "name:ind_x_preferred":[
         "Zaraza"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":421172765,
-    "wof:lastmodified":1566646252,
+    "wof:lastmodified":1636506265,
     "wof:name":"Zaraza",
     "wof:parent_id":1108694483,
     "wof:placetype":"localadmin",

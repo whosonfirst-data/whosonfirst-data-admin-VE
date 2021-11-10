@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "San Bernardo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d1\u05e8\u05e0\u05e8\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Bernardo"
+    ],
     "name:ita_x_preferred":[
         "San Bernardo"
     ],
@@ -95,7 +101,7 @@
         "gn:id":3628523
     },
     "wof:country":"VE",
-    "wof:geomhash":"87f98f0d5d41030178e422e53e1971a4",
+    "wof:geomhash":"6592baaddd71276cb3e9bc54848c993b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1292970619,
-    "wof:lastmodified":1566644925,
+    "wof:lastmodified":1636506102,
     "wof:name":"San Bernardo",
     "wof:parent_id":1108694243,
     "wof:placetype":"locality",
@@ -116,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.73971999999999,
+    -66.73972,
     10.135,
-    -66.73971999999999,
+    -66.73972,
     10.135
 ],
-  "geometry": {"coordinates":[-66.73971999999999,10.135],"type":"Point"}
+  "geometry": {"coordinates":[-66.73972000000001,10.135],"type":"Point"}
 }

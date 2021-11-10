@@ -75,6 +75,9 @@
         "\u30b5\u30f3\u30ed\u30ec\u30f3\u30bd"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub85c\ub80c\uc870"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub85c\ub80c\uc18c"
     ],
     "name:lit_x_preferred":[
@@ -119,11 +122,17 @@
     "name:swe_x_preferred":[
         "San Lorenzo"
     ],
+    "name:tur_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
     ],
     "name:und_x_variant":[
         "San Timoteo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0632\u0648"
     ],
     "name:vep_x_preferred":[
         "San Lorenso"
@@ -137,6 +146,12 @@
     "name:war_x_preferred":[
         "San Lorenzo"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -149,7 +164,7 @@
         "gn:id":3628027
     },
     "wof:country":"VE",
-    "wof:geomhash":"faec3bbf28f57627daebef516a50d5ac",
+    "wof:geomhash":"b6fee4e71418d8ec6593c0b64dd536d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -160,7 +175,7 @@
         }
     ],
     "wof:id":1259539593,
-    "wof:lastmodified":1566646646,
+    "wof:lastmodified":1636506314,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108694109,
     "wof:placetype":"locality",
@@ -170,10 +185,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.06593000000002,
+    -71.06593,
     9.78555,
-    -71.06593000000002,
+    -71.06593,
     9.78555
 ],
-  "geometry": {"coordinates":[-71.06593000000002,9.78555],"type":"Point"}
+  "geometry": {"coordinates":[-71.06592999999999,9.78555],"type":"Point"}
 }

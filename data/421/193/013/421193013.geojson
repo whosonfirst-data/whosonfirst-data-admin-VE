@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Anaco"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d0\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Anaco"
+    ],
     "name:ita_x_preferred":[
         "Anaco"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421193013,
-    "wof:lastmodified":1582393016,
+    "wof:lastmodified":1636506260,
     "wof:name":"Anaco",
     "wof:parent_id":421175071,
     "wof:placetype":"localadmin",

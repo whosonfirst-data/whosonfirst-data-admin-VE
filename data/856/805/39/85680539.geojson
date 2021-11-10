@@ -66,6 +66,9 @@
     "name:eng_x_variant":[
         "Federal Dependencies of Venezuela"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u067e\u0646\u062f\u0646\u0633\u06cc\u0627\u0633 \u0641\u062f\u0631\u0627\u0632"
+    ],
     "name:fin_x_preferred":[
         "Liittovaltiollinen alue"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u0947\u0928\u0947\u091c\u0941\u090f\u0932\u093e \u0938\u0902\u0918\u0940\u092f \u0928\u093f\u0930\u094d\u092d\u0930\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Dependencias Federales"
     ],
     "name:ind_x_preferred":[
         "Federal Dependencies of Venezuela"
@@ -300,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1587163139,
+    "wof:lastmodified":1636506078,
     "wof:name":"Dependencias Federales",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

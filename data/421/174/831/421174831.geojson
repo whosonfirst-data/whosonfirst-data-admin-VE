@@ -59,10 +59,16 @@
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0a95\u0ac1\u0aaa\u0abf\u0a9f\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05d5\u05e4\u05d9\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u0941\u0915\u0941\u092a\u093f\u0924\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Tucupita"
+    ],
+    "name:hun_x_preferred":[
         "Tucupita"
     ],
     "name:ind_x_preferred":[
@@ -297,7 +303,7 @@
         }
     ],
     "wof:id":421174831,
-    "wof:lastmodified":1566646239,
+    "wof:lastmodified":1636506263,
     "wof:name":"Tucupita",
     "wof:parent_id":421191753,
     "wof:placetype":"locality",

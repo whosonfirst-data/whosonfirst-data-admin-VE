@@ -47,6 +47,9 @@
     "name:bel_x_preferred":[
         "\u0427\u044b\u043c\u0431\u0430\u0440\u0430\u0441\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09ae\u09cd\u09ac\u09cb\u09b0\u09be\u099c\u09cb"
+    ],
     "name:bos_x_preferred":[
         "Chimborazo"
     ],
@@ -221,6 +224,9 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043c\u0431\u043e\u0440\u0430\u0441\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0686\u0645\u0628\u0648\u0631\u0627\u0632\u0648"
+    ],
     "name:vie_x_preferred":[
         "Chimborazo"
     ],
@@ -245,7 +251,7 @@
         "gn:id":3485771
     },
     "wof:country":"VE",
-    "wof:geomhash":"da81d721278ae3d17edcaa3a285128b0",
+    "wof:geomhash":"bc6af8c63f70ba5daf5ad18f0713663d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -256,7 +262,7 @@
         }
     ],
     "wof:id":1260184373,
-    "wof:lastmodified":1566645737,
+    "wof:lastmodified":1636506199,
     "wof:name":"Chimborazo",
     "wof:parent_id":421184195,
     "wof:placetype":"locality",
@@ -266,10 +272,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.32838000000001,
+    -64.32838,
     8.34362,
-    -64.32838000000001,
+    -64.32838,
     8.34362
 ],
-  "geometry": {"coordinates":[-64.32838000000001,8.34362],"type":"Point"}
+  "geometry": {"coordinates":[-64.32838,8.34362],"type":"Point"}
 }

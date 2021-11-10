@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -41,7 +44,7 @@
         "gn:id":3742344
     },
     "wof:country":"VE",
-    "wof:geomhash":"a5873ad16038b5ebbbada14f01fc9f84",
+    "wof:geomhash":"903774aaef6afefb223dff4f58c90fce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1225815035,
-    "wof:lastmodified":1566646991,
+    "wof:lastmodified":1636506351,
     "wof:name":"Bolivar",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.39471999999999,
+    -66.39472,
     10.21139,
-    -66.39471999999999,
+    -66.39472,
     10.21139
 ],
-  "geometry": {"coordinates":[-66.39471999999999,10.21139],"type":"Point"}
+  "geometry": {"coordinates":[-66.39472000000001,10.21139],"type":"Point"}
 }

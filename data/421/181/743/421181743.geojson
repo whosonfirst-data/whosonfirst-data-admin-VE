@@ -30,13 +30,31 @@
         "San Rafael del Moj\u00e1n"
     ],
     "name:por_x_preferred":[
+        "San Rafael"
+    ],
+    "name:por_x_variant":[
         "San Rafael del Moj\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "San Rafael de El Moj\u00e1n"
     ],
+    "name:tur_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "El Moj\u00e1n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "San Rafael"
     ],
     "name:zho_x_preferred":[
         "\u8056\u62c9\u83f2\u723e\u5fb7\u723e\u83ab\u6f22"
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":421181743,
-    "wof:lastmodified":1566646265,
+    "wof:lastmodified":1636506267,
     "wof:name":"San Rafael",
     "wof:parent_id":421196977,
     "wof:placetype":"locality",

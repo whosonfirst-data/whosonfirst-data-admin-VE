@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Ayacucho"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05e7\u05d5\u05e7\u05d5"
+    ],
     "name:ind_x_preferred":[
         "Ayacucho"
     ],
@@ -146,7 +149,7 @@
         "gn:id":3771905
     },
     "wof:country":"VE",
-    "wof:geomhash":"d759f700f25dfcf50a411f3a978d8a0d",
+    "wof:geomhash":"4a2d2e399bb6054d698d11a0250e747f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1293863287,
-    "wof:lastmodified":1566645004,
+    "wof:lastmodified":1636506110,
     "wof:name":"Ayacucho",
     "wof:parent_id":421195497,
     "wof:placetype":"locality",
@@ -167,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.85110999999999,
+    -65.85111,
     8.81278,
-    -65.85110999999999,
+    -65.85111,
     8.81278
 ],
-  "geometry": {"coordinates":[-65.85110999999999,8.81278],"type":"Point"}
+  "geometry": {"coordinates":[-65.85111000000001,8.81278],"type":"Point"}
 }

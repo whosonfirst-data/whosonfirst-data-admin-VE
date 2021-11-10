@@ -20,6 +20,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u062f\u067e\u0646\u062f\u0646\u0633\u06cc\u0627\u0633 \u0641\u062f\u0631\u0627\u0632"
+    ],
+    "name:hun_x_preferred":[
+        "Dependencias Federales"
+    ],
     "qs_pg:aaroncc":"VE",
     "qs_pg:gn_country":"VE",
     "qs_pg:name":"Dependencias Federales",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1125285563,
-    "wof:lastmodified":1566646319,
+    "wof:lastmodified":1636506276,
     "wof:name":"Dependencias Federales",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

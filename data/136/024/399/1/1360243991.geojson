@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Los Andes"
     ],
+    "name:hun_x_preferred":[
+        "Los Andes"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u057d \u0531\u0576\u0564\u0565\u057d"
     ],
@@ -71,7 +74,7 @@
         "gn:id":3738806
     },
     "wof:country":"VE",
-    "wof:geomhash":"719884d6a1951def7d899d8bce61a5af",
+    "wof:geomhash":"02136b0187c63a3e33b5095cb531ec36",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1360243991,
-    "wof:lastmodified":1566646023,
+    "wof:lastmodified":1636506236,
     "wof:name":"Los Andes",
     "wof:parent_id":1108694335,
     "wof:placetype":"locality",
@@ -92,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.09376999999998,
+    -72.09377,
     8.45889,
-    -72.09376999999998,
+    -72.09377,
     8.45889
 ],
-  "geometry": {"coordinates":[-72.09376999999998,8.45889],"type":"Point"}
+  "geometry": {"coordinates":[-72.09377000000001,8.45889],"type":"Point"}
 }

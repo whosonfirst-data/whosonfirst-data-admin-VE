@@ -62,8 +62,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0ab2\u0abe\u0aae\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05dc\u05de\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u0932\u092e\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Porlamar"
     ],
     "name:ind_x_preferred":[
         "Porlamar"
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421186953,
-    "wof:lastmodified":1566646257,
+    "wof:lastmodified":1636506266,
     "wof:name":"Porlamar",
     "wof:parent_id":421170033,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05d1\u05d4 \u05e1\u05d2\u05d5\u05d1\u05d9\u05d4"
+    ],
     "name:por_x_preferred":[
         "Nueva Segovia"
     ],
@@ -44,7 +47,7 @@
         "gn:id":3767986
     },
     "wof:country":"VE",
-    "wof:geomhash":"e5b6fe8192aa95ff8f0cbe9ba80f5e4a",
+    "wof:geomhash":"ff3a30e899df044b10b149bea43b52ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259863117,
-    "wof:lastmodified":1566646831,
+    "wof:lastmodified":1636506334,
     "wof:name":"Nueva Segovia",
     "wof:parent_id":421180895,
     "wof:placetype":"locality",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.28428000000001,
+    -69.28428,
     10.05682,
-    -69.28428000000001,
+    -69.28428,
     10.05682
 ],
-  "geometry": {"coordinates":[-69.28428000000001,10.05682],"type":"Point"}
+  "geometry": {"coordinates":[-69.28428,10.05682],"type":"Point"}
 }

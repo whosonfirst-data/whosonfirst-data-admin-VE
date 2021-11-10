@@ -71,8 +71,14 @@
     "name:grn_x_preferred":[
         "Mbut\u00e1re"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d8\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Huye"
+    ],
+    "name:hun_x_preferred":[
+        "Butare"
     ],
     "name:ile_x_preferred":[
         "Butare"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1259671047,
-    "wof:lastmodified":1566646762,
+    "wof:lastmodified":1636506328,
     "wof:name":"Butare",
     "wof:parent_id":421180897,
     "wof:placetype":"locality",

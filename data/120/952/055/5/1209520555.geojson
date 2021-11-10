@@ -132,6 +132,9 @@
         "Valladolid"
     ],
     "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05d0\u05d3\u05d5\u05dc\u05d9\u05d3"
+    ],
+    "name:heb_x_variant":[
         "\u05d5\u05d0\u05d9\u05d0\u05d3\u05d5\u05dc\u05d9\u05d3"
     ],
     "name:hrv_x_preferred":[
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":1209520555,
-    "wof:lastmodified":1566645376,
+    "wof:lastmodified":1636506157,
     "wof:name":"Valladolid",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

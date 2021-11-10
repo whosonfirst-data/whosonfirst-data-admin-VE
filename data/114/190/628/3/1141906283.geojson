@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-67.020028322,10.4199699086,-67.020028322,10.4199699086",
+    "geom:bbox":"-67.020028,10.41997,-67.020028,10.41997",
     "geom:latitude":10.41997,
     "geom:longitude":-67.020028,
     "iso:country":"VE",
@@ -23,6 +23,9 @@
     ],
     "name:bar_x_preferred":[
         "Los Teques"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09b8 \u099f\u09c7\u0995\u09bf\u0989\u09b8"
     ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u0441 \u0422\u0435\u043a\u0435\u0441"
@@ -58,6 +61,18 @@
         "Los Teques"
     ],
     "name:fra_x_preferred":[
+        "Los Teques"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05d8\u05e7\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0949\u0938 \u091f\u0947\u0915\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Los Teques"
+    ],
+    "name:ind_x_preferred":[
         "Los Teques"
     ],
     "name:ita_x_preferred":[
@@ -111,11 +126,17 @@
     "name:swe_x_preferred":[
         "Los Teques"
     ],
+    "name:tur_x_preferred":[
+        "Los Teques"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u0422\u0435\u043a\u0435\u0441"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0633 \u062a\u06cc\u06a9\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Los Teques"
     ],
     "name:vol_x_preferred":[
         "Los Teques"
@@ -237,7 +258,7 @@
     },
     "wof:country":"VE",
     "wof:created":1499130566,
-    "wof:geomhash":"ec1ba798a263cb1be40f306a8b9ef74f",
+    "wof:geomhash":"85ad3b78d27c2c1f4ceb73a248020542",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -248,7 +269,7 @@
         }
     ],
     "wof:id":1141906283,
-    "wof:lastmodified":1566647160,
+    "wof:lastmodified":1636506369,
     "wof:name":"Los Teques",
     "wof:parent_id":1108694091,
     "wof:placetype":"locality",
@@ -258,10 +279,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.02002832199526,
-    10.41996990858672,
-    -67.02002832199526,
-    10.41996990858672
+    -67.020028,
+    10.41997,
+    -67.020028,
+    10.41997
 ],
-  "geometry": {"coordinates":[-67.02002832199526,10.41996990858672],"type":"Point"}
+  "geometry": {"coordinates":[-67.020028,10.41997],"type":"Point"}
 }

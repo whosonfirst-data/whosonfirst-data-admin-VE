@@ -72,6 +72,9 @@
         "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub77c\ud30c\uc5d8"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub77c\ud30c\uc5d8"
     ],
     "name:mlg_x_preferred":[
@@ -84,10 +87,10 @@
         "San Rafael"
     ],
     "name:por_x_preferred":[
-        "San Rafael de Palo Alzado"
+        "San Rafael"
     ],
     "name:por_x_variant":[
-        "San Rafael"
+        "San Rafael de Palo Alzado"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
@@ -107,6 +110,15 @@
     "name:swe_x_preferred":[
         "San Rafael"
     ],
+    "name:tur_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
     "name:vie_x_preferred":[
         "San Rafael"
     ],
@@ -125,7 +137,7 @@
         "gn:id":3627736
     },
     "wof:country":"VE",
-    "wof:geomhash":"e39e08b4217a64def5a460ad8a11ec15",
+    "wof:geomhash":"237968a78a7e97d64ba8185159a29720",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1310267419,
-    "wof:lastmodified":1566645959,
+    "wof:lastmodified":1636506228,
     "wof:name":"San Rafael",
     "wof:parent_id":1108694441,
     "wof:placetype":"locality",
@@ -146,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.05223000000001,
+    -70.05223,
     9.30878,
-    -70.05223000000001,
+    -70.05223,
     9.30878
 ],
-  "geometry": {"coordinates":[-70.05223000000001,9.30878],"type":"Point"}
+  "geometry": {"coordinates":[-70.05222999999999,9.30878],"type":"Point"}
 }

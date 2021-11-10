@@ -35,6 +35,12 @@
     "name:deu_x_preferred":[
         "Muchinga"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05db\u05e1 \u05de\u05d5\u05e6'\u05d9\u05e0\u05d2\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Muchinga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1192988215,
-    "wof:lastmodified":1566645640,
+    "wof:lastmodified":1636506186,
     "wof:name":"Muchinga",
     "wof:parent_id":421202375,
     "wof:placetype":"locality",

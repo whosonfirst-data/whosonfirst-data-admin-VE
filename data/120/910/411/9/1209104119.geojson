@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Guaranda"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05e8\u05e0\u05d3\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Guaranda"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1209104119,
-    "wof:lastmodified":1566645563,
+    "wof:lastmodified":1636506178,
     "wof:name":"Guaranda",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",

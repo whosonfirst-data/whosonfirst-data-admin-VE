@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-68.01165,10.4742365,-68.01165,10.4742365",
+    "geom:bbox":"-68.01165,10.474236,-68.01165,10.474236",
     "geom:latitude":10.474236,
     "geom:longitude":-68.01165,
     "iso:country":"VE",
@@ -67,6 +67,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u0930\u0924\u094b \u0915\u0948\u092c\u0947\u0932\u094d\u0932\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Puerto Cabello"
     ],
     "name:hye_x_preferred":[
         "\u0537\u056c \u054d\u0561\u056c\u057e\u0561\u0564\u0578\u0580"
@@ -197,7 +200,7 @@
     },
     "wof:country":"VE",
     "wof:created":1459009497,
-    "wof:geomhash":"de1d05094be24d785c978f3fb4b0e21d",
+    "wof:geomhash":"614d4e6ae8b06e0dc33aa0f5d6c1eef8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421186955,
-    "wof:lastmodified":1566646258,
+    "wof:lastmodified":1636506266,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":421198089,
     "wof:placetype":"locality",
@@ -219,9 +222,9 @@
 },
   "bbox": [
     -68.01165,
-    10.4742365,
+    10.474236,
     -68.01165,
-    10.4742365
+    10.474236
 ],
-  "geometry": {"coordinates":[-68.01165,10.4742365],"type":"Point"}
+  "geometry": {"coordinates":[-68.01165,10.474236],"type":"Point"}
 }

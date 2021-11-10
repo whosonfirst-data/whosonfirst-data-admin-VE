@@ -66,6 +66,9 @@
         "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub77c\ud30c\uc5d8"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub77c\ud30c\uc5d8"
     ],
     "name:mlg_x_preferred":[
@@ -95,6 +98,15 @@
     "name:swe_x_preferred":[
         "San Rafael"
     ],
+    "name:tur_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
     "name:vie_x_preferred":[
         "San Rafael"
     ],
@@ -113,7 +125,7 @@
         "gn:id":3627731
     },
     "wof:country":"VE",
-    "wof:geomhash":"175461ec58f4d5c158b0c0a8fb8fb894",
+    "wof:geomhash":"3e76985449ddc78e003fe81727490579",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1260066833,
-    "wof:lastmodified":1566645730,
+    "wof:lastmodified":1636506198,
     "wof:name":"San Rafael",
     "wof:parent_id":1108694365,
     "wof:placetype":"locality",
@@ -134,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.77693000000001,
+    -65.77693,
     9.3983,
-    -65.77693000000001,
+    -65.77693,
     9.3983
 ],
-  "geometry": {"coordinates":[-65.77693000000001,9.3983],"type":"Point"}
+  "geometry": {"coordinates":[-65.77692999999999,9.3983],"type":"Point"}
 }

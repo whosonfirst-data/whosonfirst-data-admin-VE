@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Calabozo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d1\u05d5\u05d6\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Calabozo"
+    ],
     "name:ita_x_preferred":[
         "Calabozo"
     ],
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421184299,
-    "wof:lastmodified":1582393025,
+    "wof:lastmodified":1636506271,
     "wof:name":"Calabozo",
     "wof:parent_id":1108694293,
     "wof:placetype":"localadmin",

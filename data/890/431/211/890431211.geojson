@@ -19,20 +19,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u062a\u0627\u062c\u0631\u0627\u0633\u064a\u0627 \u062f\u064a \u0623\u0648\u0631\u064a\u062a\u0648\u0643\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09b2\u09a4\u09be\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09b8\u09bf\u09df\u09be \u09a6\u09c7 \u0993\u09b0\u09bf\u09a4\u09c1\u0995\u09c1"
+    ],
     "name:cat_x_preferred":[
         "Altagracia de Orituco"
     ],
     "name:deu_x_preferred":[
         "Altagracia de Orituco"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03c4\u03b1\u03b3\u03ba\u03c1\u03ac\u03c3\u03b9\u03b1 \u03bd\u03c4\u03b5 \u039f\u03c1\u03b9\u03c4\u03bf\u03cd\u03ba\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Altagracia de Orituco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u062a\u0627\u06af\u0631\u0627\u0633\u06cc\u0627 \u062f\u06cc \u0627\u0648\u0631\u062a\u0648\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "Altagracia de Orituco"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d8\u05d2\u05e8\u05e1\u05d9\u05d4 \u05d3\u05d4 \u05d0\u05d5\u05e8\u05d9\u05d8\u05d5\u05e7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0911\u0932\u094d\u091f\u093e\u0917\u094d\u0930\u0947\u0938\u093f\u092f\u093e \u0921\u0947 \u0913\u0930\u093f\u091f\u0941\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Altagracia de Orituco"
+    ],
+    "name:ind_x_preferred":[
+        "Altagracia de Orituco"
+    ],
     "name:ita_x_preferred":[
         "Altagracia de Orituco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30bf\u30b0\u30e9\u30b7\u30a2\u30c7\u30aa\u30ea\u30c8\u30a5\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ud0c0\uadf8\ub77c\uc2dc\uc544 \ub370 \uc624\ub9ac\ud22c\ucf54"
     ],
     "name:nld_x_preferred":[
         "Altagracia de Orituco"
@@ -43,7 +73,25 @@
     "name:por_x_preferred":[
         "Altagracia de Orituco"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0430\u0433\u0440\u0430\u0441\u0438\u044f-\u0434\u0435-\u041e\u0440\u0438\u0442\u0443\u043a\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Altagracia de Orituco"
+    ],
+    "name:swe_x_preferred":[
+        "Altagracia de Orituco"
+    ],
+    "name:tur_x_preferred":[
+        "Altagracia de Orituco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0430\u0433\u0440\u0430\u0441\u0456\u0430-\u0434\u0435-\u041e\u0440\u0456\u0442\u0443\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0644\u062a\u0627 \u06af\u0627\u0631\u0633\u06cc\u0627 \u0688\u06cc \u0622\u0631\u0679\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Altagracia de Orituco"
     ],
     "name:zho_x_preferred":[
@@ -172,7 +220,7 @@
         }
     ],
     "wof:id":890431211,
-    "wof:lastmodified":1566646309,
+    "wof:lastmodified":1636506274,
     "wof:name":"Altagracia de Orituco",
     "wof:parent_id":1108694303,
     "wof:placetype":"locality",

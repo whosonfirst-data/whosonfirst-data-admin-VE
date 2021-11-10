@@ -101,6 +101,9 @@
     "name:hin_x_preferred":[
         "\u092c\u093e\u0930\u094d\u0938\u093f\u0932\u094b\u0928\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Barcelona"
+    ],
     "name:ind_x_preferred":[
         "Barcelona"
     ],
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":421197915,
-    "wof:lastmodified":1566646279,
+    "wof:lastmodified":1636506270,
     "wof:name":"Barcelona",
     "wof:parent_id":421185095,
     "wof:placetype":"locality",

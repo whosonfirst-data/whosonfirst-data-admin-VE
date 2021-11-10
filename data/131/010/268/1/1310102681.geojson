@@ -78,6 +78,9 @@
         "\u30de\u30b0\u30c0\u30ec\u30ca"
     ],
     "name:kor_x_preferred":[
+        "\ub9c9\ub2ec\ub808\ub098"
+    ],
+    "name:kor_x_variant":[
         "\ub9c8\uadf8\ub2ec\ub808\ub098"
     ],
     "name:lit_x_preferred":[
@@ -116,6 +119,15 @@
     "name:tgl_x_preferred":[
         "Magdalena"
     ],
+    "name:tur_x_preferred":[
+        "Magdalena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06af\u0688\u0627\u0644\u06cc\u0646\u0627"
+    ],
     "name:vie_x_preferred":[
         "Magdalena"
     ],
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1310102681,
-    "wof:lastmodified":1566645953,
+    "wof:lastmodified":1636506227,
     "wof:name":"Magdalena",
     "wof:parent_id":421197623,
     "wof:placetype":"locality",

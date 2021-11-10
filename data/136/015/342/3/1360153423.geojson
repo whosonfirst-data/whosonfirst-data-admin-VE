@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Independencia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e0\u05d3\u05e4\u05e0\u05d3\u05e0\u05e1\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Independencia"
+    ],
     "name:ita_x_preferred":[
         "Independencia"
     ],
@@ -61,7 +67,7 @@
         "wk:page":"Independencia_Municipality%2C_Yaracuy"
     },
     "wof:country":"VE",
-    "wof:geomhash":"204b289f0f387e7e089d1f119f0daba4",
+    "wof:geomhash":"5cb7076503a52732810491d52181045c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1360153423,
-    "wof:lastmodified":1566646031,
+    "wof:lastmodified":1636506237,
     "wof:name":"Independencia",
     "wof:parent_id":890450031,
     "wof:placetype":"locality",
@@ -82,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.75511999999999,
+    -68.75512,
     10.33432,
-    -68.75511999999999,
+    -68.75512,
     10.33432
 ],
-  "geometry": {"coordinates":[-68.75511999999999,10.33432],"type":"Point"}
+  "geometry": {"coordinates":[-68.75512000000001,10.33432],"type":"Point"}
 }

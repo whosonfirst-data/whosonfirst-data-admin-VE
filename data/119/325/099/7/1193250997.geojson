@@ -81,6 +81,9 @@
         "\u30b5\u30f3\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ud398\ub974\ub09c\ub3c4"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ud398\ub974\ub09c\ub3c4"
     ],
     "name:lit_x_preferred":[
@@ -131,11 +134,20 @@
     "name:und_x_variant":[
         "San Fernando del Guapo"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0646\u06cc\u0646\u062f\u0648"
+    ],
     "name:vie_x_preferred":[
         "San Fernando"
     ],
     "name:war_x_preferred":[
         "San Fernando"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u8d39\u5c14\u5357\u591a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u8cbb\u723e\u5357\u591a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -149,7 +161,7 @@
         "gn:id":3628401
     },
     "wof:country":"VE",
-    "wof:geomhash":"aff6f80dce41ef56fb737e173aaa39bb",
+    "wof:geomhash":"15dd2a5d8b391757ba31a2617cbd17ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -160,7 +172,7 @@
         }
     ],
     "wof:id":1193250997,
-    "wof:lastmodified":1566645627,
+    "wof:lastmodified":1636506185,
     "wof:name":"San Fernando",
     "wof:parent_id":421204299,
     "wof:placetype":"locality",
@@ -170,10 +182,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.94906999999999,
+    -65.94907,
     10.19938,
-    -65.94906999999999,
+    -65.94907,
     10.19938
 ],
-  "geometry": {"coordinates":[-65.94906999999999,10.19938],"type":"Point"}
+  "geometry": {"coordinates":[-65.94907000000001,10.19938],"type":"Point"}
 }

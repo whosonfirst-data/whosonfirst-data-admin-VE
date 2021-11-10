@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Carmelo"
     ],
+    "name:hun_x_preferred":[
+        "Carmelo"
+    ],
     "name:ita_x_preferred":[
         "Carmelo"
     ],
@@ -54,7 +57,7 @@
         "gn:id":3646509
     },
     "wof:country":"VE",
-    "wof:geomhash":"de0294e513ce6cdfa96a7bc8f0709a53",
+    "wof:geomhash":"0df1690e5cb0d33a871874153c2a70c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1360142763,
-    "wof:lastmodified":1566646035,
+    "wof:lastmodified":1636506238,
     "wof:name":"Carmelo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -74,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.73411999999998,
+    -71.73412,
     10.3829,
-    -71.73411999999998,
+    -71.73412,
     10.3829
 ],
-  "geometry": {"coordinates":[-71.73411999999998,10.3829],"type":"Point"}
+  "geometry": {"coordinates":[-71.73412,10.3829],"type":"Point"}
 }

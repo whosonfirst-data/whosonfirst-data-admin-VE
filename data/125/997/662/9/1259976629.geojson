@@ -129,6 +129,9 @@
         "San Salvad\u00f2"
     ],
     "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05e1\u05df \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05df \u05e1\u05dc\u05d5\u05d5\u05d3\u05d5\u05e8"
     ],
     "name:hif_x_preferred":[
@@ -356,7 +359,7 @@
         "gn:id":3627644
     },
     "wof:country":"VE",
-    "wof:geomhash":"4c9d303f115a55e78455a7eaa4348f9e",
+    "wof:geomhash":"5f48e1e8450904e91d5309938dc83fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -367,7 +370,7 @@
         }
     ],
     "wof:id":1259976629,
-    "wof:lastmodified":1566646669,
+    "wof:lastmodified":1636506317,
     "wof:name":"San Salvador",
     "wof:parent_id":421197623,
     "wof:placetype":"locality",
@@ -377,10 +380,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.86666999999999,
+    -62.86667,
     6.98333,
-    -62.86666999999999,
+    -62.86667,
     6.98333
 ],
-  "geometry": {"coordinates":[-62.86666999999999,6.98333],"type":"Point"}
+  "geometry": {"coordinates":[-62.86667,6.98333],"type":"Point"}
 }

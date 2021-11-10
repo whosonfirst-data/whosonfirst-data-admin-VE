@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Sabaneta"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05e0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Sabaneta"
+    ],
     "name:ita_x_preferred":[
         "Sabaneta"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1209874121,
-    "wof:lastmodified":1566645523,
+    "wof:lastmodified":1636506174,
     "wof:name":"Sabaneta",
     "wof:parent_id":1108694217,
     "wof:placetype":"locality",

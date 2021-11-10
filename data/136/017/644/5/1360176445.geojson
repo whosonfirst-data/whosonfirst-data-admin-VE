@@ -50,7 +50,13 @@
     "name:fra_x_preferred":[
         "Urbana"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u094d\u092c\u0928\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Urbana"
+    ],
+    "name:ind_x_preferred":[
         "Urbana"
     ],
     "name:isl_x_preferred":[
@@ -107,7 +113,7 @@
         "gn:id":3625668
     },
     "wof:country":"VE",
-    "wof:geomhash":"2787301b53d6cd96554aa2909003b5da",
+    "wof:geomhash":"9d1f10c19165d96882da7cf6272fed74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1360176445,
-    "wof:lastmodified":1566646082,
+    "wof:lastmodified":1636506243,
     "wof:name":"Urbana",
     "wof:parent_id":421198671,
     "wof:placetype":"locality",
@@ -128,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -60.71666999999999,
+    -60.71667,
     7.41667,
-    -60.71666999999999,
+    -60.71667,
     7.41667
 ],
-  "geometry": {"coordinates":[-60.71666999999999,7.41667],"type":"Point"}
+  "geometry": {"coordinates":[-60.71667,7.41667],"type":"Point"}
 }

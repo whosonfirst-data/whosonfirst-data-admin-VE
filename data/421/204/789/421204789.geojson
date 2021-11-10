@@ -34,11 +34,23 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "San Felipe"
+    ],
     "name:eng_x_variant":[
         "Autonomo San Felipe",
         "Independencia"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u06cc\u0644\u06cc\u067e\u0647"
+    ],
     "name:fra_x_preferred":[
+        "San Felipe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05dc\u05d9\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "San Felipe"
     ],
     "qs:gn_country":null,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":421204789,
-    "wof:lastmodified":1628266711,
+    "wof:lastmodified":1636506261,
     "wof:name":"San Felipe",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

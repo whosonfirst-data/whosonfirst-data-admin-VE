@@ -42,7 +42,13 @@
     "name:fra_x_preferred":[
         "Tucupita"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05d5\u05e4\u05d9\u05d8\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Tucupita"
+    ],
+    "name:hun_x_preferred":[
         "Tucupita"
     ],
     "name:ita_x_preferred":[
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":421180991,
-    "wof:lastmodified":1566646239,
+    "wof:lastmodified":1636506263,
     "wof:name":"Tucupita",
     "wof:parent_id":421191753,
     "wof:placetype":"localadmin",

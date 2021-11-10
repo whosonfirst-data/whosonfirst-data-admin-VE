@@ -86,6 +86,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d1\u05d5\u05d1\u05d5"
     ],
+    "name:hun_x_preferred":[
+        "Carabobo"
+    ],
     "name:ind_x_preferred":[
         "Carabobo"
     ],
@@ -191,7 +194,7 @@
         "gn:id":3646756
     },
     "wof:country":"VE",
-    "wof:geomhash":"af361f7e7746790238fbb2be8cf8cf05",
+    "wof:geomhash":"413a48e01f1d2c05c3755477ff112ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":1226048971,
-    "wof:lastmodified":1566646962,
+    "wof:lastmodified":1636506349,
     "wof:name":"Carabobo",
     "wof:parent_id":421171649,
     "wof:placetype":"locality",
@@ -212,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.26666999999999,
+    -69.26667,
     6.16667,
-    -69.26666999999999,
+    -69.26667,
     6.16667
 ],
-  "geometry": {"coordinates":[-69.26666999999999,6.16667],"type":"Point"}
+  "geometry": {"coordinates":[-69.26667,6.16667],"type":"Point"}
 }

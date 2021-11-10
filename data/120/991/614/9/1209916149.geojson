@@ -29,20 +29,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0627\u0646\u062a\u064a\u0643\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09ae\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09c7\u0995\u09cb"
+    ],
     "name:deu_x_preferred":[
         "El Manteco"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039c\u03b1\u03bd\u03c4\u03ad\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "El Manteco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0645\u0627\u0646\u062a\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
+        "El Manteco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05de\u05e0\u05d8\u05e7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u092e\u0947\u0902\u091f\u0947\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "El Manteco"
+    ],
+    "name:ind_x_preferred":[
         "El Manteco"
     ],
     "name:ita_x_preferred":[
         "El Manteco"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30de\u30f3\u30c6\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8 \ub9cc\ud14c\ucf54"
+    ],
+    "name:nld_x_preferred":[
+        "El Manteco"
+    ],
+    "name:pol_x_preferred":[
+        "El Manteco"
+    ],
     "name:por_x_preferred":[
         "El Manteco"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u043d\u0442\u0435\u043a\u043e"
+    ],
     "name:spa_x_preferred":[
         "El Manteco"
+    ],
+    "name:spa_x_variant":[],
+    "name:swe_x_preferred":[
+        "El Manteco"
+    ],
+    "name:tur_x_preferred":[
+        "El Manteco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0430\u043d\u0442\u0435\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0645\u06cc\u0646\u0679\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Manteco"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u5c14\u66fc\u7279\u79d1"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57c3\u723e\u66fc\u7279\u79d1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +131,7 @@
         }
     ],
     "wof:id":1209916149,
-    "wof:lastmodified":1566645332,
+    "wof:lastmodified":1636506152,
     "wof:name":"El Manteco",
     "wof:parent_id":421175071,
     "wof:placetype":"locality",

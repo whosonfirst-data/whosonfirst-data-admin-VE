@@ -74,6 +74,9 @@
     "name:fra_x_preferred":[
         "Maracay"
     ],
+    "name:hun_x_preferred":[
+        "Maracay"
+    ],
     "name:ita_x_preferred":[
         "Maracay"
     ],
@@ -170,7 +173,7 @@
         "gn:id":3749627
     },
     "wof:country":"VE",
-    "wof:geomhash":"ded20650409f884854ad16719cd950df",
+    "wof:geomhash":"a717b0cc472b462d6a4f49ffba9d5da5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1193262045,
-    "wof:lastmodified":1566645669,
+    "wof:lastmodified":1636506189,
     "wof:name":"Maracay",
     "wof:parent_id":421189073,
     "wof:placetype":"locality",
@@ -191,10 +194,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.61993000000001,
+    -69.61993,
     10.07849,
-    -69.61993000000001,
+    -69.61993,
     10.07849
 ],
-  "geometry": {"coordinates":[-69.61993000000001,10.07849],"type":"Point"}
+  "geometry": {"coordinates":[-69.61993,10.07849],"type":"Point"}
 }

@@ -20,11 +20,17 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0623\u064a\u0627\u0643\u0648\u062a\u0634\u0648"
+    ],
     "name:arg_x_preferred":[
         "Puerto Ayacucho"
     ],
     "name:aym_x_preferred":[
         "Puerto Ayaquchu"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09df\u09c7\u09b0\u09cd\u09a4\u09cb \u0986\u09df\u09be\u0995\u09c1\u099a\u09cb"
     ],
     "name:cat_x_preferred":[
         "Puerto Ayacucho"
@@ -59,10 +65,22 @@
     "name:hbs_x_preferred":[
         "Puerto Ayacucho"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05d0\u05d9\u05d0\u05e7\u05d5\u05e6'\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u092f\u0942\u0930\u094d\u091f\u094b \u0905\u092f\u093e\u0915\u0942\u0915\u094b"
+    ],
     "name:hrv_x_preferred":[
         "Puerto Ayacucho"
     ],
+    "name:hun_x_preferred":[
+        "Puerto Ayacucho"
+    ],
     "name:ido_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:ind_x_preferred":[
         "Puerto Ayacucho"
     ],
     "name:ita_x_preferred":[
@@ -118,6 +136,12 @@
     ],
     "name:tha_x_variant":[
         "\u0e1b\u0e27\u0e22\u0e23\u0e4c\u0e42\u0e15\u0e2d\u0e32\u0e22\u0e32\u0e01\u0e39\u0e42\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Puerto Ayacucho"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0410\u0439\u044f\u043a\u0443\u0447\u043e"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u06cc\u0631\u062a\u0648 \u0627\u062c\u0627\u06a9\u0648\u0686\u0648"
@@ -187,7 +211,7 @@
         }
     ],
     "wof:id":421198391,
-    "wof:lastmodified":1578434369,
+    "wof:lastmodified":1636506268,
     "wof:name":"Puerto Ayacucho",
     "wof:parent_id":1511838383,
     "wof:placetype":"locality",

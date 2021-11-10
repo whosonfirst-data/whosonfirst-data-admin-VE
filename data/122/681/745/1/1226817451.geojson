@@ -35,6 +35,9 @@
     "name:bar_x_preferred":[
         "Los Teques"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09b8 \u099f\u09c7\u0995\u09bf\u0989\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u0441 \u0422\u0435\u043a\u0435\u0441"
     ],
@@ -66,6 +69,18 @@
         "Los Teques"
     ],
     "name:fra_x_preferred":[
+        "Los Teques"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05d8\u05e7\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0949\u0938 \u091f\u0947\u0915\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Los Teques"
+    ],
+    "name:ind_x_preferred":[
         "Los Teques"
     ],
     "name:ita_x_preferred":[
@@ -119,11 +134,17 @@
     "name:swe_x_preferred":[
         "Los Teques"
     ],
+    "name:tur_x_preferred":[
+        "Los Teques"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u0422\u0435\u043a\u0435\u0441"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0633 \u062a\u06cc\u06a9\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Los Teques"
     ],
     "name:vol_x_preferred":[
         "Los Teques"
@@ -149,7 +170,7 @@
         "gn:id":3791000
     },
     "wof:country":"VE",
-    "wof:geomhash":"f4d72989a4293ff6d767cf6d0c5bd56e",
+    "wof:geomhash":"132ce34156800d31511b1b96a42e52e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -160,7 +181,7 @@
         }
     ],
     "wof:id":1226817451,
-    "wof:lastmodified":1566646871,
+    "wof:lastmodified":1636506337,
     "wof:name":"Los Teques",
     "wof:parent_id":1108694479,
     "wof:placetype":"locality",
@@ -170,10 +191,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.10996999999998,
+    -71.10997,
     9.93593,
-    -71.10996999999998,
+    -71.10997,
     9.93593
 ],
-  "geometry": {"coordinates":[-71.10996999999998,9.93593],"type":"Point"}
+  "geometry": {"coordinates":[-71.10997,9.93593],"type":"Point"}
 }
