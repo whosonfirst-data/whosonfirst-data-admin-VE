@@ -17,10 +17,19 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Propatria"
+    ],
     "name:ast_x_preferred":[
         "Propatria"
     ],
     "name:bul_x_preferred":[
+        "Propatria"
+    ],
+    "name:cat_x_preferred":[
+        "Propatria"
+    ],
+    "name:ceb_x_preferred":[
         "Propatria"
     ],
     "name:deu_x_preferred":[
@@ -29,7 +38,34 @@
     "name:eng_x_preferred":[
         "Propatria"
     ],
+    "name:epo_x_preferred":[
+        "Propatria"
+    ],
+    "name:eus_x_preferred":[
+        "Propatria"
+    ],
+    "name:ext_x_preferred":[
+        "Propatria"
+    ],
+    "name:fin_x_preferred":[
+        "Propatria"
+    ],
     "name:fra_x_preferred":[
+        "Propatria"
+    ],
+    "name:gle_x_preferred":[
+        "Propatria"
+    ],
+    "name:glg_x_preferred":[
+        "Propatria"
+    ],
+    "name:ido_x_preferred":[
+        "Propatria"
+    ],
+    "name:ile_x_preferred":[
+        "Propatria"
+    ],
+    "name:ina_x_preferred":[
         "Propatria"
     ],
     "name:ita_x_preferred":[
@@ -41,16 +77,37 @@
     "name:nld_x_preferred":[
         "Propatria"
     ],
+    "name:oci_x_preferred":[
+        "Propatria"
+    ],
+    "name:pol_x_preferred":[
+        "Propatria"
+    ],
+    "name:por_x_preferred":[
+        "Propatria"
+    ],
+    "name:ron_x_preferred":[
+        "Propatria"
+    ],
     "name:rus_x_preferred":[
         "Propatria"
     ],
     "name:spa_x_preferred":[
         "Propatria"
     ],
+    "name:sqi_x_preferred":[
+        "Propatria"
+    ],
     "name:ukr_x_preferred":[
         "Propatria"
     ],
     "name:vie_x_preferred":[
+        "Propatria"
+    ],
+    "name:vol_x_preferred":[
+        "Propatria"
+    ],
+    "name:war_x_preferred":[
         "Propatria"
     ],
     "qs:gn_country":null,
@@ -98,7 +155,7 @@
         }
     ],
     "wof:id":421203685,
-    "wof:lastmodified":1566646231,
+    "wof:lastmodified":1690915043,
     "wof:name":"Propatria",
     "wof:parent_id":421202591,
     "wof:placetype":"locality",

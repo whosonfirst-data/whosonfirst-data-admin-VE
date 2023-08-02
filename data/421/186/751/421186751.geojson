@@ -62,6 +62,9 @@
     "name:ces_x_preferred":[
         "Valencia"
     ],
+    "name:chv_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u043d\u0441\u0438"
+    ],
     "name:dan_x_preferred":[
         "Valencia"
     ],
@@ -83,6 +86,9 @@
     "name:epo_x_preferred":[
         "Valencio"
     ],
+    "name:est_x_preferred":[
+        "Valencia"
+    ],
     "name:eus_x_preferred":[
         "Valentzia"
     ],
@@ -96,6 +102,9 @@
         "Valencia"
     ],
     "name:fra_x_preferred":[
+        "Valencia"
+    ],
+    "name:gle_x_preferred":[
         "Valencia"
     ],
     "name:glg_x_preferred":[
@@ -154,6 +163,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0935\u0932\u0947\u0928\u094d\u0938\u0940\u092f\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0412\u0430\u043b\u044d\u043d\u0441\u0438\u044f"
     ],
     "name:mon_x_preferred":[
         "\u0412\u0430\u043b\u0435\u043d\u0441"
@@ -254,6 +266,9 @@
     "name:war_x_preferred":[
         "Valencia"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u4f26\u897f\u4e9a"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u4f26\u897f\u4e9a"
     ],
@@ -284,8 +299,8 @@
     "wof:belongsto":[
         102191577,
         85632317,
-        421202373,
-        85680493
+        85680493,
+        421202373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -319,7 +334,7 @@
         }
     ],
     "wof:id":421186751,
-    "wof:lastmodified":1610161046,
+    "wof:lastmodified":1690915076,
     "wof:megacity":1,
     "wof:name":"Valencia",
     "wof:parent_id":421202373,

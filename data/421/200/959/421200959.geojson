@@ -17,11 +17,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Higuerote"
+    ],
     "name:ceb_x_preferred":[
+        "Higuerote"
+    ],
+    "name:deu_x_preferred":[
         "Higuerote"
     ],
     "name:eng_x_preferred":[
         "Higuerote"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u06af\u0648\u0631\u0648\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Higuerote"
@@ -38,11 +47,17 @@
     "name:nld_x_preferred":[
         "Higuerote"
     ],
+    "name:pol_x_preferred":[
+        "Higuerote"
+    ],
     "name:por_x_preferred":[
         "Higuerote"
     ],
     "name:spa_x_preferred":[
         "Higuerote"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0433\u0435\u0440\u043e\u0442\u0435"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u683c\u7f85\u7279"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":421200959,
-    "wof:lastmodified":1566646281,
+    "wof:lastmodified":1690915099,
     "wof:name":"Higuerote",
     "wof:parent_id":1108694243,
     "wof:placetype":"locality",

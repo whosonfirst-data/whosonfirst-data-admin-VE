@@ -36,14 +36,23 @@
     "name:arg_x_preferred":[
         "Estato Lara"
     ],
+    "name:arg_x_variant":[
+        "Lara"
+    ],
     "name:ast_x_preferred":[
         "Lara"
     ],
     "name:azb_x_preferred":[
         "\u0644\u0627\u0631\u0627 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
+    "name:azb_x_variant":[
+        "\u0644\u0627\u0631\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041b\u0430\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u0430\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b0\u09be"
@@ -57,8 +66,17 @@
     "name:cat_x_preferred":[
         "Estat Lara"
     ],
+    "name:cat_x_variant":[
+        "Lara"
+    ],
     "name:ceb_x_preferred":[
         "Estado Lara"
+    ],
+    "name:ceb_x_variant":[
+        "Lara"
+    ],
+    "name:ces_x_preferred":[
+        "Lara"
     ],
     "name:cor_x_preferred":[
         "Lara"
@@ -90,6 +108,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0644\u0627\u0631\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lara"
     ],
@@ -99,6 +120,15 @@
     "name:fra_x_variant":[
         "Lara"
     ],
+    "name:frr_x_preferred":[
+        "Lara"
+    ],
+    "name:glg_x_preferred":[
+        "Estado Lara"
+    ],
+    "name:guc_x_preferred":[
+        "Laara"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0ab0\u0abe"
     ],
@@ -107,6 +137,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0930\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Lara"
     ],
     "name:hun_x_preferred":[
         "Lara"
@@ -125,6 +158,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0\u10e0\u10d0\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d0\u10e0\u10d0\u10e1"
     ],
     "name:kor_x_preferred":[
         "\ub77c\ub77c \uc8fc"
@@ -165,6 +201,9 @@
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0644\u0627\u0631\u0627"
     ],
+    "name:pnb_x_variant":[
+        "\u0644\u0627\u0631\u0627"
+    ],
     "name:pol_x_preferred":[
         "Lara"
     ],
@@ -176,6 +215,9 @@
     ],
     "name:que_x_preferred":[
         "Lara suyu"
+    ],
+    "name:que_x_variant":[
+        "Lara"
     ],
     "name:ron_x_preferred":[
         "Lara"
@@ -211,6 +253,9 @@
     "name:tgk_x_preferred":[
         "\u0418\u0451\u043b\u043e\u0442\u0438 \u041b\u0430\u0440\u0430"
     ],
+    "name:tgk_x_variant":[
+        "\u041b\u0430\u0440\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e25\u0e32\u0e23\u0e32"
     ],
@@ -231,6 +276,9 @@
     ],
     "name:war_x_preferred":[
         "Lara"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u814a\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u814a\u5dde"
@@ -358,7 +406,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506076,
+    "wof:lastmodified":1690914959,
     "wof:name":"Lara",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

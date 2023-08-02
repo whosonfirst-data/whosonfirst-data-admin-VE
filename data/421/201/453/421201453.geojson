@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Carrizal"
     ],
+    "name:cat_x_preferred":[
+        "Carrizal"
+    ],
     "name:ceb_x_preferred":[
         "Municipio Carrizal"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub9ac\uc0b4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ub9ac\uc0b4\uc2dc"
     ],
     "name:nan_x_preferred":[
         "Carrizal"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421201453,
-    "wof:lastmodified":1566646282,
+    "wof:lastmodified":1690915101,
     "wof:name":"Carrizal",
     "wof:parent_id":1108694149,
     "wof:placetype":"locality",

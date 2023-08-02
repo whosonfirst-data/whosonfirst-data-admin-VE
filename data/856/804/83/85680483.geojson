@@ -102,6 +102,12 @@
     "name:fra_x_variant":[
         "Trujillo"
     ],
+    "name:frr_x_preferred":[
+        "Trujillo"
+    ],
+    "name:guc_x_preferred":[
+        "T\u00fcrujiiya"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac1\u0a9c\u0abf\u0ab2\u0acb"
     ],
@@ -222,6 +228,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e15\u0e23\u0e39\u0e2e\u0e35\u0e42\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e15\u0e23\u0e39\u0e2e\u0e34\u0e42\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Trujillo"
     ],
@@ -236,6 +245,9 @@
     ],
     "name:war_x_preferred":[
         "Trujillo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7279\u9c81\u5e0c\u7565\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7279\u9c81\u5e0c\u7565\u5dde"
@@ -363,7 +375,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506076,
+    "wof:lastmodified":1690914959,
     "wof:name":"Trujillo",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

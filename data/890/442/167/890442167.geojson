@@ -25,14 +25,26 @@
     "name:arg_x_preferred":[
         "Matur\u00edn"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u062a\u0648\u0631\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Matur\u00edn"
+    ],
     "name:aym_x_preferred":[
         "Matur\u00edn"
+    ],
+    "name:aze_x_preferred":[
+        "Maturin"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a4\u09c1\u09b0\u09bf\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0443\u0440\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Matur\u00edn"
     ],
     "name:ceb_x_preferred":[
         "Matur\u00edn"
@@ -67,6 +79,9 @@
     "name:fra_x_preferred":[
         "Matur\u00edn"
     ],
+    "name:gle_x_preferred":[
+        "Matur\u00edn"
+    ],
     "name:glg_x_preferred":[
         "Matur\u00edn"
     ],
@@ -75,6 +90,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0924\u0941\u0930\u0940\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057f\u0578\u0582\u0580\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Matur\u00edn"
@@ -139,11 +157,17 @@
     "name:spa_x_preferred":[
         "Matur\u00edn"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0440\u0438\u043d"
+    ],
     "name:swe_x_preferred":[
         "Matur\u00edn"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0b9f\u0bc2\u0bb0\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0440\u0438\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c24\u0c41\u0c30\u0c3f\u0c28\u0c4d"
@@ -160,6 +184,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u062a\u0648\u0631\u06cc\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Matur\u00edn"
+    ],
     "name:vep_x_preferred":[
         "Maturin"
     ],
@@ -171,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Matur\u00edn"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u56fe\u6797"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5716\u6797"
@@ -303,7 +333,7 @@
         }
     ],
     "wof:id":890442167,
-    "wof:lastmodified":1566646312,
+    "wof:lastmodified":1690915135,
     "wof:name":"Matur\u00edn",
     "wof:parent_id":421186375,
     "wof:placetype":"locality",

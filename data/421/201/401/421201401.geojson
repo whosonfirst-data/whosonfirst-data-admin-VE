@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0625\u0644 \u0647\u0627\u062a\u064a\u0644\u0648"
+    ],
     "name:ast_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:cat_x_preferred":[
         "El Hatillo"
     ],
     "name:ceb_x_preferred":[
         "Municipio El Hatillo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0395\u03bb \u03a7\u03b1\u03c4\u03af\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "El Hatillo Municipality"
@@ -29,8 +38,17 @@
     "name:eng_x_variant":[
         "El Hatillo"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0627\u0644 \u0647\u0627\u062a\u06cc\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "El Hatillo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya El Hatillo"
+    ],
+    "name:isl_x_preferred":[
+        "Sveitarf\u00e9lagi\u00f0 El Hatillo"
     ],
     "name:ita_x_preferred":[
         "El Hatillo"
@@ -43,6 +61,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d8\uc544\ud2f0\uc694 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d8\uc544\ud2f0\uc694\uc2dc"
     ],
     "name:nan_x_preferred":[
         "El Hatillo"
@@ -64,6 +85,12 @@
     ],
     "name:spa_x_variant":[
         "Municipio El Hatillo"
+    ],
+    "name:tur_x_preferred":[
+        "El Hatillo"
+    ],
+    "name:uzb_x_preferred":[
+        "El Hatillo Municipality"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u963f\u8482\u7d04\u5e02"
@@ -115,7 +142,7 @@
         }
     ],
     "wof:id":421201401,
-    "wof:lastmodified":1566646282,
+    "wof:lastmodified":1690915101,
     "wof:name":"El Hatillo",
     "wof:parent_id":421194073,
     "wof:placetype":"locality",

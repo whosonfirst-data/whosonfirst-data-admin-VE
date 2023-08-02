@@ -51,7 +51,8 @@
         "Areka"
     ],
     "name:eus_x_variant":[
-        "areka"
+        "areka",
+        "ureztatze erreten"
     ],
     "name:fra_x_preferred":[
         "acequia"
@@ -113,6 +114,9 @@
     "name:ukr_x_preferred":[
         "\u0430\u0446\u0435\u043a\u0456\u044f"
     ],
+    "name:vec_x_preferred":[
+        "brente\u0142a"
+    ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3649816,
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":421177601,
-    "wof:lastmodified":1566646290,
+    "wof:lastmodified":1690915109,
     "wof:name":"Acequias",
     "wof:parent_id":421171999,
     "wof:placetype":"locality",

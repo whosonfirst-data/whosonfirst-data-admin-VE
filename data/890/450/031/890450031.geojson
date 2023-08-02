@@ -42,6 +42,9 @@
     "name:ast_x_preferred":[
         "Independencia"
     ],
+    "name:cat_x_preferred":[
+        "Independencia"
+    ],
     "name:ceb_x_preferred":[
         "Municipio Independencia"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc778\ub370\ud39c\ub374\uc2dc\uc544 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc778\ub370\ud39c\ub374\uc2dc\uc544\uc2dc"
     ],
     "name:nan_x_preferred":[
         "Independencia"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":890450031,
-    "wof:lastmodified":1636506276,
+    "wof:lastmodified":1690915142,
     "wof:name":"Independencia",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.9750885,11.086317,-63.9750885,11.086317",
+    "geom:bbox":"-63.975088,11.086317,-63.975088,11.086317",
     "geom:latitude":11.086317,
     "geom:longitude":-63.975088,
     "gn:country":"VE",
@@ -384,13 +384,25 @@
     "name:lit_x_preferred":[
         "Adrian"
     ],
+    "name:liv_x_preferred":[
+        "Adrian"
+    ],
     "name:lmo_x_preferred":[
+        "Adrian"
+    ],
+    "name:loz_x_preferred":[
+        "Adrian"
+    ],
+    "name:ltg_x_preferred":[
         "Adrian"
     ],
     "name:ltz_x_preferred":[
         "Adrian"
     ],
     "name:lug_x_preferred":[
+        "Adrian"
+    ],
+    "name:lus_x_preferred":[
         "Adrian"
     ],
     "name:mah_x_preferred":[
@@ -549,6 +561,9 @@
     "name:sdc_x_preferred":[
         "Adrian"
     ],
+    "name:sei_x_preferred":[
+        "Adrian"
+    ],
     "name:sgs_x_preferred":[
         "Adrian"
     ],
@@ -654,6 +669,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0440\u0456\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u0434\u0440\u0456\u044f\u043d"
+    ],
     "name:uzb_x_preferred":[
         "Adrian"
     ],
@@ -731,7 +749,7 @@
     },
     "wof:country":"VE",
     "wof:created":1469052705,
-    "wof:geomhash":"15a2b8db3882e47aaf93a809b2c981d1",
+    "wof:geomhash":"e8f4543895969ced4de3164588d66d55",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -741,7 +759,7 @@
         }
     ],
     "wof:id":890449709,
-    "wof:lastmodified":1566646306,
+    "wof:lastmodified":1690915127,
     "wof:name":"Adrian",
     "wof:parent_id":85680557,
     "wof:placetype":"localadmin",
@@ -751,10 +769,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.9750885,
+    -63.975088,
     11.086317,
-    -63.9750885,
+    -63.975088,
     11.086317
 ],
-  "geometry": {"coordinates":[-63.9750885,11.086317],"type":"Point"}
+  "geometry": {"coordinates":[-63.975088,11.086317],"type":"Point"}
 }

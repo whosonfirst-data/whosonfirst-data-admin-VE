@@ -20,35 +20,71 @@
     "name:ast_x_preferred":[
         "San Joaqu\u00edn"
     ],
+    "name:ast_x_variant":[
+        "Municipio San Joaqu\u00edn"
+    ],
     "name:cat_x_preferred":[
         "San Joaqu\u00edn"
+    ],
+    "name:cat_x_variant":[
+        "Municipio San Joaqu\u00edn"
     ],
     "name:ceb_x_preferred":[
         "San Joaqu\u00edn"
     ],
+    "name:ceb_x_variant":[
+        "Municipio San Joaqu\u00edn"
+    ],
+    "name:cym_x_preferred":[
+        "Municipio San Joaqu\u00edn"
+    ],
     "name:deu_x_preferred":[
         "San Joaqu\u00edn"
+    ],
+    "name:deu_x_variant":[
+        "Municipio San Joaqu\u00edn"
     ],
     "name:eng_x_preferred":[
         "San Joaqu\u00edn"
     ],
+    "name:eng_x_variant":[
+        "Municipio San Joaqu\u00edn"
+    ],
     "name:fra_x_preferred":[
         "San Joaqu\u00edn"
+    ],
+    "name:fra_x_variant":[
+        "Municipio San Joaqu\u00edn"
     ],
     "name:glg_x_preferred":[
         "San Joaqu\u00edn"
     ],
+    "name:glg_x_variant":[
+        "Municipio San Joaqu\u00edn"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10d0\u10d9\u10d8\u10dc\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Municipio San Joaqu\u00edn"
     ],
     "name:nan_x_preferred":[
         "San Joaqu\u00edn"
     ],
+    "name:nan_x_variant":[
+        "Municipio San Joaqu\u00edn"
+    ],
     "name:nld_x_preferred":[
         "San Joaqu\u00edn"
     ],
+    "name:nld_x_variant":[
+        "Municipio San Joaqu\u00edn"
+    ],
     "name:por_x_preferred":[
         "San Joaqu\u00edn"
+    ],
+    "name:por_x_variant":[
+        "Municipio San Joaqu\u00edn"
     ],
     "name:spa_x_preferred":[
         "Municipio San Joaqu\u00edn"
@@ -58,6 +94,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u83ef\u91d1"
+    ],
+    "name:zho_x_variant":[
+        "Municipio San Joaqu\u00edn"
     ],
     "qs:gn_country":"VE",
     "qs:gn_fcode":"PPL",
@@ -107,7 +146,7 @@
         }
     ],
     "wof:id":421173877,
-    "wof:lastmodified":1566646245,
+    "wof:lastmodified":1690915056,
     "wof:name":"San Joaqu\u00edn",
     "wof:parent_id":421188833,
     "wof:placetype":"locality",

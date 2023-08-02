@@ -28,8 +28,17 @@
     "name:arg_x_preferred":[
         "San Felipe"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u064a\u0644\u064a\u0628\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "San Felipe"
+    ],
     "name:aym_x_preferred":[
         "San Felipe"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0435\u043b\u0456\u043f\u044d"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ab\u09bf\u09b2\u09bf\u09aa"
@@ -70,6 +79,9 @@
     "name:fra_x_preferred":[
         "San Felipe"
     ],
+    "name:gle_x_preferred":[
+        "San Felipe"
+    ],
     "name:glg_x_preferred":[
         "San Felipe"
     ],
@@ -84,6 +96,9 @@
     ],
     "name:hun_x_preferred":[
         "San Felipe"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u0556\u0565\u056c\u056b\u057a\u0565"
     ],
     "name:ind_x_preferred":[
         "San Felipe"
@@ -108,6 +123,9 @@
     ],
     "name:lit_x_preferred":[
         "San Felip\u0117"
+    ],
+    "name:lit_x_variant":[
+        "San Felipe"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u092b\u0947\u0932\u0940\u092a"
@@ -148,8 +166,14 @@
     "name:swe_x_preferred":[
         "San Felipe"
     ],
+    "name:szl_x_preferred":[
+        "San Felipe"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc6"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0435\u043b\u0438\u043f\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c2b\u0c46\u0c32\u0c3f\u0c2a\u0c47"
@@ -310,7 +334,7 @@
         }
     ],
     "wof:id":890442127,
-    "wof:lastmodified":1636506275,
+    "wof:lastmodified":1690915136,
     "wof:name":"San Felipe",
     "wof:parent_id":890450031,
     "wof:placetype":"locality",

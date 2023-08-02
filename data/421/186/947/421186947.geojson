@@ -89,6 +89,9 @@
     "name:gsw_x_preferred":[
         "Barinas"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05d9\u05e0\u05d0\u05e1"
+    ],
     "name:hrv_x_preferred":[
         "Barinas"
     ],
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":421186947,
-    "wof:lastmodified":1636506266,
+    "wof:lastmodified":1690915073,
     "wof:name":"Barinas",
     "wof:parent_id":890429493,
     "wof:placetype":"locality",

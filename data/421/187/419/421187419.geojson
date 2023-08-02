@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u043a\u043e \u041d\u0430\u0439\u0433\u0443\u0430\u0442\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Pico Naiguat\u00e1"
     ],
@@ -38,6 +41,9 @@
     "name:ita_x_preferred":[
         "Pico Naiguat\u00e1"
     ],
+    "name:lld_x_preferred":[
+        "Pico Naiguat\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Pico Naiguat\u00e1"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:spa_x_variant":[
         "Naiguat\u00e1"
+    ],
+    "name:vec_x_preferred":[
+        "Pico Naiguat\u00e1"
     ],
     "name:zho_x_preferred":[
         "\u5948\u74dc\u5854\u5cf0"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421187419,
-    "wof:lastmodified":1566646243,
+    "wof:lastmodified":1690915055,
     "wof:name":"Naiguat\u00e1",
     "wof:parent_id":421169209,
     "wof:placetype":"locality",

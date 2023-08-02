@@ -23,8 +23,14 @@
     "name:arg_x_preferred":[
         "Puerto La Cruz"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0644\u0627 \u0643\u0631\u0648\u0632"
+    ],
     "name:ast_x_preferred":[
         "Puertu La Cruz"
+    ],
+    "name:ast_x_variant":[
+        "Puerto la Cruz"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09b2\u09be \u0995\u09cd\u09b0\u09c1\u099c"
@@ -37,6 +43,9 @@
     ],
     "name:ceb_x_preferred":[
         "Puerto La Cruz"
+    ],
+    "name:chv_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u043b\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:dan_x_preferred":[
         "Puerto la Cruz"
@@ -51,13 +60,17 @@
         "Puerto Cruz"
     ],
     "name:eng_x_variant":[
-        "Puerto la Cruz"
+        "Puerto la Cruz",
+        "Puerto La Cruz"
     ],
     "name:epo_x_preferred":[
         "Puerto la Cruz"
     ],
     "name:eus_x_preferred":[
         "Puerto la Cruz"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0644\u0627\u06a9\u0631\u0648\u0632"
     ],
     "name:fij_x_preferred":[
         "Puerto La Cruz"
@@ -71,6 +84,9 @@
     "name:fra_x_variant":[
         "Puerto la Cruz"
     ],
+    "name:gle_x_preferred":[
+        "Puerto La Cruz"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0ab2\u0abe \u0a95\u0acd\u0ab0\u0ac1\u0a9d"
     ],
@@ -82,6 +98,9 @@
     ],
     "name:hun_x_preferred":[
         "Puerto la Cruz"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0565\u0580\u057f\u0578 \u056c\u0561 \u053f\u0580\u0578\u0582\u057d"
     ],
     "name:ind_x_preferred":[
         "Puerto la Cruz"
@@ -148,17 +167,26 @@
         "Puerto la Cruz",
         "Puerto Cruz"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u043b\u0430 \u041a\u0440\u0443\u0437"
+    ],
     "name:swe_x_preferred":[
         "Puerto la Cruz"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc7\u0baf\u0bc6\u0bb0\u0bcd\u0b9f\u0bcb \u0bb2\u0bbe \u0b95\u0bbf\u0bb0\u0bc2\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0432\u0435\u0440\u0442\u043e-\u043b\u0430-\u041a\u0440\u0443\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c2f\u0c42\u0c30\u0c4d\u0c1f\u0c4b \u0c32\u0c3e \u0c15\u0c4d\u0c30\u0c42\u0c1c\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e31\u0e27\u0e23\u0e4c\u0e42\u0e15\u0e40\u0e14\u0e25\u0e32\u0e04\u0e23\u0e39\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e25\u0e32\u0e01\u0e23\u0e38\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Puerto la Cruz"
@@ -168,6 +196,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u06cc\u0631\u062a\u0648 \u0644\u0627 \u06a9\u0631\u0648\u0632"
+    ],
+    "name:vec_x_preferred":[
+        "Puerto La Cruz"
     ],
     "name:vie_x_preferred":[
         "Puerto la Cruz"
@@ -320,7 +351,7 @@
         }
     ],
     "wof:id":421195669,
-    "wof:lastmodified":1636506259,
+    "wof:lastmodified":1690915030,
     "wof:name":"Puerto la Cruz",
     "wof:parent_id":421204791,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:arg_x_preferred":[
         "Tucupita"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0643\u0648\u0628\u064a\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Tucupita"
+    ],
     "name:aym_x_preferred":[
         "Tucupita"
     ],
@@ -143,6 +149,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e39\u0e04\u0e39\u0e1e\u0e34\u0e15\u0e49\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e39\u0e01\u0e39\u0e1b\u0e34\u0e15\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Tucupita"
     ],
@@ -157,6 +166,9 @@
     ],
     "name:war_x_preferred":[
         "Tucupita"
+    ],
+    "name:wuu_x_preferred":[
+        "\u56fe\u5e93\u76ae\u5854"
     ],
     "name:zho_x_preferred":[
         "\u5716\u5eab\u76ae\u5854"
@@ -303,7 +315,7 @@
         }
     ],
     "wof:id":421174831,
-    "wof:lastmodified":1636506263,
+    "wof:lastmodified":1690915052,
     "wof:name":"Tucupita",
     "wof:parent_id":421191753,
     "wof:placetype":"locality",

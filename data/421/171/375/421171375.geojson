@@ -37,8 +37,17 @@
     "name:ast_x_preferred":[
         "San Crist\u00f3bal"
     ],
+    "name:cat_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio San Crist\u00f3bal"
+    ],
     "name:deu_x_preferred":[
         "San Crist\u00f3bal"
+    ],
+    "name:deu_x_variant":[
+        "Municipio San Crist\u00f3bal"
     ],
     "name:eng_x_preferred":[
         "San Crist\u00f3bal"
@@ -140,7 +149,7 @@
         }
     ],
     "wof:id":421171375,
-    "wof:lastmodified":1636506273,
+    "wof:lastmodified":1690915120,
     "wof:name":"San Cristobal",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -33,18 +33,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ast_x_preferred":[
+        "Municipio Zaraza"
+    ],
+    "name:cat_x_preferred":[
+        "Municipio Zaraza"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Zaraza"
+    ],
+    "name:cym_x_preferred":[
+        "Municipio Zaraza"
+    ],
     "name:deu_x_preferred":[
         "Pedro Zaraza"
+    ],
+    "name:deu_x_variant":[
+        "Municipio Zaraza"
     ],
     "name:eng_x_preferred":[
         "Pedro Zaraza"
     ],
     "name:eng_x_variant":[
         "Zaraza",
-        "Pedro Zaraza"
+        "Municipio Zaraza"
     ],
     "name:fra_x_preferred":[
         "Pedro Zaraza"
+    ],
+    "name:fra_x_variant":[
+        "Municipio Zaraza"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05e8\u05d6\u05d4"
@@ -55,20 +73,38 @@
     "name:ita_x_preferred":[
         "Pedro Zaraza"
     ],
+    "name:ita_x_variant":[
+        "Municipio Zaraza"
+    ],
     "name:nan_x_preferred":[
         "Pedro Zaraza"
+    ],
+    "name:nan_x_variant":[
+        "Municipio Zaraza"
     ],
     "name:nld_x_preferred":[
         "Pedro Zaraza"
     ],
+    "name:nld_x_variant":[
+        "Municipio Zaraza"
+    ],
     "name:por_x_preferred":[
         "Pedro Zaraza"
+    ],
+    "name:por_x_variant":[
+        "Municipio Zaraza"
     ],
     "name:spa_x_preferred":[
         "Zaraza"
     ],
+    "name:spa_x_variant":[
+        "Municipio Zaraza"
+    ],
     "name:vie_x_preferred":[
         "Pedro Zaraza"
+    ],
+    "name:vie_x_variant":[
+        "Municipio Zaraza"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u5fb7\u7f85\u85a9\u62c9\u85a9\u5e02"
@@ -96,7 +132,7 @@
         }
     ],
     "wof:id":1108694483,
-    "wof:lastmodified":1636506204,
+    "wof:lastmodified":1690914983,
     "wof:name":"Zaraza",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

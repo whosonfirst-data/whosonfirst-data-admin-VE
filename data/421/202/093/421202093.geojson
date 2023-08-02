@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0628\u064a\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0628\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Rubio"
+    ],
     "name:cat_x_preferred":[
         "Rubio"
     ],
@@ -34,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Rubio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0628\u06cc\u0648"
     ],
     "name:fra_x_preferred":[
         "Rubio"
@@ -55,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30d3\u30aa"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d9\u30cd\u30ba\u30a8\u30e9"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0443\u0431\u0438\u043e"
@@ -85,6 +100,9 @@
     ],
     "name:swe_x_preferred":[
         "Rubio"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u0431\u0438\u043e"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u6bd4\u5967"
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":421202093,
-    "wof:lastmodified":1582393018,
+    "wof:lastmodified":1690915048,
     "wof:name":"Rubio",
     "wof:parent_id":421203511,
     "wof:placetype":"locality",

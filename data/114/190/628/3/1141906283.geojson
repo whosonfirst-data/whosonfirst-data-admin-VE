@@ -18,7 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0633 \u062a\u064a\u0643\u064a\u0633"
+    ],
     "name:arg_x_preferred":[
+        "Los Teques"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0633 \u062a\u064a\u0643\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
         "Los Teques"
     ],
     "name:bar_x_preferred":[
@@ -63,6 +72,9 @@
     "name:fra_x_preferred":[
         "Los Teques"
     ],
+    "name:gle_x_preferred":[
+        "Los Teques"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e1 \u05d8\u05e7\u05e1"
     ],
@@ -71,6 +83,9 @@
     ],
     "name:hun_x_preferred":[
         "Los Teques"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057d \u054f\u0565\u056f\u0565\u057d"
     ],
     "name:ind_x_preferred":[
         "Los Teques"
@@ -126,6 +141,9 @@
     "name:swe_x_preferred":[
         "Los Teques"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u0441-\u0422\u0435\u043a\u0435\u0441"
+    ],
     "name:tur_x_preferred":[
         "Los Teques"
     ],
@@ -134,6 +152,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0633 \u062a\u06cc\u06a9\u06cc\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "Los Teques"
     ],
     "name:vie_x_preferred":[
         "Los Teques"
@@ -269,7 +290,7 @@
         }
     ],
     "wof:id":1141906283,
-    "wof:lastmodified":1636506369,
+    "wof:lastmodified":1690915151,
     "wof:name":"Los Teques",
     "wof:parent_id":1108694091,
     "wof:placetype":"locality",

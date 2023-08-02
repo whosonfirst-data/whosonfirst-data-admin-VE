@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Chivacoa"
+    ],
     "name:ceb_x_preferred":[
         "Chivacoa"
     ],
     "name:eng_x_preferred":[
         "Chivacoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0648\u0627\u06a9\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Chivacoa"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890430737,
-    "wof:lastmodified":1566646308,
+    "wof:lastmodified":1690915130,
     "wof:name":"Chivacoa",
     "wof:parent_id":1108694129,
     "wof:placetype":"locality",

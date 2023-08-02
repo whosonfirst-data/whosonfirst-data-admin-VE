@@ -17,13 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Sinamaica"
+    ],
     "name:eng_x_preferred":[
         "Sinamaica"
     ],
     "name:fra_x_preferred":[
         "Sinamaica"
     ],
+    "name:guc_x_preferred":[
+        "Karouya"
+    ],
     "name:nld_x_preferred":[
+        "Sinamaica"
+    ],
+    "name:pol_x_preferred":[
         "Sinamaica"
     ],
     "name:por_x_preferred":[
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":421186981,
-    "wof:lastmodified":1566646261,
+    "wof:lastmodified":1690915080,
     "wof:name":"Sinamaica",
     "wof:parent_id":421201567,
     "wof:placetype":"locality",

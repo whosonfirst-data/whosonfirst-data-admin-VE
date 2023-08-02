@@ -36,8 +36,14 @@
     "name:arg_x_preferred":[
         "Municipio San Fernando"
     ],
+    "name:ast_x_preferred":[
+        "San Fernando"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ab\u09be\u09b0\u09cd\u09a8\u09be\u09a8\u09cd\u09a6\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "San Fernando"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03c4\u03bf"
@@ -47,7 +53,6 @@
     ],
     "name:eng_x_variant":[
         "Autonomo San Fernando",
-        "San Fernando",
         "San Fernando Municipality"
     ],
     "name:fas_x_preferred":[
@@ -101,6 +106,9 @@
     "name:zho_tw_x_preferred":[
         "\u8056\u8cbb\u723e\u5357\u591a"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u8cbb\u723e\u5357\u591a\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108694389,
-    "wof:lastmodified":1636506207,
+    "wof:lastmodified":1690915000,
     "wof:name":"San Fernando",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

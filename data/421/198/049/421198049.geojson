@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Chacao"
     ],
+    "name:cat_x_preferred":[
+        "Chacao"
+    ],
     "name:ceb_x_preferred":[
         "Municipio Chacao"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucc28\uce74\uc624 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucc28\uce74\uc624\uc2dc"
     ],
     "name:nan_x_preferred":[
         "Chacao"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421198049,
-    "wof:lastmodified":1566646268,
+    "wof:lastmodified":1690915089,
     "wof:name":"Chacao",
     "wof:parent_id":1108694157,
     "wof:placetype":"locality",

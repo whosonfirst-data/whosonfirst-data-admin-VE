@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.886131,10.9819145,-63.886131,10.9819145",
+    "geom:bbox":"-63.886131,10.981915,-63.886131,10.981915",
     "geom:latitude":10.981915,
     "geom:longitude":-63.886131,
     "iso:country":"VE",
@@ -27,6 +27,9 @@
         "El Valle del Esp\u00edritu Santo"
     ],
     "name:nld_x_preferred":[
+        "El Valle del Esp\u00edritu Santo"
+    ],
+    "name:pol_x_preferred":[
         "El Valle del Esp\u00edritu Santo"
     ],
     "name:por_x_preferred":[
@@ -75,7 +78,7 @@
     },
     "wof:country":"VE",
     "wof:created":1459009459,
-    "wof:geomhash":"e32c17d921efe5dcc7c88a5364d55aa3",
+    "wof:geomhash":"9ea15297a0cdd7539e3298a6e3faf588",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421185949,
-    "wof:lastmodified":1566646305,
+    "wof:lastmodified":1690915123,
     "wof:name":"El Valle del Esp\u00edritu Santo",
     "wof:parent_id":421170035,
     "wof:placetype":"locality",
@@ -97,9 +100,9 @@
 },
   "bbox": [
     -63.886131,
-    10.9819145,
+    10.981915,
     -63.886131,
-    10.9819145
+    10.981915
 ],
-  "geometry": {"coordinates":[-63.886131,10.9819145],"type":"Point"}
+  "geometry": {"coordinates":[-63.886131,10.981915],"type":"Point"}
 }

@@ -75,11 +75,17 @@
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u0395\u03c3\u03c0\u03ac\u03c1\u03c4\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03bf\u03cd\u03b5\u03b2\u03b1 \u0395\u03c3\u03c0\u03ac\u03c1\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Nueva Esparta"
     ],
     "name:eng_x_variant":[
         "Estado Nueva Esparta"
+    ],
+    "name:epo_x_preferred":[
+        "Nova Sparto"
     ],
     "name:est_x_preferred":[
         "Nueva Esparta osariik"
@@ -102,6 +108,12 @@
     "name:fra_x_variant":[
         "Nueva Esparta"
     ],
+    "name:frr_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:guc_x_preferred":[
+        "Jeket\u00fc Espaatta"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0a8f\u0ab8\u0acd\u0aaa\u0abe\u0ab0\u0acd\u0a9f\u0abe"
     ],
@@ -111,6 +123,9 @@
     "name:hin_x_preferred":[
         "\u0928\u094d\u092f\u0941\u090f\u0935\u093e \u090f\u0938\u094d\u092a\u093e\u0930\u094d\u091f\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Nueva Esparta"
+    ],
     "name:hun_x_preferred":[
         "Nueva Esparta"
     ],
@@ -119,6 +134,9 @@
     ],
     "name:ita_x_preferred":[
         "Nuova Sparta"
+    ],
+    "name:ita_x_variant":[
+        "Nueva Esparta"
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30a8\u30d0\u30fb\u30a8\u30b9\u30d1\u30eb\u30bf\u5dde"
@@ -226,6 +244,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e19\u0e27\u0e22\u0e27\u0e32\u0e40\u0e2d\u0e2a\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e19\u0e27\u0e22\u0e1a\u0e32\u0e40\u0e2d\u0e2a\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Nueva Esparta"
     ],
@@ -240,6 +261,9 @@
     ],
     "name:war_x_preferred":[
         "Nueva Esparta"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65b0\u57c3\u65af\u5e15\u5854\u5dde"
     ],
     "name:zho_min_nan_x_preferred":[
         "Nueva Esparta"
@@ -371,7 +395,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506076,
+    "wof:lastmodified":1690914960,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

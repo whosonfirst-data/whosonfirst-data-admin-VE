@@ -50,10 +50,16 @@
     "name:eng_x_variant":[
         "Quibor"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0628\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Qu\u00edbor"
     ],
     "name:fra_x_preferred":[
+        "Qu\u00edbor"
+    ],
+    "name:gle_x_preferred":[
         "Qu\u00edbor"
     ],
     "name:guj_x_preferred":[
@@ -128,6 +134,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0baf\u0bcd\u0baa\u0bcb\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0431\u043e\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c35\u0c3f\u0c2c\u0c4b\u0c30\u0c4d"
     ],
@@ -142,6 +151,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u06cc\u0628\u0648\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Qu\u00edbor"
     ],
     "name:vie_x_preferred":[
         "Quibor"
@@ -202,7 +214,7 @@
         }
     ],
     "wof:id":421198393,
-    "wof:lastmodified":1566646268,
+    "wof:lastmodified":1690915090,
     "wof:name":"Qu\u00edbor",
     "wof:parent_id":421189073,
     "wof:placetype":"locality",

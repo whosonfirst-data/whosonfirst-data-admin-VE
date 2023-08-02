@@ -36,10 +36,19 @@
     "name:ast_x_preferred":[
         "Pedernales"
     ],
+    "name:ast_x_variant":[
+        "Municipio Pedernales"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09a6\u09c7\u09b0\u09a8\u09be\u09b2\u09c7\u09b8"
     ],
+    "name:cat_x_preferred":[
+        "Municipio Pedernales"
+    ],
     "name:ceb_x_preferred":[
+        "Municipio Pedernales"
+    ],
+    "name:cym_x_preferred":[
         "Municipio Pedernales"
     ],
     "name:deu_x_preferred":[
@@ -51,8 +60,14 @@
     "name:eng_x_preferred":[
         "Pedernales"
     ],
+    "name:eng_x_variant":[
+        "Municipio Pedernales"
+    ],
     "name:fra_x_preferred":[
         "Pedernales"
+    ],
+    "name:fra_x_variant":[
+        "Municipio Pedernales"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d3\u05e8\u05e0\u05d0\u05dc\u05e1"
@@ -69,11 +84,20 @@
     "name:nan_x_preferred":[
         "Pedernales"
     ],
+    "name:nan_x_variant":[
+        "Municipio Pedernales"
+    ],
     "name:nld_x_preferred":[
         "Pedernales"
     ],
+    "name:nld_x_variant":[
+        "Municipio Pedernales"
+    ],
     "name:por_x_preferred":[
         "Pedernales"
+    ],
+    "name:por_x_variant":[
+        "Municipio Pedernales"
     ],
     "name:spa_x_preferred":[
         "Municipio Pedernales"
@@ -86,6 +110,9 @@
     ],
     "name:vie_x_preferred":[
         "Pedernales"
+    ],
+    "name:vie_x_variant":[
+        "Municipio Pedernales"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u5fb7\u723e\u7d0d\u840a\u65af\u5e02"
@@ -126,7 +153,7 @@
         }
     ],
     "wof:id":1108694489,
-    "wof:lastmodified":1636506204,
+    "wof:lastmodified":1690914982,
     "wof:name":"Pedernales",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

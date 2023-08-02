@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.1130035,10.699445,-63.1130035,10.699445",
+    "geom:bbox":"-63.113003,10.699445,-63.113003,10.699445",
     "geom:latitude":10.699445,
     "geom:longitude":-63.113003,
     "iso:country":"VE",
@@ -43,6 +43,9 @@
     ],
     "name:spa_x_preferred":[
         "R\u00edo Caribe"
+    ],
+    "name:yrl_x_preferred":[
+        "negro simoney"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u5967\u5361\u91cc\u97cb"
@@ -81,7 +84,7 @@
     },
     "wof:country":"VE",
     "wof:created":1459010105,
-    "wof:geomhash":"ca5b091002c44491756fe4761bd28ec8",
+    "wof:geomhash":"5e16d380a5be5b168f02ff0581852c60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421202091,
-    "wof:lastmodified":1566646234,
+    "wof:lastmodified":1690915045,
     "wof:name":"R\u00edo Caribe",
     "wof:parent_id":421193365,
     "wof:placetype":"locality",
@@ -102,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.1130035,
+    -63.113003,
     10.699445,
-    -63.1130035,
+    -63.113003,
     10.699445
 ],
-  "geometry": {"coordinates":[-63.1130035,10.699445],"type":"Point"}
+  "geometry": {"coordinates":[-63.113003,10.699445],"type":"Point"}
 }
