@@ -117,6 +117,12 @@
     "name:fra_x_variant":[
         "Aragua"
     ],
+    "name:frr_x_preferred":[
+        "Aragua"
+    ],
+    "name:guc_x_preferred":[
+        "Araawat"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab0\u0abe\u0a97\u0ac1\u0a86"
     ],
@@ -125,6 +131,9 @@
     ],
     "name:hin_x_preferred":[
         "\u090f\u0930\u093e\u0917\u0941\u0906"
+    ],
+    "name:hrv_x_preferred":[
+        "Aragua"
     ],
     "name:hun_x_preferred":[
         "Aragua"
@@ -167,6 +176,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0410\u0440\u0430\u0433\u0432\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Aragua"
     ],
     "name:msa_x_preferred":[
         "Aragua"
@@ -391,7 +403,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506078,
+    "wof:lastmodified":1690914968,
     "wof:name":"Aragua",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

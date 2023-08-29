@@ -40,11 +40,20 @@
     "name:ast_x_preferred":[
         "C\u00e1rdenas"
     ],
+    "name:cat_x_preferred":[
+        "C\u00e1rdenas"
+    ],
     "name:ceb_x_preferred":[
         "C\u00e1rdenas"
     ],
+    "name:ceb_x_variant":[
+        "Municipio C\u00e1rdenas"
+    ],
     "name:deu_x_preferred":[
         "Cardenas"
+    ],
+    "name:deu_x_variant":[
+        "Municipio C\u00e1rdenas"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03b4\u03ad\u03bd\u03b1\u03c2"
@@ -179,7 +188,7 @@
         }
     ],
     "wof:id":421196939,
-    "wof:lastmodified":1636506268,
+    "wof:lastmodified":1690915091,
     "wof:name":"Cardenas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

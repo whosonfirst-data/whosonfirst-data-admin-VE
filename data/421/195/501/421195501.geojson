@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001538,
     "geom:area_square_m":18717133.413092,
-    "geom:bbox":"-67.5744794074,10.19,-67.4930433562,10.2273483113",
+    "geom:bbox":"-67.574479,10.19,-67.493043,10.227348",
     "geom:latitude":10.207577,
     "geom:longitude":-67.529805,
     "iso:country":"VE",
@@ -37,11 +37,29 @@
     "name:arg_x_preferred":[
         "Municipio Francisco Linares Alc\u00e1ntara"
     ],
+    "name:arg_x_variant":[
+        "Municipio Linares"
+    ],
     "name:ast_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
+    "name:ast_x_variant":[
+        "Municipio Linares"
+    ],
+    "name:cat_x_preferred":[
+        "Municipio Linares"
+    ],
     "name:ceb_x_preferred":[
         "Municipio Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:ceb_x_variant":[
+        "Municipio Linares"
+    ],
+    "name:cym_x_preferred":[
+        "Municipio Linares"
+    ],
+    "name:deu_x_preferred":[
+        "Municipio Linares"
     ],
     "name:eng_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
@@ -49,13 +67,20 @@
     "name:eng_x_variant":[
         "Santiago Marino",
         "Francisco Linares",
-        "Francisco Linares Alc\u00e1ntara Municipality"
+        "Francisco Linares Alc\u00e1ntara Municipality",
+        "Municipio Linares"
     ],
     "name:fra_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
+    "name:fra_x_variant":[
+        "Municipio Linares"
+    ],
     "name:ita_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:ita_x_variant":[
+        "Municipio Linares"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8\u10e1\u10d9\u10dd-\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1-\u10d0\u10da\u10d9\u10d0\u10dc\u10e2\u10d0\u10e0\u10d0\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
@@ -63,11 +88,20 @@
     "name:nan_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
+    "name:nan_x_variant":[
+        "Municipio Linares"
+    ],
     "name:nld_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
+    "name:nld_x_variant":[
+        "Municipio Linares"
+    ],
     "name:por_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:por_x_variant":[
+        "Municipio Linares"
     ],
     "name:ron_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
@@ -78,8 +112,14 @@
     "name:sco_x_preferred":[
         "Francisco Linares Alc\u00e1ntara Municipality"
     ],
+    "name:sco_x_variant":[
+        "Municipio Linares"
+    ],
     "name:spa_x_preferred":[
         "Municipio Francisco Linares Alc\u00e1ntara"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Linares"
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0441\u0456\u0441\u043a\u043e \u041b\u0456\u043d\u0430\u0440\u0435\u0441 \u0410\u043b\u044c\u043a\u0430\u043d\u0442\u0430\u0440\u0430"
@@ -87,11 +127,17 @@
     "name:vie_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
+    "name:vie_x_variant":[
+        "Municipio Linares"
+    ],
     "name:yor_x_preferred":[
         "Francisco Linares Alc\u00e1ntara"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u6717\u897f\u65af\u79d1\u7d0d\u96f7\u65af\u963f\u723e\u574e\u5854\u62c9\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "Municipio Linares"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -146,7 +192,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3ea702ffafe90e0ec8f52e9c725502c3",
+    "wof:geomhash":"d8744f3f1aa54f41bc72a7136d316a0a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +202,7 @@
         }
     ],
     "wof:id":421195501,
-    "wof:lastmodified":1582393016,
+    "wof:lastmodified":1690915031,
     "wof:name":"Francisco Linares Alcantara",
     "wof:parent_id":85680525,
     "wof:placetype":"county",
@@ -170,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.57447940737974,
-    10.18999999999983,
-    -67.4930433561538,
-    10.22734831130692
+    -67.574479,
+    10.19,
+    -67.493043,
+    10.227348
 ],
-  "geometry": {"coordinates":[[[-67.55455591124294,10.22734831130692],[-67.55367174862599,10.22693569064786],[-67.55190342339208,10.22611044932976],[-67.54925093554118,10.2248725873526],[-67.54513915642455,10.22287338619741],[-67.54068378893075,10.2211359184843],[-67.5357560332254,10.21967298994095],[-67.53191028669912,10.21838857455052],[-67.52938852413195,10.21775648715336],[-67.52562998544738,10.21791544206151],[-67.52104761576135,10.21876133225921],[-67.51759499000519,10.21880176231216],[-67.51439840144944,10.2176035246245],[-67.50884648176466,10.21564500372104],[-67.50297849240974,10.21348795973009],[-67.49959615107427,10.21020859289412],[-67.49748058065776,10.20488892587956],[-67.49304335615381,10.19097832192049],[-67.49522728165175,10.19085603168041],[-67.49959513264764,10.19061145120024],[-67.50614690914148,10.19024458047999],[-67.52602952027962,10.18999999999983],[-67.52690886904799,10.19153318656964],[-67.52866756658472,10.19459955970927],[-67.53130561288981,10.19919911941873],[-67.53467780670897,10.20323488909019],[-67.5393411191759,10.20596642368293],[-67.54641304810377,10.20667694174736],[-67.55269375151254,10.20563748212257],[-67.5570531819688,10.20506885084544],[-67.56289896258568,10.2034289555213],[-67.57447940737974,10.20473970369211],[-67.56913459323121,10.21175600804672],[-67.5637897790827,10.21877231240132],[-67.55739124044665,10.22539907997232],[-67.55455591124294,10.22734831130692]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-67.55455600000001,10.227348],[-67.55367200000001,10.226936],[-67.551903,10.22611],[-67.549251,10.224873],[-67.54513900000001,10.222873],[-67.540684,10.221136],[-67.53575600000001,10.219673],[-67.53191,10.218389],[-67.52938899999999,10.217756],[-67.52563000000001,10.217915],[-67.52104799999999,10.218761],[-67.517595,10.218802],[-67.514398,10.217604],[-67.50884600000001,10.215645],[-67.502978,10.213488],[-67.499596,10.210209],[-67.49748099999999,10.204889],[-67.493043,10.190978],[-67.495227,10.190856],[-67.499595,10.190611],[-67.506147,10.190245],[-67.52603000000001,10.19],[-67.526909,10.191533],[-67.528668,10.1946],[-67.531306,10.199199],[-67.534678,10.203235],[-67.53934099999999,10.205966],[-67.546413,10.206677],[-67.552694,10.205637],[-67.557053,10.205069],[-67.562899,10.203429],[-67.574479,10.20474],[-67.569135,10.211756],[-67.56379,10.218772],[-67.557391,10.225399],[-67.55455600000001,10.227348]]],"type":"Polygon"}
 }

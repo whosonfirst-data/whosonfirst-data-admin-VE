@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0631\u0627\u0644\u0627\u0641\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0627\u0631\u0627\u0644\u0627\u0641\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Charallave"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u09b2\u09c7\u09ad"
     ],
@@ -46,10 +52,16 @@
     "name:epo_x_preferred":[
         "Charallave"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u0627\u0644\u0627\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Charallave"
     ],
     "name:fra_x_preferred":[
+        "Charallave"
+    ],
+    "name:gle_x_preferred":[
         "Charallave"
     ],
     "name:guj_x_preferred":[
@@ -115,6 +127,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bb0\u0bb3\u0bbe\u0bb5\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0430\u0440\u0430\u043b\u044c\u044f\u0432\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c30\u0c3e\u0c33\u0c4d\u0c33\u0c35\u0c47"
     ],
@@ -129,6 +144,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0631\u0627\u0644\u06cc\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Charallave"
     ],
     "name:vie_x_preferred":[
         "Charallave"
@@ -178,7 +196,7 @@
         }
     ],
     "wof:id":890435149,
-    "wof:lastmodified":1566646317,
+    "wof:lastmodified":1690915147,
     "wof:name":"Charallave",
     "wof:parent_id":421171913,
     "wof:placetype":"locality",

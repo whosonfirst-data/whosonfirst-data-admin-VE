@@ -17,8 +17,14 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Consejo"
+    ],
     "name:eng_x_preferred":[
         "El Consejo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u06a9\u0648\u0646\u0633\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "El Consejo"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421194515,
-    "wof:lastmodified":1566646225,
+    "wof:lastmodified":1690915034,
     "wof:name":"El Consejo",
     "wof:parent_id":421166897,
     "wof:placetype":"locality",

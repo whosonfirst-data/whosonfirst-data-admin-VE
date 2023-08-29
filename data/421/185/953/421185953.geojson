@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Naguanagua"
+    ],
+    "name:cat_x_preferred":[
+        "Naguanagua"
+    ],
     "name:deu_x_preferred":[
         "Naguanagua"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "Naguanagua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05d5\u05d0\u05e0\u05d2\u05d5\u05d0\u05d4"
     ],
     "name:ina_x_preferred":[
         "Naguanagua"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421185953,
-    "wof:lastmodified":1566646303,
+    "wof:lastmodified":1690915121,
     "wof:name":"Naguanagua",
     "wof:parent_id":421182143,
     "wof:placetype":"locality",

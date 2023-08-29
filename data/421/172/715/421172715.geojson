@@ -26,8 +26,17 @@
     "name:arg_x_preferred":[
         "San Carlos"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0643\u0627\u0631\u0644\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "San Carlos"
+    ],
     "name:aym_x_preferred":[
         "San Carlos"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8"
@@ -56,11 +65,17 @@
     "name:fra_x_preferred":[
         "San Carlos"
     ],
+    "name:gle_x_preferred":[
+        "San Carlos"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a95\u0abe\u0ab0\u0acd\u0ab2\u0acb\u0ab8"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0915\u093e\u0930\u094d\u0932\u094b\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053f\u0561\u057c\u056c\u0578\u057d"
     ],
     "name:ind_x_preferred":[
         "San Carlos"
@@ -128,6 +143,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c32\u0c4b\u0c38\u0c4d"
     ],
@@ -145,6 +163,9 @@
     ],
     "name:urd_x_variant":[
         "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633\u060c \u06a9\u0648\u062e\u06cc\u062f\u06cc\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "San Carlos"
     ],
     "name:vie_x_preferred":[
         "San Carlos"
@@ -295,7 +316,7 @@
         }
     ],
     "wof:id":421172715,
-    "wof:lastmodified":1636506265,
+    "wof:lastmodified":1690915066,
     "wof:name":"San Carlos",
     "wof:parent_id":421200093,
     "wof:placetype":"locality",

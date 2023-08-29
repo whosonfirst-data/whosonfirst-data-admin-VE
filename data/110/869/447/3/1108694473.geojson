@@ -42,6 +42,12 @@
     "name:ben_x_preferred":[
         "\u09ad\u09cd\u09af\u09be\u09b2\u09a6\u09c7\u099c"
     ],
+    "name:cat_x_preferred":[
+        "Valdez"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Valdez"
+    ],
     "name:deu_x_preferred":[
         "Valdez"
     ],
@@ -52,7 +58,6 @@
         "Valdez"
     ],
     "name:eng_x_variant":[
-        "Valdez",
         "Valdez Municipality"
     ],
     "name:fas_x_preferred":[
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":1108694473,
-    "wof:lastmodified":1636506204,
+    "wof:lastmodified":1690914978,
     "wof:name":"Valdez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

@@ -36,6 +36,9 @@
     "name:arg_x_preferred":[
         "Estato Cojedes"
     ],
+    "name:arg_x_variant":[
+        "Cojedes"
+    ],
     "name:ast_x_preferred":[
         "Cojedes"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041a\u0430\u0445\u0435\u0434\u044d\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0445\u0435\u0434\u044d\u0441"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u099c\u09c7\u09a1\u09c7\u09b8"
@@ -59,6 +65,9 @@
     ],
     "name:ceb_x_preferred":[
         "Estado Cojedes"
+    ],
+    "name:ceb_x_variant":[
+        "Cojedes"
     ],
     "name:cor_x_preferred":[
         "Cojedes"
@@ -78,6 +87,9 @@
     "name:eng_x_variant":[
         "Estado Cojedes"
     ],
+    "name:epo_x_preferred":[
+        "Cojedes"
+    ],
     "name:est_x_preferred":[
         "Cojedes"
     ],
@@ -96,6 +108,12 @@
     "name:fra_x_variant":[
         "Cojedes"
     ],
+    "name:frr_x_preferred":[
+        "Cojedes"
+    ],
+    "name:guc_x_preferred":[
+        "Kujeere"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9c\u0ac7\u0aa1\u0ac7\u0ab8"
     ],
@@ -104,6 +122,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u090f\u0921\u0947\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Cojedes"
     ],
     "name:ind_x_preferred":[
         "Cojedes"
@@ -119,6 +140,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10ee\u10d4\u10d3\u10d4\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10dd\u10ee\u10d4\u10d3\u10d4\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud5e4\ub370\uc2a4 \uc8fc"
@@ -171,6 +195,9 @@
     "name:que_x_preferred":[
         "Cojedes suyu"
     ],
+    "name:que_x_variant":[
+        "Cojedes"
+    ],
     "name:ron_x_preferred":[
         "Cojedes"
     ],
@@ -207,6 +234,9 @@
     "name:tgk_x_preferred":[
         "\u0418\u0451\u043b\u043e\u0442\u0438 \u041a\u043e\u0445\u0435\u0434\u0435\u0441"
     ],
+    "name:tgk_x_variant":[
+        "\u041a\u043e\u0445\u0435\u0434\u0435\u0441"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e42\u0e01\u0e40\u0e2e\u0e40\u0e14\u0e2a"
     ],
@@ -230,6 +260,9 @@
     ],
     "name:war_x_preferred":[
         "Cojedes"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u8d6b\u5fb7\u65af\u5dde"
     ],
     "name:zho_cn_x_preferred":[
         "\u79d1\u8d6b\u5fb7\u65af\u6cb3"
@@ -363,7 +396,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1642551732,
+    "wof:lastmodified":1690914958,
     "wof:name":"Cojedes",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

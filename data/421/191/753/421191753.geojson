@@ -37,17 +37,33 @@
     "name:ast_x_preferred":[
         "Tucupita"
     ],
+    "name:ast_x_variant":[
+        "Municipio Tucupita"
+    ],
+    "name:cat_x_preferred":[
+        "Municipio Tucupita"
+    ],
     "name:ceb_x_preferred":[
+        "Municipio Tucupita"
+    ],
+    "name:cym_x_preferred":[
+        "Municipio Tucupita"
+    ],
+    "name:deu_x_preferred":[
         "Municipio Tucupita"
     ],
     "name:eng_x_preferred":[
         "Tucupita"
     ],
     "name:eng_x_variant":[
-        "Tucupita Municipality"
+        "Tucupita Municipality",
+        "Municipio Tucupita"
     ],
     "name:fra_x_preferred":[
         "Tucupita"
+    ],
+    "name:fra_x_variant":[
+        "Municipio Tucupita"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e7\u05d5\u05e4\u05d9\u05d8\u05d4"
@@ -58,11 +74,20 @@
     "name:nan_x_preferred":[
         "Tucupita"
     ],
+    "name:nan_x_variant":[
+        "Municipio Tucupita"
+    ],
     "name:nld_x_preferred":[
         "Tucupita"
     ],
+    "name:nld_x_variant":[
+        "Municipio Tucupita"
+    ],
     "name:por_x_preferred":[
         "Tucupita"
+    ],
+    "name:por_x_variant":[
+        "Municipio Tucupita"
     ],
     "name:spa_x_preferred":[
         "Municipio Tucupita"
@@ -132,7 +157,7 @@
         }
     ],
     "wof:id":421191753,
-    "wof:lastmodified":1636506269,
+    "wof:lastmodified":1690915094,
     "wof:name":"Tucupita",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

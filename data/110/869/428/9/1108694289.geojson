@@ -36,7 +36,19 @@
     "name:ast_x_preferred":[
         "Nirgua"
     ],
+    "name:ast_x_variant":[
+        "Municipio Nirgua"
+    ],
+    "name:cat_x_preferred":[
+        "Municipio Nirgua"
+    ],
     "name:ceb_x_preferred":[
+        "Municipio Nirgua"
+    ],
+    "name:cym_x_preferred":[
+        "Municipio Nirgua"
+    ],
+    "name:deu_x_preferred":[
         "Municipio Nirgua"
     ],
     "name:eng_x_preferred":[
@@ -44,19 +56,31 @@
     ],
     "name:eng_x_variant":[
         "Autonomo Nirgua",
-        "Nirgua"
+        "Municipio Nirgua"
     ],
     "name:fra_x_preferred":[
         "Nirgua"
     ],
+    "name:fra_x_variant":[
+        "Municipio Nirgua"
+    ],
     "name:nan_x_preferred":[
         "Nirgua"
+    ],
+    "name:nan_x_variant":[
+        "Municipio Nirgua"
     ],
     "name:nld_x_preferred":[
         "Nirgua"
     ],
+    "name:nld_x_variant":[
+        "Municipio Nirgua"
+    ],
     "name:por_x_preferred":[
         "Nirgua"
+    ],
+    "name:por_x_variant":[
+        "Municipio Nirgua"
     ],
     "name:spa_x_preferred":[
         "Municipio Nirgua"
@@ -65,7 +89,8 @@
         "S\u00f4ng Miranda"
     ],
     "name:vie_x_variant":[
-        "Nirgua"
+        "Nirgua",
+        "Municipio Nirgua"
     ],
     "name:zho_cn_x_preferred":[
         "\u7c73\u5170\u8fbe\u6cb3"
@@ -75,6 +100,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u723e\u74dc\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "Municipio Nirgua"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -100,7 +128,7 @@
         }
     ],
     "wof:id":1108694289,
-    "wof:lastmodified":1636506207,
+    "wof:lastmodified":1690915004,
     "wof:name":"Miranda",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

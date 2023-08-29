@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Laguardia"
     ],
+    "name:fra_x_variant":[
+        "La Guardia"
+    ],
     "name:hbs_x_preferred":[
         "La Guardia"
     ],
@@ -48,6 +51,9 @@
         "\ub77c\uac00\ub514\uc544"
     ],
     "name:nld_x_preferred":[
+        "La Guardia"
+    ],
+    "name:pol_x_preferred":[
         "La Guardia"
     ],
     "name:rus_x_preferred":[
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421181147,
-    "wof:lastmodified":1566646265,
+    "wof:lastmodified":1690915086,
     "wof:name":"La Guardia",
     "wof:parent_id":421166695,
     "wof:placetype":"locality",

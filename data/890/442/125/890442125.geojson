@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "San Juan de Los Morros"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053d\u0578\u0582\u0561\u0576 \u0564\u0565 \u056c\u0578\u057d \u0544\u0578\u057c\u0578\u057d"
+    ],
     "name:ita_x_preferred":[
         "San Juan de los Morros"
     ],
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890442125,
-    "wof:lastmodified":1566646314,
+    "wof:lastmodified":1690915139,
     "wof:name":"San Juan de los Morros",
     "wof:parent_id":1108694381,
     "wof:placetype":"locality",

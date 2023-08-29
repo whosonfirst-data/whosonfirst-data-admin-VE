@@ -17,8 +17,14 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u063a\u0648\u0627\u064a\u0631\u0627"
+    ],
     "name:arg_x_preferred":[
         "La Guaira"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627 \u062c\u0648\u0627\u064a\u0631\u0627"
     ],
     "name:ast_x_preferred":[
         "La Guaira"
@@ -28,6 +34,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041b\u0430-\u0413\u0443\u0430\u0439\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0430\u0439\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "La Guaira"
@@ -62,11 +71,17 @@
     "name:fra_x_preferred":[
         "La Guaira"
     ],
+    "name:gle_x_preferred":[
+        "La Guaira"
+    ],
     "name:glg_x_preferred":[
         "La Guaira"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d4 \u05d2\u05d5\u05d0\u05d9\u05e8\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u0533\u0578\u0582\u0561\u0575\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "La Guaira"
@@ -113,6 +128,9 @@
     "name:swe_x_preferred":[
         "La Guaira"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430-\u0413\u0432\u0430\u0439\u0440\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0413\u0443\u0430\u0439\u0440\u0430"
     ],
@@ -121,6 +139,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06af\u0648\u0627\u06cc\u0631\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "La Guaira"
     ],
     "name:war_x_preferred":[
         "La Guaira"
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":421191317,
-    "wof:lastmodified":1566646276,
+    "wof:lastmodified":1690915095,
     "wof:name":"La Guaira",
     "wof:parent_id":421169209,
     "wof:placetype":"localadmin",

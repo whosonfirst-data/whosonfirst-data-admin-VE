@@ -36,11 +36,29 @@
     "name:arg_x_preferred":[
         "Municipio R\u00edo Negro"
     ],
+    "name:arg_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
+    "name:ast_x_preferred":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0993 \u09a8\u09bf\u0997\u09cd\u09b0\u09cb"
     ],
+    "name:cat_x_preferred":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
+    "name:cym_x_preferred":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Negro"
+    ],
+    "name:deu_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03af\u03bf \u039d\u03ad\u03b3\u03c1\u03bf\u03c2"
@@ -50,14 +68,17 @@
     ],
     "name:eng_x_variant":[
         "D. Rio Negro",
-        "R\u00edo Negro",
-        "R\u00edo Negro Municipality"
+        "R\u00edo Negro Municipality",
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
     ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0648 \u0646\u06af\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "R\u00edo Negro"
+    ],
+    "name:fra_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05d5 \u05e0\u05d2\u05e8\u05d5"
@@ -71,6 +92,9 @@
     "name:ita_x_preferred":[
         "R\u00edo Negro"
     ],
+    "name:ita_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30aa\u30cd\u30b0\u30ed"
     ],
@@ -83,24 +107,44 @@
     "name:nan_x_preferred":[
         "R\u00edo Negro"
     ],
+    "name:nan_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
     "name:nld_x_preferred":[
         "R\u00edo Negro"
+    ],
+    "name:nld_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
     ],
     "name:pol_x_preferred":[
         "R\u00edo Negro"
     ],
+    "name:pol_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
     "name:por_x_preferred":[
         "R\u00edo Negro"
+    ],
+    "name:por_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
     ],
     "name:sco_x_preferred":[
         "R\u00edo Negro Municipality"
     ],
+    "name:sco_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
     "name:spa_x_preferred":[
         "R\u00edo Negro"
     ],
-    "name:spa_x_variant":[],
+    "name:spa_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
+    ],
     "name:swe_x_preferred":[
         "R\u00edo Negro"
+    ],
+    "name:swe_x_variant":[
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
     ],
     "name:tur_x_preferred":[
         "Rio Negro"
@@ -116,7 +160,8 @@
     ],
     "name:vie_x_variant":[
         "R\u00edo Negro",
-        "Rio Negro"
+        "Rio Negro",
+        "Municipio Aut\u00f3nomo R\u00edo Negro"
     ],
     "name:zho_cn_x_preferred":[
         "\u91cc\u5965\u5185\u683c\u7f57"
@@ -163,7 +208,7 @@
         }
     ],
     "wof:id":1108694371,
-    "wof:lastmodified":1636506206,
+    "wof:lastmodified":1690914994,
     "wof:name":"Rio Negro",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

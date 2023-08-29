@@ -17,11 +17,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:dan_x_preferred":[
+        "Mucuch\u00edes"
+    ],
     "name:deu_x_preferred":[
         "Mucuch\u00edes"
     ],
     "name:eng_x_preferred":[
         "Mucuch\u00edes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0648\u0686\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "Mucuch\u00edes"
@@ -45,6 +54,9 @@
         "Mucuchies"
     ],
     "name:spa_x_preferred":[
+        "Mucuch\u00edes"
+    ],
+    "name:swe_x_preferred":[
         "Mucuch\u00edes"
     ],
     "name:zho_x_preferred":[
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":421192265,
-    "wof:lastmodified":1566646217,
+    "wof:lastmodified":1690915029,
     "wof:name":"Mucuch\u00edes",
     "wof:parent_id":890439859,
     "wof:placetype":"locality",

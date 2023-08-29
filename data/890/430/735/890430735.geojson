@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0627"
+    ],
     "name:ast_x_preferred":[
         "C\u00faa"
     ],
@@ -52,10 +55,16 @@
     "name:epo_x_preferred":[
         "C\u00faa"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "C\u00faa"
     ],
     "name:fra_x_preferred":[
+        "C\u00faa"
+    ],
+    "name:gle_x_preferred":[
         "C\u00faa"
     ],
     "name:guj_x_preferred":[
@@ -121,6 +130,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0baf"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c41\u0c35\u0c3e"
     ],
@@ -135,6 +147,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "C\u00faa"
     ],
     "name:vie_x_preferred":[
         "C\u00faa"
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":890430735,
-    "wof:lastmodified":1566646309,
+    "wof:lastmodified":1690915131,
     "wof:name":"C\u00faa",
     "wof:parent_id":421170247,
     "wof:placetype":"locality",

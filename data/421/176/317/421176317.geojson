@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0625\u0644 \u062a\u064a\u063a\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644 \u062a\u064a\u062c\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "El Tigre"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u099f\u09be\u0987\u0997\u09cd\u09b0\u09bf"
     ],
     "name:ben_x_variant":[
         "\u098f\u09b2 \u09a4\u09bf\u0997\u09cd\u09b0\u09c7"
     ],
+    "name:cat_x_preferred":[
+        "El Tigre"
+    ],
     "name:ceb_x_preferred":[
         "El Tigre"
+    ],
+    "name:chv_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0438\u0433\u0440\u0435"
     ],
     "name:cym_x_preferred":[
         "El Tigre"
@@ -46,6 +58,9 @@
     ],
     "name:epo_x_preferred":[
         "El Tigre"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u062a\u06cc\u06af\u0631"
     ],
     "name:fin_x_preferred":[
         "El Tigre"
@@ -128,6 +143,9 @@
     "name:tam_x_preferred":[
         "\u0b8e\u0bb2\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0bb0\u0bc6"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b-\u0422\u0438\u0433\u0440\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c32\u0c4d \u0c1f\u0c48\u0c17\u0c4d\u0c30\u0c47"
     ],
@@ -154,6 +172,9 @@
     ],
     "name:war_x_preferred":[
         "El Tigre"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u5c14\u8482\u683c\u96f7"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u8482\u683c\u96f7"
@@ -301,7 +322,7 @@
         }
     ],
     "wof:id":421176317,
-    "wof:lastmodified":1636506273,
+    "wof:lastmodified":1690915115,
     "wof:name":"El Tigre",
     "wof:parent_id":421189069,
     "wof:placetype":"locality",

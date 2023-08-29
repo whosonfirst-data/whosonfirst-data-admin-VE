@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u064a\u0631\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Valera"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09cd\u09af\u09be\u09b2\u09c7\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
         "Valera"
+    ],
+    "name:ces_x_preferred":[
+        "Valera"
+    ],
+    "name:chv_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u0440\u0430"
     ],
     "name:dan_x_preferred":[
         "Valera"
@@ -41,10 +50,16 @@
     "name:epo_x_preferred":[
         "Valera"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Valera"
     ],
     "name:fra_x_preferred":[
+        "Valera"
+    ],
+    "name:gle_x_preferred":[
         "Valera"
     ],
     "name:glg_x_preferred":[
@@ -128,6 +143,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bb2\u0bc6\u0bb0\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u0440\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c32\u0c46\u0c30\u0c3e"
     ],
@@ -142,6 +160,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0644\u06cc\u0631\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Valera"
     ],
     "name:vie_x_preferred":[
         "Valera"
@@ -298,7 +319,7 @@
         }
     ],
     "wof:id":421172767,
-    "wof:lastmodified":1636506265,
+    "wof:lastmodified":1690915067,
     "wof:name":"Valera",
     "wof:parent_id":1108694477,
     "wof:placetype":"locality",

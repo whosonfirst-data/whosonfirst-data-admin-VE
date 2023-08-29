@@ -24,6 +24,9 @@
     "name:arg_x_preferred":[
         "Guanare"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0627\u0646\u064a\u0631"
+    ],
     "name:ast_x_preferred":[
         "Guanare"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u043d\u0430\u0440\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Guanare"
     ],
     "name:ceb_x_preferred":[
         "Guanare"
@@ -63,6 +69,9 @@
     "name:fra_x_preferred":[
         "Guanare"
     ],
+    "name:gle_x_preferred":[
+        "Guanare"
+    ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab5\u0abe\u0aa8\u0abe\u0ab0\u0ac7"
     ],
@@ -74,6 +83,9 @@
     ],
     "name:hun_x_preferred":[
         "Guanare"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0582\u0561\u0576\u0561\u0580\u0565"
     ],
     "name:ind_x_preferred":[
         "Guanare"
@@ -98,6 +110,9 @@
     ],
     "name:lit_x_preferred":[
         "Gvanar\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Guanare"
     ],
     "name:mar_x_preferred":[
         "\u0917\u0941\u0928\u093e\u0930\u0947"
@@ -141,6 +156,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb5\u0bbe\u0ba9\u0bb0\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0432\u0430\u043d\u0430\u0440\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c35\u0c28\u0c3e\u0c30\u0c47"
     ],
@@ -155,6 +173,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0627\u0646\u0627\u0631\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Guanare"
     ],
     "name:vie_x_preferred":[
         "Guanare"
@@ -287,7 +308,7 @@
         }
     ],
     "wof:id":1141906277,
-    "wof:lastmodified":1636506369,
+    "wof:lastmodified":1690915152,
     "wof:name":"Guanare",
     "wof:parent_id":421189087,
     "wof:placetype":"locality",

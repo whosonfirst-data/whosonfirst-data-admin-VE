@@ -102,8 +102,14 @@
     "name:fra_x_variant":[
         "Zulia"
     ],
+    "name:frr_x_preferred":[
+        "Zulia"
+    ],
     "name:glg_x_preferred":[
         "Zulia"
+    ],
+    "name:guc_x_preferred":[
+        "Suuria"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0ab2\u0abf\u0aaf\u0abe"
@@ -200,7 +206,8 @@
         "Zulia"
     ],
     "name:por_x_variant":[
-        "Estado Zulia"
+        "Estado Zulia",
+        "Z\u00falia"
     ],
     "name:que_x_preferred":[
         "Zulia suyu"
@@ -255,6 +262,9 @@
     ],
     "name:war_x_preferred":[
         "Zulia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u5229\u4e9a\u5dde"
     ],
     "name:zho_min_nan_x_preferred":[
         "Zulia"
@@ -390,7 +400,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506075,
+    "wof:lastmodified":1690914956,
     "wof:name":"Zulia",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

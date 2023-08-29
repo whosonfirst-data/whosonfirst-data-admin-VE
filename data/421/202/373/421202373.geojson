@@ -34,18 +34,33 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Municipio Valencia"
+    ],
+    "name:cat_x_preferred":[
+        "Municipio Valencia"
+    ],
+    "name:cym_x_preferred":[
+        "Municipio Valencia"
+    ],
     "name:deu_x_preferred":[
         "Valencia"
+    ],
+    "name:deu_x_variant":[
+        "Municipio Valencia"
     ],
     "name:eng_x_preferred":[
         "Valencia"
     ],
     "name:eng_x_variant":[
-        "Valencia",
-        "Valencia Municipality"
+        "Valencia Municipality",
+        "Municipio Valencia"
     ],
     "name:fra_x_preferred":[
         "Valencia"
+    ],
+    "name:fra_x_variant":[
+        "Municipio Valencia"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05dc\u05e0\u05e1\u05d9\u05d4"
@@ -53,17 +68,32 @@
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10da\u10d4\u10dc\u10e1\u10d8\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Municipio Valencia"
+    ],
     "name:nob_x_preferred":[
         "Valencia"
+    ],
+    "name:nob_x_variant":[
+        "Municipio Valencia"
     ],
     "name:por_x_preferred":[
         "Valencia"
     ],
+    "name:por_x_variant":[
+        "Municipio Valencia"
+    ],
     "name:spa_x_preferred":[
         "Valencia"
     ],
+    "name:spa_x_variant":[
+        "Municipio Valencia"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u502b\u5df4\u4e9e\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "Municipio Valencia"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -130,7 +160,7 @@
         }
     ],
     "wof:id":421202373,
-    "wof:lastmodified":1636506262,
+    "wof:lastmodified":1690915050,
     "wof:name":"Valencia",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

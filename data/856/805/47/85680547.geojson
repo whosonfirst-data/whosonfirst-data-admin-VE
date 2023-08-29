@@ -60,6 +60,9 @@
     "name:ceb_x_preferred":[
         "Estado Monagas"
     ],
+    "name:ces_x_preferred":[
+        "Monagas"
+    ],
     "name:cor_x_preferred":[
         "Monagas"
     ],
@@ -77,6 +80,9 @@
     ],
     "name:eng_x_variant":[
         "Estado Monagas"
+    ],
+    "name:epo_x_preferred":[
+        "Monagas"
     ],
     "name:est_x_preferred":[
         "Monagas"
@@ -96,6 +102,12 @@
     "name:fra_x_variant":[
         "Monagas"
     ],
+    "name:frr_x_preferred":[
+        "Monagas"
+    ],
+    "name:guc_x_preferred":[
+        "Monaaka"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0abe\u0a97\u0abe\u0ab8"
     ],
@@ -104,6 +116,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0928\u093e\u0917\u093e\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Monagas"
     ],
     "name:hun_x_preferred":[
         "Monagas"
@@ -225,6 +240,9 @@
     ],
     "name:war_x_preferred":[
         "Monagas"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u7eb3\u52a0\u65af\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7d0d\u52a0\u65af\u5dde"
@@ -353,7 +371,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506078,
+    "wof:lastmodified":1690914968,
     "wof:name":"Monagas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

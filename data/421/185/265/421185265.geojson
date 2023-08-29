@@ -40,7 +40,13 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u09a1\u09cb\u09ad\u09be"
     ],
+    "name:cat_x_preferred":[
+        "C\u00f3rdoba"
+    ],
     "name:ceb_x_preferred":[
+        "Municipio C\u00f3rdoba"
+    ],
+    "name:deu_x_preferred":[
         "Municipio C\u00f3rdoba"
     ],
     "name:ell_x_preferred":[
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421185265,
-    "wof:lastmodified":1636506274,
+    "wof:lastmodified":1690915125,
     "wof:name":"Cordova",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u0631\u064a\u0646\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0627\u0631\u064a\u0646\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Guarenas"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u09b0\u09c7\u09a8\u09be\u09b8"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:ceb_x_preferred":[
         "Guarenas"
+    ],
+    "name:chv_x_preferred":[
+        "\u0413\u0443\u0430\u0440\u0435\u043d\u0430\u0441"
     ],
     "name:dan_x_preferred":[
         "Guarenas"
@@ -46,10 +55,16 @@
     "name:epo_x_preferred":[
         "Guarenas"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0627\u0631\u0646\u0627\u0647\u0627"
+    ],
     "name:fin_x_preferred":[
         "Guarenas"
     ],
     "name:fra_x_preferred":[
+        "Guarenas"
+    ],
+    "name:gle_x_preferred":[
         "Guarenas"
     ],
     "name:guj_x_preferred":[
@@ -118,6 +133,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bc7\u0ba9\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0432\u0430\u0440\u0435\u043d\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c41\u0c06\u0c30\u0c46\u0c28\u0c38\u0c4d"
     ],
@@ -132,6 +150,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0648\u0627\u0631\u06cc\u0646\u0627\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "Guarenas"
     ],
     "name:vie_x_preferred":[
         "Guarenas"
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":890451735,
-    "wof:lastmodified":1566646314,
+    "wof:lastmodified":1690915140,
     "wof:name":"Guarenas",
     "wof:parent_id":421189081,
     "wof:placetype":"locality",

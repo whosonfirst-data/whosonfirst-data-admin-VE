@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0648\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0631\u0648\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Carora"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09cb\u09b0\u09be"
     ],
@@ -43,14 +49,23 @@
     "name:epo_x_preferred":[
         "Karora"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Carora"
     ],
     "name:fra_x_preferred":[
         "Carora"
     ],
+    "name:gle_x_preferred":[
+        "Carora"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0acb\u0ab0\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05e8\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0930\u094b\u0930\u093e"
@@ -112,8 +127,14 @@
     "name:swe_x_preferred":[
         "Carora"
     ],
+    "name:szl_x_preferred":[
+        "Carora"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb0\u0bcb\u0bb0\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0440\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c30\u0c4b\u0c30\u0c3e"
@@ -129,6 +150,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0631\u0648\u0631\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Carora"
     ],
     "name:vie_x_preferred":[
         "Carora"
@@ -264,7 +288,7 @@
         }
     ],
     "wof:id":890442145,
-    "wof:lastmodified":1636506275,
+    "wof:lastmodified":1690915136,
     "wof:name":"Carora",
     "wof:parent_id":1108694453,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "name:ast_x_preferred":[
         "Barinas"
     ],
+    "name:cat_x_preferred":[
+        "Barinas"
+    ],
     "name:ceb_x_preferred":[
         "Municipio Barinas"
     ],
     "name:eng_x_preferred":[
         "Barinas"
+    ],
+    "name:eng_x_variant":[
+        "Municipio Barinas"
     ],
     "name:fra_x_preferred":[
         "Barinas"
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890433141,
-    "wof:lastmodified":1566646315,
+    "wof:lastmodified":1690915141,
     "wof:name":"Alto Barinas",
     "wof:parent_id":890429493,
     "wof:placetype":"locality",

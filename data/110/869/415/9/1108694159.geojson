@@ -39,14 +39,26 @@
     "name:ast_x_preferred":[
         "Chaguaramas"
     ],
+    "name:ast_x_variant":[
+        "Municipio Chaguaramas"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09be\u0997\u09c1\u09df\u09be\u09b0\u09be\u09ae\u09be\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Municipio Chaguaramas"
     ],
     "name:ceb_x_preferred":[
         "Municipio Chaguaramas"
     ],
+    "name:cym_x_preferred":[
+        "Municipio Chaguaramas"
+    ],
     "name:deu_x_preferred":[
         "Chaguaramas"
+    ],
+    "name:deu_x_variant":[
+        "Municipio Chaguaramas"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b1\u03b3\u03ba\u03bf\u03c5\u03b1\u03c1\u03ac\u03bc\u03b1\u03c2"
@@ -55,13 +67,17 @@
         "Chaguaramas"
     ],
     "name:eng_x_variant":[
-        "Chaguaramas Municipality"
+        "Chaguaramas Municipality",
+        "Municipio Chaguaramas"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u06af\u0648\u0627\u0631\u0627\u0645\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Chaguaramas"
+    ],
+    "name:fra_x_variant":[
+        "Municipio Chaguaramas"
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d0\u05d2\u05d5\u05d0\u05e8\u05de\u05d0\u05e1"
@@ -78,6 +94,9 @@
     "name:ita_x_preferred":[
         "Chaguaramas"
     ],
+    "name:ita_x_variant":[
+        "Municipio Chaguaramas"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30b0\u30a2\u30e9\u30de"
     ],
@@ -90,17 +109,29 @@
     "name:nan_x_preferred":[
         "Chaguaramas"
     ],
+    "name:nan_x_variant":[
+        "Municipio Chaguaramas"
+    ],
     "name:nld_x_preferred":[
         "Chaguaramas"
     ],
+    "name:nld_x_variant":[
+        "Municipio Chaguaramas"
+    ],
     "name:por_x_preferred":[
         "Chaguaramas"
+    ],
+    "name:por_x_variant":[
+        "Municipio Chaguaramas"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0433\u0443\u0430\u0440\u0430\u043c\u0430\u0441"
     ],
     "name:spa_x_preferred":[
         "Chaguaramas"
+    ],
+    "name:spa_x_variant":[
+        "Municipio Chaguaramas"
     ],
     "name:swe_x_preferred":[
         "Chaguaramas"
@@ -116,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Chaguaramas"
+    ],
+    "name:vie_x_variant":[
+        "Municipio Chaguaramas"
     ],
     "name:zho_x_preferred":[
         "\u4e18\u74dc\u62c9\u99ac\u65af\u5e02"
@@ -156,7 +190,7 @@
         }
     ],
     "wof:id":1108694159,
-    "wof:lastmodified":1636506205,
+    "wof:lastmodified":1690914987,
     "wof:name":"Chaguaramas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

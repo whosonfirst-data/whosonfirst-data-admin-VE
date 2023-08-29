@@ -25,8 +25,17 @@
     "name:ara_x_variant":[
         "\u062a\u0627\u0631\u064a\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0631\u064a\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Car\u00fapano"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09bf\u09ac\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "T\u00e1riba"
     ],
     "name:ceb_x_preferred":[
         "T\u00e1riba"
@@ -50,6 +59,9 @@
         "T\u00e1riba"
     ],
     "name:fra_x_preferred":[
+        "T\u00e1riba"
+    ],
+    "name:gle_x_preferred":[
         "T\u00e1riba"
     ],
     "name:guj_x_preferred":[
@@ -112,6 +124,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bb0\u0bbf\u0baa\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0440\u0438\u0431\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c24\u0c30\u0c3f\u0c2c\u0c3e"
     ],
@@ -126,6 +141,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0631\u06cc\u0628\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "T\u00e1riba"
     ],
     "name:vie_x_preferred":[
         "Tariba"
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":890435135,
-    "wof:lastmodified":1566646315,
+    "wof:lastmodified":1690915142,
     "wof:name":"T\u00e1riba",
     "wof:parent_id":421196939,
     "wof:placetype":"locality",

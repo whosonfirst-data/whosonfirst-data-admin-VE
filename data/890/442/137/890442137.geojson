@@ -64,6 +64,9 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u043e"
     ],
+    "name:chv_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u043e"
+    ],
     "name:cym_x_preferred":[
         "Maracaibo"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:glg_x_preferred":[
         "Maracaibo"
+    ],
+    "name:guc_x_preferred":[
+        "Marakaaya"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0a95\u0abe\u0a87\u0aac\u0acb"
@@ -167,6 +173,12 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u093e\u0915\u093e\u0908\u092c\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u043e"
+    ],
+    "name:mlt_x_preferred":[
+        "Maracaibo"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u043e"
     ],
@@ -193,6 +205,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a30\u0a3e\u0a15\u0a3e\u0a08\u0a2c\u0a4b"
+    ],
+    "name:pap_x_preferred":[
+        "Maracaibo"
     ],
     "name:pol_x_preferred":[
         "Maracaibo"
@@ -269,6 +284,9 @@
     "name:uzb_x_preferred":[
         "Marakaibo"
     ],
+    "name:vec_x_preferred":[
+        "Maracaibo"
+    ],
     "name:vep_x_preferred":[
         "Marakaibo"
     ],
@@ -280,6 +298,9 @@
     ],
     "name:war_x_preferred":[
         "Maracaibo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u62c9\u5f00\u6ce2"
     ],
     "name:zho_cn_x_preferred":[
         "\u9a6c\u62c9\u5f00\u6ce2"
@@ -404,8 +425,8 @@
     "wof:belongsto":[
         102191577,
         85632317,
-        421172589,
-        85680487
+        85680487,
+        421172589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -434,7 +455,7 @@
         }
     ],
     "wof:id":890442137,
-    "wof:lastmodified":1610161047,
+    "wof:lastmodified":1690915138,
     "wof:megacity":1,
     "wof:name":"Maracaibo",
     "wof:parent_id":421172589,

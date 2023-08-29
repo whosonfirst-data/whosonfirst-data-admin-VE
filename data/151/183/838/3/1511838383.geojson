@@ -31,6 +31,15 @@
     "name:fra_x_preferred":[
         "Atures"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c8\u30a5\u30ec\u30b9\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10e3\u10e0\u10d4\u10e1\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5716\u96f7\u65af\u5e02"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1511838383,
-    "wof:lastmodified":1627522970,
+    "wof:lastmodified":1690914954,
     "wof:name":"Atures",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

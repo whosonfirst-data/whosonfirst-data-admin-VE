@@ -39,6 +39,9 @@
     "name:ast_x_preferred":[
         "Barinas"
     ],
+    "name:cat_x_preferred":[
+        "Barinas"
+    ],
     "name:ceb_x_preferred":[
         "Municipio Barinas"
     ],
@@ -46,7 +49,8 @@
         "Barinas"
     ],
     "name:eng_x_variant":[
-        "Barinas Municipality"
+        "Barinas Municipality",
+        "Municipio Barinas"
     ],
     "name:fra_x_preferred":[
         "Barinas"
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":890429493,
-    "wof:lastmodified":1636506275,
+    "wof:lastmodified":1690915134,
     "wof:name":"Barinas",
     "wof:parent_id":85680469,
     "wof:placetype":"county",
