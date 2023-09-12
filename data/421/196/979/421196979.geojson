@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.919705,
-    "geom:area_square_m":48135134757.629547,
+    "geom:area_square_m":48135134757.629723,
     "geom:bbox":"-67.44,5.64075235355,-64.7723584915,7.9025",
     "geom:latitude":6.695762,
     "geom:longitude":-66.001574,
@@ -38,6 +38,9 @@
         "Marqarita Fernandez"
     ],
     "name:deu_x_preferred":[
+        "Cede\u00f1o"
+    ],
+    "name:eng_x_preferred":[
         "Cede\u00f1o"
     ],
     "name:eng_x_variant":[
@@ -113,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44e63a114670f00329bf39728ee9a5e5",
+    "wof:geomhash":"63650d2fc7bdb37ef795c7b50d8cde70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421196979,
-    "wof:lastmodified":1582393022,
+    "wof:lastmodified":1694492504,
     "wof:name":"Cede\u00f1o",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082887,
-    "geom:area_square_m":1008921595.354321,
+    "geom:area_square_m":1008921595.354229,
     "geom:bbox":"-66.1482933216,9.93998100532,-65.6851973865,10.3970607127",
     "geom:latitude":10.132908,
     "geom:longitude":-65.964688,
@@ -36,6 +36,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "P\u00e1ez"
+    ],
+    "name:eng_x_preferred":[
+        "Paez"
     ],
     "name:eng_x_variant":[
         "Paez",
@@ -101,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8efc9574c85afedd86cb2389637e4da8",
+    "wof:geomhash":"a6c0227eb56b4dd1933b04460773ad45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421204299,
-    "wof:lastmodified":1582393017,
+    "wof:lastmodified":1694492504,
     "wof:name":"Paez",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

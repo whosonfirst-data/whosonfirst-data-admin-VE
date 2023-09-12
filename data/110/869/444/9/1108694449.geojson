@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011705,
-    "geom:area_square_m":142426266.41594,
+    "geom:area_square_m":142426266.415907,
     "geom:bbox":"-68.8866890343,10.1516248968,-68.6974939202,10.3633972737",
     "geom:latitude":10.253269,
     "geom:longitude":-68.798853,
@@ -98,6 +98,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03cd\u03ba\u03c1\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Sucre"
     ],
     "name:eng_x_variant":[
         "Autonomo Bruzual",
@@ -368,7 +371,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415871,
-    "wof:geomhash":"df8612949410c5904cc4e8627b687418",
+    "wof:geomhash":"68e828ea4ec0d3c69efac612c9b7c727",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +381,7 @@
         }
     ],
     "wof:id":1108694449,
-    "wof:lastmodified":1566645814,
+    "wof:lastmodified":1694492405,
     "wof:name":"Sucre",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

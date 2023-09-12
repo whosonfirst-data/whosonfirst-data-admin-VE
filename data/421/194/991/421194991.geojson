@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090636,
-    "geom:area_square_m":1107523650.633974,
+    "geom:area_square_m":1107524553.896935,
     "geom:bbox":"-70.703413,8.591272,-70.328333,9.03",
     "geom:latitude":8.806157,
     "geom:longitude":-70.505723,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Bolivar"
+    ],
     "name:eng_x_variant":[
         "Bolivar",
         "Bol\u00edvar"
@@ -83,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"110c7484e97f84a742028edd5361e91f",
+    "wof:geomhash":"71a4cedb63a5265c5ac2b31f31326711",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421194991,
-    "wof:lastmodified":1636506260,
+    "wof:lastmodified":1694492944,
     "wof:name":"Bolivar",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183978,
-    "geom:area_square_m":2244698220.622012,
+    "geom:area_square_m":2244698220.621929,
     "geom:bbox":"-65.9502635371,8.97501187055,-65.5118631971,9.69233085972",
     "geom:latitude":9.349075,
     "geom:longitude":-65.750636,
@@ -40,6 +40,9 @@
         "Ribas"
     ],
     "name:deu_x_preferred":[
+        "Ribas"
+    ],
+    "name:eng_x_preferred":[
         "Ribas"
     ],
     "name:eng_x_variant":[
@@ -80,7 +83,7 @@
     "wof:concordances":{},
     "wof:country":"VE",
     "wof:created":1474415790,
-    "wof:geomhash":"0f6e07fd1d5faf66bc834bd8a9e03bea",
+    "wof:geomhash":"ac5d37562cd13fe2ce7762701055060a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108694365,
-    "wof:lastmodified":1566645806,
+    "wof:lastmodified":1694492404,
     "wof:name":"Ribas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.199659,
-    "geom:area_square_m":14711893429.980192,
+    "geom:area_square_m":14711893853.332642,
     "geom:bbox":"-63.019931,6.235,-62.120343,8.38",
     "geom:latitude":7.336686,
     "geom:longitude":-62.565849,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Piar"
+    ],
     "name:eng_x_variant":[
         "Piar"
     ],
@@ -79,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e5f7f56cac5fb6dccf54da4622f0598",
+    "wof:geomhash":"f3bdd976ce69b174cd6961c3cca75d84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421197623,
-    "wof:lastmodified":1628266700,
+    "wof:lastmodified":1694492875,
     "wof:name":"Piar",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

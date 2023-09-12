@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001338,
-    "geom:area_square_m":16282522.204829,
+    "geom:area_square_m":16282757.246262,
     "geom:bbox":"-64.763809,10.176861,-64.67457,10.314584",
     "geom:latitude":10.254265,
     "geom:longitude":-64.722837,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lic. Diego Bautista Urbaneja"
+    ],
     "name:eng_x_variant":[
         "Isla"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415679,
-    "wof:geomhash":"cc01d1b83d9a1167e65bf2a70f9b6f2c",
+    "wof:geomhash":"4f96448222bc420bc9ce76f34a424d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108694263,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Lic. Diego Bautista Urbaneja",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

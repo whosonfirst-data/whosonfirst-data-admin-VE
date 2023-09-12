@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172608,
-    "geom:area_square_m":2102854862.280459,
+    "geom:area_square_m":2102854862.280845,
     "geom:bbox":"-64.0599483075,9.54670120889,-63.4800796206,10.0909224483",
     "geom:latitude":9.852119,
     "geom:longitude":-63.767852,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
+        "Cede\u00f1o"
+    ],
+    "name:eng_x_preferred":[
         "Cede\u00f1o"
     ],
     "name:eng_x_variant":[
@@ -71,7 +74,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415568,
-    "wof:geomhash":"b602aed503efd26fa2323e88bcb6feff",
+    "wof:geomhash":"3cd46ee5522de96ef649514fe41450c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108694155,
-    "wof:lastmodified":1566645797,
+    "wof:lastmodified":1694492404,
     "wof:name":"Cede\u00f1o",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

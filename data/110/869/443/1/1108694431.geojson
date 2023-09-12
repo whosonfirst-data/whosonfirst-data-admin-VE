@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149026,
-    "geom:area_square_m":1821702842.893527,
+    "geom:area_square_m":1821702842.893322,
     "geom:bbox":"-62.7224716514,8.38982863211,-61.996954285,8.8895854226",
     "geom:latitude":8.665017,
     "geom:longitude":-62.408362,
@@ -40,6 +40,9 @@
         "Sotillo"
     ],
     "name:deu_x_preferred":[
+        "Sotillo"
+    ],
+    "name:eng_x_preferred":[
         "Sotillo"
     ],
     "name:eng_x_variant":[
@@ -113,7 +116,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415859,
-    "wof:geomhash":"1c97c7c6132768862eb0dd9f5467bf47",
+    "wof:geomhash":"4680a5b6825cbc565e1b187ca866e88d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1108694431,
-    "wof:lastmodified":1566645814,
+    "wof:lastmodified":1694492404,
     "wof:name":"Sotillo",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

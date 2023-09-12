@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018729,
-    "geom:area_square_m":228412187.66921,
+    "geom:area_square_m":228412187.669174,
     "geom:bbox":"-70.9030794539,9.39850795339,-70.6515461234,9.59223605332",
     "geom:latitude":9.497226,
     "geom:longitude":-70.821964,
@@ -98,6 +98,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03cd\u03ba\u03c1\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Sucre"
     ],
     "name:eng_x_variant":[
         "Rafael Rangel",
@@ -368,7 +371,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415870,
-    "wof:geomhash":"e82b6ccd7aa8934eb25f4c9188bbf0e3",
+    "wof:geomhash":"80c0d790bce1f924d090efb3d1aa3f25",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +381,7 @@
         }
     ],
     "wof:id":1108694447,
-    "wof:lastmodified":1566645814,
+    "wof:lastmodified":1694492405,
     "wof:name":"Sucre",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

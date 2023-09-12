@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0081,
-    "geom:area_square_m":98810767.012393,
+    "geom:area_square_m":98810471.664466,
     "geom:bbox":"-70.567723,9.370269,-70.449478,9.498653",
     "geom:latitude":9.424942,
     "geom:longitude":-70.512599,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pampanito"
+    ],
     "name:eng_x_variant":[
         "Trujillo"
     ],
@@ -68,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a9952af68e5cf9ad97aa307a5900a6d",
+    "wof:geomhash":"f1761855d7298ec7dcc022a8781acff4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890439859,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pampanito",
     "wof:parent_id":85680483,
     "wof:placetype":"county",
