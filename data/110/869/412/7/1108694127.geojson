@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134777,
-    "geom:area_square_m":1641758389.732755,
+    "geom:area_square_m":1641758389.732855,
     "geom:bbox":"-65.6467309906,9.68966032308,-65.0984209843,10.0725",
     "geom:latitude":9.893141,
     "geom:longitude":-65.36435,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Bruzual"
+    ],
     "name:eng_x_variant":[
         "Bruzual"
     ],
@@ -64,7 +67,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415536,
-    "wof:geomhash":"bb5b254f203f3296a0af00de2db33308",
+    "wof:geomhash":"c75e8046acc982accf7a780a65efc0ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108694127,
-    "wof:lastmodified":1566645797,
+    "wof:lastmodified":1694492404,
     "wof:name":"Bruzual",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

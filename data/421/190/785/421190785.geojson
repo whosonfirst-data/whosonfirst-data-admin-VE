@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.998829,
-    "geom:area_square_m":12250917458.187908,
+    "geom:area_square_m":12250917126.618902,
     "geom:bbox":"-72.409931,6.934352,-69.607848,7.789539",
     "geom:latitude":7.286722,
     "geom:longitude":-70.854212,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Paez"
+    ],
     "name:eng_x_variant":[
         "Autonomo Paez",
         "P\u00e1ez"
@@ -80,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1ee0fcb2381d4c72f1937d3036877555",
+    "wof:geomhash":"af6a261bf0a73e98b20a23019f079a29",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421190785,
-    "wof:lastmodified":1628266697,
+    "wof:lastmodified":1694492874,
     "wof:name":"Paez",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

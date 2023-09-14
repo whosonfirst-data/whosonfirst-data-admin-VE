@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03487,
-    "geom:area_square_m":425883850.320322,
+    "geom:area_square_m":425884062.629698,
     "geom:bbox":"-70.929192,8.849427,-70.669711,9.100564",
     "geom:latitude":8.981022,
     "geom:longitude":-70.803812,
@@ -64,6 +64,9 @@
         "Miranda"
     ],
     "name:deu_x_preferred":[
+        "Miranda"
+    ],
+    "name:eng_x_preferred":[
         "Miranda"
     ],
     "name:eng_x_variant":[
@@ -205,7 +208,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415718,
-    "wof:geomhash":"2fa4baafbbd7164003237099d8997043",
+    "wof:geomhash":"2f364c204e9f9538e393fab9f9e8c9de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":1108694297,
-    "wof:lastmodified":1636506209,
+    "wof:lastmodified":1694492944,
     "wof:name":"Miranda",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

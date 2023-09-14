@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03026,
-    "geom:area_square_m":367086785.997302,
+    "geom:area_square_m":367087135.956683,
     "geom:bbox":"-64.649582,10.935389,-64.153373,11.904583",
     "geom:latitude":11.160244,
     "geom:longitude":-64.332965,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Peninsula De Macanao"
+    ],
     "name:eng_x_variant":[
         "Peninsula De Macanao",
         "Peninsula de Macanao"
@@ -74,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6eadb41049a245f9d79e964877e5532a",
+    "wof:geomhash":"787175d088cfafc625ace57d9e1a2252",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890440759,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492874,
     "wof:name":"Peninsula De Macanao",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

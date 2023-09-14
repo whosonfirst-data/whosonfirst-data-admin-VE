@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08734,
-    "geom:area_square_m":1063671147.107321,
+    "geom:area_square_m":1063671059.514666,
     "geom:bbox":"-63.6247,9.786249,-63.199717,10.141308",
     "geom:latitude":9.967394,
     "geom:longitude":-63.426591,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Piar"
+    ],
     "name:eng_x_variant":[
         "Piar"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415775,
-    "wof:geomhash":"28af8a9b91a2b6bb4c0f1e3d23753d33",
+    "wof:geomhash":"fb67ca38f3debdb5f3ec02b9212ef59b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108694351,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492874,
     "wof:name":"Piar",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

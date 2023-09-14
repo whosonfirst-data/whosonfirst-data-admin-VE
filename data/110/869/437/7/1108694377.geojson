@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075277,
-    "geom:area_square_m":918340058.689034,
+    "geom:area_square_m":918340428.348608,
     "geom:bbox":"-68.661232,9.06293,-68.355545,9.61049",
     "geom:latitude":9.392068,
     "geom:longitude":-68.494936,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Romulo Gallegos"
+    ],
     "name:eng_x_variant":[
         "San Carlos",
         "Romulo Gallegos"
@@ -53,7 +56,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415799,
-    "wof:geomhash":"f48e4c4d5b98b9fa9535afa2f0031426",
+    "wof:geomhash":"fa0ba60b9cb63661ea1512732fbda383",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108694377,
-    "wof:lastmodified":1628266708,
+    "wof:lastmodified":1694492880,
     "wof:name":"Romulo Gallegos",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

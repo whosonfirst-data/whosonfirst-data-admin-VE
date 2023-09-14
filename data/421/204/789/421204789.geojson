@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033033,
-    "geom:area_square_m":401730873.609377,
+    "geom:area_square_m":401730893.733494,
     "geom:bbox":"-68.781963,10.22,-68.60478,10.6",
     "geom:latitude":10.41057,
     "geom:longitude":-68.676166,
@@ -35,6 +35,9 @@
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
+        "San Felipe"
+    ],
+    "name:eng_x_preferred":[
         "San Felipe"
     ],
     "name:eng_x_variant":[
@@ -92,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4ac6fadd62d4704f98987df267977b5",
+    "wof:geomhash":"39b90bb1751a98866fbe8c960a379596",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421204789,
-    "wof:lastmodified":1636506261,
+    "wof:lastmodified":1694492944,
     "wof:name":"San Felipe",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

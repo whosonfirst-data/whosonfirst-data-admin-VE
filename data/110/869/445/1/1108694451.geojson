@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088014,
-    "geom:area_square_m":1073248829.297636,
+    "geom:area_square_m":1073248829.297663,
     "geom:bbox":"-68.5145004588,9.13575032376,-68.2044862074,9.78890546159",
     "geom:latitude":9.540374,
     "geom:longitude":-68.362851,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Tinaco"
+    ],
+    "name:eng_x_preferred":[
         "Tinaco"
     ],
     "name:eng_x_variant":[
@@ -71,7 +74,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415873,
-    "wof:geomhash":"0f75c4112be50db53bb5e72f456acd00",
+    "wof:geomhash":"4e8b88269e157e97628fd4c9e6c29852",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108694451,
-    "wof:lastmodified":1566645819,
+    "wof:lastmodified":1694492405,
     "wof:name":"Tinaco",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

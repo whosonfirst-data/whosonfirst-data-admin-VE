@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013028,
-    "geom:area_square_m":158168072.687867,
+    "geom:area_square_m":158167943.345593,
     "geom:bbox":"-65.422943,10.883722,-65.197052,10.980389",
     "geom:latitude":10.929059,
     "geom:longitude":-65.307883,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pedro Gual"
+    ],
     "name:eng_x_variant":[
         "Isla La Tortuga",
         "Dependencias Federales"
@@ -59,7 +62,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415767,
-    "wof:geomhash":"b80d152145d960a26de01b29db0a8263",
+    "wof:geomhash":"b77c980ef1d5ef133b074e33bc3c538e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108694345,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pedro Gual",
     "wof:parent_id":85680539,
     "wof:placetype":"county",

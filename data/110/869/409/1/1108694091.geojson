@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019823,
-    "geom:area_square_m":241048761.236582,
+    "geom:area_square_m":241048994.088274,
     "geom:bbox":"-67.161482,10.386801,-66.909564,10.541667",
     "geom:latitude":10.455036,
     "geom:longitude":-67.027486,
@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "Aquiles Nazoa"
     ],
+    "name:eng_x_preferred":[
+        "Aquiles Nazoa"
+    ],
     "name:eng_x_variant":[
         "Libertador"
     ],
@@ -64,7 +67,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415497,
-    "wof:geomhash":"a9d73fd82bf633f0a42a77d6e980c00f",
+    "wof:geomhash":"d56078217ea57b41b3ca8c4f923386d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108694091,
-    "wof:lastmodified":1627522970,
+    "wof:lastmodified":1694492808,
     "wof:name":"Aquiles Nazoa",
     "wof:parent_id":85680535,
     "wof:placetype":"county",

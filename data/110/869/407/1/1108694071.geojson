@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007485,
-    "geom:area_square_m":91680072.673078,
+    "geom:area_square_m":91679944.511018,
     "geom:bbox":"-72.198937,7.833898,-72.081433,7.941507",
     "geom:latitude":7.890232,
     "geom:longitude":-72.143286,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Andres Bello"
+    ],
     "name:eng_x_variant":[
         "Andres Bello",
         "Andr\u00e9s Bello"
@@ -53,7 +56,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415478,
-    "wof:geomhash":"f7a89a2d2772ff00e0600c43cd0865bd",
+    "wof:geomhash":"c3d534164b2a7d0d76118f4b74cd3d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108694071,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492826,
     "wof:name":"Andres Bello",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

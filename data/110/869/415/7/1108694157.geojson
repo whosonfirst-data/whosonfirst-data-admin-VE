@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001443,
-    "geom:area_square_m":17537738.835737,
+    "geom:area_square_m":17537738.835736,
     "geom:bbox":"-66.8725194869,10.4905290612,-66.8400230487,10.5516993417",
     "geom:latitude":10.519384,
     "geom:longitude":-66.854255,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Chacao"
+    ],
+    "name:eng_x_preferred":[
         "Chacao"
     ],
     "name:eng_x_variant":[
@@ -70,7 +73,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415569,
-    "wof:geomhash":"ba6ffc93b7716b659778ad0c1d2bde4c",
+    "wof:geomhash":"b515c39bb6b3ad6ef5924032dac685b6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108694157,
-    "wof:lastmodified":1566645796,
+    "wof:lastmodified":1694492404,
     "wof:name":"Chacao",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

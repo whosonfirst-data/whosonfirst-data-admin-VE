@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006683,
-    "geom:area_square_m":81530430.729245,
+    "geom:area_square_m":81530248.853484,
     "geom:bbox":"-70.129012,9.35,-70.033365,9.512901",
     "geom:latitude":9.408487,
     "geom:longitude":-70.079693,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Juan Vicente Campo Elias"
+    ],
     "name:eng_x_variant":[
         "Sucre"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415652,
-    "wof:geomhash":"973ecc11700e60391c9eebc732ff41f5",
+    "wof:geomhash":"2fb9fea9453c85bf4ea5510fac6b33a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108694229,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Juan Vicente Campo Elias",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

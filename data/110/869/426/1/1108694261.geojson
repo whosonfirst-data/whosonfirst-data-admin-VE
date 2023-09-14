@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013405,
-    "geom:area_square_m":164215571.060726,
+    "geom:area_square_m":164215502.046261,
     "geom:bbox":"-72.402214,7.695936,-72.262873,7.911281",
     "geom:latitude":7.814117,
     "geom:longitude":-72.331394,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Libertadtachira"
+    ],
     "name:eng_x_variant":[
         "Independencia"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415677,
-    "wof:geomhash":"9fc69edef3b8f9eea53848bcd057cb49",
+    "wof:geomhash":"b03aab7b931654a428d9c9040ed63afd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108694261,
-    "wof:lastmodified":1628266674,
+    "wof:lastmodified":1694492860,
     "wof:name":"Libertadtachira",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107393,
-    "geom:area_square_m":1302028738.527452,
+    "geom:area_square_m":1302029227.176933,
     "geom:bbox":"-69.242571,11.194779,-68.729746,11.501373",
     "geom:latitude":11.335892,
     "geom:longitude":-69.012615,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Piritu"
+    ],
     "name:eng_x_variant":[
         "Piritu",
         "P\u00edritu"
@@ -53,7 +56,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415777,
-    "wof:geomhash":"1e6b87b2b3fd1c50c63059c6dcc045df",
+    "wof:geomhash":"0e7ded7c5632c2b8e828674efb09bdea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108694353,
-    "wof:lastmodified":1628266702,
+    "wof:lastmodified":1694492876,
     "wof:name":"Piritu",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293982,
-    "geom:area_square_m":3573263109.076043,
+    "geom:area_square_m":3573263109.075873,
     "geom:bbox":"-70.3256663603,10.3891349665,-68.8726771696,10.7488728653",
     "geom:latitude":10.586837,
     "geom:longitude":-69.574888,
@@ -37,6 +37,9 @@
         "Urdaneta"
     ],
     "name:deu_x_preferred":[
+        "Urdaneta"
+    ],
+    "name:eng_x_preferred":[
         "Urdaneta"
     ],
     "name:eng_x_variant":[
@@ -82,7 +85,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415891,
-    "wof:geomhash":"5e5cec5dd9fa1356ee7b1666516d369a",
+    "wof:geomhash":"ea9f110d22eb327514515e1f269f3a6c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108694469,
-    "wof:lastmodified":1566645794,
+    "wof:lastmodified":1694492404,
     "wof:name":"Urdaneta",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

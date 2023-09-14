@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173981,
-    "geom:area_square_m":2122548290.528821,
+    "geom:area_square_m":2122548290.529098,
     "geom:bbox":"-67.3987140569,9.13531981006,-66.7044760653,9.70166666667",
     "geom:latitude":9.378823,
     "geom:longitude":-67.075248,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mellado"
+    ],
     "name:eng_x_variant":[
         "Mellado"
     ],
@@ -81,7 +84,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14e09892948d7679b8e1ef05069d35ae",
+    "wof:geomhash":"1d5e18a46e0c97b81e4c826e351be1c3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421189079,
-    "wof:lastmodified":1582393019,
+    "wof:lastmodified":1694492504,
     "wof:name":"Mellado",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

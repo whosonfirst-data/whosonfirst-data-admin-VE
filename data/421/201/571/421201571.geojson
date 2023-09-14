@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018891,
-    "geom:area_square_m":229824683.551958,
+    "geom:area_square_m":229824668.802945,
     "geom:bbox":"-71.41336,10.220298,-71.152608,10.381995",
     "geom:latitude":10.308253,
     "geom:longitude":-71.281735,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Simon Bolivar"
+    ],
     "name:eng_x_variant":[
         "Cabimas",
         "Sim\u00f3n Bol\u00edvar"
@@ -80,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f44a51b32ef8594f58ac467576375de",
+    "wof:geomhash":"94b01fc353d8fd3a78978b1fb37dcc92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421201571,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694492884,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

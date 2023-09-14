@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055117,
-    "geom:area_square_m":671351997.034674,
+    "geom:area_square_m":671351997.034793,
     "geom:bbox":"-68.4866666667,9.79817129187,-68.1255508451,10.0805304766",
     "geom:latitude":9.914013,
     "geom:longitude":-68.289735,
@@ -83,6 +83,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b5\u03c1\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Falcon"
     ],
     "name:eng_x_variant":[
         "Falcon",
@@ -305,7 +308,7 @@
     },
     "wof:country":"VE",
     "wof:created":1474415601,
-    "wof:geomhash":"8abc3e58c257f8501af5575a046f5dcc",
+    "wof:geomhash":"473489cc03b00700c723e2419f33828d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":1108694185,
-    "wof:lastmodified":1566645818,
+    "wof:lastmodified":1694492405,
     "wof:name":"Falcon",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

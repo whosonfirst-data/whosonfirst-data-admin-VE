@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287837,
-    "geom:area_square_m":3507851544.704589,
+    "geom:area_square_m":3507851546.049056,
     "geom:bbox":"-66.68,9.254732,-65.95815,10.04175",
     "geom:latitude":9.739738,
     "geom:longitude":-66.330635,
@@ -64,6 +64,9 @@
         "Monagas"
     ],
     "name:deu_x_preferred":[
+        "Monagas"
+    ],
+    "name:eng_x_preferred":[
         "Monagas"
     ],
     "name:eng_x_variant":[
@@ -188,7 +191,7 @@
     "wof:concordances":{},
     "wof:country":"VE",
     "wof:created":1474415725,
-    "wof:geomhash":"50c30daf13374b5c4f87634617a3a66c",
+    "wof:geomhash":"05a72826cd8cf5e9fae6650cee214089",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1108694303,
-    "wof:lastmodified":1636506206,
+    "wof:lastmodified":1694492944,
     "wof:name":"Monagas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

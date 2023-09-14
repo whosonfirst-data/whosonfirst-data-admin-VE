@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005181,
-    "geom:area_square_m":62990385.323738,
+    "geom:area_square_m":62990385.323735,
     "geom:bbox":"-67.0283333333,10.4983131067,-66.9019099943,10.5672827519",
     "geom:latitude":10.532078,
     "geom:longitude":-66.960909,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Libertador"
+    ],
     "name:eng_x_variant":[
         "Libertador"
     ],
@@ -91,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"72d435d9ffb32f09baca443a96ebaf7a",
+    "wof:geomhash":"45afbd4a79a23580aec2add4f0ed6393",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421202591,
-    "wof:lastmodified":1582393018,
+    "wof:lastmodified":1694492504,
     "wof:name":"Libertador",
     "wof:parent_id":85680535,
     "wof:placetype":"county",

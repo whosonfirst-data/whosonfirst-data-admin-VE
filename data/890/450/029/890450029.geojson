@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014536,
-    "geom:area_square_m":177065995.322153,
+    "geom:area_square_m":177065995.322081,
     "geom:bbox":"-65.7218544914,9.7793557289,-65.6032461601,9.98137148929",
     "geom:latitude":9.88618,
     "geom:longitude":-65.66972,
@@ -43,6 +43,9 @@
         "Carvajal"
     ],
     "name:deu_x_preferred":[
+        "Carvajal"
+    ],
+    "name:eng_x_preferred":[
         "Carvajal"
     ],
     "name:eng_x_variant":[
@@ -100,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"846ad23bb83bab03d1b6fc23b2d5c895",
+    "wof:geomhash":"e2d1a13625fe152a1cb934476be31922",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890450029,
-    "wof:lastmodified":1582393028,
+    "wof:lastmodified":1694492504,
     "wof:name":"Carvajal",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030033,
-    "geom:area_square_m":364372714.436725,
+    "geom:area_square_m":364372822.944314,
     "geom:bbox":"-68.821667,11.029459,-68.579781,11.28",
     "geom:latitude":11.138359,
     "geom:longitude":-68.711179,
@@ -140,6 +140,9 @@
         "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf"
     ],
     "name:eml_x_preferred":[
+        "San Francisco"
+    ],
+    "name:eng_x_preferred":[
         "San Francisco"
     ],
     "name:eng_x_variant":[
@@ -558,7 +561,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4923bdcd8936b74a41b290fc8a4f1de2",
+    "wof:geomhash":"0381b2dbbc57cf9d9c34133174a9aa39",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -568,7 +571,7 @@
         }
     ],
     "wof:id":421190213,
-    "wof:lastmodified":1636506269,
+    "wof:lastmodified":1694492945,
     "wof:name":"San Francisco",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":74.764146,
-    "geom:area_square_m":916447464024.27356,
+    "geom:area_square_m":916447521712.36731,
     "geom:bbox":"-73.351558,0.647529,-59.805666,15.671458",
     "geom:latitude":7.133889,
     "geom:longitude":-66.150128,
@@ -13,6 +13,9 @@
     "iso:country":"VE",
     "itu:country_code":[
         "58"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "VE"
@@ -1236,7 +1239,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"58",
     "statoids:ds":"YV",
     "statoids:fifa":"VEN",
@@ -1297,7 +1301,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"dd27a732f447943f754d6c3b6f7ac005",
+    "wof:geomhash":"cbae83ef7314a911c5213830d5482abd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1311,12 +1315,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914969,
+    "wof:lastmodified":1694639652,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":30405207,
-    "wof:population_rank":15,
+    "wof:population":28515829,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:shortcode":"VE",
     "wof:superseded_by":[],
