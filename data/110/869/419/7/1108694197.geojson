@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070782,
-    "geom:area_square_m":865920523.1154,
+    "geom:area_square_m":865920523.11563,
     "geom:bbox":"-72.4156072656,8.16939948503,-72.1273059419,8.56869421366",
     "geom:latitude":8.364323,
     "geom:longitude":-72.257167,
@@ -89,9 +89,10 @@
         "hasc:id":"VE.TA.GH",
         "wd:id":"Q770422"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415614,
-    "wof:geomhash":"2e3bd01d308df3f26986c465b3aa9dea",
+    "wof:geomhash":"5dc44cc098578c48376a93866c5a37af",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108694197,
-    "wof:lastmodified":1566645809,
+    "wof:lastmodified":1695886374,
     "wof:name":"Garcia De Hevia",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

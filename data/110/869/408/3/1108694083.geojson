@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.707065,
-    "geom:area_square_m":20879997825.24575,
+    "geom:area_square_m":20879998586.368572,
     "geom:bbox":"-61.790755,7.758151,-59.805666,9.487083",
     "geom:latitude":8.424411,
     "geom:longitude":-60.905313,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"VE.DA.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415488,
-    "wof:geomhash":"34fc6497d4611e8961ebb0f9c4a33453",
+    "wof:geomhash":"105b66f6a6f60d7409c3cbaba263edc8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694083,
-    "wof:lastmodified":1627522969,
+    "wof:lastmodified":1695886179,
     "wof:name":"Antonio Diaz",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074002,
-    "geom:area_square_m":897883868.855092,
+    "geom:area_square_m":897883868.855374,
     "geom:bbox":"-70.4359854075,10.8896964768,-70.1195478421,11.357110977",
     "geom:latitude":11.115629,
     "geom:longitude":-70.28363,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"VE.FA.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415895,
-    "wof:geomhash":"05f5521d2f31e70e730072169d1c0b26",
+    "wof:geomhash":"e42f5ca57b11abc971dc368ae5e8e6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108694471,
-    "wof:lastmodified":1566645789,
+    "wof:lastmodified":1695886367,
     "wof:name":"Urumaco",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

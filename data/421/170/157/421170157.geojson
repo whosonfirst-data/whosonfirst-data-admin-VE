@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004683,
-    "geom:area_square_m":56841467.170414,
+    "geom:area_square_m":56841435.74606,
     "geom:bbox":"-63.907254,10.995,-63.80282,11.073692",
     "geom:latitude":11.0346,
     "geom:longitude":-63.857575,
@@ -103,12 +103,13 @@
         "qs_pg:id":221566,
         "wd:id":"Q418835"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008840,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d344d3fcfa468c39acc4f1a048dfb2ce",
+    "wof:geomhash":"54e33b149821bd7eeb58e1ba15e1328c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":421170157,
-    "wof:lastmodified":1690915106,
+    "wof:lastmodified":1695886198,
     "wof:name":"Arismendi",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

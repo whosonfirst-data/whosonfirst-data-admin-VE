@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015172,
-    "geom:area_square_m":185775672.861333,
+    "geom:area_square_m":185775650.105129,
     "geom:bbox":"-72.145657,7.93,-72.019145,8.113303",
     "geom:latitude":8.019386,
     "geom:longitude":-72.081287,
@@ -344,12 +344,13 @@
         "qs_pg:id":219081,
         "wd:id":"Q2358589"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010103,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c255ae6ac75fecfc8a3820239f3cbe05",
+    "wof:geomhash":"e0032fb516c0b8d69b64c1b03443ba06",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -359,7 +360,7 @@
         }
     ],
     "wof:id":421202065,
-    "wof:lastmodified":1690915044,
+    "wof:lastmodified":1695886190,
     "wof:name":"Jose Maria Vargas",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

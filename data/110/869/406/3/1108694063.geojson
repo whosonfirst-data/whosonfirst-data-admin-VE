@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0187,
-    "geom:area_square_m":227988832.238672,
+    "geom:area_square_m":227988832.238619,
     "geom:bbox":"-69.17669906,9.51029348055,-68.9570337121,9.70935149384",
     "geom:latitude":9.611912,
     "geom:longitude":-69.069276,
@@ -87,9 +87,10 @@
         "hasc:id":"VE.PO.AR",
         "wd:id":"Q2741347"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415470,
-    "wof:geomhash":"4f0d1921a4d863e486be22a156b9da2a",
+    "wof:geomhash":"3a2beaab199e10bfaff37517351a445c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108694063,
-    "wof:lastmodified":1566645800,
+    "wof:lastmodified":1695886371,
     "wof:name":"Agua Blanca",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.570369,
-    "geom:area_square_m":6975553007.194739,
+    "geom:area_square_m":6975553135.645644,
     "geom:bbox":"-63.99,8.098333,-62.680171,8.9525",
     "geom:latitude":8.482105,
     "geom:longitude":-63.438233,
@@ -130,12 +130,13 @@
         "qs_pg:id":233694,
         "wd:id":"Q353807"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010156,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c96b87d7ae7849fbc5b0a81359627b1",
+    "wof:geomhash":"bf1e15839a7b821a4fd58ae5a2e53c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421203571,
-    "wof:lastmodified":1690915043,
+    "wof:lastmodified":1695886195,
     "wof:name":"Independencia",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

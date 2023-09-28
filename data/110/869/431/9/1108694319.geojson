@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339042,
-    "geom:area_square_m":4134804971.463703,
+    "geom:area_square_m":4134805369.746744,
     "geom:bbox":"-67.964113,9.197684,-67.2,9.933652",
     "geom:latitude":9.500426,
     "geom:longitude":-67.601564,
@@ -136,9 +136,10 @@
         "hasc:id":"VE.GU.OR",
         "wd:id":"Q1308380"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415741,
-    "wof:geomhash":"dfc28b4c3cd2e06237dfea7962020931",
+    "wof:geomhash":"c59be1b09009738eb75463e6c1ba6d68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108694319,
-    "wof:lastmodified":1690914998,
+    "wof:lastmodified":1695886374,
     "wof:name":"Ortiz",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081083,
-    "geom:area_square_m":986682978.340231,
+    "geom:area_square_m":986682777.744012,
     "geom:bbox":"-64.110106,10.088541,-63.702093,10.376573",
     "geom:latitude":10.224622,
     "geom:longitude":-63.9225,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.SU.MO",
         "wd:id":"Q1823071"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415732,
-    "wof:geomhash":"51fbcf6ad1a0d6adac6e42469bf9d151",
+    "wof:geomhash":"aa83e4e808d6e70ae17d2a93099ec36d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694311,
-    "wof:lastmodified":1690914999,
+    "wof:lastmodified":1695886373,
     "wof:name":"Montes",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

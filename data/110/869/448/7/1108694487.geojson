@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.055337,
-    "geom:area_square_m":25358815856.401623,
+    "geom:area_square_m":25358815856.403465,
     "geom:bbox":"-67.8419378832,2.98076751273,-65.6775,4.88032031563",
     "geom:latitude":3.775967,
     "geom:longitude":-66.723736,
@@ -98,9 +98,10 @@
         "hasc:id":"VE.AM.AB",
         "wd:id":"Q2084824"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415912,
-    "wof:geomhash":"18517daa18c911256bc7473733d49cdb",
+    "wof:geomhash":"1333d8820ee593bff2fa5d3509524906",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108694487,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1695886369,
     "wof:name":"Atabapo",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

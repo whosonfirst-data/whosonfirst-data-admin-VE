@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082403,
-    "geom:area_square_m":1003402329.832847,
+    "geom:area_square_m":1003402010.552089,
     "geom:bbox":"-67.979066,9.828655,-67.518118,10.19632",
     "geom:latitude":10.014975,
     "geom:longitude":-67.738914,
@@ -158,12 +158,13 @@
         "qs_pg:id":1110092,
         "wd:id":"Q1042713"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009604,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fdf34a2f3332c75ebda29e956a881717",
+    "wof:geomhash":"761f45e7068ea738efd79736ec89c604",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421189075,
-    "wof:lastmodified":1690915060,
+    "wof:lastmodified":1695886194,
     "wof:name":"Carlos Arvelo",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

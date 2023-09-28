@@ -72,6 +72,7 @@
         "hasc:id":"VE.DP.DP",
         "qs_pg:id":1263797
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1469052296,
     "wof:geom_alt":[
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":890440759,
-    "wof:lastmodified":1694492874,
+    "wof:lastmodified":1695886375,
     "wof:name":"Peninsula De Macanao",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

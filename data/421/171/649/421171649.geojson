@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.722307,
-    "geom:area_square_m":21147214611.504295,
+    "geom:area_square_m":21147213996.98851,
     "geom:bbox":"-69.538772,6.060355,-66.990559,7.72",
     "geom:latitude":6.778591,
     "geom:longitude":-67.896132,
@@ -134,12 +134,13 @@
         "qs_pg:id":1263807,
         "wd:id":"Q2574354"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0da36e2cb3cb8d5bc43efc64ca1fca72",
+    "wof:geomhash":"2416dcecd4d1877c2265523f0536d79d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421171649,
-    "wof:lastmodified":1690915119,
+    "wof:lastmodified":1695886200,
     "wof:name":"Pedro Camejo",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

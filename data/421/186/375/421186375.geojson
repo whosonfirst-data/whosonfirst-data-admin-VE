@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.053798,
-    "geom:area_square_m":12851893613.553352,
+    "geom:area_square_m":12851893769.37657,
     "geom:bbox":"-63.533777,8.747505,-62.291346,10.237917",
     "geom:latitude":9.489287,
     "geom:longitude":-62.923814,
@@ -157,12 +157,13 @@
         "qs_pg:id":1064937,
         "wd:id":"Q3300002"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009479,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5cab6ade9eec23a5f28253b8122a546d",
+    "wof:geomhash":"683dd06d1afb5d3c6dd3e042b1c6bb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421186375,
-    "wof:lastmodified":1690915079,
+    "wof:lastmodified":1695886195,
     "wof:name":"Maturin",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

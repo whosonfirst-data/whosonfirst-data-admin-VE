@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04723,
-    "geom:area_square_m":574393948.573911,
+    "geom:area_square_m":574394314.794145,
     "geom:bbox":"-71.477943,10.319162,-70.892516,10.476047",
     "geom:latitude":10.408913,
     "geom:longitude":-71.231635,
@@ -120,12 +120,13 @@
         "qs_pg:id":219078,
         "wd:id":"Q5116306"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010103,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47982b40d9716b9fbc1db59dfc31ac1c",
+    "wof:geomhash":"5d4267b21312eace5ed384763e8dfa91",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421202059,
-    "wof:lastmodified":1690915047,
+    "wof:lastmodified":1695886195,
     "wof:name":"Cabimas",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

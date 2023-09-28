@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084144,
-    "geom:area_square_m":1031468317.095639,
+    "geom:area_square_m":1031468600.844331,
     "geom:bbox":"-72.197596,7.364501,-71.800355,7.735892",
     "geom:latitude":7.535423,
     "geom:longitude":-71.989964,
@@ -97,9 +97,10 @@
         "hasc:id":"VE.TA.FF",
         "wd:id":"Q974559"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415606,
-    "wof:geomhash":"73a0b09ecb35757d11233cbc9fdfa678",
+    "wof:geomhash":"391cc698c880d37fdfe1f9d9e0662ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108694191,
-    "wof:lastmodified":1690915002,
+    "wof:lastmodified":1695886374,
     "wof:name":"Fernandez Feo",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

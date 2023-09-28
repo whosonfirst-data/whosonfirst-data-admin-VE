@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.128654,
-    "geom:area_square_m":38668389836.999786,
+    "geom:area_square_m":38668389833.546524,
     "geom:bbox":"-67.102674,0.647529,-63.992444,2.82",
     "geom:latitude":1.684577,
     "geom:longitude":-65.756719,
@@ -196,9 +196,10 @@
         "hasc:id":"VE.AM.RN",
         "wd:id":"Q2198075"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415793,
-    "wof:geomhash":"dbb5f5a9fc5fd05a229d261a7ca0ff26",
+    "wof:geomhash":"2009d713baac91279fca35e53bf03bed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":1108694371,
-    "wof:lastmodified":1690914994,
+    "wof:lastmodified":1695886193,
     "wof:name":"Rio Negro",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010739,
-    "geom:area_square_m":131502616.031394,
+    "geom:area_square_m":131502616.031415,
     "geom:bbox":"-72.2716666667,7.9359695306,-72.124701555,8.08564819961",
     "geom:latitude":7.991657,
     "geom:longitude":-72.183399,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"VE.TA.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415707,
-    "wof:geomhash":"31d931c3d4cdf8b603843d564e2300d0",
+    "wof:geomhash":"dc8fdaf40a59c16190debcc0cea153bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108694287,
-    "wof:lastmodified":1566645811,
+    "wof:lastmodified":1695886375,
     "wof:name":"Michelena",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

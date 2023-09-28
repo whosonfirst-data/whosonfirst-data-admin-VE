@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044288,
-    "geom:area_square_m":538537441.675185,
+    "geom:area_square_m":538537322.289396,
     "geom:bbox":"-68.399778,10.301235,-68.139503,10.58831",
     "geom:latitude":10.454134,
     "geom:longitude":-68.264338,
@@ -170,12 +170,13 @@
         "qs_pg:id":114593,
         "wd:id":"Q1710527"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009850,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc981e2412c324a645759b69242cf095",
+    "wof:geomhash":"987872b04349a38b975add653de706a3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421195495,
-    "wof:lastmodified":1690915031,
+    "wof:lastmodified":1695886189,
     "wof:name":"Juan Jose Mora",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

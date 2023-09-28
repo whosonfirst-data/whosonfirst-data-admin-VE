@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.747727,
-    "geom:area_square_m":46279145160.846527,
+    "geom:area_square_m":46279145185.902763,
     "geom:bbox":"-66.069286,1.480971,-63.363197,4.172697",
     "geom:latitude":2.901765,
     "geom:longitude":-64.906095,
@@ -166,12 +166,13 @@
         "wd:id":"Q443529",
         "wk:page":"Alto Orinoco Municipality"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1469051314,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a8d1b91ce99700131a08de8e0932b3cb",
+    "wof:geomhash":"54cc7fcf6e0c50f7abf20b9c5d60fd27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":890420047,
-    "wof:lastmodified":1690915135,
+    "wof:lastmodified":1695886201,
     "wof:name":"Alto Orinoco",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

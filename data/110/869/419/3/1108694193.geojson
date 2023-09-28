@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.CA.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415608,
     "wof:geomhash":"035c9e6e15d683f90a0bb042e76eee30",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694193,
-    "wof:lastmodified":1694492844,
+    "wof:lastmodified":1695886292,
     "wof:name":"Francisco De Miranda",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231831,
-    "geom:area_square_m":2834194673.359746,
+    "geom:area_square_m":2834194643.193542,
     "geom:bbox":"-65.91,7.898094,-65.438551,9.141041",
     "geom:latitude":8.620773,
     "geom:longitude":-65.641455,
@@ -121,9 +121,10 @@
         "hasc:id":"VE.GU.ES",
         "wd:id":"Q1006441"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415592,
-    "wof:geomhash":"a006ec6576a7ae8e6ef73f202ec8471c",
+    "wof:geomhash":"f5a69eeaddca0b64a51fbab99d06c1a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108694175,
-    "wof:lastmodified":1690915008,
+    "wof:lastmodified":1695886376,
     "wof:name":"El Socorro",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

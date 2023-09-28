@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018058,
-    "geom:area_square_m":220121262.55611,
+    "geom:area_square_m":220121465.163752,
     "geom:bbox":"-69.083703,9.547034,-68.91,9.77",
     "geom:latitude":9.661142,
     "geom:longitude":-68.993511,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.PO.AB",
         "wd:id":"Q2827311"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415833,
-    "wof:geomhash":"a2678f1dc13f563d61ef63d85de024d3",
+    "wof:geomhash":"ed4b2a9f93f1c180486eacdc427e6971",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694405,
-    "wof:lastmodified":1690914977,
+    "wof:lastmodified":1695886367,
     "wof:name":"San Rafael De Onoto",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

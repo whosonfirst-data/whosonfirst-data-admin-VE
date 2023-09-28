@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041562,
-    "geom:area_square_m":507636602.828365,
+    "geom:area_square_m":507636303.974235,
     "geom:bbox":"-71.095053,8.810421,-70.869295,9.134568",
     "geom:latitude":8.974544,
     "geom:longitude":-70.96553,
@@ -130,12 +130,13 @@
         "qs_pg:id":1314642,
         "wd:id":"Q3088418"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008948,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7acd537597da71d095bec5cba9f22127",
+    "wof:geomhash":"76abc85deca044844833831388c83fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421172603,
-    "wof:lastmodified":1690915065,
+    "wof:lastmodified":1695886193,
     "wof:name":"Justo Brice\u00f1o",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047407,
-    "geom:area_square_m":574766068.399535,
+    "geom:area_square_m":574765508.661516,
     "geom:bbox":"-69.629434,11.124259,-69.375508,11.511222",
     "geom:latitude":11.330519,
     "geom:longitude":-69.479195,
@@ -145,12 +145,13 @@
         "qs_pg:id":467183,
         "wd:id":"Q2408734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009275,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e83adddb7d89fc2eefa0ce81db98662a",
+    "wof:geomhash":"f6c9fc8386760b4dfc74af46aa1f7161",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":421180897,
-    "wof:lastmodified":1690915054,
+    "wof:lastmodified":1695886192,
     "wof:name":"Colina",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

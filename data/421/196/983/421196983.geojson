@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002788,
-    "geom:area_square_m":33836927.625184,
+    "geom:area_square_m":33836897.880979,
     "geom:bbox":"-64.015151,11.030274,-63.948592,11.113769",
     "geom:latitude":11.060862,
     "geom:longitude":-63.978113,
@@ -152,12 +152,13 @@
         "qs_pg:id":1263800,
         "wd:id":"Q748134"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009899,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03a4add001a8bb0e70c1138c69b82462",
+    "wof:geomhash":"5631690136fb25bbfa61f44b2b206029",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421196983,
-    "wof:lastmodified":1690915092,
+    "wof:lastmodified":1695886196,
     "wof:name":"Marcano",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

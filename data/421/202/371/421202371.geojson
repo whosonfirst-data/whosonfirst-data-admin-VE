@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.511622,
-    "geom:area_square_m":6276004559.263817,
+    "geom:area_square_m":6276005386.422649,
     "geom:bbox":"-62.481988,6.33,-61.495017,7.951124",
     "geom:latitude":7.217935,
     "geom:longitude":-62.051599,
@@ -132,12 +132,13 @@
         "qs_pg:id":221563,
         "wd:id":"Q2100029"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010115,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c5da6f0d5999304b44a249c502ba2ba",
+    "wof:geomhash":"e2e7d3b0b1540926fbf0120c89be3778",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421202371,
-    "wof:lastmodified":1690915045,
+    "wof:lastmodified":1695886191,
     "wof:name":"Roscio",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

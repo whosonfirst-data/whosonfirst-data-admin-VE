@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150694,
-    "geom:area_square_m":1843230027.9806,
+    "geom:area_square_m":1843229813.660775,
     "geom:bbox":"-70.291605,8.05,-69.44,8.75953",
     "geom:latitude":8.427283,
     "geom:longitude":-69.881008,
@@ -99,9 +99,10 @@
         "hasc:id":"VE.BA.OB",
         "wd:id":"Q2606907"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415739,
-    "wof:geomhash":"4c62e4782d61ac71bfa9dec2e4e8f47e",
+    "wof:geomhash":"d4f33ae23676b9bec8f18393a3d51af7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108694317,
-    "wof:lastmodified":1690914999,
+    "wof:lastmodified":1695886373,
     "wof:name":"Obispos",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

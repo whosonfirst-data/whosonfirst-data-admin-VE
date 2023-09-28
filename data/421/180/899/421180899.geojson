@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.977258,
-    "geom:area_square_m":11998098600.326477,
+    "geom:area_square_m":11998097293.239641,
     "geom:bbox":"-70.338059,6.246446,-68.6,7.350695",
     "geom:latitude":6.831009,
     "geom:longitude":-69.43256,
@@ -226,12 +226,13 @@
         "qs_pg:id":467191,
         "wd:id":"Q311401"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009275,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1b3975ac95fff7f763f2575fe9742b7",
+    "wof:geomhash":"c2cf893f4af6f6c837ad8d5208a454b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -241,7 +242,7 @@
         }
     ],
     "wof:id":421180899,
-    "wof:lastmodified":1690915053,
+    "wof:lastmodified":1695886192,
     "wof:name":"Romulo Gallegos",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

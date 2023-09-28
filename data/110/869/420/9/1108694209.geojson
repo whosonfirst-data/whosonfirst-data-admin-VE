@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002772,
-    "geom:area_square_m":33953674.178844,
+    "geom:area_square_m":33953507.643396,
     "geom:bbox":"-72.263937,7.830204,-72.192652,7.882654",
     "geom:latitude":7.856051,
     "geom:longitude":-72.2308,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"VE.TA.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415629,
-    "wof:geomhash":"7ccb5021ab1c87c4ea2519c033ca30a2",
+    "wof:geomhash":"81be4de3a82968ebcbb29d524537abe1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108694209,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886181,
     "wof:name":"Guasimos",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

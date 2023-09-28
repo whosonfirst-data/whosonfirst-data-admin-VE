@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415644,
     "wof:geomhash":"ae5719c0731d3dedd781539a19709942",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694221,
-    "wof:lastmodified":1694492852,
+    "wof:lastmodified":1695886310,
     "wof:name":"Jose Angel Lamas",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

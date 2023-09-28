@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223971,
-    "geom:area_square_m":2739084366.533978,
+    "geom:area_square_m":2739084386.154105,
     "geom:bbox":"-62.606779,8.28723,-61.614697,8.721324",
     "geom:latitude":8.491469,
     "geom:longitude":-62.109644,
@@ -90,12 +90,13 @@
         "hasc:id":"VE.DA.CA",
         "qs_pg:id":977701
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009369,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"833b91c814ec2fa8b5ec40cb049579fd",
+    "wof:geomhash":"2a05c632f0680ff7ec0c39bbcedd6506",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421183445,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886180,
     "wof:name":"Casacoima",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

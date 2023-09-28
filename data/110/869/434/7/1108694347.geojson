@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013646,
-    "geom:area_square_m":167120532.212898,
+    "geom:area_square_m":167120463.659263,
     "geom:bbox":"-72.48739,7.866643,-72.347419,8.035171",
     "geom:latitude":7.946961,
     "geom:longitude":-72.411761,
@@ -97,9 +97,10 @@
         "hasc:id":"VE.TA.PU",
         "wd:id":"Q2627020"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415769,
-    "wof:geomhash":"6bd1ef70684e5c1a9e4cfe7de8eb9078",
+    "wof:geomhash":"6f38fb75823d50cf1058d01f03744407",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108694347,
-    "wof:lastmodified":1690915018,
+    "wof:lastmodified":1695886379,
     "wof:name":"Pedro Maria Ure\u00f1a",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

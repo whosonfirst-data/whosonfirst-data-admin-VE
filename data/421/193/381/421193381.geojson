@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07952,
-    "geom:area_square_m":965694425.101419,
+    "geom:area_square_m":965694541.091689,
     "geom:bbox":"-68.94,10.64525,-68.217918,11.061664",
     "geom:latitude":10.85267,
     "geom:longitude":-68.59372,
@@ -90,12 +90,13 @@
         "hasc:id":"VE.FA.MI",
         "qs_pg:id":893636
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009769,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc6ac99dbd0cb5cc80cfcef4c9d6a226",
+    "wof:geomhash":"69c576857a559ae00a8911cd75142c57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421193381,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886180,
     "wof:name":"Monse\u00f1or Iturriza",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

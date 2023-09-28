@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415679,
     "wof:geomhash":"4f96448222bc420bc9ce76f34a424d3a",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694263,
-    "wof:lastmodified":1694492861,
+    "wof:lastmodified":1695886333,
     "wof:name":"Lic. Diego Bautista Urbaneja",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041598,
-    "geom:area_square_m":505701561.473345,
+    "geom:area_square_m":505701528.822821,
     "geom:bbox":"-71.540443,10.441709,-71.151647,10.620445",
     "geom:latitude":10.528578,
     "geom:longitude":-71.365525,
@@ -144,9 +144,10 @@
         "hasc:id":"VE.ZU.SR",
         "wd:id":"Q2471594"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415842,
-    "wof:geomhash":"313149698b4ef56cdda55714ebd0ab42",
+    "wof:geomhash":"fb17258104c56bb589d156cbc92b834f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108694415,
-    "wof:lastmodified":1690914986,
+    "wof:lastmodified":1695886192,
     "wof:name":"Santa Rita",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

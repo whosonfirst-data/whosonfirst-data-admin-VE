@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040151,
-    "geom:area_square_m":488300828.57071,
+    "geom:area_square_m":488301136.578688,
     "geom:bbox":"-68.17,10.320201,-67.868349,10.50375",
     "geom:latitude":10.413093,
     "geom:longitude":-68.027171,
@@ -265,12 +265,13 @@
         "wd:id":"Q3410570",
         "wk:page":"Puerto Cabello"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009936,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd80a7993f4bd736e9ee221be000b990",
+    "wof:geomhash":"ed1ce0cd85248bd3fca030e692ab6a90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -280,7 +281,7 @@
         }
     ],
     "wof:id":421198089,
-    "wof:lastmodified":1690915090,
+    "wof:lastmodified":1695886196,
     "wof:name":"Puerto Cabello",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

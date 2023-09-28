@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022062,
-    "geom:area_square_m":268071949.856829,
+    "geom:area_square_m":268071879.476743,
     "geom:bbox":"-68.647993,10.60043,-68.459737,10.776364",
     "geom:latitude":10.6796,
     "geom:longitude":-68.56187,
@@ -103,9 +103,10 @@
         "hasc:id":"VE.FA.PA",
         "wd:id":"Q507132"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415753,
-    "wof:geomhash":"2fc89402c30c80a99fc2c2eb58c546e1",
+    "wof:geomhash":"f6b1ad5c0780992c1734e4ab4d54cdf3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108694329,
-    "wof:lastmodified":1690915021,
+    "wof:lastmodified":1695886380,
     "wof:name":"Palmasola",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

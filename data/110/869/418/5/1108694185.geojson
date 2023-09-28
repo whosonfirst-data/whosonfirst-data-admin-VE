@@ -306,6 +306,7 @@
     "wof:concordances":{
         "hasc:id":"VE.FA.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415601,
     "wof:geomhash":"473489cc03b00700c723e2419f33828d",
@@ -318,7 +319,7 @@
         }
     ],
     "wof:id":1108694185,
-    "wof:lastmodified":1694492405,
+    "wof:lastmodified":1695886378,
     "wof:name":"Falcon",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AN.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415777,
     "wof:geomhash":"0e7ded7c5632c2b8e828674efb09bdea",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108694353,
-    "wof:lastmodified":1694492876,
+    "wof:lastmodified":1695886381,
     "wof:name":"Piritu",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230958,
-    "geom:area_square_m":2821490883.786295,
+    "geom:area_square_m":2821491025.84778,
     "geom:bbox":"-72.187261,8.583512,-71.644056,9.239861",
     "geom:latitude":8.89497,
     "geom:longitude":-71.911816,
@@ -122,12 +122,13 @@
         "qs_pg:id":1068889,
         "wd:id":"Q2271833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009481,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"882df7128cc45e6f6288e2a79788b533",
+    "wof:geomhash":"2e511085e9e06a1d747f0f9f92afad0a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421186435,
-    "wof:lastmodified":1690915078,
+    "wof:lastmodified":1695886195,
     "wof:name":"Colon",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

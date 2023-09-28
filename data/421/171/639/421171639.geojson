@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.581356,
-    "geom:area_square_m":7120437808.471272,
+    "geom:area_square_m":7120437808.471161,
     "geom:bbox":"-64.2779585576,7.44042815965,-62.9902158133,8.32236506245",
     "geom:latitude":7.892576,
     "geom:longitude":-63.632033,
@@ -98,12 +98,13 @@
         "hasc:id":"VE.BO.HE",
         "qs_pg:id":1263770
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"741b0b972f0bba1c75d6cdcaa7fa057d",
+    "wof:geomhash":"6af5c0c10ebf3b563a2b0d823cb82b44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421171639,
-    "wof:lastmodified":1582393027,
+    "wof:lastmodified":1695886199,
     "wof:name":"Heres",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

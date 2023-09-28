@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004807,
-    "geom:area_square_m":58387614.221511,
+    "geom:area_square_m":58387553.758813,
     "geom:bbox":"-64.005447,10.732056,-63.892056,10.81375",
     "geom:latitude":10.772301,
     "geom:longitude":-63.943878,
@@ -190,12 +190,13 @@
         "qs_pg:id":421479,
         "wd:id":"Q2208173"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009143,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1736d499123cf78dd01a667e7b76f444",
+    "wof:geomhash":"c5edb25cf8cc3402cc3fd0e2962b3325",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":421177413,
-    "wof:lastmodified":1690915107,
+    "wof:lastmodified":1695886198,
     "wof:name":"Villalba",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

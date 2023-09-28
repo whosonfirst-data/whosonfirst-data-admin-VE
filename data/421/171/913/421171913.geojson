@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013422,
-    "geom:area_square_m":163315515.239465,
+    "geom:area_square_m":163315511.933987,
     "geom:bbox":"-66.896506,10.168121,-66.759209,10.343823",
     "geom:latitude":10.258865,
     "geom:longitude":-66.83673,
@@ -137,12 +137,13 @@
         "qs_pg:id":1283131,
         "wd:id":"Q2112101"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008911,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4bed81df997f353e17def5693d008f70",
+    "wof:geomhash":"03521b89ffa6d5953012ab209afa27fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421171913,
-    "wof:lastmodified":1690915118,
+    "wof:lastmodified":1695886200,
     "wof:name":"Cristobal Rojas",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

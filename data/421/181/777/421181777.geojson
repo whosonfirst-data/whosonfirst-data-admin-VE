@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014917,
-    "geom:area_square_m":181494860.729824,
+    "geom:area_square_m":181495244.890986,
     "geom:bbox":"-67.293342,10.171477,-67.188333,10.357147",
     "geom:latitude":10.262861,
     "geom:longitude":-67.240268,
@@ -107,12 +107,13 @@
         "qs_pg:id":510536,
         "wd:id":"Q6293778"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009306,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b9ff586a78d5e04ae54fa700479632d",
+    "wof:geomhash":"cacc153c253a26acaf8f5da4e460ea9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421181777,
-    "wof:lastmodified":1690915083,
+    "wof:lastmodified":1695886194,
     "wof:name":"Jose Rafael Revenga",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

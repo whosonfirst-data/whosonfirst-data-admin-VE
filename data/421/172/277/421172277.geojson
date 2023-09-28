@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160522,
-    "geom:area_square_m":1954374876.782382,
+    "geom:area_square_m":1954374302.887807,
     "geom:bbox":"-68.969311,9.840833,-68.351699,10.371101",
     "geom:latitude":10.059491,
     "geom:longitude":-68.639789,
@@ -135,12 +135,13 @@
         "qs_pg:id":149596,
         "wd:id":"Q10801437"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008929,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"788b49fa9b54aec6227e6481e5463a9d",
+    "wof:geomhash":"dade9fafe723af9ee5667f556dff22d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421172277,
-    "wof:lastmodified":1690915068,
+    "wof:lastmodified":1695886193,
     "wof:name":"Nirgua",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

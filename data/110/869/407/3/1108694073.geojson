@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"VE.ME.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415480,
     "wof:geomhash":"4388d8cfd058a70ead297382f5f177fc",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108694073,
-    "wof:lastmodified":1694492826,
+    "wof:lastmodified":1695886250,
     "wof:name":"Andres Bello",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

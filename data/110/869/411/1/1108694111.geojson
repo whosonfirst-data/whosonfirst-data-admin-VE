@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223083,
-    "geom:area_square_m":2713839530.896143,
+    "geom:area_square_m":2713839157.608282,
     "geom:bbox":"-63.29769,10.037587,-62.615417,10.63145",
     "geom:latitude":10.319802,
     "geom:longitude":-62.941123,
@@ -91,9 +91,10 @@
         "hasc:id":"VE.SU.BN",
         "wd:id":"Q1891862"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415521,
-    "wof:geomhash":"3e44e7da649a543b5326777f4250efb8",
+    "wof:geomhash":"18d93a65899556837f01ff500cc24a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108694111,
-    "wof:lastmodified":1690915010,
+    "wof:lastmodified":1695886377,
     "wof:name":"Benitez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

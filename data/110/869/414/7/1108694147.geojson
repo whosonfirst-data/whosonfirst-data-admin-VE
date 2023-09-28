@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087377,
-    "geom:area_square_m":1065101445.14328,
+    "geom:area_square_m":1065101584.033312,
     "geom:bbox":"-70.487564,9.420851,-69.99861,9.834122",
     "geom:latitude":9.66455,
     "geom:longitude":-70.234081,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.TR.CR",
         "wd:id":"Q2565242"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415556,
-    "wof:geomhash":"abede6603b4865e224fd2fc039ac2b91",
+    "wof:geomhash":"88e30ce519f20dee425afce45943fd14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694147,
-    "wof:lastmodified":1690914980,
+    "wof:lastmodified":1695886368,
     "wof:name":"Carache",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

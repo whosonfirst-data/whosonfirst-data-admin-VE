@@ -75,6 +75,7 @@
     "wof:concordances":{
         "hasc:id":"VE.YA.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415660,
     "wof:geomhash":"1856856a2ad48bc90c75ae8741b31d4b",
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108694237,
-    "wof:lastmodified":1694492808,
+    "wof:lastmodified":1695886181,
     "wof:name":"La Trinidad",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

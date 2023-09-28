@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034256,
-    "geom:area_square_m":416456254.85336,
+    "geom:area_square_m":416456397.992709,
     "geom:bbox":"-63.439521,10.360509,-63.202049,10.666398",
     "geom:latitude":10.527253,
     "geom:longitude":-63.334143,
@@ -94,9 +94,10 @@
         "hasc:id":"VE.SU.AM",
         "wd:id":"Q2095488"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415484,
-    "wof:geomhash":"e46ca19d09b0bfdcb0091911ab6b39e3",
+    "wof:geomhash":"4a79c8e4425d228e895794b09e4a58ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108694077,
-    "wof:lastmodified":1690914999,
+    "wof:lastmodified":1695886373,
     "wof:name":"Andres Mata",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

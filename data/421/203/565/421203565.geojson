@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302021,
-    "geom:area_square_m":3695953412.191576,
+    "geom:area_square_m":3695953412.193247,
     "geom:bbox":"-69.5393783759,7.89674264868,-68.6383333333,8.69388464949",
     "geom:latitude":8.242464,
     "geom:longitude":-69.181361,
@@ -157,12 +157,13 @@
         "qs_pg:id":233580,
         "wd:id":"Q3089933"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010156,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"220201e8a1f6fd7af53070f7f5ff1188",
+    "wof:geomhash":"2a3e881fc171552f01c67cc4fda51244",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421203565,
-    "wof:lastmodified":1582393017,
+    "wof:lastmodified":1695886190,
     "wof:name":"Sosa",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

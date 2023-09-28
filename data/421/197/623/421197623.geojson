@@ -77,6 +77,7 @@
         "hasc:id":"VE.BO.PI",
         "qs_pg:id":368893
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009919,
     "wof:geom_alt":[
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":421197623,
-    "wof:lastmodified":1694492875,
+    "wof:lastmodified":1695886377,
     "wof:name":"Piar",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010693,
-    "geom:area_square_m":130180530.94381,
+    "geom:area_square_m":130180466.363444,
     "geom:bbox":"-69.067872,10.00079,-68.914831,10.159041",
     "geom:latitude":10.081754,
     "geom:longitude":-68.99721,
@@ -121,9 +121,10 @@
         "hasc:id":"VE.YA.PE",
         "wd:id":"Q2497712"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415645,
-    "wof:geomhash":"9347c969461f5324e4bba550db17767a",
+    "wof:geomhash":"72d53d3139b5c23e12484d26acdf0811",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108694225,
-    "wof:lastmodified":1690914979,
+    "wof:lastmodified":1695886367,
     "wof:name":"Jose Antonio Paez",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

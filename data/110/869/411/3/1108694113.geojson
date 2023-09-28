@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015307,
-    "geom:area_square_m":186017349.652353,
+    "geom:area_square_m":186016962.612428,
     "geom:bbox":"-63.43884,10.537764,-63.170157,10.700443",
     "geom:latitude":10.636588,
     "geom:longitude":-63.26954,
@@ -103,9 +103,10 @@
         "hasc:id":"VE.SU.BR",
         "wd:id":"Q2309997"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415522,
-    "wof:geomhash":"a5b0c2ecd48e6d97e606a954641a845f",
+    "wof:geomhash":"2b5603bf5376872ea630940586a75c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108694113,
-    "wof:lastmodified":1690915010,
+    "wof:lastmodified":1695886377,
     "wof:name":"Bermudez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

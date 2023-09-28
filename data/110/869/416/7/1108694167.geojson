@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22194,
-    "geom:area_square_m":2695403627.78135,
+    "geom:area_square_m":2695404182.563897,
     "geom:bbox":"-70.491188,10.5482,-69.819105,11.219715",
     "geom:latitude":10.834956,
     "geom:longitude":-70.166545,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.FA.DE",
         "wd:id":"Q2328156"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415585,
-    "wof:geomhash":"05f2b0b8457bf6d72b87353a404c3c1c",
+    "wof:geomhash":"3ad6041eec1fbfc907e01f61e19a9fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694167,
-    "wof:lastmodified":1690915010,
+    "wof:lastmodified":1695886378,
     "wof:name":"Democracia",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

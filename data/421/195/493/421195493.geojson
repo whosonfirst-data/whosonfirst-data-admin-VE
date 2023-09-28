@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008925,
-    "geom:area_square_m":109370239.532996,
+    "geom:area_square_m":109370262.322828,
     "geom:bbox":"-72.240928,7.62,-72.070663,7.704018",
     "geom:latitude":7.662901,
     "geom:longitude":-72.156649,
@@ -356,12 +356,13 @@
         "qs_pg:id":114574,
         "wd:id":"Q224244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009850,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a5e0dd5b3bc0ac97820c5b8812480231",
+    "wof:geomhash":"03011593415d89fa440ba8b18e742b30",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -371,7 +372,7 @@
         }
     ],
     "wof:id":421195493,
-    "wof:lastmodified":1690915031,
+    "wof:lastmodified":1695886189,
     "wof:name":"Torbes",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

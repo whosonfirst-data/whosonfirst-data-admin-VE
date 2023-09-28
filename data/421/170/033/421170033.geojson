@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002762,
-    "geom:area_square_m":33526222.472394,
+    "geom:area_square_m":33526328.055168,
     "geom:bbox":"-63.899667,10.88625,-63.815326,10.995",
     "geom:latitude":10.956742,
     "geom:longitude":-63.858911,
@@ -302,12 +302,13 @@
         "qs_pg:id":1263798,
         "wd:id":"Q9029259"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008834,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d8af543cc183f435db66284536ba18dd",
+    "wof:geomhash":"0e74ca91d4d97ef573e7454d4dd0987a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -317,7 +318,7 @@
         }
     ],
     "wof:id":421170033,
-    "wof:lastmodified":1690915107,
+    "wof:lastmodified":1695886197,
     "wof:name":"Mari\u00f1o",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

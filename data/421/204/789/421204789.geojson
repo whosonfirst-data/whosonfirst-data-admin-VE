@@ -90,6 +90,7 @@
         "hasc:id":"VE.AN.IN",
         "qs_pg:id":248847
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010198,
     "wof:geom_alt":[
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421204789,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886195,
     "wof:name":"San Felipe",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

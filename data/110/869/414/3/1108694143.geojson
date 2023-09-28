@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038993,
-    "geom:area_square_m":475337025.816035,
+    "geom:area_square_m":475337176.919724,
     "geom:bbox":"-70.56,9.50953,-70.289242,9.805785",
     "geom:latitude":9.646928,
     "geom:longitude":-70.422353,
@@ -78,9 +78,10 @@
         "hasc:id":"VE.TR.CN",
         "wd:id":"Q2936242"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415552,
-    "wof:geomhash":"dffeeb2e57b54f1803f964e386eb2c07",
+    "wof:geomhash":"8ccd1d47e96373aead279488c551a244",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108694143,
-    "wof:lastmodified":1690914981,
+    "wof:lastmodified":1695886368,
     "wof:name":"Candelaria",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00701,
-    "geom:area_square_m":85057712.413856,
+    "geom:area_square_m":85057846.320199,
     "geom:bbox":"-63.977996,11.028174,-63.879986,11.145967",
     "geom:latitude":11.08562,
     "geom:longitude":-63.920994,
@@ -174,12 +174,13 @@
         "qs_pg:id":219083,
         "wd:id":"Q2451657"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010104,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3390e22821d3b33520f90d54f069f5c6",
+    "wof:geomhash":"398c6618cad939afaeb9d58fbb5c2008",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":421202069,
-    "wof:lastmodified":1690915048,
+    "wof:lastmodified":1695886191,
     "wof:name":"Gomez",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

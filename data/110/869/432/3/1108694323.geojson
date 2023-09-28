@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017964,
-    "geom:area_square_m":220072200.368117,
+    "geom:area_square_m":220071826.573309,
     "geom:bbox":"-71.528911,7.671281,-71.369154,7.909412",
     "geom:latitude":7.804746,
     "geom:longitude":-71.463946,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.ME.PN",
         "wd:id":"Q2674477"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415744,
-    "wof:geomhash":"f468ef865f4d3483fb11993125586423",
+    "wof:geomhash":"0572947bdb5ad6ad4f74ebe91ace8e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694323,
-    "wof:lastmodified":1690915022,
+    "wof:lastmodified":1695886380,
     "wof:name":"Padre Noguera",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

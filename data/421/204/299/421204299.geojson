@@ -99,6 +99,7 @@
         "hasc:id":"VE.AP.PA",
         "qs_pg:id":239107
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010180,
     "wof:geom_alt":[
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":421204299,
-    "wof:lastmodified":1694492504,
+    "wof:lastmodified":1695886190,
     "wof:name":"Paez",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

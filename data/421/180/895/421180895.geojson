@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226154,
-    "geom:area_square_m":2752486753.518064,
+    "geom:area_square_m":2752486379.831747,
     "geom:bbox":"-69.66852,9.729628,-69.14,10.525007",
     "geom:latitude":10.170467,
     "geom:longitude":-69.417757,
@@ -155,12 +155,13 @@
         "qs_pg:id":467182,
         "wd:id":"Q2435584"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009274,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9edbf7e7d0e2521db763e52cbb036a2c",
+    "wof:geomhash":"a267394b1d2a28191f9c6e87f34eb0a7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421180895,
-    "wof:lastmodified":1690915053,
+    "wof:lastmodified":1695886191,
     "wof:name":"Iribarren",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

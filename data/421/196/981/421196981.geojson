@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.650897,
-    "geom:area_square_m":57213668136.88842,
+    "geom:area_square_m":57213668308.35083,
     "geom:bbox":"-64.300938,3.608207,-62.10089,7.999846",
     "geom:latitude":5.707104,
     "geom:longitude":-63.264163,
@@ -178,12 +178,13 @@
         "qs_pg:id":1263769,
         "wd:id":"Q1651292"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009899,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aaca0f092b31d48054fb62589f9ab144",
+    "wof:geomhash":"ee9613e69dcb1c3acb8985d183834c54",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421196981,
-    "wof:lastmodified":1690915094,
+    "wof:lastmodified":1695886197,
     "wof:name":"Raul Leoni",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

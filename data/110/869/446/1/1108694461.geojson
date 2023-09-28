@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125231,
-    "geom:area_square_m":1528400932.926331,
+    "geom:area_square_m":1528400766.919019,
     "geom:bbox":"-69.19,8.990572,-68.62511,9.462825",
     "geom:latitude":9.242991,
     "geom:longitude":-68.897963,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.PO.TU",
         "wd:id":"Q3038839"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415884,
-    "wof:geomhash":"17086eaf482dd8d9d6235c5a206a53bd",
+    "wof:geomhash":"5116761c71526cb49ea6d2fdd0362c10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694461,
-    "wof:lastmodified":1690914984,
+    "wof:lastmodified":1695886369,
     "wof:name":"Turen",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

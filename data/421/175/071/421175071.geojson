@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068212,
-    "geom:area_square_m":832216915.590501,
+    "geom:area_square_m":832217148.763668,
     "geom:bbox":"-64.56735,9.047429,-64.349022,9.568826",
     "geom:latitude":9.363077,
     "geom:longitude":-64.466922,
@@ -290,12 +290,13 @@
         "qs_pg:id":919261,
         "wd:id":"Q943822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009054,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a1274bcabd7da8c44f3a99772f058ba",
+    "wof:geomhash":"92b3c6a73aee5c7e537cd1f0b15f22a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -305,7 +306,7 @@
         }
     ],
     "wof:id":421175071,
-    "wof:lastmodified":1690915086,
+    "wof:lastmodified":1695886196,
     "wof:name":"Anaco",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049144,
-    "geom:area_square_m":602419182.438753,
+    "geom:area_square_m":602418827.170454,
     "geom:bbox":"-72.385592,7.420256,-72.067034,7.69619",
     "geom:latitude":7.541449,
     "geom:longitude":-72.235925,
@@ -154,12 +154,13 @@
         "qs_pg:id":1020139,
         "wd:id":"Q2664224"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009437,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b782e68405a19b3e808a73550f089b6",
+    "wof:geomhash":"17a4440cda620de4177ffbd45cc022cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421185265,
-    "wof:lastmodified":1690915125,
+    "wof:lastmodified":1695886197,
     "wof:name":"Cordova",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

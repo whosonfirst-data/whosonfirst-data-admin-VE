@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021133,
-    "geom:area_square_m":257749629.251229,
+    "geom:area_square_m":257749629.251185,
     "geom:bbox":"-70.014625721,9.36804270498,-69.827997656,9.56854998408",
     "geom:latitude":9.481211,
     "geom:longitude":-69.926657,
@@ -89,9 +89,10 @@
         "hasc:id":"VE.PO.MU",
         "wd:id":"Q2479642"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415727,
-    "wof:geomhash":"bb0b918ec6074fae33cd9c24aa5f77bc",
+    "wof:geomhash":"6a5916800eb32437a5ca108bb023984d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108694305,
-    "wof:lastmodified":1566645802,
+    "wof:lastmodified":1695886372,
     "wof:name":"Monse\u00f1or Jose Vicente De Unda",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

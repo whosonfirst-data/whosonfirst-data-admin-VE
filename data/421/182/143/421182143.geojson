@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017004,
-    "geom:area_square_m":206874518.483586,
+    "geom:area_square_m":206874591.788804,
     "geom:bbox":"-68.154736,10.229509,-67.969442,10.345736",
     "geom:latitude":10.285038,
     "geom:longitude":-68.062817,
@@ -169,12 +169,13 @@
         "wd:id":"Q2255048",
         "wk:page":"Naguanagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009320,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86f748b3c1936842136baa9a8c35355f",
+    "wof:geomhash":"ccdb975bdf8edb0c821eb8d57316ba49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":421182143,
-    "wof:lastmodified":1690915114,
+    "wof:lastmodified":1695886199,
     "wof:name":"Naguanagua",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

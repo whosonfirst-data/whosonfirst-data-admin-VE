@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.778233,
-    "geom:area_square_m":34210045044.924721,
+    "geom:area_square_m":34210044193.686653,
     "geom:bbox":"-62.92095,4.077689,-60.5889,6.32659",
     "geom:latitude":5.214152,
     "geom:longitude":-61.809595,
@@ -152,12 +152,13 @@
         "qs_pg:id":221562,
         "wd:id":"Q3113406"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010115,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37617dbee3a779b52cc140fa14d5294a",
+    "wof:geomhash":"e4bb2982e01e202272820a974da79adb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421202369,
-    "wof:lastmodified":1690915046,
+    "wof:lastmodified":1695886191,
     "wof:name":"Gran Sabana",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

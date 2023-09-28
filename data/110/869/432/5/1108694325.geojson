@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293777,
-    "geom:area_square_m":3596645923.212501,
+    "geom:area_square_m":3596645698.541761,
     "geom:bbox":"-62.269136,7.576678,-61.648293,8.441225",
     "geom:latitude":8.066637,
     "geom:longitude":-61.945304,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"VE.BO.PC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415746,
-    "wof:geomhash":"9d02fd78ea28351912d9b7e9818e8282",
+    "wof:geomhash":"80115cb09a6b624a620d93f61ad4c128",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694325,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886181,
     "wof:name":"Padre Pedro Chien",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

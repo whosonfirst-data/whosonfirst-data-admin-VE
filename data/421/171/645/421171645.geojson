@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009621,
-    "geom:area_square_m":117131619.714788,
+    "geom:area_square_m":117131619.714783,
     "geom:bbox":"-65.49,10.0315008528,-65.3462822789,10.1429406918",
     "geom:latitude":10.088468,
     "geom:longitude":-65.409164,
@@ -123,12 +123,13 @@
         "qs_pg:id":1263786,
         "wd:id":"Q2674109"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ca0f07a5ad8835263afeeac73bd1693",
+    "wof:geomhash":"81076796f99482ca1c76e83a41ad1e27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421171645,
-    "wof:lastmodified":1582393026,
+    "wof:lastmodified":1695886198,
     "wof:name":"San Juan De Capistrano",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

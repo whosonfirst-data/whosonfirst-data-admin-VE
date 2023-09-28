@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033597,
-    "geom:area_square_m":410783965.625186,
+    "geom:area_square_m":410784161.319084,
     "geom:bbox":"-71.107449,8.419522,-70.831702,8.74",
     "geom:latitude":8.576182,
     "geom:longitude":-70.954459,
@@ -108,12 +108,13 @@
         "qs_pg:id":995554,
         "wd:id":"Q929490"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009408,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99cf79ae82d3242296d239c047927bbe",
+    "wof:geomhash":"f43fd52e2174f616d26e949beb4b8bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421184351,
-    "wof:lastmodified":1690915105,
+    "wof:lastmodified":1695886198,
     "wof:name":"Santos Marquina",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

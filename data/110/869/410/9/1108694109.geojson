@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161291,
-    "geom:area_square_m":1964706746.177264,
+    "geom:area_square_m":1964707315.647806,
     "geom:bbox":"-71.089242,9.588805,-70.668584,10.344362",
     "geom:latitude":9.895862,
     "geom:longitude":-70.878453,
@@ -93,9 +93,10 @@
         "hasc:id":"VE.ZU.BA",
         "wd:id":"Q2201316"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415516,
-    "wof:geomhash":"c9d4c70a279ca2b0759d6b1dc38767d5",
+    "wof:geomhash":"15550f6b2cdd7c8b7edec86f015129f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108694109,
-    "wof:lastmodified":1690915008,
+    "wof:lastmodified":1695886376,
     "wof:name":"Baralt",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.BO.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415809,
     "wof:geomhash":"01d4c51609fb39ddbbc3e776121f816b",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694381,
-    "wof:lastmodified":1694492881,
+    "wof:lastmodified":1695886393,
     "wof:name":"Roscio",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

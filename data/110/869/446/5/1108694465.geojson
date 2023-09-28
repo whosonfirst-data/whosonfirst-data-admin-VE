@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015175,
-    "geom:area_square_m":184678903.379025,
+    "geom:area_square_m":184679091.757798,
     "geom:bbox":"-69.078641,10.09848,-68.917472,10.330804",
     "geom:latitude":10.199962,
     "geom:longitude":-68.996005,
@@ -122,9 +122,10 @@
         "hasc:id":"VE.YA.UR",
         "wd:id":"Q1974420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415888,
-    "wof:geomhash":"1c978937ce126113d77c8388c9bd54e8",
+    "wof:geomhash":"78190d5d50ef5f9476e2896eb0e9f6ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108694465,
-    "wof:lastmodified":1690914985,
+    "wof:lastmodified":1695886370,
     "wof:name":"Urachiche",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

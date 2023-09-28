@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05298,
-    "geom:area_square_m":644789699.444355,
+    "geom:area_square_m":644789883.929551,
     "geom:bbox":"-63.617817,10.069807,-63.196428,10.320608",
     "geom:latitude":10.181595,
     "geom:longitude":-63.411006,
@@ -147,12 +147,13 @@
         "qs_pg:id":1063002,
         "wd:id":"Q2938835"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009475,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"098f35b1d4a771a40d46372386310a80",
+    "wof:geomhash":"90e965e5cac67562bc3a83638787f48d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":421186265,
-    "wof:lastmodified":1690915078,
+    "wof:lastmodified":1695886195,
     "wof:name":"Caripe",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

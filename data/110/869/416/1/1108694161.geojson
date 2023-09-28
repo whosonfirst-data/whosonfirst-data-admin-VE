@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415573,
     "wof:geomhash":"7f05e87a61f8b38477aabd58c9d356b9",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694161,
-    "wof:lastmodified":1694492405,
+    "wof:lastmodified":1695886378,
     "wof:name":"Cocorote",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012612,
-    "geom:area_square_m":153659853.137269,
+    "geom:area_square_m":153659865.421451,
     "geom:bbox":"-68.501398,9.760539,-68.300818,9.89893",
     "geom:latitude":9.82218,
     "geom:longitude":-68.418366,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"VE.CO.LB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415680,
-    "wof:geomhash":"fb54cade932ce4c43102089e20e27f62",
+    "wof:geomhash":"f653396242985471e84f991ec27d6826",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694265,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886181,
     "wof:name":"Lima Blanco",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

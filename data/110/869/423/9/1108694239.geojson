@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07631,
-    "geom:area_square_m":928553957.544531,
+    "geom:area_square_m":928553406.111431,
     "geom:bbox":"-71.357971,10.018971,-70.82,10.463889",
     "geom:latitude":10.240841,
     "geom:longitude":-71.130851,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.ZU.LA",
         "wd:id":"Q2847018"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415662,
-    "wof:geomhash":"7cd949233e9a1b2239970d583fa0d074",
+    "wof:geomhash":"3f6c372368ad66c17fdea487de9f8bac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694239,
-    "wof:lastmodified":1690914989,
+    "wof:lastmodified":1695886371,
     "wof:name":"Lagunillas",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

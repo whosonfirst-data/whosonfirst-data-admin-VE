@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040217,
-    "geom:area_square_m":489771420.351819,
+    "geom:area_square_m":489771228.682264,
     "geom:bbox":"-67.101372,9.888182,-66.719103,10.076821",
     "geom:latitude":9.974132,
     "geom:longitude":-66.944749,
@@ -136,9 +136,10 @@
         "hasc:id":"VE.AR.SC",
         "wd:id":"Q2475546"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415813,
-    "wof:geomhash":"35dd6e2045735e512fa11aa83d2be04f",
+    "wof:geomhash":"c84824e70e13cb84bf3050d726266b5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108694387,
-    "wof:lastmodified":1690915001,
+    "wof:lastmodified":1695886374,
     "wof:name":"San Casimiro",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

@@ -57,6 +57,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415528,
     "wof:geomhash":"3e4c61718a5bfb27d9cd09bd4f51990b",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108694119,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886194,
     "wof:name":"Bolivar",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

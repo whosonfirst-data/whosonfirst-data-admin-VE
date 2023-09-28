@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116635,
-    "geom:area_square_m":1416544688.434304,
+    "geom:area_square_m":1416544144.497573,
     "geom:bbox":"-69.902865,10.69117,-69.263984,10.959826",
     "geom:latitude":10.827377,
     "geom:longitude":-69.581772,
@@ -100,9 +100,10 @@
         "hasc:id":"VE.FA.FE",
         "wd:id":"Q3067852"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415604,
-    "wof:geomhash":"4367e0864547a97a4d400ea58c22c1cb",
+    "wof:geomhash":"887ecbef7e6f536ad24a6d91a9654a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108694189,
-    "wof:lastmodified":1690915013,
+    "wof:lastmodified":1695886378,
     "wof:name":"Federacion",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

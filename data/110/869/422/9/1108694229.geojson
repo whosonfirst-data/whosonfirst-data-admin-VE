@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415652,
     "wof:geomhash":"2fb9fea9453c85bf4ea5510fac6b33a8",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694229,
-    "wof:lastmodified":1694492852,
+    "wof:lastmodified":1695886310,
     "wof:name":"Juan Vicente Campo Elias",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

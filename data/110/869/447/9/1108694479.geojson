@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094452,
-    "geom:area_square_m":1149568959.366736,
+    "geom:area_square_m":1149568912.906437,
     "geom:bbox":"-71.227121,9.878232,-70.760431,10.471667",
     "geom:latitude":10.168091,
     "geom:longitude":-70.98117,
@@ -91,9 +91,10 @@
         "hasc:id":"VE.ZU.VR",
         "wd:id":"Q9298782"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415901,
-    "wof:geomhash":"65c04ba3d7385f4ee21d4191d2fdfff4",
+    "wof:geomhash":"6732c366a98ef622d809c772856530d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108694479,
-    "wof:lastmodified":1690914977,
+    "wof:lastmodified":1695886367,
     "wof:name":"Valmore Rodriguez",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

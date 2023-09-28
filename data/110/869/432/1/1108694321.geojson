@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162069,
-    "geom:area_square_m":1977696706.286031,
+    "geom:area_square_m":1977697368.201312,
     "geom:bbox":"-69.68927,8.934016,-69.105487,9.6375",
     "geom:latitude":9.294446,
     "geom:longitude":-69.43062,
@@ -102,9 +102,10 @@
         "hasc:id":"VE.PO.OS",
         "wd:id":"Q3087224"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415742,
-    "wof:geomhash":"825c57569aa0615f38d579a66256fd20",
+    "wof:geomhash":"6964c3ddefd7008bd0f3322e6cf3df4d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108694321,
-    "wof:lastmodified":1690915021,
+    "wof:lastmodified":1695886380,
     "wof:name":"Ospino",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

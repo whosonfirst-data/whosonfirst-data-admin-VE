@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022477,
-    "geom:area_square_m":273370783.658489,
+    "geom:area_square_m":273370365.031261,
     "geom:bbox":"-63.87,10.300351,-63.668433,10.474972",
     "geom:latitude":10.390962,
     "geom:longitude":-63.766927,
@@ -91,9 +91,10 @@
         "hasc:id":"VE.SU.ME",
         "wd:id":"Q1958023"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415704,
-    "wof:geomhash":"cd15f6250c3ec1c89e8abb64c37b4d52",
+    "wof:geomhash":"a4a9e31309b6d90541e53f5f6f13ae42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108694285,
-    "wof:lastmodified":1690915006,
+    "wof:lastmodified":1695886376,
     "wof:name":"Mejia",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

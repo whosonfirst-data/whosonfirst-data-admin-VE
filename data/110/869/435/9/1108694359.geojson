@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00944,
-    "geom:area_square_m":115172114.013911,
+    "geom:area_square_m":115172097.196053,
     "geom:bbox":"-70.80936,9.2706,-70.656326,9.41",
     "geom:latitude":9.351086,
     "geom:longitude":-70.726432,
@@ -90,9 +90,10 @@
         "hasc:id":"VE.TR.RR",
         "wd:id":"Q2465345"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415784,
-    "wof:geomhash":"6f753b70aacef57dabc178459f7e5a90",
+    "wof:geomhash":"f54aa6d6fb30bcee815d415821f3ac64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108694359,
-    "wof:lastmodified":1690915022,
+    "wof:lastmodified":1695886380,
     "wof:name":"Rafael Rangel",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364323,
-    "geom:area_square_m":4448237005.789614,
+    "geom:area_square_m":4448235611.971035,
     "geom:bbox":"-72.495853,8.365017,-71.720497,9.6102",
     "geom:latitude":9.09428,
     "geom:longitude":-72.171534,
@@ -90,9 +90,10 @@
         "hasc:id":"VE.ZU.CT",
         "wd:id":"Q2370436"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415565,
-    "wof:geomhash":"1442d765ec4fea531b1bcc95a0c5b231",
+    "wof:geomhash":"d4a099f7cac39d00e46680b558e6a59d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108694153,
-    "wof:lastmodified":1690914987,
+    "wof:lastmodified":1695886370,
     "wof:name":"Catatumbo",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

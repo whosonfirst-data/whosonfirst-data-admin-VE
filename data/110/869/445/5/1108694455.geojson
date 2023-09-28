@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02409,
-    "geom:area_square_m":292979373.145989,
+    "geom:area_square_m":292979542.37034,
     "geom:bbox":"-67.472001,10.32,-67.161633,10.542889",
     "geom:latitude":10.406845,
     "geom:longitude":-67.334036,
@@ -109,9 +109,10 @@
         "hasc:id":"VE.AR.TO",
         "wd:id":"Q2421221"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415878,
-    "wof:geomhash":"8427932d6647a0d46cfbfb2bf3cbf591",
+    "wof:geomhash":"21ad38f3238a0d8cbdc886584a1368db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108694455,
-    "wof:lastmodified":1690915017,
+    "wof:lastmodified":1695886380,
     "wof:name":"Tovar",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

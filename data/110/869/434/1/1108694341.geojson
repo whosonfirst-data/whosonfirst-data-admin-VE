@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035159,
-    "geom:area_square_m":427705110.251678,
+    "geom:area_square_m":427704696.541293,
     "geom:bbox":"-66.823823,10.226236,-66.510135,10.4125",
     "geom:latitude":10.326449,
     "geom:longitude":-66.644027,
@@ -111,9 +111,10 @@
         "hasc:id":"VE.MI.PC",
         "wd:id":"Q1149232"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415762,
-    "wof:geomhash":"b9abf23fa255670a5dd771a15bcf6844",
+    "wof:geomhash":"a25559a10075ce95865fe3421b1287c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108694341,
-    "wof:lastmodified":1690915018,
+    "wof:lastmodified":1695886379,
     "wof:name":"Paz Castillo",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026604,
-    "geom:area_square_m":323621209.769437,
+    "geom:area_square_m":323621539.949505,
     "geom:bbox":"-67.678044,10.187306,-67.529237,10.518794",
     "geom:latitude":10.34025,
     "geom:longitude":-67.599129,
@@ -116,12 +116,13 @@
         "qs_pg:id":1289851,
         "wd:id":"Q413588"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008915,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"baa99f74041934085e02813b9f6d40dc",
+    "wof:geomhash":"eaefae0b30337e6d9589ace79a3c8ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421171995,
-    "wof:lastmodified":1636506273,
+    "wof:lastmodified":1695886197,
     "wof:name":"Girardot",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

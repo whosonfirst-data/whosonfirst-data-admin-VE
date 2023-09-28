@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032832,
-    "geom:area_square_m":400949313.817603,
+    "geom:area_square_m":400949302.790762,
     "geom:bbox":"-71.233099,8.88289,-70.940419,9.201781",
     "geom:latitude":9.021271,
     "geom:longitude":-71.108892,
@@ -90,9 +90,10 @@
         "hasc:id":"VE.ME.TC",
         "wd:id":"Q2457287"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415883,
-    "wof:geomhash":"fdb6b0b7b552d287dddcf19d7a92d725",
+    "wof:geomhash":"4c16f7192baaaad9c3cf66f6649be5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108694459,
-    "wof:lastmodified":1690915016,
+    "wof:lastmodified":1695886379,
     "wof:name":"Tulio Febres Cordero",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

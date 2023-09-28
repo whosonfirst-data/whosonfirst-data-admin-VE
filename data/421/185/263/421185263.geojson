@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034159,
-    "geom:area_square_m":415891956.286916,
+    "geom:area_square_m":415891635.017708,
     "geom:bbox":"-69.208959,9.877453,-69.008333,10.232073",
     "geom:latitude":10.053867,
     "geom:longitude":-69.105337,
@@ -319,12 +319,13 @@
         "qs_pg:id":1020138,
         "wd:id":"Q1683068"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009437,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6cb55f6611ec195df15a3cb8a05ce4de",
+    "wof:geomhash":"ae12ebc40783c3c96d577edeb8979337",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -334,7 +335,7 @@
         }
     ],
     "wof:id":421185263,
-    "wof:lastmodified":1690915126,
+    "wof:lastmodified":1695886200,
     "wof:name":"Pe\u00f1a",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

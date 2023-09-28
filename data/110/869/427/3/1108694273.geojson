@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033575,
-    "geom:area_square_m":408025091.111348,
+    "geom:area_square_m":408024883.621516,
     "geom:bbox":"-68.876991,10.46,-68.615394,10.768718",
     "geom:latitude":10.640511,
     "geom:longitude":-68.735008,
@@ -128,9 +128,10 @@
         "hasc:id":"VE.YA.MM",
         "wd:id":"Q2215868"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415690,
-    "wof:geomhash":"a75efa88ca32beea6f071b8028dbb109",
+    "wof:geomhash":"9ce9e9c1a7ec27930a87fc9433c81fec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108694273,
-    "wof:lastmodified":1690915015,
+    "wof:lastmodified":1695886379,
     "wof:name":"Manuel Monge",
     "wof:parent_id":85680507,
     "wof:placetype":"county",
