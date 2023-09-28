@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.423846,
-    "geom:area_square_m":5158472912.84829,
+    "geom:area_square_m":5158473414.029793,
     "geom:bbox":"-68.42201,9.820449,-67.518118,10.58831",
     "geom:latitude":10.175807,
     "geom:longitude":-68.0167,
@@ -384,17 +384,19 @@
         "gn:id":3646751,
         "gp:id":2347683,
         "hasc:id":"VE.CA",
+        "iso:code":"VE-G",
         "iso:id":"VE-G",
         "qs_pg:id":895017,
         "unlc:id":"VE-G",
         "wd:id":"Q191186",
         "wk:page":"Carabobo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d4879cecdb9399786145e47e2fdc45af",
+    "wof:geomhash":"fa952de9934c0b0cddbd7215fd1e8ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -409,7 +411,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914955,
+    "wof:lastmodified":1695884967,
     "wof:name":"Carabobo",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

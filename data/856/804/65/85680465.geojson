@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.031217,
-    "geom:area_square_m":73997602451.733459,
+    "geom:area_square_m":73997601706.497223,
     "geom:bbox":"-72.409931,6.060355,-66.327632,8.071767",
     "geom:latitude":7.133439,
     "geom:longitude":-68.808652,
@@ -375,17 +375,19 @@
         "gn:id":3649151,
         "gp:id":2347679,
         "hasc:id":"VE.AP",
+        "iso:code":"VE-C",
         "iso:id":"VE-C",
         "qs_pg:id":895015,
         "unlc:id":"VE-C",
         "wd:id":"Q41146",
         "wk:page":"Apure"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17bcd688a97a803b9fb6b4ff2a9914b6",
+    "wof:geomhash":"e8e9535bc3e51e53f86bbdfe89166939",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -400,7 +402,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914958,
+    "wof:lastmodified":1695884967,
     "wof:name":"Apure",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.447658,
-    "geom:area_square_m":17678332771.788078,
+    "geom:area_square_m":17678332228.998047,
     "geom:bbox":"-70.193068,8.096068,-68.513322,9.841667",
     "geom:latitude":9.031213,
     "geom:longitude":-69.272556,
@@ -341,17 +341,19 @@
         "gn:id":3629941,
         "gp:id":2347694,
         "hasc:id":"VE.PO",
+        "iso:code":"VE-P",
         "iso:id":"VE-P",
         "qs_pg:id":1047657,
         "unlc:id":"VE-P",
         "wd:id":"Q205784",
         "wk:page":"Portuguesa (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5a380b402b43b72b281d3ed000f26cc",
+    "wof:geomhash":"e42be5299b4376d3305697d1bc784ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914961,
+    "wof:lastmodified":1695884967,
     "wof:name":"Portuguesa",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

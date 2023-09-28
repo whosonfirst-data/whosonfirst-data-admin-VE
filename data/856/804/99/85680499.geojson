@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.590264,
-    "geom:area_square_m":19355652854.677357,
+    "geom:area_square_m":19355652995.161076,
     "geom:bbox":"-70.877193,9.407409,-68.872677,10.748873",
     "geom:latitude":10.153971,
     "geom:longitude":-69.785818,
@@ -381,17 +381,19 @@
         "gn:id":3636539,
         "gp:id":2347689,
         "hasc:id":"VE.LA",
+        "iso:code":"VE-K",
         "iso:id":"VE-K",
         "qs_pg:id":1285595,
         "unlc:id":"VE-K",
         "wd:id":"Q205796",
         "wk:page":"Lara (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f05302bdcf9cafa748601e95e7cb8a9c",
+    "wof:geomhash":"77e702cd97bbfd69a66d5b486de08236",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -406,7 +408,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914959,
+    "wof:lastmodified":1695884967,
     "wof:name":"Lara",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

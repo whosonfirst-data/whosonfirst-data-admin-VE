@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.138437,
-    "geom:area_square_m":13890117660.286713,
+    "geom:area_square_m":13890118096.88632,
     "geom:bbox":"-68.982513,8.538387,-67.750301,10.08053",
     "geom:latitude":9.338917,
     "geom:longitude":-68.34685,
@@ -371,17 +371,19 @@
         "gn:id":3645386,
         "gp:id":2347684,
         "hasc:id":"VE.CO",
+        "iso:code":"VE-H",
         "iso:id":"VE-H",
         "qs_pg:id":895018,
         "unlc:id":"VE-H",
         "wd:id":"Q205460",
         "wk:page":"Cojedes (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a40bb7e9c6cc7980519ff11143610c85",
+    "wof:geomhash":"158c37017bec1f8e1547ab952c0ae3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -396,7 +398,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914958,
+    "wof:lastmodified":1695885131,
     "wof:name":"Cojedes",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

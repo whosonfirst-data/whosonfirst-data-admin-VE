@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.338324,
-    "geom:area_square_m":28375028523.046772,
+    "geom:area_square_m":28375027293.235767,
     "geom:bbox":"-71.315019,10.3,-68.217918,12.202473",
     "geom:latitude":11.07274,
     "geom:longitude":-69.773291,
@@ -377,17 +377,19 @@
         "gn:id":3640873,
         "gp:id":2347687,
         "hasc:id":"VE.FA",
+        "iso:code":"VE-I",
         "iso:id":"VE-I",
         "qs_pg:id":1285594,
         "unlc:id":"VE-I",
         "wd:id":"Q202071",
         "wk:page":"Falc\u00f3n"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9259a0da2231b2acaf50601e9b2742f5",
+    "wof:geomhash":"4bf43dc609ef1d23be08a7712bd93636",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -402,7 +404,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914954,
+    "wof:lastmodified":1695884382,
     "wof:name":"Falc\u00f3n",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

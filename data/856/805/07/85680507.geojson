@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.501695,
-    "geom:area_square_m":6104254636.242161,
+    "geom:area_square_m":6104253776.938426,
     "geom:bbox":"-69.208959,9.840833,-68.26,10.768718",
     "geom:latitude":10.262946,
     "geom:longitude":-68.737792,
@@ -339,17 +339,19 @@
         "gn:id":3625210,
         "gp:id":2347698,
         "hasc:id":"VE.YA",
+        "iso:code":"VE-U",
         "iso:id":"VE-U",
         "qs_pg:id":219635,
         "unlc:id":"VE-U",
         "wd:id":"Q201121",
         "wk:page":"Yaracuy"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d75969ff80c95d8e88e85b4f2482510",
+    "wof:geomhash":"0525e96cef9846c6aa9d968b2c9b1a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -364,7 +366,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914965,
+    "wof:lastmodified":1695884968,
     "wof:name":"Yaracuy",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

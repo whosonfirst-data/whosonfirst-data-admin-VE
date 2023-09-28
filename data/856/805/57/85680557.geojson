@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087376,
-    "geom:area_square_m":1060619724.806058,
+    "geom:area_square_m":1060619860.487411,
     "geom:bbox":"-64.409615,10.732056,-63.77589,11.18425",
     "geom:latitude":10.986207,
     "geom:longitude":-64.049064,
@@ -370,17 +370,19 @@
         "gn:id":3631462,
         "gp:id":2347693,
         "hasc:id":"VE.NE",
+        "iso:code":"VE-O",
         "iso:id":"VE-O",
         "qs_pg:id":1047656,
         "unlc:id":"VE-O",
         "wd:id":"Q204876",
         "wk:page":"Nueva Esparta"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3db9882e58a22b97a08d4b4d55f0862e",
+    "wof:geomhash":"0abeb37129d1087414f36c781428e0be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -395,7 +397,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914960,
+    "wof:lastmodified":1695884967,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

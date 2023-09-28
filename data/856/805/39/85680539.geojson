@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02465,
-    "geom:area_square_m":298835726.065944,
+    "geom:area_square_m":298835726.065915,
     "geom:bbox":"-66.821304,10.883722,-63.102417,11.904583",
     "geom:latitude":11.343544,
     "geom:longitude":-65.338694,
@@ -402,17 +402,19 @@
         "gn:id":3640846,
         "gp:id":2347700,
         "hasc:id":"VE.DP",
+        "iso:code":"VE-W",
         "iso:id":"VE-W",
         "qs_pg:id":219637,
         "unlc:id":"VE-W",
         "wd:id":"Q130343",
         "wk:page":"Federal Dependencies of Venezuela"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5205ad075b98e41884e9dce5ca2cff7",
+    "wof:geomhash":"5e0ddd7ed0d1d31c0d7f5c875248e805",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -427,7 +429,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914967,
+    "wof:lastmodified":1695884968,
     "wof:name":"Dependencias Federales",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030955,
-    "geom:area_square_m":376389816.46714,
+    "geom:area_square_m":376390155.616149,
     "geom:bbox":"-67.161482,10.386801,-66.860738,10.567283",
     "geom:latitude":10.472288,
     "geom:longitude":-66.992504,
@@ -342,17 +342,19 @@
         "gn:id":3640847,
         "gp:id":2347686,
         "hasc:id":"VE.DF",
+        "iso:code":"VE-A",
         "iso:id":"VE-A",
         "qs_pg:id":235659,
         "unlc:id":"VE-A",
         "wd:id":"Q492791",
         "wk:page":"Capital District (Venezuela)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97e48f90489cac2564529cd5cf8add07",
+    "wof:geomhash":"ebea0b20b06eeed6fa2b936ef6f8dc63",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -367,7 +369,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914961,
+    "wof:lastmodified":1695884968,
     "wof:name":"Distrito Capital",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

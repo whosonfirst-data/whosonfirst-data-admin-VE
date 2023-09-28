@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.329326,
-    "geom:area_square_m":65114533700.666504,
+    "geom:area_square_m":65114532629.071983,
     "geom:bbox":"-68.022575,7.627586,-64.773693,10.04175",
     "geom:latitude":8.825903,
     "geom:longitude":-66.5284,
@@ -368,17 +368,19 @@
         "gn:id":3640017,
         "gp:id":2347688,
         "hasc:id":"VE.GU",
+        "iso:code":"VE-J",
         "iso:id":"VE-J",
         "qs_pg:id":222854,
         "unlc:id":"VE-J",
         "wd:id":"Q202075",
         "wk:page":"Gu\u00e1rico"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0d096056a5cdbb28a2721bd3961a0d3",
+    "wof:geomhash":"3434c83f4c1473bbcf0612430a56ace5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -393,7 +395,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914965,
+    "wof:lastmodified":1695884383,
     "wof:name":"Gu\u00e1rico",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

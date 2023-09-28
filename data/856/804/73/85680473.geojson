@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.973337,
-    "geom:area_square_m":11902743396.582533,
+    "geom:area_square_m":11902742530.152174,
     "geom:bbox":"-71.910879,7.671281,-70.546325,9.201781",
     "geom:latitude":8.511923,
     "geom:longitude":-71.261673,
@@ -389,17 +389,19 @@
         "gn:id":3632306,
         "gp:id":2347690,
         "hasc:id":"VE.ME",
+        "iso:code":"VE-L",
         "iso:id":"VE-L",
         "qs_pg:id":219632,
         "unlc:id":"VE-L",
         "wd:id":"Q165582",
         "wk:page":"M\u00e9rida (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0d913417a7ec57648ed5ae0d760421a",
+    "wof:geomhash":"860853d00b4c9ef4a13be19c9557a498",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -414,7 +416,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914956,
+    "wof:lastmodified":1695884382,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

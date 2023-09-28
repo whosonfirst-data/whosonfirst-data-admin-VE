@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098704,
-    "geom:area_square_m":1199870532.381392,
+    "geom:area_square_m":1199870532.381433,
     "geom:bbox":"-67.408429,10.401632,-66.309735,10.63625",
     "geom:latitude":10.547981,
     "geom:longitude":-66.897414,
@@ -360,12 +360,14 @@
         "gn:id":3830309,
         "gp:id":20069993,
         "hasc:id":"VE.VA",
+        "iso:code":"VE-X",
         "iso:id":"VE-X",
         "qs_pg:id":1118081,
         "unlc:id":"VE-X",
         "wd:id":"Q205843",
         "wk:page":"Vargas (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421169209
     ],
@@ -373,7 +375,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9740c9daaa9e5e8dc4302a3862fa04e2",
+    "wof:geomhash":"c34805ce1c8bf7992a0e309dd5870391",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -388,7 +390,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914962,
+    "wof:lastmodified":1695884968,
     "wof:name":"Vargas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",
