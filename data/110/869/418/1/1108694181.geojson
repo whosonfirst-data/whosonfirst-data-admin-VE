@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"VE.BA.EZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415598,
     "wof:geomhash":"e032b172f5e0a105f92a4a9f5d72ce99",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108694181,
-    "wof:lastmodified":1694492405,
+    "wof:lastmodified":1695886378,
     "wof:name":"Ezequiel Zamora",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

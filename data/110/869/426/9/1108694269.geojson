@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.688025,
-    "geom:area_square_m":8383698011.385802,
+    "geom:area_square_m":8383698011.386722,
     "geom:bbox":"-73.1458816464,9.29225423243,-71.93347168,10.3599591521",
     "geom:latitude":9.786133,
     "geom:longitude":-72.602508,
@@ -86,9 +86,10 @@
         "hasc:id":"VE.ZU.MP",
         "wd:id":"Q2218644"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415686,
-    "wof:geomhash":"bc974d5c7dd74710beb9126ac226675c",
+    "wof:geomhash":"c7cb1eb2643cf292ca76f72e22dbc408",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108694269,
-    "wof:lastmodified":1566645810,
+    "wof:lastmodified":1695886375,
     "wof:name":"Machiques De Perija",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.256093,
-    "geom:area_square_m":15514969364.612488,
+    "geom:area_square_m":15514969364.613134,
     "geom:bbox":"-67.860555,1.88250755884,-65.8803100307,3.247778",
     "geom:latitude":2.651974,
     "geom:longitude":-66.882745,
@@ -107,9 +107,10 @@
         "hasc:id":"VE.AM.MR",
         "wd:id":"Q2673918"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415697,
-    "wof:geomhash":"7faa48543401d0d27b688fef4edd0fc2",
+    "wof:geomhash":"802ada9ef602729da6b4c740557d2fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108694279,
-    "wof:lastmodified":1566645818,
+    "wof:lastmodified":1695886379,
     "wof:name":"Maroa",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

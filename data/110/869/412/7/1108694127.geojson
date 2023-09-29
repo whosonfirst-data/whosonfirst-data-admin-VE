@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"VE.YA.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415536,
     "wof:geomhash":"c75e8046acc982accf7a780a65efc0ea",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108694127,
-    "wof:lastmodified":1694492404,
+    "wof:lastmodified":1695886370,
     "wof:name":"Bruzual",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005008,
-    "geom:area_square_m":60764805.28633,
+    "geom:area_square_m":60764659.94473,
     "geom:bbox":"-63.910046,11.064087,-63.822026,11.18425",
     "geom:latitude":11.113222,
     "geom:longitude":-63.866932,
@@ -233,9 +233,10 @@
         "hasc:id":"VE.NE.AC",
         "wd:id":"Q2856992"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415486,
-    "wof:geomhash":"7ffdf36d836456f21afec02ca1c55a83",
+    "wof:geomhash":"2afdf94c37d63cbed5b3622317c0411f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -245,7 +246,7 @@
         }
     ],
     "wof:id":1108694081,
-    "wof:lastmodified":1690914996,
+    "wof:lastmodified":1695886372,
     "wof:name":"Antolin Del Campo",
     "wof:parent_id":85680557,
     "wof:placetype":"county",

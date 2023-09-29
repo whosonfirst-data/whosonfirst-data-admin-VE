@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.278291,
-    "geom:area_square_m":3385917117.529515,
+    "geom:area_square_m":3385917117.530401,
     "geom:bbox":"-72.8590272738,9.839583397,-71.9812518202,10.6226135051",
     "geom:latitude":10.275845,
     "geom:longitude":-72.353654,
@@ -83,9 +83,10 @@
         "hasc:id":"VE.ZU.RP",
         "wd:id":"Q1996591"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415806,
-    "wof:geomhash":"64a6e4213e94390497a7e64ea8c58cf3",
+    "wof:geomhash":"d1fa851312a08eff7829c0d20f072855",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108694379,
-    "wof:lastmodified":1566645802,
+    "wof:lastmodified":1695886372,
     "wof:name":"Rosario De Perija",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

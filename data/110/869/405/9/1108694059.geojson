@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038365,
-    "geom:area_square_m":467013978.45226,
+    "geom:area_square_m":467013966.628466,
     "geom:bbox":"-63.921459,10.023567,-63.571093,10.225365",
     "geom:latitude":10.114188,
     "geom:longitude":-63.728179,
@@ -105,9 +105,10 @@
         "hasc:id":"VE.FA.AC",
         "wd:id":"Q2823425"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415468,
-    "wof:geomhash":"688c0d37f76556a21147508e24f5bf4b",
+    "wof:geomhash":"dca6747edf2df0205c6cd38a1501ccf8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108694059,
-    "wof:lastmodified":1690915018,
+    "wof:lastmodified":1695886379,
     "wof:name":"Acosta",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014411,
-    "geom:area_square_m":175215811.783758,
+    "geom:area_square_m":175215553.936498,
     "geom:bbox":"-66.841459,10.398333,-66.68848,10.551651",
     "geom:latitude":10.486066,
     "geom:longitude":-66.764434,
@@ -478,12 +478,13 @@
         "qs_pg:id":1263775,
         "wd:id":"Q2907"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008891,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"072a0cce1c5152a33ad4b95475727fa4",
+    "wof:geomhash":"608ae6c9630785dfc663838c1bf37807",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -493,7 +494,7 @@
         }
     ],
     "wof:id":421171381,
-    "wof:lastmodified":1690915120,
+    "wof:lastmodified":1695886199,
     "wof:name":"Sucre",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022329,
-    "geom:area_square_m":272554123.433697,
+    "geom:area_square_m":272554229.496423,
     "geom:bbox":"-70.784946,9.05446,-70.588333,9.356461",
     "geom:latitude":9.193076,
     "geom:longitude":-70.676595,
@@ -122,9 +122,10 @@
     "wof:concordances":{
         "hasc:id":"VE.TR.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415900,
-    "wof:geomhash":"35c72eb6b2e759e42fd6ce952b94da67",
+    "wof:geomhash":"cfc42875a66fd24b88ccbe8cc8c6d4f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108694477,
-    "wof:lastmodified":1636506204,
+    "wof:lastmodified":1695886191,
     "wof:name":"Valera",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

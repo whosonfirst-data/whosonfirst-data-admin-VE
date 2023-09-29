@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03002,
-    "geom:area_square_m":366406868.577973,
+    "geom:area_square_m":366406980.19111,
     "geom:bbox":"-71.048913,9.077887,-70.722186,9.376905",
     "geom:latitude":9.221715,
     "geom:longitude":-70.853849,
@@ -78,9 +78,10 @@
         "hasc:id":"VE.TR.MC",
         "wd:id":"Q1943693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415730,
-    "wof:geomhash":"35792b307b7d6607fd72675415096656",
+    "wof:geomhash":"0f617dac181cd34693a24dd5e3707242",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108694309,
-    "wof:lastmodified":1690914993,
+    "wof:lastmodified":1695886371,
     "wof:name":"Monte Carmelo",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

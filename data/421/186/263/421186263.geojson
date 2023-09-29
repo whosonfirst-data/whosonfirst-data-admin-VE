@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041829,
-    "geom:area_square_m":508766009.4338,
+    "geom:area_square_m":508765945.859959,
     "geom:bbox":"-67.572609,10.188619,-67.396539,10.540389",
     "geom:latitude":10.373812,
     "geom:longitude":-67.487625,
@@ -193,12 +193,13 @@
         "qs_pg:id":1063001,
         "wd:id":"Q2226100"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009475,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"864150848c2047d3d8e19a082eec47ab",
+    "wof:geomhash":"6c361ce744a73f85887f61766298d72e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":421186263,
-    "wof:lastmodified":1690915078,
+    "wof:lastmodified":1695886194,
     "wof:name":"Santiago Mari\u00f1o",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

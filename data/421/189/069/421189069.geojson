@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053716,
-    "geom:area_square_m":656417444.12519,
+    "geom:area_square_m":656417599.244866,
     "geom:bbox":"-64.354882,8.586587,-63.992324,8.950972",
     "geom:latitude":8.781938,
     "geom:longitude":-64.178697,
@@ -180,12 +180,13 @@
         "qs_pg:id":1110084,
         "wd:id":"Q2404225"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009603,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d389f57ead044d24bafdd84656fa77e",
+    "wof:geomhash":"501ce076bd8fa904875df1d923dbf7d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421189069,
-    "wof:lastmodified":1690915061,
+    "wof:lastmodified":1695886193,
     "wof:name":"Simon Rodriguez",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

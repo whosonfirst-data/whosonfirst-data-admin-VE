@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256194,
-    "geom:area_square_m":3113559212.622917,
+    "geom:area_square_m":3113558599.633449,
     "geom:bbox":"-72.900818,10.355581,-71.77514,10.773316",
     "geom:latitude":10.626447,
     "geom:longitude":-72.303126,
@@ -94,9 +94,10 @@
         "hasc:id":"VE.ZU.JL",
         "wd:id":"Q2148353"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415640,
-    "wof:geomhash":"c2a7169ffbeb41d38f2fff1575d1cf8c",
+    "wof:geomhash":"0a32531665332fb891afcb902b6d2492",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108694217,
-    "wof:lastmodified":1690915004,
+    "wof:lastmodified":1695886374,
     "wof:name":"Jesus Enrique Lossada",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

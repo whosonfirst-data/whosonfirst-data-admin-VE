@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.CA.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415729,
     "wof:geomhash":"06f88240a62156039e0f30b82bb24fe6",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694307,
-    "wof:lastmodified":1694492867,
+    "wof:lastmodified":1695886352,
     "wof:name":"Montalban",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

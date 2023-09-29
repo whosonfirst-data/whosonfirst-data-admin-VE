@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.872164,
-    "geom:area_square_m":35382125976.812393,
+    "geom:area_square_m":35382125976.811714,
     "geom:bbox":"-67.1852707733,3.92024345078,-64.5509634395,6.15977567103",
     "geom:latitude":4.930106,
     "geom:longitude":-65.810116,
@@ -112,9 +112,10 @@
         "hasc:id":"VE.AM.MP",
         "wd:id":"Q2309810"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415687,
-    "wof:geomhash":"d9ab11cbec10e7be3adfaa95b3b41dcd",
+    "wof:geomhash":"cfb795b5ab1879f45ccac08472c9b05e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108694271,
-    "wof:lastmodified":1566645818,
+    "wof:lastmodified":1695886378,
     "wof:name":"Manapiare",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

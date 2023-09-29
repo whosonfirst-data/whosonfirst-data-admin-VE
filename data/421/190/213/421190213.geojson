@@ -556,6 +556,7 @@
         "hasc:id":"VE.FA.SF",
         "qs_pg:id":1118977
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009650,
     "wof:geom_alt":[
@@ -571,7 +572,7 @@
         }
     ],
     "wof:id":421190213,
-    "wof:lastmodified":1694492945,
+    "wof:lastmodified":1695886196,
     "wof:name":"San Francisco",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415569,
     "wof:geomhash":"b515c39bb6b3ad6ef5924032dac685b6",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108694157,
-    "wof:lastmodified":1694492404,
+    "wof:lastmodified":1695886370,
     "wof:name":"Chacao",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

@@ -1278,6 +1278,7 @@
         "hasc:id":"VE",
         "icao:code":"YV",
         "ioc:id":"VEN",
+        "iso:code":"VE",
         "itu:id":"VEN",
         "loc:id":"n78095508",
         "m49:code":"862",
@@ -1292,6 +1293,7 @@
         "wk:page":"Venezuela",
         "wmo:id":"VN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:country_alpha3":"VEN",
     "wof:geom_alt":[
@@ -1315,7 +1317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639652,
+    "wof:lastmodified":1695881313,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

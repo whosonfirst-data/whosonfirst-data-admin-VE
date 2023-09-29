@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100773,
-    "geom:area_square_m":1224918454.092923,
+    "geom:area_square_m":1224918454.092955,
     "geom:bbox":"-67.408429,10.401632,-66.309735,11.87375",
     "geom:latitude":10.573778,
     "geom:longitude":-66.892359,
@@ -170,6 +170,7 @@
         "qs_pg:id":1199963,
         "wd:id":"Q3650762"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85680533
     ],
@@ -178,7 +179,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"16d718e6f29752fafab38d083455ced5",
+    "wof:geomhash":"435afada2c4e866337f1966cf79f1f81",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":421169209,
-    "wof:lastmodified":1690915040,
+    "wof:lastmodified":1695886195,
     "wof:name":"Vargas",
     "wof:parent_id":85680533,
     "wof:placetype":"county",

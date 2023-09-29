@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.296442,
-    "geom:area_square_m":28012670536.252975,
+    "geom:area_square_m":28012670700.865196,
     "geom:bbox":"-64.059948,8.389829,-61.996954,10.320608",
     "geom:latitude":9.413662,
     "geom:longitude":-63.02274,
@@ -346,17 +346,19 @@
         "gn:id":3632100,
         "gp:id":2347692,
         "hasc:id":"VE.MO",
+        "iso:code":"VE-N",
         "iso:id":"VE-N",
         "qs_pg:id":235660,
         "unlc:id":"VE-N",
         "wd:id":"Q205776",
         "wk:page":"Monagas"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae75842b3ea11a965f0fa11f1bef6c00",
+    "wof:geomhash":"bda5ef3ccfa70fd09c27256cb77c601b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -371,7 +373,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914968,
+    "wof:lastmodified":1695884968,
     "wof:name":"Monagas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

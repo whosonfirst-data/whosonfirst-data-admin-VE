@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010461,
-    "geom:area_square_m":127951296.136654,
+    "geom:area_square_m":127951264.864787,
     "geom:bbox":"-71.818205,8.337638,-71.70812,8.519674",
     "geom:latitude":8.430169,
     "geom:longitude":-71.762885,
@@ -93,9 +93,10 @@
         "hasc:id":"VE.ME.ZE",
         "wd:id":"Q2526746"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415910,
-    "wof:geomhash":"9e7c09f1bc7b1644fa796c3a1ccbada6",
+    "wof:geomhash":"77f58776ab09116894842ce9c45d1012",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108694485,
-    "wof:lastmodified":1690914983,
+    "wof:lastmodified":1695886369,
     "wof:name":"Zea",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

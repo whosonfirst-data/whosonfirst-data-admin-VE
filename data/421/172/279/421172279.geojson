@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045319,
-    "geom:area_square_m":551450911.825997,
+    "geom:area_square_m":551451449.603668,
     "geom:bbox":"-68.397122,10.0425,-68.139926,10.421041",
     "geom:latitude":10.241989,
     "geom:longitude":-68.257486,
@@ -110,12 +110,13 @@
         "qs_pg:id":149660,
         "wd:id":"Q814976"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008929,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a909e2d0931c7f5cca0e95b78eda54c",
+    "wof:geomhash":"100c23c27a61f627aa80a2f5038627cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421172279,
-    "wof:lastmodified":1690915068,
+    "wof:lastmodified":1695886193,
     "wof:name":"Bejuma",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

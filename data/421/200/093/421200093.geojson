@@ -181,6 +181,7 @@
         "hasc:id":"VE.CO.SC",
         "qs_pg:id":772411
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010011,
     "wof:geom_alt":[
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":421200093,
-    "wof:lastmodified":1694492945,
+    "wof:lastmodified":1695886197,
     "wof:name":"San Carlos",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"VE.CO.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415799,
     "wof:geomhash":"fa0ba60b9cb63661ea1512732fbda383",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108694377,
-    "wof:lastmodified":1694492880,
+    "wof:lastmodified":1695886392,
     "wof:name":"Romulo Gallegos",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

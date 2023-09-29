@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289728,
-    "geom:area_square_m":3542981179.921225,
+    "geom:area_square_m":3542981358.292096,
     "geom:bbox":"-69.505,8.096068,-68.513322,8.790972",
     "geom:latitude":8.522121,
     "geom:longitude":-68.926702,
@@ -93,9 +93,10 @@
         "hasc:id":"VE.PO.GT",
         "wd:id":"Q2916834"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415623,
-    "wof:geomhash":"ef3ec50eaa5847a5cdcfa9378f062a97",
+    "wof:geomhash":"19a4ee91f24654ee02d70567d81cf15f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108694203,
-    "wof:lastmodified":1690915013,
+    "wof:lastmodified":1695886378,
     "wof:name":"Guanarito",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

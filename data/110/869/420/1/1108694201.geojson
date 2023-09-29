@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017084,
-    "geom:area_square_m":207863706.719131,
+    "geom:area_square_m":207863720.195933,
     "geom:bbox":"-67.931429,10.151102,-67.795636,10.375105",
     "geom:latitude":10.261025,
     "geom:longitude":-67.873769,
@@ -133,9 +133,10 @@
         "hasc:id":"VE.CA.GU",
         "wd:id":"Q1446171"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415620,
-    "wof:geomhash":"922c506e2483a1b3bcfc100828b83db0",
+    "wof:geomhash":"016cf971a385d3ac2ee0d20e6fdffe41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108694201,
-    "wof:lastmodified":1690915012,
+    "wof:lastmodified":1695886378,
     "wof:name":"Guacara",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

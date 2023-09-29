@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098365,
-    "geom:area_square_m":1201323356.573517,
+    "geom:area_square_m":1201323675.353568,
     "geom:bbox":"-69.107642,8.831823,-68.565118,9.229465",
     "geom:latitude":8.999286,
     "geom:longitude":-68.872177,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"VE.PO.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415843,
-    "wof:geomhash":"539347085140e4ab289f28b0976cfd57",
+    "wof:geomhash":"31d1e32cf8d355f6de58fb9fa0bb6e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694417,
-    "wof:lastmodified":1627522972,
+    "wof:lastmodified":1695886182,
     "wof:name":"Santa Rosalia",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

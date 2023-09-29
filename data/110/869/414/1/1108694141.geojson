@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117477,
-    "geom:area_square_m":1437772309.053636,
+    "geom:area_square_m":1437772369.036402,
     "geom:bbox":"-67.834283,7.891133,-67.364914,8.445416",
     "geom:latitude":8.1996,
     "geom:longitude":-67.555401,
@@ -128,9 +128,10 @@
         "hasc:id":"VE.GU.CA",
         "wd:id":"Q1027967"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415549,
-    "wof:geomhash":"b645d8df1c509559c2f483494a7d07ca",
+    "wof:geomhash":"183dcc72249e41158a2be4705d72f35d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108694141,
-    "wof:lastmodified":1690914980,
+    "wof:lastmodified":1695886368,
     "wof:name":"Camaguan",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

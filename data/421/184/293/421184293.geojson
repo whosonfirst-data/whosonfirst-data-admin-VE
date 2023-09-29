@@ -188,6 +188,7 @@
         "hasc:id":"VE.AR.ZA",
         "qs_pg:id":993184
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009406,
     "wof:geom_alt":[
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":421184293,
-    "wof:lastmodified":1694492945,
+    "wof:lastmodified":1695886197,
     "wof:name":"Zamora",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

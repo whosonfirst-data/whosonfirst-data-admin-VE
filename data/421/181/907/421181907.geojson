@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066414,
-    "geom:area_square_m":811413085.495052,
+    "geom:area_square_m":811412923.777403,
     "geom:bbox":"-70.41277,8.713011,-70.043531,9.061229",
     "geom:latitude":8.864591,
     "geom:longitude":-70.248506,
@@ -123,12 +123,13 @@
         "qs_pg:id":510639,
         "wd:id":"Q2046275"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009312,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ddedc43ca9c3fa26eb4e3f6bae323070",
+    "wof:geomhash":"383d43f107f44911365bd8a9251b97a7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421181907,
-    "wof:lastmodified":1690915081,
+    "wof:lastmodified":1695886194,
     "wof:name":"Cruz Paredes",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

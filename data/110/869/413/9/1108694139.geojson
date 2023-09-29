@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027247,
-    "geom:area_square_m":331147607.770197,
+    "geom:area_square_m":331147543.19002,
     "geom:bbox":"-62.944639,10.529996,-62.693868,10.691307",
     "geom:latitude":10.613605,
     "geom:longitude":-62.822944,
@@ -81,9 +81,10 @@
         "hasc:id":"VE.SU.CJ",
         "wd:id":"Q2554123"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415546,
-    "wof:geomhash":"15a1eaca6e74c4cfe490a130a53bbd0b",
+    "wof:geomhash":"ae27cda194cb5829a2c795418626a01a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108694139,
-    "wof:lastmodified":1690914979,
+    "wof:lastmodified":1695886368,
     "wof:name":"Cajigal",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

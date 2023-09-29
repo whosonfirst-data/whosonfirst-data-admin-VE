@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005,
-    "geom:area_square_m":60832786.09398,
+    "geom:area_square_m":60832826.839957,
     "geom:bbox":"-68.909137,10.192664,-68.796309,10.322221",
     "geom:latitude":10.254871,
     "geom:longitude":-68.857705,
@@ -115,9 +115,10 @@
         "hasc:id":"VE.YA.BR",
         "wd:id":"Q2927131"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415506,
-    "wof:geomhash":"e8c70a0e68f41f7b55f6b899044ae584",
+    "wof:geomhash":"573f413a58720f147ed6821d55c2f625",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108694101,
-    "wof:lastmodified":1690915008,
+    "wof:lastmodified":1695886376,
     "wof:name":"Aristides Bastidas",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

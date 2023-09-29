@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.658656,
-    "geom:area_square_m":8056790574.87534,
+    "geom:area_square_m":8056790551.120735,
     "geom:bbox":"-66.8025,7.627586,-66.01,9.222981",
     "geom:latitude":8.401614,
     "geom:longitude":-66.474048,
@@ -133,9 +133,10 @@
         "hasc:id":"VE.GU.LM",
         "wd:id":"Q1450597"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415665,
-    "wof:geomhash":"83fd96cf0b93803d2d5eb5825e7dc2dc",
+    "wof:geomhash":"4b75a444b25a59807cf81895c60c563d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108694245,
-    "wof:lastmodified":1690914988,
+    "wof:lastmodified":1695886370,
     "wof:name":"Las Mercedes",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

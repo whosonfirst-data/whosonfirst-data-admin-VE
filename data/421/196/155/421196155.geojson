@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044129,
-    "geom:area_square_m":540140460.71348,
+    "geom:area_square_m":540140637.791456,
     "geom:bbox":"-71.823552,8.010628,-71.561283,8.300277",
     "geom:latitude":8.158086,
     "geom:longitude":-71.688006,
@@ -124,12 +124,13 @@
         "qs_pg:id":957426,
         "wd:id":"Q2607198"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009871,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6bdde3bfb7ce713a85db9847f1b481af",
+    "wof:geomhash":"b8ea0fff1fce679e377288cd1387ef60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421196155,
-    "wof:lastmodified":1690915093,
+    "wof:lastmodified":1695886197,
     "wof:name":"Guaraque",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

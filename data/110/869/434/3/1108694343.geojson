@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.563371,
-    "geom:area_square_m":6898610232.788395,
+    "geom:area_square_m":6898610011.636351,
     "geom:bbox":"-70.818984,7.392051,-69.585356,8.768174",
     "geom:latitude":7.980862,
     "geom:longitude":-70.349121,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.BA.PE",
         "wd:id":"Q2135709"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415764,
-    "wof:geomhash":"9e1afb19a0317ea2bcb165df16474c32",
+    "wof:geomhash":"c0ad58ed1e8de25b75c3839da0e17209",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694343,
-    "wof:lastmodified":1690915019,
+    "wof:lastmodified":1695886379,
     "wof:name":"Pedraza",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

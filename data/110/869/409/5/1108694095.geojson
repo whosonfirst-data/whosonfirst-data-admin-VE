@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077204,
-    "geom:area_square_m":944920770.469585,
+    "geom:area_square_m":944920688.829916,
     "geom:bbox":"-71.29178,7.911591,-70.911913,8.389343",
     "geom:latitude":8.183702,
     "geom:longitude":-71.128567,
@@ -102,9 +102,10 @@
         "hasc:id":"VE.ME.AR",
         "wd:id":"Q2856316"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415502,
-    "wof:geomhash":"808d4b44fbed7fed47fa4ee967775e30",
+    "wof:geomhash":"120178b70c78449b203458a9016753d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108694095,
-    "wof:lastmodified":1690914998,
+    "wof:lastmodified":1695886373,
     "wof:name":"Aricagua",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

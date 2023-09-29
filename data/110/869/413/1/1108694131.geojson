@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.27498,
-    "geom:area_square_m":3338866198.368707,
+    "geom:area_square_m":3338866103.177485,
     "geom:bbox":"-70.969785,10.3,-70.309814,11.327917",
     "geom:latitude":10.894168,
     "geom:longitude":-70.631084,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"VE.FA.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415539,
-    "wof:geomhash":"b11f43416c5605759b8eee5762f3031f",
+    "wof:geomhash":"c5496ea001f44311f2f2419f750cbe47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108694131,
-    "wof:lastmodified":1627522970,
+    "wof:lastmodified":1695886180,
     "wof:name":"Buchivacoa",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

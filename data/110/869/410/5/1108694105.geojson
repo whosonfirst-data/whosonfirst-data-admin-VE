@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.974439,
-    "geom:area_square_m":12006926173.890892,
+    "geom:area_square_m":12006926173.889797,
     "geom:bbox":"-67.854817,4.10784141875,-66.5207269294,5.59873518983",
     "geom:latitude":4.783611,
     "geom:longitude":-67.266974,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"VE.AM.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415512,
-    "wof:geomhash":"03fd73c1e63d7f9cf1e16aff1b53743d",
+    "wof:geomhash":"fa1936b1d71d26dc42cf0484575d5141",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108694105,
-    "wof:lastmodified":1566645813,
+    "wof:lastmodified":1695886376,
     "wof:name":"Autana",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

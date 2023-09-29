@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169963,
-    "geom:area_square_m":2068355305.520315,
+    "geom:area_square_m":2068355412.96799,
     "geom:bbox":"-66.563487,9.950228,-66.069963,10.529432",
     "geom:latitude":10.207329,
     "geom:longitude":-66.309721,
@@ -163,12 +163,13 @@
         "qs_pg:id":19940,
         "wd:id":"Q2625145"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008706,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c56aa248ab4715cd3bb93f5031cea63a",
+    "wof:geomhash":"ba283820d4ab85c0a8faf13e825b8fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421166897,
-    "wof:lastmodified":1690915027,
+    "wof:lastmodified":1695886188,
     "wof:name":"Acevedo",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

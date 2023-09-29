@@ -114,6 +114,7 @@
     "wof:concordances":{
         "hasc:id":"VE.MO.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415859,
     "wof:geomhash":"4680a5b6825cbc565e1b187ca866e88d",
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108694431,
-    "wof:lastmodified":1694492404,
+    "wof:lastmodified":1695886377,
     "wof:name":"Sotillo",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

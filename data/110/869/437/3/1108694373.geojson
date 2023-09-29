@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015072,
-    "geom:area_square_m":184437643.591294,
+    "geom:area_square_m":184437434.911996,
     "geom:bbox":"-71.910879,8.159247,-71.748829,8.330931",
     "geom:latitude":8.241466,
     "geom:longitude":-71.827996,
@@ -94,9 +94,10 @@
         "hasc:id":"VE.ME.RD",
         "wd:id":"Q2291411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415796,
-    "wof:geomhash":"c468d02670a7860d04a37cd80b8c4562",
+    "wof:geomhash":"1e99ada86602da5442335880c3a771da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108694373,
-    "wof:lastmodified":1690914994,
+    "wof:lastmodified":1695886372,
     "wof:name":"Rivas Davila",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

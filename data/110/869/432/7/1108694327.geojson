@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02142,
-    "geom:area_square_m":260848775.342338,
+    "geom:area_square_m":260848662.273129,
     "geom:bbox":"-69.319156,9.899284,-69.149698,10.075623",
     "geom:latitude":9.987987,
     "geom:longitude":-69.233471,
@@ -114,9 +114,10 @@
         "hasc:id":"VE.LA.PA",
         "wd:id":"Q2307377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415751,
-    "wof:geomhash":"f2b759afad9321ea594cf01ae5e8d0e9",
+    "wof:geomhash":"a7dde2e13f1325c64150d19e78d84fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108694327,
-    "wof:lastmodified":1690915021,
+    "wof:lastmodified":1695886380,
     "wof:name":"Palavecino",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

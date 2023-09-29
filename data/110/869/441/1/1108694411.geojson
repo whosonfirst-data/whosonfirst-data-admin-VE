@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025094,
-    "geom:area_square_m":305968588.965348,
+    "geom:area_square_m":305968566.373464,
     "geom:bbox":"-63.640527,9.49802,-63.448585,9.649037",
     "geom:latitude":9.572905,
     "geom:longitude":-63.542598,
@@ -159,9 +159,10 @@
         "hasc:id":"VE.MO.SB",
         "wd:id":"Q3472583"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415838,
-    "wof:geomhash":"c58c9ef761232adfef16e72069484cf5",
+    "wof:geomhash":"bb2b89fad01d63e5ee50319e8d918cea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108694411,
-    "wof:lastmodified":1690914985,
+    "wof:lastmodified":1695886191,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

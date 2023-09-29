@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"VE.MO.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415889,
     "wof:geomhash":"3a20f214db6287e00d67b8729a81dcac",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108694467,
-    "wof:lastmodified":1694492891,
+    "wof:lastmodified":1695886417,
     "wof:name":"Uracoa",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

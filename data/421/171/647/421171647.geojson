@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263197,
-    "geom:area_square_m":3221920710.944983,
+    "geom:area_square_m":3221920710.945031,
     "geom:bbox":"-71.0390559988,7.7625760721,-70.2999750977,8.59907010805",
     "geom:latitude":8.110258,
     "geom:longitude":-70.685728,
@@ -146,12 +146,13 @@
         "qs_pg:id":1263806,
         "wd:id":"Q2673923"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"641b48f8722ffc490f4a995764d02480",
+    "wof:geomhash":"53392979bdd48350cda27cc42c1f8208",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421171647,
-    "wof:lastmodified":1582393027,
+    "wof:lastmodified":1695886200,
     "wof:name":"Antonio Jose De Sucre",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059035,
-    "geom:area_square_m":719205243.831505,
+    "geom:area_square_m":719205336.05959,
     "geom:bbox":"-70.6932,9.69959,-70.32,10.038075",
     "geom:latitude":9.85606,
     "geom:longitude":-70.55728,
@@ -74,9 +74,10 @@
         "hasc:id":"VE.TR.CN",
         "wd:id":"Q2936242"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415647,
-    "wof:geomhash":"a4bc8bb97e3c261bed4616961f0a7018",
+    "wof:geomhash":"3f6e92f1283a4396fc5854e47758079f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108694227,
-    "wof:lastmodified":1690914978,
+    "wof:lastmodified":1695886367,
     "wof:name":"Jose Felipe Marquez Ca\u00f1izalez",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

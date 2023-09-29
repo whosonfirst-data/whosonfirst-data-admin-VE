@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.BO.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415775,
     "wof:geomhash":"fb67ca38f3debdb5f3ec02b9212ef59b",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694351,
-    "wof:lastmodified":1694492874,
+    "wof:lastmodified":1695886375,
     "wof:name":"Piar",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

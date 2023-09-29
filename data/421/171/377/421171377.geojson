@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006513,
-    "geom:area_square_m":79198821.407232,
+    "geom:area_square_m":79199070.108579,
     "geom:bbox":"-66.898412,10.360128,-66.822807,10.491752",
     "geom:latitude":10.427352,
     "geom:longitude":-66.8642,
@@ -154,12 +154,13 @@
         "qs_pg:id":1263773,
         "wd:id":"Q761148"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008891,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d8763e5721cee6f7036631528688576d",
+    "wof:geomhash":"4ff01abe8ee88d16e7db38bfb670f9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421171377,
-    "wof:lastmodified":1690915118,
+    "wof:lastmodified":1695886199,
     "wof:name":"Baruta",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

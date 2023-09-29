@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053368,
-    "geom:area_square_m":649203057.842285,
+    "geom:area_square_m":649203057.84162,
     "geom:bbox":"-63.4959506854,10.1532079751,-63.0948386626,10.666222572",
     "geom:latitude":10.334144,
     "geom:longitude":-63.306515,
@@ -79,9 +79,10 @@
         "hasc:id":"VE.BA.AB",
         "wd:id":"Q2849019"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415482,
-    "wof:geomhash":"c428976efc84f088274a0019c09d4666",
+    "wof:geomhash":"38d5d71658159dc837e007f99e33ac1c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108694075,
-    "wof:lastmodified":1566645808,
+    "wof:lastmodified":1695886374,
     "wof:name":"Andres Eloy Blanco",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

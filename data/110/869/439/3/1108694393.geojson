@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098466,
-    "geom:area_square_m":1202808278.912713,
+    "geom:area_square_m":1202808278.912679,
     "geom:bbox":"-70.1930678724,8.71343442356,-69.6134219409,9.17988675027",
     "geom:latitude":8.924064,
     "geom:longitude":-69.91982,
@@ -86,9 +86,10 @@
         "hasc:id":"VE.PO.SG",
         "wd:id":"Q2557299"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415822,
-    "wof:geomhash":"bf9d5555bf76b8f356b0c38852e293df",
+    "wof:geomhash":"4d305938edb9cc82f8b600f9b0e5a247",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108694393,
-    "wof:lastmodified":1566645801,
+    "wof:lastmodified":1695886371,
     "wof:name":"San Genaro De Boconoito",
     "wof:parent_id":85680503,
     "wof:placetype":"county",

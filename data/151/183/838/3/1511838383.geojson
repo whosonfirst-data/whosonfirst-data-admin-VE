@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.59106,
-    "geom:area_square_m":2068355305.520315,
+    "geom:area_square_m":7273936953.876411,
     "geom:bbox":"-67.85135,4.949197,-66.449295,6.210163",
     "geom:latitude":5.574208,
     "geom:longitude":-67.317624,
@@ -65,8 +65,9 @@
         "hasc:id":"VE.AM.AR",
         "wd:id":"Q2295357"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
-    "wof:geomhash":"419ee4fee5f22a0f120570a87307ab73",
+    "wof:geomhash":"f77f218de0e51b1c8df770b3f298920a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1511838383,
-    "wof:lastmodified":1690914954,
+    "wof:lastmodified":1695886180,
     "wof:name":"Atures",
     "wof:parent_id":85680511,
     "wof:placetype":"county",

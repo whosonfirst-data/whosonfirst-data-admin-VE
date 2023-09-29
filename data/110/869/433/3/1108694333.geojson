@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033697,
-    "geom:area_square_m":410935063.091587,
+    "geom:area_square_m":410934998.161526,
     "geom:bbox":"-70.616364,9.423383,-70.288861,9.622534",
     "geom:latitude":9.517925,
     "geom:longitude":-70.458846,
@@ -94,9 +94,10 @@
         "hasc:id":"VE.TR.PA",
         "wd:id":"Q9035906"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415756,
-    "wof:geomhash":"7a74f8077eec93978ef3b9ed982cad91",
+    "wof:geomhash":"df71171c0deb80852c450cdf57802f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108694333,
-    "wof:lastmodified":1690915020,
+    "wof:lastmodified":1695886380,
     "wof:name":"Pampan",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

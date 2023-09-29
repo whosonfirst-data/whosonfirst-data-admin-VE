@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001538,
-    "geom:area_square_m":18717133.413092,
+    "geom:area_square_m":18717194.196393,
     "geom:bbox":"-67.574479,10.19,-67.493043,10.227348",
     "geom:latitude":10.207577,
     "geom:longitude":-67.529805,
@@ -187,12 +187,13 @@
         "qs_pg:id":114619,
         "wd:id":"Q2843795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009850,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d8744f3f1aa54f41bc72a7136d316a0a",
+    "wof:geomhash":"90acf12257a8dc396c0ddba836d7dd17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":421195501,
-    "wof:lastmodified":1690915031,
+    "wof:lastmodified":1695886189,
     "wof:name":"Francisco Linares Alcantara",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

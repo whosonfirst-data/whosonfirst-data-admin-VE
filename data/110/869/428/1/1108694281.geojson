@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173278,
-    "geom:area_square_m":2104680470.866271,
+    "geom:area_square_m":2104680562.300827,
     "geom:bbox":"-71.315019,10.453555,-70.796417,11.126937",
     "geom:latitude":10.796995,
     "geom:longitude":-70.988906,
@@ -102,9 +102,10 @@
         "hasc:id":"VE.FA.MU",
         "wd:id":"Q1886710"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415700,
-    "wof:geomhash":"d1a6d4423291fb51526191271126b1a7",
+    "wof:geomhash":"7e6edca209a55f849ff7f8aa412609f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108694281,
-    "wof:lastmodified":1690915005,
+    "wof:lastmodified":1695886375,
     "wof:name":"Mauroa",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021069,
-    "geom:area_square_m":258041879.080125,
+    "geom:area_square_m":258041830.961343,
     "geom:bbox":"-71.987277,7.820382,-71.779091,8.034788",
     "geom:latitude":7.915444,
     "geom:longitude":-71.894934,
@@ -215,12 +215,13 @@
         "qs_pg:id":114621,
         "wd:id":"Q311447"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009850,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"380c4a90c9e6412c619b93cba6c8a47f",
+    "wof:geomhash":"3949216448d392af9a7faa4b7e8ce8ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":421195505,
-    "wof:lastmodified":1690915029,
+    "wof:lastmodified":1695886188,
     "wof:name":"Francisco De Miranda",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060408,
-    "geom:area_square_m":738788287.044685,
+    "geom:area_square_m":738788023.538203,
     "geom:bbox":"-72.198368,8.298718,-71.939442,8.659895",
     "geom:latitude":8.479891,
     "geom:longitude":-72.066685,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.TA.PA",
         "wd:id":"Q2162569"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415758,
-    "wof:geomhash":"cdc5a685ef55d0a7b552aad518eee2d4",
+    "wof:geomhash":"e48bb1912e4229ee87f032fc0d528964",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694335,
-    "wof:lastmodified":1690915020,
+    "wof:lastmodified":1695886380,
     "wof:name":"Panamericano",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009107,
-    "geom:area_square_m":110806779.554965,
+    "geom:area_square_m":110806829.400461,
     "geom:bbox":"-67.990846,10.187079,-67.909876,10.360044",
     "geom:latitude":10.268389,
     "geom:longitude":-67.950257,
@@ -531,12 +531,13 @@
         "qs_pg:id":504822,
         "wd:id":"Q16552"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009260,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ab311d58e719222cd0218d493faa709",
+    "wof:geomhash":"d5d1dc198eedfea4eb0c082d9bd1cc77",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -546,7 +547,7 @@
         }
     ],
     "wof:id":421180477,
-    "wof:lastmodified":1690915052,
+    "wof:lastmodified":1695886190,
     "wof:name":"San Diego",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

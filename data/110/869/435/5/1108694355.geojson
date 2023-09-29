@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007284,
-    "geom:area_square_m":88963875.771955,
+    "geom:area_square_m":88963979.570259,
     "geom:bbox":"-70.725999,8.901178,-70.579584,9.027004",
     "geom:latitude":8.956352,
     "geom:longitude":-70.65384,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.ME.PL",
         "wd:id":"Q2096564"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415780,
-    "wof:geomhash":"4fc1c603cfcd8c65e8a7c9411ce1faa7",
+    "wof:geomhash":"8f1fd225a39750f91408d17ba1718b81",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694355,
-    "wof:lastmodified":1690915023,
+    "wof:lastmodified":1695886380,
     "wof:name":"Pueblo Llano",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

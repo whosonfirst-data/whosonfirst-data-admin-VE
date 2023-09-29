@@ -83,6 +83,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415891,
     "wof:geomhash":"ea9f110d22eb327514515e1f269f3a6c",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108694469,
-    "wof:lastmodified":1694492404,
+    "wof:lastmodified":1695886369,
     "wof:name":"Urdaneta",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

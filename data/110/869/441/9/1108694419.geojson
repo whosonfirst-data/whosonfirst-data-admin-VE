@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017277,
-    "geom:area_square_m":210265584.965654,
+    "geom:area_square_m":210265749.207634,
     "geom:bbox":"-67.21,10.077917,-67.098025,10.311667",
     "geom:latitude":10.190104,
     "geom:longitude":-67.158144,
@@ -145,9 +145,10 @@
         "hasc:id":"VE.AR.SA",
         "wd:id":"Q3042211"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415846,
-    "wof:geomhash":"28ab99698c0a50ca5fb1b59b71144851",
+    "wof:geomhash":"77615e3b346586213bee9c807b3d9266",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1108694419,
-    "wof:lastmodified":1690914985,
+    "wof:lastmodified":1695886369,
     "wof:name":"Santos Michelena",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

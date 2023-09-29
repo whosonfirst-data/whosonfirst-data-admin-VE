@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146139,
-    "geom:area_square_m":1777533089.960094,
+    "geom:area_square_m":1777533377.20374,
     "geom:bbox":"-72.298728,10.084965,-71.627113,10.513841",
     "geom:latitude":10.368281,
     "geom:longitude":-71.958102,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"VE.ZU.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415657,
-    "wof:geomhash":"39dead8d271c1067b3975ad1f131eaf7",
+    "wof:geomhash":"5f69a4795487043a4480866551875ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694233,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886181,
     "wof:name":"La Ca\u00f1ada De Urdaneta",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

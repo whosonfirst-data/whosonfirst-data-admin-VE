@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041232,
-    "geom:area_square_m":504245329.494434,
+    "geom:area_square_m":504245354.298347,
     "geom:bbox":"-71.983249,8.348931,-71.772065,8.643743",
     "geom:latitude":8.499602,
     "geom:longitude":-71.881567,
@@ -89,12 +89,13 @@
         "hasc:id":"VE.TA.SM",
         "qs_pg:id":968977
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009362,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d39e52424c0ba4708fea9150f9ddd816",
+    "wof:geomhash":"e3c653a452b4deceb261d98b0cc818a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421183211,
-    "wof:lastmodified":1627522972,
+    "wof:lastmodified":1695886181,
     "wof:name":"Samuel Dario Maldonado",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

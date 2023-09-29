@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015857,
-    "geom:area_square_m":192808044.88211,
+    "geom:area_square_m":192808293.054657,
     "geom:bbox":"-66.720408,10.408999,-66.578677,10.548768",
     "geom:latitude":10.477928,
     "geom:longitude":-66.651149,
@@ -148,12 +148,13 @@
         "qs_pg:id":1110095,
         "wd:id":"Q1149242"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009604,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc6ba93b4db205439c506b545536404c",
+    "wof:geomhash":"3a074aac46c23a174022a1a7a72d8e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":421189081,
-    "wof:lastmodified":1690915060,
+    "wof:lastmodified":1695886192,
     "wof:name":"Plaza",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

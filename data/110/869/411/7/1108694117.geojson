@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092697,
-    "geom:area_square_m":1135547106.670556,
+    "geom:area_square_m":1135547106.670458,
     "geom:bbox":"-68.0395397509,7.65175608967,-67.4976772262,7.98760427719",
     "geom:latitude":7.825332,
     "geom:longitude":-67.691643,
@@ -85,9 +85,10 @@
         "hasc:id":"VE.BA.AR",
         "wd:id":"Q2183400"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415524,
-    "wof:geomhash":"b38fda1cb436dc24a991270325551066",
+    "wof:geomhash":"c39933d11456eb9bd0aadb531833951c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108694117,
-    "wof:lastmodified":1566645815,
+    "wof:lastmodified":1695886377,
     "wof:name":"Biruaca",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

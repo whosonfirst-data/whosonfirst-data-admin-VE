@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037861,
-    "geom:area_square_m":463134641.601664,
+    "geom:area_square_m":463134581.474393,
     "geom:bbox":"-71.765415,8.269051,-71.550344,8.548813",
     "geom:latitude":8.403622,
     "geom:longitude":-71.650447,
@@ -124,12 +124,13 @@
         "qs_pg:id":1289852,
         "wd:id":"Q2146204"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008915,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40fdd7933fcd88939b452a157e2b4c70",
+    "wof:geomhash":"b3906b54ab8f0c59aabe571d54e8f674",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421171997,
-    "wof:lastmodified":1690915116,
+    "wof:lastmodified":1695886198,
     "wof:name":"Antonio Pinto Salinas",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

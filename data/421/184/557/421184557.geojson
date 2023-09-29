@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032274,
-    "geom:area_square_m":392761635.5091,
+    "geom:area_square_m":392760906.345994,
     "geom:bbox":"-67.434664,10.08791,-67.198702,10.35023",
     "geom:latitude":10.203843,
     "geom:longitude":-67.316736,
@@ -121,12 +121,13 @@
         "qs_pg:id":1001535,
         "wd:id":"Q3624022"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009414,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a9e0c4f7a0ad71a06098003668e8e4a1",
+    "wof:geomhash":"0e35a4f28b29b96b592b337710cf6ebe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421184557,
-    "wof:lastmodified":1690915103,
+    "wof:lastmodified":1695886198,
     "wof:name":"Jose Felix Ribas",
     "wof:parent_id":85680525,
     "wof:placetype":"county",

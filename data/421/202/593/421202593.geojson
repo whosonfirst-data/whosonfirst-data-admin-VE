@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.637183,
-    "geom:area_square_m":7809046532.709093,
+    "geom:area_square_m":7809046426.978923,
     "geom:bbox":"-69.894257,7.15635,-68.816127,8.071767",
     "geom:latitude":7.6316,
     "geom:longitude":-69.291044,
@@ -149,12 +149,13 @@
         "qs_pg:id":224834,
         "wd:id":"Q2537345"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010123,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8059bf84b7d10ce3c550e10ba6f4935c",
+    "wof:geomhash":"d2c5fd6dfbe6bd8f98d978f6f6f2d597",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421202593,
-    "wof:lastmodified":1690915044,
+    "wof:lastmodified":1695886190,
     "wof:name":"Mu\u00f1oz",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

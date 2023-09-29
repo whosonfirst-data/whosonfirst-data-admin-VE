@@ -368,6 +368,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415867,
     "wof:geomhash":"ec184f7d5ab41bd1241796642a25130f",
@@ -380,7 +381,7 @@
         }
     ],
     "wof:id":1108694443,
-    "wof:lastmodified":1694492404,
+    "wof:lastmodified":1695886377,
     "wof:name":"Sucre",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

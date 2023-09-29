@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.429163,
-    "geom:area_square_m":5239848684.845344,
+    "geom:area_square_m":5239848354.191131,
     "geom:bbox":"-73.351558,8.457573,-72.306711,9.538995",
     "geom:latitude":9.100102,
     "geom:longitude":-72.697118,
@@ -91,9 +91,10 @@
         "hasc:id":"VE.ZU.JS",
         "wd:id":"Q2370436"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415642,
-    "wof:geomhash":"7aa1eaa4156d3a12672a070abfc90285",
+    "wof:geomhash":"e5eb2acbf8d1a8c5a8e077f9a0773016",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108694219,
-    "wof:lastmodified":1690915003,
+    "wof:lastmodified":1695886375,
     "wof:name":"Jesus Maria Semprum",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

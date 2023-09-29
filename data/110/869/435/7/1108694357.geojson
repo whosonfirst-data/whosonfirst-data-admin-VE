@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050801,
-    "geom:area_square_m":618623286.381923,
+    "geom:area_square_m":618623289.450553,
     "geom:bbox":"-63.327142,9.887908,-62.934245,10.122384",
     "geom:latitude":9.99922,
     "geom:longitude":-63.140394,
@@ -118,9 +118,10 @@
         "hasc:id":"VE.MO.PU",
         "wd:id":"Q2064667"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415782,
-    "wof:geomhash":"95e55a46db8dc1df667739fde0ac4ea2",
+    "wof:geomhash":"d36c1fa0489b7b6caeea180c01108a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108694357,
-    "wof:lastmodified":1690915023,
+    "wof:lastmodified":1695886380,
     "wof:name":"Punceres",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

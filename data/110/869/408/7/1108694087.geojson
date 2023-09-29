@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00973,
-    "geom:area_square_m":119091715.053601,
+    "geom:area_square_m":119091821.231343,
     "geom:bbox":"-72.215559,8.102786,-72.091822,8.249829",
     "geom:latitude":8.179145,
     "geom:longitude":-72.150216,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"VE.TA.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415494,
-    "wof:geomhash":"917e34791ebe55b8dce55a3b54a90431",
+    "wof:geomhash":"c819eee3f53c23ad3bac7dcf057185e8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694087,
-    "wof:lastmodified":1627522970,
+    "wof:lastmodified":1695886179,
     "wof:name":"Antonio Romulo Acosta",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

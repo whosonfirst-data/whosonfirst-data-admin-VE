@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051846,
-    "geom:area_square_m":630127108.792003,
+    "geom:area_square_m":630127587.766088,
     "geom:bbox":"-66.32,10.377857,-65.992483,11.827222",
     "geom:latitude":10.605481,
     "geom:longitude":-66.179063,
@@ -191,12 +191,13 @@
         "qs_pg:id":1263784,
         "wd:id":"Q260682"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02abe400d3bb55020b89cda3e0813995",
+    "wof:geomhash":"c43066f3883c7de166890c4d1ef2fb8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":421171643,
-    "wof:lastmodified":1690915117,
+    "wof:lastmodified":1695886198,
     "wof:name":"Brion",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

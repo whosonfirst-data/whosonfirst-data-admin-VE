@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330554,
-    "geom:area_square_m":4047411963.777532,
+    "geom:area_square_m":4047411363.389447,
     "geom:bbox":"-67.511648,7.697238,-66.53,8.451043",
     "geom:latitude":8.015621,
     "geom:longitude":-67.085093,
@@ -122,9 +122,10 @@
         "hasc:id":"VE.GU.SG",
         "wd:id":"Q639423"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415824,
-    "wof:geomhash":"fa4d5be7b7ceed8f5d030579d590b4d9",
+    "wof:geomhash":"aa1fe8fe9d8e1d4a6efd41120ab206c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108694395,
-    "wof:lastmodified":1690914992,
+    "wof:lastmodified":1695886372,
     "wof:name":"San Geronimo De Guayabal",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036201,
-    "geom:area_square_m":443061698.013152,
+    "geom:area_square_m":443061892.411537,
     "geom:bbox":"-72.041528,8.01,-71.8611,8.386081",
     "geom:latitude":8.195184,
     "geom:longitude":-71.953317,
@@ -127,12 +127,13 @@
         "qs_pg:id":219082,
         "wd:id":"Q2608254"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010103,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"873d00cbbc905dd22a4d9fabc301c849",
+    "wof:geomhash":"fa11921ee7a1b3cdfba76f14f86620e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421202067,
-    "wof:lastmodified":1690915049,
+    "wof:lastmodified":1695886191,
     "wof:name":"Jauregui",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

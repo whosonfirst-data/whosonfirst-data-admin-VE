@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079526,
-    "geom:area_square_m":967080100.226922,
+    "geom:area_square_m":967080048.224381,
     "geom:bbox":"-68.637292,10.209345,-68.26,10.608206",
     "geom:latitude":10.439593,
     "geom:longitude":-68.510605,
@@ -125,9 +125,10 @@
         "hasc:id":"VE.YA.VE",
         "wd:id":"Q1827306"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415903,
-    "wof:geomhash":"0e8ca397fbfaa098c4647925c0e8bc17",
+    "wof:geomhash":"73c6884279657b0f6b02c7348e2a9843",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108694481,
-    "wof:lastmodified":1690914982,
+    "wof:lastmodified":1695886369,
     "wof:name":"Veroes",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

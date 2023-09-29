@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089368,
-    "geom:area_square_m":1088965825.853253,
+    "geom:area_square_m":1088965710.833849,
     "geom:bbox":"-65.9867,9.5875,-65.669356,9.971755",
     "geom:latitude":9.787662,
     "geom:longitude":-65.841433,
@@ -128,9 +128,10 @@
         "hasc:id":"VE.GU.SJ",
         "wd:id":"Q1581067"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415827,
-    "wof:geomhash":"fe82d3843b9b973aeda1f6ab9328068f",
+    "wof:geomhash":"f64b97e8839da9ff0c4ba77bde467eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108694397,
-    "wof:lastmodified":1690914991,
+    "wof:lastmodified":1695886371,
     "wof:name":"San Jose De Guaribe",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

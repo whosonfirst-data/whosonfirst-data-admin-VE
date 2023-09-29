@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173865,
-    "geom:area_square_m":2118416633.993644,
+    "geom:area_square_m":2118416545.730224,
     "geom:bbox":"-64.8725,9.55801,-64.11,10.086631",
     "geom:latitude":9.812453,
     "geom:longitude":-64.486692,
@@ -189,12 +189,13 @@
         "qs_pg:id":1118978,
         "wd:id":"Q2530307"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"661d9dc1eaa3338b7fbf1b9f92cd5636",
+    "wof:geomhash":"6a587c3dc0229ace5e79f88c259e9d2e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":421190215,
-    "wof:lastmodified":1690915096,
+    "wof:lastmodified":1695886197,
     "wof:name":"Libertad",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

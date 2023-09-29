@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068989,
-    "geom:area_square_m":838113946.627176,
+    "geom:area_square_m":838113754.868544,
     "geom:bbox":"-68.621517,10.5775,-68.224202,10.879827",
     "geom:latitude":10.740826,
     "geom:longitude":-68.419216,
@@ -713,12 +713,13 @@
         "wd:id":"Q6327150",
         "wk:page":"Silva"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1469051199,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab881f2bf6ceeae2af7d18c8efd69b79",
+    "wof:geomhash":"7fa6ddd6c64d1522e8d000498da7b9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -728,7 +729,7 @@
         }
     ],
     "wof:id":890417393,
-    "wof:lastmodified":1690915132,
+    "wof:lastmodified":1695886201,
     "wof:name":"Silva",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

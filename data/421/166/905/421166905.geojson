@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261301,
-    "geom:area_square_m":3188074619.17135,
+    "geom:area_square_m":3188074046.162575,
     "geom:bbox":"-65.09324,8.834764,-64.35376,9.743794",
     "geom:latitude":9.350396,
     "geom:longitude":-64.770302,
@@ -151,12 +151,13 @@
         "qs_pg:id":43625,
         "wd:id":"Q606975"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008706,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ee66e5405ef0e4e1d80340d3a4f9540",
+    "wof:geomhash":"478c331d8e562a554c7b383e43fbf826",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421166905,
-    "wof:lastmodified":1690915026,
+    "wof:lastmodified":1695886195,
     "wof:name":"Aragua",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

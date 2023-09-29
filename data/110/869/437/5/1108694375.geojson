@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136775,
-    "geom:area_square_m":1672626311.035405,
+    "geom:area_square_m":1672626317.28599,
     "geom:bbox":"-69.916713,8.209471,-69.470077,8.743422",
     "geom:latitude":8.510169,
     "geom:longitude":-69.647041,
@@ -105,9 +105,10 @@
         "hasc:id":"VE.BA.RO",
         "wd:id":"Q1956852"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415797,
-    "wof:geomhash":"f99f26f337627e05e35a659e0b1c825c",
+    "wof:geomhash":"5b9a8e6ef2438c8a95e92b384ebbff74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108694375,
-    "wof:lastmodified":1690914995,
+    "wof:lastmodified":1695886194,
     "wof:name":"Rojas",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050304,
-    "geom:area_square_m":615163393.243588,
+    "geom:area_square_m":615163393.243464,
     "geom:bbox":"-71.4007807188,8.31924926942,-71.1511003378,8.71645575353",
     "geom:latitude":8.51529,
     "geom:longitude":-71.280666,
@@ -111,12 +111,13 @@
         "hasc:id":"VE.ME.CE",
         "qs_pg:id":1289854
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008915,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d81f2fbb4f764642550b332bb51b557f",
+    "wof:geomhash":"47402e7b526899b62e10797ab6b90322",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421171999,
-    "wof:lastmodified":1582393026,
+    "wof:lastmodified":1695886198,
     "wof:name":"Campo Elias",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

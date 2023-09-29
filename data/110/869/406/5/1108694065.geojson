@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204605,
-    "geom:area_square_m":2496677350.471467,
+    "geom:area_square_m":2496677628.82152,
     "geom:bbox":"-63.971872,8.985304,-63.319415,9.549186",
     "geom:latitude":9.306728,
     "geom:longitude":-63.632548,
@@ -122,9 +122,10 @@
         "hasc:id":"VE.MO.AG",
         "wd:id":"Q2012193"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415471,
-    "wof:geomhash":"d305c343d08e1aff9aba973515b7d364",
+    "wof:geomhash":"bc50b98028ddb2788c67a92983c00484",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108694065,
-    "wof:lastmodified":1690914991,
+    "wof:lastmodified":1695886371,
     "wof:name":"Aguasay",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

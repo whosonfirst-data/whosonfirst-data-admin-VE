@@ -206,6 +206,7 @@
     "wof:concordances":{
         "hasc:id":"VE.CA.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415719,
     "wof:geomhash":"1d6998115a81311872757e1bad83a448",
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":1108694299,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886194,
     "wof:name":"Miranda",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009937,
-    "geom:area_square_m":120903721.713196,
+    "geom:area_square_m":120903891.180275,
     "geom:bbox":"-67.741589,10.190362,-67.65097,10.34476",
     "geom:latitude":10.274754,
     "geom:longitude":-67.698393,
@@ -135,9 +135,10 @@
         "hasc:id":"VE.CA.DI",
         "wd:id":"Q1220474"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415587,
-    "wof:geomhash":"532fb757fa90943a7b05263625f3ffd9",
+    "wof:geomhash":"8c0342a99dcf485813f60f9b93b20716",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108694171,
-    "wof:lastmodified":1690915007,
+    "wof:lastmodified":1695886376,
     "wof:name":"Diego Ibarra",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

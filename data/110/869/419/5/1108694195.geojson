@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05761,
-    "geom:area_square_m":703758575.301578,
+    "geom:area_square_m":703758418.059903,
     "geom:bbox":"-71.689897,8.710123,-71.379271,9.062494",
     "geom:latitude":8.913392,
     "geom:longitude":-71.559624,
@@ -94,9 +94,10 @@
         "hasc:id":"VE.ZU.FP",
         "wd:id":"Q2262088"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415610,
-    "wof:geomhash":"56eedf1c753f7753ec7b0b8b5bf138f4",
+    "wof:geomhash":"363387150c60435957e16e104b62b7b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108694195,
-    "wof:lastmodified":1690915002,
+    "wof:lastmodified":1695886374,
     "wof:name":"Francisco Javier Pulgar",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

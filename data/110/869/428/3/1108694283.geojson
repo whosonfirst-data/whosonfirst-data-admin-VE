@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110208,
-    "geom:area_square_m":1345200153.97216,
+    "geom:area_square_m":1345200593.666025,
     "geom:bbox":"-65.29372,8.924366,-64.747244,9.4425",
     "geom:latitude":9.203417,
     "geom:longitude":-65.019423,
@@ -121,9 +121,10 @@
         "hasc:id":"VE.AN.AR",
         "wd:id":"Q606975"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415703,
-    "wof:geomhash":"67b2605ea41798412726c1cfa275cedd",
+    "wof:geomhash":"540dbf67551f52d7bbc16dd58939e5a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108694283,
-    "wof:lastmodified":1690915005,
+    "wof:lastmodified":1695886376,
     "wof:name":"Mc. Gregor",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

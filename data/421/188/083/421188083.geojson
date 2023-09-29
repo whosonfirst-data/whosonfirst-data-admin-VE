@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131577,
-    "geom:area_square_m":1605949635.953843,
+    "geom:area_square_m":1605949693.852823,
     "geom:bbox":"-70.551604,8.961172,-70.040593,9.523595",
     "geom:latitude":9.220193,
     "geom:longitude":-70.260414,
@@ -131,12 +131,13 @@
         "wd:id":"Q889344",
         "wk:page":"Bocon\u00f3"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009533,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"137d02d03ac7ce0d66826bca8f4ef3de",
+    "wof:geomhash":"c762e8a7c251da7fa96993722aebeb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421188083,
-    "wof:lastmodified":1690915062,
+    "wof:lastmodified":1695886193,
     "wof:name":"Bocono",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

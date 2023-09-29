@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010774,
-    "geom:area_square_m":131418868.400162,
+    "geom:area_square_m":131418798.711413,
     "geom:bbox":"-70.662016,9.35,-70.560714,9.558348",
     "geom:latitude":9.447315,
     "geom:longitude":-70.609806,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"VE.TR.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415734,
-    "wof:geomhash":"64a40195aeb143e442c8ec8888cd5c54",
+    "wof:geomhash":"cefd3e496975fcf0f0b38fb549f74d02",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108694315,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886181,
     "wof:name":"Motatan",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

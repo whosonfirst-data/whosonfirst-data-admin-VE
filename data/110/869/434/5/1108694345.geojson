@@ -60,6 +60,7 @@
     "wof:concordances":{
         "hasc:id":"VE.DP.DP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415767,
     "wof:geomhash":"b77c980ef1d5ef133b074e33bc3c538e",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1108694345,
-    "wof:lastmodified":1694492874,
+    "wof:lastmodified":1695886375,
     "wof:name":"Pedro Gual",
     "wof:parent_id":85680539,
     "wof:placetype":"county",

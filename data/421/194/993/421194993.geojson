@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0294,
-    "geom:area_square_m":359191513.147595,
+    "geom:area_square_m":359191078.885157,
     "geom:bbox":"-70.811263,8.750203,-70.546325,9.014216",
     "geom:latitude":8.871442,
     "geom:longitude":-70.676896,
@@ -123,12 +123,13 @@
         "qs_pg:id":114641,
         "wd:id":"Q2706815"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009827,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e50a321da9c82db164f1f8e789fadd3",
+    "wof:geomhash":"1c4e209db8eef6ae54345ad27a7b4e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421194993,
-    "wof:lastmodified":1690915033,
+    "wof:lastmodified":1695886189,
     "wof:name":"Cardenal Quintero",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

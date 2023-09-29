@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048144,
-    "geom:area_square_m":585062190.437411,
+    "geom:area_square_m":585062778.662578,
     "geom:bbox":"-62.470752,10.534555,-61.851196,10.746166",
     "geom:latitude":10.647077,
     "geom:longitude":-62.234553,
@@ -147,9 +147,10 @@
         "hasc:id":"VE.SU.VA",
         "wd:id":"Q2230534"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415897,
-    "wof:geomhash":"5559e6c355423d04d7e7b7f02fe4a625",
+    "wof:geomhash":"5873627b2d185d67aa3fd2a538708c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108694473,
-    "wof:lastmodified":1690914978,
+    "wof:lastmodified":1695886191,
     "wof:name":"Valdez",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

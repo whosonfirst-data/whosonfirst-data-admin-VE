@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"VE.SU.CJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415545,
     "wof:geomhash":"243619f8c92db8f753216ca078047b10",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694137,
-    "wof:lastmodified":1694492835,
+    "wof:lastmodified":1695886271,
     "wof:name":"Cajigal",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

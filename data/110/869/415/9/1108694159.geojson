@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190213,
-    "geom:area_square_m":2320762066.099048,
+    "geom:area_square_m":2320761653.33046,
     "geom:bbox":"-66.716324,9.025551,-65.9975,9.655628",
     "geom:latitude":9.350237,
     "geom:longitude":-66.291934,
@@ -178,9 +178,10 @@
         "hasc:id":"VE.GU.CH",
         "wd:id":"Q1058857"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415571,
-    "wof:geomhash":"c25f14fbcaf0def08c0f1a798265fcba",
+    "wof:geomhash":"15de68236e4c33b901a48871e54f8d47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":1108694159,
-    "wof:lastmodified":1690914987,
+    "wof:lastmodified":1695886192,
     "wof:name":"Chaguaramas",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

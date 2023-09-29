@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170155,
-    "geom:area_square_m":2063137278.054111,
+    "geom:area_square_m":2063137507.474169,
     "geom:bbox":"-72.497505,11.001027,-71.331798,11.840865",
     "geom:latitude":11.308761,
     "geom:longitude":-71.978263,
@@ -90,12 +90,13 @@
         "hasc:id":"VE.ZU.PA",
         "qs_pg:id":1263753
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010076,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f4a349ab8b4ea6c161379e27bb8e05d",
+    "wof:geomhash":"4685939c8c6adba4f1cb81dcbb88547b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421201567,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886181,
     "wof:name":"Paez",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

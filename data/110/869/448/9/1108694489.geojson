@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26311,
-    "geom:area_square_m":3207001037.142614,
+    "geom:area_square_m":3207001094.577879,
     "geom:bbox":"-62.441104,9.372092,-61.799265,10.057889",
     "geom:latitude":9.68797,
     "geom:longitude":-62.111578,
@@ -141,9 +141,10 @@
         "hasc:id":"VE.DA.PE",
         "wd:id":"Q2552137"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415914,
-    "wof:geomhash":"0cc00f1cae43a05cb679edd2b6af9018",
+    "wof:geomhash":"5290bc66956533f1bd40911ae4d865aa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108694489,
-    "wof:lastmodified":1690914982,
+    "wof:lastmodified":1695886191,
     "wof:name":"Pedernales",
     "wof:parent_id":85680565,
     "wof:placetype":"county",

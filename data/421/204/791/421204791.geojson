@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017125,
-    "geom:area_square_m":208433309.781102,
+    "geom:area_square_m":208433461.872589,
     "geom:bbox":"-64.675446,10.096508,-64.439018,10.305414",
     "geom:latitude":10.165435,
     "geom:longitude":-64.549732,
@@ -88,12 +88,13 @@
         "qs_pg:id":248848,
         "wd:id":"Q6298891"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010198,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"19c30426d597faafa8eceaaac2672aa1",
+    "wof:geomhash":"1b8cf895b68e69ebe767dbbe4c0386e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":421204791,
-    "wof:lastmodified":1627522972,
+    "wof:lastmodified":1695886182,
     "wof:name":"Sotillo",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

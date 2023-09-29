@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111727,
-    "geom:area_square_m":1358668707.624722,
+    "geom:area_square_m":1358668866.793431,
     "geom:bbox":"-63.766976,10.198333,-63.328123,10.659555",
     "geom:latitude":10.435741,
     "geom:longitude":-63.578233,
@@ -93,9 +93,10 @@
         "hasc:id":"VE.SU.RI",
         "wd:id":"Q3071700"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415810,
-    "wof:geomhash":"3abc969935a92a0a315ed0e13921e325",
+    "wof:geomhash":"fbcbf93b907cc37528ebc0f990491eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108694383,
-    "wof:lastmodified":1690915001,
+    "wof:lastmodified":1695886374,
     "wof:name":"Rubero",
     "wof:parent_id":85680561,
     "wof:placetype":"county",

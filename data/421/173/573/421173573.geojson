@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055589,
-    "geom:area_square_m":679585815.142905,
+    "geom:area_square_m":679585923.448597,
     "geom:bbox":"-71.909424,8.500137,-71.51,8.769167",
     "geom:latitude":8.628347,
     "geom:longitude":-71.684258,
@@ -129,12 +129,13 @@
         "qs_pg:id":510638,
         "wd:id":"Q2124390"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459008990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e0ae954052ad2eb83c8e92bf5c26cba",
+    "wof:geomhash":"e88473d4c6d16942b00c9626acc469a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421173573,
-    "wof:lastmodified":1690915056,
+    "wof:lastmodified":1695886192,
     "wof:name":"Alberto Adriani",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

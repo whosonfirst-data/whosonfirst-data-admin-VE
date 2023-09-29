@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010438,
-    "geom:area_square_m":126944188.744578,
+    "geom:area_square_m":126944270.161378,
     "geom:bbox":"-66.846323,10.34803,-66.70148,10.461922",
     "geom:latitude":10.400433,
     "geom:longitude":-66.788869,
@@ -163,12 +163,13 @@
         "wd:id":"Q975765",
         "wk:page":"El Hatillo Town, Venezuela"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009793,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"38bdf713675eb55c03d9bf4e7c26635d",
+    "wof:geomhash":"490e7bff46bee349e641732bb14a19ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421194073,
-    "wof:lastmodified":1690915034,
+    "wof:lastmodified":1695886189,
     "wof:name":"El Hatillo",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

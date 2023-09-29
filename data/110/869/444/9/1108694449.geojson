@@ -369,6 +369,7 @@
     "wof:concordances":{
         "hasc:id":"VE.YA.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415871,
     "wof:geomhash":"68e828ea4ec0d3c69efac612c9b7c727",
@@ -381,7 +382,7 @@
         }
     ],
     "wof:id":1108694449,
-    "wof:lastmodified":1694492405,
+    "wof:lastmodified":1695886377,
     "wof:name":"Sucre",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

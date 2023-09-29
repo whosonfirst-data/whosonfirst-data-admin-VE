@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.908772,
-    "geom:area_square_m":11051992530.424547,
+    "geom:area_square_m":11051991019.994688,
     "geom:bbox":"-64.518238,10.037587,-61.851196,10.76625",
     "geom:latitude":10.41398,
     "geom:longitude":-63.355145,
@@ -355,17 +355,19 @@
         "gn:id":3626655,
         "gp:id":2347695,
         "hasc:id":"VE.SU",
+        "iso:code":"VE-R",
         "iso:id":"VE-R",
         "qs_pg:id":1047658,
         "unlc:id":"VE-R",
         "wd:id":"Q205824",
         "wk:page":"Sucre (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e7b7bba1fd8f5d081cc4ec2b5eee357a",
+    "wof:geomhash":"78cdbe2af56a6bf4bde9c6284ea3765b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -380,7 +382,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914960,
+    "wof:lastmodified":1695884968,
     "wof:name":"Sucre",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

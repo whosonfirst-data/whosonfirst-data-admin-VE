@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AN.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415852,
     "wof:geomhash":"531189194401944a9b7404489f7d8f9b",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108694425,
-    "wof:lastmodified":1694492884,
+    "wof:lastmodified":1695886399,
     "wof:name":"Simon Bolivar",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

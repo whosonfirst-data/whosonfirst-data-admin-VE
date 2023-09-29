@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.730074,
-    "geom:area_square_m":8883660592.738249,
+    "geom:area_square_m":8883659961.082762,
     "geom:bbox":"-67.22,9.939981,-65.431009,10.654583",
     "geom:latitude":10.24054,
     "geom:longitude":-66.380737,
@@ -401,17 +401,19 @@
         "gn:id":3632191,
         "gp:id":2347691,
         "hasc:id":"VE.MI",
+        "iso:code":"VE-M",
         "iso:id":"VE-M",
         "qs_pg:id":219633,
         "unlc:id":"VE-M",
         "wd:id":"Q191174",
         "wk:page":"Miranda (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f72cd8b42347a42afd158dc2304c551",
+    "wof:geomhash":"eeca0bdceedfde9f6ae96b4e492b19c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -426,7 +428,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914967,
+    "wof:lastmodified":1695884969,
     "wof:name":"Miranda",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

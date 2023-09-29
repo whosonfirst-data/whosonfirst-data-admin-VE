@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059807,
-    "geom:area_square_m":730958851.000144,
+    "geom:area_square_m":730958642.605459,
     "geom:bbox":"-71.035172,8.584243,-70.708999,8.89111",
     "geom:latitude":8.72635,
     "geom:longitude":-70.873403,
@@ -109,12 +109,13 @@
         "qs_pg:id":1119105,
         "wd:id":"Q929490"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009651,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f794c34380bfce9b3e715e9a7e342301",
+    "wof:geomhash":"584db51c0b9c9335bfec1f20e031ccfd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":421190239,
-    "wof:lastmodified":1690915096,
+    "wof:lastmodified":1695886197,
     "wof:name":"Rangel",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

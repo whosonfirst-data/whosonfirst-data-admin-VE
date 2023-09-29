@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070247,
-    "geom:area_square_m":855858238.023073,
+    "geom:area_square_m":855858358.33069,
     "geom:bbox":"-69.282172,9.679737,-68.950178,10.0192",
     "geom:latitude":9.832616,
     "geom:longitude":-69.11612,
@@ -122,9 +122,10 @@
         "hasc:id":"VE.LA.SP",
         "wd:id":"Q3088394"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415854,
-    "wof:geomhash":"678dbfb617f45238de491402451d0da7",
+    "wof:geomhash":"4a5e0558e395a7606e7836ff5a18b207",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108694427,
-    "wof:lastmodified":1690915015,
+    "wof:lastmodified":1695886379,
     "wof:name":"Simon Planas",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

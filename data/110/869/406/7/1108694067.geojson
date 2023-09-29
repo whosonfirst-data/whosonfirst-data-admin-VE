@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009495,
-    "geom:area_square_m":115236929.993389,
+    "geom:area_square_m":115237102.522826,
     "geom:bbox":"-71.793917,10.94875,-71.530441,11.11563",
     "geom:latitude":11.023843,
     "geom:longitude":-71.693541,
@@ -100,9 +100,10 @@
         "hasc:id":"VE.ZU.AP",
         "wd:id":"Q2306582"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415473,
-    "wof:geomhash":"b9a2407489597160abcc0c92ee01ca57",
+    "wof:geomhash":"d10d0440f34ae48a31f0c45debc46381",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108694067,
-    "wof:lastmodified":1690914990,
+    "wof:lastmodified":1695886371,
     "wof:name":"Almirante Padilla",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

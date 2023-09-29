@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103236,
-    "geom:area_square_m":1254214259.29287,
+    "geom:area_square_m":1254214195.210892,
     "geom:bbox":"-70.756719,10.324516,-70.511416,11.109509",
     "geom:latitude":10.727877,
     "geom:longitude":-70.624605,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.FA.DA",
         "wd:id":"Q2651190"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415583,
-    "wof:geomhash":"08e00e5836053a0ad7984d1f40262ae4",
+    "wof:geomhash":"1c9f36fb13ad7b4eb9eaa7c63d7c5a91",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694165,
-    "wof:lastmodified":1690915011,
+    "wof:lastmodified":1695886378,
     "wof:name":"Dabajuro",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

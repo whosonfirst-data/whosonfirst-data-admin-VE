@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083401,
-    "geom:area_square_m":1012932169.455785,
+    "geom:area_square_m":1012932402.644318,
     "geom:bbox":"-69.351365,10.670187,-68.858172,11.065",
     "geom:latitude":10.819739,
     "geom:longitude":-69.15126,
@@ -91,9 +91,10 @@
         "hasc:id":"VE.FA.UN",
         "wd:id":"Q2024872"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415886,
-    "wof:geomhash":"480b871a7baa8cf6ea382f8c09325871",
+    "wof:geomhash":"b89c239528d39ec07af4f41b53d7f46f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108694463,
-    "wof:lastmodified":1690914984,
+    "wof:lastmodified":1695886370,
     "wof:name":"Union",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

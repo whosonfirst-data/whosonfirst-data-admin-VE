@@ -98,6 +98,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AN.IN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415632,
     "wof:geomhash":"318bb51c6e43ecb9ea4bb45ff040dc07",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108694211,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886194,
     "wof:name":"Independencia",
     "wof:parent_id":85680553,
     "wof:placetype":"county",

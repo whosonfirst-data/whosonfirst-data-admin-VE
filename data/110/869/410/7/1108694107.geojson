@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415514,
     "wof:geomhash":"da2b4e827989d0e2eb2b5a261a6930d2",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694107,
-    "wof:lastmodified":1694492827,
+    "wof:lastmodified":1695886251,
     "wof:name":"Avila",
     "wof:parent_id":85680535,
     "wof:placetype":"county",

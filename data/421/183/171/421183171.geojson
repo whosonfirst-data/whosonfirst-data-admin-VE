@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119218,
-    "geom:area_square_m":1460134071.219114,
+    "geom:area_square_m":1460134189.919223,
     "geom:bbox":"-71.991245,7.63237,-71.505249,8.180036",
     "geom:latitude":7.908588,
     "geom:longitude":-71.751125,
@@ -120,12 +120,13 @@
         "qs_pg:id":966265,
         "wd:id":"Q3072187"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009360,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bde56a2a3d5bb9b0a609c26e2cafc16e",
+    "wof:geomhash":"8dc610d4413b33693a3c7d5a863506fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421183171,
-    "wof:lastmodified":1690915112,
+    "wof:lastmodified":1695886199,
     "wof:name":"Uribante",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.625877,
-    "geom:area_square_m":180489273285.242767,
+    "geom:area_square_m":180489272366.488281,
     "geom:bbox":"-67.862538,0.647529,-63.363197,6.2",
     "geom:latitude":3.374527,
     "geom:longitude":-65.945603,
@@ -411,17 +411,19 @@
         "gn:id":3649302,
         "gp:id":2347677,
         "hasc:id":"VE.AM",
+        "iso:code":"VE-Z",
         "iso:id":"VE-Z",
         "qs_pg:id":1083881,
         "unlc:id":"VE-Z",
         "wd:id":"Q170453",
         "wk:page":"Amazonas (Venezuelan state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52ef520f8e279d7e91a5079e1ab991fa",
+    "wof:geomhash":"fb7a66d33869f149024a8c87c7f7672e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -436,7 +438,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914962,
+    "wof:lastmodified":1695884968,
     "wof:name":"Amazonas",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020373,
-    "geom:area_square_m":246565623.582261,
+    "geom:area_square_m":246565700.143801,
     "geom:bbox":"-70.298752,11.723323,-70.118192,11.951871",
     "geom:latitude":11.830732,
     "geom:longitude":-70.207826,
@@ -83,12 +83,13 @@
         "hasc:id":"VE.FA.LT",
         "qs_pg:id":1314598
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1469052347,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7418f64ffd2d5a6ba55e007150194369",
+    "wof:geomhash":"0c4b895557e03bda5d5892d0b0becba5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":890442023,
-    "wof:lastmodified":1627522971,
+    "wof:lastmodified":1695886181,
     "wof:name":"Los Taques",
     "wof:parent_id":85680461,
     "wof:placetype":"county",

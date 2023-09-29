@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AN.IN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415677,
     "wof:geomhash":"b03aab7b931654a428d9c9040ed63afd",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694261,
-    "wof:lastmodified":1694492860,
+    "wof:lastmodified":1695886332,
     "wof:name":"Libertadtachira",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

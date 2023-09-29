@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.462289,
-    "geom:area_square_m":5666653034.93588,
+    "geom:area_square_m":5666653393.403642,
     "geom:bbox":"-67.52463,7.176152,-66.327632,7.911003",
     "geom:latitude":7.554817,
     "geom:longitude":-66.947605,
@@ -133,9 +133,10 @@
         "hasc:id":"VE.AP.SF",
         "wd:id":"Q3471417"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415817,
-    "wof:geomhash":"a92f814622701eb61df87995714ee5a9",
+    "wof:geomhash":"38ae504e9045571ee4f9ec3ded9040b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108694389,
-    "wof:lastmodified":1690915000,
+    "wof:lastmodified":1695886194,
     "wof:name":"San Fernando",
     "wof:parent_id":85680465,
     "wof:placetype":"county",

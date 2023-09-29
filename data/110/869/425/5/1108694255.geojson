@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415674,
     "wof:geomhash":"71f27cbb8da37b37153e00b4867a2094",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108694255,
-    "wof:lastmodified":1694492404,
+    "wof:lastmodified":1695886368,
     "wof:name":"Libertador",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

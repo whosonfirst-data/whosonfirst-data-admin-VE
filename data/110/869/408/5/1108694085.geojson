@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"VE.AR.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415491,
     "wof:geomhash":"2c0a95bc45592c28dfff261f2d54005c",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108694085,
-    "wof:lastmodified":1694492827,
+    "wof:lastmodified":1695886251,
     "wof:name":"Antonio Jose De Sucre",
     "wof:parent_id":85680487,
     "wof:placetype":"county",

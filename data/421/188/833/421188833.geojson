@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016645,
-    "geom:area_square_m":202527996.303102,
+    "geom:area_square_m":202527979.69532,
     "geom:bbox":"-67.850651,10.173745,-67.724394,10.351638",
     "geom:latitude":10.264159,
     "geom:longitude":-67.785623,
@@ -201,12 +201,13 @@
         "qs_pg:id":1104442,
         "wd:id":"Q1631420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009581,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52cb15aa9e99ced1a3501b635fde8468",
+    "wof:geomhash":"12411fa20681333de97e2d4293a36992",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":421188833,
-    "wof:lastmodified":1690915063,
+    "wof:lastmodified":1695886196,
     "wof:name":"San Joaquin",
     "wof:parent_id":85680493,
     "wof:placetype":"county",

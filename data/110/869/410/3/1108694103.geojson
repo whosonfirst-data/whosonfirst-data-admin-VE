@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064401,
-    "geom:area_square_m":786949175.872645,
+    "geom:area_square_m":786949175.872824,
     "geom:bbox":"-70.2521258541,8.61,-69.7469346825,9.06136831464",
     "geom:latitude":8.804999,
     "geom:longitude":-70.010768,
@@ -100,9 +100,10 @@
         "hasc:id":"VE.BA.AT",
         "wd:id":"Q704971"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415509,
-    "wof:geomhash":"fef00f7960030dc52ecdcad1d2d9ef97",
+    "wof:geomhash":"2424d922f6248c36cbea28597d8973a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108694103,
-    "wof:lastmodified":1566645813,
+    "wof:lastmodified":1695886376,
     "wof:name":"Arvelo",
     "wof:parent_id":85680469,
     "wof:placetype":"county",

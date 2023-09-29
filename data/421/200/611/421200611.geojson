@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18547,
-    "geom:area_square_m":2260724074.501799,
+    "geom:area_square_m":2260723887.608714,
     "geom:bbox":"-70.120592,9.407409,-69.617874,10.015192",
     "geom:latitude":9.6786,
     "geom:longitude":-69.867955,
@@ -191,12 +191,13 @@
         "qs_pg:id":209356,
         "wd:id":"Q2511946"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459010031,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba6f8ab3dc596391930f974d612ea32d",
+    "wof:geomhash":"e1e6e86803539eb60abb66109327868f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":421200611,
-    "wof:lastmodified":1690915098,
+    "wof:lastmodified":1695886197,
     "wof:name":"Moran",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

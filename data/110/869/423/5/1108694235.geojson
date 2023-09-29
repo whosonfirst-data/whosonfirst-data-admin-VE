@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042196,
-    "geom:area_square_m":514631297.177103,
+    "geom:area_square_m":514631297.17704,
     "geom:bbox":"-71.090057373,9.33428614045,-70.8996895245,9.61544722543",
     "geom:latitude":9.479442,
     "geom:longitude":-70.987355,
@@ -159,9 +159,10 @@
     "wof:concordances":{
         "hasc:id":"VE.TR.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415659,
-    "wof:geomhash":"7bbd8415460468b326e3e33506413425",
+    "wof:geomhash":"4241a1f9319ef66bb21740ff7cf6cb2c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108694235,
-    "wof:lastmodified":1566645799,
+    "wof:lastmodified":1695886371,
     "wof:name":"La Ceiba",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

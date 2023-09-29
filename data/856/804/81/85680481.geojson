@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.874231,
-    "geom:area_square_m":10706198001.996941,
+    "geom:area_square_m":10706197407.451357,
     "geom:bbox":"-72.48739,7.364501,-71.322628,8.659895",
     "geom:latitude":7.941429,
     "geom:longitude":-72.026173,
@@ -370,17 +370,19 @@
         "gn:id":3626553,
         "gp:id":2347696,
         "hasc:id":"VE.TA",
+        "iso:code":"VE-S",
         "iso:id":"VE-S",
         "qs_pg:id":235661,
         "unlc:id":"VE-S",
         "wd:id":"Q41144",
         "wk:page":"T\u00e1chira"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b861ed56095a5b13ea1953bd902aa067",
+    "wof:geomhash":"2b0085d04452846a18f54f0a6aa61d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -395,7 +397,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914957,
+    "wof:lastmodified":1695884382,
     "wof:name":"T\u00e1chira",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

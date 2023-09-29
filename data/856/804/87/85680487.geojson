@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.629987,
-    "geom:area_square_m":44211131533.103729,
+    "geom:area_square_m":44211129967.786674,
     "geom:bbox":"-73.351558,8.365017,-70.668584,11.840865",
     "geom:latitude":9.916882,
     "geom:longitude":-72.083732,
@@ -374,6 +374,7 @@
         "gn:id":3625035,
         "gp:id":2347699,
         "hasc:id":"VE.ZU",
+        "iso:code":"VE-V",
         "iso:id":"VE-V",
         "loc:id":"n79089267",
         "qs_pg:id":219636,
@@ -381,11 +382,12 @@
         "wd:id":"Q43269",
         "wk:page":"Zulia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b5f636c224089eb916b5d5fe407d4a7",
+    "wof:geomhash":"a1ce3cff3f9c1a7ef13981e5667687a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -400,7 +402,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914956,
+    "wof:lastmodified":1695884967,
     "wof:name":"Zulia",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

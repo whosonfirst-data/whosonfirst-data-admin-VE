@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126517,
-    "geom:area_square_m":1548290300.137053,
+    "geom:area_square_m":1548289984.918699,
     "geom:bbox":"-63.020188,7.979029,-62.4975,8.447935",
     "geom:latitude":8.231103,
     "geom:longitude":-62.752585,
@@ -160,12 +160,13 @@
         "qs_pg:id":1119098,
         "wd:id":"Q2354199"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009651,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d56cf6c4a6231e3d57246ade37931ac0",
+    "wof:geomhash":"b93f26ab95fa900a33343c9ffe8c787b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":421190237,
-    "wof:lastmodified":1690915096,
+    "wof:lastmodified":1695886197,
     "wof:name":"Caroni",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

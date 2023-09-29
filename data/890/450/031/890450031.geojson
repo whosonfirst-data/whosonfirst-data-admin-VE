@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006933,
-    "geom:area_square_m":84348505.284429,
+    "geom:area_square_m":84348548.88902,
     "geom:bbox":"-68.79786,10.218171,-68.671652,10.409831",
     "geom:latitude":10.304166,
     "geom:longitude":-68.726502,
@@ -124,12 +124,13 @@
         "wd:id":"Q607774",
         "wk:page":"Independencia, Venezuela"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1469052721,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd2f54907af185eca8a3138a0a531232",
+    "wof:geomhash":"0a6b532b388fe23bd0a62b880029c950",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":890450031,
-    "wof:lastmodified":1690915142,
+    "wof:lastmodified":1695886198,
     "wof:name":"Independencia",
     "wof:parent_id":85680507,
     "wof:placetype":"county",

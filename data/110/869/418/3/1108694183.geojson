@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034847,
-    "geom:area_square_m":424825362.153371,
+    "geom:area_square_m":424825321.472523,
     "geom:bbox":"-63.819186,9.500668,-63.518877,9.750825",
     "geom:latitude":9.628718,
     "geom:longitude":-63.670607,
@@ -99,9 +99,10 @@
         "hasc:id":"VE.BA.EZ",
         "wd:id":"Q429692"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415600,
-    "wof:geomhash":"be101beb90ca0f5d34c6a9f5ff6a5442",
+    "wof:geomhash":"f0e5eb246f3c3644ef9391cfd71935b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108694183,
-    "wof:lastmodified":1690915013,
+    "wof:lastmodified":1695886378,
     "wof:name":"Ezequiel Zamora",
     "wof:parent_id":85680547,
     "wof:placetype":"county",

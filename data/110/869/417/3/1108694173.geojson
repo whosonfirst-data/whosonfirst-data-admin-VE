@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218841,
-    "geom:area_square_m":2684580315.423628,
+    "geom:area_square_m":2684580777.530287,
     "geom:bbox":"-62.022946,6.748274,-61.610858,7.683678",
     "geom:latitude":7.213373,
     "geom:longitude":-61.77088,
@@ -108,9 +108,10 @@
         "hasc:id":"VE.BO.RO",
         "wd:id":"Q2100029"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415589,
-    "wof:geomhash":"3434ee873942c240c3f1d55abbe04595",
+    "wof:geomhash":"91272700e8a08b3abe73987b3b9b9967",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108694173,
-    "wof:lastmodified":1690915007,
+    "wof:lastmodified":1695886376,
     "wof:name":"El Callao",
     "wof:parent_id":85680517,
     "wof:placetype":"county",

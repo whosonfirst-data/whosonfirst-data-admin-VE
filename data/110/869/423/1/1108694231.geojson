@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005413,
-    "geom:area_square_m":66082141.335642,
+    "geom:area_square_m":66082085.474409,
     "geom:bbox":"-70.952134,9.059849,-70.802733,9.185611",
     "geom:latitude":9.126158,
     "geom:longitude":-70.882096,
@@ -78,9 +78,10 @@
         "hasc:id":"VE.TR.MC",
         "wd:id":"Q1943693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415654,
-    "wof:geomhash":"d1d4593003ca044219ddccca6d264895",
+    "wof:geomhash":"8397fbcd17b296008a31b936f057ba7f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108694231,
-    "wof:lastmodified":1690914989,
+    "wof:lastmodified":1695886371,
     "wof:name":"Julio Cesar Salas",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007093,
-    "geom:area_square_m":86538326.360221,
+    "geom:area_square_m":86538326.360245,
     "geom:bbox":"-70.6027736228,9.26166666667,-70.5386633462,9.45357137883",
     "geom:latitude":9.359889,
     "geom:longitude":-70.571044,
@@ -83,9 +83,10 @@
         "hasc:id":"VE.TR.SR",
         "wd:id":"Q1905292"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415831,
-    "wof:geomhash":"c1369d04169d2883b90d3f023ffa36eb",
+    "wof:geomhash":"6454434d44a548ad19d709bad3b678af",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108694401,
-    "wof:lastmodified":1566645789,
+    "wof:lastmodified":1695886367,
     "wof:name":"San Rafael De Carvajal",
     "wof:parent_id":85680483,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006482,
-    "geom:area_square_m":78872259.276205,
+    "geom:area_square_m":78872013.559784,
     "geom:bbox":"-64.654765,10.180342,-64.486721,10.307083",
     "geom:latitude":10.2258,
     "geom:longitude":-64.557171,
@@ -130,9 +130,10 @@
         "hasc:id":"VE.AN.GU",
         "wd:id":"Q2381428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415626,
-    "wof:geomhash":"a699da4fedf25860fea61302635cd276",
+    "wof:geomhash":"a8c28ff0a7908625636abd1edb976b55",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108694207,
-    "wof:lastmodified":1690915012,
+    "wof:lastmodified":1695886378,
     "wof:name":"Guanta",
     "wof:parent_id":85680521,
     "wof:placetype":"county",

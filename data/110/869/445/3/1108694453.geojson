@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605108,
-    "geom:area_square_m":7364571106.716879,
+    "geom:area_square_m":7364571158.676744,
     "geom:bbox":"-70.877193,9.76419,-69.609404,10.566717",
     "geom:latitude":10.17504,
     "geom:longitude":-70.204047,
@@ -124,9 +124,10 @@
         "hasc:id":"VE.LA.TO",
         "wd:id":"Q3132001"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415877,
-    "wof:geomhash":"c196828a49352edd12d6640aa671af82",
+    "wof:geomhash":"63f1f17f3dc639db64d0b283c1118d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108694453,
-    "wof:lastmodified":1690915017,
+    "wof:lastmodified":1695886380,
     "wof:name":"Torres",
     "wof:parent_id":85680499,
     "wof:placetype":"county",

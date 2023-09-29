@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.838908,
-    "geom:area_square_m":46888626087.832474,
+    "geom:area_square_m":46888627742.74205,
     "geom:bbox":"-65.721854,7.658333,-62.680171,10.314584",
     "geom:latitude":8.943686,
     "geom:longitude":-64.423907,
@@ -388,17 +388,19 @@
         "gn:id":3649198,
         "gp:id":2347678,
         "hasc:id":"VE.AN",
+        "iso:code":"VE-B",
         "iso:id":"VE-B",
         "qs_pg:id":319297,
         "unlc:id":"VE-B",
         "wd:id":"Q190922",
         "wk:page":"Anzo\u00e1tegui"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a55d9b09e17a99d9143df59d5018e582",
+    "wof:geomhash":"bf15064923f02664b85d45df3df8d45e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -413,7 +415,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914964,
+    "wof:lastmodified":1695884383,
     "wof:name":"Anzo\u00e1tegui",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

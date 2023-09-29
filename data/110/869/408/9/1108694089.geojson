@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063905,
-    "geom:area_square_m":779021879.00711,
+    "geom:area_square_m":779022276.172434,
     "geom:bbox":"-68.982513,9.427147,-68.722509,9.868384",
     "geom:latitude":9.646524,
     "geom:longitude":-68.858795,
@@ -100,9 +100,10 @@
         "hasc:id":"VE.CO.AN",
         "wd:id":"Q2545745"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415495,
-    "wof:geomhash":"f61e4900d88e2b45f002bc0f27de010c",
+    "wof:geomhash":"97bc34a0af5021537a5a63582fbd3d38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108694089,
-    "wof:lastmodified":1690914995,
+    "wof:lastmodified":1695886372,
     "wof:name":"Anzoategui",
     "wof:parent_id":85680491,
     "wof:placetype":"county",

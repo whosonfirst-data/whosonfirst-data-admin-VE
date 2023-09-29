@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048425,
-    "geom:area_square_m":591679238.03269,
+    "geom:area_square_m":591679057.683289,
     "geom:bbox":"-71.355931,8.712917,-71.027239,8.949671",
     "geom:latitude":8.837002,
     "geom:longitude":-71.197252,
@@ -97,9 +97,10 @@
         "hasc:id":"VE.ME.CO",
         "wd:id":"Q2623246"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415554,
-    "wof:geomhash":"13f6e7fbc130cecbfd936560342428aa",
+    "wof:geomhash":"5228cf67dc7a8401d398aae1b6b651a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108694145,
-    "wof:lastmodified":1690914981,
+    "wof:lastmodified":1695886368,
     "wof:name":"Caracciolo Parra Olmedo",
     "wof:parent_id":85680473,
     "wof:placetype":"county",

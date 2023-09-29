@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015751,
-    "geom:area_square_m":193085980.294002,
+    "geom:area_square_m":193085486.299309,
     "geom:bbox":"-72.47672,7.399442,-72.380801,7.695367",
     "geom:latitude":7.531331,
     "geom:longitude":-72.430705,
@@ -97,9 +97,10 @@
         "hasc:id":"VE.TA.RU",
         "wd:id":"Q1833236"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415788,
-    "wof:geomhash":"d7607e70c088c7085c3f3aca82fe9a6b",
+    "wof:geomhash":"a923a8e01d22ba145ed7ce2dcff318dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108694363,
-    "wof:lastmodified":1690914997,
+    "wof:lastmodified":1695886372,
     "wof:name":"Rafael Urdaneta",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

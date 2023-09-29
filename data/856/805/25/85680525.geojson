@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.595009,
-    "geom:area_square_m":7246074238.708247,
+    "geom:area_square_m":7246074612.546839,
     "geom:bbox":"-67.88,9.255262,-66.548706,10.542889",
     "geom:latitude":9.974855,
     "geom:longitude":-67.133499,
@@ -378,17 +378,19 @@
         "gn:id":3649110,
         "gp:id":2347680,
         "hasc:id":"VE.AR",
+        "iso:code":"VE-D",
         "iso:id":"VE-D",
         "qs_pg:id":1047609,
         "unlc:id":"VE-D",
         "wd:id":"Q190687",
         "wk:page":"Aragua"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f473f7c836166f12e09ac44eeb5a5df4",
+    "wof:geomhash":"2176c9cb1510bbd3a2d74483801256da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -403,7 +405,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690914968,
+    "wof:lastmodified":1695884968,
     "wof:name":"Aragua",
     "wof:parent_id":85632317,
     "wof:placetype":"region",

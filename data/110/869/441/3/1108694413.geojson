@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372635,
-    "geom:area_square_m":4555552136.774262,
+    "geom:area_square_m":4555551657.859741,
     "geom:bbox":"-65.612591,7.859673,-64.788012,9.085018",
     "geom:latitude":8.624301,
     "geom:longitude":-65.320124,
@@ -125,9 +125,10 @@
         "hasc:id":"VE.GU.SM",
         "wd:id":"Q1581813"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415840,
-    "wof:geomhash":"747ada2c8af3eb1f36aa8d225f8e64b5",
+    "wof:geomhash":"07abc2abe4bfd5f13e6c2d774dbc7d66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108694413,
-    "wof:lastmodified":1690914986,
+    "wof:lastmodified":1695886370,
     "wof:name":"Santa Maria De Ipire",
     "wof:parent_id":85680543,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011141,
-    "geom:area_square_m":136377276.087653,
+    "geom:area_square_m":136376996.821718,
     "geom:bbox":"-72.176288,8.076463,-72.021542,8.218411",
     "geom:latitude":8.135386,
     "geom:longitude":-72.089764,
@@ -96,9 +96,10 @@
         "hasc:id":"VE.TA.SE",
         "wd:id":"Q2015236"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1474415848,
-    "wof:geomhash":"6dc05c31347fd7cfc3304b957ddf63fe",
+    "wof:geomhash":"d96620897addd89a8294ad58ae5c860d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108694423,
-    "wof:lastmodified":1690915016,
+    "wof:lastmodified":1695886379,
     "wof:name":"Seboruco",
     "wof:parent_id":85680481,
     "wof:placetype":"county",

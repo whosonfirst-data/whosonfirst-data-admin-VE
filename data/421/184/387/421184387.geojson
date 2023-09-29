@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084238,
-    "geom:area_square_m":1025513561.348868,
+    "geom:area_square_m":1025513394.833185,
     "geom:bbox":"-65.888573,9.948518,-65.431009,10.222961",
     "geom:latitude":10.0882,
     "geom:longitude":-65.692552,
@@ -130,12 +130,13 @@
         "qs_pg:id":995752,
         "wd:id":"Q2388590"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"VE",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09922e39870315f4cd2b551d75e6864c",
+    "wof:geomhash":"ceb18bc46475d47c5860450f88c02e38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421184387,
-    "wof:lastmodified":1690915105,
+    "wof:lastmodified":1695886198,
     "wof:name":"Pedro Gual",
     "wof:parent_id":85680553,
     "wof:placetype":"county",
