@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":3740348
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3786155
+        ]
+    },
     "wof:country":"VE",
-    "wof:geomhash":"54524650032e422040df3a2c8f68faf2",
+    "wof:geomhash":"4baa35de198a71362623a5b85fc7856d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1193005405,
-    "wof:lastmodified":1566645594,
+    "wof:lastmodified":1706241110,
     "wof:name":"Guaimu",
     "wof:parent_id":421180891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209993787
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -70.17690999999999,
+    -70.17691,
     12.0991,
-    -70.17690999999999,
+    -70.17691,
     12.0991
 ],
-  "geometry": {"coordinates":[-70.17690999999999,12.0991],"type":"Point"}
+  "geometry": {"coordinates":[-70.17691000000001,12.0991],"type":"Point"}
 }

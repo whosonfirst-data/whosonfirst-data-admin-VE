@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3746930
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3794136
+        ]
+    },
     "wof:country":"VE",
     "wof:geomhash":"bc44b8d303a08c7759176271c449a196",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1310176375,
-    "wof:lastmodified":1566645946,
+    "wof:lastmodified":1706241112,
     "wof:name":"Agua Negra",
     "wof:parent_id":421185263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327192343
+    ],
     "wof:tags":[]
 },
   "bbox": [

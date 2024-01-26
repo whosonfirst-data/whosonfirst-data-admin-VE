@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":3773585
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3773584
+        ]
+    },
     "wof:country":"VE",
-    "wof:geomhash":"c414442f8f41c85573accebf9ebb151b",
+    "wof:geomhash":"7cebd08db75963bb5282b14ae87aa4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1326716815,
-    "wof:lastmodified":1566644282,
+    "wof:lastmodified":1706241112,
     "wof:name":"Los Oripopos",
     "wof:parent_id":1108694293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327220339
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -67.50166999999999,
+    -67.50167,
     8.59889,
-    -67.50166999999999,
+    -67.50167,
     8.59889
 ],
-  "geometry": {"coordinates":[-67.50166999999999,8.59889],"type":"Point"}
+  "geometry": {"coordinates":[-67.50167,8.59889],"type":"Point"}
 }

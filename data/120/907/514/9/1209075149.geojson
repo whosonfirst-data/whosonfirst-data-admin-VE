@@ -37,6 +37,11 @@
     "wof:concordances":{
         "gn:id":3481883
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3626131
+        ]
+    },
     "wof:country":"VE",
     "wof:geomhash":"0c2d06e8882ddf27dd21c7d9bc304665",
     "wof:hierarchy":[
@@ -46,13 +51,15 @@
         }
     ],
     "wof:id":1209075149,
-    "wof:lastmodified":1566645322,
+    "wof:lastmodified":1706241110,
     "wof:name":"Tomoporo de Tierra",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259847787
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3484886
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3765897
+        ]
+    },
     "wof:country":"VE",
     "wof:geomhash":"75026fc179b571c5be5c47bd90340cf0",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1242789577,
-    "wof:lastmodified":1566646544,
+    "wof:lastmodified":1706241111,
     "wof:name":"El Negrero",
     "wof:parent_id":421203571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293401771
+    ],
     "wof:tags":[]
 },
   "bbox": [

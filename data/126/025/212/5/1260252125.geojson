@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":3642121
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3742275
+        ]
+    },
     "wof:country":"VE",
     "wof:geomhash":"ff2befc565d2885faff6078f559e37be",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1260252125,
-    "wof:lastmodified":1566645699,
+    "wof:lastmodified":1706241111,
     "wof:name":"El Penon",
     "wof:parent_id":1108694243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310075391
+    ],
     "wof:tags":[]
 },
   "bbox": [

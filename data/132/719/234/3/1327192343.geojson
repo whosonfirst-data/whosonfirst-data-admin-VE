@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-69.16393,10.05647,-69.16393,10.05647",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +43,7 @@
         "gn:id":3794136
     },
     "wof:country":"VE",
-    "wof:geomhash":"773fc2ad239258c29a93892f90504f25",
+    "wof:geomhash":"c33ecffc02ad69163726b169c4c78dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,20 +54,22 @@
         }
     ],
     "wof:id":1327192343,
-    "wof:lastmodified":1566644337,
+    "wof:lastmodified":1706241112,
     "wof:name":"Agua Negra",
     "wof:parent_id":421185263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310176375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -69.16393000000001,
+    -69.16393,
     10.05647,
-    -69.16393000000001,
+    -69.16393,
     10.05647
 ],
-  "geometry": {"coordinates":[-69.16393000000001,10.05647],"type":"Point"}
+  "geometry": {"coordinates":[-69.16392999999999,10.05647],"type":"Point"}
 }

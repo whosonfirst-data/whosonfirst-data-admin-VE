@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3768081
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3784193
+        ]
+    },
     "wof:country":"VE",
     "wof:geomhash":"f4c93922a4cb5de5cd12e0a83c92bad5",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1276625725,
-    "wof:lastmodified":1566645267,
+    "wof:lastmodified":1706241111,
     "wof:name":"El Paraiso",
     "wof:parent_id":1108694131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310688579
+    ],
     "wof:tags":[]
 },
   "bbox": [

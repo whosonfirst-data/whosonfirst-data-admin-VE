@@ -73,6 +73,11 @@
     "wof:concordances":{
         "gn:id":3805092
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3738983
+        ]
+    },
     "wof:country":"VE",
     "wof:geomhash":"f5a1f546a9bdd949084d9f5c53057d2e",
     "wof:hierarchy":[
@@ -85,13 +90,15 @@
         }
     ],
     "wof:id":1225944845,
-    "wof:lastmodified":1566646834,
+    "wof:lastmodified":1706241111,
     "wof:name":"La Manga",
     "wof:parent_id":421190785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327429627
+    ],
     "wof:tags":[]
 },
   "bbox": [
