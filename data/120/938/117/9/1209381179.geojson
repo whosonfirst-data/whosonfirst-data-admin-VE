@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-63.90029,11.05603,-63.90029,11.05603",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tacarigua"
@@ -47,7 +49,7 @@
         "gn:id":3626571
     },
     "wof:country":"VE",
-    "wof:geomhash":"f9309c8014431536f993c0a917bb3570",
+    "wof:geomhash":"f08b44128a3f8b5922a198a2540d0a15",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1209381179,
-    "wof:lastmodified":1566645315,
+    "wof:lastmodified":1706241110,
     "wof:name":"Tacarigua",
     "wof:parent_id":85632317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209280773
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -63.90029000000001,
+    -63.90029,
     11.05603,
-    -63.90029000000001,
+    -63.90029,
     11.05603
 ],
-  "geometry": {"coordinates":[-63.90029000000001,11.05603],"type":"Point"}
+  "geometry": {"coordinates":[-63.90029,11.05603],"type":"Point"}
 }

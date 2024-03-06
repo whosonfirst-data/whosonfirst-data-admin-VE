@@ -92,6 +92,9 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0432\u0456\u043b\u0430\u043d\u0435\u0441"
     ],
+    "name:und_x_variant":[
+        "Los Gavilanes"
+    ],
     "name:uzb_x_preferred":[
         "Gavilanes"
     ],
@@ -115,8 +118,13 @@
     "wof:concordances":{
         "gn:id":3640607
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3634136
+        ]
+    },
     "wof:country":"VE",
-    "wof:geomhash":"aa659a76158921bbec8b9bc8428f203a",
+    "wof:geomhash":"1a7e692b6fcca737376a052c15902398",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,20 +135,22 @@
         }
     ],
     "wof:id":1276502491,
-    "wof:lastmodified":1566645148,
+    "wof:lastmodified":1706241111,
     "wof:name":"Gavilanes",
     "wof:parent_id":1108694195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293248413
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -71.47634000000002,
+    -71.47634,
     8.89258,
-    -71.47634000000002,
+    -71.47634,
     8.89258
 ],
-  "geometry": {"coordinates":[-71.47634000000002,8.89258],"type":"Point"}
+  "geometry": {"coordinates":[-71.47633999999999,8.89258],"type":"Point"}
 }

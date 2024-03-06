@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":3751498
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3777994
+        ]
+    },
     "wof:country":"VE",
-    "wof:geomhash":"e03dc9d37b224af8176cd3884deaaf7d",
+    "wof:geomhash":"c6c1ee51295a29961fa8081359e660f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1326701909,
-    "wof:lastmodified":1566644293,
+    "wof:lastmodified":1706241112,
     "wof:name":"El Maneto",
     "wof:parent_id":1108694065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327115829
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -63.67803000000001,
+    -63.67803,
     9.2718,
-    -63.67803000000001,
+    -63.67803,
     9.2718
 ],
-  "geometry": {"coordinates":[-63.67803000000001,9.2718],"type":"Point"}
+  "geometry": {"coordinates":[-63.67803,9.2718],"type":"Point"}
 }

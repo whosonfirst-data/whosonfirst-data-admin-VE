@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3638228
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3786019
+        ]
+    },
     "wof:country":"VE",
     "wof:geomhash":"69ff5a82006b8021c68d62face14b08f",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1310382797,
-    "wof:lastmodified":1566645862,
+    "wof:lastmodified":1706241112,
     "wof:name":"La Culata",
     "wof:parent_id":421190213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343348841
+    ],
     "wof:tags":[]
 },
   "bbox": [

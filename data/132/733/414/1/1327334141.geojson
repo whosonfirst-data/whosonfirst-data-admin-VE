@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-69.70497,7.6866,-69.70497,7.6866",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Morocay",
@@ -46,7 +48,7 @@
         "gn:id":3631853
     },
     "wof:country":"VE",
-    "wof:geomhash":"8c405bec58a6b6bde72dcf1d0d9cec15",
+    "wof:geomhash":"4a76103b43aade2d171cd94f9631ccc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1327334141,
-    "wof:lastmodified":1566644257,
+    "wof:lastmodified":1706241110,
     "wof:name":"Morrocoy",
     "wof:parent_id":421202593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ve",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193016583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -69.70496999999999,
+    -69.70497,
     7.6866,
-    -69.70496999999999,
+    -69.70497,
     7.6866
 ],
-  "geometry": {"coordinates":[-69.70496999999999,7.6866],"type":"Point"}
+  "geometry": {"coordinates":[-69.70497,7.6866],"type":"Point"}
 }
